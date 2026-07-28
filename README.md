@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-29 02:38:56
+**Last Update:** 2026-07-29 03:00:28
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Underwater Oxygen Loss Threatens Earth's Stability, Researchers Warn
+### 1. Leeaky Catches hidden fees draining your travel budget
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://leeaky.vercel.app/">https://leeaky.vercel.app/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49091048">https://news.ycombinator.com/item?id=49091048</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://leeaky.vercel.app/](https://leeaky.vercel.app/)
+
+---
+
+### 2. Banning AI will not make it go away
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://vishal.rs/essay/banning-ai-will-not-make-it-go-away">https://vishal.rs/essay/banning-ai-will-not-make-it-go-away</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49090999">https://news.ycombinator.com/item?id=49090999</a></p>
+<p>Points: 6</p>
+<p># Comments: 7</p>
+
+🔗 **Read more:** [https://vishal.rs/essay/banning-ai-will-not-make-it-go-away](https://vishal.rs/essay/banning-ai-will-not-make-it-go-away)
+
+---
+
+### 3. Underwater Oxygen Loss Threatens Earth's Stability, Researchers Warn
 
 **Source:** Hacker News
 
@@ -19,43 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://scripps.ucsd.edu/news/underwater-oxygen-loss-threatens-earths-stability-researchers-warn">https://scripps.ucsd.edu/news/underwater-oxygen-loss-threatens-earths-stability-researchers-warn</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49090867">https://news.ycombinator.com/item?id=49090867</a></p>
-<p>Points: 22</p>
-<p># Comments: 3</p>
+<p>Points: 51</p>
+<p># Comments: 27</p>
 
 🔗 **Read more:** [https://scripps.ucsd.edu/news/underwater-oxygen-loss-threatens-earths-stability-researchers-warn](https://scripps.ucsd.edu/news/underwater-oxygen-loss-threatens-earths-stability-researchers-warn)
-
----
-
-### 2. Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>HN is great for the links people share, but a big part of the value I get comes from reading the discussion around them. I realized I was always opening the article in one tab and the comments in another, constantly switching back and forth.<p>I figured there was probably a simpler way, so I threw together this userscript to merge the two.<p>1. Clicking a link from Hacker News opens the article with a side panel containing the discussion. It doesn't require your credentials, is resizable, and is easy to tweak if you want to customize it.<p>2. If you land on an article that has previously been shared on HN, the script finds the existing discussion and adds a button in the top-right to open the panel.<p>Feedback welcome.</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49090607">https://news.ycombinator.com/item?id=49090607</a></p>
-<p>Points: 15</p>
-<p># Comments: 6</p>
-
-🔗 **Read more:** [https://github.com/twalichiewicz/HNewhere](https://github.com/twalichiewicz/HNewhere)
-
----
-
-### 3. Running Kimi K3 on a M1 Max
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/gavamedia/deltafin">https://github.com/gavamedia/deltafin</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49090233">https://news.ycombinator.com/item?id=49090233</a></p>
-<p>Points: 58</p>
-<p># Comments: 38</p>
-
-🔗 **Read more:** [https://github.com/gavamedia/deltafin](https://github.com/gavamedia/deltafin)
 
 ---
 

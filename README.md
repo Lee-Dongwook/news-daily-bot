@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-28 22:21:36
+**Last Update:** 2026-07-28 23:14:45
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. MCP 2026-07-28 Specification: transport going stateless
+### 1. Donate to GrapheneOS
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://grapheneos.org/donate">https://grapheneos.org/donate</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49088451">https://news.ycombinator.com/item?id=49088451</a></p>
+<p>Points: 33</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://grapheneos.org/donate](https://grapheneos.org/donate)
+
+---
+
+### 2. Deflock Casa Grande
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://deflockcg.com/">https://deflockcg.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49088148">https://news.ycombinator.com/item?id=49088148</a></p>
+<p>Points: 110</p>
+<p># Comments: 23</p>
+
+🔗 **Read more:** [https://deflockcg.com/](https://deflockcg.com/)
+
+---
+
+### 3. MCP 2026-07-28 Specification: transport going stateless
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://blog.modelcontextprotocol.io/posts/2026-07-28/">https://blog.modelcontextprotocol.io/posts/2026-07-28/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49088058">https://news.ycombinator.com/item?id=49088058</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Points: 24</p>
+<p># Comments: 10</p>
 
 🔗 **Read more:** [https://blog.modelcontextprotocol.io/posts/2026-07-28/](https://blog.modelcontextprotocol.io/posts/2026-07-28/)
-
----
-
-### 2. Discovering Cryptographic Weaknesses with Claude
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.anthropic.com/research/discovering-cryptographic-weaknesses">https://www.anthropic.com/research/discovering-cryptographic-weaknesses</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49087091">https://news.ycombinator.com/item?id=49087091</a></p>
-<p>Points: 57</p>
-<p># Comments: 17</p>
-
-🔗 **Read more:** [https://www.anthropic.com/research/discovering-cryptographic-weaknesses](https://www.anthropic.com/research/discovering-cryptographic-weaknesses)
-
----
-
-### 3. Scientific computing in the age of agentic AI
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://openai.com/index/scientific-computing-agentic-ai/">https://openai.com/index/scientific-computing-agentic-ai/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49086987">https://news.ycombinator.com/item?id=49086987</a></p>
-<p>Points: 19</p>
-<p># Comments: 3</p>
-
-🔗 **Read more:** [https://openai.com/index/scientific-computing-agentic-ai/](https://openai.com/index/scientific-computing-agentic-ai/)
 
 ---
 
@@ -97,7 +97,33 @@ European football's governing body Uefa reacts furiously to proposals from Fifa 
 
 ---
 
-### 7. Malaysian foreign minister calls for review of UNHCR’s presence
+### 7. West Bank quarry owner appeals to Trump after settler raid
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+West Bank quarry owner appeals to Trump after settler raid
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/28/west-bank-quarry-owner-appeals-to-trump-after-settler-raid?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/28/west-bank-quarry-owner-appeals-to-trump-after-settler-raid?traffic_source=rss)
+
+---
+
+### 8. ‘The dream I carried is gone’: Miscarriages rise amid trauma of Gaza’s war
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+At al-Awda Hospital, doctors say about 70% of pregnancy losses they see are linked to Israel&#039;s genocide and blockade.
+
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/7/28/the-dream-i-carried-is-gone-miscarriages-rise-amid-trauma-of-gazas-war?traffic_source=rss](https://www.aljazeera.com/features/2026/7/28/the-dream-i-carried-is-gone-miscarriages-rise-amid-trauma-of-gazas-war?traffic_source=rss)
+
+---
+
+### 9. Malaysian foreign minister calls for review of UNHCR’s presence
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ European football's governing body Uefa reacts furiously to proposals from Fifa 
 The UN refugee agency is under pressure to impose stricter controls amid rising local backlash against Rohingya.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/28/malaysian-foreign-minister-calls-for-review-of-unhcrs-presence?traffic_source=rss](https://www.aljazeera.com/news/2026/7/28/malaysian-foreign-minister-calls-for-review-of-unhcrs-presence?traffic_source=rss)
-
----
-
-### 8. ‘No freedom at all’: Israeli closures leave West Bank patients trapped
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Palestinians face hours-long waits at Israeli military checkpoints, forcing women to give birth outside hospitals.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/28/no-freedom-at-all-israeli-closures-leave-west-bank-patients-trapped?traffic_source=rss](https://www.aljazeera.com/news/2026/7/28/no-freedom-at-all-israeli-closures-leave-west-bank-patients-trapped?traffic_source=rss)
-
----
-
-### 9. Uganda declares end to Ebola outbreak
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Health minister urges people in the country &#039;to remain alert&#039; and continue observing public health measures.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/28/uganda-declares-end-to-ebola-outbreak?traffic_source=rss](https://www.aljazeera.com/news/2026/7/28/uganda-declares-end-to-ebola-outbreak?traffic_source=rss)
 
 ---
 

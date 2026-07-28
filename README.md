@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-28 20:25:24
+**Last Update:** 2026-07-28 21:12:16
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Xenharmlib (music theory library) adds support for Just Intonation
+### 1. Discovering Cryptographic Weaknesses with Claude
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://xenharmlib.readthedocs.io/en/latest/whats_new_0_4_0.html">https://xenharmlib.readthedocs.io/en/latest/whats_new_0_4_0.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49086059">https://news.ycombinator.com/item?id=49086059</a></p>
-<p>Points: 5</p>
+<p>Article URL: <a href="https://www.anthropic.com/research/discovering-cryptographic-weaknesses">https://www.anthropic.com/research/discovering-cryptographic-weaknesses</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49087091">https://news.ycombinator.com/item?id=49087091</a></p>
+<p>Points: 3</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://xenharmlib.readthedocs.io/en/latest/whats_new_0_4_0.html](https://xenharmlib.readthedocs.io/en/latest/whats_new_0_4_0.html)
+🔗 **Read more:** [https://www.anthropic.com/research/discovering-cryptographic-weaknesses](https://www.anthropic.com/research/discovering-cryptographic-weaknesses)
 
 ---
 
-### 2. You Could Have Come Up with Kimi Delta Attention
+### 2. Scientific computing in the age of agentic AI
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention">https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49085909">https://news.ycombinator.com/item?id=49085909</a></p>
-<p>Points: 70</p>
-<p># Comments: 9</p>
+<p>Article URL: <a href="https://openai.com/index/scientific-computing-agentic-ai/">https://openai.com/index/scientific-computing-agentic-ai/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49086987">https://news.ycombinator.com/item?id=49086987</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention](https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention)
+🔗 **Read more:** [https://openai.com/index/scientific-computing-agentic-ai/](https://openai.com/index/scientific-computing-agentic-ai/)
 
 ---
 
-### 3. How Do I Profile eBPF Code?
+### 3. Steel Bank Common Lisp version 2.6.7
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://naveensrinivasan.com/posts/2026-07-22-how-do-i-profile-ebpf-code/">https://naveensrinivasan.com/posts/2026-07-22-how-do-i-profile-ebpf-code/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49085811">https://news.ycombinator.com/item?id=49085811</a></p>
-<p>Points: 34</p>
+<p>Article URL: <a href="https://sbcl.org/all-news.html?2.6.7">https://sbcl.org/all-news.html?2.6.7</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49086971">https://news.ycombinator.com/item?id=49086971</a></p>
+<p>Points: 3</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://naveensrinivasan.com/posts/2026-07-22-how-do-i-profile-ebpf-code/](https://naveensrinivasan.com/posts/2026-07-22-how-do-i-profile-ebpf-code/)
+🔗 **Read more:** [https://sbcl.org/all-news.html?2.6.7](https://sbcl.org/all-news.html?2.6.7)
 
 ---
 
@@ -71,16 +71,16 @@ Video shows locations across the region where a strong earthquake struck Japan's
 
 ---
 
-### 5. Wildfires in south-west France flare up as region braces for new 40C heatwave
+### 5. Some parents on benefits to get up to £4,500 for child starting apprenticeship
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Firefighters are braced for a sharp rise in temperatures on Wednesday, which could complicate the containment of wildfires in Gironde.
+Some parents on benefits are incentivised to discourage their kids from taking on apprenticeships.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwy4v6e9d2go?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwy4v6e9d2go?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +97,42 @@ European football's governing body Uefa reacts furiously to proposals from Fifa 
 
 ---
 
-### 7. Is Netanyahu’s Trump card losing its power in Israel?
+### 7. Tributes paid to Lindsey Graham at US Capitol ceremony
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-As US ties fray, Netanyahu&#039;s claim to unrivalled influence in Washington is under growing scrutiny.
+Hundreds of officials gathered in the Capitol Rotunda to honour late Republican Senator Lindsey Graham.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/28/is-netanyahus-trump-card-losing-its-power-in-israel?traffic_source=rss](https://www.aljazeera.com/news/2026/7/28/is-netanyahus-trump-card-losing-its-power-in-israel?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/28/tributes-paid-to-lindsey-graham-at-us-capitol-ceremony?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/28/tributes-paid-to-lindsey-graham-at-us-capitol-ceremony?traffic_source=rss)
 
 ---
 
-### 8. Iran rejects Trump frozen funds plan, warns ships of Hormuz transit ban
+### 8. War on Iran: Phase II: Day 17
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Iran rejected Trump’s claim that ships damaged by Iran in the Gulf would be compensated from frozen Iranian funds.
+Political déjà vu as US President Donald Trump says negotiations with Iran are back on.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/28/iran-rejects-trump-frozen-funds-plan-warns-ships-of-hormuz-transit-ban?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/28/iran-rejects-trump-frozen-funds-plan-warns-ships-of-hormuz-transit-ban?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/28/war-on-iran-phase-ii-day-17?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/28/war-on-iran-phase-ii-day-17?traffic_source=rss)
 
 ---
 
-### 9. Trump expresses frustration with Netanyahu before White House meeting
+### 9. Ukraine’s Zelenskyy hails ‘good meeting’ with Trump at White House
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US president says Iran talks progressing, reups threats if diplomacy fails before sit down with Israeli prime minister.
+Discussions included joint production of Patriot missiles in Ukraine to bolster defence against Russian aerial attacks.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/28/trump-expresses-frustration-with-netanyahu-before-white-house-meeting?traffic_source=rss](https://www.aljazeera.com/news/2026/7/28/trump-expresses-frustration-with-netanyahu-before-white-house-meeting?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/28/ukraines-zelenskyy-hails-good-meeting-with-trump-at-white-house?traffic_source=rss](https://www.aljazeera.com/news/2026/7/28/ukraines-zelenskyy-hails-good-meeting-with-trump-at-white-house?traffic_source=rss)
 
 ---
 

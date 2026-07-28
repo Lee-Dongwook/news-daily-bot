@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-28 21:12:16
+**Last Update:** 2026-07-28 22:21:36
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Discovering Cryptographic Weaknesses with Claude
+### 1. MCP 2026-07-28 Specification: transport going stateless
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://blog.modelcontextprotocol.io/posts/2026-07-28/">https://blog.modelcontextprotocol.io/posts/2026-07-28/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49088058">https://news.ycombinator.com/item?id=49088058</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://blog.modelcontextprotocol.io/posts/2026-07-28/](https://blog.modelcontextprotocol.io/posts/2026-07-28/)
+
+---
+
+### 2. Discovering Cryptographic Weaknesses with Claude
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.anthropic.com/research/discovering-cryptographic-weaknesses">https://www.anthropic.com/research/discovering-cryptographic-weaknesses</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49087091">https://news.ycombinator.com/item?id=49087091</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
+<p>Points: 57</p>
+<p># Comments: 17</p>
 
 🔗 **Read more:** [https://www.anthropic.com/research/discovering-cryptographic-weaknesses](https://www.anthropic.com/research/discovering-cryptographic-weaknesses)
 
 ---
 
-### 2. Scientific computing in the age of agentic AI
+### 3. Scientific computing in the age of agentic AI
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://openai.com/index/scientific-computing-agentic-ai/">https://openai.com/index/scientific-computing-agentic-ai/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49086987">https://news.ycombinator.com/item?id=49086987</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Points: 19</p>
+<p># Comments: 3</p>
 
 🔗 **Read more:** [https://openai.com/index/scientific-computing-agentic-ai/](https://openai.com/index/scientific-computing-agentic-ai/)
-
----
-
-### 3. Steel Bank Common Lisp version 2.6.7
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://sbcl.org/all-news.html?2.6.7">https://sbcl.org/all-news.html?2.6.7</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49086971">https://news.ycombinator.com/item?id=49086971</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://sbcl.org/all-news.html?2.6.7](https://sbcl.org/all-news.html?2.6.7)
 
 ---
 
@@ -97,42 +97,42 @@ European football's governing body Uefa reacts furiously to proposals from Fifa 
 
 ---
 
-### 7. Tributes paid to Lindsey Graham at US Capitol ceremony
+### 7. Malaysian foreign minister calls for review of UNHCR’s presence
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Hundreds of officials gathered in the Capitol Rotunda to honour late Republican Senator Lindsey Graham.
+The UN refugee agency is under pressure to impose stricter controls amid rising local backlash against Rohingya.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/28/tributes-paid-to-lindsey-graham-at-us-capitol-ceremony?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/28/tributes-paid-to-lindsey-graham-at-us-capitol-ceremony?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/28/malaysian-foreign-minister-calls-for-review-of-unhcrs-presence?traffic_source=rss](https://www.aljazeera.com/news/2026/7/28/malaysian-foreign-minister-calls-for-review-of-unhcrs-presence?traffic_source=rss)
 
 ---
 
-### 8. War on Iran: Phase II: Day 17
+### 8. ‘No freedom at all’: Israeli closures leave West Bank patients trapped
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Political déjà vu as US President Donald Trump says negotiations with Iran are back on.
+Palestinians face hours-long waits at Israeli military checkpoints, forcing women to give birth outside hospitals.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/28/war-on-iran-phase-ii-day-17?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/28/war-on-iran-phase-ii-day-17?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/28/no-freedom-at-all-israeli-closures-leave-west-bank-patients-trapped?traffic_source=rss](https://www.aljazeera.com/news/2026/7/28/no-freedom-at-all-israeli-closures-leave-west-bank-patients-trapped?traffic_source=rss)
 
 ---
 
-### 9. Ukraine’s Zelenskyy hails ‘good meeting’ with Trump at White House
+### 9. Uganda declares end to Ebola outbreak
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Discussions included joint production of Patriot missiles in Ukraine to bolster defence against Russian aerial attacks.
+Health minister urges people in the country &#039;to remain alert&#039; and continue observing public health measures.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/28/ukraines-zelenskyy-hails-good-meeting-with-trump-at-white-house?traffic_source=rss](https://www.aljazeera.com/news/2026/7/28/ukraines-zelenskyy-hails-good-meeting-with-trump-at-white-house?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/28/uganda-declares-end-to-ebola-outbreak?traffic_source=rss](https://www.aljazeera.com/news/2026/7/28/uganda-declares-end-to-ebola-outbreak?traffic_source=rss)
 
 ---
 

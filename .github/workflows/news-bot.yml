@@ -3,18 +3,8 @@ name: 📰 Multi-News Bot
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *"
-    - cron: "30 2 * * *"
-    - cron: "0 4 * * *"
-    - cron: "30 6 * * *"
-    - cron: "0 8 * * *"
-    - cron: "30 10 * * *"
-    - cron: "0 12 * * *"
-    - cron: "30 14 * * *"
-    - cron: "0 16 * * *"
-    - cron: "30 18 * * *"
-    - cron: "0 20 * * *"
-    - cron: "30 22 * * *"
+    - cron: "0 */1 * * *"
+    - cron: "30 */1 * * *"
 
 permissions:
   contents: write
@@ -187,7 +177,7 @@ jobs:
               json.dump(news_data, f, indent=4, ensure_ascii=False)
 
           readme_lines = []
-          readme_lines.append("# Daily News Bot - 12+ Commits Daily")
+          readme_lines.append("# 📰 Daily News Bot - 48+ Commits Daily")
           readme_lines.append("")
           readme_lines.append("**Last Update:** " + now.strftime("%Y-%m-%d %H:%M:%S"))
           readme_lines.append("")
@@ -195,17 +185,29 @@ jobs:
           readme_lines.append("")
           readme_lines.append("**Sources:** " + ", ".join(set([n["source"] for n in all_news])))
           readme_lines.append("")
-          readme_lines.append("## Latest Headlines")
+          readme_lines.append("---")
+          readme_lines.append("")
+          readme_lines.append("## 📰 Latest News")
           readme_lines.append("")
 
-          for i, news in enumerate(all_news[:5], 1):
-              readme_lines.append(str(i) + ". **[" + news["source"] + "]** " + news["title"])
-              readme_lines.append("   - " + news["description"][:100] + "...")
-              readme_lines.append("   - [Read more](" + news["url"] + ")")
+          for i, news in enumerate(all_news, 1):
+              readme_lines.append("### " + str(i) + ". " + news["title"])
+              readme_lines.append("")
+              readme_lines.append("**Source:** " + news["source"])
+              readme_lines.append("")
+              readme_lines.append("**Category:** " + news["category"])
+              readme_lines.append("")
+              if news["description"] and news["description"] != "":
+                  readme_lines.append("**Description:**")
+                  readme_lines.append(news["description"])
+                  readme_lines.append("")
+              readme_lines.append("🔗 **Read more:** [" + news["url"] + "](" + news["url"] + ")")
+              readme_lines.append("")
+              readme_lines.append("---")
               readme_lines.append("")
 
-          readme_lines.append("---")
-          readme_lines.append("**Built with GitHub Actions**")
+          readme_lines.append("")
+          readme_lines.append("**Built with ❤️ by GitHub Actions**")
 
           readme_text = "\n".join(readme_lines)
 
@@ -252,5 +254,5 @@ jobs:
           TIME=$(date '+%Y-%m-%d %H:%M:%S')
           COUNT=$(ls -1 news/$(date '+%Y-%m-%d')/*.json 2>/dev/null | wc -l || echo "0")
 
-          git commit -m "News update #$COUNT - $TIME"
+          git commit -m "📰 News update #$COUNT - $TIME"
           git push

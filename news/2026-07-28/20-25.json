@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-07-28T20:25:24+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Xenharmlib (music theory library) adds support for Just Intonation",
+            "description": "<p>Article URL: <a href=\"https://xenharmlib.readthedocs.io/en/latest/whats_new_0_4_0.html\">https://xenharmlib.readthedocs.io/en/latest/whats_new_0_4_0.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49086059\">https://news.ycombinator.com/item?id=49086059</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+            "url": "https://xenharmlib.readthedocs.io/en/latest/whats_new_0_4_0.html",
+            "published": "Tue, 28 Jul 2026 16:10:37 +0000",
+            "fetched": "2026-07-28T20:25:24+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "You Could Have Come Up with Kimi Delta Attention",
+            "description": "<p>Article URL: <a href=\"https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention\">https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49085909\">https://news.ycombinator.com/item?id=49085909</a></p>\n<p>Points: 70</p>\n<p># Comments: 9</p>",
+            "url": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
+            "published": "Tue, 28 Jul 2026 16:02:07 +0000",
+            "fetched": "2026-07-28T20:25:24+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "How Do I Profile eBPF Code?",
+            "description": "<p>Article URL: <a href=\"https://naveensrinivasan.com/posts/2026-07-22-how-do-i-profile-ebpf-code/\">https://naveensrinivasan.com/posts/2026-07-22-how-do-i-profile-ebpf-code/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49085811\">https://news.ycombinator.com/item?id=49085811</a></p>\n<p>Points: 34</p>\n<p># Comments: 0</p>",
+            "url": "https://naveensrinivasan.com/posts/2026-07-22-how-do-i-profile-ebpf-code/",
+            "published": "Tue, 28 Jul 2026 15:55:44 +0000",
+            "fetched": "2026-07-28T20:25:24+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "The moment Tuesday's powerful earthquake hit Japan",
+            "description": "Video shows locations across the region where a strong earthquake struck Japan's Kyushu island on 28 July.",
+            "url": "https://www.bbc.co.uk/news/videos/cvg7v55gxnqo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 28 Jul 2026 15:32:37 GMT",
+            "fetched": "2026-07-28T20:25:24+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Wildfires in south-west France flare up as region braces for new 40C heatwave",
+            "description": "Firefighters are braced for a sharp rise in temperatures on Wednesday, which could complicate the containment of wildfires in Gironde.",
+            "url": "https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 28 Jul 2026 16:14:03 GMT",
+            "fetched": "2026-07-28T20:25:24+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Uefa reacts with fury to Infantino World Cup plan",
+            "description": "European football's governing body Uefa reacts furiously to proposals from Fifa to seek private investment in its competitions, including the World Cup.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/c8xng9894z0o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 28 Jul 2026 15:36:29 GMT",
+            "fetched": "2026-07-28T20:25:24+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Is Netanyahu’s Trump card losing its power in Israel?",
+            "description": "As US ties fray, Netanyahu&#039;s claim to unrivalled influence in Washington is under growing scrutiny.",
+            "url": "https://www.aljazeera.com/news/2026/7/28/is-netanyahus-trump-card-losing-its-power-in-israel?traffic_source=rss",
+            "published": "Tue, 28 Jul 2026 15:39:42 +0000",
+            "fetched": "2026-07-28T20:25:24+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran rejects Trump frozen funds plan, warns ships of Hormuz transit ban",
+            "description": "Iran rejected Trump’s claim that ships damaged by Iran in the Gulf would be compensated from frozen Iranian funds.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/iran-rejects-trump-frozen-funds-plan-warns-ships-of-hormuz-transit-ban?traffic_source=rss",
+            "published": "Tue, 28 Jul 2026 15:28:33 +0000",
+            "fetched": "2026-07-28T20:25:24+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump expresses frustration with Netanyahu before White House meeting",
+            "description": "US president says Iran talks progressing, reups threats if diplomacy fails before sit down with Israeli prime minister.",
+            "url": "https://www.aljazeera.com/news/2026/7/28/trump-expresses-frustration-with-netanyahu-before-white-house-meeting?traffic_source=rss",
+            "published": "Tue, 28 Jul 2026 15:21:43 +0000",
+            "fetched": "2026-07-28T20:25:24+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Fairpoint, Meade, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21829",
+            "published": "2026-07-27T11:21:00Z",
+            "fetched": "2026-07-28T20:25:24+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Dolphin",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21776",
+            "published": "2026-07-27T06:00:00Z",
+            "fetched": "2026-07-28T20:25:24+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Twin Butte Ck, Corson, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21835",
+            "published": "2026-07-27T00:31:00Z",
+            "fetched": "2026-07-28T20:25:24+03:30"
+        }
+    ]
+}

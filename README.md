@@ -1,16 +1,49 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-29 02:00:12
+**Last Update:** 2026-07-29 02:38:56
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Running Kimi K3 on a M1 Mac
+### 1. Underwater Oxygen Loss Threatens Earth's Stability, Researchers Warn
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://scripps.ucsd.edu/news/underwater-oxygen-loss-threatens-earths-stability-researchers-warn">https://scripps.ucsd.edu/news/underwater-oxygen-loss-threatens-earths-stability-researchers-warn</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49090867">https://news.ycombinator.com/item?id=49090867</a></p>
+<p>Points: 22</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://scripps.ucsd.edu/news/underwater-oxygen-loss-threatens-earths-stability-researchers-warn](https://scripps.ucsd.edu/news/underwater-oxygen-loss-threatens-earths-stability-researchers-warn)
+
+---
+
+### 2. Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>HN is great for the links people share, but a big part of the value I get comes from reading the discussion around them. I realized I was always opening the article in one tab and the comments in another, constantly switching back and forth.<p>I figured there was probably a simpler way, so I threw together this userscript to merge the two.<p>1. Clicking a link from Hacker News opens the article with a side panel containing the discussion. It doesn't require your credentials, is resizable, and is easy to tweak if you want to customize it.<p>2. If you land on an article that has previously been shared on HN, the script finds the existing discussion and adds a button in the top-right to open the panel.<p>Feedback welcome.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49090607">https://news.ycombinator.com/item?id=49090607</a></p>
+<p>Points: 15</p>
+<p># Comments: 6</p>
+
+🔗 **Read more:** [https://github.com/twalichiewicz/HNewhere](https://github.com/twalichiewicz/HNewhere)
+
+---
+
+### 3. Running Kimi K3 on a M1 Max
 
 **Source:** Hacker News
 
@@ -19,42 +52,10 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/gavamedia/deltafin">https://github.com/gavamedia/deltafin</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49090233">https://news.ycombinator.com/item?id=49090233</a></p>
-<p>Points: 36</p>
-<p># Comments: 23</p>
+<p>Points: 58</p>
+<p># Comments: 38</p>
 
 🔗 **Read more:** [https://github.com/gavamedia/deltafin](https://github.com/gavamedia/deltafin)
-
----
-
-### 2. Anthropic publishes a practical key-recovery attack on HAWK-256
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/anthropics/cryptography-research-demo">https://github.com/anthropics/cryptography-research-demo</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49090083">https://news.ycombinator.com/item?id=49090083</a></p>
-<p>Points: 21</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://github.com/anthropics/cryptography-research-demo](https://github.com/anthropics/cryptography-research-demo)
-
----
-
-### 3. Half-Life ported to Mac OS 9
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://mac-classic.com/news/half-life-ported-to-mac-os-9/">https://mac-classic.com/news/half-life-ported-to-mac-os-9/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49089814">https://news.ycombinator.com/item?id=49089814</a></p>
-<p>Points: 52</p>
-<p># Comments: 20</p>
-
-🔗 **Read more:** [https://mac-classic.com/news/half-life-ported-to-mac-os-9/](https://mac-classic.com/news/half-life-ported-to-mac-os-9/)
 
 ---
 
@@ -97,7 +98,20 @@ Uefa and Prime Minister Andy Burnham criticise proposals from Fifa to seek priva
 
 ---
 
-### 7. Israeli airstrike destroys Gaza City mosque near displacement camp
+### 7. Japan Kumamoto earthquake: What happened, damage, victims, latest updates
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+A magnitude 6.8 earthquake struck Japan&#039;s Kyushu island, causing building collapses, fires and widespread damage.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/28/japan-kumamoto-earthquake-what-happened-damage-victims-latest-updates?traffic_source=rss](https://www.aljazeera.com/news/2026/7/28/japan-kumamoto-earthquake-what-happened-damage-victims-latest-updates?traffic_source=rss)
+
+---
+
+### 8. Israeli airstrike destroys Gaza City mosque near displacement camp
 
 **Source:** Al Jazeera
 
@@ -110,7 +124,7 @@ Video footage captures an Israeli airstrike hitting Al-Muttaqin Mosque in Gaza C
 
 ---
 
-### 8. Donald Trump and world leaders attend Lindsey Graham’s funeral
+### 9. Donald Trump and world leaders attend Lindsey Graham’s funeral
 
 **Source:** Al Jazeera
 
@@ -120,19 +134,6 @@ Video footage captures an Israeli airstrike hitting Al-Muttaqin Mosque in Gaza C
 Donald Trump said Lindsey Graham was a force in politics at the late senator&#039;s funeral in DC.
 
 🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/7/28/donald-trump-and-world-leaders-attend-lindsey-grahams-funeral?traffic_source=rss](https://www.aljazeera.com/gallery/2026/7/28/donald-trump-and-world-leaders-attend-lindsey-grahams-funeral?traffic_source=rss)
-
----
-
-### 9. Iran and Oman exchange proposals to manage Strait of Hormuz
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Omani proposal is based on the Strait of Malacca model, where ships that use the strait provide voluntary fees.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/28/iran-and-oman-exchange-proposals-to-manage-strait-of-hormuz?traffic_source=rss](https://www.aljazeera.com/news/2026/7/28/iran-and-oman-exchange-proposals-to-manage-strait-of-hormuz?traffic_source=rss)
 
 ---
 

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Sample Feed</title>
+    <link>https://example.com</link>
+    <description>A fixture feed for tests</description>
+    <item>
+      <title>First headline</title>
+      <link>https://example.com/first</link>
+      <description>Summary of the first story.</description>
+      <pubDate>Mon, 28 Jul 2026 09:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Second headline</title>
+      <link>https://example.com/second</link>
+      <description>Summary of the second story.</description>
+      <pubDate>Mon, 28 Jul 2026 08:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Third headline</title>
+      <link>https://example.com/third</link>
+      <description>Summary of the third story.</description>
+      <pubDate>Mon, 28 Jul 2026 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fourth headline</title>
+      <link>https://example.com/fourth</link>
+      <description>This one is past the limit.</description>
+      <pubDate>Mon, 28 Jul 2026 07:30:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

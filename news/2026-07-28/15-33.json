@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-07-28T15:33:37+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Google's Beyond Zero: Enterprise Security for the AI Era",
+            "description": "<p>Article URL: <a href=\"https://spawn-queue.acm.org/doi/10.1145/3819083\">https://spawn-queue.acm.org/doi/10.1145/3819083</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49081644\">https://news.ycombinator.com/item?id=49081644</a></p>\n<p>Points: 22</p>\n<p># Comments: 6</p>",
+            "url": "https://spawn-queue.acm.org/doi/10.1145/3819083",
+            "published": "Tue, 28 Jul 2026 09:59:13 +0000",
+            "fetched": "2026-07-28T15:33:37+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "About the security content of macOS Tahoe 26.6",
+            "description": "<p>Article URL: <a href=\"https://support.apple.com/en-us/128067\">https://support.apple.com/en-us/128067</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49081555\">https://news.ycombinator.com/item?id=49081555</a></p>\n<p>Points: 72</p>\n<p># Comments: 28</p>",
+            "url": "https://support.apple.com/en-us/128067",
+            "published": "Tue, 28 Jul 2026 09:45:43 +0000",
+            "fetched": "2026-07-28T15:33:37+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "7.1 Earthquake in Japan",
+            "description": "<p>Article URL: <a href=\"https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&amp;lang=en\">https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang;=en</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49080664\">https://news.ycombinator.com/item?id=49080664</a></p>\n<p>Points: 298</p>\n<p># Comments: 63</p>",
+            "url": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en",
+            "published": "Tue, 28 Jul 2026 07:44:24 +0000",
+            "fetched": "2026-07-28T15:33:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "French patrol boat appears to fire gunshots in the Channel during BBC interview",
+            "description": "Shadow Home Secretary Chris Philp says the vessel fired 17 shots as he was giving a BBC interview.",
+            "url": "https://www.bbc.co.uk/news/articles/cy4ker2y1mko?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 28 Jul 2026 12:01:51 GMT",
+            "fetched": "2026-07-28T15:33:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Schools to offer technical subjects from age 14 in England, Burnham says",
+            "description": "The government wants pupils to take courses like AI and manufacturing which are linked to local jobs.",
+            "url": "https://www.bbc.co.uk/news/articles/cj4k2djd5qpo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 28 Jul 2026 10:25:52 GMT",
+            "fetched": "2026-07-28T15:33:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Naga Munchetty to leave BBC Breakfast after 17 years",
+            "description": "The BBC One show's co-host will swap the TV sofa for the presenter's chair on Radio 5 Live Breakfast.",
+            "url": "https://www.bbc.co.uk/news/articles/cn0ngrpp2p5o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 28 Jul 2026 11:38:26 GMT",
+            "fetched": "2026-07-28T15:33:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Fatal Shooting in ICE Operations",
+            "description": "Trump’s ICE crackdown grows with new funding and hires as deaths and abuse claims draw review.",
+            "url": "https://www.aljazeera.com/video/this-is-america/2026/7/28/fatal-shooting-in-ice-operations?traffic_source=rss",
+            "published": "Tue, 28 Jul 2026 11:42:28 +0000",
+            "fetched": "2026-07-28T15:33:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Tate’s attorney says allegations ‘puts a target on their backs’",
+            "description": "Tate’s attorney says allegations ‘puts a target on their backs’",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/tates-attorney-says-allegations-puts-a-target-on-their?traffic_source=rss",
+            "published": "Tue, 28 Jul 2026 11:36:07 +0000",
+            "fetched": "2026-07-28T15:33:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Authorities open fire amid election unrest in Pakistan-administered Kashmir",
+            "description": "Deadly clashes have erupted in Pakistan-administered Kashmir after weeks of protests and road blockades.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/authorities-open-fire-amid-election-unrest-in-pakistan-administered-kashmir?traffic_source=rss",
+            "published": "Tue, 28 Jul 2026 11:29:18 +0000",
+            "fetched": "2026-07-28T15:33:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Fairpoint, Meade, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21829",
+            "published": "2026-07-27T11:21:00Z",
+            "fetched": "2026-07-28T15:33:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Dolphin",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21776",
+            "published": "2026-07-27T06:00:00Z",
+            "fetched": "2026-07-28T15:33:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Twin Butte Ck, Corson, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21835",
+            "published": "2026-07-27T00:31:00Z",
+            "fetched": "2026-07-28T15:33:37+03:30"
+        }
+    ]
+}

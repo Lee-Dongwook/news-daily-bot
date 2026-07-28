@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-28 23:14:45
+**Last Update:** 2026-07-29 00:08:18
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Donate to GrapheneOS
+### 1. Hulios: An eBPF-powered, transparent Tor gateway for Linux
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://grapheneos.org/donate">https://grapheneos.org/donate</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49088451">https://news.ycombinator.com/item?id=49088451</a></p>
-<p>Points: 33</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://github.com/ghaziwali/Hulios">https://github.com/ghaziwali/Hulios</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49089045">https://news.ycombinator.com/item?id=49089045</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://grapheneos.org/donate](https://grapheneos.org/donate)
+🔗 **Read more:** [https://github.com/ghaziwali/Hulios](https://github.com/ghaziwali/Hulios)
 
 ---
 
-### 2. Deflock Casa Grande
+### 2. Granola for Apple Watch
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://deflockcg.com/">https://deflockcg.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49088148">https://news.ycombinator.com/item?id=49088148</a></p>
-<p>Points: 110</p>
-<p># Comments: 23</p>
+<p>Article URL: <a href="https://www.granola.ai/blog/granola-for-apple-watch">https://www.granola.ai/blog/granola-for-apple-watch</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49089026">https://news.ycombinator.com/item?id=49089026</a></p>
+<p>Points: 7</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://deflockcg.com/](https://deflockcg.com/)
+🔗 **Read more:** [https://www.granola.ai/blog/granola-for-apple-watch](https://www.granola.ai/blog/granola-for-apple-watch)
 
 ---
 
-### 3. MCP 2026-07-28 Specification: transport going stateless
+### 3. Uv 0.12.0
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.modelcontextprotocol.io/posts/2026-07-28/">https://blog.modelcontextprotocol.io/posts/2026-07-28/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49088058">https://news.ycombinator.com/item?id=49088058</a></p>
-<p>Points: 24</p>
-<p># Comments: 10</p>
+<p>Article URL: <a href="https://github.com/astral-sh/uv/releases/tag/0.12.0">https://github.com/astral-sh/uv/releases/tag/0.12.0</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49088887">https://news.ycombinator.com/item?id=49088887</a></p>
+<p>Points: 52</p>
+<p># Comments: 25</p>
 
-🔗 **Read more:** [https://blog.modelcontextprotocol.io/posts/2026-07-28/](https://blog.modelcontextprotocol.io/posts/2026-07-28/)
+🔗 **Read more:** [https://github.com/astral-sh/uv/releases/tag/0.12.0](https://github.com/astral-sh/uv/releases/tag/0.12.0)
 
 ---
 
@@ -84,55 +84,55 @@ Some parents on benefits are incentivised to discourage their kids from taking o
 
 ---
 
-### 6. Uefa reacts with fury to Infantino World Cup plan
+### 6. Uefa and PM criticise Infantino World Cup plan
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-European football's governing body Uefa reacts furiously to proposals from Fifa to seek private investment in its competitions, including the World Cup.
+Uefa and Prime Minister Andy Burnham criticise proposals from Fifa to seek private investment in its competitions, including the World Cup.
 
 🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/c8xng9894z0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/c8xng9894z0o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. West Bank quarry owner appeals to Trump after settler raid
+### 7. Keiko Fujimori sworn in as Peru president after narrow election win
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-West Bank quarry owner appeals to Trump after settler raid
+Fujimori takes office promising an iron-fisted crackdown on crime, as critics fear a return to her father&#039;s tactics.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/28/west-bank-quarry-owner-appeals-to-trump-after-settler-raid?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/28/west-bank-quarry-owner-appeals-to-trump-after-settler-raid?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/28/keiko-fujimori-sworn-in-as-peru-president-after-narrow-election-win?traffic_source=rss](https://www.aljazeera.com/news/2026/7/28/keiko-fujimori-sworn-in-as-peru-president-after-narrow-election-win?traffic_source=rss)
 
 ---
 
-### 8. ‘The dream I carried is gone’: Miscarriages rise amid trauma of Gaza’s war
+### 8. How US defence aid shaped Israel’s military developments since Oct 7, 2023
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-At al-Awda Hospital, doctors say about 70% of pregnancy losses they see are linked to Israel&#039;s genocide and blockade.
+US-Israel defence cooperation spans decades, including a $33bn, 10-year memorandum of understanding signed in 2016.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/7/28/the-dream-i-carried-is-gone-miscarriages-rise-amid-trauma-of-gazas-war?traffic_source=rss](https://www.aljazeera.com/features/2026/7/28/the-dream-i-carried-is-gone-miscarriages-rise-amid-trauma-of-gazas-war?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/7/28/how-us-defence-aid-shaped-israels-military-developments-since-oct-7-2023?traffic_source=rss](https://www.aljazeera.com/economy/2026/7/28/how-us-defence-aid-shaped-israels-military-developments-since-oct-7-2023?traffic_source=rss)
 
 ---
 
-### 9. Malaysian foreign minister calls for review of UNHCR’s presence
+### 9. New poll shows confusion over Democratic Socialists of America ideals
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The UN refugee agency is under pressure to impose stricter controls amid rising local backlash against Rohingya.
+Democratic socialists face mixed understanding, with 49% of Americans saying they grasp their policies, poll shows.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/28/malaysian-foreign-minister-calls-for-review-of-unhcrs-presence?traffic_source=rss](https://www.aljazeera.com/news/2026/7/28/malaysian-foreign-minister-calls-for-review-of-unhcrs-presence?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/28/new-poll-shows-confusion-over-democratic-socialists-of-america-ideals?traffic_source=rss](https://www.aljazeera.com/news/2026/7/28/new-poll-shows-confusion-over-democratic-socialists-of-america-ideals?traffic_source=rss)
 
 ---
 

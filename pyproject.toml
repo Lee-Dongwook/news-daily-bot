@@ -1,0 +1,13 @@
+[tool.ruff]
+target-version = "py312"
+line-length = 100
+extend-exclude = ["news", "stats"]
+
+[tool.ruff.lint]
+# Pyflakes (F), pycodestyle errors (E) and warnings (W), isort (I), pyupgrade (UP),
+# flake8-bugbear (B). BLE001 (blind-except) is opted into per-line where the
+# original best-effort "swallow and print" behavior is intentional.
+select = ["E", "W", "F", "I", "UP", "B"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

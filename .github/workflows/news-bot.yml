@@ -209,41 +209,42 @@ jobs:
           # ====== UPDATE README ======
           readme = f"""# 📰 Daily News Bot - 12+ Commits Daily
 
-  This bot fetches news **12 times per day** from multiple sources.
+This bot fetches news **12 times per day** from multiple sources.
 
-  ## 🕐 Latest Update
-  - **Time:** {now.strftime('%Y-%m-%d %H:%M:%S')}
-  - **Timezone:** Asia/Tehran
-  - **Total News:** {len(all_news)}
-  - **Sources:** {', '.join(set([n['source'] for n in all_news]))}
+## 🕐 Latest Update
+- **Time:** {now.strftime('%Y-%m-%d %H:%M:%S')}
+- **Timezone:** Asia/Tehran
+- **Total News:** {len(all_news)}
+- **Sources:** {', '.join(set([n['source'] for n in all_news]))}
 
-  ## 📊 Today's Stats
-  - **Files today:** {len(os.listdir(f'news/{date_str}')) if os.path.exists(f'news/{date_str}') else 0}
-  - **Commits today:** {len(os.listdir(f'news/{date_str}')) if os.path.exists(f'news/{date_str}') else 0}
+## 📊 Today's Stats
+- **Files today:** {len(os.listdir(f'news/{date_str}')) if os.path.exists(f'news/{date_str}') else 0}
+- **Commits today:** {len(os.listdir(f'news/{date_str}')) if os.path.exists(f'news/{date_str}') else 0}
 
-  ## 🔥 Latest Headlines
+## 🔥 Latest Headlines
 
-  """
+"""
           for i, news in enumerate(all_news[:5], 1):
               readme += f"""
-  {i}. **[{news['source']}]** {news['title']}
-     - 📝 {news['description'][:100]}...
-     - 🔗 [Read more]({news['url']})
-  """
+{i}. **[{news['source']}]** {news['title']}
+   - 📝 {news['description'][:100]}...
+   - 🔗 [Read more]({news['url']})
+"""
 
           readme += f"""
 
-  ---
-  ## 📂 File Structure
+---
+## 📂 File Structure
 
 ```
+
 news/
 └── {date_str}/
 ├── 00-00.json
 ├── 02-30.json
 └── ...
-```
 
+```
 
 ## 🎯 Sources Used
 - NewsAPI (from GitHub Secrets)
@@ -258,52 +259,52 @@ news/
 **Built with ❤️ by GitHub Actions**
 """
 
-        with open("README.md", "w", encoding="utf8") as f:
-            f.write(readme)
+          with open("README.md", "w", encoding="utf8") as f:
+              f.write(readme)
 
-        # ====== CREATE COMMIT LOG ======
-        log_entry = f"{now.isoformat(timespec='seconds')} | {len(all_news)} news | {len(set([n['source'] for n in all_news]))} sources"
-        
-        with open("commit-log.txt", "a", encoding="utf8") as f:
-            f.write(f"{log_entry}\n")
+          # ====== CREATE COMMIT LOG ======
+          log_entry = f"{now.isoformat(timespec='seconds')} | {len(all_news)} news | {len(set([n['source'] for n in all_news]))} sources"
+          
+          with open("commit-log.txt", "a", encoding="utf8") as f:
+              f.write(f"{log_entry}\n")
 
-        # ====== DAILY STATS ======
-        os.makedirs("stats", exist_ok=True)
-        stats_file = f"stats/{date_str}.json"
-        
-        try:
-            with open(stats_file, "r", encoding="utf8") as f:
-                stats = json.load(f)
-        except FileNotFoundError:
-            stats = {"date": date_str, "commits": [], "total_news": 0}
-        
-        stats["commits"].append({
-            "time": time_str,
-            "news_count": len(all_news),
-            "sources": list(set([n['source'] for n in all_news]))
-        })
-        stats["total_news"] += len(all_news)
-        
-        with open(stats_file, "w", encoding="utf8") as f:
-            json.dump(stats, f, indent=4, ensure_ascii=False)
+          # ====== DAILY STATS ======
+          os.makedirs("stats", exist_ok=True)
+          stats_file = f"stats/{date_str}.json"
+          
+          try:
+              with open(stats_file, "r", encoding="utf8") as f:
+                  stats = json.load(f)
+          except FileNotFoundError:
+              stats = {"date": date_str, "commits": [], "total_news": 0}
+          
+          stats["commits"].append({
+              "time": time_str,
+              "news_count": len(all_news),
+              "sources": list(set([n['source'] for n in all_news]))
+          })
+          stats["total_news"] += len(all_news)
+          
+          with open(stats_file, "w", encoding="utf8") as f:
+              json.dump(stats, f, indent=4, ensure_ascii=False)
 
-        print(f"✅ Saved {len(all_news)} news items")
-        EOF
+          print(f"✅ Saved {len(all_news)} news items")
+          EOF
 
-    - name: Commit and Push
-      run: |
-        git config user.name "VIDAKHOSHPEY22"
-        git config user.email "vidatwin18@gmail.com"
+      - name: Commit and Push
+        run: |
+          git config user.name "VIDAKHOSHPEY22"
+          git config user.email "vidatwin18@gmail.com"
 
-        git add .
+          git add .
 
-        if git diff --cached --quiet; then
-          echo "No changes to commit"
-          exit 0
-        fi
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
 
-        TIME=$(date '+%Y-%m-%d %H:%M:%S')
-        COUNT=$(ls -1 news/$(date '+%Y-%m-%d')/*.json 2>/dev/null | wc -l || echo "0")
-        
-        git commit -m "📰 News update #$COUNT - $TIME"
-        git push
+          TIME=$(date '+%Y-%m-%d %H:%M:%S')
+          COUNT=$(ls -1 news/$(date '+%Y-%m-%d')/*.json 2>/dev/null | wc -l || echo "0")
+          
+          git commit -m "📰 News update #$COUNT - $TIME"
+          git push

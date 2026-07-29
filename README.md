@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-29 13:14:26
+**Last Update:** 2026-07-29 13:32:53
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers">https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49094346">https://news.ycombinator.com/item?id=49094346</a></p>
-<p>Points: 40</p>
-<p># Comments: 6</p>
+<p>Points: 45</p>
+<p># Comments: 10</p>
 
 🔗 **Read more:** [https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers](https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes">https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49093569">https://news.ycombinator.com/item?id=49093569</a></p>
-<p>Points: 175</p>
-<p># Comments: 52</p>
+<p>Points: 176</p>
+<p># Comments: 58</p>
 
 🔗 **Read more:** [https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes](https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes)
 
@@ -52,7 +52,7 @@
 <p>Article URL: <a href="https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html">https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49093435">https://news.ycombinator.com/item?id=49093435</a></p>
 <p>Points: 44</p>
-<p># Comments: 11</p>
+<p># Comments: 13</p>
 
 🔗 **Read more:** [https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html](https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html)
 

@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-29 10:41:24
+**Last Update:** 2026-07-29 11:15:08
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, Al Jazeera, BBC
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes">https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49093569">https://news.ycombinator.com/item?id=49093569</a></p>
-<p>Points: 87</p>
-<p># Comments: 13</p>
+<p>Points: 112</p>
+<p># Comments: 26</p>
 
 🔗 **Read more:** [https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes](https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html">https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49093435">https://news.ycombinator.com/item?id=49093435</a></p>
-<p>Points: 26</p>
-<p># Comments: 1</p>
+<p>Points: 33</p>
+<p># Comments: 3</p>
 
 🔗 **Read more:** [https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html](https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.datagubbe.se/scenegui/">https://www.datagubbe.se/scenegui/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49093434">https://news.ycombinator.com/item?id=49093434</a></p>
-<p>Points: 76</p>
-<p># Comments: 10</p>
+<p>Points: 107</p>
+<p># Comments: 12</p>
 
 🔗 **Read more:** [https://www.datagubbe.se/scenegui/](https://www.datagubbe.se/scenegui/)
 
@@ -84,20 +84,33 @@ The actor and musician faces allegations from 10 women in total who say he mistr
 
 ---
 
-### 6. Polanski says guillotine re-post was mistake but refuses to apologise
+### 6. Saudi Arabia joins US in strikes on Iran-backed militia
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The Green leader re-posted a photo of a man wearing a guillotine t-shirt and the name Nigel.
+US Central Command says the proxy group launched attacks against US bases and Saudi energy infrastructure.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c89np278qwvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c89np278qwvo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Why Netanyahu didn’t want a Zelenskyy moment with Trump
+### 7. India’s youth have broken Modi’s spell
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+At Jantar Mantar, satire and defiance punctured the prime minister’s aura of invulnerability.
+
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/7/29/indias-youth-have-broken-modis-spell?traffic_source=rss](https://www.aljazeera.com/opinions/2026/7/29/indias-youth-have-broken-modis-spell?traffic_source=rss)
+
+---
+
+### 8. Why Netanyahu didn’t want a Zelenskyy moment with Trump
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Diplomats Jeffrey Feltman and Michael Ratney
 
 ---
 
-### 8. Iran attacks US bases in Middle East as Trump meets Netanyahu
+### 9. Iran attacks US bases in Middle East as Trump meets Netanyahu
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Diplomats Jeffrey Feltman and Michael Ratney
 Iran has also struck three ships in the Strait of Hormuz and rejected Oman’s proposal on managing the waterway.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/29/iran-attacks-us-bases-in-middle-east-as-trump-meets-netanyahu?traffic_source=rss](https://www.aljazeera.com/news/2026/7/29/iran-attacks-us-bases-in-middle-east-as-trump-meets-netanyahu?traffic_source=rss)
-
----
-
-### 9. China puts the ‘squeeze’ on Taiwan with new maritime patrols
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-New law enforcement operations could quickly escalate into a blockade of Taiwan, say analysts.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/29/china-puts-squeeze-on-taiwan-with-new-maritime-patrols?traffic_source=rss](https://www.aljazeera.com/news/2026/7/29/china-puts-squeeze-on-taiwan-with-new-maritime-patrols?traffic_source=rss)
 
 ---
 

@@ -1,61 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-29 21:59:46
+**Last Update:** 2026-07-29 22:51:20
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. PgDog (YC P25) Is Hiring
+### 1. Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer">https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49100056">https://news.ycombinator.com/item?id=49100056</a></p>
-<p>Points: 0</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.emergingtrajectories.com/lh/commodification-and-circularity/">https://www.emergingtrajectories.com/lh/commodification-and-circularity/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49101529">https://news.ycombinator.com/item?id=49101529</a></p>
+<p>Points: 6</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer](https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer)
+🔗 **Read more:** [https://www.emergingtrajectories.com/lh/commodification-and-circularity/](https://www.emergingtrajectories.com/lh/commodification-and-circularity/)
 
 ---
 
-### 2. Show HN: CheapFoodMap – A map of good meals under $10
+### 2. Austerity Breeds Financial Protectionism
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>I was recently laid off after 18 years, and gave myself 100 days to build soething useful in public. CheapFoodMap is a crowdsourced map of meal under $10, excluding franchises, local good eats only.<p>It's inspried by 거지맵 (Begger's Map) a Korean crowdsourced map students use to find cheap eats.<p>Ocverage is heaviest in Texas, since I live in Dallas, but have 1200 meals across 15 US cities. Seed data came from Google Review, 4.2 star or higher with at least 500 reviews, and verified price under $10 per menu item.<p>Things I would love feedback on : whether the price-freshness model makes sense, and what would make you trust the price on a site like this. How to encourage people to update prices, since inflation is making food price very frequent.<p>https://cheapfoodmap.com<p>Any and all suggestion will be super helpful. Thank you!</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49100043">https://news.ycombinator.com/item?id=49100043</a></p>
-<p>Points: 14</p>
-<p># Comments: 13</p>
+<p>Article URL: <a href="https://theloop.ecpr.eu/who-the-welfare-state-protects-shapes-a-countrys-financial-openness/">https://theloop.ecpr.eu/who-the-welfare-state-protects-shapes-a-countrys-financial-openness/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49101460">https://news.ycombinator.com/item?id=49101460</a></p>
+<p>Points: 6</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://cheapfoodmap.com/](https://cheapfoodmap.com/)
+🔗 **Read more:** [https://theloop.ecpr.eu/who-the-welfare-state-protects-shapes-a-countrys-financial-openness/](https://theloop.ecpr.eu/who-the-welfare-state-protects-shapes-a-countrys-financial-openness/)
 
 ---
 
-### 3. Some thoughts about Anthropic's new cryptanalysis results
+### 3. The motion-sickness cure hidden in iPhone settings
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/">https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49099804">https://news.ycombinator.com/item?id=49099804</a></p>
-<p>Points: 23</p>
-<p># Comments: 5</p>
+<p>Article URL: <a href="https://www.bbc.com/future/article/20260728-dancing-dots-the-motion-sickness-cure-hidden-in-your-iphone-settings">https://www.bbc.com/future/article/20260728-dancing-dots-the-motion-sickness-cure-hidden-in-your-iphone-settings</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49101371">https://news.ycombinator.com/item?id=49101371</a></p>
+<p>Points: 5</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/](https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/)
+🔗 **Read more:** [https://www.bbc.com/future/article/20260728-dancing-dots-the-motion-sickness-cure-hidden-in-your-iphone-settings](https://www.bbc.com/future/article/20260728-dancing-dots-the-motion-sickness-cure-hidden-in-your-iphone-settings)
 
 ---
 
@@ -98,42 +97,42 @@ Police discovered messy side rooms strewn with rubbish at the Legacy funeral hom
 
 ---
 
-### 7. Japan earthquake leaves widespread destruction
+### 7. Hindus take holy dip in India’s rivers on sacred holiday
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Japan earthquake leaves widespread destruction
+Footage shows tens of thousands of Hindu devotees bathing in India’s Ganga and Saryu rivers to mark Guru Purnima.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/29/japan-earthquake-leaves-widespread-destruction?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/29/japan-earthquake-leaves-widespread-destruction?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/29/hindus-take-holy-dip-in-indias-rivers-on-sacred-holiday?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/29/hindus-take-holy-dip-in-indias-rivers-on-sacred-holiday?traffic_source=rss)
 
 ---
 
-### 8. South Korea’s stock market plunges as AI-driven boom fades
+### 8. Bordeaux wildfire battle continues amid extreme heat
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The benchmark KOSPI .KS11 sees steep decline as interest in chipmakers falls.
+Firefighters are on high alert in France as scorching temperatures and winds threaten to fuel wildfire west of Bordeaux
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/7/29/south-koreas-stock-market-plunges-as-ai-driven-boom-fades?traffic_source=rss](https://www.aljazeera.com/economy/2026/7/29/south-koreas-stock-market-plunges-as-ai-driven-boom-fades?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/29/bordeaux-wildfire-battle-continues-amid-extreme-heat?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/29/bordeaux-wildfire-battle-continues-amid-extreme-heat?traffic_source=rss)
 
 ---
 
-### 9. Iran pushes back against US as regional attacks heat up
+### 9. Dr Anthony Fauci pleads the Fifth at Covid hearing
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-New round of strikes raises fears of further escalation as Iran rejects Omani proposal for joint Hormuz oversight.
+Dr Anthony Fauci declined to answer questions at a Senate hearing on the origins of the Covid-19 pandemic.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/29/iran-pushes-back-against-us-as-regional-attacks-heat-up?traffic_source=rss](https://www.aljazeera.com/news/2026/7/29/iran-pushes-back-against-us-as-regional-attacks-heat-up?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/29/dr-anthony-fauci-pleads-the-fifth-at-covid-hearing?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/29/dr-anthony-fauci-pleads-the-fifth-at-covid-hearing?traffic_source=rss)
 
 ---
 

@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-07-29T00:08:18+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Hulios: An eBPF-powered, transparent Tor gateway for Linux",
+            "description": "<p>Article URL: <a href=\"https://github.com/ghaziwali/Hulios\">https://github.com/ghaziwali/Hulios</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49089045\">https://news.ycombinator.com/item?id=49089045</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+            "url": "https://github.com/ghaziwali/Hulios",
+            "published": "Tue, 28 Jul 2026 19:54:38 +0000",
+            "fetched": "2026-07-29T00:08:18+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Granola for Apple Watch",
+            "description": "<p>Article URL: <a href=\"https://www.granola.ai/blog/granola-for-apple-watch\">https://www.granola.ai/blog/granola-for-apple-watch</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49089026\">https://news.ycombinator.com/item?id=49089026</a></p>\n<p>Points: 7</p>\n<p># Comments: 1</p>",
+            "url": "https://www.granola.ai/blog/granola-for-apple-watch",
+            "published": "Tue, 28 Jul 2026 19:52:53 +0000",
+            "fetched": "2026-07-29T00:08:18+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Uv 0.12.0",
+            "description": "<p>Article URL: <a href=\"https://github.com/astral-sh/uv/releases/tag/0.12.0\">https://github.com/astral-sh/uv/releases/tag/0.12.0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49088887\">https://news.ycombinator.com/item?id=49088887</a></p>\n<p>Points: 52</p>\n<p># Comments: 25</p>",
+            "url": "https://github.com/astral-sh/uv/releases/tag/0.12.0",
+            "published": "Tue, 28 Jul 2026 19:41:33 +0000",
+            "fetched": "2026-07-29T00:08:18+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "The moment Tuesday's powerful earthquake hit Japan",
+            "description": "Video shows locations across the region where a strong earthquake struck Japan's Kyushu island on 28 July.",
+            "url": "https://www.bbc.co.uk/news/videos/cvg7v55gxnqo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 28 Jul 2026 15:32:37 GMT",
+            "fetched": "2026-07-29T00:08:18+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Some parents on benefits to get up to £4,500 for child starting apprenticeship",
+            "description": "Some parents on benefits are incentivised to discourage their kids from taking on apprenticeships.",
+            "url": "https://www.bbc.co.uk/news/articles/cwy4v6e9d2go?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 28 Jul 2026 17:32:56 GMT",
+            "fetched": "2026-07-29T00:08:18+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Uefa and PM criticise Infantino World Cup plan",
+            "description": "Uefa and Prime Minister Andy Burnham criticise proposals from Fifa to seek private investment in its competitions, including the World Cup.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/c8xng9894z0o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 28 Jul 2026 15:36:29 GMT",
+            "fetched": "2026-07-29T00:08:18+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Keiko Fujimori sworn in as Peru president after narrow election win",
+            "description": "Fujimori takes office promising an iron-fisted crackdown on crime, as critics fear a return to her father&#039;s tactics.",
+            "url": "https://www.aljazeera.com/news/2026/7/28/keiko-fujimori-sworn-in-as-peru-president-after-narrow-election-win?traffic_source=rss",
+            "published": "Tue, 28 Jul 2026 20:14:09 +0000",
+            "fetched": "2026-07-29T00:08:18+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "How US defence aid shaped Israel’s military developments since Oct 7, 2023",
+            "description": "US-Israel defence cooperation spans decades, including a $33bn, 10-year memorandum of understanding signed in 2016.",
+            "url": "https://www.aljazeera.com/economy/2026/7/28/how-us-defence-aid-shaped-israels-military-developments-since-oct-7-2023?traffic_source=rss",
+            "published": "Tue, 28 Jul 2026 20:11:04 +0000",
+            "fetched": "2026-07-29T00:08:18+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "New poll shows confusion over Democratic Socialists of America ideals",
+            "description": "Democratic socialists face mixed understanding, with 49% of Americans saying they grasp their policies, poll shows.",
+            "url": "https://www.aljazeera.com/news/2026/7/28/new-poll-shows-confusion-over-democratic-socialists-of-america-ideals?traffic_source=rss",
+            "published": "Tue, 28 Jul 2026 19:56:07 +0000",
+            "fetched": "2026-07-29T00:08:18+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Fairpoint, Meade, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21829",
+            "published": "2026-07-27T11:21:00Z",
+            "fetched": "2026-07-29T00:08:18+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Dolphin",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21776",
+            "published": "2026-07-27T06:00:00Z",
+            "fetched": "2026-07-29T00:08:18+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Twin Butte Ck, Corson, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21835",
+            "published": "2026-07-27T00:31:00Z",
+            "fetched": "2026-07-29T00:08:18+03:30"
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-07-29T03:00:28+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Leeaky Catches hidden fees draining your travel budget",
+            "description": "<p>Article URL: <a href=\"https://leeaky.vercel.app/\">https://leeaky.vercel.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49091048\">https://news.ycombinator.com/item?id=49091048</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://leeaky.vercel.app/",
+            "published": "Tue, 28 Jul 2026 22:50:05 +0000",
+            "fetched": "2026-07-29T03:00:28+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Banning AI will not make it go away",
+            "description": "<p>Article URL: <a href=\"https://vishal.rs/essay/banning-ai-will-not-make-it-go-away\">https://vishal.rs/essay/banning-ai-will-not-make-it-go-away</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49090999\">https://news.ycombinator.com/item?id=49090999</a></p>\n<p>Points: 6</p>\n<p># Comments: 7</p>",
+            "url": "https://vishal.rs/essay/banning-ai-will-not-make-it-go-away",
+            "published": "Tue, 28 Jul 2026 22:45:13 +0000",
+            "fetched": "2026-07-29T03:00:28+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Underwater Oxygen Loss Threatens Earth's Stability, Researchers Warn",
+            "description": "<p>Article URL: <a href=\"https://scripps.ucsd.edu/news/underwater-oxygen-loss-threatens-earths-stability-researchers-warn\">https://scripps.ucsd.edu/news/underwater-oxygen-loss-threatens-earths-stability-researchers-warn</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49090867\">https://news.ycombinator.com/item?id=49090867</a></p>\n<p>Points: 51</p>\n<p># Comments: 27</p>",
+            "url": "https://scripps.ucsd.edu/news/underwater-oxygen-loss-threatens-earths-stability-researchers-warn",
+            "published": "Tue, 28 Jul 2026 22:31:14 +0000",
+            "fetched": "2026-07-29T03:00:28+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "The moment Tuesday's powerful earthquake hit Japan",
+            "description": "Video shows locations across the region where a strong earthquake struck Japan's Kyushu island on 28 July.",
+            "url": "https://www.bbc.co.uk/news/videos/cvg7v55gxnqo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 28 Jul 2026 15:32:37 GMT",
+            "fetched": "2026-07-29T03:00:28+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Some parents on benefits to get up to £4,500 for child starting apprenticeship",
+            "description": "Some parents on benefits lose income if their children take on apprenticeships.",
+            "url": "https://www.bbc.co.uk/news/articles/cwy4v6e9d2go?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 28 Jul 2026 17:32:56 GMT",
+            "fetched": "2026-07-29T03:00:28+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Uefa and PM criticise Infantino World Cup plan",
+            "description": "Uefa and Prime Minister Andy Burnham criticise proposals from Fifa to seek private investment in its competitions, including the World Cup.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/c8xng9894z0o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 28 Jul 2026 15:36:29 GMT",
+            "fetched": "2026-07-29T03:00:28+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Japan Kumamoto earthquake: What happened, damage, victims, latest updates",
+            "description": "A magnitude 6.8 earthquake struck Japan&#039;s Kyushu island, causing building collapses, fires and widespread damage.",
+            "url": "https://www.aljazeera.com/news/2026/7/28/japan-kumamoto-earthquake-what-happened-damage-victims-latest-updates?traffic_source=rss",
+            "published": "Tue, 28 Jul 2026 21:59:40 +0000",
+            "fetched": "2026-07-29T03:00:28+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli airstrike destroys Gaza City mosque near displacement camp",
+            "description": "Video footage captures an Israeli airstrike hitting Al-Muttaqin Mosque in Gaza City, next to Yarmouk Stadium",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/israeli-airstrike-destroys-gaza-city-mosque-near-displacement-camp?traffic_source=rss",
+            "published": "Tue, 28 Jul 2026 21:24:20 +0000",
+            "fetched": "2026-07-29T03:00:28+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Donald Trump and world leaders attend Lindsey Graham’s funeral",
+            "description": "Donald Trump said Lindsey Graham was a force in politics at the late senator&#039;s funeral in DC.",
+            "url": "https://www.aljazeera.com/gallery/2026/7/28/donald-trump-and-world-leaders-attend-lindsey-grahams-funeral?traffic_source=rss",
+            "published": "Tue, 28 Jul 2026 21:07:39 +0000",
+            "fetched": "2026-07-29T03:00:28+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Fairpoint, Meade, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21829",
+            "published": "2026-07-27T11:21:00Z",
+            "fetched": "2026-07-29T03:00:28+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Dolphin",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21776",
+            "published": "2026-07-27T06:00:00Z",
+            "fetched": "2026-07-29T03:00:28+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Twin Butte Ck, Corson, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21835",
+            "published": "2026-07-27T00:31:00Z",
+            "fetched": "2026-07-29T03:00:28+03:30"
+        }
+    ]
+}

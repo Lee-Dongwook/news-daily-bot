@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-07-29T02:00:12+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Running Kimi K3 on a M1 Mac",
+            "description": "<p>Article URL: <a href=\"https://github.com/gavamedia/deltafin\">https://github.com/gavamedia/deltafin</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49090233\">https://news.ycombinator.com/item?id=49090233</a></p>\n<p>Points: 36</p>\n<p># Comments: 23</p>",
+            "url": "https://github.com/gavamedia/deltafin",
+            "published": "Tue, 28 Jul 2026 21:35:19 +0000",
+            "fetched": "2026-07-29T02:00:12+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Anthropic publishes a practical key-recovery attack on HAWK-256",
+            "description": "<p>Article URL: <a href=\"https://github.com/anthropics/cryptography-research-demo\">https://github.com/anthropics/cryptography-research-demo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49090083\">https://news.ycombinator.com/item?id=49090083</a></p>\n<p>Points: 21</p>\n<p># Comments: 1</p>",
+            "url": "https://github.com/anthropics/cryptography-research-demo",
+            "published": "Tue, 28 Jul 2026 21:22:48 +0000",
+            "fetched": "2026-07-29T02:00:12+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Half-Life ported to Mac OS 9",
+            "description": "<p>Article URL: <a href=\"https://mac-classic.com/news/half-life-ported-to-mac-os-9/\">https://mac-classic.com/news/half-life-ported-to-mac-os-9/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49089814\">https://news.ycombinator.com/item?id=49089814</a></p>\n<p>Points: 52</p>\n<p># Comments: 20</p>",
+            "url": "https://mac-classic.com/news/half-life-ported-to-mac-os-9/",
+            "published": "Tue, 28 Jul 2026 20:58:39 +0000",
+            "fetched": "2026-07-29T02:00:12+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "The moment Tuesday's powerful earthquake hit Japan",
+            "description": "Video shows locations across the region where a strong earthquake struck Japan's Kyushu island on 28 July.",
+            "url": "https://www.bbc.co.uk/news/videos/cvg7v55gxnqo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 28 Jul 2026 15:32:37 GMT",
+            "fetched": "2026-07-29T02:00:12+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Some parents on benefits to get up to £4,500 for child starting apprenticeship",
+            "description": "Some parents on benefits lose income if their children take on apprenticeships.",
+            "url": "https://www.bbc.co.uk/news/articles/cwy4v6e9d2go?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 28 Jul 2026 17:32:56 GMT",
+            "fetched": "2026-07-29T02:00:12+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Uefa and PM criticise Infantino World Cup plan",
+            "description": "Uefa and Prime Minister Andy Burnham criticise proposals from Fifa to seek private investment in its competitions, including the World Cup.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/c8xng9894z0o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 28 Jul 2026 15:36:29 GMT",
+            "fetched": "2026-07-29T02:00:12+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli airstrike destroys Gaza City mosque near displacement camp",
+            "description": "Video footage captures an Israeli airstrike hitting Al-Muttaqin Mosque in Gaza City, next to Yarmouk Stadium",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/israeli-airstrike-destroys-gaza-city-mosque-near-displacement-camp?traffic_source=rss",
+            "published": "Tue, 28 Jul 2026 21:24:20 +0000",
+            "fetched": "2026-07-29T02:00:12+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Donald Trump and world leaders attend Lindsey Graham’s funeral",
+            "description": "Donald Trump said Lindsey Graham was a force in politics at the late senator&#039;s funeral in DC.",
+            "url": "https://www.aljazeera.com/gallery/2026/7/28/donald-trump-and-world-leaders-attend-lindsey-grahams-funeral?traffic_source=rss",
+            "published": "Tue, 28 Jul 2026 21:07:39 +0000",
+            "fetched": "2026-07-29T02:00:12+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran and Oman exchange proposals to manage Strait of Hormuz",
+            "description": "Omani proposal is based on the Strait of Malacca model, where ships that use the strait provide voluntary fees.",
+            "url": "https://www.aljazeera.com/news/2026/7/28/iran-and-oman-exchange-proposals-to-manage-strait-of-hormuz?traffic_source=rss",
+            "published": "Tue, 28 Jul 2026 21:01:19 +0000",
+            "fetched": "2026-07-29T02:00:12+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Fairpoint, Meade, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21829",
+            "published": "2026-07-27T11:21:00Z",
+            "fetched": "2026-07-29T02:00:12+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Dolphin",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21776",
+            "published": "2026-07-27T06:00:00Z",
+            "fetched": "2026-07-29T02:00:12+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Twin Butte Ck, Corson, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21835",
+            "published": "2026-07-27T00:31:00Z",
+            "fetched": "2026-07-29T02:00:12+03:30"
+        }
+    ]
+}

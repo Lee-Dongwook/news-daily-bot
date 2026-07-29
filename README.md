@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-28 15:41:15
+**Last Update:** 2026-07-29 03:00:28
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Google's Beyond Zero: Enterprise Security for the AI Era
+### 1. Leeaky Catches hidden fees draining your travel budget
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://spawn-queue.acm.org/doi/10.1145/3819083">https://spawn-queue.acm.org/doi/10.1145/3819083</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49081644">https://news.ycombinator.com/item?id=49081644</a></p>
-<p>Points: 25</p>
-<p># Comments: 10</p>
+<p>Article URL: <a href="https://leeaky.vercel.app/">https://leeaky.vercel.app/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49091048">https://news.ycombinator.com/item?id=49091048</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://spawn-queue.acm.org/doi/10.1145/3819083](https://spawn-queue.acm.org/doi/10.1145/3819083)
+🔗 **Read more:** [https://leeaky.vercel.app/](https://leeaky.vercel.app/)
 
 ---
 
-### 2. About the security content of macOS Tahoe 26.6
+### 2. Banning AI will not make it go away
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://support.apple.com/en-us/128067">https://support.apple.com/en-us/128067</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49081555">https://news.ycombinator.com/item?id=49081555</a></p>
-<p>Points: 76</p>
-<p># Comments: 33</p>
+<p>Article URL: <a href="https://vishal.rs/essay/banning-ai-will-not-make-it-go-away">https://vishal.rs/essay/banning-ai-will-not-make-it-go-away</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49090999">https://news.ycombinator.com/item?id=49090999</a></p>
+<p>Points: 6</p>
+<p># Comments: 7</p>
 
-🔗 **Read more:** [https://support.apple.com/en-us/128067](https://support.apple.com/en-us/128067)
+🔗 **Read more:** [https://vishal.rs/essay/banning-ai-will-not-make-it-go-away](https://vishal.rs/essay/banning-ai-will-not-make-it-go-away)
 
 ---
 
-### 3. 7.1 Earthquake in Japan
+### 3. Underwater Oxygen Loss Threatens Earth's Stability, Researchers Warn
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&amp;lang=en">https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang;=en</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49080664">https://news.ycombinator.com/item?id=49080664</a></p>
-<p>Points: 314</p>
-<p># Comments: 68</p>
+<p>Article URL: <a href="https://scripps.ucsd.edu/news/underwater-oxygen-loss-threatens-earths-stability-researchers-warn">https://scripps.ucsd.edu/news/underwater-oxygen-loss-threatens-earths-stability-researchers-warn</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49090867">https://news.ycombinator.com/item?id=49090867</a></p>
+<p>Points: 51</p>
+<p># Comments: 27</p>
 
-🔗 **Read more:** [https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en](https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en)
+🔗 **Read more:** [https://scripps.ucsd.edu/news/underwater-oxygen-loss-threatens-earths-stability-researchers-warn](https://scripps.ucsd.edu/news/underwater-oxygen-loss-threatens-earths-stability-researchers-warn)
 
 ---
 
-### 4. French patrol boat appears to fire gunshots in the Channel during MP's BBC interview
+### 4. The moment Tuesday's powerful earthquake hit Japan
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Shadow Home Secretary Chris Philp says the vessel fired 17 shots as he was giving a BBC interview.
+Video shows locations across the region where a strong earthquake struck Japan's Kyushu island on 28 July.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cy4ker2y1mko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cy4ker2y1mko?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cvg7v55gxnqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cvg7v55gxnqo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Schools to offer technical subjects from age 14 in England, Burnham says
+### 5. Some parents on benefits to get up to £4,500 for child starting apprenticeship
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The government wants pupils to take courses like AI and manufacturing which are linked to local jobs.
+Some parents on benefits lose income if their children take on apprenticeships.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cj4k2djd5qpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cj4k2djd5qpo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwy4v6e9d2go?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwy4v6e9d2go?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Naga Munchetty to leave BBC Breakfast after 17 years
+### 6. Uefa and PM criticise Infantino World Cup plan
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The BBC One show's co-host will swap the TV sofa for the presenter's chair on Radio 5 Live Breakfast.
+Uefa and Prime Minister Andy Burnham criticise proposals from Fifa to seek private investment in its competitions, including the World Cup.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cn0ngrpp2p5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cn0ngrpp2p5o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/c8xng9894z0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/c8xng9894z0o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Fatal Shooting in ICE Operations
+### 7. Japan Kumamoto earthquake: What happened, damage, victims, latest updates
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Trump’s ICE crackdown grows with new funding and hires as deaths and abuse claims draw review.
+A magnitude 6.8 earthquake struck Japan&#039;s Kyushu island, causing building collapses, fires and widespread damage.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/this-is-america/2026/7/28/fatal-shooting-in-ice-operations?traffic_source=rss](https://www.aljazeera.com/video/this-is-america/2026/7/28/fatal-shooting-in-ice-operations?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/28/japan-kumamoto-earthquake-what-happened-damage-victims-latest-updates?traffic_source=rss](https://www.aljazeera.com/news/2026/7/28/japan-kumamoto-earthquake-what-happened-damage-victims-latest-updates?traffic_source=rss)
 
 ---
 
-### 8. Tate’s attorney says allegations ‘puts a target on their backs’
+### 8. Israeli airstrike destroys Gaza City mosque near displacement camp
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Tate’s attorney says allegations ‘puts a target on their backs’
+Video footage captures an Israeli airstrike hitting Al-Muttaqin Mosque in Gaza City, next to Yarmouk Stadium
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/28/tates-attorney-says-allegations-puts-a-target-on-their?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/28/tates-attorney-says-allegations-puts-a-target-on-their?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/28/israeli-airstrike-destroys-gaza-city-mosque-near-displacement-camp?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/28/israeli-airstrike-destroys-gaza-city-mosque-near-displacement-camp?traffic_source=rss)
 
 ---
 
-### 9. Authorities open fire amid election unrest in Pakistan-administered Kashmir
+### 9. Donald Trump and world leaders attend Lindsey Graham’s funeral
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Deadly clashes have erupted in Pakistan-administered Kashmir after weeks of protests and road blockades.
+Donald Trump said Lindsey Graham was a force in politics at the late senator&#039;s funeral in DC.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/28/authorities-open-fire-amid-election-unrest-in-pakistan-administered-kashmir?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/28/authorities-open-fire-amid-election-unrest-in-pakistan-administered-kashmir?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/7/28/donald-trump-and-world-leaders-attend-lindsey-grahams-funeral?traffic_source=rss](https://www.aljazeera.com/gallery/2026/7/28/donald-trump-and-world-leaders-attend-lindsey-grahams-funeral?traffic_source=rss)
 
 ---
 
@@ -149,7 +149,7 @@ Natural event: Wildfires
 
 ---
 
-### 11. Tropical Storm Dolphin
+### 11. Typhoon Dolphin
 
 **Source:** NASA
 

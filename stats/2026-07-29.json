@@ -1,0 +1,56 @@
+{
+    "date": "2026-07-29",
+    "commits": [
+        {
+            "time": "00-08",
+            "news_count": 12,
+            "sources": [
+                "Hacker News",
+                "BBC",
+                "NASA",
+                "Al Jazeera"
+            ]
+        },
+        {
+            "time": "00-45",
+            "news_count": 12,
+            "sources": [
+                "NASA",
+                "BBC",
+                "Al Jazeera",
+                "Hacker News"
+            ]
+        },
+        {
+            "time": "02-00",
+            "news_count": 12,
+            "sources": [
+                "Hacker News",
+                "NASA",
+                "BBC",
+                "Al Jazeera"
+            ]
+        },
+        {
+            "time": "02-38",
+            "news_count": 12,
+            "sources": [
+                "BBC",
+                "NASA",
+                "Hacker News",
+                "Al Jazeera"
+            ]
+        },
+        {
+            "time": "03-00",
+            "news_count": 12,
+            "sources": [
+                "Al Jazeera",
+                "NASA",
+                "BBC",
+                "Hacker News"
+            ]
+        }
+    ],
+    "total_news": 60
+}

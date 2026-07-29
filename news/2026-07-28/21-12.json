@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-07-28T21:12:16+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Discovering Cryptographic Weaknesses with Claude",
+            "description": "<p>Article URL: <a href=\"https://www.anthropic.com/research/discovering-cryptographic-weaknesses\">https://www.anthropic.com/research/discovering-cryptographic-weaknesses</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49087091\">https://news.ycombinator.com/item?id=49087091</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
+            "published": "Tue, 28 Jul 2026 17:22:16 +0000",
+            "fetched": "2026-07-28T21:12:16+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Scientific computing in the age of agentic AI",
+            "description": "<p>Article URL: <a href=\"https://openai.com/index/scientific-computing-agentic-ai/\">https://openai.com/index/scientific-computing-agentic-ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49086987\">https://news.ycombinator.com/item?id=49086987</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://openai.com/index/scientific-computing-agentic-ai/",
+            "published": "Tue, 28 Jul 2026 17:13:15 +0000",
+            "fetched": "2026-07-28T21:12:16+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Steel Bank Common Lisp version 2.6.7",
+            "description": "<p>Article URL: <a href=\"https://sbcl.org/all-news.html?2.6.7\">https://sbcl.org/all-news.html?2.6.7</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49086971\">https://news.ycombinator.com/item?id=49086971</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://sbcl.org/all-news.html?2.6.7",
+            "published": "Tue, 28 Jul 2026 17:11:54 +0000",
+            "fetched": "2026-07-28T21:12:16+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "The moment Tuesday's powerful earthquake hit Japan",
+            "description": "Video shows locations across the region where a strong earthquake struck Japan's Kyushu island on 28 July.",
+            "url": "https://www.bbc.co.uk/news/videos/cvg7v55gxnqo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 28 Jul 2026 15:32:37 GMT",
+            "fetched": "2026-07-28T21:12:16+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Some parents on benefits to get up to £4,500 for child starting apprenticeship",
+            "description": "Some parents on benefits are incentivised to discourage their kids from taking on apprenticeships.",
+            "url": "https://www.bbc.co.uk/news/articles/cwy4v6e9d2go?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 28 Jul 2026 17:32:56 GMT",
+            "fetched": "2026-07-28T21:12:16+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Uefa reacts with fury to Infantino World Cup plan",
+            "description": "European football's governing body Uefa reacts furiously to proposals from Fifa to seek private investment in its competitions, including the World Cup.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/c8xng9894z0o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 28 Jul 2026 15:36:29 GMT",
+            "fetched": "2026-07-28T21:12:16+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Tributes paid to Lindsey Graham at US Capitol ceremony",
+            "description": "Hundreds of officials gathered in the Capitol Rotunda to honour late Republican Senator Lindsey Graham.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/tributes-paid-to-lindsey-graham-at-us-capitol-ceremony?traffic_source=rss",
+            "published": "Tue, 28 Jul 2026 17:24:04 +0000",
+            "fetched": "2026-07-28T21:12:16+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "War on Iran: Phase II: Day 17",
+            "description": "Political déjà vu as US President Donald Trump says negotiations with Iran are back on.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/war-on-iran-phase-ii-day-17?traffic_source=rss",
+            "published": "Tue, 28 Jul 2026 17:15:20 +0000",
+            "fetched": "2026-07-28T21:12:16+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Ukraine’s Zelenskyy hails ‘good meeting’ with Trump at White House",
+            "description": "Discussions included joint production of Patriot missiles in Ukraine to bolster defence against Russian aerial attacks.",
+            "url": "https://www.aljazeera.com/news/2026/7/28/ukraines-zelenskyy-hails-good-meeting-with-trump-at-white-house?traffic_source=rss",
+            "published": "Tue, 28 Jul 2026 17:12:56 +0000",
+            "fetched": "2026-07-28T21:12:16+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Fairpoint, Meade, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21829",
+            "published": "2026-07-27T11:21:00Z",
+            "fetched": "2026-07-28T21:12:16+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Dolphin",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21776",
+            "published": "2026-07-27T06:00:00Z",
+            "fetched": "2026-07-28T21:12:16+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Twin Butte Ck, Corson, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21835",
+            "published": "2026-07-27T00:31:00Z",
+            "fetched": "2026-07-28T21:12:16+03:30"
+        }
+    ]
+}

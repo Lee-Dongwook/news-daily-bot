@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-07-29T00:45:58+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Recursion is lying to you",
+            "description": "<p>Article URL: <a href=\"https://blog.gaborkoos.com/posts/2026-05-09-Your-Recursion-Is-Lying-to-You/\">https://blog.gaborkoos.com/posts/2026-05-09-Your-Recursion-Is-Lying-to-You/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49089406\">https://news.ycombinator.com/item?id=49089406</a></p>\n<p>Points: 6</p>\n<p># Comments: 5</p>",
+            "url": "https://blog.gaborkoos.com/posts/2026-05-09-Your-Recursion-Is-Lying-to-You/",
+            "published": "Tue, 28 Jul 2026 20:20:51 +0000",
+            "fetched": "2026-07-29T00:45:58+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Pacing the frontier",
+            "description": "<p>Article URL: <a href=\"https://www.pacingthefrontier.com/\">https://www.pacingthefrontier.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49089240\">https://news.ycombinator.com/item?id=49089240</a></p>\n<p>Points: 14</p>\n<p># Comments: 6</p>",
+            "url": "https://www.pacingthefrontier.com/",
+            "published": "Tue, 28 Jul 2026 20:09:09 +0000",
+            "fetched": "2026-07-29T00:45:58+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Hulios: An eBPF-powered, transparent Tor gateway for Linux",
+            "description": "<p>Article URL: <a href=\"https://github.com/ghaziwali/Hulios\">https://github.com/ghaziwali/Hulios</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49089045\">https://news.ycombinator.com/item?id=49089045</a></p>\n<p>Points: 10</p>\n<p># Comments: 0</p>",
+            "url": "https://github.com/ghaziwali/Hulios",
+            "published": "Tue, 28 Jul 2026 19:54:38 +0000",
+            "fetched": "2026-07-29T00:45:58+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "The moment Tuesday's powerful earthquake hit Japan",
+            "description": "Video shows locations across the region where a strong earthquake struck Japan's Kyushu island on 28 July.",
+            "url": "https://www.bbc.co.uk/news/videos/cvg7v55gxnqo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 28 Jul 2026 15:32:37 GMT",
+            "fetched": "2026-07-29T00:45:58+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Some parents on benefits to get up to £4,500 for child starting apprenticeship",
+            "description": "Some parents on benefits are incentivised to discourage their kids from taking on apprenticeships.",
+            "url": "https://www.bbc.co.uk/news/articles/cwy4v6e9d2go?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 28 Jul 2026 17:32:56 GMT",
+            "fetched": "2026-07-29T00:45:58+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Uefa and PM criticise Infantino World Cup plan",
+            "description": "Uefa and Prime Minister Andy Burnham criticise proposals from Fifa to seek private investment in its competitions, including the World Cup.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/c8xng9894z0o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 28 Jul 2026 15:36:29 GMT",
+            "fetched": "2026-07-29T00:45:58+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Rome’s viral graffiti cleaner is taking on an ancient problem",
+            "description": "Graffiti has marked the walls of Rome for millennia. One content creator builds a following cleaning spray-paint.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/romes-viral-graffiti-cleaner-is-taking-on-an-ancient-problem?traffic_source=rss",
+            "published": "Tue, 28 Jul 2026 20:41:18 +0000",
+            "fetched": "2026-07-29T00:45:58+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Many feared dead from 7.1-magnitude quake in Kumamoto, Japan",
+            "description": "A powerful 7.1-magnitude earthquake struck Kumamoto, Japan, causing widespread damage, injuries and fears of deaths.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/aje-onl-nf_many-feared-dead-from-7-280726?traffic_source=rss",
+            "published": "Tue, 28 Jul 2026 20:36:48 +0000",
+            "fetched": "2026-07-29T00:45:58+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Kyiv warns Iran against escalation after Ukraine’s Caspian Sea attack",
+            "description": "Kyiv claims its Caspian Sea strike targeted Russian warships, denying intent to harm civilian vessels or individuals.",
+            "url": "https://www.aljazeera.com/news/2026/7/28/kyiv-warns-iran-against-escalation-after-ukraines-caspian-sea-attack?traffic_source=rss",
+            "published": "Tue, 28 Jul 2026 20:29:42 +0000",
+            "fetched": "2026-07-29T00:45:58+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Fairpoint, Meade, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21829",
+            "published": "2026-07-27T11:21:00Z",
+            "fetched": "2026-07-29T00:45:58+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Dolphin",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21776",
+            "published": "2026-07-27T06:00:00Z",
+            "fetched": "2026-07-29T00:45:58+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Twin Butte Ck, Corson, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21835",
+            "published": "2026-07-27T00:31:00Z",
+            "fetched": "2026-07-29T00:45:58+03:30"
+        }
+    ]
+}

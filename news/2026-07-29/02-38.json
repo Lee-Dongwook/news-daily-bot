@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-07-29T02:38:56+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Underwater Oxygen Loss Threatens Earth's Stability, Researchers Warn",
+            "description": "<p>Article URL: <a href=\"https://scripps.ucsd.edu/news/underwater-oxygen-loss-threatens-earths-stability-researchers-warn\">https://scripps.ucsd.edu/news/underwater-oxygen-loss-threatens-earths-stability-researchers-warn</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49090867\">https://news.ycombinator.com/item?id=49090867</a></p>\n<p>Points: 22</p>\n<p># Comments: 3</p>",
+            "url": "https://scripps.ucsd.edu/news/underwater-oxygen-loss-threatens-earths-stability-researchers-warn",
+            "published": "Tue, 28 Jul 2026 22:31:14 +0000",
+            "fetched": "2026-07-29T02:38:56+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
+            "description": "<p>HN is great for the links people share, but a big part of the value I get comes from reading the discussion around them. I realized I was always opening the article in one tab and the comments in another, constantly switching back and forth.<p>I figured there was probably a simpler way, so I threw together this userscript to merge the two.<p>1. Clicking a link from Hacker News opens the article with a side panel containing the discussion. It doesn't require your credentials, is resizable, and is easy to tweak if you want to customize it.<p>2. If you land on an article that has previously been shared on HN, the script finds the existing discussion and adds a button in the top-right to open the panel.<p>Feedback welcome.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49090607\">https://news.ycombinator.com/item?id=49090607</a></p>\n<p>Points: 15</p>\n<p># Comments: 6</p>",
+            "url": "https://github.com/twalichiewicz/HNewhere",
+            "published": "Tue, 28 Jul 2026 22:09:06 +0000",
+            "fetched": "2026-07-29T02:38:56+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Running Kimi K3 on a M1 Max",
+            "description": "<p>Article URL: <a href=\"https://github.com/gavamedia/deltafin\">https://github.com/gavamedia/deltafin</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49090233\">https://news.ycombinator.com/item?id=49090233</a></p>\n<p>Points: 58</p>\n<p># Comments: 38</p>",
+            "url": "https://github.com/gavamedia/deltafin",
+            "published": "Tue, 28 Jul 2026 21:35:19 +0000",
+            "fetched": "2026-07-29T02:38:56+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "The moment Tuesday's powerful earthquake hit Japan",
+            "description": "Video shows locations across the region where a strong earthquake struck Japan's Kyushu island on 28 July.",
+            "url": "https://www.bbc.co.uk/news/videos/cvg7v55gxnqo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 28 Jul 2026 15:32:37 GMT",
+            "fetched": "2026-07-29T02:38:56+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Some parents on benefits to get up to £4,500 for child starting apprenticeship",
+            "description": "Some parents on benefits lose income if their children take on apprenticeships.",
+            "url": "https://www.bbc.co.uk/news/articles/cwy4v6e9d2go?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 28 Jul 2026 17:32:56 GMT",
+            "fetched": "2026-07-29T02:38:56+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Uefa and PM criticise Infantino World Cup plan",
+            "description": "Uefa and Prime Minister Andy Burnham criticise proposals from Fifa to seek private investment in its competitions, including the World Cup.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/c8xng9894z0o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 28 Jul 2026 15:36:29 GMT",
+            "fetched": "2026-07-29T02:38:56+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Japan Kumamoto earthquake: What happened, damage, victims, latest updates",
+            "description": "A magnitude 6.8 earthquake struck Japan&#039;s Kyushu island, causing building collapses, fires and widespread damage.",
+            "url": "https://www.aljazeera.com/news/2026/7/28/japan-kumamoto-earthquake-what-happened-damage-victims-latest-updates?traffic_source=rss",
+            "published": "Tue, 28 Jul 2026 21:59:40 +0000",
+            "fetched": "2026-07-29T02:38:56+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli airstrike destroys Gaza City mosque near displacement camp",
+            "description": "Video footage captures an Israeli airstrike hitting Al-Muttaqin Mosque in Gaza City, next to Yarmouk Stadium",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/israeli-airstrike-destroys-gaza-city-mosque-near-displacement-camp?traffic_source=rss",
+            "published": "Tue, 28 Jul 2026 21:24:20 +0000",
+            "fetched": "2026-07-29T02:38:56+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Donald Trump and world leaders attend Lindsey Graham’s funeral",
+            "description": "Donald Trump said Lindsey Graham was a force in politics at the late senator&#039;s funeral in DC.",
+            "url": "https://www.aljazeera.com/gallery/2026/7/28/donald-trump-and-world-leaders-attend-lindsey-grahams-funeral?traffic_source=rss",
+            "published": "Tue, 28 Jul 2026 21:07:39 +0000",
+            "fetched": "2026-07-29T02:38:56+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Fairpoint, Meade, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21829",
+            "published": "2026-07-27T11:21:00Z",
+            "fetched": "2026-07-29T02:38:56+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Dolphin",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21776",
+            "published": "2026-07-27T06:00:00Z",
+            "fetched": "2026-07-29T02:38:56+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Twin Butte Ck, Corson, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21835",
+            "published": "2026-07-27T00:31:00Z",
+            "fetched": "2026-07-29T02:38:56+03:30"
+        }
+    ]
+}

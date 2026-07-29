@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-07-28T23:14:45+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Donate to GrapheneOS",
+            "description": "<p>Article URL: <a href=\"https://grapheneos.org/donate\">https://grapheneos.org/donate</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49088451\">https://news.ycombinator.com/item?id=49088451</a></p>\n<p>Points: 33</p>\n<p># Comments: 2</p>",
+            "url": "https://grapheneos.org/donate",
+            "published": "Tue, 28 Jul 2026 19:06:10 +0000",
+            "fetched": "2026-07-28T23:14:45+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Deflock Casa Grande",
+            "description": "<p>Article URL: <a href=\"https://deflockcg.com/\">https://deflockcg.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49088148\">https://news.ycombinator.com/item?id=49088148</a></p>\n<p>Points: 110</p>\n<p># Comments: 23</p>",
+            "url": "https://deflockcg.com/",
+            "published": "Tue, 28 Jul 2026 18:41:48 +0000",
+            "fetched": "2026-07-28T23:14:45+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "MCP 2026-07-28 Specification: transport going stateless",
+            "description": "<p>Article URL: <a href=\"https://blog.modelcontextprotocol.io/posts/2026-07-28/\">https://blog.modelcontextprotocol.io/posts/2026-07-28/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49088058\">https://news.ycombinator.com/item?id=49088058</a></p>\n<p>Points: 24</p>\n<p># Comments: 10</p>",
+            "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28/",
+            "published": "Tue, 28 Jul 2026 18:35:11 +0000",
+            "fetched": "2026-07-28T23:14:45+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "The moment Tuesday's powerful earthquake hit Japan",
+            "description": "Video shows locations across the region where a strong earthquake struck Japan's Kyushu island on 28 July.",
+            "url": "https://www.bbc.co.uk/news/videos/cvg7v55gxnqo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 28 Jul 2026 15:32:37 GMT",
+            "fetched": "2026-07-28T23:14:45+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Some parents on benefits to get up to £4,500 for child starting apprenticeship",
+            "description": "Some parents on benefits are incentivised to discourage their kids from taking on apprenticeships.",
+            "url": "https://www.bbc.co.uk/news/articles/cwy4v6e9d2go?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 28 Jul 2026 17:32:56 GMT",
+            "fetched": "2026-07-28T23:14:45+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Uefa reacts with fury to Infantino World Cup plan",
+            "description": "European football's governing body Uefa reacts furiously to proposals from Fifa to seek private investment in its competitions, including the World Cup.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/c8xng9894z0o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 28 Jul 2026 15:36:29 GMT",
+            "fetched": "2026-07-28T23:14:45+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "West Bank quarry owner appeals to Trump after settler raid",
+            "description": "West Bank quarry owner appeals to Trump after settler raid",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/west-bank-quarry-owner-appeals-to-trump-after-settler-raid?traffic_source=rss",
+            "published": "Tue, 28 Jul 2026 19:23:29 +0000",
+            "fetched": "2026-07-28T23:14:45+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘The dream I carried is gone’: Miscarriages rise amid trauma of Gaza’s war",
+            "description": "At al-Awda Hospital, doctors say about 70% of pregnancy losses they see are linked to Israel&#039;s genocide and blockade.",
+            "url": "https://www.aljazeera.com/features/2026/7/28/the-dream-i-carried-is-gone-miscarriages-rise-amid-trauma-of-gazas-war?traffic_source=rss",
+            "published": "Tue, 28 Jul 2026 18:46:57 +0000",
+            "fetched": "2026-07-28T23:14:45+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Malaysian foreign minister calls for review of UNHCR’s presence",
+            "description": "The UN refugee agency is under pressure to impose stricter controls amid rising local backlash against Rohingya.",
+            "url": "https://www.aljazeera.com/news/2026/7/28/malaysian-foreign-minister-calls-for-review-of-unhcrs-presence?traffic_source=rss",
+            "published": "Tue, 28 Jul 2026 18:25:13 +0000",
+            "fetched": "2026-07-28T23:14:45+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Fairpoint, Meade, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21829",
+            "published": "2026-07-27T11:21:00Z",
+            "fetched": "2026-07-28T23:14:45+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Dolphin",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21776",
+            "published": "2026-07-27T06:00:00Z",
+            "fetched": "2026-07-28T23:14:45+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Twin Butte Ck, Corson, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21835",
+            "published": "2026-07-27T00:31:00Z",
+            "fetched": "2026-07-28T23:14:45+03:30"
+        }
+    ]
+}

@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-30 01:56:48
+**Last Update:** 2026-07-30 02:59:16
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. AI's top startups are barely publishing their research
+### 1. Man and the Computer by John G. Kemeny (1972 book by the co-creator of BASIC)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research">https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49103285">https://news.ycombinator.com/item?id=49103285</a></p>
-<p>Points: 52</p>
-<p># Comments: 40</p>
+<p>Article URL: <a href="https://archive.org/details/mancomputerbyjoh0000john">https://archive.org/details/mancomputerbyjoh0000john</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49104140">https://news.ycombinator.com/item?id=49104140</a></p>
+<p>Points: 5</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research](https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research)
+🔗 **Read more:** [https://archive.org/details/mancomputerbyjoh0000john](https://archive.org/details/mancomputerbyjoh0000john)
 
 ---
 
-### 2. The Cold Email
+### 2. LLM Honeypot
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://zachholman.com/posts/cold-email">https://zachholman.com/posts/cold-email</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49103089">https://news.ycombinator.com/item?id=49103089</a></p>
-<p>Points: 7</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://llm2human.pages.dev/">https://llm2human.pages.dev/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49104117">https://news.ycombinator.com/item?id=49104117</a></p>
+<p>Points: 3</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://zachholman.com/posts/cold-email](https://zachholman.com/posts/cold-email)
+🔗 **Read more:** [https://llm2human.pages.dev/](https://llm2human.pages.dev/)
 
 ---
 
-### 3. SalesPatriot (YC W25) Is Hiring FDEs
+### 3. GitHub is the wrong shape for this new world
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer">https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49103026">https://news.ycombinator.com/item?id=49103026</a></p>
-<p>Points: 0</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://depot.dev/blog/github-is-the-wrong-shape-for-this-new-world">https://depot.dev/blog/github-is-the-wrong-shape-for-this-new-world</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49103910">https://news.ycombinator.com/item?id=49103910</a></p>
+<p>Points: 11</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer](https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer)
+🔗 **Read more:** [https://depot.dev/blog/github-is-the-wrong-shape-for-this-new-world](https://depot.dev/blog/github-is-the-wrong-shape-for-this-new-world)
 
 ---
 
@@ -97,7 +97,20 @@ The actor and musician faces allegations from 10 women in total who say he mistr
 
 ---
 
-### 7. Is FIFA selling parts of the World Cup to private investors?
+### 7. Sam Altman meets lawmakers on back of OpenAI agents hacking companies
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+US President Donald Trump says he is considering &#039;AI controls&#039; following OpenAI&#039;s disclosure.
+
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/7/29/sam-altman-meets-lawmakers-on-back-of-openai-agents-hacking-companies?traffic_source=rss](https://www.aljazeera.com/economy/2026/7/29/sam-altman-meets-lawmakers-on-back-of-openai-agents-hacking-companies?traffic_source=rss)
+
+---
+
+### 8. Is FIFA selling parts of the World Cup to private investors?
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ This week FIFA announced plans to form a new subsidiary company to run part of t
 
 ---
 
-### 8. Myanmar court sentences activists to 37 years over election protest
+### 9. Myanmar court sentences activists to 37 years over election protest
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ This week FIFA announced plans to form a new subsidiary company to run part of t
 Nine activists face prison terms of up to 37 years for protesting the military-backed December elections.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/29/myanmar-court-sentences-activists-to-37-years-over-election-protest?traffic_source=rss](https://www.aljazeera.com/news/2026/7/29/myanmar-court-sentences-activists-to-37-years-over-election-protest?traffic_source=rss)
-
----
-
-### 9. FIFA charges Argentina after World Cup final brawl with Spain
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-FIFA hits Argentina with World Cup charges for scuffle after final with Spain and &#039;Malvinas&#039; banner after England game.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/7/29/fifa-charges-argentina-after-world-cup-final-brawl-with-spain?traffic_source=rss](https://www.aljazeera.com/sports/2026/7/29/fifa-charges-argentina-after-world-cup-final-brawl-with-spain?traffic_source=rss)
 
 ---
 

@@ -1,138 +1,139 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-29 03:00:28
+**Last Update:** 2026-07-29 06:56:18
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Leeaky Catches hidden fees draining your travel budget
+### 1. Does every question mark deserve a Betteridge?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://leeaky.vercel.app/">https://leeaky.vercel.app/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49091048">https://news.ycombinator.com/item?id=49091048</a></p>
-<p>Points: 3</p>
+<p>Article URL: <a href="https://dynomight.net/betteridge/">https://dynomight.net/betteridge/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49092781">https://news.ycombinator.com/item?id=49092781</a></p>
+<p>Points: 6</p>
+<p># Comments: 5</p>
+
+🔗 **Read more:** [https://dynomight.net/betteridge/](https://dynomight.net/betteridge/)
+
+---
+
+### 2. Hooray for the Sockets Interface
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/">https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49092754">https://news.ycombinator.com/item?id=49092754</a></p>
+<p>Points: 6</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/](https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/)
+
+---
+
+### 3. Show HN: Lean4 Datalog DSL Based on Google Zanzibar for AI Projects
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Google Zanzibar datalog lang lets you describe concepts and express how they are related. I generalize it to DSL you can use on Lean4 (and other languages) this lets you represent a knowledge base you can construct, store and evaluate, have it under git and improve without big engines or relaying on external infrastructure.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49092730">https://news.ycombinator.com/item?id=49092730</a></p>
+<p>Points: 5</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://leeaky.vercel.app/](https://leeaky.vercel.app/)
+🔗 **Read more:** [https://github.com/jagg-ix/zil-lean](https://github.com/jagg-ix/zil-lean)
 
 ---
 
-### 2. Banning AI will not make it go away
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://vishal.rs/essay/banning-ai-will-not-make-it-go-away">https://vishal.rs/essay/banning-ai-will-not-make-it-go-away</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49090999">https://news.ycombinator.com/item?id=49090999</a></p>
-<p>Points: 6</p>
-<p># Comments: 7</p>
-
-🔗 **Read more:** [https://vishal.rs/essay/banning-ai-will-not-make-it-go-away](https://vishal.rs/essay/banning-ai-will-not-make-it-go-away)
-
----
-
-### 3. Underwater Oxygen Loss Threatens Earth's Stability, Researchers Warn
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://scripps.ucsd.edu/news/underwater-oxygen-loss-threatens-earths-stability-researchers-warn">https://scripps.ucsd.edu/news/underwater-oxygen-loss-threatens-earths-stability-researchers-warn</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49090867">https://news.ycombinator.com/item?id=49090867</a></p>
-<p>Points: 51</p>
-<p># Comments: 27</p>
-
-🔗 **Read more:** [https://scripps.ucsd.edu/news/underwater-oxygen-loss-threatens-earths-stability-researchers-warn](https://scripps.ucsd.edu/news/underwater-oxygen-loss-threatens-earths-stability-researchers-warn)
-
----
-
-### 4. The moment Tuesday's powerful earthquake hit Japan
+### 4. Polanski says guillotine re-post was mistake but refuses to apologise
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Video shows locations across the region where a strong earthquake struck Japan's Kyushu island on 28 July.
+The Green leader re-posted a photo of a man wearing a guillotine t-shirt and the name Nigel.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cvg7v55gxnqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cvg7v55gxnqo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c89np278qwvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c89np278qwvo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Some parents on benefits to get up to £4,500 for child starting apprenticeship
+### 5. Burnham invites Tories and Lib Dems to social care talks
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Some parents on benefits lose income if their children take on apprenticeships.
+In a speech, the PM is expected to say finding common ground across party lines will be key to fixing social care.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwy4v6e9d2go?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwy4v6e9d2go?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c1k1vgx08gko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c1k1vgx08gko?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Uefa and PM criticise Infantino World Cup plan
+### 6. The evidence that shows today's 20-somethings really do have it worse
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Uefa and Prime Minister Andy Burnham criticise proposals from Fifa to seek private investment in its competitions, including the World Cup.
+People in their 20s are facing a tougher start to adulthood than any generation in almost half a century, according to analysis for the BBC.
 
-🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/c8xng9894z0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/c8xng9894z0o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cy8mnvk4r48o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cy8mnvk4r48o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Japan Kumamoto earthquake: What happened, damage, victims, latest updates
+### 7. Haitians living in fear as Temporary Protected Status ends in the US
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A magnitude 6.8 earthquake struck Japan&#039;s Kyushu island, causing building collapses, fires and widespread damage.
+New York’s Haitian community is living in limbo and fear after Temporary Protected Status (TPS) was terminated Monday.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/28/japan-kumamoto-earthquake-what-happened-damage-victims-latest-updates?traffic_source=rss](https://www.aljazeera.com/news/2026/7/28/japan-kumamoto-earthquake-what-happened-damage-victims-latest-updates?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/29/haitians-living-in-fear-as-temporary-protected-status-ends-in-the-us?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/29/haitians-living-in-fear-as-temporary-protected-status-ends-in-the-us?traffic_source=rss)
 
 ---
 
-### 8. Israeli airstrike destroys Gaza City mosque near displacement camp
+### 8. Iran missiles target US forces in Jordan after a five-day pause in war
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Video footage captures an Israeli airstrike hitting Al-Muttaqin Mosque in Gaza City, next to Yarmouk Stadium
+The US military says it has successfully intercepted a barrage of missiles fired by Iran at its troops in Jordan.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/28/israeli-airstrike-destroys-gaza-city-mosque-near-displacement-camp?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/28/israeli-airstrike-destroys-gaza-city-mosque-near-displacement-camp?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/29/iran-missiles-target-us-forces-in-jordan-after-a-five-day-pause-in-war?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/29/iran-missiles-target-us-forces-in-jordan-after-a-five-day-pause-in-war?traffic_source=rss)
 
 ---
 
-### 9. Donald Trump and world leaders attend Lindsey Graham’s funeral
+### 9. Israel kills Palestinian, destroys mosque in Gaza
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Donald Trump said Lindsey Graham was a force in politics at the late senator&#039;s funeral in DC.
+Israeli settlers also attack a Palestinian family in Bethlehem in the occupied West Bank.
 
-🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/7/28/donald-trump-and-world-leaders-attend-lindsey-grahams-funeral?traffic_source=rss](https://www.aljazeera.com/gallery/2026/7/28/donald-trump-and-world-leaders-attend-lindsey-grahams-funeral?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/29/israel-kills-palestinian-destroys-mosque-in-gaza?traffic_source=rss](https://www.aljazeera.com/news/2026/7/29/israel-kills-palestinian-destroys-mosque-in-gaza?traffic_source=rss)
 
 ---
 

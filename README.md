@@ -1,142 +1,94 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-29 16:32:26
+**Last Update:** 2026-07-29 18:09:08
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** NASA, Hacker News, Al Jazeera, BBC
+**Sources:** NASA, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. French musician Kavinsky found dead
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.euronews.com/culture/2026/07/29/dj-kavinsky-known-for-his-track-nightcall-found-dead-at-his-paris-home">https://www.euronews.com/culture/2026/07/29/dj-kavinsky-known-for-his-track-nightcall-found-dead-at-his-paris-home</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49096290">https://news.ycombinator.com/item?id=49096290</a></p>
-<p>Points: 58</p>
-<p># Comments: 9</p>
-
-🔗 **Read more:** [https://www.euronews.com/culture/2026/07/29/dj-kavinsky-known-for-his-track-nightcall-found-dead-at-his-paris-home](https://www.euronews.com/culture/2026/07/29/dj-kavinsky-known-for-his-track-nightcall-found-dead-at-his-paris-home)
-
----
-
-### 2. Document-borne AI worms can self-propagate through Copilot for Word
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/">https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49096188">https://news.ycombinator.com/item?id=49096188</a></p>
-<p>Points: 78</p>
-<p># Comments: 52</p>
-
-🔗 **Read more:** [https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/](https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/)
-
----
-
-### 3. KOReader
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://koreader.rocks/">https://koreader.rocks/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49095865">https://news.ycombinator.com/item?id=49095865</a></p>
-<p>Points: 130</p>
-<p># Comments: 50</p>
-
-🔗 **Read more:** [https://koreader.rocks/](https://koreader.rocks/)
-
----
-
-### 4. More than half of England officially in drought, Environment Agency says
+### 1. More than half of England officially in drought, Environment Agency says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Scorching temperatures and very low levels of rain have seen droughts declared across much of England.
+The drought declarations follow an exceptionally hot and dry period, which has hit rivers, crops and nature.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckg35n7yny3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckg35n7yny3o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Four women accuse Jared Leto of criminal sexual conduct when they were teenagers
+### 2. Burnham doesn't rule out tax rises to fix social care
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The actor and musician faces allegations from 10 women in total who say he mistreated them as teenagers.
+The prime minister holds cross-party talks as he speeds up review of social care in England.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckg6d21zdyro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckg6d21zdyro?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Boy, 7, dies in hospital after beach tragedy
+### 3. Serial killer given whole life order for murders of two men as police investigate four more deaths
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Musa Ahmed is the third person to die after getting into difficulty in the water last Wednesday.
+Police are reviewing four unexplained deaths at a homeless shelter where James Desborough stayed.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c4gv0d125p5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c4gv0d125p5o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cddjz02d8jgo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cddjz02d8jgo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. BJP politician’s daughter explains why she supports India’s youth protests
+### 4. ‘There is no ceasefire’ say Palestinians in Gaza after new Israeli strikes
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Daughter of a BJP politician, Yashaswinee Raje Singh, tells Al Jazeera why she supports India’s student-led protests.
+&#039;There is no ceasefire&#039; say Palestinians in Gaza after new Israeli strikes
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/29/bjp-politicians-daughter-explains-why-she-supports-indias-youth-protests?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/29/bjp-politicians-daughter-explains-why-she-supports-indias-youth-protests?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/29/there-is-no-ceasefire-say-palestinians-in-gaza-after-new-israeli-strikes?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/29/there-is-no-ceasefire-say-palestinians-in-gaza-after-new-israeli-strikes?traffic_source=rss)
 
 ---
 
-### 8. Tunisia’s body politic is in crisis
+### 5. How a seaweed bloom is affecting tourism in Mexico
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Public-service failures and uncertainty over Kais Saied’s health are deepening the country’s political malaise.
+In Mexico, a record surge of brown, smelly seaweed known as sargassum has blanketed the idyllic coastline.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/7/29/tunisias-body-politic-is-in-crisis?traffic_source=rss](https://www.aljazeera.com/opinions/2026/7/29/tunisias-body-politic-is-in-crisis?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/29/how-a-seaweed-bloom-is-affecting-tourism-in-mexico?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/29/how-a-seaweed-bloom-is-affecting-tourism-in-mexico?traffic_source=rss)
 
 ---
 
-### 9. F1 season to end in Europe if Qatar, Abu Dhabi unable to host due to war
+### 6. Fragile peace in Syria’s Set Zaynab as sectarian challenges persist
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-F1 sets a mid-September deadline to decide whether final rounds in Middle East can be held due to US-Israel war on Iran.
+Locals in southern Damascus town await safer times as fears rooted in a decade of war still loom over daily life.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/7/29/f1-season-to-end-in-europe-if-qatar-abu-dhabi-unable-to-host-due-to-us-iran-war?traffic_source=rss](https://www.aljazeera.com/sports/2026/7/29/f1-season-to-end-in-europe-if-qatar-abu-dhabi-unable-to-host-due-to-us-iran-war?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/7/29/fragile-peace-in-syrias-set-zaynab-as-sectarian-challenges-persist?traffic_source=rss](https://www.aljazeera.com/features/2026/7/29/fragile-peace-in-syrias-set-zaynab-as-sectarian-challenges-persist?traffic_source=rss)
 
 ---
 
-### 10. Wildfire Fairpoint, Meade, South Dakota
+### 7. Wildfire Fairpoint, Meade, South Dakota
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Wildfires
 
 ---
 
-### 11. Typhoon Dolphin
+### 8. Typhoon Dolphin
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Severe Storms
 
 ---
 
-### 12. Wildfire Twin Butte Ck, Corson, South Dakota
+### 9. Wildfire Twin Butte Ck, Corson, South Dakota
 
 **Source:** NASA
 

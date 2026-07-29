@@ -1,64 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-29 23:23:02
+**Last Update:** 2026-07-30 00:29:17
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** NASA, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Kimi K3-256k
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.kimi.com/code/docs/en/kimi-code/models">https://www.kimi.com/code/docs/en/kimi-code/models</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49101852">https://news.ycombinator.com/item?id=49101852</a></p>
-<p>Points: 53</p>
-<p># Comments: 6</p>
-
-🔗 **Read more:** [https://www.kimi.com/code/docs/en/kimi-code/models](https://www.kimi.com/code/docs/en/kimi-code/models)
-
----
-
-### 2. Balcony Solar: $1.74/watt direct plug-in solar
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.brightsaver.org/balcony-solar-kits">https://www.brightsaver.org/balcony-solar-kits</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49101849">https://news.ycombinator.com/item?id=49101849</a></p>
-<p>Points: 11</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://www.brightsaver.org/balcony-solar-kits](https://www.brightsaver.org/balcony-solar-kits)
-
----
-
-### 3. How much can you delegate to agents?
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://newsletter.posthog.com/p/agent-autonomy">https://newsletter.posthog.com/p/agent-autonomy</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49101655">https://news.ycombinator.com/item?id=49101655</a></p>
-<p>Points: 12</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://newsletter.posthog.com/p/agent-autonomy](https://newsletter.posthog.com/p/agent-autonomy)
-
----
-
-### 4. More than half of England in drought, Environment Agency declares
+### 1. More than half of England in drought, Environment Agency declares
 
 **Source:** BBC
 
@@ -71,20 +23,7 @@ The drought declarations follow an exceptionally hot and dry period, which has h
 
 ---
 
-### 5. Burnham doesn't rule out tax rises to fix social care
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The prime minister holds cross-party talks as he speeds up review of social care in England.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckg6d21zdyro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckg6d21zdyro?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Moment police officers set foot in 'horror scene' funeral home
+### 2. Moment police officers set foot in 'horror scene' funeral home
 
 **Source:** BBC
 
@@ -97,46 +36,59 @@ Police discovered messy side rooms strewn with rubbish at the Legacy funeral hom
 
 ---
 
-### 7. Al-Shabab kills five Kenyan security personnel in ambush
+### 3. Four women accuse Jared Leto of criminal sexual conduct when they were teenagers
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The actor and musician faces allegations from 10 women in total who say he mistreated them as teenagers.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 4. Videos show aftermath of US-Saudi strikes on Iraq PMF bases
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The ambush is part of a rapid surge in cross-border attacks along Kenya&#039;s northern frontier.
+US and Saudi forces launched coordinated airstrikes targeting Iran-backed Popular Mobilisation Forces (PMF) bases
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/29/al-shabab-kills-five-kenyan-security-personnel-in-ambush?traffic_source=rss](https://www.aljazeera.com/news/2026/7/29/al-shabab-kills-five-kenyan-security-personnel-in-ambush?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/29/videos-show-aftermath-of-us-saudi-strikes-on-iraq-pmf-bases?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/29/videos-show-aftermath-of-us-saudi-strikes-on-iraq-pmf-bases?traffic_source=rss)
 
 ---
 
-### 8. Hindus take holy dip in India’s rivers on sacred holiday
+### 5. Trump’s attorney general pick faces possible Republican roadblock
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Footage shows tens of thousands of Hindu devotees bathing in India’s Ganga and Saryu rivers to mark Guru Purnima.
+Todd Blanche, Trump&#039;s former defence lawyer, has faced scrutiny over his alleged loyalty to the US president.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/29/hindus-take-holy-dip-in-indias-rivers-on-sacred-holiday?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/29/hindus-take-holy-dip-in-indias-rivers-on-sacred-holiday?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/29/trumps-attorney-general-pick-faces-possible-republican-roadblock?traffic_source=rss](https://www.aljazeera.com/news/2026/7/29/trumps-attorney-general-pick-faces-possible-republican-roadblock?traffic_source=rss)
 
 ---
 
-### 9. Bordeaux wildfire battle continues amid extreme heat
+### 6. Algeria elects first-ever woman speaker of parliament
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Firefighters are on high alert in France as scorching temperatures and winds threaten to fuel wildfire west of Bordeaux
+Khalida Boufedeche of the National Liberation Front has become the first-ever woman speaker of Algeria’s parliament.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/29/bordeaux-wildfire-battle-continues-amid-extreme-heat?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/29/bordeaux-wildfire-battle-continues-amid-extreme-heat?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/29/algeria-elects-first-ever-woman-speaker-of-parliament?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/29/algeria-elects-first-ever-woman-speaker-of-parliament?traffic_source=rss)
 
 ---
 
-### 10. Wildfire Fairpoint, Meade, South Dakota
+### 7. Wildfire Fairpoint, Meade, South Dakota
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Wildfires
 
 ---
 
-### 11. Super Typhoon Dolphin
+### 8. Super Typhoon Dolphin
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Severe Storms
 
 ---
 
-### 12. Wildfire Twin Butte Ck, Corson, South Dakota
+### 9. Wildfire Twin Butte Ck, Corson, South Dakota
 
 **Source:** NASA
 

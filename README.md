@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-29 15:56:56
+**Last Update:** 2026-07-29 16:32:26
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Document-borne AI worms can self-propagate through Copilot for Word
+### 1. French musician Kavinsky found dead
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.euronews.com/culture/2026/07/29/dj-kavinsky-known-for-his-track-nightcall-found-dead-at-his-paris-home">https://www.euronews.com/culture/2026/07/29/dj-kavinsky-known-for-his-track-nightcall-found-dead-at-his-paris-home</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49096290">https://news.ycombinator.com/item?id=49096290</a></p>
+<p>Points: 58</p>
+<p># Comments: 9</p>
+
+🔗 **Read more:** [https://www.euronews.com/culture/2026/07/29/dj-kavinsky-known-for-his-track-nightcall-found-dead-at-his-paris-home](https://www.euronews.com/culture/2026/07/29/dj-kavinsky-known-for-his-track-nightcall-found-dead-at-his-paris-home)
+
+---
+
+### 2. Document-borne AI worms can self-propagate through Copilot for Word
 
 **Source:** Hacker News
 
@@ -19,26 +35,10 @@
 **Description:**
 <p>Article URL: <a href="https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/">https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49096188">https://news.ycombinator.com/item?id=49096188</a></p>
-<p>Points: 34</p>
-<p># Comments: 15</p>
+<p>Points: 78</p>
+<p># Comments: 52</p>
 
 🔗 **Read more:** [https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/](https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/)
-
----
-
-### 2. They Stole Your Attention
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://moai.studio/blog/posts/they-stole-your-attention.html">https://moai.studio/blog/posts/they-stole-your-attention.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49096043">https://news.ycombinator.com/item?id=49096043</a></p>
-<p>Points: 17</p>
-<p># Comments: 14</p>
-
-🔗 **Read more:** [https://moai.studio/blog/posts/they-stole-your-attention.html](https://moai.studio/blog/posts/they-stole-your-attention.html)
 
 ---
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://koreader.rocks/">https://koreader.rocks/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49095865">https://news.ycombinator.com/item?id=49095865</a></p>
-<p>Points: 67</p>
-<p># Comments: 18</p>
+<p>Points: 130</p>
+<p># Comments: 50</p>
 
 🔗 **Read more:** [https://koreader.rocks/](https://koreader.rocks/)
 
@@ -84,7 +84,7 @@ The actor and musician faces allegations from 10 women in total who say he mistr
 
 ---
 
-### 6. Boy, 7, dies after beach tragedy that killed mum and daughter
+### 6. Boy, 7, dies in hospital after beach tragedy
 
 **Source:** BBC
 
@@ -97,42 +97,42 @@ Musa Ahmed is the third person to die after getting into difficulty in the water
 
 ---
 
-### 7. American, Asian confederations blindsided by FIFA’s World Cup plan
+### 7. BJP politician’s daughter explains why she supports India’s youth protests
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Americas governing body &#039;deeply concerned&#039; by lack of due process in FIFA private investment plan, AFC &#039;disappointed&#039;.
+Daughter of a BJP politician, Yashaswinee Raje Singh, tells Al Jazeera why she supports India’s student-led protests.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/7/29/american-asian-confederations-blindsided-by-fifas-world-cup-plan?traffic_source=rss](https://www.aljazeera.com/sports/2026/7/29/american-asian-confederations-blindsided-by-fifas-world-cup-plan?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/29/bjp-politicians-daughter-explains-why-she-supports-indias-youth-protests?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/29/bjp-politicians-daughter-explains-why-she-supports-indias-youth-protests?traffic_source=rss)
 
 ---
 
-### 8. Iran hits US in Jordan, US-Saudi strikes on Iraq: Is war spreading?
+### 8. Tunisia’s body politic is in crisis
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The US says it intercepts an Iranian &#039;surprise attack&#039; on US forces as fears rise of wider war.
+Public-service failures and uncertainty over Kais Saied’s health are deepening the country’s political malaise.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/29/iran-hits-us-in-jordan-us-saudi-strikes-on-iraq-is-war-spreading?traffic_source=rss](https://www.aljazeera.com/news/2026/7/29/iran-hits-us-in-jordan-us-saudi-strikes-on-iraq-is-war-spreading?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/7/29/tunisias-body-politic-is-in-crisis?traffic_source=rss](https://www.aljazeera.com/opinions/2026/7/29/tunisias-body-politic-is-in-crisis?traffic_source=rss)
 
 ---
 
-### 9. Infantino’s FIFA World Cup stakes plan: Would UEFA boycott, would it work?
+### 9. F1 season to end in Europe if Qatar, Abu Dhabi unable to host due to war
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-How the proposed FIFA Forward Enterprise has drawn criticism, including from UEFA and new United Kingdom Prime Minister.
+F1 sets a mid-September deadline to decide whether final rounds in Middle East can be held due to US-Israel war on Iran.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/7/29/infantinos-fifa-world-cup-stakes-plan-would-uefa-boycott-would-it-work?traffic_source=rss](https://www.aljazeera.com/sports/2026/7/29/infantinos-fifa-world-cup-stakes-plan-would-uefa-boycott-would-it-work?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/7/29/f1-season-to-end-in-europe-if-qatar-abu-dhabi-unable-to-host-due-to-us-iran-war?traffic_source=rss](https://www.aljazeera.com/sports/2026/7/29/f1-season-to-end-in-europe-if-qatar-abu-dhabi-unable-to-host-due-to-us-iran-war?traffic_source=rss)
 
 ---
 

@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-07-29T16:32:26+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "French musician Kavinsky found dead",
+            "description": "<p>Article URL: <a href=\"https://www.euronews.com/culture/2026/07/29/dj-kavinsky-known-for-his-track-nightcall-found-dead-at-his-paris-home\">https://www.euronews.com/culture/2026/07/29/dj-kavinsky-known-for-his-track-nightcall-found-dead-at-his-paris-home</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49096290\">https://news.ycombinator.com/item?id=49096290</a></p>\n<p>Points: 58</p>\n<p># Comments: 9</p>",
+            "url": "https://www.euronews.com/culture/2026/07/29/dj-kavinsky-known-for-his-track-nightcall-found-dead-at-his-paris-home",
+            "published": "Wed, 29 Jul 2026 11:54:37 +0000",
+            "fetched": "2026-07-29T16:32:26+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Document-borne AI worms can self-propagate through Copilot for Word",
+            "description": "<p>Article URL: <a href=\"https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/\">https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49096188\">https://news.ycombinator.com/item?id=49096188</a></p>\n<p>Points: 78</p>\n<p># Comments: 52</p>",
+            "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
+            "published": "Wed, 29 Jul 2026 11:44:33 +0000",
+            "fetched": "2026-07-29T16:32:26+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "KOReader",
+            "description": "<p>Article URL: <a href=\"https://koreader.rocks/\">https://koreader.rocks/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49095865\">https://news.ycombinator.com/item?id=49095865</a></p>\n<p>Points: 130</p>\n<p># Comments: 50</p>",
+            "url": "https://koreader.rocks/",
+            "published": "Wed, 29 Jul 2026 11:05:08 +0000",
+            "fetched": "2026-07-29T16:32:26+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "More than half of England officially in drought, Environment Agency says",
+            "description": "Scorching temperatures and very low levels of rain have seen droughts declared across much of England.",
+            "url": "https://www.bbc.co.uk/news/articles/ckg35n7yny3o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 29 Jul 2026 12:55:03 GMT",
+            "fetched": "2026-07-29T16:32:26+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Four women accuse Jared Leto of criminal sexual conduct when they were teenagers",
+            "description": "The actor and musician faces allegations from 10 women in total who say he mistreated them as teenagers.",
+            "url": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 29 Jul 2026 05:00:07 GMT",
+            "fetched": "2026-07-29T16:32:26+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Boy, 7, dies in hospital after beach tragedy",
+            "description": "Musa Ahmed is the third person to die after getting into difficulty in the water last Wednesday.",
+            "url": "https://www.bbc.co.uk/news/articles/c4gv0d125p5o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 29 Jul 2026 12:42:14 GMT",
+            "fetched": "2026-07-29T16:32:26+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "BJP politician’s daughter explains why she supports India’s youth protests",
+            "description": "Daughter of a BJP politician, Yashaswinee Raje Singh, tells Al Jazeera why she supports India’s student-led protests.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/bjp-politicians-daughter-explains-why-she-supports-indias-youth-protests?traffic_source=rss",
+            "published": "Wed, 29 Jul 2026 12:50:52 +0000",
+            "fetched": "2026-07-29T16:32:26+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Tunisia’s body politic is in crisis",
+            "description": "Public-service failures and uncertainty over Kais Saied’s health are deepening the country’s political malaise.",
+            "url": "https://www.aljazeera.com/opinions/2026/7/29/tunisias-body-politic-is-in-crisis?traffic_source=rss",
+            "published": "Wed, 29 Jul 2026 12:38:14 +0000",
+            "fetched": "2026-07-29T16:32:26+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "F1 season to end in Europe if Qatar, Abu Dhabi unable to host due to war",
+            "description": "F1 sets a mid-September deadline to decide whether final rounds in Middle East can be held due to US-Israel war on Iran.",
+            "url": "https://www.aljazeera.com/sports/2026/7/29/f1-season-to-end-in-europe-if-qatar-abu-dhabi-unable-to-host-due-to-us-iran-war?traffic_source=rss",
+            "published": "Wed, 29 Jul 2026 12:27:19 +0000",
+            "fetched": "2026-07-29T16:32:26+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Fairpoint, Meade, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21829",
+            "published": "2026-07-27T11:21:00Z",
+            "fetched": "2026-07-29T16:32:26+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Dolphin",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21776",
+            "published": "2026-07-27T06:00:00Z",
+            "fetched": "2026-07-29T16:32:26+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Twin Butte Ck, Corson, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21835",
+            "published": "2026-07-27T00:31:00Z",
+            "fetched": "2026-07-29T16:32:26+03:30"
+        }
+    ]
+}

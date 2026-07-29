@@ -1,64 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-29 13:32:58
+**Last Update:** 2026-07-29 14:12:18
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers">https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49094346">https://news.ycombinator.com/item?id=49094346</a></p>
-<p>Points: 45</p>
-<p># Comments: 10</p>
-
-🔗 **Read more:** [https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers](https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers)
-
----
-
-### 2. More Tailscale tricks for your jailbroken Kindle
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes">https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49093569">https://news.ycombinator.com/item?id=49093569</a></p>
-<p>Points: 176</p>
-<p># Comments: 58</p>
-
-🔗 **Read more:** [https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes](https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes)
-
----
-
-### 3. Cracking Windows Open: Porting RADV to Win32
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html">https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49093435">https://news.ycombinator.com/item?id=49093435</a></p>
-<p>Points: 44</p>
-<p># Comments: 13</p>
-
-🔗 **Read more:** [https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html](https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html)
-
----
-
-### 4. Four women accuse Jared Leto of criminal sexual conduct when they were teenagers
+### 1. Four women accuse Jared Leto of criminal sexual conduct when they were teenagers
 
 **Source:** BBC
 
@@ -71,7 +23,7 @@ The actor and musician faces allegations from 10 women in total who say he mistr
 
 ---
 
-### 5. Saudi Arabia joins US in strikes on Iran-backed militias in Iraq
+### 2. Saudi Arabia joins US in strikes on Iran-backed militias in Iraq
 
 **Source:** BBC
 
@@ -84,59 +36,59 @@ US Central Command says proxy groups launched attacks against US bases and Saudi
 
 ---
 
-### 6. Polanski says guillotine re-post was mistake but refuses to apologise
+### 3. OpenAI says its rogue AI tried to hack other companies
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The Green leader re-posted a photo of a man wearing a guillotine t-shirt and the name Nigel.
+The out-of-control AI found four logins which allowed it to access multiple unnamed online services.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c89np278qwvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c89np278qwvo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c2el319vzr3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c2el319vzr3o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. US and Saudi Arabia strike ‘Iran-aligned’ groups in Iraq
+### 4. EU crisis chief urges tougher climate action amid France, Spain wildfires
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The US and Saudi Arabia launched joint air strikes on Iraq, targeting ‘Iran-aligned’ groups.
+Hadja Lahbib calls for existing plans to be accelerated and more investment as an ominous heatwave threatens.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/29/us-and-saudi-arabia-strike-iran-aligned-groups-in-iraq?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/29/us-and-saudi-arabia-strike-iran-aligned-groups-in-iraq?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/29/eu-crisis-chief-urges-tougher-climate-action-amid-france-spain-wildfires?traffic_source=rss](https://www.aljazeera.com/news/2026/7/29/eu-crisis-chief-urges-tougher-climate-action-amid-france-spain-wildfires?traffic_source=rss)
 
 ---
 
-### 8. Jayden Seales takes five wickets as West Indies beat Pakistan in first Test
+### 5. Russia charges Telegram founder Pavel Durov with ‘aiding terrorism’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-West Indies take a 1-0 lead in the two-Test series after Jayden Seales dominates with the ball on day 4 in Trinidad.
+Russia&#039;s FSB says Telegram has not pulled content used by Ukrainian intelligence and &#039;terrorist&#039; groups to plan attacks.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/7/29/seales-takes-five-wickets-as-west-indies-beat-pakistan-in-first-test?traffic_source=rss](https://www.aljazeera.com/sports/2026/7/29/seales-takes-five-wickets-as-west-indies-beat-pakistan-in-first-test?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/29/russia-charges-telegram-founder-pavel-durov-with-aiding-terrorism?traffic_source=rss](https://www.aljazeera.com/news/2026/7/29/russia-charges-telegram-founder-pavel-durov-with-aiding-terrorism?traffic_source=rss)
 
 ---
 
-### 9. Iran and Oman swap proposals to manage Strait of Hormuz: What we know
+### 6. How has the Indian government responded to ‘Cockroach’ protests?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Iran is proposing a deal that would see it have significantly more control than Oman.
+The BJP government&#039;s response so far has been a measured crackdown as it also attempts to woo the youth.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/29/iran-and-oman-swap-proposals-to-manage-strait-of-hormuz-what-we-know?traffic_source=rss](https://www.aljazeera.com/news/2026/7/29/iran-and-oman-swap-proposals-to-manage-strait-of-hormuz-what-we-know?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/29/how-has-the-indian-government-responded-to-cockroach-protests?traffic_source=rss](https://www.aljazeera.com/news/2026/7/29/how-has-the-indian-government-responded-to-cockroach-protests?traffic_source=rss)
 
 ---
 
-### 10. Wildfire Fairpoint, Meade, South Dakota
+### 7. Wildfire Fairpoint, Meade, South Dakota
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Wildfires
 
 ---
 
-### 11. Typhoon Dolphin
+### 8. Typhoon Dolphin
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Severe Storms
 
 ---
 
-### 12. Wildfire Twin Butte Ck, Corson, South Dakota
+### 9. Wildfire Twin Butte Ck, Corson, South Dakota
 
 **Source:** NASA
 

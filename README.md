@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-29 07:17:50
+**Last Update:** 2026-07-29 07:44:22
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
@@ -19,7 +19,7 @@
 **Description:**
 <p>Article URL: <a href="https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/">https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49092754">https://news.ycombinator.com/item?id=49092754</a></p>
-<p>Points: 7</p>
+<p>Points: 8</p>
 <p># Comments: 5</p>
 
 🔗 **Read more:** [https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/](https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/)
@@ -43,19 +43,19 @@
 
 ---
 
-### 3. Chip stocks slide in US and Asia as AI jitters rattle investors
+### 3. LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.bbc.com/news/articles/cly8zng43npo">https://www.bbc.com/news/articles/cly8zng43npo</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49092549">https://news.ycombinator.com/item?id=49092549</a></p>
-<p>Points: 31</p>
-<p># Comments: 16</p>
+<p>Article URL: <a href="https://learnvector.ai/">https://learnvector.ai/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49092499">https://news.ycombinator.com/item?id=49092499</a></p>
+<p>Points: 73</p>
+<p># Comments: 38</p>
 
-🔗 **Read more:** [https://www.bbc.com/news/articles/cly8zng43npo](https://www.bbc.com/news/articles/cly8zng43npo)
+🔗 **Read more:** [https://learnvector.ai/](https://learnvector.ai/)
 
 ---
 

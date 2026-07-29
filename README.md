@@ -1,16 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-29 14:12:18
+**Last Update:** 2026-07-29 15:09:24
 
 **Total News:** 9
 
-**Sources:** NASA, Al Jazeera, BBC
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Four women accuse Jared Leto of criminal sexual conduct when they were teenagers
+### 1. National Security Determination Threat Posed by Foreign-Produced Robotic Devices [pdf]
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.fcc.gov/sites/default/files/robots-nsd.pdf">https://www.fcc.gov/sites/default/files/robots-nsd.pdf</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49095714">https://news.ycombinator.com/item?id=49095714</a></p>
+<p>Points: 14</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://www.fcc.gov/sites/default/files/robots-nsd.pdf](https://www.fcc.gov/sites/default/files/robots-nsd.pdf)
+
+---
+
+### 2. SpecForge – A Platform for Authoring Formal Specifications
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://docs.imiron.io/v/0.5.10/en/tour.html">https://docs.imiron.io/v/0.5.10/en/tour.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49095628">https://news.ycombinator.com/item?id=49095628</a></p>
+<p>Points: 16</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://docs.imiron.io/v/0.5.10/en/tour.html](https://docs.imiron.io/v/0.5.10/en/tour.html)
+
+---
+
+### 3. Amiga Graphics Archive
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://amiga.lychesis.net/index.html">https://amiga.lychesis.net/index.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49095511">https://news.ycombinator.com/item?id=49095511</a></p>
+<p>Points: 14</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://amiga.lychesis.net/index.html](https://amiga.lychesis.net/index.html)
+
+---
+
+### 4. More than half of England officially in drought, Environment Agency says
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Scorching temperatures and very low levels of rain have seen droughts declared across much of England.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckg35n7yny3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckg35n7yny3o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Four women accuse Jared Leto of criminal sexual conduct when they were teenagers
 
 **Source:** BBC
 
@@ -23,20 +84,7 @@ The actor and musician faces allegations from 10 women in total who say he mistr
 
 ---
 
-### 2. Saudi Arabia joins US in strikes on Iran-backed militias in Iraq
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-US Central Command says proxy groups launched attacks against US bases and Saudi energy infrastructure.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 3. OpenAI says its rogue AI tried to hack other companies
+### 6. OpenAI says its rogue AI tried to hack other companies
 
 **Source:** BBC
 
@@ -49,7 +97,20 @@ The out-of-control AI found four logins which allowed it to access multiple unna
 
 ---
 
-### 4. EU crisis chief urges tougher climate action amid France, Spain wildfires
+### 7. Married couple deported by ICE killed in Guatemala
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Nixon Giovanni Paz, deported by ICE last year was bound and shot dead alongside his wife in Guatemala.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/29/29-07-sv-guatemala-couple-ice-gl?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/29/29-07-sv-guatemala-couple-ice-gl?traffic_source=rss)
+
+---
+
+### 8. EU crisis chief urges tougher climate action amid France, Spain wildfires
 
 **Source:** Al Jazeera
 
@@ -62,7 +123,7 @@ Hadja Lahbib calls for existing plans to be accelerated and more investment as a
 
 ---
 
-### 5. Russia charges Telegram founder Pavel Durov with ‘aiding terrorism’
+### 9. Russia charges Telegram founder Pavel Durov with ‘aiding terrorism’
 
 **Source:** Al Jazeera
 
@@ -72,19 +133,6 @@ Hadja Lahbib calls for existing plans to be accelerated and more investment as a
 Russia&#039;s FSB says Telegram has not pulled content used by Ukrainian intelligence and &#039;terrorist&#039; groups to plan attacks.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/29/russia-charges-telegram-founder-pavel-durov-with-aiding-terrorism?traffic_source=rss](https://www.aljazeera.com/news/2026/7/29/russia-charges-telegram-founder-pavel-durov-with-aiding-terrorism?traffic_source=rss)
-
----
-
-### 6. How has the Indian government responded to ‘Cockroach’ protests?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The BJP government&#039;s response so far has been a measured crackdown as it also attempts to woo the youth.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/29/how-has-the-indian-government-responded-to-cockroach-protests?traffic_source=rss](https://www.aljazeera.com/news/2026/7/29/how-has-the-indian-government-responded-to-cockroach-protests?traffic_source=rss)
 
 ---
 

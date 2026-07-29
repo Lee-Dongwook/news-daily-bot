@@ -52,6 +52,16 @@
             ]
         },
         {
+            "time": "06-56",
+            "news_count": 12,
+            "sources": [
+                "Hacker News",
+                "BBC",
+                "NASA",
+                "Al Jazeera"
+            ]
+        },
+        {
             "time": "07-17",
             "news_count": 12,
             "sources": [
@@ -62,27 +72,47 @@
             ]
         },
         {
-            "time": "07-44",
+            "time": "10-09",
             "news_count": 12,
             "sources": [
-                "NASA",
                 "Al Jazeera",
+                "NASA",
                 "Hacker News",
                 "BBC"
             ]
         },
         {
-            "time": "10-41",
+            "time": "10-40",
             "news_count": 12,
             "sources": [
+                "Al Jazeera",
+                "Hacker News",
+                "BBC",
+                "NASA"
+            ]
+        },
+        {
+            "time": "13-14",
+            "news_count": 12,
+            "sources": [
+                "BBC",
                 "NASA",
+                "Al Jazeera",
+                "Hacker News"
+            ]
+        },
+        {
+            "time": "13-32",
+            "news_count": 12,
+            "sources": [
                 "Hacker News",
                 "Al Jazeera",
+                "NASA",
                 "BBC"
             ]
         },
         {
-            "time": "11-15",
+            "time": "15-09",
             "news_count": 12,
             "sources": [
                 "Hacker News",
@@ -90,26 +120,7 @@
                 "BBC",
                 "NASA"
             ]
-        },
-        {
-            "time": "13-32",
-            "news_count": 12,
-            "sources": [
-                "BBC",
-                "Hacker News",
-                "NASA",
-                "Al Jazeera"
-            ]
-        },
-        {
-            "time": "14-12",
-            "news_count": 9,
-            "sources": [
-                "NASA",
-                "Al Jazeera",
-                "BBC"
-            ]
         }
     ],
-    "total_news": 129
+    "total_news": 144
 }

@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-07-29T15:09:24+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "National Security Determination Threat Posed by Foreign-Produced Robotic Devices [pdf]",
+            "description": "<p>Article URL: <a href=\"https://www.fcc.gov/sites/default/files/robots-nsd.pdf\">https://www.fcc.gov/sites/default/files/robots-nsd.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49095714\">https://news.ycombinator.com/item?id=49095714</a></p>\n<p>Points: 14</p>\n<p># Comments: 3</p>",
+            "url": "https://www.fcc.gov/sites/default/files/robots-nsd.pdf",
+            "published": "Wed, 29 Jul 2026 10:47:57 +0000",
+            "fetched": "2026-07-29T15:09:24+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "SpecForge – A Platform for Authoring Formal Specifications",
+            "description": "<p>Article URL: <a href=\"https://docs.imiron.io/v/0.5.10/en/tour.html\">https://docs.imiron.io/v/0.5.10/en/tour.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49095628\">https://news.ycombinator.com/item?id=49095628</a></p>\n<p>Points: 16</p>\n<p># Comments: 0</p>",
+            "url": "https://docs.imiron.io/v/0.5.10/en/tour.html",
+            "published": "Wed, 29 Jul 2026 10:35:19 +0000",
+            "fetched": "2026-07-29T15:09:24+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Amiga Graphics Archive",
+            "description": "<p>Article URL: <a href=\"https://amiga.lychesis.net/index.html\">https://amiga.lychesis.net/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49095511\">https://news.ycombinator.com/item?id=49095511</a></p>\n<p>Points: 14</p>\n<p># Comments: 1</p>",
+            "url": "https://amiga.lychesis.net/index.html",
+            "published": "Wed, 29 Jul 2026 10:19:44 +0000",
+            "fetched": "2026-07-29T15:09:24+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "More than half of England officially in drought, Environment Agency says",
+            "description": "Scorching temperatures and very low levels of rain have seen droughts declared across much of England.",
+            "url": "https://www.bbc.co.uk/news/articles/ckg35n7yny3o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 29 Jul 2026 11:35:00 GMT",
+            "fetched": "2026-07-29T15:09:24+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Four women accuse Jared Leto of criminal sexual conduct when they were teenagers",
+            "description": "The actor and musician faces allegations from 10 women in total who say he mistreated them as teenagers.",
+            "url": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 29 Jul 2026 05:00:07 GMT",
+            "fetched": "2026-07-29T15:09:24+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "OpenAI says its rogue AI tried to hack other companies",
+            "description": "The out-of-control AI found four logins which allowed it to access multiple unnamed online services.",
+            "url": "https://www.bbc.co.uk/news/articles/c2el319vzr3o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 29 Jul 2026 08:49:27 GMT",
+            "fetched": "2026-07-29T15:09:24+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Married couple deported by ICE killed in Guatemala",
+            "description": "Nixon Giovanni Paz, deported by ICE last year was bound and shot dead alongside his wife in Guatemala.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/29-07-sv-guatemala-couple-ice-gl?traffic_source=rss",
+            "published": "Wed, 29 Jul 2026 10:55:38 +0000",
+            "fetched": "2026-07-29T15:09:24+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "EU crisis chief urges tougher climate action amid France, Spain wildfires",
+            "description": "Hadja Lahbib calls for existing plans to be accelerated and more investment as an ominous heatwave threatens.",
+            "url": "https://www.aljazeera.com/news/2026/7/29/eu-crisis-chief-urges-tougher-climate-action-amid-france-spain-wildfires?traffic_source=rss",
+            "published": "Wed, 29 Jul 2026 10:19:28 +0000",
+            "fetched": "2026-07-29T15:09:24+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Russia charges Telegram founder Pavel Durov with ‘aiding terrorism’",
+            "description": "Russia&#039;s FSB says Telegram has not pulled content used by Ukrainian intelligence and &#039;terrorist&#039; groups to plan attacks.",
+            "url": "https://www.aljazeera.com/news/2026/7/29/russia-charges-telegram-founder-pavel-durov-with-aiding-terrorism?traffic_source=rss",
+            "published": "Wed, 29 Jul 2026 10:18:49 +0000",
+            "fetched": "2026-07-29T15:09:24+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Fairpoint, Meade, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21829",
+            "published": "2026-07-27T11:21:00Z",
+            "fetched": "2026-07-29T15:09:24+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Dolphin",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21776",
+            "published": "2026-07-27T06:00:00Z",
+            "fetched": "2026-07-29T15:09:24+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Twin Butte Ck, Corson, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21835",
+            "published": "2026-07-27T00:31:00Z",
+            "fetched": "2026-07-29T15:09:24+03:30"
+        }
+    ]
+}

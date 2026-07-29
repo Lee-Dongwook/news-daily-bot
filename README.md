@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-29 10:09:54
+**Last Update:** 2026-07-29 10:40:54
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes">https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49093569">https://news.ycombinator.com/item?id=49093569</a></p>
-<p>Points: 65</p>
-<p># Comments: 8</p>
+<p>Points: 87</p>
+<p># Comments: 13</p>
 
 🔗 **Read more:** [https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes](https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes)
 
@@ -35,7 +35,7 @@
 **Description:**
 <p>Article URL: <a href="https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html">https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49093435">https://news.ycombinator.com/item?id=49093435</a></p>
-<p>Points: 25</p>
+<p>Points: 26</p>
 <p># Comments: 1</p>
 
 🔗 **Read more:** [https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html](https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html)
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.datagubbe.se/scenegui/">https://www.datagubbe.se/scenegui/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49093434">https://news.ycombinator.com/item?id=49093434</a></p>
-<p>Points: 61</p>
-<p># Comments: 8</p>
+<p>Points: 76</p>
+<p># Comments: 10</p>
 
 🔗 **Read more:** [https://www.datagubbe.se/scenegui/](https://www.datagubbe.se/scenegui/)
 
@@ -65,7 +65,7 @@
 **Category:** world
 
 **Description:**
-In a speech, the PM is expected to say finding common ground across party lines will be key to fixing social care.
+The prime minister is expected to say in a speech on Wednesday that finding common ground across party lines will be key to fixing social care.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c1k1vgx08gko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c1k1vgx08gko?at_medium=RSS&at_campaign=rss)
 
@@ -97,7 +97,20 @@ The Green leader re-posted a photo of a man wearing a guillotine t-shirt and the
 
 ---
 
-### 7. Iran attacks US bases in Middle East as Trump meets Netanyahu
+### 7. Why Netanyahu didn’t want a Zelenskyy moment with Trump
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Diplomats Jeffrey Feltman and Michael Ratney
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/29/why-netanyahu-didnt-want-a-zelenskyy-moment-with-trump?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/29/why-netanyahu-didnt-want-a-zelenskyy-moment-with-trump?traffic_source=rss)
+
+---
+
+### 8. Iran attacks US bases in Middle East as Trump meets Netanyahu
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Iran has also struck three ships in the Strait of Hormuz and rejected Oman’s p
 
 ---
 
-### 8. China puts the ‘squeeze’ on Taiwan with new maritime patrols
+### 9. China puts the ‘squeeze’ on Taiwan with new maritime patrols
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Iran has also struck three ships in the Strait of Hormuz and rejected Oman’s p
 New law enforcement operations could quickly escalate into a blockade of Taiwan, say analysts.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/29/china-puts-squeeze-on-taiwan-with-new-maritime-patrols?traffic_source=rss](https://www.aljazeera.com/news/2026/7/29/china-puts-squeeze-on-taiwan-with-new-maritime-patrols?traffic_source=rss)
-
----
-
-### 9. Latest images of damage as death toll from Japan’s Kyushu quake rises
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The death toll from Japan’s Kyushu island quake rises to 13.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/29/latest-images-of-damage-as-death-toll-from-japans-kyushu-quake-rises?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/29/latest-images-of-damage-as-death-toll-from-japans-kyushu-quake-rises?traffic_source=rss)
 
 ---
 

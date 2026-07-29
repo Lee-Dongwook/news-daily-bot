@@ -1,64 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-29 13:32:53
+**Last Update:** 2026-07-29 15:09:24
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers
+### 1. National Security Determination Threat Posed by Foreign-Produced Robotic Devices [pdf]
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers">https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49094346">https://news.ycombinator.com/item?id=49094346</a></p>
-<p>Points: 45</p>
-<p># Comments: 10</p>
+<p>Article URL: <a href="https://www.fcc.gov/sites/default/files/robots-nsd.pdf">https://www.fcc.gov/sites/default/files/robots-nsd.pdf</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49095714">https://news.ycombinator.com/item?id=49095714</a></p>
+<p>Points: 14</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers](https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers)
+🔗 **Read more:** [https://www.fcc.gov/sites/default/files/robots-nsd.pdf](https://www.fcc.gov/sites/default/files/robots-nsd.pdf)
 
 ---
 
-### 2. More Tailscale tricks for your jailbroken Kindle
+### 2. SpecForge – A Platform for Authoring Formal Specifications
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes">https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49093569">https://news.ycombinator.com/item?id=49093569</a></p>
-<p>Points: 176</p>
-<p># Comments: 58</p>
+<p>Article URL: <a href="https://docs.imiron.io/v/0.5.10/en/tour.html">https://docs.imiron.io/v/0.5.10/en/tour.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49095628">https://news.ycombinator.com/item?id=49095628</a></p>
+<p>Points: 16</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes](https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes)
+🔗 **Read more:** [https://docs.imiron.io/v/0.5.10/en/tour.html](https://docs.imiron.io/v/0.5.10/en/tour.html)
 
 ---
 
-### 3. Cracking Windows Open: Porting RADV to Win32
+### 3. Amiga Graphics Archive
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html">https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49093435">https://news.ycombinator.com/item?id=49093435</a></p>
-<p>Points: 44</p>
-<p># Comments: 13</p>
+<p>Article URL: <a href="https://amiga.lychesis.net/index.html">https://amiga.lychesis.net/index.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49095511">https://news.ycombinator.com/item?id=49095511</a></p>
+<p>Points: 14</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html](https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html)
+🔗 **Read more:** [https://amiga.lychesis.net/index.html](https://amiga.lychesis.net/index.html)
 
 ---
 
-### 4. Four women accuse Jared Leto of criminal sexual conduct when they were teenagers
+### 4. More than half of England officially in drought, Environment Agency says
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Scorching temperatures and very low levels of rain have seen droughts declared across much of England.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckg35n7yny3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckg35n7yny3o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Four women accuse Jared Leto of criminal sexual conduct when they were teenagers
 
 **Source:** BBC
 
@@ -71,68 +84,55 @@ The actor and musician faces allegations from 10 women in total who say he mistr
 
 ---
 
-### 5. Saudi Arabia joins US in strikes on Iran-backed militias in Iraq
+### 6. OpenAI says its rogue AI tried to hack other companies
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-US Central Command says proxy groups launched attacks against US bases and Saudi energy infrastructure.
+The out-of-control AI found four logins which allowed it to access multiple unnamed online services.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Polanski says guillotine re-post was mistake but refuses to apologise
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The Green leader re-posted a photo of a man wearing a guillotine t-shirt and the name Nigel.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c89np278qwvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c89np278qwvo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c2el319vzr3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c2el319vzr3o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. US and Saudi Arabia strike ‘Iran-aligned’ groups in Iraq
+### 7. Married couple deported by ICE killed in Guatemala
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The US and Saudi Arabia launched joint air strikes on Iraq, targeting ‘Iran-aligned’ groups.
+Nixon Giovanni Paz, deported by ICE last year was bound and shot dead alongside his wife in Guatemala.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/29/us-and-saudi-arabia-strike-iran-aligned-groups-in-iraq?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/29/us-and-saudi-arabia-strike-iran-aligned-groups-in-iraq?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/29/29-07-sv-guatemala-couple-ice-gl?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/29/29-07-sv-guatemala-couple-ice-gl?traffic_source=rss)
 
 ---
 
-### 8. Jayden Seales takes five wickets as West Indies beat Pakistan in first Test
+### 8. EU crisis chief urges tougher climate action amid France, Spain wildfires
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-West Indies take a 1-0 lead in the two-Test series after Jayden Seales dominates with the ball on day 4 in Trinidad.
+Hadja Lahbib calls for existing plans to be accelerated and more investment as an ominous heatwave threatens.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/7/29/seales-takes-five-wickets-as-west-indies-beat-pakistan-in-first-test?traffic_source=rss](https://www.aljazeera.com/sports/2026/7/29/seales-takes-five-wickets-as-west-indies-beat-pakistan-in-first-test?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/29/eu-crisis-chief-urges-tougher-climate-action-amid-france-spain-wildfires?traffic_source=rss](https://www.aljazeera.com/news/2026/7/29/eu-crisis-chief-urges-tougher-climate-action-amid-france-spain-wildfires?traffic_source=rss)
 
 ---
 
-### 9. Iran and Oman swap proposals to manage Strait of Hormuz: What we know
+### 9. Russia charges Telegram founder Pavel Durov with ‘aiding terrorism’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Iran is proposing a deal that would see it have significantly more control than Oman.
+Russia&#039;s FSB says Telegram has not pulled content used by Ukrainian intelligence and &#039;terrorist&#039; groups to plan attacks.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/29/iran-and-oman-swap-proposals-to-manage-strait-of-hormuz-what-we-know?traffic_source=rss](https://www.aljazeera.com/news/2026/7/29/iran-and-oman-swap-proposals-to-manage-strait-of-hormuz-what-we-know?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/29/russia-charges-telegram-founder-pavel-durov-with-aiding-terrorism?traffic_source=rss](https://www.aljazeera.com/news/2026/7/29/russia-charges-telegram-founder-pavel-durov-with-aiding-terrorism?traffic_source=rss)
 
 ---
 

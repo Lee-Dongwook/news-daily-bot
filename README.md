@@ -1,65 +1,90 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-29 07:44:22
+**Last Update:** 2026-07-29 10:41:24
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Hooray for the Sockets Interface
+### 1. More Tailscale tricks for your jailbroken Kindle
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/">https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49092754">https://news.ycombinator.com/item?id=49092754</a></p>
-<p>Points: 8</p>
-<p># Comments: 5</p>
+<p>Article URL: <a href="https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes">https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49093569">https://news.ycombinator.com/item?id=49093569</a></p>
+<p>Points: 87</p>
+<p># Comments: 13</p>
 
-🔗 **Read more:** [https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/](https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/)
+🔗 **Read more:** [https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes](https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes)
 
 ---
 
-### 2. Show HN: Lean4 Datalog DSL Based on Google Zanzibar for AI Projects
+### 2. Cracking Windows Open: Porting RADV to Win32
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Google Zanzibar datalog lang lets you describe concepts and express how they are related. I generalize it to DSL you can use on Lean4 (and other languages) this lets you represent a knowledge base you can construct, store and evaluate, have it under git and improve without big engines or relaying on external infrastructure.</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49092730">https://news.ycombinator.com/item?id=49092730</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html">https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49093435">https://news.ycombinator.com/item?id=49093435</a></p>
+<p>Points: 26</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://github.com/jagg-ix/zil-lean](https://github.com/jagg-ix/zil-lean)
+🔗 **Read more:** [https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html](https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html)
 
 ---
 
-### 3. LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences
+### 3. User Interfaces of the Demo Scene
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://learnvector.ai/">https://learnvector.ai/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49092499">https://news.ycombinator.com/item?id=49092499</a></p>
-<p>Points: 73</p>
-<p># Comments: 38</p>
+<p>Article URL: <a href="https://www.datagubbe.se/scenegui/">https://www.datagubbe.se/scenegui/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49093434">https://news.ycombinator.com/item?id=49093434</a></p>
+<p>Points: 76</p>
+<p># Comments: 10</p>
 
-🔗 **Read more:** [https://learnvector.ai/](https://learnvector.ai/)
+🔗 **Read more:** [https://www.datagubbe.se/scenegui/](https://www.datagubbe.se/scenegui/)
 
 ---
 
-### 4. Polanski says guillotine re-post was mistake but refuses to apologise
+### 4. Burnham invites Tories and Lib Dems to social care talks
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The prime minister is expected to say in a speech on Wednesday that finding common ground across party lines will be key to fixing social care.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c1k1vgx08gko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c1k1vgx08gko?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Four women accuse Jared Leto of criminal sexual conduct when they were teenagers
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The actor and musician faces allegations from 10 women in total who say he mistreated them as teenagers.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Polanski says guillotine re-post was mistake but refuses to apologise
 
 **Source:** BBC
 
@@ -72,68 +97,42 @@ The Green leader re-posted a photo of a man wearing a guillotine t-shirt and the
 
 ---
 
-### 5. Burnham invites Tories and Lib Dems to social care talks
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-In a speech, the PM is expected to say finding common ground across party lines will be key to fixing social care.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c1k1vgx08gko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c1k1vgx08gko?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. The evidence that shows today's 20-somethings really do have it worse
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-People in their 20s are facing a tougher start to adulthood than any generation in almost half a century, according to analysis for the BBC.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cy8mnvk4r48o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cy8mnvk4r48o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Haitians living in fear as Temporary Protected Status ends in the US
+### 7. Why Netanyahu didn’t want a Zelenskyy moment with Trump
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-New York’s Haitian community is living in limbo and fear after Temporary Protected Status (TPS) was terminated Monday.
+Diplomats Jeffrey Feltman and Michael Ratney
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/29/haitians-living-in-fear-as-temporary-protected-status-ends-in-the-us?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/29/haitians-living-in-fear-as-temporary-protected-status-ends-in-the-us?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/29/why-netanyahu-didnt-want-a-zelenskyy-moment-with-trump?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/29/why-netanyahu-didnt-want-a-zelenskyy-moment-with-trump?traffic_source=rss)
 
 ---
 
-### 8. Iran missiles target US forces in Jordan after a five-day pause in war
+### 8. Iran attacks US bases in Middle East as Trump meets Netanyahu
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The US military says it has successfully intercepted a barrage of missiles fired by Iran at its troops in Jordan.
+Iran has also struck three ships in the Strait of Hormuz and rejected Oman’s proposal on managing the waterway.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/29/iran-missiles-target-us-forces-in-jordan-after-a-five-day-pause-in-war?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/29/iran-missiles-target-us-forces-in-jordan-after-a-five-day-pause-in-war?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/29/iran-attacks-us-bases-in-middle-east-as-trump-meets-netanyahu?traffic_source=rss](https://www.aljazeera.com/news/2026/7/29/iran-attacks-us-bases-in-middle-east-as-trump-meets-netanyahu?traffic_source=rss)
 
 ---
 
-### 9. Israel kills Palestinian, destroys mosque in Gaza
+### 9. China puts the ‘squeeze’ on Taiwan with new maritime patrols
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli settlers also attack a Palestinian family in Bethlehem in the occupied West Bank.
+New law enforcement operations could quickly escalate into a blockade of Taiwan, say analysts.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/29/israel-kills-palestinian-destroys-mosque-in-gaza?traffic_source=rss](https://www.aljazeera.com/news/2026/7/29/israel-kills-palestinian-destroys-mosque-in-gaza?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/29/china-puts-squeeze-on-taiwan-with-new-maritime-patrols?traffic_source=rss](https://www.aljazeera.com/news/2026/7/29/china-puts-squeeze-on-taiwan-with-new-maritime-patrols?traffic_source=rss)
 
 ---
 

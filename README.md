@@ -1,16 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-30 00:29:17
+**Last Update:** 2026-07-30 00:54:31
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. More than half of England in drought, Environment Agency declares
+### 1. SalesPatriot (YC W25) Is Hiring FDEs
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer">https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49103026">https://news.ycombinator.com/item?id=49103026</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer](https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer)
+
+---
+
+### 2. The coolest use for the Vision Pro
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://christianselig.com/2026/07/vision-pro-house/">https://christianselig.com/2026/07/vision-pro-house/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49102774">https://news.ycombinator.com/item?id=49102774</a></p>
+<p>Points: 69</p>
+<p># Comments: 23</p>
+
+🔗 **Read more:** [https://christianselig.com/2026/07/vision-pro-house/](https://christianselig.com/2026/07/vision-pro-house/)
+
+---
+
+### 3. Theo Conjecture solves 35-year-old math problem, finds a term no one predicted
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://firstprinciples.com/blog-article/ai-system-theo-conjecture-solves-35-year-old-math-conjecture">https://firstprinciples.com/blog-article/ai-system-theo-conjecture-solves-35-year-old-math-conjecture</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49102525">https://news.ycombinator.com/item?id=49102525</a></p>
+<p>Points: 11</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://firstprinciples.com/blog-article/ai-system-theo-conjecture-solves-35-year-old-math-conjecture](https://firstprinciples.com/blog-article/ai-system-theo-conjecture-solves-35-year-old-math-conjecture)
+
+---
+
+### 4. More than half of England in drought, Environment Agency declares
 
 **Source:** BBC
 
@@ -23,7 +71,7 @@ The drought declarations follow an exceptionally hot and dry period, which has h
 
 ---
 
-### 2. Moment police officers set foot in 'horror scene' funeral home
+### 5. Moment police officers set foot in 'horror scene' funeral home
 
 **Source:** BBC
 
@@ -36,7 +84,7 @@ Police discovered messy side rooms strewn with rubbish at the Legacy funeral hom
 
 ---
 
-### 3. Four women accuse Jared Leto of criminal sexual conduct when they were teenagers
+### 6. Four women accuse Jared Leto of criminal sexual conduct when they were teenagers
 
 **Source:** BBC
 
@@ -49,7 +97,7 @@ The actor and musician faces allegations from 10 women in total who say he mistr
 
 ---
 
-### 4. Videos show aftermath of US-Saudi strikes on Iraq PMF bases
+### 7. Videos show aftermath of US-Saudi strikes on Iraq PMF bases
 
 **Source:** Al Jazeera
 
@@ -62,7 +110,7 @@ US and Saudi forces launched coordinated airstrikes targeting Iran-backed Popula
 
 ---
 
-### 5. Trump’s attorney general pick faces possible Republican roadblock
+### 8. Trump’s attorney general pick faces possible Republican roadblock
 
 **Source:** Al Jazeera
 
@@ -75,7 +123,7 @@ Todd Blanche, Trump&#039;s former defence lawyer, has faced scrutiny over his al
 
 ---
 
-### 6. Algeria elects first-ever woman speaker of parliament
+### 9. Algeria elects first-ever woman speaker of parliament
 
 **Source:** Al Jazeera
 
@@ -88,7 +136,7 @@ Khalida Boufedeche of the National Liberation Front has become the first-ever wo
 
 ---
 
-### 7. Wildfire Fairpoint, Meade, South Dakota
+### 10. Wildfire Fairpoint, Meade, South Dakota
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Wildfires
 
 ---
 
-### 8. Super Typhoon Dolphin
+### 11. Super Typhoon Dolphin
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Severe Storms
 
 ---
 
-### 9. Wildfire Twin Butte Ck, Corson, South Dakota
+### 12. Wildfire Twin Butte Ck, Corson, South Dakota
 
 **Source:** NASA
 

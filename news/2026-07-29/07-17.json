@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-07-29T07:17:15+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Hooray for the Sockets Interface",
+            "description": "<p>Article URL: <a href=\"https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/\">https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49092754\">https://news.ycombinator.com/item?id=49092754</a></p>\n<p>Points: 7</p>\n<p># Comments: 5</p>",
+            "url": "https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/",
+            "published": "Wed, 29 Jul 2026 02:25:29 +0000",
+            "fetched": "2026-07-29T07:17:15+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Lean4 Datalog DSL Based on Google Zanzibar for AI Projects",
+            "description": "<p>Google Zanzibar datalog lang lets you describe concepts and express how they are related. I generalize it to DSL you can use on Lean4 (and other languages) this lets you represent a knowledge base you can construct, store and evaluate, have it under git and improve without big engines or relaying on external infrastructure.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49092730\">https://news.ycombinator.com/item?id=49092730</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+            "url": "https://github.com/jagg-ix/zil-lean",
+            "published": "Wed, 29 Jul 2026 02:22:04 +0000",
+            "fetched": "2026-07-29T07:17:15+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Chip stocks slide in US and Asia as AI jitters rattle investors",
+            "description": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cly8zng43npo\">https://www.bbc.com/news/articles/cly8zng43npo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49092549\">https://news.ycombinator.com/item?id=49092549</a></p>\n<p>Points: 31</p>\n<p># Comments: 16</p>",
+            "url": "https://www.bbc.com/news/articles/cly8zng43npo",
+            "published": "Wed, 29 Jul 2026 01:56:00 +0000",
+            "fetched": "2026-07-29T07:17:15+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Polanski says guillotine re-post was mistake but refuses to apologise",
+            "description": "The Green leader re-posted a photo of a man wearing a guillotine t-shirt and the name Nigel.",
+            "url": "https://www.bbc.co.uk/news/articles/c89np278qwvo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 29 Jul 2026 00:49:40 GMT",
+            "fetched": "2026-07-29T07:17:15+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham invites Tories and Lib Dems to social care talks",
+            "description": "In a speech, the PM is expected to say finding common ground across party lines will be key to fixing social care.",
+            "url": "https://www.bbc.co.uk/news/articles/c1k1vgx08gko?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 29 Jul 2026 01:59:59 GMT",
+            "fetched": "2026-07-29T07:17:15+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "The evidence that shows today's 20-somethings really do have it worse",
+            "description": "People in their 20s are facing a tougher start to adulthood than any generation in almost half a century, according to analysis for the BBC.",
+            "url": "https://www.bbc.co.uk/news/articles/cy8mnvk4r48o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 28 Jul 2026 23:52:23 GMT",
+            "fetched": "2026-07-29T07:17:15+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Haitians living in fear as Temporary Protected Status ends in the US",
+            "description": "New York’s Haitian community is living in limbo and fear after Temporary Protected Status (TPS) was terminated Monday.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/haitians-living-in-fear-as-temporary-protected-status-ends-in-the-us?traffic_source=rss",
+            "published": "Wed, 29 Jul 2026 03:09:15 +0000",
+            "fetched": "2026-07-29T07:17:15+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran missiles target US forces in Jordan after a five-day pause in war",
+            "description": "The US military says it has successfully intercepted a barrage of missiles fired by Iran at its troops in Jordan.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/iran-missiles-target-us-forces-in-jordan-after-a-five-day-pause-in-war?traffic_source=rss",
+            "published": "Wed, 29 Jul 2026 02:54:45 +0000",
+            "fetched": "2026-07-29T07:17:15+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israel kills Palestinian, destroys mosque in Gaza",
+            "description": "Israeli settlers also attack a Palestinian family in Bethlehem in the occupied West Bank.",
+            "url": "https://www.aljazeera.com/news/2026/7/29/israel-kills-palestinian-destroys-mosque-in-gaza?traffic_source=rss",
+            "published": "Wed, 29 Jul 2026 02:45:59 +0000",
+            "fetched": "2026-07-29T07:17:15+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Fairpoint, Meade, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21829",
+            "published": "2026-07-27T11:21:00Z",
+            "fetched": "2026-07-29T07:17:15+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Dolphin",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21776",
+            "published": "2026-07-27T06:00:00Z",
+            "fetched": "2026-07-29T07:17:15+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Twin Butte Ck, Corson, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21835",
+            "published": "2026-07-27T00:31:00Z",
+            "fetched": "2026-07-29T07:17:15+03:30"
+        }
+    ]
+}

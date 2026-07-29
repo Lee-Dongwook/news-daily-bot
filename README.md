@@ -1,32 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-29 06:56:18
+**Last Update:** 2026-07-29 07:17:15
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Does every question mark deserve a Betteridge?
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://dynomight.net/betteridge/">https://dynomight.net/betteridge/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49092781">https://news.ycombinator.com/item?id=49092781</a></p>
-<p>Points: 6</p>
-<p># Comments: 5</p>
-
-🔗 **Read more:** [https://dynomight.net/betteridge/](https://dynomight.net/betteridge/)
-
----
-
-### 2. Hooray for the Sockets Interface
+### 1. Hooray for the Sockets Interface
 
 **Source:** Hacker News
 
@@ -35,14 +19,14 @@
 **Description:**
 <p>Article URL: <a href="https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/">https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49092754">https://news.ycombinator.com/item?id=49092754</a></p>
-<p>Points: 6</p>
-<p># Comments: 3</p>
+<p>Points: 7</p>
+<p># Comments: 5</p>
 
 🔗 **Read more:** [https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/](https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/)
 
 ---
 
-### 3. Show HN: Lean4 Datalog DSL Based on Google Zanzibar for AI Projects
+### 2. Show HN: Lean4 Datalog DSL Based on Google Zanzibar for AI Projects
 
 **Source:** Hacker News
 
@@ -52,10 +36,26 @@
 <p>Google Zanzibar datalog lang lets you describe concepts and express how they are related. I generalize it to DSL you can use on Lean4 (and other languages) this lets you represent a knowledge base you can construct, store and evaluate, have it under git and improve without big engines or relaying on external infrastructure.</p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49092730">https://news.ycombinator.com/item?id=49092730</a></p>
-<p>Points: 5</p>
+<p>Points: 6</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://github.com/jagg-ix/zil-lean](https://github.com/jagg-ix/zil-lean)
+
+---
+
+### 3. Chip stocks slide in US and Asia as AI jitters rattle investors
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.bbc.com/news/articles/cly8zng43npo">https://www.bbc.com/news/articles/cly8zng43npo</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49092549">https://news.ycombinator.com/item?id=49092549</a></p>
+<p>Points: 31</p>
+<p># Comments: 16</p>
+
+🔗 **Read more:** [https://www.bbc.com/news/articles/cly8zng43npo](https://www.bbc.com/news/articles/cly8zng43npo)
 
 ---
 

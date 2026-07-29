@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-29 15:09:24
+**Last Update:** 2026-07-29 15:56:56
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. National Security Determination Threat Posed by Foreign-Produced Robotic Devices [pdf]
+### 1. Document-borne AI worms can self-propagate through Copilot for Word
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.fcc.gov/sites/default/files/robots-nsd.pdf">https://www.fcc.gov/sites/default/files/robots-nsd.pdf</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49095714">https://news.ycombinator.com/item?id=49095714</a></p>
-<p>Points: 14</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/">https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49096188">https://news.ycombinator.com/item?id=49096188</a></p>
+<p>Points: 34</p>
+<p># Comments: 15</p>
 
-🔗 **Read more:** [https://www.fcc.gov/sites/default/files/robots-nsd.pdf](https://www.fcc.gov/sites/default/files/robots-nsd.pdf)
+🔗 **Read more:** [https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/](https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/)
 
 ---
 
-### 2. SpecForge – A Platform for Authoring Formal Specifications
+### 2. They Stole Your Attention
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://docs.imiron.io/v/0.5.10/en/tour.html">https://docs.imiron.io/v/0.5.10/en/tour.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49095628">https://news.ycombinator.com/item?id=49095628</a></p>
-<p>Points: 16</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://moai.studio/blog/posts/they-stole-your-attention.html">https://moai.studio/blog/posts/they-stole-your-attention.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49096043">https://news.ycombinator.com/item?id=49096043</a></p>
+<p>Points: 17</p>
+<p># Comments: 14</p>
 
-🔗 **Read more:** [https://docs.imiron.io/v/0.5.10/en/tour.html](https://docs.imiron.io/v/0.5.10/en/tour.html)
+🔗 **Read more:** [https://moai.studio/blog/posts/they-stole-your-attention.html](https://moai.studio/blog/posts/they-stole-your-attention.html)
 
 ---
 
-### 3. Amiga Graphics Archive
+### 3. KOReader
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://amiga.lychesis.net/index.html">https://amiga.lychesis.net/index.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49095511">https://news.ycombinator.com/item?id=49095511</a></p>
-<p>Points: 14</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://koreader.rocks/">https://koreader.rocks/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49095865">https://news.ycombinator.com/item?id=49095865</a></p>
+<p>Points: 67</p>
+<p># Comments: 18</p>
 
-🔗 **Read more:** [https://amiga.lychesis.net/index.html](https://amiga.lychesis.net/index.html)
+🔗 **Read more:** [https://koreader.rocks/](https://koreader.rocks/)
 
 ---
 
@@ -84,59 +84,59 @@ The actor and musician faces allegations from 10 women in total who say he mistr
 
 ---
 
-### 6. OpenAI says its rogue AI tried to hack other companies
+### 6. Boy, 7, dies after beach tragedy that killed mum and daughter
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The out-of-control AI found four logins which allowed it to access multiple unnamed online services.
+Musa Ahmed is the third person to die after getting into difficulty in the water last Wednesday.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c2el319vzr3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c2el319vzr3o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c4gv0d125p5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c4gv0d125p5o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Married couple deported by ICE killed in Guatemala
+### 7. American, Asian confederations blindsided by FIFA’s World Cup plan
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Nixon Giovanni Paz, deported by ICE last year was bound and shot dead alongside his wife in Guatemala.
+Americas governing body &#039;deeply concerned&#039; by lack of due process in FIFA private investment plan, AFC &#039;disappointed&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/29/29-07-sv-guatemala-couple-ice-gl?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/29/29-07-sv-guatemala-couple-ice-gl?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/7/29/american-asian-confederations-blindsided-by-fifas-world-cup-plan?traffic_source=rss](https://www.aljazeera.com/sports/2026/7/29/american-asian-confederations-blindsided-by-fifas-world-cup-plan?traffic_source=rss)
 
 ---
 
-### 8. EU crisis chief urges tougher climate action amid France, Spain wildfires
+### 8. Iran hits US in Jordan, US-Saudi strikes on Iraq: Is war spreading?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Hadja Lahbib calls for existing plans to be accelerated and more investment as an ominous heatwave threatens.
+The US says it intercepts an Iranian &#039;surprise attack&#039; on US forces as fears rise of wider war.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/29/eu-crisis-chief-urges-tougher-climate-action-amid-france-spain-wildfires?traffic_source=rss](https://www.aljazeera.com/news/2026/7/29/eu-crisis-chief-urges-tougher-climate-action-amid-france-spain-wildfires?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/29/iran-hits-us-in-jordan-us-saudi-strikes-on-iraq-is-war-spreading?traffic_source=rss](https://www.aljazeera.com/news/2026/7/29/iran-hits-us-in-jordan-us-saudi-strikes-on-iraq-is-war-spreading?traffic_source=rss)
 
 ---
 
-### 9. Russia charges Telegram founder Pavel Durov with ‘aiding terrorism’
+### 9. Infantino’s FIFA World Cup stakes plan: Would UEFA boycott, would it work?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Russia&#039;s FSB says Telegram has not pulled content used by Ukrainian intelligence and &#039;terrorist&#039; groups to plan attacks.
+How the proposed FIFA Forward Enterprise has drawn criticism, including from UEFA and new United Kingdom Prime Minister.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/29/russia-charges-telegram-founder-pavel-durov-with-aiding-terrorism?traffic_source=rss](https://www.aljazeera.com/news/2026/7/29/russia-charges-telegram-founder-pavel-durov-with-aiding-terrorism?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/7/29/infantinos-fifa-world-cup-stakes-plan-would-uefa-boycott-would-it-work?traffic_source=rss](https://www.aljazeera.com/sports/2026/7/29/infantinos-fifa-world-cup-stakes-plan-would-uefa-boycott-would-it-work?traffic_source=rss)
 
 ---
 
-### 7. Wildfire Fairpoint, Meade, South Dakota
+### 10. Wildfire Fairpoint, Meade, South Dakota
 
 **Source:** NASA
 
@@ -149,7 +149,7 @@ Natural event: Wildfires
 
 ---
 
-### 8. Typhoon Dolphin
+### 11. Typhoon Dolphin
 
 **Source:** NASA
 
@@ -162,7 +162,7 @@ Natural event: Severe Storms
 
 ---
 
-### 9. Wildfire Twin Butte Ck, Corson, South Dakota
+### 12. Wildfire Twin Butte Ck, Corson, South Dakota
 
 **Source:** NASA
 

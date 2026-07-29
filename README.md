@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-29 22:51:20
+**Last Update:** 2026-07-29 23:23:02
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals
+### 1. Kimi K3-256k
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.emergingtrajectories.com/lh/commodification-and-circularity/">https://www.emergingtrajectories.com/lh/commodification-and-circularity/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49101529">https://news.ycombinator.com/item?id=49101529</a></p>
-<p>Points: 6</p>
+<p>Article URL: <a href="https://www.kimi.com/code/docs/en/kimi-code/models">https://www.kimi.com/code/docs/en/kimi-code/models</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49101852">https://news.ycombinator.com/item?id=49101852</a></p>
+<p>Points: 53</p>
+<p># Comments: 6</p>
+
+🔗 **Read more:** [https://www.kimi.com/code/docs/en/kimi-code/models](https://www.kimi.com/code/docs/en/kimi-code/models)
+
+---
+
+### 2. Balcony Solar: $1.74/watt direct plug-in solar
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.brightsaver.org/balcony-solar-kits">https://www.brightsaver.org/balcony-solar-kits</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49101849">https://news.ycombinator.com/item?id=49101849</a></p>
+<p>Points: 11</p>
 <p># Comments: 2</p>
 
-🔗 **Read more:** [https://www.emergingtrajectories.com/lh/commodification-and-circularity/](https://www.emergingtrajectories.com/lh/commodification-and-circularity/)
+🔗 **Read more:** [https://www.brightsaver.org/balcony-solar-kits](https://www.brightsaver.org/balcony-solar-kits)
 
 ---
 
-### 2. Austerity Breeds Financial Protectionism
+### 3. How much can you delegate to agents?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://theloop.ecpr.eu/who-the-welfare-state-protects-shapes-a-countrys-financial-openness/">https://theloop.ecpr.eu/who-the-welfare-state-protects-shapes-a-countrys-financial-openness/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49101460">https://news.ycombinator.com/item?id=49101460</a></p>
-<p>Points: 6</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://newsletter.posthog.com/p/agent-autonomy">https://newsletter.posthog.com/p/agent-autonomy</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49101655">https://news.ycombinator.com/item?id=49101655</a></p>
+<p>Points: 12</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://theloop.ecpr.eu/who-the-welfare-state-protects-shapes-a-countrys-financial-openness/](https://theloop.ecpr.eu/who-the-welfare-state-protects-shapes-a-countrys-financial-openness/)
-
----
-
-### 3. The motion-sickness cure hidden in iPhone settings
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.bbc.com/future/article/20260728-dancing-dots-the-motion-sickness-cure-hidden-in-your-iphone-settings">https://www.bbc.com/future/article/20260728-dancing-dots-the-motion-sickness-cure-hidden-in-your-iphone-settings</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49101371">https://news.ycombinator.com/item?id=49101371</a></p>
-<p>Points: 5</p>
-<p># Comments: 3</p>
-
-🔗 **Read more:** [https://www.bbc.com/future/article/20260728-dancing-dots-the-motion-sickness-cure-hidden-in-your-iphone-settings](https://www.bbc.com/future/article/20260728-dancing-dots-the-motion-sickness-cure-hidden-in-your-iphone-settings)
+🔗 **Read more:** [https://newsletter.posthog.com/p/agent-autonomy](https://newsletter.posthog.com/p/agent-autonomy)
 
 ---
 
@@ -97,7 +97,20 @@ Police discovered messy side rooms strewn with rubbish at the Legacy funeral hom
 
 ---
 
-### 7. Hindus take holy dip in India’s rivers on sacred holiday
+### 7. Al-Shabab kills five Kenyan security personnel in ambush
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The ambush is part of a rapid surge in cross-border attacks along Kenya&#039;s northern frontier.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/29/al-shabab-kills-five-kenyan-security-personnel-in-ambush?traffic_source=rss](https://www.aljazeera.com/news/2026/7/29/al-shabab-kills-five-kenyan-security-personnel-in-ambush?traffic_source=rss)
+
+---
+
+### 8. Hindus take holy dip in India’s rivers on sacred holiday
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Footage shows tens of thousands of Hindu devotees bathing in India’s Ganga and
 
 ---
 
-### 8. Bordeaux wildfire battle continues amid extreme heat
+### 9. Bordeaux wildfire battle continues amid extreme heat
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Footage shows tens of thousands of Hindu devotees bathing in India’s Ganga and
 Firefighters are on high alert in France as scorching temperatures and winds threaten to fuel wildfire west of Bordeaux
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/29/bordeaux-wildfire-battle-continues-amid-extreme-heat?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/29/bordeaux-wildfire-battle-continues-amid-extreme-heat?traffic_source=rss)
-
----
-
-### 9. Dr Anthony Fauci pleads the Fifth at Covid hearing
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Dr Anthony Fauci declined to answer questions at a Senate hearing on the origins of the Covid-19 pandemic.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/29/dr-anthony-fauci-pleads-the-fifth-at-covid-hearing?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/29/dr-anthony-fauci-pleads-the-fifth-at-covid-hearing?traffic_source=rss)
 
 ---
 

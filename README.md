@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-29 10:40:54
+**Last Update:** 2026-07-29 13:14:26
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. More Tailscale tricks for your jailbroken Kindle
+### 1. SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers">https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49094346">https://news.ycombinator.com/item?id=49094346</a></p>
+<p>Points: 40</p>
+<p># Comments: 6</p>
+
+🔗 **Read more:** [https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers](https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers)
+
+---
+
+### 2. More Tailscale tricks for your jailbroken Kindle
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes">https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49093569">https://news.ycombinator.com/item?id=49093569</a></p>
-<p>Points: 87</p>
-<p># Comments: 13</p>
+<p>Points: 175</p>
+<p># Comments: 52</p>
 
 🔗 **Read more:** [https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes](https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes)
 
 ---
 
-### 2. Cracking Windows Open: Porting RADV to Win32
+### 3. Cracking Windows Open: Porting RADV to Win32
 
 **Source:** Hacker News
 
@@ -35,43 +51,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html">https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49093435">https://news.ycombinator.com/item?id=49093435</a></p>
-<p>Points: 26</p>
-<p># Comments: 1</p>
+<p>Points: 44</p>
+<p># Comments: 11</p>
 
 🔗 **Read more:** [https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html](https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html)
 
 ---
 
-### 3. User Interfaces of the Demo Scene
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.datagubbe.se/scenegui/">https://www.datagubbe.se/scenegui/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49093434">https://news.ycombinator.com/item?id=49093434</a></p>
-<p>Points: 76</p>
-<p># Comments: 10</p>
-
-🔗 **Read more:** [https://www.datagubbe.se/scenegui/](https://www.datagubbe.se/scenegui/)
-
----
-
-### 4. Burnham invites Tories and Lib Dems to social care talks
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The prime minister is expected to say in a speech on Wednesday that finding common ground across party lines will be key to fixing social care.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c1k1vgx08gko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c1k1vgx08gko?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Four women accuse Jared Leto of criminal sexual conduct when they were teenagers
+### 4. Four women accuse Jared Leto of criminal sexual conduct when they were teenagers
 
 **Source:** BBC
 
@@ -81,6 +68,19 @@ The prime minister is expected to say in a speech on Wednesday that finding comm
 The actor and musician faces allegations from 10 women in total who say he mistreated them as teenagers.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Saudi Arabia joins US in strikes on Iran-backed militias in Iraq
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+US Central Command says proxy groups launched attacks against US bases and Saudi energy infrastructure.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +97,42 @@ The Green leader re-posted a photo of a man wearing a guillotine t-shirt and the
 
 ---
 
-### 7. Why Netanyahu didn’t want a Zelenskyy moment with Trump
+### 7. US and Saudi Arabia strike ‘Iran-aligned’ groups in Iraq
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Diplomats Jeffrey Feltman and Michael Ratney
+The US and Saudi Arabia launched joint air strikes on Iraq, targeting ‘Iran-aligned’ groups.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/29/why-netanyahu-didnt-want-a-zelenskyy-moment-with-trump?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/29/why-netanyahu-didnt-want-a-zelenskyy-moment-with-trump?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/29/us-and-saudi-arabia-strike-iran-aligned-groups-in-iraq?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/29/us-and-saudi-arabia-strike-iran-aligned-groups-in-iraq?traffic_source=rss)
 
 ---
 
-### 8. Iran attacks US bases in Middle East as Trump meets Netanyahu
+### 8. Jayden Seales takes five wickets as West Indies beat Pakistan in first Test
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Iran has also struck three ships in the Strait of Hormuz and rejected Oman’s proposal on managing the waterway.
+West Indies take a 1-0 lead in the two-Test series after Jayden Seales dominates with the ball on day 4 in Trinidad.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/29/iran-attacks-us-bases-in-middle-east-as-trump-meets-netanyahu?traffic_source=rss](https://www.aljazeera.com/news/2026/7/29/iran-attacks-us-bases-in-middle-east-as-trump-meets-netanyahu?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/7/29/seales-takes-five-wickets-as-west-indies-beat-pakistan-in-first-test?traffic_source=rss](https://www.aljazeera.com/sports/2026/7/29/seales-takes-five-wickets-as-west-indies-beat-pakistan-in-first-test?traffic_source=rss)
 
 ---
 
-### 9. China puts the ‘squeeze’ on Taiwan with new maritime patrols
+### 9. Iran and Oman swap proposals to manage Strait of Hormuz: What we know
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-New law enforcement operations could quickly escalate into a blockade of Taiwan, say analysts.
+Iran is proposing a deal that would see it have significantly more control than Oman.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/29/china-puts-squeeze-on-taiwan-with-new-maritime-patrols?traffic_source=rss](https://www.aljazeera.com/news/2026/7/29/china-puts-squeeze-on-taiwan-with-new-maritime-patrols?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/29/iran-and-oman-swap-proposals-to-manage-strait-of-hormuz-what-we-know?traffic_source=rss](https://www.aljazeera.com/news/2026/7/29/iran-and-oman-swap-proposals-to-manage-strait-of-hormuz-what-we-know?traffic_source=rss)
 
 ---
 

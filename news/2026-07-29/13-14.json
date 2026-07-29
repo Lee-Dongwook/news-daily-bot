@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-07-29T13:14:26+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers",
+            "description": "<p>Article URL: <a href=\"https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers\">https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49094346\">https://news.ycombinator.com/item?id=49094346</a></p>\n<p>Points: 40</p>\n<p># Comments: 6</p>",
+            "url": "https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers",
+            "published": "Wed, 29 Jul 2026 07:18:24 +0000",
+            "fetched": "2026-07-29T13:14:26+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "More Tailscale tricks for your jailbroken Kindle",
+            "description": "<p>Article URL: <a href=\"https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes\">https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49093569\">https://news.ycombinator.com/item?id=49093569</a></p>\n<p>Points: 175</p>\n<p># Comments: 52</p>",
+            "url": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
+            "published": "Wed, 29 Jul 2026 04:58:46 +0000",
+            "fetched": "2026-07-29T13:14:26+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Cracking Windows Open: Porting RADV to Win32",
+            "description": "<p>Article URL: <a href=\"https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html\">https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49093435\">https://news.ycombinator.com/item?id=49093435</a></p>\n<p>Points: 44</p>\n<p># Comments: 11</p>",
+            "url": "https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html",
+            "published": "Wed, 29 Jul 2026 04:30:47 +0000",
+            "fetched": "2026-07-29T13:14:26+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Four women accuse Jared Leto of criminal sexual conduct when they were teenagers",
+            "description": "The actor and musician faces allegations from 10 women in total who say he mistreated them as teenagers.",
+            "url": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 29 Jul 2026 05:00:07 GMT",
+            "fetched": "2026-07-29T13:14:26+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq",
+            "description": "US Central Command says proxy groups launched attacks against US bases and Saudi energy infrastructure.",
+            "url": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 29 Jul 2026 09:39:56 GMT",
+            "fetched": "2026-07-29T13:14:26+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Polanski says guillotine re-post was mistake but refuses to apologise",
+            "description": "The Green leader re-posted a photo of a man wearing a guillotine t-shirt and the name Nigel.",
+            "url": "https://www.bbc.co.uk/news/articles/c89np278qwvo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 29 Jul 2026 00:49:40 GMT",
+            "fetched": "2026-07-29T13:14:26+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US and Saudi Arabia strike ‘Iran-aligned’ groups in Iraq",
+            "description": "The US and Saudi Arabia launched joint air strikes on Iraq, targeting ‘Iran-aligned’ groups.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/us-and-saudi-arabia-strike-iran-aligned-groups-in-iraq?traffic_source=rss",
+            "published": "Wed, 29 Jul 2026 08:33:39 +0000",
+            "fetched": "2026-07-29T13:14:26+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Jayden Seales takes five wickets as West Indies beat Pakistan in first Test",
+            "description": "West Indies take a 1-0 lead in the two-Test series after Jayden Seales dominates with the ball on day 4 in Trinidad.",
+            "url": "https://www.aljazeera.com/sports/2026/7/29/seales-takes-five-wickets-as-west-indies-beat-pakistan-in-first-test?traffic_source=rss",
+            "published": "Wed, 29 Jul 2026 08:16:08 +0000",
+            "fetched": "2026-07-29T13:14:26+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran and Oman swap proposals to manage Strait of Hormuz: What we know",
+            "description": "Iran is proposing a deal that would see it have significantly more control than Oman.",
+            "url": "https://www.aljazeera.com/news/2026/7/29/iran-and-oman-swap-proposals-to-manage-strait-of-hormuz-what-we-know?traffic_source=rss",
+            "published": "Wed, 29 Jul 2026 08:16:06 +0000",
+            "fetched": "2026-07-29T13:14:26+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Fairpoint, Meade, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21829",
+            "published": "2026-07-27T11:21:00Z",
+            "fetched": "2026-07-29T13:14:26+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Dolphin",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21776",
+            "published": "2026-07-27T06:00:00Z",
+            "fetched": "2026-07-29T13:14:26+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Twin Butte Ck, Corson, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21835",
+            "published": "2026-07-27T00:31:00Z",
+            "fetched": "2026-07-29T13:14:26+03:30"
+        }
+    ]
+}

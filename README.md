@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-30 20:26:46
+**Last Update:** 2026-07-30 21:08:26
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Pgtestdb's template cloning approach to testing is fast
+### 1. Advancing the price-performance frontier with GPT‑5.6
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://brandur.org/fragments/pgtestdb">https://brandur.org/fragments/pgtestdb</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49111687">https://news.ycombinator.com/item?id=49111687</a></p>
-<p>Points: 7</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/">https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49112867">https://news.ycombinator.com/item?id=49112867</a></p>
+<p>Points: 15</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://brandur.org/fragments/pgtestdb](https://brandur.org/fragments/pgtestdb)
+🔗 **Read more:** [https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/](https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/)
 
 ---
 
-### 2. Physicists Solve a Muon Mystery. Now, Old Results Don't Add Up
+### 2. Read This Before You Buy That TV Streaming Stick
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/">https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49111305">https://news.ycombinator.com/item?id=49111305</a></p>
-<p>Points: 48</p>
-<p># Comments: 8</p>
+<p>Article URL: <a href="https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/">https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49112744">https://news.ycombinator.com/item?id=49112744</a></p>
+<p>Points: 26</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/](https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/)
+🔗 **Read more:** [https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/](https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/)
 
 ---
 
-### 3. Gemini Robotics 2 brings whole body intelligence to robots
+### 3. Rise Reforming (YC S26) Is Hiring
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/">https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49111237">https://news.ycombinator.com/item?id=49111237</a></p>
-<p>Points: 178</p>
-<p># Comments: 138</p>
+<p>Article URL: <a href="https://www.ycombinator.com/companies/rise-reforming/jobs/wJ9Q9nv-senior-chemical-process-engineer">https://www.ycombinator.com/companies/rise-reforming/jobs/wJ9Q9nv-senior-chemical-process-engineer</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49112683">https://news.ycombinator.com/item?id=49112683</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/](https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/)
+🔗 **Read more:** [https://www.ycombinator.com/companies/rise-reforming/jobs/wJ9Q9nv-senior-chemical-process-engineer](https://www.ycombinator.com/companies/rise-reforming/jobs/wJ9Q9nv-senior-chemical-process-engineer)
 
 ---
 

@@ -1,16 +1,49 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-30 03:33:03
+**Last Update:** 2026-07-30 04:24:22
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Man and the Computer by John G. Kemeny (1972 book by the co-creator of BASIC)
+### 1. Show HN: A local merge queue for parallel Claude Code agents
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>I have been pushing up to 90 commits a day on a MacBook Air via 4-5 parallel agents. As you can imagine when all the agents try to build, test and run dev servers on an 8GB machine it is the fast lane to a force quit and restart. I also did not want to pay the CI minutes on 90 pushes a day.<p>So I designed a local merge queue to have all commits land one at a time and fully tested. Hopefully this helps other folks with more modest machines. Appreciate any feedback.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49104747">https://news.ycombinator.com/item?id=49104747</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://github.com/funador/claude-code-merge-queue](https://github.com/funador/claude-code-merge-queue)
+
+---
+
+### 2. The Productivity Mirage
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://frantic.im/mirage/">https://frantic.im/mirage/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49104335">https://news.ycombinator.com/item?id=49104335</a></p>
+<p>Points: 25</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://frantic.im/mirage/](https://frantic.im/mirage/)
+
+---
+
+### 3. Man and the Computer by John G. Kemeny (1972 book by the co-creator of BASIC)
 
 **Source:** Hacker News
 
@@ -19,42 +52,10 @@
 **Description:**
 <p>Article URL: <a href="https://archive.org/details/mancomputerbyjoh0000john">https://archive.org/details/mancomputerbyjoh0000john</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49104140">https://news.ycombinator.com/item?id=49104140</a></p>
-<p>Points: 8</p>
-<p># Comments: 1</p>
+<p>Points: 14</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://archive.org/details/mancomputerbyjoh0000john](https://archive.org/details/mancomputerbyjoh0000john)
-
----
-
-### 2. LLM Honeypot
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://llm2human.pages.dev/">https://llm2human.pages.dev/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49104117">https://news.ycombinator.com/item?id=49104117</a></p>
-<p>Points: 13</p>
-<p># Comments: 8</p>
-
-🔗 **Read more:** [https://llm2human.pages.dev/](https://llm2human.pages.dev/)
-
----
-
-### 3. GitHub is the wrong shape for this new world
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://depot.dev/blog/github-is-the-wrong-shape-for-this-new-world">https://depot.dev/blog/github-is-the-wrong-shape-for-this-new-world</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49103910">https://news.ycombinator.com/item?id=49103910</a></p>
-<p>Points: 25</p>
-<p># Comments: 8</p>
-
-🔗 **Read more:** [https://depot.dev/blog/github-is-the-wrong-shape-for-this-new-world](https://depot.dev/blog/github-is-the-wrong-shape-for-this-new-world)
 
 ---
 
@@ -84,55 +85,55 @@ Should we embrace air conditioning despite its costs and consequences, and how m
 
 ---
 
-### 6. Moment police officers set foot in 'horror scene' funeral home
+### 6. Police to take no further action against Polanski over guillotine re-post
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Police discovered messy side rooms strewn with rubbish at the Legacy funeral home in Hull.
+The Green Party leader has said he made an "inadvertent mistake" when he shared the image with his social media followers.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c1e1g5vjn4jo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c1e1g5vjn4jo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwylrnxxl77o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwylrnxxl77o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Saudi Arabia seeks international coalition against Houthis in Red Sea
+### 7. Trump cuts WHO off from Gavi vaccine alliance funding
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Riyadh seeks partners to safeguard shipping in Red Sea as strikes on energy tankers expand, pushing oil prices higher.
+Decision follows long-running feud between Trump and UN group.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/29/saudi-arabia-seeks-international-coalition-against-houthis-in-red-sea?traffic_source=rss](https://www.aljazeera.com/news/2026/7/29/saudi-arabia-seeks-international-coalition-against-houthis-in-red-sea?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/30/trump-cuts-who-off-from-gavi-vaccine-alliance?traffic_source=rss](https://www.aljazeera.com/news/2026/7/30/trump-cuts-who-off-from-gavi-vaccine-alliance?traffic_source=rss)
 
 ---
 
-### 8. Nicaragua’s Daniel Ortega aims to bar ‘traitors’ from future elections
+### 8. Russian ballistic missile strikes on Kyiv come after Zelenskyy’s warning
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ortega has overseen a sweeping crackdown on civil society in Nicaragua and concentrated power in his own hands.
+Returning from the US, Zelenskyy says Ukraine&#039;s safety depends on allies’ willingness to provide anti-missile defences.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/29/nicaraguas-daniel-ortega-aims-to-bar-traitors-from-future-elections?traffic_source=rss](https://www.aljazeera.com/news/2026/7/29/nicaraguas-daniel-ortega-aims-to-bar-traitors-from-future-elections?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/30/russia-ballistic-missile-strikes-on-kyiv-come-after-zelenskyys-warning?traffic_source=rss](https://www.aljazeera.com/news/2026/7/30/russia-ballistic-missile-strikes-on-kyiv-come-after-zelenskyys-warning?traffic_source=rss)
 
 ---
 
-### 9. Israel slams Canada for statement opposing West Bank settlement expansion
+### 9. Iran war live: US launches ‘powerful’ strikes after IRGC attack on Jordan
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Canada says that illegal settlements in occupied Palestinian territory undermine &#039;peace, security and stability&#039;.
+Threat comes as Iranian media report that four Iranians were killed in joint US-Saudi attacks in Iraq.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/29/israel-slams-canada-for-statement-opposing-west-bank-settlement-expansion?traffic_source=rss](https://www.aljazeera.com/news/2026/7/29/israel-slams-canada-for-statement-opposing-west-bank-settlement-expansion?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/7/30/iran-war-live-trump-threatens-to-hit-back-hard-over-strikes-on-jordan?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/7/30/iran-war-live-trump-threatens-to-hit-back-hard-over-strikes-on-jordan?traffic_source=rss)
 
 ---
 

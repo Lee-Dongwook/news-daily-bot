@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-30 15:39:39
+**Last Update:** 2026-07-30 16:17:07
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** BBC, Al Jazeera, Hacker News
 
 ---
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://lwn.net/Articles/1086041/">https://lwn.net/Articles/1086041/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49108685">https://news.ycombinator.com/item?id=49108685</a></p>
-<p>Points: 10</p>
-<p># Comments: 1</p>
+<p>Points: 87</p>
+<p># Comments: 56</p>
 
 🔗 **Read more:** [https://lwn.net/Articles/1086041/](https://lwn.net/Articles/1086041/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.bloomberg.com/news/articles/2026-07-29/chatgpt-roblox-to-fall-under-strictest-eu-rules-for-platforms">https://www.bloomberg.com/news/articles/2026-07-29/chatgpt-roblox-to-fall-under-strictest-eu-rules-for-platforms</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49108556">https://news.ycombinator.com/item?id=49108556</a></p>
-<p>Points: 12</p>
-<p># Comments: 0</p>
+<p>Points: 24</p>
+<p># Comments: 5</p>
 
 🔗 **Read more:** [https://www.bloomberg.com/news/articles/2026-07-29/chatgpt-roblox-to-fall-under-strictest-eu-rules-for-platforms](https://www.bloomberg.com/news/articles/2026-07-29/chatgpt-roblox-to-fall-under-strictest-eu-rules-for-platforms)
 
@@ -71,33 +71,46 @@ After a short period of relative calm when hostilities were paused, both sides h
 
 ---
 
-### 5. Joe Root returns as England Test cricket captain with Stephen Fleming named head coach
+### 5. Thousands evacuated in Crete but Spanish PM ends wildfire emergency
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Former New Zealand captain Stephen Fleming is appointed as England Test coach, with Joe Root as captain.
+Strong winds have fanned the flames in the Rethymno region as wildfires continue to ravage the Greek island.
 
-🔗 **Read more:** [https://www.bbc.co.uk/sport/cricket/articles/cx2mjk24lymo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/cricket/articles/cx2mjk24lymo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Israel building new land barriers in Gaza and displacing families
+### 6. Large rise in offenders sent back to prison, figures reveal
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Experts have told the BBC that the earthworks suggest Israel is planning for a long-term internal border.
+There has been a large rise in the number of offenders being recalled to prisons in England and Wales.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cpvwjmme3p0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cpvwjmme3p0o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6298ljegkgo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6298ljegkgo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. How does a safe zone in Lebanon become a target three times?
+### 7. England appoint Root and Fleming as Test cricket captain and coach
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+England confirm Joe Root to return as Test captain, while Stephen Fleming replaces Brendon McCullum as coach.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/7/30/england-appoint-root-and-fleming-as-test-cricket-captain-and-coach?traffic_source=rss](https://www.aljazeera.com/sports/2026/7/30/england-appoint-root-and-fleming-as-test-cricket-captain-and-coach?traffic_source=rss)
+
+---
+
+### 8. How does a safe zone in Lebanon become a target three times?
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Three times in three decades, Qana&#039;s shelters were bombed. AJLabs tracks a 
 
 ---
 
-### 8. Israeli strikes kill at least four, including children, across Gaza Strip
+### 9. Israeli strikes kill at least four, including children, across Gaza Strip
 
 **Source:** Al Jazeera
 
@@ -120,58 +133,6 @@ Three times in three decades, Qana&#039;s shelters were bombed. AJLabs tracks a 
 Bombings take place as Hamas officials meet with Qatari, Egyptian and Turkish mediators in Cairo to discuss truce.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/30/israeli-strikes-kill-at-least-four-including-children-across-gaza-strip?traffic_source=rss](https://www.aljazeera.com/news/2026/7/30/israeli-strikes-kill-at-least-four-including-children-across-gaza-strip?traffic_source=rss)
-
----
-
-### 9. AFC president doubles down on FIFA, calling World Cup plan ‘unacceptable’
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Asian Football Confederation chief says plan to sell FIFA World Cup stakes undermines sport&#039;s continental structure.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/7/30/afc-president-doubles-down-on-fifa-calling-world-cup-plan-unacceptable?traffic_source=rss](https://www.aljazeera.com/sports/2026/7/30/afc-president-doubles-down-on-fifa-calling-world-cup-plan-unacceptable?traffic_source=rss)
-
----
-
-### 10. Wildfire Fairpoint, Meade, South Dakota
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21829](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21829)
-
----
-
-### 11. Super Typhoon Dolphin
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21776](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21776)
-
----
-
-### 12. Wildfire Twin Butte Ck, Corson, South Dakota
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21835](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21835)
 
 ---
 

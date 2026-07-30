@@ -1,64 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-30 18:43:02
+**Last Update:** 2026-07-30 20:26:46
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. SDL_GPU minimal, single-header, high-performance 2D graphics painting library
+### 1. Pgtestdb's template cloning approach to testing is fast
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/n67094/sdl_gp">https://github.com/n67094/sdl_gp</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49110655">https://news.ycombinator.com/item?id=49110655</a></p>
+<p>Article URL: <a href="https://brandur.org/fragments/pgtestdb">https://brandur.org/fragments/pgtestdb</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49111687">https://news.ycombinator.com/item?id=49111687</a></p>
 <p>Points: 7</p>
 <p># Comments: 1</p>
 
-🔗 **Read more:** [https://github.com/n67094/sdl_gp](https://github.com/n67094/sdl_gp)
+🔗 **Read more:** [https://brandur.org/fragments/pgtestdb](https://brandur.org/fragments/pgtestdb)
 
 ---
 
-### 2. Trusted URLs via Cryptographic Signatures
+### 2. Physicists Solve a Muon Mystery. Now, Old Results Don't Add Up
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.certisfy.com/2026/04/trusted-urls-via-cryptographic.html">https://blog.certisfy.com/2026/04/trusted-urls-via-cryptographic.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49110577">https://news.ycombinator.com/item?id=49110577</a></p>
-<p>Points: 3</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/">https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49111305">https://news.ycombinator.com/item?id=49111305</a></p>
+<p>Points: 48</p>
+<p># Comments: 8</p>
 
-🔗 **Read more:** [https://blog.certisfy.com/2026/04/trusted-urls-via-cryptographic.html](https://blog.certisfy.com/2026/04/trusted-urls-via-cryptographic.html)
+🔗 **Read more:** [https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/](https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/)
 
 ---
 
-### 3. Hacker Public Radio
+### 3. Gemini Robotics 2 brings whole body intelligence to robots
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://hackerpublicradio.org/">https://hackerpublicradio.org/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49110547">https://news.ycombinator.com/item?id=49110547</a></p>
-<p>Points: 11</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/">https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49111237">https://news.ycombinator.com/item?id=49111237</a></p>
+<p>Points: 178</p>
+<p># Comments: 138</p>
 
-🔗 **Read more:** [https://hackerpublicradio.org/](https://hackerpublicradio.org/)
+🔗 **Read more:** [https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/](https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/)
 
 ---
 
-### 4. Thousands evacuated in Crete as Europe battles wildfires
+### 4. European nations to boycott World Cup if Fifa goes ahead with investment plan
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Uefa's 55 member associations vote to boycott the World Cup if Fifa proceeds with its plan to sell stakes in its competitions.
+
+🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Thousands evacuated in Crete as wildfires threaten tourist resorts
 
 **Source:** BBC
 
@@ -71,7 +84,7 @@ Strong winds have fanned the flames in the Rethymno region as wildfires continue
 
 ---
 
-### 5. Drought declared across whole of Wales as conditions 'deteriorate'
+### 6. Drought declared across whole of Wales as conditions 'deteriorate'
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ Wales is on course for its driest July on record in almost 190 years.
 
 ---
 
-### 6. Bank holds interest rates but says it is ready to raise them if Iran war escalates
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The Bank also expects the economy to grow more than previously forecast this year, although uncertainties remain because of the Iran war.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cp8e6m4rndgo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cp8e6m4rndgo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Smoke rises over southern Iran after renewed US attacks
+### 7. ‘To play God’: Cuba’s healthcare system collapses under US pressure
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A large plume of smoke was seen rising over the southwestern Iranian city of Ahvaz following renewed US strikes.
+As the Trump administration tightens US sanctions, Cuba&#039;s healthcare sector struggles with fuel and supply shortages.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/30/smoke-rises-over-southern-iran-after-renewed-us-attacks?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/30/smoke-rises-over-southern-iran-after-renewed-us-attacks?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/longform/2026/7/30/to-play-god-cubas-healthcare-system-collapses-under-us-pressure?traffic_source=rss](https://www.aljazeera.com/news/longform/2026/7/30/to-play-god-cubas-healthcare-system-collapses-under-us-pressure?traffic_source=rss)
 
 ---
 
-### 8. War on Iran: Phase II: Day 19
+### 8. In Their Own Hands: Ghana’s Drug Vigilantes
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The US resumes bombing Iran, with a family of three killed in Qeshm Island.
+Citizen vigilantes patrol Ghana&#039;s streets, fighting an opioid crisis. We meet those taking the law into their own hands.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/30/war-on-iran-phase-ii-day-19?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/30/war-on-iran-phase-ii-day-19?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/people-power/2026/7/30/in-their-own-hands-ghanas-drug-vigilantes?traffic_source=rss](https://www.aljazeera.com/video/people-power/2026/7/30/in-their-own-hands-ghanas-drug-vigilantes?traffic_source=rss)
 
 ---
 
-### 9. Police arrest dozens at London rally supporting Palestine Action
+### 9. NATO jets scramble as Russian missile detonates in Poland
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The protest is the first in support of the proscribed group since Andy Burnham became prime minister.
+The growing series of NATO airspace violations is raising concern that Russia&#039;s war on Ukraine could escalate.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/30/police-arrest-dozens-at-london-rally-supporting-palestine-action?traffic_source=rss](https://www.aljazeera.com/news/2026/7/30/police-arrest-dozens-at-london-rally-supporting-palestine-action?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/30/nato-jets-scramble-as-russian-missile-detonates-in-poland?traffic_source=rss](https://www.aljazeera.com/news/2026/7/30/nato-jets-scramble-as-russian-missile-detonates-in-poland?traffic_source=rss)
 
 ---
 

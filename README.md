@@ -1,16 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-30 13:58:03
+**Last Update:** 2026-07-30 15:39:39
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. US launches 'heavy' strikes on Iran after attempted attack on American troops
+### 1. Mbodi AI (YC P25) Is Hiring Robotics/Research Engineers
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.ycombinator.com/companies/mbodi-ai/jobs">https://www.ycombinator.com/companies/mbodi-ai/jobs</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49108840">https://news.ycombinator.com/item?id=49108840</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.ycombinator.com/companies/mbodi-ai/jobs](https://www.ycombinator.com/companies/mbodi-ai/jobs)
+
+---
+
+### 2. GCC steering committee announces AI policy
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://lwn.net/Articles/1086041/">https://lwn.net/Articles/1086041/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49108685">https://news.ycombinator.com/item?id=49108685</a></p>
+<p>Points: 10</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://lwn.net/Articles/1086041/](https://lwn.net/Articles/1086041/)
+
+---
+
+### 3. ChatGPT, Roblox to Fall Under Strictest EU Rules for Platforms
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.bloomberg.com/news/articles/2026-07-29/chatgpt-roblox-to-fall-under-strictest-eu-rules-for-platforms">https://www.bloomberg.com/news/articles/2026-07-29/chatgpt-roblox-to-fall-under-strictest-eu-rules-for-platforms</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49108556">https://news.ycombinator.com/item?id=49108556</a></p>
+<p>Points: 12</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.bloomberg.com/news/articles/2026-07-29/chatgpt-roblox-to-fall-under-strictest-eu-rules-for-platforms](https://www.bloomberg.com/news/articles/2026-07-29/chatgpt-roblox-to-fall-under-strictest-eu-rules-for-platforms)
+
+---
+
+### 4. US launches 'heavy' strikes on Iran after attempted attack on American troops
 
 **Source:** BBC
 
@@ -23,72 +71,72 @@ After a short period of relative calm when hostilities were paused, both sides h
 
 ---
 
-### 2. How the UK's extreme heat is shifting the conversation about air-con
+### 5. Joe Root returns as England Test cricket captain with Stephen Fleming named head coach
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Should we embrace air conditioning despite its costs and consequences?
+Former New Zealand captain Stephen Fleming is appointed as England Test coach, with Joe Root as captain.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cy5dw4plzvlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cy5dw4plzvlo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/sport/cricket/articles/cx2mjk24lymo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/cricket/articles/cx2mjk24lymo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 3. Thousands evacuated in Crete as European wildfires continue to rage
+### 6. Israel building new land barriers in Gaza and displacing families
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Strong winds have fanned the flames in the Rethymno region as wildfires continue to ravage the Greek island.
+Experts have told the BBC that the earthworks suggest Israel is planning for a long-term internal border.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cpvwjmme3p0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cpvwjmme3p0o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. Poland says Russian missile breaches NATO airspace
+### 7. How does a safe zone in Lebanon become a target three times?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Poland says a Russian missile landed inside Polish territory, breaching NATO airspace during a Russian attack on Ukraine
+Three times in three decades, Qana&#039;s shelters were bombed. AJLabs tracks a village the Israeli military keeps hitting.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/30/30-07-sv-lublin-air-sirens-pl?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/30/30-07-sv-lublin-air-sirens-pl?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/by-the-numbers-3/2026/7/30/how-does-a-safe-zone-in-lebanon-become-a-target-three-times?traffic_source=rss](https://www.aljazeera.com/video/by-the-numbers-3/2026/7/30/how-does-a-safe-zone-in-lebanon-become-a-target-three-times?traffic_source=rss)
 
 ---
 
-### 5. Howe exits Newcastle on Premier League season eve, with Al-Ahli boss touted
+### 8. Israeli strikes kill at least four, including children, across Gaza Strip
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Eddie Howe has left Newcastle on the eve of Premier League season, with Matthias Jaissle touted as new manager.
+Bombings take place as Hamas officials meet with Qatari, Egyptian and Turkish mediators in Cairo to discuss truce.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/7/30/howe-exits-newcastle-on-premier-league-season-eve-with-al-ahli-boss-touted?traffic_source=rss](https://www.aljazeera.com/sports/2026/7/30/howe-exits-newcastle-on-premier-league-season-eve-with-al-ahli-boss-touted?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/30/israeli-strikes-kill-at-least-four-including-children-across-gaza-strip?traffic_source=rss](https://www.aljazeera.com/news/2026/7/30/israeli-strikes-kill-at-least-four-including-children-across-gaza-strip?traffic_source=rss)
 
 ---
 
-### 6. US hits multiple targets in Iran as IRGC pledges retaliation: What we know
+### 9. AFC president doubles down on FIFA, calling World Cup plan ‘unacceptable’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Jordan said it intercepted missiles shortly after the US struck Iranian sites including Qeshm and Bushehr.
+Asian Football Confederation chief says plan to sell FIFA World Cup stakes undermines sport&#039;s continental structure.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/30/us-hits-multiple-targets-in-iran-as-irgc-pledges-retaliation-what-we-know?traffic_source=rss](https://www.aljazeera.com/news/2026/7/30/us-hits-multiple-targets-in-iran-as-irgc-pledges-retaliation-what-we-know?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/7/30/afc-president-doubles-down-on-fifa-calling-world-cup-plan-unacceptable?traffic_source=rss](https://www.aljazeera.com/sports/2026/7/30/afc-president-doubles-down-on-fifa-calling-world-cup-plan-unacceptable?traffic_source=rss)
 
 ---
 
-### 7. Wildfire Fairpoint, Meade, South Dakota
+### 10. Wildfire Fairpoint, Meade, South Dakota
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Wildfires
 
 ---
 
-### 8. Super Typhoon Dolphin
+### 11. Super Typhoon Dolphin
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Severe Storms
 
 ---
 
-### 9. Wildfire Twin Butte Ck, Corson, South Dakota
+### 12. Wildfire Twin Butte Ck, Corson, South Dakota
 
 **Source:** NASA
 

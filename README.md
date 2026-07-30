@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-30 23:07:04
+**Last Update:** 2026-07-31 00:09:35
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. UEFA and its national associations will not participate in FIFA competitions
+### 1. Agent Skill to Force Docs in ASD-STE100 Simplified Technical English
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/AminBlg/SimpleEnglish">https://github.com/AminBlg/SimpleEnglish</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49114639">https://news.ycombinator.com/item?id=49114639</a></p>
+<p>Points: 7</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://github.com/AminBlg/SimpleEnglish](https://github.com/AminBlg/SimpleEnglish)
+
+---
+
+### 2. UEFA and its national associations will not participate in FIFA competitions
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/">https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49113929">https://news.ycombinator.com/item?id=49113929</a></p>
-<p>Points: 193</p>
-<p># Comments: 92</p>
+<p>Points: 371</p>
+<p># Comments: 221</p>
 
 🔗 **Read more:** [https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/](https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/)
 
 ---
 
-### 2. Postgres Queues Actually Scale
+### 3. Making Postgres queues scale
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.dbos.dev/blog/making-postgres-queues-scale">https://www.dbos.dev/blog/making-postgres-queues-scale</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49113913">https://news.ycombinator.com/item?id=49113913</a></p>
-<p>Points: 29</p>
-<p># Comments: 1</p>
+<p>Points: 63</p>
+<p># Comments: 6</p>
 
 🔗 **Read more:** [https://www.dbos.dev/blog/making-postgres-queues-scale](https://www.dbos.dev/blog/making-postgres-queues-scale)
-
----
-
-### 3. So you want to use plants to reduce CO₂
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://dynomight.net/plants/">https://dynomight.net/plants/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49113801">https://news.ycombinator.com/item?id=49113801</a></p>
-<p>Points: 19</p>
-<p># Comments: 9</p>
-
-🔗 **Read more:** [https://dynomight.net/plants/](https://dynomight.net/plants/)
 
 ---
 
@@ -71,7 +71,20 @@ Uefa says "the World Cup is not for sale" after its 55 member associations vote 
 
 ---
 
-### 5. Thousands evacuated in Crete as wildfires threaten tourist resorts
+### 5. Suffolk wildfire still growing and unpredictable, says fire service
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Firefighters expect to be at the scene on the Suffolk coast for another 48 hours at least.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c78gnj1qqyyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c78gnj1qqyyo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Thousands evacuated in Crete as wildfires threaten tourist resorts
 
 **Source:** BBC
 
@@ -84,20 +97,20 @@ Strong winds have fanned the flames in the Rethymno region as wildfires continue
 
 ---
 
-### 6. Drought declared across whole of Wales as conditions 'deteriorate'
+### 7. Saudi Arabia announces maritime defence alliance to secure vital waterways
 
-**Source:** BBC
+**Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Wales is on course for its driest July on record in almost 190 years.
+Fourteen nations sign up to alliance to protect vital trade and energy routes amid escalating hostilities.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c8jn1v37znvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c8jn1v37znvo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/30/saudi-arabia-announces-maritime-defence-alliance-to-secure-vital-waterways?traffic_source=rss](https://www.aljazeera.com/news/2026/7/30/saudi-arabia-announces-maritime-defence-alliance-to-secure-vital-waterways?traffic_source=rss)
 
 ---
 
-### 7. Congo’s Ebola death toll passes 1,500 as it struggles to halt spread
+### 8. Congo’s Ebola death toll passes 1,500 as it struggles to halt spread
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ There&#039;s still no vaccine for the Bundibugyo strain of the virus as the coun
 
 ---
 
-### 8. UN demands end of Ugandan clampdown on dissent
+### 9. UN demands end of Ugandan clampdown on dissent
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ There&#039;s still no vaccine for the Bundibugyo strain of the virus as the coun
 Pervasive climate of fear condemned amid human rights violations and crackdowns on opposition.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/30/un-demands-end-of-ugandan-clampdown-on-dissent?traffic_source=rss](https://www.aljazeera.com/news/2026/7/30/un-demands-end-of-ugandan-clampdown-on-dissent?traffic_source=rss)
-
----
-
-### 9. ABC News says FCC is carrying out intimidation campaign to shape coverage
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Trump administration has frequently sought to pressure companies over coverage critical of the president and his allies.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/30/abc-news-says-fcc-is-carrying-out-intimidation-campaign-to-shape-coverage?traffic_source=rss](https://www.aljazeera.com/news/2026/7/30/abc-news-says-fcc-is-carrying-out-intimidation-campaign-to-shape-coverage?traffic_source=rss)
 
 ---
 

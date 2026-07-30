@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-07-30T18:43:02+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "SDL_GPU minimal, single-header, high-performance 2D graphics painting library",
+            "description": "<p>Article URL: <a href=\"https://github.com/n67094/sdl_gp\">https://github.com/n67094/sdl_gp</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49110655\">https://news.ycombinator.com/item?id=49110655</a></p>\n<p>Points: 7</p>\n<p># Comments: 1</p>",
+            "url": "https://github.com/n67094/sdl_gp",
+            "published": "Thu, 30 Jul 2026 14:36:59 +0000",
+            "fetched": "2026-07-30T18:43:02+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Trusted URLs via Cryptographic Signatures",
+            "description": "<p>Article URL: <a href=\"https://blog.certisfy.com/2026/04/trusted-urls-via-cryptographic.html\">https://blog.certisfy.com/2026/04/trusted-urls-via-cryptographic.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49110577\">https://news.ycombinator.com/item?id=49110577</a></p>\n<p>Points: 3</p>\n<p># Comments: 1</p>",
+            "url": "https://blog.certisfy.com/2026/04/trusted-urls-via-cryptographic.html",
+            "published": "Thu, 30 Jul 2026 14:31:13 +0000",
+            "fetched": "2026-07-30T18:43:02+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Hacker Public Radio",
+            "description": "<p>Article URL: <a href=\"https://hackerpublicradio.org/\">https://hackerpublicradio.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49110547\">https://news.ycombinator.com/item?id=49110547</a></p>\n<p>Points: 11</p>\n<p># Comments: 1</p>",
+            "url": "https://hackerpublicradio.org/",
+            "published": "Thu, 30 Jul 2026 14:29:27 +0000",
+            "fetched": "2026-07-30T18:43:02+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Thousands evacuated in Crete as Europe battles wildfires",
+            "description": "Strong winds have fanned the flames in the Rethymno region as wildfires continue to ravage the Greek island.",
+            "url": "https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 30 Jul 2026 12:46:16 GMT",
+            "fetched": "2026-07-30T18:43:02+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Drought declared across whole of Wales as conditions 'deteriorate'",
+            "description": "Wales is on course for its driest July on record in almost 190 years.",
+            "url": "https://www.bbc.co.uk/news/articles/c8jn1v37znvo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 30 Jul 2026 14:15:09 GMT",
+            "fetched": "2026-07-30T18:43:02+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Bank holds interest rates but says it is ready to raise them if Iran war escalates",
+            "description": "The Bank also expects the economy to grow more than previously forecast this year, although uncertainties remain because of the Iran war.",
+            "url": "https://www.bbc.co.uk/news/articles/cp8e6m4rndgo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 30 Jul 2026 14:01:19 GMT",
+            "fetched": "2026-07-30T18:43:02+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Smoke rises over southern Iran after renewed US attacks",
+            "description": "A large plume of smoke was seen rising over the southwestern Iranian city of Ahvaz following renewed US strikes.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/smoke-rises-over-southern-iran-after-renewed-us-attacks?traffic_source=rss",
+            "published": "Thu, 30 Jul 2026 14:58:41 +0000",
+            "fetched": "2026-07-30T18:43:02+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "War on Iran: Phase II: Day 19",
+            "description": "The US resumes bombing Iran, with a family of three killed in Qeshm Island.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/war-on-iran-phase-ii-day-19?traffic_source=rss",
+            "published": "Thu, 30 Jul 2026 14:56:59 +0000",
+            "fetched": "2026-07-30T18:43:02+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Police arrest dozens at London rally supporting Palestine Action",
+            "description": "The protest is the first in support of the proscribed group since Andy Burnham became prime minister.",
+            "url": "https://www.aljazeera.com/news/2026/7/30/police-arrest-dozens-at-london-rally-supporting-palestine-action?traffic_source=rss",
+            "published": "Thu, 30 Jul 2026 14:22:02 +0000",
+            "fetched": "2026-07-30T18:43:02+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Fairpoint, Meade, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21829",
+            "published": "2026-07-27T11:21:00Z",
+            "fetched": "2026-07-30T18:43:02+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Super Typhoon Dolphin",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21776",
+            "published": "2026-07-27T06:00:00Z",
+            "fetched": "2026-07-30T18:43:02+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Twin Butte Ck, Corson, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21835",
+            "published": "2026-07-27T00:31:00Z",
+            "fetched": "2026-07-30T18:43:02+03:30"
+        }
+    ]
+}

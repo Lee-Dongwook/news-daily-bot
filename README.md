@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-30 22:22:32
+**Last Update:** 2026-07-30 23:07:04
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Postgres Queues Actually Scale
+### 1. UEFA and its national associations will not participate in FIFA competitions
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/">https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49113929">https://news.ycombinator.com/item?id=49113929</a></p>
+<p>Points: 193</p>
+<p># Comments: 92</p>
+
+🔗 **Read more:** [https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/](https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/)
+
+---
+
+### 2. Postgres Queues Actually Scale
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.dbos.dev/blog/making-postgres-queues-scale">https://www.dbos.dev/blog/making-postgres-queues-scale</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49113913">https://news.ycombinator.com/item?id=49113913</a></p>
-<p>Points: 9</p>
+<p>Points: 29</p>
 <p># Comments: 1</p>
 
 🔗 **Read more:** [https://www.dbos.dev/blog/making-postgres-queues-scale](https://www.dbos.dev/blog/making-postgres-queues-scale)
 
 ---
 
-### 2. So you want to use plants to reduce CO₂
+### 3. So you want to use plants to reduce CO₂
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://dynomight.net/plants/">https://dynomight.net/plants/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49113801">https://news.ycombinator.com/item?id=49113801</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Points: 19</p>
+<p># Comments: 9</p>
 
 🔗 **Read more:** [https://dynomight.net/plants/](https://dynomight.net/plants/)
-
----
-
-### 3. Show HN: Noisegate – a differential-privacy gateway for untrusted AI agents
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/yashmahajan10/llm-differential-privacy-gateway">https://github.com/yashmahajan10/llm-differential-privacy-gateway</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49113543">https://news.ycombinator.com/item?id=49113543</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://github.com/yashmahajan10/llm-differential-privacy-gateway](https://github.com/yashmahajan10/llm-differential-privacy-gateway)
 
 ---
 
@@ -97,42 +97,42 @@ Wales is on course for its driest July on record in almost 190 years.
 
 ---
 
-### 7. Spain’s Ceuta declares emergency over surge in migrant arrivals
+### 7. Congo’s Ebola death toll passes 1,500 as it struggles to halt spread
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-More than 1,500 migrants have reached Spain’s North African enclave of Ceuta by sea over the past week.
+There&#039;s still no vaccine for the Bundibugyo strain of the virus as the country struggles for control in infected areas.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/30/spains-ceuta-declares-emergency-over-surge-in-migrant-arrivals?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/30/spains-ceuta-declares-emergency-over-surge-in-migrant-arrivals?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/30/congos-ebola-death-toll-passes-1500-as-it-struggles-to-halt-spread?traffic_source=rss](https://www.aljazeera.com/news/2026/7/30/congos-ebola-death-toll-passes-1500-as-it-struggles-to-halt-spread?traffic_source=rss)
 
 ---
 
-### 8. Turtle rescued from rubble a month after Venezuela earthquake
+### 8. UN demands end of Ugandan clampdown on dissent
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A turtle who survived for over a month under the rubble of a collapsed building following Venezuela’s earthquake rescued
+Pervasive climate of fear condemned amid human rights violations and crackdowns on opposition.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/30/turtle-rescued-from-rubble-a-month-after-venezuela-earthquake?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/30/turtle-rescued-from-rubble-a-month-after-venezuela-earthquake?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/30/un-demands-end-of-ugandan-clampdown-on-dissent?traffic_source=rss](https://www.aljazeera.com/news/2026/7/30/un-demands-end-of-ugandan-clampdown-on-dissent?traffic_source=rss)
 
 ---
 
-### 9. Viral cricket scandal sees ‘Clicky Ponting’ suspended from UK team
+### 9. ABC News says FCC is carrying out intimidation campaign to shape coverage
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Viral cricket scandal sees &#039;Clicky Ponting&#039; suspended from UK team
+Trump administration has frequently sought to pressure companies over coverage critical of the president and his allies.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/30/amateur-cricketer-accused-of-faking-an-edge-with-a-finger-snap?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/30/amateur-cricketer-accused-of-faking-an-edge-with-a-finger-snap?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/30/abc-news-says-fcc-is-carrying-out-intimidation-campaign-to-shape-coverage?traffic_source=rss](https://www.aljazeera.com/news/2026/7/30/abc-news-says-fcc-is-carrying-out-intimidation-campaign-to-shape-coverage?traffic_source=rss)
 
 ---
 

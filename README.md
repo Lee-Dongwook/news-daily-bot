@@ -1,64 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-30 13:26:16
+**Last Update:** 2026-07-30 13:58:03
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Why the future is local app
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://getapps.cafe/blog/why-the-future-is-local-app">https://getapps.cafe/blog/why-the-future-is-local-app</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49105924">https://news.ycombinator.com/item?id=49105924</a></p>
-<p>Points: 25</p>
-<p># Comments: 24</p>
-
-🔗 **Read more:** [https://getapps.cafe/blog/why-the-future-is-local-app](https://getapps.cafe/blog/why-the-future-is-local-app)
-
----
-
-### 2. Kuna: Decompiler Development in the Age of Coding Agents
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://noelo.org/blog/kuna-release/">https://noelo.org/blog/kuna-release/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49105563">https://news.ycombinator.com/item?id=49105563</a></p>
-<p>Points: 34</p>
-<p># Comments: 10</p>
-
-🔗 **Read more:** [https://noelo.org/blog/kuna-release/](https://noelo.org/blog/kuna-release/)
-
----
-
-### 3. Logic for Programmers
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://logicforprogrammers.com/">https://logicforprogrammers.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49104937">https://news.ycombinator.com/item?id=49104937</a></p>
-<p>Points: 122</p>
-<p># Comments: 22</p>
-
-🔗 **Read more:** [https://logicforprogrammers.com/](https://logicforprogrammers.com/)
-
----
-
-### 4. US launches 'heavy' strikes on Iran after attempted attack on American troops
+### 1. US launches 'heavy' strikes on Iran after attempted attack on American troops
 
 **Source:** BBC
 
@@ -71,7 +23,7 @@ After a short period of relative calm when hostilities were paused, both sides h
 
 ---
 
-### 5. How the UK's extreme heat is shifting the conversation about air-con
+### 2. How the UK's extreme heat is shifting the conversation about air-con
 
 **Source:** BBC
 
@@ -84,7 +36,7 @@ Should we embrace air conditioning despite its costs and consequences?
 
 ---
 
-### 6. Thousands evacuated in Crete as European wildfires continue to rage
+### 3. Thousands evacuated in Crete as European wildfires continue to rage
 
 **Source:** BBC
 
@@ -97,46 +49,46 @@ Strong winds have fanned the flames in the Rethymno region as wildfires continue
 
 ---
 
-### 7. Apartheid wealth cannot buy silence on Gaza
+### 4. Poland says Russian missile breaches NATO airspace
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-South African universities must resist donors who use financial power to impose political obedience.
+Poland says a Russian missile landed inside Polish territory, breaching NATO airspace during a Russian attack on Ukraine
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/7/30/apartheid-wealth-cannot-buy-silence-on-gaza?traffic_source=rss](https://www.aljazeera.com/opinions/2026/7/30/apartheid-wealth-cannot-buy-silence-on-gaza?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/30/30-07-sv-lublin-air-sirens-pl?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/30/30-07-sv-lublin-air-sirens-pl?traffic_source=rss)
 
 ---
 
-### 8. Man who stabbed author Salman Rushdie convicted of ‘terrorism’ charges
+### 5. Howe exits Newcastle on Premier League season eve, with Al-Ahli boss touted
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US court finds attacker, who is already serving a 25-year prison sentence, guilty of additional charges over 2022 assault.
+Eddie Howe has left Newcastle on the eve of Premier League season, with Matthias Jaissle touted as new manager.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/30/man-who-stabbed-author-salman-rushdie-convicted-of-terrorism-charges?traffic_source=rss](https://www.aljazeera.com/news/2026/7/30/man-who-stabbed-author-salman-rushdie-convicted-of-terrorism-charges?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/7/30/howe-exits-newcastle-on-premier-league-season-eve-with-al-ahli-boss-touted?traffic_source=rss](https://www.aljazeera.com/sports/2026/7/30/howe-exits-newcastle-on-premier-league-season-eve-with-al-ahli-boss-touted?traffic_source=rss)
 
 ---
 
-### 9. South Africa’s le Clos breaks Commonwealth Games medal record
+### 6. US hits multiple targets in Iran as IRGC pledges retaliation: What we know
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-South Africa took bronze in the men’s 4x100 medley relay for Chad le Clos&#039;s record 21st Commonwealth Games medal.
+Jordan said it intercepted missiles shortly after the US struck Iranian sites including Qeshm and Bushehr.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/7/30/south-africas-le-clos-breaks-commonwealth-games-medal-record?traffic_source=rss](https://www.aljazeera.com/sports/2026/7/30/south-africas-le-clos-breaks-commonwealth-games-medal-record?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/30/us-hits-multiple-targets-in-iran-as-irgc-pledges-retaliation-what-we-know?traffic_source=rss](https://www.aljazeera.com/news/2026/7/30/us-hits-multiple-targets-in-iran-as-irgc-pledges-retaliation-what-we-know?traffic_source=rss)
 
 ---
 
-### 10. Wildfire Fairpoint, Meade, South Dakota
+### 7. Wildfire Fairpoint, Meade, South Dakota
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Wildfires
 
 ---
 
-### 11. Super Typhoon Dolphin
+### 8. Super Typhoon Dolphin
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Severe Storms
 
 ---
 
-### 12. Wildfire Twin Butte Ck, Corson, South Dakota
+### 9. Wildfire Twin Butte Ck, Corson, South Dakota
 
 **Source:** NASA
 

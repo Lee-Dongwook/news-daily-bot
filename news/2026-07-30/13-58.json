@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-07-30T13:58:03+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
+            "description": "After a short period of relative calm when hostilities were paused, both sides have now restarted missile attacks.",
+            "url": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 30 Jul 2026 08:42:17 GMT",
+            "fetched": "2026-07-30T13:58:03+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "How the UK's extreme heat is shifting the conversation about air-con",
+            "description": "Should we embrace air conditioning despite its costs and consequences?",
+            "url": "https://www.bbc.co.uk/news/articles/cy5dw4plzvlo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 29 Jul 2026 23:33:01 GMT",
+            "fetched": "2026-07-30T13:58:03+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Thousands evacuated in Crete as European wildfires continue to rage",
+            "description": "Strong winds have fanned the flames in the Rethymno region as wildfires continue to ravage the Greek island.",
+            "url": "https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 30 Jul 2026 09:10:11 GMT",
+            "fetched": "2026-07-30T13:58:03+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Poland says Russian missile breaches NATO airspace",
+            "description": "Poland says a Russian missile landed inside Polish territory, breaching NATO airspace during a Russian attack on Ukraine",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/30-07-sv-lublin-air-sirens-pl?traffic_source=rss",
+            "published": "Thu, 30 Jul 2026 10:13:52 +0000",
+            "fetched": "2026-07-30T13:58:03+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Howe exits Newcastle on Premier League season eve, with Al-Ahli boss touted",
+            "description": "Eddie Howe has left Newcastle on the eve of Premier League season, with Matthias Jaissle touted as new manager.",
+            "url": "https://www.aljazeera.com/sports/2026/7/30/howe-exits-newcastle-on-premier-league-season-eve-with-al-ahli-boss-touted?traffic_source=rss",
+            "published": "Thu, 30 Jul 2026 10:12:17 +0000",
+            "fetched": "2026-07-30T13:58:03+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US hits multiple targets in Iran as IRGC pledges retaliation: What we know",
+            "description": "Jordan said it intercepted missiles shortly after the US struck Iranian sites including Qeshm and Bushehr.",
+            "url": "https://www.aljazeera.com/news/2026/7/30/us-hits-multiple-targets-in-iran-as-irgc-pledges-retaliation-what-we-know?traffic_source=rss",
+            "published": "Thu, 30 Jul 2026 09:49:29 +0000",
+            "fetched": "2026-07-30T13:58:03+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Fairpoint, Meade, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21829",
+            "published": "2026-07-27T11:21:00Z",
+            "fetched": "2026-07-30T13:58:03+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Super Typhoon Dolphin",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21776",
+            "published": "2026-07-27T06:00:00Z",
+            "fetched": "2026-07-30T13:58:03+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Twin Butte Ck, Corson, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21835",
+            "published": "2026-07-27T00:31:00Z",
+            "fetched": "2026-07-30T13:58:03+03:30"
+        }
+    ]
+}

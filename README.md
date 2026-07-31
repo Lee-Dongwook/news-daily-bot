@@ -1,60 +1,61 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-31 23:29:32
+**Last Update:** 2026-08-01 00:38:38
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Tailscale didn't stop the Hugging Face intrusion
+### 1. Loops (YC W22) Is Hiring a Product Educator
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://tailscale.com/blog/hugging-face-intrusion">https://tailscale.com/blog/hugging-face-intrusion</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49127306">https://news.ycombinator.com/item?id=49127306</a></p>
-<p>Points: 54</p>
-<p># Comments: 26</p>
+<p>Article URL: <a href="https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator">https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49128462">https://news.ycombinator.com/item?id=49128462</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://tailscale.com/blog/hugging-face-intrusion](https://tailscale.com/blog/hugging-face-intrusion)
+🔗 **Read more:** [https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator](https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator)
 
 ---
 
-### 2. Nuclear Waste Cleanup: DOE Is Missing Opportunities to Apply Lessons
+### 2. Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.gao.gov/products/gao-26-108082">https://www.gao.gov/products/gao-26-108082</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49127205">https://news.ycombinator.com/item?id=49127205</a></p>
+<p>Article URL: <a href="https://arxiv.org/abs/2607.28233">https://arxiv.org/abs/2607.28233</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49128323">https://news.ycombinator.com/item?id=49128323</a></p>
 <p>Points: 5</p>
-<p># Comments: 1</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.gao.gov/products/gao-26-108082](https://www.gao.gov/products/gao-26-108082)
+🔗 **Read more:** [https://arxiv.org/abs/2607.28233](https://arxiv.org/abs/2607.28233)
 
 ---
 
-### 3. Golang proposal: container/: generic collection types
+### 3. Show HN: How to build and self-host a code review agent
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/golang/go/issues/80590">https://github.com/golang/go/issues/80590</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49127031">https://news.ycombinator.com/item?id=49127031</a></p>
-<p>Points: 22</p>
-<p># Comments: 2</p>
+<p>Hey HN,<p>I've had a side-project that I've slowly ticked away at over the last year called Tilde. Tilde is a harness SDK platform - I've tried to take the best things of OpenClaw, Hermes & other harnesses and decompose them and make them available as cloud API building blocks.<p>You can use Tilde to create AI agents for your use case, fast and self-host the agent's yourself.<p>The documentation (and attached blog post) leave a lot to be desired in terms of technical documentation but hopefully the attached git repo does a good job of showcasing the API.<p><a href="https://github.com/trytilde/examples" rel="nofollow">https://github.com/trytilde/examples</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49128177">https://news.ycombinator.com/item?id=49128177</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://github.com/golang/go/issues/80590](https://github.com/golang/go/issues/80590)
+🔗 **Read more:** [https://www.trytilde.ai/blog/how-to-build-code-review-agent](https://www.trytilde.ai/blog/how-to-build-code-review-agent)
 
 ---
 
@@ -84,7 +85,7 @@ Spain's North African territory of Ceuta from Morocco, though more than 25,000 h
 
 ---
 
-### 6. 'If that means I lose my job, so be it': Top Fifa official questions Infantino's World Cup plan
+### 6. Fifa executive says staff 'deceived' by Infantino plans
 
 **Source:** BBC
 
@@ -97,42 +98,42 @@ Fifa's chief operating officer strongly criticises Gianni Infantino's plan to se
 
 ---
 
-### 7. Poland protests to Russian ambassador over missile incursion
+### 7. Powerful El Nino to intensify heat on ‘a planet already on fire’: UN
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Warsaw asserts missile recently made, illustrating Russia&#039;s nightly barrage against Ukraine is draining arsenal.
+UN chief Guterres calls for halt to new fossil fuels as El Nino induces heatwaves, floods, and drought worldwide
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/31/poland-protests-to-russian-ambassador-over-missile-incursion?traffic_source=rss](https://www.aljazeera.com/news/2026/7/31/poland-protests-to-russian-ambassador-over-missile-incursion?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/31/powerful-el-nino-to-intensify-heat-on-a-planet-already-on-fire-un?traffic_source=rss](https://www.aljazeera.com/news/2026/7/31/powerful-el-nino-to-intensify-heat-on-a-planet-already-on-fire-un?traffic_source=rss)
 
 ---
 
-### 8. Trump says US has ‘understanding’ with Israel on Hamas disarmament deal
+### 8. Venezuela gov’t and opposition to hold talks aimed at path to elections
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israel has not yet agreed to plan for Hamas to surrender weapons in exchange for full Israeli withdrawal from Gaza.
+Talks to be led by former lawmaker Dinorah Figuera as opposition figure Maria Corina Machado left out of proceedings.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/31/trump-says-us-has-understanding-with-israel-on-hamas-disarmament-deal?traffic_source=rss](https://www.aljazeera.com/news/2026/7/31/trump-says-us-has-understanding-with-israel-on-hamas-disarmament-deal?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/31/venezuela-govt-and-opposition-to-hold-talks-aimed-at-path-to-elections?traffic_source=rss](https://www.aljazeera.com/news/2026/7/31/venezuela-govt-and-opposition-to-hold-talks-aimed-at-path-to-elections?traffic_source=rss)
 
 ---
 
-### 9. World reacts with cautious optimism to Hamas disarmament agreement
+### 9. At least 25 people killed, dozens injured in Algeria bus crash
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Deal for Hamas to disarm in stages in return for Israeli withdrawal has been announced, but implementation will be key.
+At least 25 people have been killed and dozens others injured in a bus crash in Algeria.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/31/world-reacts-with-cautious-optimism-to-hamas-disarmament-agreement?traffic_source=rss](https://www.aljazeera.com/news/2026/7/31/world-reacts-with-cautious-optimism-to-hamas-disarmament-agreement?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/31/at-least-25-people-killed-dozens-injured-in-algeria-bus-crash?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/31/at-least-25-people-killed-dozens-injured-in-algeria-bus-crash?traffic_source=rss)
 
 ---
 

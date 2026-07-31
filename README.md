@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-31 19:04:05
+**Last Update:** 2026-07-31 21:11:48
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Detect Dark Matter's Mark from Your Backyard
+### 1. Miso (YC S16) is hiring for U.S. expansion
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://spectrum.ieee.org/dark-matter">https://spectrum.ieee.org/dark-matter</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49123579">https://news.ycombinator.com/item?id=49123579</a></p>
-<p>Points: 19</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://www.ycombinator.com/companies/miso/jobs/g2uAlMG-founding-business-lead-u-s-expansion">https://www.ycombinator.com/companies/miso/jobs/g2uAlMG-founding-business-lead-u-s-expansion</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49125785">https://news.ycombinator.com/item?id=49125785</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://spectrum.ieee.org/dark-matter](https://spectrum.ieee.org/dark-matter)
+🔗 **Read more:** [https://www.ycombinator.com/companies/miso/jobs/g2uAlMG-founding-business-lead-u-s-expansion](https://www.ycombinator.com/companies/miso/jobs/g2uAlMG-founding-business-lead-u-s-expansion)
 
 ---
 
-### 2. Better to Beg Forgiveness
+### 2. Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://pluralistic.net/2026/07/31/just-do-it/">https://pluralistic.net/2026/07/31/just-do-it/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49123300">https://news.ycombinator.com/item?id=49123300</a></p>
-<p>Points: 18</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/">https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49125034">https://news.ycombinator.com/item?id=49125034</a></p>
+<p>Points: 13</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://pluralistic.net/2026/07/31/just-do-it/](https://pluralistic.net/2026/07/31/just-do-it/)
+🔗 **Read more:** [https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/](https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/)
 
 ---
 
-### 3. Situational Awareness Down 67% in July in AI Stock Rout
+### 3. Big Food vs. the People
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f">https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49122994">https://news.ycombinator.com/item?id=49122994</a></p>
-<p>Points: 85</p>
-<p># Comments: 86</p>
+<p>Article URL: <a href="https://www.lighthousereports.com/investigation/big-food-vs-the-people/">https://www.lighthousereports.com/investigation/big-food-vs-the-people/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49124858">https://news.ycombinator.com/item?id=49124858</a></p>
+<p>Points: 54</p>
+<p># Comments: 14</p>
 
-🔗 **Read more:** [https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f](https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f)
+🔗 **Read more:** [https://www.lighthousereports.com/investigation/big-food-vs-the-people/](https://www.lighthousereports.com/investigation/big-food-vs-the-people/)
 
 ---
 
-### 4. About 60,000 migrants arrive in Ceuta in 24 hours, Spanish territory's leader says
+### 4. Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Spain's prime minister described the situation as an "attack" on its North African territory and said all illegal migrants would be returned to Morocco.
+Spain said most of the migrants had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with Spain.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Disgraced funeral boss who failed to bury bodies jailed for 20 years
+### 5. Watch: Moroccan police clash with migrants near border with Spain's Ceuta
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Robert Bush also failed to cremate people and gave bereaved relatives the ashes of strangers.
+Spain's North African territory of Ceuta from Morocco, though more than 25,000 have returned voluntarily, officials said.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckg35errde5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckg35errde5o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cnvnml1pen6o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cnvnml1pen6o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Burnham says Infantino 'wrong man' to lead Fifa as third confederation opposes World Cup plan
+### 6. 'If that means I lose my job, so be it': Top Fifa official questions Infantino's World Cup plan
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Prime Minister Andy Burnham says Gianni Infantino is "the wrong man" to lead Fifa as criticism grows of the controversial investment plan.
+Fifa's chief operating officer strongly criticises Gianni Infantino's plan to sell stakes in competitions to private investors.
 
-🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/ce345l6kg6ro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/ce345l6kg6ro?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/c2dkj03jp34o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/c2dkj03jp34o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. World Cup: FIFA studying impact of expanding to 64 teams for 2030 edition
+### 7. Western allies warn North Korean IT workers funding nuclear arsenal
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-FIFA&#039;s World Cup 2026 expansion was their first since 1998, but the 2030 edition could rise to 64 teams.
+Pyongyang accused of using hard currency earned by AI-assisted workers to power armaments programme.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/7/31/world-cup-fifa-studying-impact-of-expanding-to-64-teams-for-2030-edition?traffic_source=rss](https://www.aljazeera.com/sports/2026/7/31/world-cup-fifa-studying-impact-of-expanding-to-64-teams-for-2030-edition?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/31/western-allies-warn-north-korean-it-workers-funding-nuclear-arsenal?traffic_source=rss](https://www.aljazeera.com/news/2026/7/31/western-allies-warn-north-korean-it-workers-funding-nuclear-arsenal?traffic_source=rss)
 
 ---
 
-### 8. Police chief resigns days after deadly shooting in US city of Seattle
+### 8. DR Congo Ebola epidemic becomes world’s second largest outbreak
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Shon Barnes steps down amid questions over authorities’ handling of the shooting at a popular food festival.
+Officials declare the outbreak the fastest spreading ever, warning the world to &#039;pay much more attention&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/31/police-chief-resigns-days-after-deadly-shooting-in-us-city-of-seattle?traffic_source=rss](https://www.aljazeera.com/news/2026/7/31/police-chief-resigns-days-after-deadly-shooting-in-us-city-of-seattle?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/31/dr-congo-ebola-epidemic-becomes-worlds-second-largest-outbreak?traffic_source=rss](https://www.aljazeera.com/news/2026/7/31/dr-congo-ebola-epidemic-becomes-worlds-second-largest-outbreak?traffic_source=rss)
 
 ---
 
-### 9. Chelsea fined $13.5m for FA breaches, avoid Premier League points deduction
+### 9. Three-year roadmap proposed for Hamas disarmament in Gaza
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Chelsea rule breaches that led to action were self-reported following takeover by Todd ⁠⁠Boehly and Clearlake Capital.
+Under a US-backed proposal, Hamas and Israel would have 14 days to finalise Gaza&#039;s political transition
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/7/31/chelsea-fined-13-5m-for-fa-breaches-avoid-premier-league-points-deduction?traffic_source=rss](https://www.aljazeera.com/sports/2026/7/31/chelsea-fined-13-5m-for-fa-breaches-avoid-premier-league-points-deduction?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/31/three-year-roadmap-proposed-for-hamas-disarmament-in-gaza?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/31/three-year-roadmap-proposed-for-hamas-disarmament-in-gaza?traffic_source=rss)
 
 ---
 

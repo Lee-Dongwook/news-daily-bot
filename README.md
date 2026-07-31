@@ -1,143 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-31 11:43:19
+**Last Update:** 2026-07-31 13:18:01
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. DeepSeek-V4-Flash Update
+### 1. DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://api-docs.deepseek.com/updates/">https://api-docs.deepseek.com/updates/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49119559">https://news.ycombinator.com/item?id=49119559</a></p>
-<p>Points: 148</p>
-<p># Comments: 47</p>
+<p>Article URL: <a href="https://artificialanalysis.ai/models/deepseek-v4-flash-ga">https://artificialanalysis.ai/models/deepseek-v4-flash-ga</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49120299">https://news.ycombinator.com/item?id=49120299</a></p>
+<p>Points: 7</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://api-docs.deepseek.com/updates/](https://api-docs.deepseek.com/updates/)
+🔗 **Read more:** [https://artificialanalysis.ai/models/deepseek-v4-flash-ga](https://artificialanalysis.ai/models/deepseek-v4-flash-ga)
 
 ---
 
-### 2. Show HN: Gander, an Android file viewer that asks for no permissions at all
+### 2. Danube's record low levels force shutdown of Hungary's only nuclear plant
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Hi HN,<p>I built an Android file viewer that opens PDF, Word, Excel, PowerPoint, images, video, audio, Markdown and code, and asks for no permissions at all.<p>I have always been uneasy about opening files people send me. On Android you either install a 400 MB office suite and sign in or use a small free viewer that wants storage access and ends up uploading your file to a server to render it. Also the hassle of having to download different apps for different file formats was really annoying.<p>Gander holds no permissions, not even INTERNET so the OS itself guarantees the file cannot leave the phone.<p>PDFs use Pdfium, media uses Media3, and Office formats are rendered by bundled JS libraries in a WebView and so no request goes to any server.<p>It is a viewer only. Complex PowerPoint decks come out approximately right, spreadsheet charts are not drawn, and old binary .doc and .ppt are unsupported. I'll work on it as issues come up :P<p>It is 14 MB, MIT licensed and uploaded on Github releases.<p>Do try it! I would love some feedback especially on files that render badly or need new support.</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49119425">https://news.ycombinator.com/item?id=49119425</a></p>
-<p>Points: 25</p>
-<p># Comments: 9</p>
+<p>Article URL: <a href="https://www.bbc.com/news/articles/cn0nqv05g0do">https://www.bbc.com/news/articles/cn0nqv05g0do</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49120120">https://news.ycombinator.com/item?id=49120120</a></p>
+<p>Points: 28</p>
+<p># Comments: 16</p>
 
-🔗 **Read more:** [https://github.com/mokshablr/gander](https://github.com/mokshablr/gander)
+🔗 **Read more:** [https://www.bbc.com/news/articles/cn0nqv05g0do](https://www.bbc.com/news/articles/cn0nqv05g0do)
 
 ---
 
-### 3. Show HN: What should the GUI for AI agents look like?
+### 3. Google fixed more Chrome bugs in June than over the past two years, thanks to AI
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Hi HN! We’re Akilan and Miguel, the creators of MarbleOS.<p>The inspiration for Marble comes from the GUI work at Xerox PARC, the 1984 Macintosh, and later NeXTSTEP, which became the foundation for Mac OS X.
-Before GUIs, interacting with a computer was limited to strange terminal commands:<p>C:\> DIR<p>C:\> COPY FILE.TXT A:<p>You had to remember the command, syntax, paths, and parameters.<p>The GUI made those capabilities visible. Instead of remembering commands, you could point at files, drag them, click buttons, and select actions from menus.
-It didn't necessarily make entirely new things possible; it just made existing capabilities much easier to understand and use. We feel like AI is still somewhere around this command-line stage.<p>Even though the strict syntax has been replaced with natural language, the interaction can still be quite stiff and depend on heavily recall. Tools like Claude Cowork still look surprisingly terminal-like: /skill-name [param1] [param2]. The parameters are written in natural language, but the user still needs to know the capabilities that exist, and how to invoke it. Command-line flags and arguments have just been replaced with tools, skills, and context.<p>ChatGPT works very well for asking questions, but we aren't convinced that it's the final interface for delegating work across multiple agents. A blank text box and a list of chat threads feels limiting. An agent's capabilities are mostly invisible. With Marble, we're exploring an interface that treats AI more like a workspace than another chat app.
-Each delegated task becomes a card. Multiple jobs can sit next to each other and run at once. Files, tools, and finished artifacts are visible at once. Before a task runs, Marble also shows which tools it expects to use. The basic idea is that the user should not have to hold the entire structure of the task in their head. And the result should be something directly usable, like a spreadsheet, PowerPoint, or other file, rather than something buried in a transcript.<p>Marble is our attempt at exploring interaction models beyond the chat box. The product is mainly for people who already use ChatGPT or Claude, but haven’t really adopted agent workflows yet. We’ve found that when the tools and possible actions are made more visible, people start delegating work they would not have thought to do through normal chat.<p>The site includes a downloadable beta if you want to try it. Does Marble feel like a genuinely novel interface?</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49119274">https://news.ycombinator.com/item?id=49119274</a></p>
-<p>Points: 32</p>
-<p># Comments: 15</p>
+<p>Article URL: <a href="https://blog.google/security/chrome-stronger-with-every-update/">https://blog.google/security/chrome-stronger-with-every-update/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49120097">https://news.ycombinator.com/item?id=49120097</a></p>
+<p>Points: 52</p>
+<p># Comments: 61</p>
 
-🔗 **Read more:** [https://marbleos.com/demo](https://marbleos.com/demo)
+🔗 **Read more:** [https://blog.google/security/chrome-stronger-with-every-update/](https://blog.google/security/chrome-stronger-with-every-update/)
 
 ---
 
-### 4. Fifa says 'nobody is selling football' as it responds to backlash over World Cup investment plan
+### 4. About 49,000 migrants enter Spanish enclave of Ceuta, officials say
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Football's governing body Fifa plans to continue the consultation process after Uefa threatens to boycott World Cups.
+This comes after thousands of migrants were reported to have illegally crossed into the territory on Thursday and Friday.
 
-🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/c79glnx1y55o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/c79glnx1y55o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Andy Burnham to give regional mayors share of income tax
+### 5. Asian nations join growing opposition to Fifa's controversial World Cup investment plan
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The prime minister says the move will give power to "every postcode" but critics say the plans lack detail.
+The Asian Football Confederation "stands in solidarity" with Uefa and Concacaf in opposing controversial Fifa proposals.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c4g3eyg60e0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c4g3eyg60e0o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/ce345l6kg6ro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/ce345l6kg6ro?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Satellite images show impact of heatwaves and drought on UK landscape
+### 6. Anthropic's Claude AI escapes to hack into three organisations
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-BBC Verify's analysis indicates “vegetation stress” in many areas, which may affect wildlife and farming.
+It comes just days after rival OpenAI said rogue AI agents had breached other firms' networks.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckgv657e1yko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckgv657e1yko?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Liberia burns 4.2 metric tonnes of cocaine after record drug seizure
+### 7. At least 11, including children, injured in Israeli raids near Nablus
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Liberian authorities burned 4.2 metric tonnes of cocaine worth about $336 million.
+Israeli settlers and soldiers storm occupied West Bank towns, arrests made after intensified violence in town of Tal.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/31/31-07-sv-liberia-cocaine-burning-lr?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/31/31-07-sv-liberia-cocaine-burning-lr?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/31/at-least-11-including-children-injured-in-israeli-raids-near-nablus?traffic_source=rss](https://www.aljazeera.com/news/2026/7/31/at-least-11-including-children-injured-in-israeli-raids-near-nablus?traffic_source=rss)
 
 ---
 
-### 8. FIFA defiant over World Cup investment plan, despite UEFA’s vote to boycott
+### 8. Her mother said no to a phone. Then came the Gaza genocide
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-European football&#039;s governing body has voted to boycott FIFA if World Cup plans pursued, but global body undeterred.
+As the world debated social media use, Eman Lulu&#039;s phone became a lifeline and a window into Gaza for millions.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/7/31/fifa-defiant-over-world-cup-investment-plan-despite-uefas-vote-to-boycott?traffic_source=rss](https://www.aljazeera.com/sports/2026/7/31/fifa-defiant-over-world-cup-investment-plan-despite-uefas-vote-to-boycott?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/longform/2026/7/31/her-mother-said-no-to-a-phone-then-came-the-gaza-genocide?traffic_source=rss](https://www.aljazeera.com/features/longform/2026/7/31/her-mother-said-no-to-a-phone-then-came-the-gaza-genocide?traffic_source=rss)
 
 ---
 
-### 9. US government mislabels countries on map of Africa at global conference
+### 9. IRGC strikes US targets in Kuwait a day after US hits Iran: Latest events
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The US State Department acknowledged &#039;an unfortunate error&#039; after the highly inaccurate African map caused a stir.
+Iran says it struck Kuwait in retaliation for US strikes on multiple locations in Iran, including Qeshm island.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/31/us-government-mislabels-countries-on-map-of-africa-at-global-conference?traffic_source=rss](https://www.aljazeera.com/news/2026/7/31/us-government-mislabels-countries-on-map-of-africa-at-global-conference?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/31/irgc-strikes-us-targets-in-kuwait-a-day-after-us-hits-iran-latest-events?traffic_source=rss](https://www.aljazeera.com/news/2026/7/31/irgc-strikes-us-targets-in-kuwait-a-day-after-us-hits-iran-latest-events?traffic_source=rss)
 
 ---
 

@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-07-31T13:18:01+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
+            "description": "<p>Article URL: <a href=\"https://artificialanalysis.ai/models/deepseek-v4-flash-ga\">https://artificialanalysis.ai/models/deepseek-v4-flash-ga</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49120299\">https://news.ycombinator.com/item?id=49120299</a></p>\n<p>Points: 7</p>\n<p># Comments: 2</p>",
+            "url": "https://artificialanalysis.ai/models/deepseek-v4-flash-ga",
+            "published": "Fri, 31 Jul 2026 07:59:11 +0000",
+            "fetched": "2026-07-31T13:18:01+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Danube's record low levels force shutdown of Hungary's only nuclear plant",
+            "description": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cn0nqv05g0do\">https://www.bbc.com/news/articles/cn0nqv05g0do</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49120120\">https://news.ycombinator.com/item?id=49120120</a></p>\n<p>Points: 28</p>\n<p># Comments: 16</p>",
+            "url": "https://www.bbc.com/news/articles/cn0nqv05g0do",
+            "published": "Fri, 31 Jul 2026 07:33:10 +0000",
+            "fetched": "2026-07-31T13:18:01+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
+            "description": "<p>Article URL: <a href=\"https://blog.google/security/chrome-stronger-with-every-update/\">https://blog.google/security/chrome-stronger-with-every-update/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49120097\">https://news.ycombinator.com/item?id=49120097</a></p>\n<p>Points: 52</p>\n<p># Comments: 61</p>",
+            "url": "https://blog.google/security/chrome-stronger-with-every-update/",
+            "published": "Fri, 31 Jul 2026 07:29:22 +0000",
+            "fetched": "2026-07-31T13:18:01+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "About 49,000 migrants enter Spanish enclave of Ceuta, officials say",
+            "description": "This comes after thousands of migrants were reported to have illegally crossed into the territory on Thursday and Friday.",
+            "url": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 31 Jul 2026 08:50:12 GMT",
+            "fetched": "2026-07-31T13:18:01+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Asian nations join growing opposition to Fifa's controversial World Cup investment plan",
+            "description": "The Asian Football Confederation \"stands in solidarity\" with Uefa and Concacaf in opposing controversial Fifa proposals.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/ce345l6kg6ro?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 31 Jul 2026 09:38:28 GMT",
+            "fetched": "2026-07-31T13:18:01+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Anthropic's Claude AI escapes to hack into three organisations",
+            "description": "It comes just days after rival OpenAI said rogue AI agents had breached other firms' networks.",
+            "url": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 31 Jul 2026 09:03:37 GMT",
+            "fetched": "2026-07-31T13:18:01+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "At least 11, including children, injured in Israeli raids near Nablus",
+            "description": "Israeli settlers and soldiers storm occupied West Bank towns, arrests made after intensified violence in town of Tal.",
+            "url": "https://www.aljazeera.com/news/2026/7/31/at-least-11-including-children-injured-in-israeli-raids-near-nablus?traffic_source=rss",
+            "published": "Fri, 31 Jul 2026 09:33:37 +0000",
+            "fetched": "2026-07-31T13:18:01+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Her mother said no to a phone. Then came the Gaza genocide",
+            "description": "As the world debated social media use, Eman Lulu&#039;s phone became a lifeline and a window into Gaza for millions.",
+            "url": "https://www.aljazeera.com/features/longform/2026/7/31/her-mother-said-no-to-a-phone-then-came-the-gaza-genocide?traffic_source=rss",
+            "published": "Fri, 31 Jul 2026 09:23:54 +0000",
+            "fetched": "2026-07-31T13:18:01+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "IRGC strikes US targets in Kuwait a day after US hits Iran: Latest events",
+            "description": "Iran says it struck Kuwait in retaliation for US strikes on multiple locations in Iran, including Qeshm island.",
+            "url": "https://www.aljazeera.com/news/2026/7/31/irgc-strikes-us-targets-in-kuwait-a-day-after-us-hits-iran-latest-events?traffic_source=rss",
+            "published": "Fri, 31 Jul 2026 09:09:54 +0000",
+            "fetched": "2026-07-31T13:18:01+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Camden McCarthy Overpass Fire, Camden, Georgia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21965",
+            "published": "2026-07-30T00:14:00Z",
+            "fetched": "2026-07-31T13:18:01+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Duhamel, Pennington, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968",
+            "published": "2026-07-29T18:24:00Z",
+            "fetched": "2026-07-31T13:18:01+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire HOLEY LAND (6), Broward, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976",
+            "published": "2026-07-28T19:53:00Z",
+            "fetched": "2026-07-31T13:18:01+03:30"
+        }
+    ]
+}

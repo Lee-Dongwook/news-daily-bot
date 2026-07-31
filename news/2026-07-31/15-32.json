@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-07-31T15:32:39+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
+            "description": "<p>Article URL: <a href=\"https://artificialanalysis.ai/models/deepseek-v4-flash-ga\">https://artificialanalysis.ai/models/deepseek-v4-flash-ga</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49120299\">https://news.ycombinator.com/item?id=49120299</a></p>\n<p>Points: 72</p>\n<p># Comments: 16</p>",
+            "url": "https://artificialanalysis.ai/models/deepseek-v4-flash-ga",
+            "published": "Fri, 31 Jul 2026 07:59:11 +0000",
+            "fetched": "2026-07-31T15:32:39+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
+            "description": "<p>Article URL: <a href=\"https://blog.google/security/chrome-stronger-with-every-update/\">https://blog.google/security/chrome-stronger-with-every-update/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49120097\">https://news.ycombinator.com/item?id=49120097</a></p>\n<p>Points: 140</p>\n<p># Comments: 164</p>",
+            "url": "https://blog.google/security/chrome-stronger-with-every-update/",
+            "published": "Fri, 31 Jul 2026 07:29:22 +0000",
+            "fetched": "2026-07-31T15:32:39+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "DeepSeek-V4-Flash Update",
+            "description": "<p>Article URL: <a href=\"https://api-docs.deepseek.com/updates/\">https://api-docs.deepseek.com/updates/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49119559\">https://news.ycombinator.com/item?id=49119559</a></p>\n<p>Points: 360</p>\n<p># Comments: 176</p>",
+            "url": "https://api-docs.deepseek.com/updates/",
+            "published": "Fri, 31 Jul 2026 06:08:36 +0000",
+            "fetched": "2026-07-31T15:32:39+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "About 49,000 migrants enter Spanish territory of Ceuta in 24 hours, officials say",
+            "description": "The estimated number of arrivals is more than 70% of the population of the city, which is about 83,600.",
+            "url": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 31 Jul 2026 12:00:18 GMT",
+            "fetched": "2026-07-31T15:32:39+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Senior Infantino adviser quits after Asian federation opposes World Cup investment plan",
+            "description": "The Asian Football Confederation \"stands in solidarity\" with Uefa and Concacaf in opposing controversial Fifa proposals.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/ce345l6kg6ro?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 31 Jul 2026 11:56:08 GMT",
+            "fetched": "2026-07-31T15:32:39+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Southport killer charged with prison attacks and possessing weapon",
+            "description": "Axel Rudakubana, 19, is accused of attacking staff at HMP Belmarsh between May and October 2025.",
+            "url": "https://www.bbc.co.uk/news/articles/ckg3dr3lgjko?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 31 Jul 2026 11:03:17 GMT",
+            "fetched": "2026-07-31T15:32:39+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘Migrant tsunami’: Second day of Spain – Morocco border clashes",
+            "description": "&#039;Migrant tsunami&#039;: Second day of Spain - Morocco border clashes.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/migrant-tsunami-second-day-of-spain-morocco-border-clashes?traffic_source=rss",
+            "published": "Fri, 31 Jul 2026 11:45:42 +0000",
+            "fetched": "2026-07-31T15:32:39+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Russia’s Africa Corps killed Mali civilians in air strike: HRW",
+            "description": "Russian paramilitaries fight alongside Malian soldiers battling multiple armed groups linked to al-Qaeda and ISIL.",
+            "url": "https://www.aljazeera.com/news/2026/7/31/russias-africa-corps-killed-mali-civilians-in-air-strike-hrw?traffic_source=rss",
+            "published": "Fri, 31 Jul 2026 11:41:32 +0000",
+            "fetched": "2026-07-31T15:32:39+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Gaza Board of Peace announces Hamas disarmament agreement: What we know",
+            "description": "Under the agreement, Israel would have to withdraw from Gaza. But experts remain sceptical.",
+            "url": "https://www.aljazeera.com/news/2026/7/31/gaza-board-of-peace-announces-hamas-disarmament-agreement-what-we-know?traffic_source=rss",
+            "published": "Fri, 31 Jul 2026 11:23:09 +0000",
+            "fetched": "2026-07-31T15:32:39+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Camden McCarthy Overpass Fire, Camden, Georgia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21965",
+            "published": "2026-07-30T00:14:00Z",
+            "fetched": "2026-07-31T15:32:39+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Duhamel, Pennington, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968",
+            "published": "2026-07-29T18:24:00Z",
+            "fetched": "2026-07-31T15:32:39+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire HOLEY LAND (6), Broward, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976",
+            "published": "2026-07-28T19:53:00Z",
+            "fetched": "2026-07-31T15:32:39+03:30"
+        }
+    ]
+}

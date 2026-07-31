@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-31 14:33:18
+**Last Update:** 2026-07-31 15:32:39
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://artificialanalysis.ai/models/deepseek-v4-flash-ga">https://artificialanalysis.ai/models/deepseek-v4-flash-ga</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49120299">https://news.ycombinator.com/item?id=49120299</a></p>
-<p>Points: 22</p>
-<p># Comments: 6</p>
+<p>Points: 72</p>
+<p># Comments: 16</p>
 
 🔗 **Read more:** [https://artificialanalysis.ai/models/deepseek-v4-flash-ga](https://artificialanalysis.ai/models/deepseek-v4-flash-ga)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://blog.google/security/chrome-stronger-with-every-update/">https://blog.google/security/chrome-stronger-with-every-update/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49120097">https://news.ycombinator.com/item?id=49120097</a></p>
-<p>Points: 102</p>
-<p># Comments: 108</p>
+<p>Points: 140</p>
+<p># Comments: 164</p>
 
 🔗 **Read more:** [https://blog.google/security/chrome-stronger-with-every-update/](https://blog.google/security/chrome-stronger-with-every-update/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://api-docs.deepseek.com/updates/">https://api-docs.deepseek.com/updates/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49119559">https://news.ycombinator.com/item?id=49119559</a></p>
-<p>Points: 312</p>
-<p># Comments: 143</p>
+<p>Points: 360</p>
+<p># Comments: 176</p>
 
 🔗 **Read more:** [https://api-docs.deepseek.com/updates/](https://api-docs.deepseek.com/updates/)
 
@@ -65,7 +65,7 @@
 **Category:** world
 
 **Description:**
-The estimated number of arrivals is more than half of the population of the city, which is about 83,600.
+The estimated number of arrivals is more than 70% of the population of the city, which is about 83,600.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss)
 
@@ -97,42 +97,42 @@ Axel Rudakubana, 19, is accused of attacking staff at HMP Belmarsh between May a
 
 ---
 
-### 7. Palestinians in Gaza are sceptical about the latest peace plan
+### 7. ‘Migrant tsunami’: Second day of Spain – Morocco border clashes
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Palestinians in Gaza are sceptical of the latest peace plan, questioning whether it will bring lasting change.
+&#039;Migrant tsunami&#039;: Second day of Spain - Morocco border clashes.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/31/31-07-reported-hani-mahmoud-gaza-ps?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/31/31-07-reported-hani-mahmoud-gaza-ps?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/31/migrant-tsunami-second-day-of-spain-morocco-border-clashes?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/31/migrant-tsunami-second-day-of-spain-morocco-border-clashes?traffic_source=rss)
 
 ---
 
-### 8. Spain PM to visit Ceuta after 19 migrants die breaching border from Morocco
+### 8. Russia’s Africa Corps killed Mali civilians in air strike: HRW
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Tens of thousands reportedly cross from Morocco to Ceuta as France says it will tighten its borders with Spain.
+Russian paramilitaries fight alongside Malian soldiers battling multiple armed groups linked to al-Qaeda and ISIL.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/31/spain-pm-to-visit-ceuta-after-19-migrants-die-breaching-border-from-morocco?traffic_source=rss](https://www.aljazeera.com/news/2026/7/31/spain-pm-to-visit-ceuta-after-19-migrants-die-breaching-border-from-morocco?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/31/russias-africa-corps-killed-mali-civilians-in-air-strike-hrw?traffic_source=rss](https://www.aljazeera.com/news/2026/7/31/russias-africa-corps-killed-mali-civilians-in-air-strike-hrw?traffic_source=rss)
 
 ---
 
-### 9. Italy World Cup winner and AC Milan legend Franco Baresi dies aged 66
+### 9. Gaza Board of Peace announces Hamas disarmament agreement: What we know
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Franco Baresi, who won the World Cup with Italy and was regarded as one of football&#039;s finest defenders, dies aged 66.
+Under the agreement, Israel would have to withdraw from Gaza. But experts remain sceptical.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/7/31/italy-and-ac-milan-legend-franco-baresi-dies-aged-66?traffic_source=rss](https://www.aljazeera.com/sports/2026/7/31/italy-and-ac-milan-legend-franco-baresi-dies-aged-66?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/31/gaza-board-of-peace-announces-hamas-disarmament-agreement-what-we-know?traffic_source=rss](https://www.aljazeera.com/news/2026/7/31/gaza-board-of-peace-announces-hamas-disarmament-agreement-what-we-know?traffic_source=rss)
 
 ---
 

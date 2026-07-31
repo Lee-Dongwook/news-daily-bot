@@ -1,71 +1,75 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-31 08:21:36
+**Last Update:** 2026-07-31 10:17:15
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. The AI trade now runs on borrowed money, and the lenders are repricing it
+### 1. DeepSeek-V4-Flash Update
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://greyswansignals.com/?theme=dark">https://greyswansignals.com/?theme=dark</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49118933">https://news.ycombinator.com/item?id=49118933</a></p>
-<p>Points: 23</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://api-docs.deepseek.com/updates/">https://api-docs.deepseek.com/updates/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49119559">https://news.ycombinator.com/item?id=49119559</a></p>
+<p>Points: 18</p>
+<p># Comments: 9</p>
 
-🔗 **Read more:** [https://greyswansignals.com/?theme=dark](https://greyswansignals.com/?theme=dark)
+🔗 **Read more:** [https://api-docs.deepseek.com/updates/](https://api-docs.deepseek.com/updates/)
 
 ---
 
-### 2. The Session You Cannot take with you
+### 2. Show HN: What should the GUI for AI agents look like?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://earendil.com/posts/session-portability/">https://earendil.com/posts/session-portability/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49118781">https://news.ycombinator.com/item?id=49118781</a></p>
-<p>Points: 15</p>
+<p>Hi HN! We’re Akilan and Miguel, the creators of MarbleOS.<p>The inspiration for Marble comes from the GUI work at Xerox PARC, the 1984 Macintosh, and later NeXTSTEP, which became the foundation for Mac OS X.
+Before GUIs, interacting with a computer was limited to strange terminal commands like:<p>C:\> DIR<p>C:\> COPY FILE.TXT A:<p>You had to remember the command, syntax, paths, and parameters.<p>The GUI made those capabilities visible. Instead of remembering commands, you could point at files, drag them, click buttons, and select actions from menus.
+It did not necessarily make entirely new things possible; it just made existing capabilities much easier to understand and use. We feel like AI is still somewhere around this command-line stage.<p>Even though the strict syntax has been replaced with natural language, the interaction can still be quite stiff and depend on heavily recall. Tools like Claude Cowork, still look surprisingly terminal-like: /skill-name [param1] [param2].<p>The parameters are written in natural language, but the user still needs to know which capability exists and how to invoke it. The user has to know what the AI can do, what file to attach, what tool or skill to use, what context it needs, and how to phrase the task.<p>ChatGPT works very well for asking questions, but we aren't convinced that it's the final interface for delegating work across files, websites, tools, and multiple agents.<p>Once the AI is actually doing work, a blank text box and a list of chat threads start to feel limiting. Most of the system’s capabilities and most of the task’s structure are invisible. With Marble, we are exploring an interface that treats AI more like a workspace than another chat app.
+Each delegated task becomes a card. Multiple jobs can sit next to each other and run at once. Files, tools, and finished artifacts are visible at once. Before a task runs, Marble also shows which tools it expects to use. The basic idea is that the user should not have to hold the entire structure of the task in their head. And the result should be something directly usable, like a spreadsheet, PDF, slide deck, or other file, rather than something buried in a transcript.<p>We’re not claiming to have figured out the final form of GUI for agents. Marble is our attempt to explore whether there is a better interaction model than attaching more tools to a chat box. The product is mainly for people who already use ChatGPT or Claude, but haven’t really adopted agent workflows yet. We’ve found that when the tools and possible actions are made more visible, people start delegating work they would not have thought to do through normal chat.<p>The site includes a downloadable beta if you want to try it. Does Marble feel like a genuinely novel interface?</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49119274">https://news.ycombinator.com/item?id=49119274</a></p>
+<p>Points: 9</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://earendil.com/posts/session-portability/](https://earendil.com/posts/session-portability/)
+🔗 **Read more:** [https://marbleos.com/demo](https://marbleos.com/demo)
 
 ---
 
-### 3. The bond market isn't buying what Fed Chair Warsh is selling
+### 3. JEP 401: Value Objects (Preview) merged to OpenJDK master
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.reuters.com/commentary/reuters-open-interest/bond-market-isnt-buying-what-fed-chair-warsh-is-selling-2026-07-30/">https://www.reuters.com/commentary/reuters-open-interest/bond-market-isnt-buying-what-fed-chair-warsh-is-selling-2026-07-30/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49118696">https://news.ycombinator.com/item?id=49118696</a></p>
-<p>Points: 47</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://github.com/openjdk/jdk/pull/31120">https://github.com/openjdk/jdk/pull/31120</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49119063">https://news.ycombinator.com/item?id=49119063</a></p>
+<p>Points: 25</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://www.reuters.com/commentary/reuters-open-interest/bond-market-isnt-buying-what-fed-chair-warsh-is-selling-2026-07-30/](https://www.reuters.com/commentary/reuters-open-interest/bond-market-isnt-buying-what-fed-chair-warsh-is-selling-2026-07-30/)
+🔗 **Read more:** [https://github.com/openjdk/jdk/pull/31120](https://github.com/openjdk/jdk/pull/31120)
 
 ---
 
-### 4. Fifa says 'nobody selling football' as it presses ahead with investment plan
+### 4. Fifa says 'nobody selling football' and will continue plans to sell World Cup stakes
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Football's governing body plans to continue the consultation process after Uefa threatens to boycott World Cups.
+Football's governing body Fifa plans to continue the consultation process after Uefa threatens to boycott World Cups.
 
 🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/c79glnx1y55o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/c79glnx1y55o?at_medium=RSS&at_campaign=rss)
 
@@ -84,55 +88,55 @@ The prime minister says the move will give power to "every postcode" but critics
 
 ---
 
-### 6. Crews tackling Suffolk wildfire say they are in better position
+### 6. Satellite images show impact of heatwaves and drought on UK landscape
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The Suffolk Fire and Rescue Service says "the situation appears to be stabilising" but at least 12 fire engines will remain on scene.
+BBC Verify's analysis indicates “vegetation stress” in many areas, which may affect wildlife and farming.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c78gnj1qqyyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c78gnj1qqyyo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckgv657e1yko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckgv657e1yko?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Southern Lebanese towns near Beaufort Castle hit by Israeli strikes
+### 7. How US Senate Russia sanctions could spell 100% tariffs for India, China
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-IDF said it used 700 tonnes of explosives to destroy parts of a Hezbollah tunnel network in southern Lebanon.
+Russian energy exports could face sweeping tariffs under bill named for late Senator Lindsey Graham.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/31/aje-onl-nf_south-lebanon-towns-beaufort-hit-by-israeli-strike-300726?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/31/aje-onl-nf_south-lebanon-towns-beaufort-hit-by-israeli-strike-300726?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/31/how-us-senate-russia-sanctions-could-spell-100-tariffs-for-india-china?traffic_source=rss](https://www.aljazeera.com/news/2026/7/31/how-us-senate-russia-sanctions-could-spell-100-tariffs-for-india-china?traffic_source=rss)
 
 ---
 
-### 8. Death toll from Japan earthquake climbs to 34
+### 8. Ten climbers led by renowned Nepali mountaineer ‘missing’ on Pakistan peak
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The magnitude 7.1 quake has killed 34 people and left six more seriously injured.
+Mountaineer Nirmal Purja among those feared missing after avalanche hit Broad Peak, Pakistan alpine club says.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/31/death-toll-from-japan-earthquake-climbs?traffic_source=rss](https://www.aljazeera.com/news/2026/7/31/death-toll-from-japan-earthquake-climbs?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/31/nepali-climber-purja-9-others-missing-in-pakistan-after-avalanche?traffic_source=rss](https://www.aljazeera.com/news/2026/7/31/nepali-climber-purja-9-others-missing-in-pakistan-after-avalanche?traffic_source=rss)
 
 ---
 
-### 9. After OpenAI disclosure, Anthropic says Claude also hacked outside systems
+### 9. Families sleep in cars after homes destroyed in Japan earthquake
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The incidents have heightened concerns about AI agents, software products designed to perform tasks autonomously.
+Residents in southwestern Japan have had to resort to sleeping in their cars for shelter, after a recent 6.8 magnitude.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/31/after-openai-disclosure-anthropic-claude-hacked-outside-systems?traffic_source=rss](https://www.aljazeera.com/news/2026/7/31/after-openai-disclosure-anthropic-claude-hacked-outside-systems?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/31/families-sleep-in-cars-after-homes-destroyed-in-japan-earthquake?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/31/families-sleep-in-cars-after-homes-destroyed-in-japan-earthquake?traffic_source=rss)
 
 ---
 

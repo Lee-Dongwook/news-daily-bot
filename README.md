@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-31 06:49:09
+**Last Update:** 2026-07-31 08:21:36
 
 **Total News:** 12
 
@@ -10,64 +10,64 @@
 
 ## 📰 Latest News
 
-### 1. The Religion of Speed
+### 1. The AI trade now runs on borrowed money, and the lenders are repricing it
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://graybeard.ing/the-religion-of-speed/">https://graybeard.ing/the-religion-of-speed/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49117284">https://news.ycombinator.com/item?id=49117284</a></p>
-<p>Points: 19</p>
-<p># Comments: 5</p>
+<p>Article URL: <a href="https://greyswansignals.com/?theme=dark">https://greyswansignals.com/?theme=dark</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49118933">https://news.ycombinator.com/item?id=49118933</a></p>
+<p>Points: 23</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://graybeard.ing/the-religion-of-speed/](https://graybeard.ing/the-religion-of-speed/)
+🔗 **Read more:** [https://greyswansignals.com/?theme=dark](https://greyswansignals.com/?theme=dark)
 
 ---
 
-### 2. The AI Aesthetic
+### 2. The Session You Cannot take with you
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.jim-nielsen.com/2026/ai-aesthetic/">https://blog.jim-nielsen.com/2026/ai-aesthetic/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49117099">https://news.ycombinator.com/item?id=49117099</a></p>
-<p>Points: 157</p>
-<p># Comments: 78</p>
+<p>Article URL: <a href="https://earendil.com/posts/session-portability/">https://earendil.com/posts/session-portability/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49118781">https://news.ycombinator.com/item?id=49118781</a></p>
+<p>Points: 15</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://blog.jim-nielsen.com/2026/ai-aesthetic/](https://blog.jim-nielsen.com/2026/ai-aesthetic/)
+🔗 **Read more:** [https://earendil.com/posts/session-portability/](https://earendil.com/posts/session-portability/)
 
 ---
 
-### 3. Investigating three real-world incidents in our cybersecurity evaluations
+### 3. The bond market isn't buying what Fed Chair Warsh is selling
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals">https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49116922">https://news.ycombinator.com/item?id=49116922</a></p>
-<p>Points: 113</p>
-<p># Comments: 91</p>
+<p>Article URL: <a href="https://www.reuters.com/commentary/reuters-open-interest/bond-market-isnt-buying-what-fed-chair-warsh-is-selling-2026-07-30/">https://www.reuters.com/commentary/reuters-open-interest/bond-market-isnt-buying-what-fed-chair-warsh-is-selling-2026-07-30/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49118696">https://news.ycombinator.com/item?id=49118696</a></p>
+<p>Points: 47</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals](https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals)
+🔗 **Read more:** [https://www.reuters.com/commentary/reuters-open-interest/bond-market-isnt-buying-what-fed-chair-warsh-is-selling-2026-07-30/](https://www.reuters.com/commentary/reuters-open-interest/bond-market-isnt-buying-what-fed-chair-warsh-is-selling-2026-07-30/)
 
 ---
 
-### 4. Is Infantino finished? Could Uefa boycott World Cup? What happens now?
+### 4. Fifa says 'nobody selling football' as it presses ahead with investment plan
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-It's been a seismic 48 hours for football after Uefa threatened to boycott the World Cup and Concacaf rejected Gianni Infantino's funding plan - what happens now, and can Fifa's president survive?
+Football's governing body plans to continue the consultation process after Uefa threatens to boycott World Cups.
 
-🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/c9984d9x1eyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/c9984d9x1eyo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/c79glnx1y55o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/c79glnx1y55o?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +97,42 @@ The Suffolk Fire and Rescue Service says "the situation appears to be stabilisin
 
 ---
 
-### 7. Why a MAGA influencer’s shift to support Ukraine war is good for Trump
+### 7. Southern Lebanese towns near Beaufort Castle hit by Israeli strikes
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-One of the most prominent pro-Trump influencers, Laura Loomer, just made a major shift in her stance on Ukraine.
+IDF said it used 700 tonnes of explosives to destroy parts of a Hezbollah tunnel network in southern Lebanon.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/31/why-a-maga-influencers-shift-to-support-ukraine-war-is-good-for-trump?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/31/why-a-maga-influencers-shift-to-support-ukraine-war-is-good-for-trump?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/31/aje-onl-nf_south-lebanon-towns-beaufort-hit-by-israeli-strike-300726?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/31/aje-onl-nf_south-lebanon-towns-beaufort-hit-by-israeli-strike-300726?traffic_source=rss)
 
 ---
 
-### 8. Trump says Morocco named Tiznit-Dakhla highway after him: Why it matters
+### 8. Death toll from Japan earthquake climbs to 34
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The claimed tribute to Trump forms part of Morocco&#039;s larger ambitions in the disputed Western Sahara.
+The magnitude 7.1 quake has killed 34 people and left six more seriously injured.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/31/morocco-names-tiznit-dakhla-highway-after-trump-why-it-matters?traffic_source=rss](https://www.aljazeera.com/news/2026/7/31/morocco-names-tiznit-dakhla-highway-after-trump-why-it-matters?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/31/death-toll-from-japan-earthquake-climbs?traffic_source=rss](https://www.aljazeera.com/news/2026/7/31/death-toll-from-japan-earthquake-climbs?traffic_source=rss)
 
 ---
 
-### 9. Clashes near Morocco’s border with Spain over beefed up migrant security
+### 9. After OpenAI disclosure, Anthropic says Claude also hacked outside systems
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Clashes erupted near the Morocco-Spain border crossing, after thousands of migrants into Spain.
+The incidents have heightened concerns about AI agents, software products designed to perform tasks autonomously.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/31/clashes-near-moroccos-border-with-spain-over-beefed-up-migrant-security?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/31/clashes-near-moroccos-border-with-spain-over-beefed-up-migrant-security?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/31/after-openai-disclosure-anthropic-claude-hacked-outside-systems?traffic_source=rss](https://www.aljazeera.com/news/2026/7/31/after-openai-disclosure-anthropic-claude-hacked-outside-systems?traffic_source=rss)
 
 ---
 

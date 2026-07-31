@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-01 02:34:25
+**Last Update:** 2026-08-01 02:58:04
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
@@ -35,27 +35,27 @@
 **Description:**
 <p>Article URL: <a href="https://arxiv.org/abs/2607.28233">https://arxiv.org/abs/2607.28233</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49128323">https://news.ycombinator.com/item?id=49128323</a></p>
-<p>Points: 19</p>
-<p># Comments: 10</p>
+<p>Points: 21</p>
+<p># Comments: 12</p>
 
 🔗 **Read more:** [https://arxiv.org/abs/2607.28233](https://arxiv.org/abs/2607.28233)
 
 ---
 
-### 3. Show HN: How to build and self-host a code review agent
+### 3. Predictive Speculative KV Replication for Bursty LLM Inference
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Hey HN,<p>I've had a side-project that I've slowly ticked away at over the last year called Tilde. Tilde is a harness SDK platform - I've tried to take the best things of OpenClaw, Hermes & other harnesses and decompose them and make them available as cloud API building blocks.<p>You can use Tilde to create AI agents for your use case, fast and self-host the agent's yourself.<p>The documentation (and attached blog post) leave a lot to be desired in terms of technical documentation but hopefully the attached git repo does a good job of showcasing the API.<p><a href="https://github.com/trytilde/examples" rel="nofollow">https://github.com/trytilde/examples</a></p>
+<p><a href="https://github.com/jwlaboratory/bite-the-bullet" rel="nofollow">https://github.com/jwlaboratory/bite-the-bullet</a></p>
 <hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49128177">https://news.ycombinator.com/item?id=49128177</a></p>
-<p>Points: 10</p>
-<p># Comments: 3</p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49127874">https://news.ycombinator.com/item?id=49127874</a></p>
+<p>Points: 15</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.trytilde.ai/blog/how-to-build-code-review-agent](https://www.trytilde.ai/blog/how-to-build-code-review-agent)
+🔗 **Read more:** [https://jwlabs.vercel.app/post/biting-the-bullet](https://jwlabs.vercel.app/post/biting-the-bullet)
 
 ---
 

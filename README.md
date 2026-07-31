@@ -1,16 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-31 18:51:51
+**Last Update:** 2026-07-31 19:04:05
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. About 60,000 migrants arrive in Ceuta in 24 hours, Spanish territory's leader says
+### 1. Detect Dark Matter's Mark from Your Backyard
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://spectrum.ieee.org/dark-matter">https://spectrum.ieee.org/dark-matter</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49123579">https://news.ycombinator.com/item?id=49123579</a></p>
+<p>Points: 19</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://spectrum.ieee.org/dark-matter](https://spectrum.ieee.org/dark-matter)
+
+---
+
+### 2. Better to Beg Forgiveness
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://pluralistic.net/2026/07/31/just-do-it/">https://pluralistic.net/2026/07/31/just-do-it/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49123300">https://news.ycombinator.com/item?id=49123300</a></p>
+<p>Points: 18</p>
+<p># Comments: 6</p>
+
+🔗 **Read more:** [https://pluralistic.net/2026/07/31/just-do-it/](https://pluralistic.net/2026/07/31/just-do-it/)
+
+---
+
+### 3. Situational Awareness Down 67% in July in AI Stock Rout
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f">https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49122994">https://news.ycombinator.com/item?id=49122994</a></p>
+<p>Points: 85</p>
+<p># Comments: 86</p>
+
+🔗 **Read more:** [https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f](https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f)
+
+---
+
+### 4. About 60,000 migrants arrive in Ceuta in 24 hours, Spanish territory's leader says
 
 **Source:** BBC
 
@@ -23,7 +71,7 @@ Spain's prime minister described the situation as an "attack" on its North Afric
 
 ---
 
-### 2. Disgraced funeral boss who failed to bury bodies jailed for 20 years
+### 5. Disgraced funeral boss who failed to bury bodies jailed for 20 years
 
 **Source:** BBC
 
@@ -36,7 +84,7 @@ Robert Bush also failed to cremate people and gave bereaved relatives the ashes 
 
 ---
 
-### 3. Burnham says Infantino 'wrong man' to lead Fifa as third confederation opposes World Cup plan
+### 6. Burnham says Infantino 'wrong man' to lead Fifa as third confederation opposes World Cup plan
 
 **Source:** BBC
 
@@ -49,7 +97,20 @@ Prime Minister Andy Burnham says Gianni Infantino is "the wrong man" to lead Fif
 
 ---
 
-### 4. Police chief resigns days after deadly shooting in US city of Seattle
+### 7. World Cup: FIFA studying impact of expanding to 64 teams for 2030 edition
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+FIFA&#039;s World Cup 2026 expansion was their first since 1998, but the 2030 edition could rise to 64 teams.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/7/31/world-cup-fifa-studying-impact-of-expanding-to-64-teams-for-2030-edition?traffic_source=rss](https://www.aljazeera.com/sports/2026/7/31/world-cup-fifa-studying-impact-of-expanding-to-64-teams-for-2030-edition?traffic_source=rss)
+
+---
+
+### 8. Police chief resigns days after deadly shooting in US city of Seattle
 
 **Source:** Al Jazeera
 
@@ -62,7 +123,7 @@ Shon Barnes steps down amid questions over authorities’ handling of the shooti
 
 ---
 
-### 5. Chelsea fined $13.5m for FA breaches, avoid Premier League points deduction
+### 9. Chelsea fined $13.5m for FA breaches, avoid Premier League points deduction
 
 **Source:** Al Jazeera
 
@@ -75,20 +136,7 @@ Chelsea rule breaches that led to action were self-reported following takeover b
 
 ---
 
-### 6. Russia and Ukraine report casualties as they continue to trade attacks
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Ukraine hit Russian oil refineries several times, while Russia struck Dnipropetrovsk and a cargo vessel near Odesa.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/31/russia-and-ukraine-report-casualties-as-they-continue-to-trade-attacks?traffic_source=rss](https://www.aljazeera.com/news/2026/7/31/russia-and-ukraine-report-casualties-as-they-continue-to-trade-attacks?traffic_source=rss)
-
----
-
-### 7. Wildfire Camden McCarthy Overpass Fire, Camden, Georgia
+### 10. Wildfire Camden McCarthy Overpass Fire, Camden, Georgia
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Wildfires
 
 ---
 
-### 8. Wildfire Duhamel, Pennington, South Dakota
+### 11. Wildfire Duhamel, Pennington, South Dakota
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Wildfires
 
 ---
 
-### 9. Wildfire HOLEY LAND (6), Broward, Florida
+### 12. Wildfire HOLEY LAND (6), Broward, Florida
 
 **Source:** NASA
 

@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-31 21:29:33
+**Last Update:** 2026-07-31 23:08:41
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Miso (YC S16) is hiring for U.S. expansion
+### 1. Tailscale didn't stop the Hugging Face intrusion
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.ycombinator.com/companies/miso/jobs/g2uAlMG-founding-business-lead-u-s-expansion">https://www.ycombinator.com/companies/miso/jobs/g2uAlMG-founding-business-lead-u-s-expansion</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49125785">https://news.ycombinator.com/item?id=49125785</a></p>
-<p>Points: 0</p>
+<p>Article URL: <a href="https://tailscale.com/blog/hugging-face-intrusion">https://tailscale.com/blog/hugging-face-intrusion</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49127306">https://news.ycombinator.com/item?id=49127306</a></p>
+<p>Points: 23</p>
+<p># Comments: 7</p>
+
+🔗 **Read more:** [https://tailscale.com/blog/hugging-face-intrusion](https://tailscale.com/blog/hugging-face-intrusion)
+
+---
+
+### 2. AI companies destroy rare and non recoverable physical books
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.heraldscotland.com/opinion/26422014.library-alexandria-burns-ai-companies-destroying-books-bulk/">https://www.heraldscotland.com/opinion/26422014.library-alexandria-burns-ai-companies-destroying-books-bulk/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49127284">https://news.ycombinator.com/item?id=49127284</a></p>
+<p>Points: 10</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.ycombinator.com/companies/miso/jobs/g2uAlMG-founding-business-lead-u-s-expansion](https://www.ycombinator.com/companies/miso/jobs/g2uAlMG-founding-business-lead-u-s-expansion)
+🔗 **Read more:** [https://www.heraldscotland.com/opinion/26422014.library-alexandria-burns-ai-companies-destroying-books-bulk/](https://www.heraldscotland.com/opinion/26422014.library-alexandria-burns-ai-companies-destroying-books-bulk/)
 
 ---
 
-### 2. Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio
+### 3. Golang proposal: container/: generic collection types
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/">https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49125034">https://news.ycombinator.com/item?id=49125034</a></p>
-<p>Points: 30</p>
-<p># Comments: 9</p>
+<p>Article URL: <a href="https://github.com/golang/go/issues/80590">https://github.com/golang/go/issues/80590</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49127031">https://news.ycombinator.com/item?id=49127031</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/](https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/)
-
----
-
-### 3. Big Food vs. the People
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.lighthousereports.com/investigation/big-food-vs-the-people/">https://www.lighthousereports.com/investigation/big-food-vs-the-people/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49124858">https://news.ycombinator.com/item?id=49124858</a></p>
-<p>Points: 72</p>
-<p># Comments: 20</p>
-
-🔗 **Read more:** [https://www.lighthousereports.com/investigation/big-food-vs-the-people/](https://www.lighthousereports.com/investigation/big-food-vs-the-people/)
+🔗 **Read more:** [https://github.com/golang/go/issues/80590](https://github.com/golang/go/issues/80590)
 
 ---
 
@@ -65,7 +65,7 @@
 **Category:** world
 
 **Description:**
-Spain said most of the migrants had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with Spain.
+Spain said most had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with Madrid.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss)
 
@@ -97,42 +97,42 @@ Fifa's chief operating officer strongly criticises Gianni Infantino's plan to se
 
 ---
 
-### 7. Western allies warn North Korean IT workers funding nuclear arsenal
+### 7. World reacts with cautious optimism to Hamas disarmament agreement
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Pyongyang accused of using hard currency earned by AI-assisted workers to power armaments programme.
+Deal for Hamas to disarm in stages in return for Israeli withdrawal has been announced, but implementation will be key.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/31/western-allies-warn-north-korean-it-workers-funding-nuclear-arsenal?traffic_source=rss](https://www.aljazeera.com/news/2026/7/31/western-allies-warn-north-korean-it-workers-funding-nuclear-arsenal?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/31/world-reacts-with-cautious-optimism-to-hamas-disarmament-agreement?traffic_source=rss](https://www.aljazeera.com/news/2026/7/31/world-reacts-with-cautious-optimism-to-hamas-disarmament-agreement?traffic_source=rss)
 
 ---
 
-### 8. DR Congo Ebola epidemic becomes world’s second largest outbreak
+### 8. Trump says Hamas disarmament deal will be complex to deliver
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Officials declare the outbreak the fastest spreading ever, warning the world to &#039;pay much more attention&#039;.
+Trump said Israel strongly supports an agreement for the complete disarmament of Hamas
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/31/dr-congo-ebola-epidemic-becomes-worlds-second-largest-outbreak?traffic_source=rss](https://www.aljazeera.com/news/2026/7/31/dr-congo-ebola-epidemic-becomes-worlds-second-largest-outbreak?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/31/trump-says-hamas-disarmament-deal-will-be-complex-to-deliver?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/31/trump-says-hamas-disarmament-deal-will-be-complex-to-deliver?traffic_source=rss)
 
 ---
 
-### 9. Three-year roadmap proposed for Hamas disarmament in Gaza
+### 9. Syrian lawyer takes on ex-Assad official in landmark trial
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Under a US-backed proposal, Hamas and Israel would have 14 days to finalise Gaza&#039;s political transition
+Syrian lawyer takes on ex-Assad official in landmark trial
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/31/three-year-roadmap-proposed-for-hamas-disarmament-in-gaza?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/31/three-year-roadmap-proposed-for-hamas-disarmament-in-gaza?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/31/syrian-lawyer-takes-on-ex-assad-official-in-landmark-trial?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/31/syrian-lawyer-takes-on-ex-assad-official-in-landmark-trial?traffic_source=rss)
 
 ---
 

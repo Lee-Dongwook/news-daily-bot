@@ -1,32 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-01 12:38:00
+**Last Update:** 2026-08-01 13:43:21
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Simon Willison on DeepSeek-V4-Flash-0731
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731/">https://simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49132468">https://news.ycombinator.com/item?id=49132468</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731/](https://simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731/)
-
----
-
-### 2. RamenHaus
+### 1. RamenHaus
 
 **Source:** Hacker News
 
@@ -35,10 +19,26 @@
 **Description:**
 <p>Article URL: <a href="https://ramen.haus/">https://ramen.haus/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49132460">https://news.ycombinator.com/item?id=49132460</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Points: 64</p>
+<p># Comments: 19</p>
 
 🔗 **Read more:** [https://ramen.haus/](https://ramen.haus/)
+
+---
+
+### 2. How to Do Great Work
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://paulgraham.com/greatwork.html">https://paulgraham.com/greatwork.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49132289">https://news.ycombinator.com/item?id=49132289</a></p>
+<p>Points: 9</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://paulgraham.com/greatwork.html](https://paulgraham.com/greatwork.html)
 
 ---
 
@@ -51,36 +51,36 @@
 **Description:**
 <p>Article URL: <a href="https://weeraman.com/the-prototype-isnt-the-product/">https://weeraman.com/the-prototype-isnt-the-product/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49132130">https://news.ycombinator.com/item?id=49132130</a></p>
-<p>Points: 4</p>
-<p># Comments: 1</p>
+<p>Points: 44</p>
+<p># Comments: 21</p>
 
 🔗 **Read more:** [https://weeraman.com/the-prototype-isnt-the-product/](https://weeraman.com/the-prototype-isnt-the-product/)
 
 ---
 
-### 4. Fifa scraps World Cup investment plan after outcry
+### 4. Uefa has 'lost confidence' in Fifa leadership as investment plan scrapped
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Fifa boss Gianni Infantino said the project to sell off stakes in its major competitions had "created divisions" and would not go ahead.
+Uefa says it has lost confidence in Gianni Infantino's Fifa leadership as the fallout from the scrapped controversial investment plan intensifies.
 
-🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/czekr6kn58po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/czekr6kn58po?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Labour's Bev Craig elected Greater Manchester mayor, succeeding Andy Burnham
+### 5. Sir John Curtice: The "Burnham bounce" is real but it's not massive
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Labour's Bev Craig secures nearly double the number of votes won by Reform UK's Sian Astley.
+The governing party's poll ratings have improved but they're only just ahead of Reform
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cy74n1n1lnxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cy74n1n1lnxo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c4g4djygr73o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c4g4djygr73o?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +97,42 @@ Settler violence against Palestinians is on the rise in the West Bank, as settle
 
 ---
 
-### 7. FIFA World Cup plan fallout: AFC reacts as Infantino scraps investment push
+### 7. UEFA says it has lost confidence in current FIFA leadership
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Asian Football Confederation says FIFA future must be &#039;shaped through proper consultation&#039; after World Cup plan fallout.
+UEFA, who were the strongest opponents of FIFA&#039;s plan, slam the Gianni Infantino-led governing body despite standdown.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/1/fifa-world-cup-plan-fallout-afc-react-as-fifa-scrap-investment-push?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/1/fifa-world-cup-plan-fallout-afc-react-as-fifa-scrap-investment-push?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/1/uefa-welcomes-fifa-world-cup-standdown-after-voting-to-boycott?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/1/uefa-welcomes-fifa-world-cup-standdown-after-voting-to-boycott?traffic_source=rss)
 
 ---
 
-### 8. Protesters detained at rally in support of Pakistan-administered Kashmir
+### 8. Iranian Kurdish parties in Iraq face a delicate balance amid Iran attacks
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Police detained several protesters in Lahore, Pakistan as they rallied in solidarity with Pakistan-administered Kashmir.
+Iranian Kurdish groups based in Iraq have been heavily attacked in the war, but most deny US assistance.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/1/protesters-detained-at-rally-in-support-of-pakistan-administered-kashmir?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/1/protesters-detained-at-rally-in-support-of-pakistan-administered-kashmir?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/iranian-kurdish-parties-in-iraq-face-a-delicate-balance-amid-iran-attacks?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/iranian-kurdish-parties-in-iraq-face-a-delicate-balance-amid-iran-attacks?traffic_source=rss)
 
 ---
 
-### 9. US drops charges against Olympian for damage to Reflecting Pool
+### 9. Beneath Tunisia’s silence, public anger simmers
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The US Department of Justice has moved to dismiss its case against Olympian David Hearn.
+Behind Tunisia’s enforced calm, anger is growing over repression, economic decline and collapsing public services.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/1/us-drops-charges-against-olympian-for-damage-to-reflecting-pool?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/1/us-drops-charges-against-olympian-for-damage-to-reflecting-pool?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/beneath-tunisias-silence-public-anger-simmers?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/beneath-tunisias-silence-public-anger-simmers?traffic_source=rss)
 
 ---
 

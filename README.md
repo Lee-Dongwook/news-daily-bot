@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-02 00:27:10
+**Last Update:** 2026-08-02 00:44:08
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://diataxis.fr/">https://diataxis.fr/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49138188">https://news.ycombinator.com/item?id=49138188</a></p>
-<p>Points: 12</p>
-<p># Comments: 3</p>
+<p>Points: 26</p>
+<p># Comments: 6</p>
 
 🔗 **Read more:** [https://diataxis.fr/](https://diataxis.fr/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://zaksa.zip/blog/silicon-valley-founder-meat-grinder/">https://zaksa.zip/blog/silicon-valley-founder-meat-grinder/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49138045">https://news.ycombinator.com/item?id=49138045</a></p>
-<p>Points: 8</p>
-<p># Comments: 0</p>
+<p>Points: 47</p>
+<p># Comments: 9</p>
 
 🔗 **Read more:** [https://zaksa.zip/blog/silicon-valley-founder-meat-grinder/](https://zaksa.zip/blog/silicon-valley-founder-meat-grinder/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.worseonpurpose.com/p/your-cookware-got-worse-on-purpose">https://www.worseonpurpose.com/p/your-cookware-got-worse-on-purpose</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49137904">https://news.ycombinator.com/item?id=49137904</a></p>
-<p>Points: 23</p>
-<p># Comments: 11</p>
+<p>Points: 31</p>
+<p># Comments: 18</p>
 
 🔗 **Read more:** [https://www.worseonpurpose.com/p/your-cookware-got-worse-on-purpose](https://www.worseonpurpose.com/p/your-cookware-got-worse-on-purpose)
 
@@ -97,7 +97,33 @@ The renowned mountaineer was known for scaling the world's 14 highest peaks in j
 
 ---
 
-### 7. Record-breaking climber Nirmal Purja among those killed in avalanche
+### 7. Fighting breaks out in western Tigray as Ethiopia and TPLF trade blame
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Clashes near Sheraro mark one of the most serious threats yet to the fragile 2022 Pretoria peace deal.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/fighting-breaks-out-in-western-tigray-as-ethiopia-and-tplf-trade-blame?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/fighting-breaks-out-in-western-tigray-as-ethiopia-and-tplf-trade-blame?traffic_source=rss)
+
+---
+
+### 8. Greece battles raging wildfires as flames appear to ease in France
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+French wildfires show signs of easing, with containment efforts holding in Var and Gironde after destructive blazes.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/greece-battles-raging-wildfires-as-flames-appear-to-ease-in-france?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/greece-battles-raging-wildfires-as-flames-appear-to-ease-in-france?traffic_source=rss)
+
+---
+
+### 9. Record-breaking climber Nirmal Purja among those killed in avalanche
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ The renowned mountaineer was known for scaling the world's 14 highest peaks in j
 14 Peaks star Nirmal Purja has died in an avalanche while leading 10 climbers up Broad Peak mountain in Pakistan.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/1/record-record-breaking-climber-nirmal-purja-among-those-killed-in-avalanche?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/1/record-record-breaking-climber-nirmal-purja-among-those-killed-in-avalanche?traffic_source=rss)
-
----
-
-### 8. Trump denounces Justice Department decision to drop Reflecting Pool charges
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The US president pushes back after a federal prosecutor says damage caused by &#039;botched&#039; installation, not vandalism.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/trump-denounces-justice-department-decision-to-drop-reflecting-pool-charges?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/trump-denounces-justice-department-decision-to-drop-reflecting-pool-charges?traffic_source=rss)
-
----
-
-### 9. Palestinian children among those detained in Israeli West Bank raids
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Settler violence escalates, with illegal outposts and frequent attacks reported across Ramallah, Hebron and Nablus.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/palestinian-children-among-those-detained-in-israeli-west-bank-raids?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/palestinian-children-among-those-detained-in-israeli-west-bank-raids?traffic_source=rss)
 
 ---
 

@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-01 22:43:09
+**Last Update:** 2026-08-01 23:12:25
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/">https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49137060">https://news.ycombinator.com/item?id=49137060</a></p>
-<p>Points: 20</p>
-<p># Comments: 3</p>
+<p>Points: 40</p>
+<p># Comments: 14</p>
 
 🔗 **Read more:** [https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/](https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.npr.org/2026/07/31/nx-s1-5910660/big-oil-earnings-q2-2026">https://www.npr.org/2026/07/31/nx-s1-5910660/big-oil-earnings-q2-2026</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49137024">https://news.ycombinator.com/item?id=49137024</a></p>
-<p>Points: 14</p>
-<p># Comments: 5</p>
+<p>Points: 29</p>
+<p># Comments: 32</p>
 
 🔗 **Read more:** [https://www.npr.org/2026/07/31/nx-s1-5910660/big-oil-earnings-q2-2026](https://www.npr.org/2026/07/31/nx-s1-5910660/big-oil-earnings-q2-2026)
 
@@ -52,8 +52,8 @@
 <p>Not just HN the site, everyone’s fuzzy search sucks. Let me do exact match search. Even if it’s an option I have to dig deep to find.<p>When I ran a site that had lots of search use I <i>agonized</i> over making search good and never nuked exact match for the sake of some fuzzy matching. I wish others would do the same.</p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49136990">https://news.ycombinator.com/item?id=49136990</a></p>
-<p>Points: 37</p>
-<p># Comments: 18</p>
+<p>Points: 57</p>
+<p># Comments: 28</p>
 
 🔗 **Read more:** [https://news.ycombinator.com/item?id=49136990](https://news.ycombinator.com/item?id=49136990)
 
@@ -98,7 +98,33 @@ The renowned mountaineer was known for scaling the world's 14 highest peaks in j
 
 ---
 
-### 7. At least three killed in explosion near cafe in Russia’s Moscow
+### 7. Trump denounces Justice Department decision to drop Reflecting Pool charges
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The US president pushes back after a federal prosecutor says damage caused by &#039;botched&#039; installation, not vandalism.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/trump-denounces-justice-department-decision-to-drop-reflecting-pool-charges?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/trump-denounces-justice-department-decision-to-drop-reflecting-pool-charges?traffic_source=rss)
+
+---
+
+### 8. Palestinian children among those detained in Israeli West Bank raids
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Settler violence escalates, with illegal outposts and frequent attacks reported across Ramallah, Hebron and Nablus.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/palestinian-children-among-those-detained-in-israeli-west-bank-raids?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/palestinian-children-among-those-detained-in-israeli-west-bank-raids?traffic_source=rss)
+
+---
+
+### 9. At least three killed in explosion near cafe in Russia’s Moscow
 
 **Source:** Al Jazeera
 
@@ -108,32 +134,6 @@ The renowned mountaineer was known for scaling the world's 14 highest peaks in j
 ⁠Fifteen also ​injured ‌in the blast in Kudrinskaya Square, authorities say.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/russia-says-explosion-near-cafe-in-moscow-kills-three?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/russia-says-explosion-near-cafe-in-moscow-kills-three?traffic_source=rss)
-
----
-
-### 8. ‘Marathon’ shines light on Gaza’s orphaned children and humanitarian crisis
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-More than 58,000 children have lost one or both parents by Israel&#039;s war, highlighting urgent humanitarian challenges.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/marathon-shines-light-on-gazas-orphaned-children-and-humanitarian-crisis?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/marathon-shines-light-on-gazas-orphaned-children-and-humanitarian-crisis?traffic_source=rss)
-
----
-
-### 9. Trump pledges to pursue ‘anti-weaponisation’ fund amid Blanche standoff
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The US president said he would push ahead with the controversial fund if his attorney general pick is not approved.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/trump-pledges-to-pursue-anti-weaponisation-fund-amid-blanche-standoff?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/trump-pledges-to-pursue-anti-weaponisation-fund-amid-blanche-standoff?traffic_source=rss)
 
 ---
 

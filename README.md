@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-01 13:43:21
+**Last Update:** 2026-08-01 14:48:52
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** Al Jazeera, BBC, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://ramen.haus/">https://ramen.haus/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49132460">https://news.ycombinator.com/item?id=49132460</a></p>
-<p>Points: 64</p>
-<p># Comments: 19</p>
+<p>Points: 96</p>
+<p># Comments: 49</p>
 
 🔗 **Read more:** [https://ramen.haus/](https://ramen.haus/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://paulgraham.com/greatwork.html">https://paulgraham.com/greatwork.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49132289">https://news.ycombinator.com/item?id=49132289</a></p>
-<p>Points: 9</p>
-<p># Comments: 1</p>
+<p>Points: 25</p>
+<p># Comments: 11</p>
 
 🔗 **Read more:** [https://paulgraham.com/greatwork.html](https://paulgraham.com/greatwork.html)
 
@@ -51,27 +51,40 @@
 **Description:**
 <p>Article URL: <a href="https://weeraman.com/the-prototype-isnt-the-product/">https://weeraman.com/the-prototype-isnt-the-product/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49132130">https://news.ycombinator.com/item?id=49132130</a></p>
-<p>Points: 44</p>
-<p># Comments: 21</p>
+<p>Points: 112</p>
+<p># Comments: 95</p>
 
 🔗 **Read more:** [https://weeraman.com/the-prototype-isnt-the-product/](https://weeraman.com/the-prototype-isnt-the-product/)
 
 ---
 
-### 4. Uefa has 'lost confidence' in Fifa leadership as investment plan scrapped
+### 4. Uefa has 'lost confidence' in Infantino's Fifa leadership
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Uefa says it has lost confidence in Gianni Infantino's Fifa leadership as the fallout from the scrapped controversial investment plan intensifies.
+The governing body of European football says Fifa president Gianni Infantino has "failed to deliver" on promises he made when elected 10 years ago.
 
 🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Sir John Curtice: The "Burnham bounce" is real but it's not massive
+### 5. Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Italy has temporarily suspended the Schengen arrangement with Spain as Prime Minister Giorgia Meloni called scenes in Ceuta "shocking".
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Sir John Curtice: The "Burnham bounce" is real but it's not massive
 
 **Source:** BBC
 
@@ -84,20 +97,33 @@ The governing party's poll ratings have improved but they're only just ahead of 
 
 ---
 
-### 6. Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge
+### 7. Omani legend, US novice: Pakistan recovers bodies from Broad Peak
 
-**Source:** BBC
+**Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand.
+Rescuers are still looking for other missing climbers swept away in an avalanche on the world&#039;s 12th largest peak.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/omani-legend-us-novice-pakistan-recovers-bodies-from-broad-peak?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/omani-legend-us-novice-pakistan-recovers-bodies-from-broad-peak?traffic_source=rss)
 
 ---
 
-### 7. UEFA says it has lost confidence in current FIFA leadership
+### 8. Iran: The Making of a War
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+From coup to conflict - how decades of rivalries and miscalculations have shaped one of today’s most dangerous wars.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/featured-documentaries/2026/8/1/iran-the-making-of-a-war?traffic_source=rss](https://www.aljazeera.com/video/featured-documentaries/2026/8/1/iran-the-making-of-a-war?traffic_source=rss)
+
+---
+
+### 9. Infantino’s World Cup crisis: UEFA has ‘lost confidence’ in FIFA leadership
 
 **Source:** Al Jazeera
 
@@ -107,71 +133,6 @@ Settler violence against Palestinians is on the rise in the West Bank, as settle
 UEFA, who were the strongest opponents of FIFA&#039;s plan, slam the Gianni Infantino-led governing body despite standdown.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/1/uefa-welcomes-fifa-world-cup-standdown-after-voting-to-boycott?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/1/uefa-welcomes-fifa-world-cup-standdown-after-voting-to-boycott?traffic_source=rss)
-
----
-
-### 8. Iranian Kurdish parties in Iraq face a delicate balance amid Iran attacks
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Iranian Kurdish groups based in Iraq have been heavily attacked in the war, but most deny US assistance.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/iranian-kurdish-parties-in-iraq-face-a-delicate-balance-amid-iran-attacks?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/iranian-kurdish-parties-in-iraq-face-a-delicate-balance-amid-iran-attacks?traffic_source=rss)
-
----
-
-### 9. Beneath Tunisia’s silence, public anger simmers
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Behind Tunisia’s enforced calm, anger is growing over repression, economic decline and collapsing public services.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/beneath-tunisias-silence-public-anger-simmers?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/beneath-tunisias-silence-public-anger-simmers?traffic_source=rss)
-
----
-
-### 10. Wildfire Camden McCarthy Overpass Fire, Camden, Georgia
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21965](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21965)
-
----
-
-### 11. Wildfire Duhamel, Pennington, South Dakota
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968)
-
----
-
-### 12. Wildfire HOLEY LAND (6), Broward, Florida
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976)
 
 ---
 

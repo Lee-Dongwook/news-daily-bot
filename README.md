@@ -1,16 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-01 10:02:16
+**Last Update:** 2026-08-01 11:09:50
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Fifa scraps World Cup investment plan after outcry
+### 1. Ten Ways NAS Is Getting Enshitified
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/">https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49131367">https://news.ycombinator.com/item?id=49131367</a></p>
+<p>Points: 37</p>
+<p># Comments: 27</p>
+
+🔗 **Read more:** [https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/](https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/)
+
+---
+
+### 2. What Liberal Arts Education Is for (2024)
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://innig.net/teaching/liberal-arts-manifesto">https://innig.net/teaching/liberal-arts-manifesto</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49131034">https://news.ycombinator.com/item?id=49131034</a></p>
+<p>Points: 34</p>
+<p># Comments: 33</p>
+
+🔗 **Read more:** [https://innig.net/teaching/liberal-arts-manifesto](https://innig.net/teaching/liberal-arts-manifesto)
+
+---
+
+### 3. The development pipeline is a production system
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system">https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49130726">https://news.ycombinator.com/item?id=49130726</a></p>
+<p>Points: 64</p>
+<p># Comments: 21</p>
+
+🔗 **Read more:** [https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system](https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system)
+
+---
+
+### 4. Fifa scraps World Cup investment plan after outcry
 
 **Source:** BBC
 
@@ -23,7 +71,7 @@ Fifa boss Gianni Infantino said the project to sell off stakes in its major comp
 
 ---
 
-### 2. Labour's Bev Craig elected Greater Manchester mayor, succeeding Andy Burnham
+### 5. Labour's Bev Craig elected Greater Manchester mayor, succeeding Andy Burnham
 
 **Source:** BBC
 
@@ -36,7 +84,7 @@ Labour's Bev Craig secures nearly double the number of votes won by Reform UK's 
 
 ---
 
-### 3. Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco
+### 6. Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco
 
 **Source:** BBC
 
@@ -49,7 +97,20 @@ Spain said most had returned to Morocco by Friday evening, as Italy suspended it
 
 ---
 
-### 4. Protesters detained at rally in support of Pakistan-administered Kashmir
+### 7. FIFA World Cup plan fallout: AFC reacts as Infantino scraps investment push
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Asian Football Confederation says FIFA future must be &#039;shaped through proper consultation&#039; after World Cup plan fallout.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/1/fifa-world-cup-plan-fallout-afc-react-as-fifa-scrap-investment-push?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/1/fifa-world-cup-plan-fallout-afc-react-as-fifa-scrap-investment-push?traffic_source=rss)
+
+---
+
+### 8. Protesters detained at rally in support of Pakistan-administered Kashmir
 
 **Source:** Al Jazeera
 
@@ -62,7 +123,7 @@ Police detained several protesters in Lahore, Pakistan as they rallied in solida
 
 ---
 
-### 5. US drops charges against Olympian for damage to Reflecting Pool
+### 9. US drops charges against Olympian for damage to Reflecting Pool
 
 **Source:** Al Jazeera
 
@@ -75,20 +136,7 @@ The US Department of Justice has moved to dismiss its case against Olympian Davi
 
 ---
 
-### 6. Peru’s ex-president Humala released after conviction overturned
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Humala and his wife were sentenced to 15 years last year after being convicted of money laundering.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/perus-ex-president-humala-released-after-conviction-overturned?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/perus-ex-president-humala-released-after-conviction-overturned?traffic_source=rss)
-
----
-
-### 7. Wildfire Camden McCarthy Overpass Fire, Camden, Georgia
+### 10. Wildfire Camden McCarthy Overpass Fire, Camden, Georgia
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Wildfires
 
 ---
 
-### 8. Wildfire Duhamel, Pennington, South Dakota
+### 11. Wildfire Duhamel, Pennington, South Dakota
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Wildfires
 
 ---
 
-### 9. Wildfire HOLEY LAND (6), Broward, Florida
+### 12. Wildfire HOLEY LAND (6), Broward, Florida
 
 **Source:** NASA
 

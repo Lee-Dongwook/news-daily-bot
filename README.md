@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-01 06:47:15
+**Last Update:** 2026-08-01 08:15:14
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. How to Exist
+### 1. BMW Spider-Man in-car advertising
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.raptitude.com/2026/07/how-to-exist/">https://www.raptitude.com/2026/07/how-to-exist/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49129990">https://news.ycombinator.com/item?id=49129990</a></p>
-<p>Points: 45</p>
-<p># Comments: 13</p>
+<p>Article URL: <a href="https://consumerrights.wiki/w/BMW_Spider-Man_in-car_advertising">https://consumerrights.wiki/w/BMW_Spider-Man_in-car_advertising</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49130756">https://news.ycombinator.com/item?id=49130756</a></p>
+<p>Points: 82</p>
+<p># Comments: 30</p>
 
-🔗 **Read more:** [https://www.raptitude.com/2026/07/how-to-exist/](https://www.raptitude.com/2026/07/how-to-exist/)
+🔗 **Read more:** [https://consumerrights.wiki/w/BMW_Spider-Man_in-car_advertising](https://consumerrights.wiki/w/BMW_Spider-Man_in-car_advertising)
 
 ---
 
-### 2. Show HN: I worked on a new browser for 2 years, today it passed Acid 3
+### 2. The development pipeline is a production system
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://code.intellios.ai/cwbrowser/">https://code.intellios.ai/cwbrowser/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49128826">https://news.ycombinator.com/item?id=49128826</a></p>
-<p>Points: 49</p>
-<p># Comments: 19</p>
+<p>Article URL: <a href="https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system">https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49130726">https://news.ycombinator.com/item?id=49130726</a></p>
+<p>Points: 33</p>
+<p># Comments: 11</p>
 
-🔗 **Read more:** [https://code.intellios.ai/cwbrowser/](https://code.intellios.ai/cwbrowser/)
+🔗 **Read more:** [https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system](https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system)
 
 ---
 
-### 3. Loops (YC W22) Is Hiring a Product Educator
+### 3. What Is MiniMax H3? Everything You Need to Know About the Hailuo 3.0 Video Model
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator">https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49128462">https://news.ycombinator.com/item?id=49128462</a></p>
-<p>Points: 0</p>
+<p>Article URL: <a href="https://minimaxh3.art/blog/what-is-minimax-h3">https://minimaxh3.art/blog/what-is-minimax-h3</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49130723">https://news.ycombinator.com/item?id=49130723</a></p>
+<p>Points: 3</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator](https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator)
+🔗 **Read more:** [https://minimaxh3.art/blog/what-is-minimax-h3](https://minimaxh3.art/blog/what-is-minimax-h3)
 
 ---
 
@@ -97,42 +97,42 @@ Labour's Bev Craig secures nearly double the number of votes won by Reform UK's 
 
 ---
 
-### 7. Russian missile attack kills three in Ukraine’s Kyiv
+### 7. Peru’s ex-president Humala released after conviction overturned
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Residents trapped as partially collapsed building catches fire after deadly strike on Ukrainian capital.
+Humala and his wife were sentenced to 15 years last year after being convicted of money laundering.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/russian-missile-attack-kills-three-in-ukraines-kyiv?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/russian-missile-attack-kills-three-in-ukraines-kyiv?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/perus-ex-president-humala-released-after-conviction-overturned?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/perus-ex-president-humala-released-after-conviction-overturned?traffic_source=rss)
 
 ---
 
-### 8. US military says F-35B jet fighter crashes in California, pilot safe
+### 8. Yemen’s Houthis deny plan to charge ships transiting Red Sea
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The jet went down on Friday near the Miramar airbase in San Diego.
+Houthis say Red Sea route remains free to use, pushing back on report of new shipping fees.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/us-military-says-f-35b-jet-fighter-crashes-in-california-pilot-safe?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/us-military-says-f-35b-jet-fighter-crashes-in-california-pilot-safe?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/yemens-houthis-deny-plan-to-charge-ships-transiting-red-sea?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/yemens-houthis-deny-plan-to-charge-ships-transiting-red-sea?traffic_source=rss)
 
 ---
 
-### 9. Why has Infantino scrapped FIFA’s World Cup investment plan? What to know
+### 9. Is Israel really ready to withdraw from Gaza?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-How FIFA President Gianni Infantino was forced abandon his World Cup equity plan after seismic backlash across football.
+Netanyahu faces political turmoil over Gaza disarmament plan tied to Israel&#039;s potential withdrawal from the enclave.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/1/why-has-infantino-scrapped-fifas-world-cup-investment-plan-what-to-know?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/1/why-has-infantino-scrapped-fifas-world-cup-investment-plan-what-to-know?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/is-israel-really-ready-to-withdraw-from-gaza?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/is-israel-really-ready-to-withdraw-from-gaza?traffic_source=rss)
 
 ---
 

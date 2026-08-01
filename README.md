@@ -1,32 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-01 20:33:23
+**Last Update:** 2026-08-01 20:59:02
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. DNS propagation checker that shows the results as a box of 24 donuts
+### 1. Assessment of open AI math results
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://donutdns.com">https://donutdns.com</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49136065">https://news.ycombinator.com/item?id=49136065</a></p>
-<p>Points: 3</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://twitter.com/stalkermustang/status/2083485500250198453">https://twitter.com/stalkermustang/status/2083485500250198453</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49136236">https://news.ycombinator.com/item?id=49136236</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://donutdns.com](https://donutdns.com)
+🔗 **Read more:** [https://twitter.com/stalkermustang/status/2083485500250198453](https://twitter.com/stalkermustang/status/2083485500250198453)
 
 ---
 
-### 2. I ♥ RSS – A directory of people who love RSS
+### 2. Floundering A.I. 'Nostradamus' Hedge Fund Is Rescued by Rival
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.nytimes.com/2026/07/30/business/artificial-intelligence-situational-awareness-citadel.html">https://www.nytimes.com/2026/07/30/business/artificial-intelligence-situational-awareness-citadel.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49136104">https://news.ycombinator.com/item?id=49136104</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.nytimes.com/2026/07/30/business/artificial-intelligence-situational-awareness-citadel.html](https://www.nytimes.com/2026/07/30/business/artificial-intelligence-situational-awareness-citadel.html)
+
+---
+
+### 3. I ♥ RSS – A directory of people who love RSS
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://andrewshell.org/2026/07/i-%e2%99%a5-rss/">https://andrewshell.org/2026/07/i-%e2%99%a5-rss/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49136063">https://news.ycombinator.com/item?id=49136063</a></p>
-<p>Points: 9</p>
-<p># Comments: 5</p>
+<p>Points: 38</p>
+<p># Comments: 23</p>
 
 🔗 **Read more:** [https://andrewshell.org/2026/07/i-%e2%99%a5-rss/](https://andrewshell.org/2026/07/i-%e2%99%a5-rss/)
-
----
-
-### 3. Kaisel – Routes as Values. Dart 3 Native Router for Flutter
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://kaisel.dev/">https://kaisel.dev/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49135985">https://news.ycombinator.com/item?id=49135985</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://kaisel.dev/](https://kaisel.dev/)
 
 ---
 
@@ -97,7 +97,20 @@ The renowned mountaineer was known for scaling the world's 14 highest peaks in j
 
 ---
 
-### 7. Moroccan rapper Mehdi El Youbi temporarily released from prison
+### 7. Turkiye and Iraq sign one-year oil pipeline deal amid global shift
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The renewed agreement ensures crude flow of 750,000 barrels a day through the Iraq-Turkiye pipeline, officials confirm.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/turkiye-and-iraq-sign-one-year-oil-pipeline-deal-amid-global-shift?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/turkiye-and-iraq-sign-one-year-oil-pipeline-deal-amid-global-shift?traffic_source=rss)
+
+---
+
+### 8. Moroccan rapper Mehdi El Youbi temporarily released from prison
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ The outspoken artist was detained in mid-July for ‘insulting a constitutional 
 
 ---
 
-### 8. Israeli strikes kill four across Gaza, destroy medical supply warehouse
+### 9. Israeli strikes kill four across Gaza, destroy medical supply warehouse
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ The outspoken artist was detained in mid-July for ‘insulting a constitutional 
 Attacks kill four as Gaza Health Ministry condemns &#039;heinous&#039; strike on medicine stores, days after disarmament deal.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/israeli-strikes-kill-four-across-gaza-destroy-medical-supply-warehouse?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/israeli-strikes-kill-four-across-gaza-destroy-medical-supply-warehouse?traffic_source=rss)
-
----
-
-### 9. At least 11 wounded by Colombia car bomb days before presidential election
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-President-elect Abelardo de la Espriella pledges to pursue harsh crackdown on rebel groups and criminal organisations.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/at-least-11-wounded-by-colombia-car-bomb-days-before-presidential-election?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/at-least-11-wounded-by-colombia-car-bomb-days-before-presidential-election?traffic_source=rss)
 
 ---
 

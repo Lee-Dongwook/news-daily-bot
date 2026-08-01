@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-02 02:54:45
+**Last Update:** 2026-08-02 03:29:12
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Unraveling the mysteries of habit formation
+### 1. Stop fucking around with database commits and transactions
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.droppedasbaby.com/posts/db-commits/">https://www.droppedasbaby.com/posts/db-commits/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49139562">https://news.ycombinator.com/item?id=49139562</a></p>
+<p>Points: 13</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://www.droppedasbaby.com/posts/db-commits/](https://www.droppedasbaby.com/posts/db-commits/)
+
+---
+
+### 2. Unraveling the mysteries of habit formation
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.kyoto-u.ac.jp/en/research-news/2026-07-28">https://www.kyoto-u.ac.jp/en/research-news/2026-07-28</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49139383">https://news.ycombinator.com/item?id=49139383</a></p>
-<p>Points: 6</p>
-<p># Comments: 2</p>
+<p>Points: 9</p>
+<p># Comments: 5</p>
 
 🔗 **Read more:** [https://www.kyoto-u.ac.jp/en/research-news/2026-07-28](https://www.kyoto-u.ac.jp/en/research-news/2026-07-28)
 
 ---
 
-### 2. Morph (YC S23) Is Hiring Member of Technical Stuff
+### 3. Morph (YC S23) Is Hiring Member of Technical Stuff
 
 **Source:** Hacker News
 
@@ -39,22 +55,6 @@
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://www.ycombinator.com/companies/morph/jobs/0Z8vI3K-member-of-technical-staff](https://www.ycombinator.com/companies/morph/jobs/0Z8vI3K-member-of-technical-staff)
-
----
-
-### 3. "Everyone Has Been Sold a Lie" on AI
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.youtube.com/watch?v=pHcZpvIfho0">https://www.youtube.com/watch?v=pHcZpvIfho0</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49139325">https://news.ycombinator.com/item?id=49139325</a></p>
-<p>Points: 15</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://www.youtube.com/watch?v=pHcZpvIfho0](https://www.youtube.com/watch?v=pHcZpvIfho0)
 
 ---
 
@@ -97,7 +97,33 @@ The Foxtrot Network is thought to be responsible for about 35 murders in Europe,
 
 ---
 
-### 7. Michigan joins Minnesota in reporting cyberattacks, with FBI investigating
+### 7. New York Times reveals Trump administration subpoena over North Korea story
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The Justice Department faces criticism for increasing use of subpoenas in attempts to compel journalists to reveal info.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/new-york-times-reveals-trump-administration-subpoena-over-north-korea-story?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/new-york-times-reveals-trump-administration-subpoena-over-north-korea-story?traffic_source=rss)
+
+---
+
+### 8. Growing like ‘gangbusters’: Can Taiwan maintain its economic momentum?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Taiwan&#039;s GDP is soaring on back of US imports of AI chips, but experts warn that problems could arise with Trump, China.
+
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/1/growing-like-gangbusters-can-taiwan-maintain-its-economic-momentum?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/1/growing-like-gangbusters-can-taiwan-maintain-its-economic-momentum?traffic_source=rss)
+
+---
+
+### 9. Michigan joins Minnesota in reporting cyberattacks, with FBI investigating
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ The Foxtrot Network is thought to be responsible for about 35 murders in Europe,
 No culprit has been identified in any of the attacks, which comes after authorities warned of possible Iranian plot.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/michigan-joins-minnesota-in-reporting-cyber-attacks-with-fbi-investigating?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/michigan-joins-minnesota-in-reporting-cyber-attacks-with-fbi-investigating?traffic_source=rss)
-
----
-
-### 8. US Arabs eye ‘historic’ Senate win for Abdul El-Sayed despite AIPAC attacks
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Senate race in Michigan comes to embody Democratic rift over Israel, as AIPAC spends heavily against progressive doctor.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/us-arabs-eye-historic-senate-win-for-abdul-el-sayed-despite-aipac-attacks?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/us-arabs-eye-historic-senate-win-for-abdul-el-sayed-despite-aipac-attacks?traffic_source=rss)
-
----
-
-### 9. Why did Ceuta migrant mayhem chill already frosty Israel-Spain relations?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-What caused more than 50,000 migrants to storm a Spanish enclave in Africa, and did Israel have anything to do with it?
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/why-did-ceuta-migrant-mayhem-chill-already-frosty-israel-spain-relations?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/why-did-ceuta-migrant-mayhem-chill-already-frosty-israel-spain-relations?traffic_source=rss)
 
 ---
 

@@ -1,74 +1,73 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-01 23:12:25
+**Last Update:** 2026-08-02 00:27:10
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Postmortem for Kernel Soundness Bug #14576
+### 1. Diátaxis
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/">https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49137060">https://news.ycombinator.com/item?id=49137060</a></p>
-<p>Points: 40</p>
-<p># Comments: 14</p>
+<p>Article URL: <a href="https://diataxis.fr/">https://diataxis.fr/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49138188">https://news.ycombinator.com/item?id=49138188</a></p>
+<p>Points: 12</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/](https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/)
+🔗 **Read more:** [https://diataxis.fr/](https://diataxis.fr/)
 
 ---
 
-### 2. Oil companies report sky-high profits thanks to wartime crude prices
+### 2. The Silicon Valley Founder Meat Grinder
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.npr.org/2026/07/31/nx-s1-5910660/big-oil-earnings-q2-2026">https://www.npr.org/2026/07/31/nx-s1-5910660/big-oil-earnings-q2-2026</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49137024">https://news.ycombinator.com/item?id=49137024</a></p>
-<p>Points: 29</p>
-<p># Comments: 32</p>
+<p>Article URL: <a href="https://zaksa.zip/blog/silicon-valley-founder-meat-grinder/">https://zaksa.zip/blog/silicon-valley-founder-meat-grinder/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49138045">https://news.ycombinator.com/item?id=49138045</a></p>
+<p>Points: 8</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.npr.org/2026/07/31/nx-s1-5910660/big-oil-earnings-q2-2026](https://www.npr.org/2026/07/31/nx-s1-5910660/big-oil-earnings-q2-2026)
+🔗 **Read more:** [https://zaksa.zip/blog/silicon-valley-founder-meat-grinder/](https://zaksa.zip/blog/silicon-valley-founder-meat-grinder/)
 
 ---
 
-### 3. Tell HN: I hate your fuzzy search
+### 3. Cookware Got Worse on Purpose: Who Owns Pyrex and All-Clad Now
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Not just HN the site, everyone’s fuzzy search sucks. Let me do exact match search. Even if it’s an option I have to dig deep to find.<p>When I ran a site that had lots of search use I <i>agonized</i> over making search good and never nuked exact match for the sake of some fuzzy matching. I wish others would do the same.</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49136990">https://news.ycombinator.com/item?id=49136990</a></p>
-<p>Points: 57</p>
-<p># Comments: 28</p>
+<p>Article URL: <a href="https://www.worseonpurpose.com/p/your-cookware-got-worse-on-purpose">https://www.worseonpurpose.com/p/your-cookware-got-worse-on-purpose</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49137904">https://news.ycombinator.com/item?id=49137904</a></p>
+<p>Points: 23</p>
+<p># Comments: 11</p>
 
-🔗 **Read more:** [https://news.ycombinator.com/item?id=49136990](https://news.ycombinator.com/item?id=49136990)
+🔗 **Read more:** [https://www.worseonpurpose.com/p/your-cookware-got-worse-on-purpose](https://www.worseonpurpose.com/p/your-cookware-got-worse-on-purpose)
 
 ---
 
-### 4. Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings
+### 4. EU calls emergency meeting to discuss Ceuta migrant crossings
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Italy has temporarily suspended the Schengen arrangement with Spain as Prime Minister Giorgia Meloni called scenes in Ceuta "shocking".
+There have been tense exchanges between Spain and other EU states over the influx of migrants into the enclave of Ceuta.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -98,7 +97,20 @@ The renowned mountaineer was known for scaling the world's 14 highest peaks in j
 
 ---
 
-### 7. Trump denounces Justice Department decision to drop Reflecting Pool charges
+### 7. Record-breaking climber Nirmal Purja among those killed in avalanche
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+14 Peaks star Nirmal Purja has died in an avalanche while leading 10 climbers up Broad Peak mountain in Pakistan.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/1/record-record-breaking-climber-nirmal-purja-among-those-killed-in-avalanche?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/1/record-record-breaking-climber-nirmal-purja-among-those-killed-in-avalanche?traffic_source=rss)
+
+---
+
+### 8. Trump denounces Justice Department decision to drop Reflecting Pool charges
 
 **Source:** Al Jazeera
 
@@ -111,7 +123,7 @@ The US president pushes back after a federal prosecutor says damage caused by &#
 
 ---
 
-### 8. Palestinian children among those detained in Israeli West Bank raids
+### 9. Palestinian children among those detained in Israeli West Bank raids
 
 **Source:** Al Jazeera
 
@@ -121,19 +133,6 @@ The US president pushes back after a federal prosecutor says damage caused by &#
 Settler violence escalates, with illegal outposts and frequent attacks reported across Ramallah, Hebron and Nablus.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/palestinian-children-among-those-detained-in-israeli-west-bank-raids?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/palestinian-children-among-those-detained-in-israeli-west-bank-raids?traffic_source=rss)
-
----
-
-### 9. At least three killed in explosion near cafe in Russia’s Moscow
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-⁠Fifteen also ​injured ‌in the blast in Kudrinskaya Square, authorities say.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/russia-says-explosion-near-cafe-in-moscow-kills-three?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/russia-says-explosion-near-cafe-in-moscow-kills-three?traffic_source=rss)
 
 ---
 

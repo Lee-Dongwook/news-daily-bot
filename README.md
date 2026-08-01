@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-01 18:32:54
+**Last Update:** 2026-08-01 19:03:39
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/">https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49134694">https://news.ycombinator.com/item?id=49134694</a></p>
-<p>Points: 40</p>
-<p># Comments: 2</p>
+<p>Points: 78</p>
+<p># Comments: 19</p>
 
 🔗 **Read more:** [https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/](https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/)
 
@@ -35,26 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://nostarch.com/art-64-bit-assembly-v2">https://nostarch.com/art-64-bit-assembly-v2</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49134599">https://news.ycombinator.com/item?id=49134599</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
+<p>Points: 27</p>
+<p># Comments: 1</p>
 
 🔗 **Read more:** [https://nostarch.com/art-64-bit-assembly-v2](https://nostarch.com/art-64-bit-assembly-v2)
 
 ---
 
-### 3. How to Spot AI Writing
+### 3. RipGrep musl binaries occasionally segfault during very-large searches
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing">https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49134310">https://news.ycombinator.com/item?id=49134310</a></p>
-<p>Points: 20</p>
-<p># Comments: 22</p>
+<p>Article URL: <a href="https://github.com/BurntSushi/ripgrep/issues/3494">https://github.com/BurntSushi/ripgrep/issues/3494</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49133889">https://news.ycombinator.com/item?id=49133889</a></p>
+<p>Points: 123</p>
+<p># Comments: 74</p>
 
-🔗 **Read more:** [https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing](https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing)
+🔗 **Read more:** [https://github.com/BurntSushi/ripgrep/issues/3494](https://github.com/BurntSushi/ripgrep/issues/3494)
 
 ---
 

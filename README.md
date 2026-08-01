@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-01 04:31:36
+**Last Update:** 2026-08-01 06:47:15
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Loops (YC W22) Is Hiring a Product Educator
+### 1. How to Exist
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.raptitude.com/2026/07/how-to-exist/">https://www.raptitude.com/2026/07/how-to-exist/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49129990">https://news.ycombinator.com/item?id=49129990</a></p>
+<p>Points: 45</p>
+<p># Comments: 13</p>
+
+🔗 **Read more:** [https://www.raptitude.com/2026/07/how-to-exist/](https://www.raptitude.com/2026/07/how-to-exist/)
+
+---
+
+### 2. Show HN: I worked on a new browser for 2 years, today it passed Acid 3
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://code.intellios.ai/cwbrowser/">https://code.intellios.ai/cwbrowser/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49128826">https://news.ycombinator.com/item?id=49128826</a></p>
+<p>Points: 49</p>
+<p># Comments: 19</p>
+
+🔗 **Read more:** [https://code.intellios.ai/cwbrowser/](https://code.intellios.ai/cwbrowser/)
+
+---
+
+### 3. Loops (YC W22) Is Hiring a Product Educator
 
 **Source:** Hacker News
 
@@ -26,39 +58,6 @@
 
 ---
 
-### 2. Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://arxiv.org/abs/2607.28233">https://arxiv.org/abs/2607.28233</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49128323">https://news.ycombinator.com/item?id=49128323</a></p>
-<p>Points: 27</p>
-<p># Comments: 16</p>
-
-🔗 **Read more:** [https://arxiv.org/abs/2607.28233](https://arxiv.org/abs/2607.28233)
-
----
-
-### 3. Predictive Speculative KV Replication for Bursty LLM Inference
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p><a href="https://github.com/jwlaboratory/bite-the-bullet" rel="nofollow">https://github.com/jwlaboratory/bite-the-bullet</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49127874">https://news.ycombinator.com/item?id=49127874</a></p>
-<p>Points: 22</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://jwlabs.vercel.app/post/biting-the-bullet](https://jwlabs.vercel.app/post/biting-the-bullet)
-
----
-
 ### 4. Fifa scraps controversial World Cup investment plan
 
 **Source:** BBC
@@ -66,7 +65,7 @@
 **Category:** world
 
 **Description:**
-Football's world governing body abandons plans to sell off stakes in its major competitions after widespread opposition to president Gianni Infantino's idea.
+Football's world governing body abandons plans to sell off stakes in its major competitions after widespread opposition to president Gianni Infantino's proposal.
 
 🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/czekr6kn58po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/czekr6kn58po?at_medium=RSS&at_campaign=rss)
 
@@ -85,55 +84,55 @@ Spain said most had returned to Morocco by Friday evening, as Italy suspended it
 
 ---
 
-### 6. What triggered the mass migrant crossings into Ceuta?
+### 6. Labour's Bev Craig elected Greater Manchester mayor, succeeding Andy Burnham
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-An estimated 60,000 migrants from Morocco have crossed into Ceuta, with dozens dying during the journey.
+Labour's Bev Craig secures nearly double the number of votes won by Reform UK's Sian Astley.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c171nnql1j4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c171nnql1j4o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cy74n1n1lnxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cy74n1n1lnxo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Israel launches attacks across Gaza one day after Hamas agrees to disarm
+### 7. Russian missile attack kills three in Ukraine’s Kyiv
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli attacks across Gaza have killed at least two Palestinians, hours after Hamas agreed to a draft peace deal.
+Residents trapped as partially collapsed building catches fire after deadly strike on Ukrainian capital.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/1/israel-launches-attacks-across-gaza-one-day-after-hamas-agrees-to-disarm?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/1/israel-launches-attacks-across-gaza-one-day-after-hamas-agrees-to-disarm?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/russian-missile-attack-kills-three-in-ukraines-kyiv?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/russian-missile-attack-kills-three-in-ukraines-kyiv?traffic_source=rss)
 
 ---
 
-### 8. Trump administration to dismiss Reflecting Pool charges against David Hearn
+### 8. US military says F-35B jet fighter crashes in California, pilot safe
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US Attorney Jeanine Pirro, a Trump appointee, acknowledges that the peeling sealant is result of &#039;botched installation&#039;.
+The jet went down on Friday near the Miramar airbase in San Diego.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/trump-administration-to-dismiss-reflecting-pool-charges-against-david-hearn?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/trump-administration-to-dismiss-reflecting-pool-charges-against-david-hearn?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/us-military-says-f-35b-jet-fighter-crashes-in-california-pilot-safe?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/us-military-says-f-35b-jet-fighter-crashes-in-california-pilot-safe?traffic_source=rss)
 
 ---
 
-### 9. Iran war live: Trump threatens strikes, Iran says it has a plan to respond
+### 9. Why has Infantino scrapped FIFA’s World Cup investment plan? What to know
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-An Iranian official quoted by Tasnim says comprehensive plans are in place to respond to any &#039;mad&#039; US strikes.
+How FIFA President Gianni Infantino was forced abandon his World Cup equity plan after seismic backlash across football.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-iran-says-it-has-a-plan-to-respond-to-any-us-attacks?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-iran-says-it-has-a-plan-to-respond-to-any-us-attacks?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/1/why-has-infantino-scrapped-fifas-world-cup-investment-plan-what-to-know?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/1/why-has-infantino-scrapped-fifas-world-cup-investment-plan-what-to-know?traffic_source=rss)
 
 ---
 

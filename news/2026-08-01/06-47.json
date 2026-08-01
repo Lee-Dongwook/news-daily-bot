@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-01T06:47:15+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "How to Exist",
+            "description": "<p>Article URL: <a href=\"https://www.raptitude.com/2026/07/how-to-exist/\">https://www.raptitude.com/2026/07/how-to-exist/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49129990\">https://news.ycombinator.com/item?id=49129990</a></p>\n<p>Points: 45</p>\n<p># Comments: 13</p>",
+            "url": "https://www.raptitude.com/2026/07/how-to-exist/",
+            "published": "Sat, 01 Aug 2026 00:25:00 +0000",
+            "fetched": "2026-08-01T06:47:15+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: I worked on a new browser for 2 years, today it passed Acid 3",
+            "description": "<p>Article URL: <a href=\"https://code.intellios.ai/cwbrowser/\">https://code.intellios.ai/cwbrowser/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49128826\">https://news.ycombinator.com/item?id=49128826</a></p>\n<p>Points: 49</p>\n<p># Comments: 19</p>",
+            "url": "https://code.intellios.ai/cwbrowser/",
+            "published": "Fri, 31 Jul 2026 21:39:52 +0000",
+            "fetched": "2026-08-01T06:47:15+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Loops (YC W22) Is Hiring a Product Educator",
+            "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator\">https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49128462\">https://news.ycombinator.com/item?id=49128462</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+            "url": "https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator",
+            "published": "Fri, 31 Jul 2026 21:00:40 +0000",
+            "fetched": "2026-08-01T06:47:15+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Fifa scraps controversial World Cup investment plan",
+            "description": "Football's world governing body abandons plans to sell off stakes in its major competitions after widespread opposition to president Gianni Infantino's proposal.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/czekr6kn58po?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 01 Aug 2026 00:12:06 GMT",
+            "fetched": "2026-08-01T06:47:15+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
+            "description": "Spain said most had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with Madrid.",
+            "url": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 31 Jul 2026 17:03:47 GMT",
+            "fetched": "2026-08-01T06:47:15+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Labour's Bev Craig elected Greater Manchester mayor, succeeding Andy Burnham",
+            "description": "Labour's Bev Craig secures nearly double the number of votes won by Reform UK's Sian Astley.",
+            "url": "https://www.bbc.co.uk/news/articles/cy74n1n1lnxo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 31 Jul 2026 22:53:54 GMT",
+            "fetched": "2026-08-01T06:47:15+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Russian missile attack kills three in Ukraine’s Kyiv",
+            "description": "Residents trapped as partially collapsed building catches fire after deadly strike on Ukrainian capital.",
+            "url": "https://www.aljazeera.com/news/2026/8/1/russian-missile-attack-kills-three-in-ukraines-kyiv?traffic_source=rss",
+            "published": "Sat, 01 Aug 2026 02:06:00 +0000",
+            "fetched": "2026-08-01T06:47:15+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US military says F-35B jet fighter crashes in California, pilot safe",
+            "description": "The jet went down on Friday near the Miramar airbase in San Diego.",
+            "url": "https://www.aljazeera.com/news/2026/8/1/us-military-says-f-35b-jet-fighter-crashes-in-california-pilot-safe?traffic_source=rss",
+            "published": "Sat, 01 Aug 2026 01:55:27 +0000",
+            "fetched": "2026-08-01T06:47:15+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why has Infantino scrapped FIFA’s World Cup investment plan? What to know",
+            "description": "How FIFA President Gianni Infantino was forced abandon his World Cup equity plan after seismic backlash across football.",
+            "url": "https://www.aljazeera.com/sports/2026/8/1/why-has-infantino-scrapped-fifas-world-cup-investment-plan-what-to-know?traffic_source=rss",
+            "published": "Sat, 01 Aug 2026 01:10:58 +0000",
+            "fetched": "2026-08-01T06:47:15+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Camden McCarthy Overpass Fire, Camden, Georgia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21965",
+            "published": "2026-07-30T00:14:00Z",
+            "fetched": "2026-08-01T06:47:15+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Duhamel, Pennington, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968",
+            "published": "2026-07-29T18:24:00Z",
+            "fetched": "2026-08-01T06:47:15+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire HOLEY LAND (6), Broward, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976",
+            "published": "2026-07-28T19:53:00Z",
+            "fetched": "2026-08-01T06:47:15+03:30"
+        }
+    ]
+}

@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-01 17:33:45
+**Last Update:** 2026-08-01 18:32:54
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. RipGrep musl binaries occasionally segfault during very-large searches
+### 1. A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/BurntSushi/ripgrep/issues/3494">https://github.com/BurntSushi/ripgrep/issues/3494</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49133889">https://news.ycombinator.com/item?id=49133889</a></p>
-<p>Points: 70</p>
-<p># Comments: 26</p>
+<p>Article URL: <a href="https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/">https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49134694">https://news.ycombinator.com/item?id=49134694</a></p>
+<p>Points: 40</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://github.com/BurntSushi/ripgrep/issues/3494](https://github.com/BurntSushi/ripgrep/issues/3494)
+🔗 **Read more:** [https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/](https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/)
 
 ---
 
-### 2. Astro Loop
+### 2. The Art of 64-bit Assembly
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://pubdeer.com/">https://pubdeer.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49133777">https://news.ycombinator.com/item?id=49133777</a></p>
+<p>Article URL: <a href="https://nostarch.com/art-64-bit-assembly-v2">https://nostarch.com/art-64-bit-assembly-v2</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49134599">https://news.ycombinator.com/item?id=49134599</a></p>
 <p>Points: 3</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://pubdeer.com/](https://pubdeer.com/)
+🔗 **Read more:** [https://nostarch.com/art-64-bit-assembly-v2](https://nostarch.com/art-64-bit-assembly-v2)
 
 ---
 
-### 3. Kontigo (YC S24) Is Hiring
+### 3. How to Spot AI Writing
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.ycombinator.com/companies/kontigo/jobs/xAo6tMt-founding-engineer">https://www.ycombinator.com/companies/kontigo/jobs/xAo6tMt-founding-engineer</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49133655">https://news.ycombinator.com/item?id=49133655</a></p>
-<p>Points: 0</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing">https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49134310">https://news.ycombinator.com/item?id=49134310</a></p>
+<p>Points: 20</p>
+<p># Comments: 22</p>
 
-🔗 **Read more:** [https://www.ycombinator.com/companies/kontigo/jobs/xAo6tMt-founding-engineer](https://www.ycombinator.com/companies/kontigo/jobs/xAo6tMt-founding-engineer)
+🔗 **Read more:** [https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing](https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing)
 
 ---
 
@@ -91,48 +91,87 @@ Italy has temporarily suspended the Schengen arrangement with Spain as Prime Min
 **Category:** world
 
 **Description:**
-The Nepali-born climber was known for scaling the world's 14 highest peaks in just over six months in 2019.
+The renowned mountaineer was known for scaling the world's 14 highest peaks in just over six months in 2019.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Is Spain being punished?
+### 7. India cracks down on protesters accused of ‘abusing’ Modi
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-In the months leading up to the crisis in Ceuta, pro-Israel voices conspicuously raised the issue of the enclave
+Police cases, social media takedowns and online abuse have followed many who took part in India’s youth protests.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/1/is-spain-being-punished?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/1/is-spain-being-punished?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/1/india-cracks-down-on-protesters-accused-of-abusing-modi?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/1/india-cracks-down-on-protesters-accused-of-abusing-modi?traffic_source=rss)
 
 ---
 
-### 8. Children run marathon to spotlight Gaza’s growing orphan crises
+### 8. Israeli strike destroys Gaza hospital warehouse
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Children run marathon to spotlight Gaza&#039;s growing orphan crisis
+Israeli strike destroys medical supplies warehouse at Gaza&#039;s Al-Aqsa Martyrs Hospital, staff say.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/1/children-run-marathon-to-spotlight-gazas-growing-orphan-crises?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/1/children-run-marathon-to-spotlight-gazas-growing-orphan-crises?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/1/01-08-israel-strike-gaza-hospital-sv-mp4?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/1/01-08-israel-strike-gaza-hospital-sv-mp4?traffic_source=rss)
 
 ---
 
-### 9. Most Australian teens still online three months after under-16 ban
+### 9. Infantino’s FIFA crisis: What is reaction to World Cup investment U-turn?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The Australian government has defended the ban after a report concluded most teenagers had found ways to get around it.
+Backlash to FIFA&#039;s private investment plan for World Cups and events was huge; now football reacts to U-turn&#039;s fallout.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/most-australian-teens-still-online-three-months-after-under-16-ban?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/most-australian-teens-still-online-three-months-after-under-16-ban?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/1/infantinos-fifa-crisis-what-is-reaction-to-world-cup-investment-u-turn?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/1/infantinos-fifa-crisis-what-is-reaction-to-world-cup-investment-u-turn?traffic_source=rss)
+
+---
+
+### 10. Wildfire Camden McCarthy Overpass Fire, Camden, Georgia
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21965](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21965)
+
+---
+
+### 11. Wildfire Duhamel, Pennington, South Dakota
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968)
+
+---
+
+### 12. Wildfire HOLEY LAND (6), Broward, Florida
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976)
 
 ---
 

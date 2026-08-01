@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-01 14:48:52
+**Last Update:** 2026-08-01 15:08:36
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
@@ -19,14 +19,14 @@
 **Description:**
 <p>Article URL: <a href="https://ramen.haus/">https://ramen.haus/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49132460">https://news.ycombinator.com/item?id=49132460</a></p>
-<p>Points: 96</p>
-<p># Comments: 49</p>
+<p>Points: 100</p>
+<p># Comments: 52</p>
 
 🔗 **Read more:** [https://ramen.haus/](https://ramen.haus/)
 
 ---
 
-### 2. How to Do Great Work
+### 2. How to Do Great Work (2023)
 
 **Source:** Hacker News
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://paulgraham.com/greatwork.html">https://paulgraham.com/greatwork.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49132289">https://news.ycombinator.com/item?id=49132289</a></p>
-<p>Points: 25</p>
-<p># Comments: 11</p>
+<p>Points: 31</p>
+<p># Comments: 17</p>
 
 🔗 **Read more:** [https://paulgraham.com/greatwork.html](https://paulgraham.com/greatwork.html)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://weeraman.com/the-prototype-isnt-the-product/">https://weeraman.com/the-prototype-isnt-the-product/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49132130">https://news.ycombinator.com/item?id=49132130</a></p>
-<p>Points: 112</p>
-<p># Comments: 95</p>
+<p>Points: 134</p>
+<p># Comments: 114</p>
 
 🔗 **Read more:** [https://weeraman.com/the-prototype-isnt-the-product/](https://weeraman.com/the-prototype-isnt-the-product/)
 
@@ -97,42 +97,81 @@ The governing party's poll ratings have improved but they're only just ahead of 
 
 ---
 
-### 7. Omani legend, US novice: Pakistan recovers bodies from Broad Peak
+### 7. Vanishing forests: Why is the Philippines failing at reforestation?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Rescuers are still looking for other missing climbers swept away in an avalanche on the world&#039;s 12th largest peak.
+101 East investigates how the Philippines’ ambitious regreening programme is failing the nation’s forests.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/omani-legend-us-novice-pakistan-recovers-bodies-from-broad-peak?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/omani-legend-us-novice-pakistan-recovers-bodies-from-broad-peak?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/101-east/2026/8/1/vanishing-forests-why-is-the-philippines-failing-at-reforestation?traffic_source=rss](https://www.aljazeera.com/video/101-east/2026/8/1/vanishing-forests-why-is-the-philippines-failing-at-reforestation?traffic_source=rss)
 
 ---
 
-### 8. Iran: The Making of a War
+### 8. Spain says migrants in Ceuta have returned to Morocco
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-From coup to conflict - how decades of rivalries and miscalculations have shaped one of today’s most dangerous wars.
+Spain says 50,000 migrants who entered its North African enclave of Ceuta have returned to Morocco.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/featured-documentaries/2026/8/1/iran-the-making-of-a-war?traffic_source=rss](https://www.aljazeera.com/video/featured-documentaries/2026/8/1/iran-the-making-of-a-war?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/1/01-08-sv-ceuta-migrants-returned-es?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/1/01-08-sv-ceuta-migrants-returned-es?traffic_source=rss)
 
 ---
 
-### 9. Infantino’s World Cup crisis: UEFA has ‘lost confidence’ in FIFA leadership
+### 9. Trump mimics sound of Patriot missile interceptions
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-UEFA, who were the strongest opponents of FIFA&#039;s plan, slam the Gianni Infantino-led governing body despite standdown.
+US President Donald Trump mimicked missile interceptions as he described the US military shooting down Iranian missiles.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/1/uefa-welcomes-fifa-world-cup-standdown-after-voting-to-boycott?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/1/uefa-welcomes-fifa-world-cup-standdown-after-voting-to-boycott?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/1/aje-onl-nf_01-08-trump-jordan-missiles-clip-010826?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/1/aje-onl-nf_01-08-trump-jordan-missiles-clip-010826?traffic_source=rss)
+
+---
+
+### 10. Wildfire Camden McCarthy Overpass Fire, Camden, Georgia
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21965](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21965)
+
+---
+
+### 11. Wildfire Duhamel, Pennington, South Dakota
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968)
+
+---
+
+### 12. Wildfire HOLEY LAND (6), Broward, Florida
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976)
 
 ---
 

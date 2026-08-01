@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-01 02:58:04
+**Last Update:** 2026-08-01 04:31:36
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://arxiv.org/abs/2607.28233">https://arxiv.org/abs/2607.28233</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49128323">https://news.ycombinator.com/item?id=49128323</a></p>
-<p>Points: 21</p>
-<p># Comments: 12</p>
+<p>Points: 27</p>
+<p># Comments: 16</p>
 
 🔗 **Read more:** [https://arxiv.org/abs/2607.28233](https://arxiv.org/abs/2607.28233)
 
@@ -52,14 +52,27 @@
 <p><a href="https://github.com/jwlaboratory/bite-the-bullet" rel="nofollow">https://github.com/jwlaboratory/bite-the-bullet</a></p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49127874">https://news.ycombinator.com/item?id=49127874</a></p>
-<p>Points: 15</p>
-<p># Comments: 1</p>
+<p>Points: 22</p>
+<p># Comments: 2</p>
 
 🔗 **Read more:** [https://jwlabs.vercel.app/post/biting-the-bullet](https://jwlabs.vercel.app/post/biting-the-bullet)
 
 ---
 
-### 4. Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco
+### 4. Fifa scraps controversial World Cup investment plan
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Football's world governing body abandons plans to sell off stakes in its major competitions after widespread opposition to president Gianni Infantino's idea.
+
+🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/czekr6kn58po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/czekr6kn58po?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco
 
 **Source:** BBC
 
@@ -72,68 +85,55 @@ Spain said most had returned to Morocco by Friday evening, as Italy suspended it
 
 ---
 
-### 5. Watch: Moroccan police clash with migrants near border with Spain's Ceuta
+### 6. What triggered the mass migrant crossings into Ceuta?
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Spain's North African territory of Ceuta from Morocco, though more than 25,000 have returned voluntarily, officials said.
+An estimated 60,000 migrants from Morocco have crossed into Ceuta, with dozens dying during the journey.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cnvnml1pen6o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cnvnml1pen6o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Fifa executive says staff 'deceived' by Infantino plans
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Fifa's chief operating officer strongly criticises Gianni Infantino's plan to sell stakes in competitions to private investors.
-
-🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/c2dkj03jp34o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/c2dkj03jp34o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c171nnql1j4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c171nnql1j4o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Israeli settlers vandalise Palestinian cemetery in West Bank
+### 7. Israel launches attacks across Gaza one day after Hamas agrees to disarm
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli settlers vandalise Palestinian cemetery in West Bank
+Israeli attacks across Gaza have killed at least two Palestinians, hours after Hamas agreed to a draft peace deal.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/31/israeli-settlers-vandalise-palestinian-cemetery-in-west-bank?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/31/israeli-settlers-vandalise-palestinian-cemetery-in-west-bank?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/1/israel-launches-attacks-across-gaza-one-day-after-hamas-agrees-to-disarm?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/1/israel-launches-attacks-across-gaza-one-day-after-hamas-agrees-to-disarm?traffic_source=rss)
 
 ---
 
-### 8. US Senate’s Fauci hearing renews COVID origin debate but reveals little
+### 8. Trump administration to dismiss Reflecting Pool charges against David Hearn
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Hearing underscores years-long partisan divide on lightning-rod issue fuelled by misleading White House claims.
+US Attorney Jeanine Pirro, a Trump appointee, acknowledges that the peeling sealant is result of &#039;botched installation&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/31/us-senates-fauci-hearing-renews-covid-origin-debate-but-reveals-little?traffic_source=rss](https://www.aljazeera.com/news/2026/7/31/us-senates-fauci-hearing-renews-covid-origin-debate-but-reveals-little?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/trump-administration-to-dismiss-reflecting-pool-charges-against-david-hearn?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/trump-administration-to-dismiss-reflecting-pool-charges-against-david-hearn?traffic_source=rss)
 
 ---
 
-### 9. Pathirage beats Chopra and Nadeem to win Commonwealth gold in javelin
+### 9. Iran war live: Trump threatens strikes, Iran says it has a plan to respond
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Rumesh Tharanga Pathirage wins gold, while Neeraj Chopra takes silver, but Arshad Nadeem makes early exit.
+An Iranian official quoted by Tasnim says comprehensive plans are in place to respond to any &#039;mad&#039; US strikes.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/7/31/pathirage-wins-sri-lankas-first-athletics-gold-in-commonwealth-javelin?traffic_source=rss](https://www.aljazeera.com/sports/2026/7/31/pathirage-wins-sri-lankas-first-athletics-gold-in-commonwealth-javelin?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-iran-says-it-has-a-plan-to-respond-to-any-us-attacks?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-iran-says-it-has-a-plan-to-respond-to-any-us-attacks?traffic_source=rss)
 
 ---
 

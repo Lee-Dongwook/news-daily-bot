@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-01 11:09:50
+**Last Update:** 2026-08-01 12:38:00
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Ten Ways NAS Is Getting Enshitified
+### 1. Simon Willison on DeepSeek-V4-Flash-0731
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/">https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49131367">https://news.ycombinator.com/item?id=49131367</a></p>
-<p>Points: 37</p>
-<p># Comments: 27</p>
+<p>Article URL: <a href="https://simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731/">https://simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49132468">https://news.ycombinator.com/item?id=49132468</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/](https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/)
+🔗 **Read more:** [https://simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731/](https://simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731/)
 
 ---
 
-### 2. What Liberal Arts Education Is for (2024)
+### 2. RamenHaus
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://innig.net/teaching/liberal-arts-manifesto">https://innig.net/teaching/liberal-arts-manifesto</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49131034">https://news.ycombinator.com/item?id=49131034</a></p>
-<p>Points: 34</p>
-<p># Comments: 33</p>
+<p>Article URL: <a href="https://ramen.haus/">https://ramen.haus/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49132460">https://news.ycombinator.com/item?id=49132460</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://innig.net/teaching/liberal-arts-manifesto](https://innig.net/teaching/liberal-arts-manifesto)
+🔗 **Read more:** [https://ramen.haus/](https://ramen.haus/)
 
 ---
 
-### 3. The development pipeline is a production system
+### 3. AI doesn't generate working products, that's still your job
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system">https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49130726">https://news.ycombinator.com/item?id=49130726</a></p>
-<p>Points: 64</p>
-<p># Comments: 21</p>
+<p>Article URL: <a href="https://weeraman.com/the-prototype-isnt-the-product/">https://weeraman.com/the-prototype-isnt-the-product/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49132130">https://news.ycombinator.com/item?id=49132130</a></p>
+<p>Points: 4</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system](https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system)
+🔗 **Read more:** [https://weeraman.com/the-prototype-isnt-the-product/](https://weeraman.com/the-prototype-isnt-the-product/)
 
 ---
 
@@ -84,16 +84,16 @@ Labour's Bev Craig secures nearly double the number of votes won by Reform UK's 
 
 ---
 
-### 6. Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco
+### 6. Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Spain said most had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with Madrid.
+Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss)
 
 ---
 

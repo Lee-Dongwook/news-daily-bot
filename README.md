@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-03 01:33:24
+**Last Update:** 2026-08-03 01:45:50
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://seanhelvey.com/tools-and-their-tools/">https://seanhelvey.com/tools-and-their-tools/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49148159">https://news.ycombinator.com/item?id=49148159</a></p>
-<p>Points: 35</p>
-<p># Comments: 27</p>
+<p>Points: 39</p>
+<p># Comments: 35</p>
 
 🔗 **Read more:** [https://seanhelvey.com/tools-and-their-tools/](https://seanhelvey.com/tools-and-their-tools/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/">https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49148128">https://news.ycombinator.com/item?id=49148128</a></p>
-<p>Points: 32</p>
-<p># Comments: 14</p>
+<p>Points: 44</p>
+<p># Comments: 20</p>
 
 🔗 **Read more:** [https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/](https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/)
 
@@ -52,7 +52,7 @@
 <p>I was poking through the iio devices on my Framework the other day and turns out Framework 12s have a pretty accurate hinge angle sensor! So I made a version of LidAngleSensor (<a href="https://github.com/samhenrigold/LidAngleSensor" rel="nofollow">https://github.com/samhenrigold/LidAngleSensor</a>) but for the Framework 12 on Linux, so you can make your hinge sound rusty</p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49148048">https://news.ycombinator.com/item?id=49148048</a></p>
-<p>Points: 13</p>
+<p>Points: 16</p>
 <p># Comments: 2</p>
 
 🔗 **Read more:** [https://github.com/ArcaEge/creakwork12](https://github.com/ArcaEge/creakwork12)
@@ -98,7 +98,20 @@ The US singer, 33, will "step back from visibility" at the end of her world tour
 
 ---
 
-### 7. Local volunteers help rebuild destroyed Christian monastery in Lebanon
+### 7. Wildfires force mass evacuations across the Pacific Northwest
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Fast-moving wildfires are forcing evacuations across Washington State, US and nearby British Columbia, Canada.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/aje-onl-nf_wildfires-force-evacuations-acrosspacific-northwest-020826?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/aje-onl-nf_wildfires-force-evacuations-acrosspacific-northwest-020826?traffic_source=rss)
+
+---
+
+### 8. Local volunteers help rebuild destroyed Christian monastery in Lebanon
 
 **Source:** Al Jazeera
 
@@ -111,7 +124,7 @@ Interfaith volunteers rebuild war-damaged Catholic monastery in Lebanon’s Zawt
 
 ---
 
-### 8. UK PM Burnham vows to be ‘relentless’ on Channel migrant crossings
+### 9. UK PM Burnham vows to be ‘relentless’ on Channel migrant crossings
 
 **Source:** Al Jazeera
 
@@ -121,19 +134,6 @@ Interfaith volunteers rebuild war-damaged Catholic monastery in Lebanon’s Zawt
 UK Prime Minister Andy Burnham said his government will be &quot;relentless&quot; in tackling small boat crossings the Channel.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/uk-pm-burnham-vows-to-be-relentless-on-channel-migrant-crossings?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/uk-pm-burnham-vows-to-be-relentless-on-channel-migrant-crossings?traffic_source=rss)
-
----
-
-### 9. Venezuela and the Dominican Republic say they will work to restore ties
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Both countries have agreed on a plan to restore diplomatic relations cut off after a contested vote in 2024.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/2/venezuela-and-the-dominican-republic-say-they-will-work-to-restore-ties?traffic_source=rss](https://www.aljazeera.com/news/2026/8/2/venezuela-and-the-dominican-republic-say-they-will-work-to-restore-ties?traffic_source=rss)
 
 ---
 

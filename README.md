@@ -1,60 +1,61 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-02 20:33:16
+**Last Update:** 2026-08-02 20:59:58
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM
+### 1. Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/wie-project/kakehashi">https://github.com/wie-project/kakehashi</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49145937">https://news.ycombinator.com/item?id=49145937</a></p>
-<p>Points: 8</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://github.com/wie-project/kakehashi](https://github.com/wie-project/kakehashi)
-
----
-
-### 2. Rooting, firmware analysis and persistent credentials of TP-Link TL-841N
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/">https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49145883">https://news.ycombinator.com/item?id=49145883</a></p>
+<p>Try DGX Spark playbooks using Nix on DGX OS, or install NixOS on your DGX Spark for the full Nix experience. The repository provides USB images and a NixOS module with settings for DGX Spark systems.<p>This works on the NVIDIA DGX Spark itself and also on the Asus Ascent GX10.<p>See my 5 minute lightning talk from Planet Nix for an intro: <a href="https://youtu.be/AvK_gi_snJE?si=MPKv3iiuS9B5elIE" rel="nofollow">https://youtu.be/AvK_gi_snJE?si=MPKv3iiuS9B5elIE</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49146267">https://news.ycombinator.com/item?id=49146267</a></p>
 <p>Points: 5</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/](https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/)
+🔗 **Read more:** [https://github.com/graham33/nixos-dgx-spark](https://github.com/graham33/nixos-dgx-spark)
 
 ---
 
-### 3. How the words we teach English language learners changed
+### 2. Pushes to arch AUR are suspendended right now.
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://pudding.cool/2026/07/essential-words/">https://pudding.cool/2026/07/essential-words/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49145590">https://news.ycombinator.com/item?id=49145590</a></p>
-<p>Points: 68</p>
-<p># Comments: 20</p>
+<p>Article URL: <a href="https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/message/YPJ3FQYJTJXXY3RUXCYLMHUKHLIUNVFF/">https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/message/YPJ3FQYJTJXXY3RUXCYLMHUKHLIUNVFF/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49146238">https://news.ycombinator.com/item?id=49146238</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://pudding.cool/2026/07/essential-words/](https://pudding.cool/2026/07/essential-words/)
+🔗 **Read more:** [https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/message/YPJ3FQYJTJXXY3RUXCYLMHUKHLIUNVFF/](https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/message/YPJ3FQYJTJXXY3RUXCYLMHUKHLIUNVFF/)
+
+---
+
+### 3. Linux Desktop Market Share Surpasses 10% in North America
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://linuxiac.com/linux-desktop-market-share-surpasses-10-in-north-america/">https://linuxiac.com/linux-desktop-market-share-surpasses-10-in-north-america/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49146122">https://news.ycombinator.com/item?id=49146122</a></p>
+<p>Points: 5</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://linuxiac.com/linux-desktop-market-share-surpasses-10-in-north-america/](https://linuxiac.com/linux-desktop-market-share-surpasses-10-in-north-america/)
 
 ---
 
@@ -71,14 +72,14 @@ The prime minister says enforcement is increased but there also need to be more 
 
 ---
 
-### 5. Man admits killing Scottish woman found in suitcase, Greek police say
+### 5. Man admits transporting Scottish woman's body in suitcase, Greek police say
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The man was arrested on suspicion of killing 38-year-old Elisabeth-Jane Ross, as well as robbery and weapons offences.
+The man was arrested on suspicion of manslaughter, as well as robbery and weapons offences.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c89ndd4g0gjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c89ndd4g0gjo?at_medium=RSS&at_campaign=rss)
 
@@ -97,42 +98,42 @@ NFU president Tom Bradshaw calls on the government to take action to prevent ext
 
 ---
 
-### 7. Capital One cites anti-money laundering concerns in Trump Organization case
+### 7. Migrant deaths in Ceuta rise to 72 after border surge from Morocco
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Capital One says Trump Organization account closures in 2021 followed review by anti-money-laundering team.
+Five more bodies have been found along Ceuta&#039;s coastline as enclave recovers from unprecedented border influx.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/2/capital-one-cites-anti-money-laundering-concerns-in-trump-organization-case?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/2/capital-one-cites-anti-money-laundering-concerns-in-trump-organization-case?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/2/migrant-deaths-in-ceuta-rise-to-72-after-border-surge-from-morocco?traffic_source=rss](https://www.aljazeera.com/news/2026/8/2/migrant-deaths-in-ceuta-rise-to-72-after-border-surge-from-morocco?traffic_source=rss)
 
 ---
 
-### 8. Saudi Crown Prince MBS urges Trump to ‘prioritise dialogue’ in US-Iran war
+### 8. ‘Iran war participation trophy’ mocking Trump appears in New York
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US president halted strikes after earlier threatening Iran with unprecedented force.
+A 10-foot-tall golden trophy mocking US President Donald Trump for the Iran war has appeared in New York.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/2/saudi-crown-prince-mbs-urges-trump-to-prioritise-dialogue-in-us-iran-war?traffic_source=rss](https://www.aljazeera.com/news/2026/8/2/saudi-crown-prince-mbs-urges-trump-to-prioritise-dialogue-in-us-iran-war?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/iran-war-participation-trophy-mocking-trump-appears-in-new-york?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/iran-war-participation-trophy-mocking-trump-appears-in-new-york?traffic_source=rss)
 
 ---
 
-### 9. Israeli settlers shoot Palestinian child during farm raid
+### 9. Deadly floods and landslide hit India’s Kerala
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-CCTV captured the moment a nine-year-old Palestinian boy was shot in the back by Israeli settlers.
+At least two people have been killed and eight injured after torrential rain triggered flooding
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/israeli-settlers-shoot-palestinian-child-during-farm-raid?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/israeli-settlers-shoot-palestinian-child-during-farm-raid?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/deadly-floods-and-landslide-hit-indias-kerala?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/deadly-floods-and-landslide-hit-indias-kerala?traffic_source=rss)
 
 ---
 

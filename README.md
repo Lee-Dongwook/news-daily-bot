@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-02 15:09:27
+**Last Update:** 2026-08-02 16:58:01
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Is the Industrial Revolution a good precedent for explosive growth today?
+### 1. Twenty Years of RISC OS Open
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://mattsclancy.github.io/2026/07/27/industrial-revolution-growth.html">https://mattsclancy.github.io/2026/07/27/industrial-revolution-growth.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49143053">https://news.ycombinator.com/item?id=49143053</a></p>
-<p>Points: 15</p>
-<p># Comments: 9</p>
-
-🔗 **Read more:** [https://mattsclancy.github.io/2026/07/27/industrial-revolution-growth.html](https://mattsclancy.github.io/2026/07/27/industrial-revolution-growth.html)
-
----
-
-### 2. Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://publicdomainreview.org/essay/ars-notoria/">https://publicdomainreview.org/essay/ars-notoria/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49143001">https://news.ycombinator.com/item?id=49143001</a></p>
-<p>Points: 21</p>
+<p>Article URL: <a href="https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open">https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49143967">https://news.ycombinator.com/item?id=49143967</a></p>
+<p>Points: 13</p>
 <p># Comments: 1</p>
 
-🔗 **Read more:** [https://publicdomainreview.org/essay/ars-notoria/](https://publicdomainreview.org/essay/ars-notoria/)
+🔗 **Read more:** [https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open](https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open)
 
 ---
 
-### 3. Show HN: Syncular – offline-first SQL sync with TypeScript and Rust cores
+### 2. An internal OpenAI Astra model solved 10 major open math and CS problems
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/syncular/syncular">https://github.com/syncular/syncular</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49142794">https://news.ycombinator.com/item?id=49142794</a></p>
-<p>Points: 16</p>
-<p># Comments: 8</p>
+<p>Article URL: <a href="https://twitter.com/polynoamial/status/2083467194663571701">https://twitter.com/polynoamial/status/2083467194663571701</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49143688">https://news.ycombinator.com/item?id=49143688</a></p>
+<p>Points: 30</p>
+<p># Comments: 17</p>
 
-🔗 **Read more:** [https://github.com/syncular/syncular](https://github.com/syncular/syncular)
+🔗 **Read more:** [https://twitter.com/polynoamial/status/2083467194663571701](https://twitter.com/polynoamial/status/2083467194663571701)
+
+---
+
+### 3. Great Question (YC W21) Is Hiring Senior Demand Gen Manager
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager">https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49143683">https://news.ycombinator.com/item?id=49143683</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager](https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager)
 
 ---
 
@@ -71,7 +71,20 @@ The US president claims Iran and other Middle Eastern countries asked Washington
 
 ---
 
-### 5. The shadowy gang recruiting teenage hitmen to kill across Europe
+### 5. Continued drought could cause shortage of certain foods, head of farmers' union says
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+NFU President Tom Bradshaw calls on the government to take action to prevent extreme weather impacting UK food supply.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq89e771jqlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq89e771jqlo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. The shadowy gang recruiting teenage hitmen to kill across Europe
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ The Foxtrot Network is thought to be responsible for about 35 murders in Europe,
 
 ---
 
-### 6. Body of mountaineer Nirmal Purja recovered after Pakistan avalanche
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The renowned climber was known for scaling the world's 14 highest peaks in just over six months in 2019.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Israeli soldiers jailed over Sde Teiman walkout
+### 7. Yemen’s crumbling roads mean an arduous quest for water for Taiz villagers
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Fourteen Israeli soldiers have been sentenced to military prison after leading an unauthorised walkout from Sde Teiman.
+Poor road infrastructure is exacerbating Yemen&#039;s water crisis, leading to hardships for thousands in Taiz governorate.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/israeli-soldiers-jailed-over-sde-teiman-walkout?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/israeli-soldiers-jailed-over-sde-teiman-walkout?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/2/yemens-crumbling-roads-means-an-arduous-quest-for-water-for-taiz-villagers?traffic_source=rss](https://www.aljazeera.com/features/2026/8/2/yemens-crumbling-roads-means-an-arduous-quest-for-water-for-taiz-villagers?traffic_source=rss)
 
 ---
 
-### 8. FIFA boss Infantino’s position looks unacceptable: European Leagues head
+### 8. South Korea has hottest day on record amid extreme weather globally
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Claudius Schafer says there can be &#039;only one consequence&#039; to Infantino&#039;s actions over his World Cup privatisation plan.
+Scientists say the climate crisis driven by human activity is making heatwaves more frequent.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/2/fifa-boss-infantinos-position-looks-unacceptable-head-of-european-league?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/2/fifa-boss-infantinos-position-looks-unacceptable-head-of-european-league?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/2/south-korea-has-hottest-day-on-record-amid-extreme-weather-globally?traffic_source=rss](https://www.aljazeera.com/news/2026/8/2/south-korea-has-hottest-day-on-record-amid-extreme-weather-globally?traffic_source=rss)
 
 ---
 
-### 9. Residents of Spain’s Ceuta shut down far-right anti-migrant rally
+### 9. At least five dead, 41 missing after ferry catches fire off Indonesia
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Hundreds of residents in Spain&#039;s North African enclave of Ceuta gathered to oppose a planned far-right rally.
+The ship was carrying 271 passengers and crew members when the blaze broke out as it sailed eastwards from Java.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/2-08-sv-ceuta-cancel-farright-protests-es?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/2-08-sv-ceuta-cancel-farright-protests-es?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/2/at-least-five-dead-41-missing-after-ferry-catches-fire-off-indonesia?traffic_source=rss](https://www.aljazeera.com/news/2026/8/2/at-least-five-dead-41-missing-after-ferry-catches-fire-off-indonesia?traffic_source=rss)
 
 ---
 

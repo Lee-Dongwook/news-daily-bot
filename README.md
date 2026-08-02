@@ -1,64 +1,29 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-02 23:56:12
+**Last Update:** 2026-08-03 00:28:58
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. My personal AI benchmark: "Generate an SVG of a frog with a Habsburg jaw."
+### 1. Two crew killed after firefighting helicopters collide in Greece, as British pilot survives
 
-**Source:** Hacker News
+**Source:** BBC
 
-**Category:** technology
+**Category:** world
 
 **Description:**
-<p>Article URL: <a href="https://frogs.vaguespac.es/">https://frogs.vaguespac.es/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49147622">https://news.ycombinator.com/item?id=49147622</a></p>
-<p>Points: 8</p>
-<p># Comments: 0</p>
+One Danish and one Greek national died in the incident, while a British pilot and another Greek crew member survived.
 
-🔗 **Read more:** [https://frogs.vaguespac.es/](https://frogs.vaguespac.es/)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 2. EU rules on AI models become enforceable. What's going to change?
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change">https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49147606">https://news.ycombinator.com/item?id=49147606</a></p>
-<p>Points: 20</p>
-<p># Comments: 8</p>
-
-🔗 **Read more:** [https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change](https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change)
-
----
-
-### 3. German carmakers flood jobs market with managers after wielding axe
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.ft.com/content/e345d51f-11f7-4d4d-8f09-86dd3a225597">https://www.ft.com/content/e345d51f-11f7-4d4d-8f09-86dd3a225597</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49147478">https://news.ycombinator.com/item?id=49147478</a></p>
-<p>Points: 18</p>
-<p># Comments: 4</p>
-
-🔗 **Read more:** [https://www.ft.com/content/e345d51f-11f7-4d4d-8f09-86dd3a225597](https://www.ft.com/content/e345d51f-11f7-4d4d-8f09-86dd3a225597)
-
----
-
-### 4. Burnham pledges to be 'relentless' in curbing small boat crossings
+### 2. Burnham pledges to be 'relentless' in curbing small boat crossings
 
 **Source:** BBC
 
@@ -71,7 +36,7 @@ The prime minister says enforcement is increased but there also need to be more 
 
 ---
 
-### 5. Man admits transporting Scottish woman's body in suitcase, Greek police say
+### 3. Man admits transporting Scottish woman's body in suitcase, Greek police say
 
 **Source:** BBC
 
@@ -84,20 +49,7 @@ The man was arrested on suspicion of manslaughter, as well as robbery and weapon
 
 ---
 
-### 6. Prolonged drought could cause shortage of some foods, farmers' union head says
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-NFU president Tom Bradshaw calls on the government to take action to prevent extreme weather affecting the UK's food supply.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq89e771jqlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq89e771jqlo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Is Washington dictating the agenda for talks in Venezuela?
+### 4. Is Washington dictating the agenda for talks in Venezuela?
 
 **Source:** Al Jazeera
 
@@ -110,7 +62,7 @@ Venezuela&#039;s government and a section of the opposition plan to hold talks, 
 
 ---
 
-### 8. How much has AIPAC spent against Michigan’s Abdul El-Sayed? And why?
+### 5. How much has AIPAC spent against Michigan’s Abdul El-Sayed? And why?
 
 **Source:** Al Jazeera
 
@@ -123,7 +75,7 @@ Pro-Israel group unleashes its spending power to help elect Haley Stevens to US 
 
 ---
 
-### 9. Israelis attack Armenian monastery in Jerusalem’s Old City
+### 6. Israelis attack Armenian monastery in Jerusalem’s Old City
 
 **Source:** Al Jazeera
 
@@ -136,7 +88,7 @@ Six Jewish Israelis were filmed spitting at the entrance to Saint James Monaster
 
 ---
 
-### 10. Wildfire Camden McCarthy Overpass Fire, Camden, Georgia
+### 7. Wildfire Camden McCarthy Overpass Fire, Camden, Georgia
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Wildfires
 
 ---
 
-### 11. Wildfire Duhamel, Pennington, South Dakota
+### 8. Wildfire Duhamel, Pennington, South Dakota
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Wildfire HOLEY LAND (6), Broward, Florida
+### 9. Wildfire HOLEY LAND (6), Broward, Florida
 
 **Source:** NASA
 

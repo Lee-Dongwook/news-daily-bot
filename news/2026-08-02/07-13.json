@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-02T07:13:53+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The teenage hitmen recruited to kill across Europe",
+            "description": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/czrjyevmv61o\">https://www.bbc.com/news/articles/czrjyevmv61o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49140737\">https://news.ycombinator.com/item?id=49140737</a></p>\n<p>Points: 12</p>\n<p># Comments: 1</p>",
+            "url": "https://www.bbc.com/news/articles/czrjyevmv61o",
+            "published": "Sun, 02 Aug 2026 03:19:17 +0000",
+            "fetched": "2026-08-02T07:13:53+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "MkLinux and the pimped-out Apple Workgroup Server 9150",
+            "description": "<p>Article URL: <a href=\"http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html\">http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49140702\">https://news.ycombinator.com/item?id=49140702</a></p>\n<p>Points: 11</p>\n<p># Comments: 1</p>",
+            "url": "http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html",
+            "published": "Sun, 02 Aug 2026 03:12:52 +0000",
+            "fetched": "2026-08-02T07:13:53+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Plug-in solar is coming. Plug-in batteries should follow",
+            "description": "<p>Article URL: <a href=\"https://www.regen.co.uk/insights/plug-in-solar-is-coming-plug-in-batteries-should-follow\">https://www.regen.co.uk/insights/plug-in-solar-is-coming-plug-in-batteries-should-follow</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49140633\">https://news.ycombinator.com/item?id=49140633</a></p>\n<p>Points: 16</p>\n<p># Comments: 3</p>",
+            "url": "https://www.regen.co.uk/insights/plug-in-solar-is-coming-plug-in-batteries-should-follow",
+            "published": "Sun, 02 Aug 2026 02:57:51 +0000",
+            "fetched": "2026-08-02T07:13:53+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump says he is cancelling strikes on Iran subject to 'rapidly' making deal",
+            "description": "The US president's message came amid media reports that he was planning new, intense strikes on Iran over the weekend.",
+            "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 02 Aug 2026 03:05:16 GMT",
+            "fetched": "2026-08-02T07:13:53+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "EU calls emergency meeting to discuss Ceuta migrant crossings",
+            "description": "There have been tense exchanges between Spain and other EU states over the influx of migrants into the enclave of Ceuta.",
+            "url": "https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 01 Aug 2026 20:09:27 GMT",
+            "fetched": "2026-08-02T07:13:53+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Young guns for hire - the teenage hitmen recruited to kill across Europe",
+            "description": "The Foxtrot Network is thought to be responsible for about 35 murders in Europe, and uses violence-as-a-service tactics.",
+            "url": "https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 01 Aug 2026 23:03:35 GMT",
+            "fetched": "2026-08-02T07:13:53+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israel kills five in Gaza despite Trump’s Hamas disarmament plan",
+            "description": "Strikes hit Gaza homes after the US unveiled plan for Hamas disarmament and Israeli withdrawal.",
+            "url": "https://www.aljazeera.com/news/2026/8/2/israel-kills-five-in-gaza-despite-trumps-hamas-disarmament-plan?traffic_source=rss",
+            "published": "Sun, 02 Aug 2026 02:58:51 +0000",
+            "fetched": "2026-08-02T07:13:53+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Is criticism of Spain on border management legitimate or politics?",
+            "description": "Tens of thousands of migrants briefly cross into Spain&#039;s north African territory of Ceuta from Morocco.",
+            "url": "https://www.aljazeera.com/video/inside-story/2026/8/2/is-criticism-of-spain-on-border-management-legitimate-or-politics?traffic_source=rss",
+            "published": "Sun, 02 Aug 2026 02:55:31 +0000",
+            "fetched": "2026-08-02T07:13:53+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US embassies issue alerts after Trump vows to hit Iran ‘hard’",
+            "description": "US embassies in the Middle East are bracing for possible escalation after Trump said the US will hit Iran &#039;hard&#039;.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/us-embassies-issue-alerts-after-trump-vows-to-hit-iran?traffic_source=rss",
+            "published": "Sun, 02 Aug 2026 02:24:11 +0000",
+            "fetched": "2026-08-02T07:13:53+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Camden McCarthy Overpass Fire, Camden, Georgia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21965",
+            "published": "2026-07-30T00:14:00Z",
+            "fetched": "2026-08-02T07:13:53+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Duhamel, Pennington, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968",
+            "published": "2026-07-29T18:24:00Z",
+            "fetched": "2026-08-02T07:13:53+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire HOLEY LAND (6), Broward, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976",
+            "published": "2026-07-28T19:53:00Z",
+            "fetched": "2026-08-02T07:13:53+03:30"
+        }
+    ]
+}

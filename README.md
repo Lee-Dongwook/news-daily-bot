@@ -1,64 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-02 04:32:22
+**Last Update:** 2026-08-02 07:13:53
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2
+### 1. The teenage hitmen recruited to kill across Europe
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.rfc-editor.org/rfc/rfc10015.html">https://www.rfc-editor.org/rfc/rfc10015.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49139711">https://news.ycombinator.com/item?id=49139711</a></p>
-<p>Points: 10</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.bbc.com/news/articles/czrjyevmv61o">https://www.bbc.com/news/articles/czrjyevmv61o</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49140737">https://news.ycombinator.com/item?id=49140737</a></p>
+<p>Points: 12</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.rfc-editor.org/rfc/rfc10015.html](https://www.rfc-editor.org/rfc/rfc10015.html)
+🔗 **Read more:** [https://www.bbc.com/news/articles/czrjyevmv61o](https://www.bbc.com/news/articles/czrjyevmv61o)
 
 ---
 
-### 2. A stray commit buried multiple levels deep cost me months
+### 2. MkLinux and the pimped-out Apple Workgroup Server 9150
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.droppedasbaby.com/posts/db-commits/">https://www.droppedasbaby.com/posts/db-commits/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49139562">https://news.ycombinator.com/item?id=49139562</a></p>
-<p>Points: 27</p>
-<p># Comments: 22</p>
+<p>Article URL: <a href="http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html">http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49140702">https://news.ycombinator.com/item?id=49140702</a></p>
+<p>Points: 11</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.droppedasbaby.com/posts/db-commits/](https://www.droppedasbaby.com/posts/db-commits/)
+🔗 **Read more:** [http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html](http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html)
 
 ---
 
-### 3. Unraveling the mysteries of habit formation
+### 3. Plug-in solar is coming. Plug-in batteries should follow
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.kyoto-u.ac.jp/en/research-news/2026-07-28">https://www.kyoto-u.ac.jp/en/research-news/2026-07-28</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49139383">https://news.ycombinator.com/item?id=49139383</a></p>
-<p>Points: 23</p>
-<p># Comments: 9</p>
+<p>Article URL: <a href="https://www.regen.co.uk/insights/plug-in-solar-is-coming-plug-in-batteries-should-follow">https://www.regen.co.uk/insights/plug-in-solar-is-coming-plug-in-batteries-should-follow</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49140633">https://news.ycombinator.com/item?id=49140633</a></p>
+<p>Points: 16</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://www.kyoto-u.ac.jp/en/research-news/2026-07-28](https://www.kyoto-u.ac.jp/en/research-news/2026-07-28)
+🔗 **Read more:** [https://www.regen.co.uk/insights/plug-in-solar-is-coming-plug-in-batteries-should-follow](https://www.regen.co.uk/insights/plug-in-solar-is-coming-plug-in-batteries-should-follow)
 
 ---
 
-### 4. EU calls emergency meeting to discuss Ceuta migrant crossings
+### 4. Trump says he is cancelling strikes on Iran subject to 'rapidly' making deal
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The US president's message came amid media reports that he was planning new, intense strikes on Iran over the weekend.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. EU calls emergency meeting to discuss Ceuta migrant crossings
 
 **Source:** BBC
 
@@ -68,19 +81,6 @@
 There have been tense exchanges between Spain and other EU states over the influx of migrants into the enclave of Ceuta.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. A bruising 24 hours - what next for Fifa and under-pressure Infantino?
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The pressure is building on Gianni Infantino. Can he survive as Fifa president?
-
-🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/c9w0djx2g92o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/c9w0djx2g92o?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +97,42 @@ The Foxtrot Network is thought to be responsible for about 35 murders in Europe,
 
 ---
 
-### 7. Iran war live: Tehran warns of ‘decisive’ response to any US ‘aggression’
+### 7. Israel kills five in Gaza despite Trump’s Hamas disarmament plan
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Iran&#039;s Araghchi issues warning in separate phone calls with the foreign ministers of Turkiye, Pakistan and Saudi Arabia.
+Strikes hit Gaza homes after the US unveiled plan for Hamas disarmament and Israeli withdrawal.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/8/2/iran-war-live-tehran-warns-of-decisive-response-to-any-us-aggression?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/8/2/iran-war-live-tehran-warns-of-decisive-response-to-any-us-aggression?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/2/israel-kills-five-in-gaza-despite-trumps-hamas-disarmament-plan?traffic_source=rss](https://www.aljazeera.com/news/2026/8/2/israel-kills-five-in-gaza-despite-trumps-hamas-disarmament-plan?traffic_source=rss)
 
 ---
 
-### 8. Singapore bans UK band Massive Attack over Palestinian flag
+### 8. Is criticism of Spain on border management legitimate or politics?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Singapore barred two members of British band Massive Attack from re-entering the country.
+Tens of thousands of migrants briefly cross into Spain&#039;s north African territory of Ceuta from Morocco.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/1/singapore-bans-uk-band-massive-attack-over-palestinian-flag?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/1/singapore-bans-uk-band-massive-attack-over-palestinian-flag?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/8/2/is-criticism-of-spain-on-border-management-legitimate-or-politics?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/8/2/is-criticism-of-spain-on-border-management-legitimate-or-politics?traffic_source=rss)
 
 ---
 
-### 9. New York Times reveals Trump administration subpoena over North Korea story
+### 9. US embassies issue alerts after Trump vows to hit Iran ‘hard’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The Justice Department faces criticism for increasing use of subpoenas in attempts to compel journalists to reveal info.
+US embassies in the Middle East are bracing for possible escalation after Trump said the US will hit Iran &#039;hard&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/new-york-times-reveals-trump-administration-subpoena-over-north-korea-story?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/new-york-times-reveals-trump-administration-subpoena-over-north-korea-story?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/us-embassies-issue-alerts-after-trump-vows-to-hit-iran?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/us-embassies-issue-alerts-after-trump-vows-to-hit-iran?traffic_source=rss)
 
 ---
 

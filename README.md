@@ -1,73 +1,73 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-02 19:04:11
+**Last Update:** 2026-08-02 20:33:16
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Ursula K. Le Guin: A Rant About "Technology" (2005)
+### 1. Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.ursulakleguin.com/a-rant-about-technology">https://www.ursulakleguin.com/a-rant-about-technology</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49145201">https://news.ycombinator.com/item?id=49145201</a></p>
-<p>Points: 53</p>
-<p># Comments: 13</p>
+<p>Article URL: <a href="https://github.com/wie-project/kakehashi">https://github.com/wie-project/kakehashi</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49145937">https://news.ycombinator.com/item?id=49145937</a></p>
+<p>Points: 8</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.ursulakleguin.com/a-rant-about-technology](https://www.ursulakleguin.com/a-rant-about-technology)
+🔗 **Read more:** [https://github.com/wie-project/kakehashi](https://github.com/wie-project/kakehashi)
 
 ---
 
-### 2. Twenty Years of RISC OS Open
+### 2. Rooting, firmware analysis and persistent credentials of TP-Link TL-841N
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open">https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49143967">https://news.ycombinator.com/item?id=49143967</a></p>
-<p>Points: 69</p>
-<p># Comments: 11</p>
+<p>Article URL: <a href="https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/">https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49145883">https://news.ycombinator.com/item?id=49145883</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open](https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open)
+🔗 **Read more:** [https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/](https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/)
 
 ---
 
-### 3. F*: A general-purpose proof-oriented programming language
+### 3. How the words we teach English language learners changed
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://fstar-lang.org/">https://fstar-lang.org/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49143925">https://news.ycombinator.com/item?id=49143925</a></p>
-<p>Points: 47</p>
-<p># Comments: 13</p>
+<p>Article URL: <a href="https://pudding.cool/2026/07/essential-words/">https://pudding.cool/2026/07/essential-words/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49145590">https://news.ycombinator.com/item?id=49145590</a></p>
+<p>Points: 68</p>
+<p># Comments: 20</p>
 
-🔗 **Read more:** [https://fstar-lang.org/](https://fstar-lang.org/)
+🔗 **Read more:** [https://pudding.cool/2026/07/essential-words/](https://pudding.cool/2026/07/essential-words/)
 
 ---
 
-### 4. Prolonged drought could cause shortage of some foods, farmers' union head says
+### 4. Burnham pledges to be 'relentless' in curbing small boat crossings
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-NFU president Tom Bradshaw calls on the government to take action to prevent extreme weather affecting the UK's food supply.
+The prime minister says enforcement is increased but there also need to be more safe routes into the UK.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq89e771jqlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq89e771jqlo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3r0v952ny3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3r0v952ny3o?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -84,55 +84,55 @@ The man was arrested on suspicion of killing 38-year-old Elisabeth-Jane Ross, as
 
 ---
 
-### 6. Trump cancels Iran strikes subject to deal being made 'rapidly'
+### 6. Prolonged drought could cause shortage of some foods, farmers' union head says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the "perimeters" of a deal had been agreed.
+NFU president Tom Bradshaw calls on the government to take action to prevent extreme weather affecting the UK's food supply.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq89e771jqlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq89e771jqlo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Ukrainian farmers use temporary storage to revive grain exports
+### 7. Capital One cites anti-money laundering concerns in Trump Organization case
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Russian attacks disrupt Black Sea exports, forcing Ukrainian farmers to use temporary grain storage.
+Capital One says Trump Organization account closures in 2021 followed review by anti-money-laundering team.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/ukrainian-farmers-use-temporary-storage-to-revive-grain-exports?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/ukrainian-farmers-use-temporary-storage-to-revive-grain-exports?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/2/capital-one-cites-anti-money-laundering-concerns-in-trump-organization-case?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/2/capital-one-cites-anti-money-laundering-concerns-in-trump-organization-case?traffic_source=rss)
 
 ---
 
-### 8. Heatwave forces nuclear shutdown in Hungary
+### 8. Saudi Crown Prince MBS urges Trump to ‘prioritise dialogue’ in US-Iran war
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Hungary says a heatwave has forced the shutdown of its largest nuclear plant as low Danube levels disrupt cooling.
+US president halted strikes after earlier threatening Iran with unprecedented force.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/08-02-2026-hungary-nuclear-plant-sv?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/08-02-2026-hungary-nuclear-plant-sv?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/2/saudi-crown-prince-mbs-urges-trump-to-prioritise-dialogue-in-us-iran-war?traffic_source=rss](https://www.aljazeera.com/news/2026/8/2/saudi-crown-prince-mbs-urges-trump-to-prioritise-dialogue-in-us-iran-war?traffic_source=rss)
 
 ---
 
-### 9. Tanks, troops and space
+### 9. Israeli settlers shoot Palestinian child during farm raid
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Andrius Kubilius on the lessons from Ukraine and why drones and space are transforming Europe&#039;s security strategy.
+CCTV captured the moment a nine-year-old Palestinian boy was shot in the back by Israeli settlers.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/2/tanks-troops-and-space?traffic_source=rss](https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/2/tanks-troops-and-space?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/israeli-settlers-shoot-palestinian-child-during-farm-raid?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/israeli-settlers-shoot-palestinian-child-during-farm-raid?traffic_source=rss)
 
 ---
 

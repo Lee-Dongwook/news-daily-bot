@@ -1,28 +1,28 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-02 12:41:12
+**Last Update:** 2026-08-02 13:42:27
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Nerd culture is murdering intellectuals
+### 1. The time filter in Google Search broke a few days ago
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.theintrinsicperspective.com/p/nerd-culture-is-murdering-intellectuals">https://www.theintrinsicperspective.com/p/nerd-culture-is-murdering-intellectuals</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49142128">https://news.ycombinator.com/item?id=49142128</a></p>
-<p>Points: 16</p>
-<p># Comments: 22</p>
+<p>Article URL: <a href="https://mastodon.online/@mwichary/117023736804129342">https://mastodon.online/@mwichary/117023736804129342</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49142458">https://news.ycombinator.com/item?id=49142458</a></p>
+<p>Points: 7</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://www.theintrinsicperspective.com/p/nerd-culture-is-murdering-intellectuals](https://www.theintrinsicperspective.com/p/nerd-culture-is-murdering-intellectuals)
+🔗 **Read more:** [https://mastodon.online/@mwichary/117023736804129342](https://mastodon.online/@mwichary/117023736804129342)
 
 ---
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://en.andros.dev/blog/af3ee191/why-i-dont-recommend-tailwind-css/">https://en.andros.dev/blog/af3ee191/why-i-dont-recommend-tailwind-css/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49141891">https://news.ycombinator.com/item?id=49141891</a></p>
-<p>Points: 49</p>
-<p># Comments: 40</p>
+<p>Points: 81</p>
+<p># Comments: 73</p>
 
 🔗 **Read more:** [https://en.andros.dev/blog/af3ee191/why-i-dont-recommend-tailwind-css/](https://en.andros.dev/blog/af3ee191/why-i-dont-recommend-tailwind-css/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.wafer.ai/blog/kimi-k3-mi355x">https://www.wafer.ai/blog/kimi-k3-mi355x</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49141073">https://news.ycombinator.com/item?id=49141073</a></p>
-<p>Points: 121</p>
-<p># Comments: 29</p>
+<p>Points: 129</p>
+<p># Comments: 37</p>
 
 🔗 **Read more:** [https://www.wafer.ai/blog/kimi-k3-mi355x](https://www.wafer.ai/blog/kimi-k3-mi355x)
 
@@ -71,20 +71,7 @@ The US president claims Iran and other Middle Eastern countries asked Washington
 
 ---
 
-### 5. Three killed after bomb detonated at Moscow restaurant, state media say
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Security officials said a woman tried to enter the restaurant with explosives but was stopped by a security guard.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Young guns for hire - the teenage hitmen recruited to kill across Europe
+### 5. How a shadowy gang is recruiting teenage hitmen to kill across Europe
 
 **Source:** BBC
 
@@ -97,7 +84,46 @@ The Foxtrot Network is thought to be responsible for about 35 murders in Europe,
 
 ---
 
-### 7. Trump ‘cancels attack on Iran’ saying deal is near
+### 6. Three killed after bomb detonated at Moscow restaurant, state media say
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Security officials said a woman tried to enter the restaurant with explosives but was stopped by a security guard.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 7. Why has Trump halted Iran attacks, and what is the deal he is hinting at?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Trump says &#039;perimeters of a deal has been agreed to&#039; as he pauses attacks. But is there any substance to his claim?
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/2/why-has-trump-halted-iran-attacks-and-what-is-the-deal-he-is-hinting-at?traffic_source=rss](https://www.aljazeera.com/news/2026/8/2/why-has-trump-halted-iran-attacks-and-what-is-the-deal-he-is-hinting-at?traffic_source=rss)
+
+---
+
+### 8. How Davutoglu helped shape Erdogan’s Turkiye but failed to challenge it
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Once Turkiye&#039;s prime minister, Ahmet Davutoglu has stepped back from party politics.
+
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/2/how-davutoglu-helped-shape-erdogans-turkiye-but-failed-to-challenge-it?traffic_source=rss](https://www.aljazeera.com/features/2026/8/2/how-davutoglu-helped-shape-erdogans-turkiye-but-failed-to-challenge-it?traffic_source=rss)
+
+---
+
+### 9. Trump ‘cancels attack on Iran’ saying deal is near
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ The Foxtrot Network is thought to be responsible for about 35 murders in Europe,
 US President Trump announced he was cancelling a planned attack on Iran with the ‘perimeters of a deal’ agreed to.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/trump-cancels-attack-on-iran-saying-deal-is-near?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/trump-cancels-attack-on-iran-saying-deal-is-near?traffic_source=rss)
-
----
-
-### 8. Petro urges global support to stop possible US invasion of Cuba
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Petro urges global support to stop possible US invasion of Cuba
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/petro-urges-global-support-to-stop-possible-us-invasion-of-cuba?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/petro-urges-global-support-to-stop-possible-us-invasion-of-cuba?traffic_source=rss)
-
----
-
-### 9. Lionel Messi returns for Inter Miami after extended post-World Cup break
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Argentinian star made his return for the MLS champions as Inter Miami play out a 2-2 result with Columbus Crew.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/2/lionel-messi-returns-for-inter-miami-after-extended-post-world-cup-break?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/2/lionel-messi-returns-for-inter-miami-after-extended-post-world-cup-break?traffic_source=rss)
 
 ---
 

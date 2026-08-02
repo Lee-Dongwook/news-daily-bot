@@ -1,28 +1,28 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-02 17:35:16
+**Last Update:** 2026-08-02 18:34:52
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Has the New Cocaine Arrived?
+### 1. The Seinfeld Chronicles: Digital Edition
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://playboy.substack.com/p/has-the-new-cocaine-finally-arrived">https://playboy.substack.com/p/has-the-new-cocaine-finally-arrived</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49144273">https://news.ycombinator.com/item?id=49144273</a></p>
-<p>Points: 42</p>
-<p># Comments: 29</p>
+<p>Article URL: <a href="https://seinfeld.visualisingdata.com/">https://seinfeld.visualisingdata.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49144946">https://news.ycombinator.com/item?id=49144946</a></p>
+<p>Points: 11</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://playboy.substack.com/p/has-the-new-cocaine-finally-arrived](https://playboy.substack.com/p/has-the-new-cocaine-finally-arrived)
+🔗 **Read more:** [https://seinfeld.visualisingdata.com/](https://seinfeld.visualisingdata.com/)
 
 ---
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open">https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49143967">https://news.ycombinator.com/item?id=49143967</a></p>
-<p>Points: 40</p>
-<p># Comments: 2</p>
+<p>Points: 57</p>
+<p># Comments: 9</p>
 
 🔗 **Read more:** [https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open](https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open)
 
@@ -51,14 +51,40 @@
 **Description:**
 <p>Article URL: <a href="https://fstar-lang.org/">https://fstar-lang.org/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49143925">https://news.ycombinator.com/item?id=49143925</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Points: 33</p>
+<p># Comments: 7</p>
 
 🔗 **Read more:** [https://fstar-lang.org/](https://fstar-lang.org/)
 
 ---
 
-### 4. Trump cancels Iran strikes subject to deal being made 'rapidly'
+### 4. Prolonged drought could cause shortage of some foods, farmers' union head says
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+NFU president Tom Bradshaw calls on the government to take action to prevent extreme weather affecting the UK's food supply.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq89e771jqlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq89e771jqlo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Man admits killing Scottish woman found in suitcase, Greek police say
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The man was arrested on suspicion of killing 38-year-old Elisabeth-Jane Ross, as well as robbery and weapons offences.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c89ndd4g0gjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c89ndd4g0gjo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Trump cancels Iran strikes subject to deal being made 'rapidly'
 
 **Source:** BBC
 
@@ -71,68 +97,42 @@ The US president claims Iran and other Middle Eastern countries asked Washington
 
 ---
 
-### 5. Continued drought could cause shortage of some foods, farmers' union head says
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-NFU President Tom Bradshaw calls on the government to take action to prevent extreme weather impacting UK food supply.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq89e771jqlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq89e771jqlo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. The shadowy gang recruiting teenage hitmen to kill across Europe
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The Foxtrot Network is thought to be responsible for about 35 murders in Europe, and uses violence-as-a-service tactics.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Hundreds mourn Moroccan footballer who died trying to reach Ceuta
+### 7. Heatwave forces nuclear shutdown in Hungary
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Moroccan footballer Faten Ben Omar El Azizi has been buried after dying while trying to reach Ceuta.
+Hungary says a heatwave has forced the shutdown of its largest nuclear plant as low Danube levels disrupt cooling.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/hundreds-mourn-moroccan-footballer-who-died-trying-to-reach-ceuta?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/hundreds-mourn-moroccan-footballer-who-died-trying-to-reach-ceuta?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/08-02-2026-hungary-nuclear-plant-sv?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/08-02-2026-hungary-nuclear-plant-sv?traffic_source=rss)
 
 ---
 
-### 8. Pakistan-administered Kashmir election boycott follows deadly crackdown
+### 8. Tanks, troops and space
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Residents in Muzaffarabad, in Pakistan-administered Kashmir, have boycotted the election amid a strike.
+Andrius Kubilius on the lessons from Ukraine and why drones and space are transforming Europe&#039;s security strategy.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/02-08-reported-kamal-hyder-pak-pk?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/02-08-reported-kamal-hyder-pak-pk?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/2/tanks-troops-and-space?traffic_source=rss](https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/2/tanks-troops-and-space?traffic_source=rss)
 
 ---
 
-### 9. Yemen’s crumbling roads mean an arduous quest for water for Taiz villagers
+### 9. CIA whistleblower John Kiriakou on accountability and CIA’s history
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Poor road infrastructure is exacerbating Yemen&#039;s water crisis, leading to hardships for thousands in Taiz governorate.
+Marc Lamont Hill speaks to CIA whistleblower John Kiriakou about the agency and US intelligence today.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/2/yemens-crumbling-roads-means-an-arduous-quest-for-water-for-taiz-villagers?traffic_source=rss](https://www.aljazeera.com/features/2026/8/2/yemens-crumbling-roads-means-an-arduous-quest-for-water-for-taiz-villagers?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/upfront/2026/8/2/cia-whistleblower-john-kiriakou-on-accountability-and-cias-history?traffic_source=rss](https://www.aljazeera.com/video/upfront/2026/8/2/cia-whistleblower-john-kiriakou-on-accountability-and-cias-history?traffic_source=rss)
 
 ---
 

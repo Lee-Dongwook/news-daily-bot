@@ -1,61 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-02 22:45:19
+**Last Update:** 2026-08-02 23:56:12
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, Al Jazeera, BBC
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Microsoft raises Xbox prices by up to 43%
+### 1. My personal AI benchmark: "Generate an SVG of a frog with a Habsburg jaw."
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros">https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49147209">https://news.ycombinator.com/item?id=49147209</a></p>
-<p>Points: 19</p>
-<p># Comments: 5</p>
+<p>Article URL: <a href="https://frogs.vaguespac.es/">https://frogs.vaguespac.es/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49147622">https://news.ycombinator.com/item?id=49147622</a></p>
+<p>Points: 8</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros](https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros)
+🔗 **Read more:** [https://frogs.vaguespac.es/](https://frogs.vaguespac.es/)
 
 ---
 
-### 2. Harvesting SSH Credentials: Insights from My Honeypot Network
+### 2. EU rules on AI models become enforceable. What's going to change?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/">https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49146605">https://news.ycombinator.com/item?id=49146605</a></p>
-<p>Points: 13</p>
-<p># Comments: 7</p>
-
-🔗 **Read more:** [https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/](https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/)
-
----
-
-### 3. Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Try DGX Spark playbooks using Nix on DGX OS, or install NixOS on your DGX Spark for the full Nix experience. The repository provides USB images and a NixOS module with settings for DGX Spark systems.<p>This works on the NVIDIA DGX Spark itself and also on the Asus Ascent GX10.<p>See my 5 minute lightning talk from Planet Nix for an intro: <a href="https://youtu.be/AvK_gi_snJE?si=MPKv3iiuS9B5elIE" rel="nofollow">https://youtu.be/AvK_gi_snJE?si=MPKv3iiuS9B5elIE</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49146267">https://news.ycombinator.com/item?id=49146267</a></p>
-<p>Points: 40</p>
+<p>Article URL: <a href="https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change">https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49147606">https://news.ycombinator.com/item?id=49147606</a></p>
+<p>Points: 20</p>
 <p># Comments: 8</p>
 
-🔗 **Read more:** [https://github.com/graham33/nixos-dgx-spark](https://github.com/graham33/nixos-dgx-spark)
+🔗 **Read more:** [https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change](https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change)
+
+---
+
+### 3. German carmakers flood jobs market with managers after wielding axe
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.ft.com/content/e345d51f-11f7-4d4d-8f09-86dd3a225597">https://www.ft.com/content/e345d51f-11f7-4d4d-8f09-86dd3a225597</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49147478">https://news.ycombinator.com/item?id=49147478</a></p>
+<p>Points: 18</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://www.ft.com/content/e345d51f-11f7-4d4d-8f09-86dd3a225597](https://www.ft.com/content/e345d51f-11f7-4d4d-8f09-86dd3a225597)
 
 ---
 
@@ -98,42 +97,42 @@ NFU president Tom Bradshaw calls on the government to take action to prevent ext
 
 ---
 
-### 7. Two helicopters collide mid-air while tackling wildfires in Greece
+### 7. Is Washington dictating the agenda for talks in Venezuela?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Footage has emerged showing the moment two firefighting helicopters collided mid-air while fighting wildfires in Greece.
+Venezuela&#039;s government and a section of the opposition plan to hold talks, backed by the US.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/aje-onl-nf_two-helicopters-crash-mid-air-wildfires-in-greece-020826?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/aje-onl-nf_two-helicopters-crash-mid-air-wildfires-in-greece-020826?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/8/2/is-washington-dictating-the-agenda-for-talks-in-venezuela?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/8/2/is-washington-dictating-the-agenda-for-talks-in-venezuela?traffic_source=rss)
 
 ---
 
-### 8. Ukrainian drone attacks kill eight in response to Russian missiles
+### 8. How much has AIPAC spent against Michigan’s Abdul El-Sayed? And why?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ukrainian strikes target Russian oil hubs and high-rises as Zelenskyy warns of critical Patriot interceptor shortages.
+Pro-Israel group unleashes its spending power to help elect Haley Stevens to US Senate against progressive doctor.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/2/ukrainian-drone-attacks-kill-eight-in-response-to-russian-missiles?traffic_source=rss](https://www.aljazeera.com/news/2026/8/2/ukrainian-drone-attacks-kill-eight-in-response-to-russian-missiles?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/2/how-much-has-aipac-spent-against-michigans-abdul-el-sayed-and-why?traffic_source=rss](https://www.aljazeera.com/news/2026/8/2/how-much-has-aipac-spent-against-michigans-abdul-el-sayed-and-why?traffic_source=rss)
 
 ---
 
-### 9. ‘Iron fist’ doesn’t work with Iran: Former US hostage in Tehran
+### 9. Israelis attack Armenian monastery in Jerusalem’s Old City
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Former US hostage John Limbert says Washington ‘can’t bomb and assassinate its way to a better relationship’ with Iran.
+Six Jewish Israelis were filmed spitting at the entrance to Saint James Monastery in Jerusalem&#039;s Old City.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/the-bottom-line/2026/8/2/iron-fist-doesnt-work-with-iran-former-us-hostage-in-tehran?traffic_source=rss](https://www.aljazeera.com/video/the-bottom-line/2026/8/2/iron-fist-doesnt-work-with-iran-former-us-hostage-in-tehran?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/israelis-attack-armenian-monastery-in-jerusalems-old-city?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/israelis-attack-armenian-monastery-in-jerusalems-old-city?traffic_source=rss)
 
 ---
 

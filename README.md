@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-02 14:48:41
+**Last Update:** 2026-08-02 15:09:27
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://mattsclancy.github.io/2026/07/27/industrial-revolution-growth.html">https://mattsclancy.github.io/2026/07/27/industrial-revolution-growth.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49143053">https://news.ycombinator.com/item?id=49143053</a></p>
-<p>Points: 5</p>
-<p># Comments: 1</p>
+<p>Points: 15</p>
+<p># Comments: 9</p>
 
 🔗 **Read more:** [https://mattsclancy.github.io/2026/07/27/industrial-revolution-growth.html](https://mattsclancy.github.io/2026/07/27/industrial-revolution-growth.html)
 
@@ -35,7 +35,7 @@
 **Description:**
 <p>Article URL: <a href="https://publicdomainreview.org/essay/ars-notoria/">https://publicdomainreview.org/essay/ars-notoria/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49143001">https://news.ycombinator.com/item?id=49143001</a></p>
-<p>Points: 9</p>
+<p>Points: 21</p>
 <p># Comments: 1</p>
 
 🔗 **Read more:** [https://publicdomainreview.org/essay/ars-notoria/](https://publicdomainreview.org/essay/ars-notoria/)
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/syncular/syncular">https://github.com/syncular/syncular</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49142794">https://news.ycombinator.com/item?id=49142794</a></p>
-<p>Points: 11</p>
-<p># Comments: 4</p>
+<p>Points: 16</p>
+<p># Comments: 8</p>
 
 🔗 **Read more:** [https://github.com/syncular/syncular](https://github.com/syncular/syncular)
 
@@ -97,20 +97,7 @@ The renowned climber was known for scaling the world's 14 highest peaks in just 
 
 ---
 
-### 7. From Sudan to Spain: Between war and home | Al Jazeera Originals
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-A young Sudanese refugee rebuilds his life in Spain while war keeps him from the family he left behind.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/al-jazeera-documentaries/2026/8/2/aje-onl-aj_or_sdn_war-020826?traffic_source=rss](https://www.aljazeera.com/video/al-jazeera-documentaries/2026/8/2/aje-onl-aj_or_sdn_war-020826?traffic_source=rss)
-
----
-
-### 8. Israeli soldiers jailed over Sde Teiman walkout
+### 7. Israeli soldiers jailed over Sde Teiman walkout
 
 **Source:** Al Jazeera
 
@@ -123,7 +110,7 @@ Fourteen Israeli soldiers have been sentenced to military prison after leading a
 
 ---
 
-### 9. FIFA boss Infantino’s position looks unacceptable: European Leagues head
+### 8. FIFA boss Infantino’s position looks unacceptable: European Leagues head
 
 **Source:** Al Jazeera
 
@@ -133,6 +120,19 @@ Fourteen Israeli soldiers have been sentenced to military prison after leading a
 Claudius Schafer says there can be &#039;only one consequence&#039; to Infantino&#039;s actions over his World Cup privatisation plan.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/2/fifa-boss-infantinos-position-looks-unacceptable-head-of-european-league?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/2/fifa-boss-infantinos-position-looks-unacceptable-head-of-european-league?traffic_source=rss)
+
+---
+
+### 9. Residents of Spain’s Ceuta shut down far-right anti-migrant rally
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Hundreds of residents in Spain&#039;s North African enclave of Ceuta gathered to oppose a planned far-right rally.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/2-08-sv-ceuta-cancel-farright-protests-es?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/2-08-sv-ceuta-cancel-farright-protests-es?traffic_source=rss)
 
 ---
 

@@ -1,28 +1,28 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-02 18:34:52
+**Last Update:** 2026-08-02 19:04:11
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. The Seinfeld Chronicles: Digital Edition
+### 1. Ursula K. Le Guin: A Rant About "Technology" (2005)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://seinfeld.visualisingdata.com/">https://seinfeld.visualisingdata.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49144946">https://news.ycombinator.com/item?id=49144946</a></p>
-<p>Points: 11</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://www.ursulakleguin.com/a-rant-about-technology">https://www.ursulakleguin.com/a-rant-about-technology</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49145201">https://news.ycombinator.com/item?id=49145201</a></p>
+<p>Points: 53</p>
+<p># Comments: 13</p>
 
-🔗 **Read more:** [https://seinfeld.visualisingdata.com/](https://seinfeld.visualisingdata.com/)
+🔗 **Read more:** [https://www.ursulakleguin.com/a-rant-about-technology](https://www.ursulakleguin.com/a-rant-about-technology)
 
 ---
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open">https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49143967">https://news.ycombinator.com/item?id=49143967</a></p>
-<p>Points: 57</p>
-<p># Comments: 9</p>
+<p>Points: 69</p>
+<p># Comments: 11</p>
 
 🔗 **Read more:** [https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open](https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://fstar-lang.org/">https://fstar-lang.org/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49143925">https://news.ycombinator.com/item?id=49143925</a></p>
-<p>Points: 33</p>
-<p># Comments: 7</p>
+<p>Points: 47</p>
+<p># Comments: 13</p>
 
 🔗 **Read more:** [https://fstar-lang.org/](https://fstar-lang.org/)
 
@@ -97,7 +97,20 @@ The US president claims Iran and other Middle Eastern countries asked Washington
 
 ---
 
-### 7. Heatwave forces nuclear shutdown in Hungary
+### 7. Ukrainian farmers use temporary storage to revive grain exports
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Russian attacks disrupt Black Sea exports, forcing Ukrainian farmers to use temporary grain storage.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/ukrainian-farmers-use-temporary-storage-to-revive-grain-exports?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/ukrainian-farmers-use-temporary-storage-to-revive-grain-exports?traffic_source=rss)
+
+---
+
+### 8. Heatwave forces nuclear shutdown in Hungary
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Hungary says a heatwave has forced the shutdown of its largest nuclear plant as 
 
 ---
 
-### 8. Tanks, troops and space
+### 9. Tanks, troops and space
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Hungary says a heatwave has forced the shutdown of its largest nuclear plant as 
 Andrius Kubilius on the lessons from Ukraine and why drones and space are transforming Europe&#039;s security strategy.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/2/tanks-troops-and-space?traffic_source=rss](https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/2/tanks-troops-and-space?traffic_source=rss)
-
----
-
-### 9. CIA whistleblower John Kiriakou on accountability and CIA’s history
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Marc Lamont Hill speaks to CIA whistleblower John Kiriakou about the agency and US intelligence today.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/upfront/2026/8/2/cia-whistleblower-john-kiriakou-on-accountability-and-cias-history?traffic_source=rss](https://www.aljazeera.com/video/upfront/2026/8/2/cia-whistleblower-john-kiriakou-on-accountability-and-cias-history?traffic_source=rss)
 
 ---
 

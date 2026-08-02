@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-02 13:42:27
+**Last Update:** 2026-08-02 14:48:41
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. The time filter in Google Search broke a few days ago
+### 1. Is the Industrial Revolution a good precedent for explosive growth today?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://mastodon.online/@mwichary/117023736804129342">https://mastodon.online/@mwichary/117023736804129342</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49142458">https://news.ycombinator.com/item?id=49142458</a></p>
-<p>Points: 7</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://mattsclancy.github.io/2026/07/27/industrial-revolution-growth.html">https://mattsclancy.github.io/2026/07/27/industrial-revolution-growth.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49143053">https://news.ycombinator.com/item?id=49143053</a></p>
+<p>Points: 5</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://mastodon.online/@mwichary/117023736804129342](https://mastodon.online/@mwichary/117023736804129342)
+🔗 **Read more:** [https://mattsclancy.github.io/2026/07/27/industrial-revolution-growth.html](https://mattsclancy.github.io/2026/07/27/industrial-revolution-growth.html)
 
 ---
 
-### 2. I don't recommend Tailwind CSS
+### 2. Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://en.andros.dev/blog/af3ee191/why-i-dont-recommend-tailwind-css/">https://en.andros.dev/blog/af3ee191/why-i-dont-recommend-tailwind-css/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49141891">https://news.ycombinator.com/item?id=49141891</a></p>
-<p>Points: 81</p>
-<p># Comments: 73</p>
+<p>Article URL: <a href="https://publicdomainreview.org/essay/ars-notoria/">https://publicdomainreview.org/essay/ars-notoria/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49143001">https://news.ycombinator.com/item?id=49143001</a></p>
+<p>Points: 9</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://en.andros.dev/blog/af3ee191/why-i-dont-recommend-tailwind-css/](https://en.andros.dev/blog/af3ee191/why-i-dont-recommend-tailwind-css/)
+🔗 **Read more:** [https://publicdomainreview.org/essay/ars-notoria/](https://publicdomainreview.org/essay/ars-notoria/)
 
 ---
 
-### 3. Running Kimi K3 on MI355X at Better Performance per Dollar Than B300
+### 3. Show HN: Syncular – offline-first SQL sync with TypeScript and Rust cores
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.wafer.ai/blog/kimi-k3-mi355x">https://www.wafer.ai/blog/kimi-k3-mi355x</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49141073">https://news.ycombinator.com/item?id=49141073</a></p>
-<p>Points: 129</p>
-<p># Comments: 37</p>
+<p>Article URL: <a href="https://github.com/syncular/syncular">https://github.com/syncular/syncular</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49142794">https://news.ycombinator.com/item?id=49142794</a></p>
+<p>Points: 11</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://www.wafer.ai/blog/kimi-k3-mi355x](https://www.wafer.ai/blog/kimi-k3-mi355x)
+🔗 **Read more:** [https://github.com/syncular/syncular](https://github.com/syncular/syncular)
 
 ---
 
@@ -71,7 +71,7 @@ The US president claims Iran and other Middle Eastern countries asked Washington
 
 ---
 
-### 5. How a shadowy gang is recruiting teenage hitmen to kill across Europe
+### 5. The shadowy gang recruiting teenage hitmen to kill across Europe
 
 **Source:** BBC
 
@@ -84,55 +84,55 @@ The Foxtrot Network is thought to be responsible for about 35 murders in Europe,
 
 ---
 
-### 6. Three killed after bomb detonated at Moscow restaurant, state media say
+### 6. Body of mountaineer Nirmal Purja recovered after Pakistan avalanche
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Security officials said a woman tried to enter the restaurant with explosives but was stopped by a security guard.
+The renowned climber was known for scaling the world's 14 highest peaks in just over six months in 2019.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Why has Trump halted Iran attacks, and what is the deal he is hinting at?
+### 7. From Sudan to Spain: Between war and home | Al Jazeera Originals
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Trump says &#039;perimeters of a deal has been agreed to&#039; as he pauses attacks. But is there any substance to his claim?
+A young Sudanese refugee rebuilds his life in Spain while war keeps him from the family he left behind.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/2/why-has-trump-halted-iran-attacks-and-what-is-the-deal-he-is-hinting-at?traffic_source=rss](https://www.aljazeera.com/news/2026/8/2/why-has-trump-halted-iran-attacks-and-what-is-the-deal-he-is-hinting-at?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/al-jazeera-documentaries/2026/8/2/aje-onl-aj_or_sdn_war-020826?traffic_source=rss](https://www.aljazeera.com/video/al-jazeera-documentaries/2026/8/2/aje-onl-aj_or_sdn_war-020826?traffic_source=rss)
 
 ---
 
-### 8. How Davutoglu helped shape Erdogan’s Turkiye but failed to challenge it
+### 8. Israeli soldiers jailed over Sde Teiman walkout
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Once Turkiye&#039;s prime minister, Ahmet Davutoglu has stepped back from party politics.
+Fourteen Israeli soldiers have been sentenced to military prison after leading an unauthorised walkout from Sde Teiman.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/2/how-davutoglu-helped-shape-erdogans-turkiye-but-failed-to-challenge-it?traffic_source=rss](https://www.aljazeera.com/features/2026/8/2/how-davutoglu-helped-shape-erdogans-turkiye-but-failed-to-challenge-it?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/israeli-soldiers-jailed-over-sde-teiman-walkout?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/israeli-soldiers-jailed-over-sde-teiman-walkout?traffic_source=rss)
 
 ---
 
-### 9. Trump ‘cancels attack on Iran’ saying deal is near
+### 9. FIFA boss Infantino’s position looks unacceptable: European Leagues head
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US President Trump announced he was cancelling a planned attack on Iran with the ‘perimeters of a deal’ agreed to.
+Claudius Schafer says there can be &#039;only one consequence&#039; to Infantino&#039;s actions over his World Cup privatisation plan.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/trump-cancels-attack-on-iran-saying-deal-is-near?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/trump-cancels-attack-on-iran-saying-deal-is-near?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/2/fifa-boss-infantinos-position-looks-unacceptable-head-of-european-league?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/2/fifa-boss-infantinos-position-looks-unacceptable-head-of-european-league?traffic_source=rss)
 
 ---
 

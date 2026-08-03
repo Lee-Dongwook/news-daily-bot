@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-03 08:02:24
+**Last Update:** 2026-08-03 08:25:50
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
@@ -97,7 +97,20 @@ The US singer, 33, will "step back from visibility" at the end of her world tour
 
 ---
 
-### 7. Fires in Spokane, Washington, burn 600 structures, force 60,000 evacuations
+### 7. Grid failure plunges Cuba into nationwide blackout
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Cuba’s ageing power grid collapsed on Sunday after a weekend of outages and amid US-imposed fuel shortages.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/3/grid-failure-plunges-cuba-into-nationwide-blackout?traffic_source=rss](https://www.aljazeera.com/news/2026/8/3/grid-failure-plunges-cuba-into-nationwide-blackout?traffic_source=rss)
+
+---
+
+### 8. Fires in Spokane, Washington, burn 600 structures, force 60,000 evacuations
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ A total of 1,000sq km (386sq miles) has burned across Washington state, and some
 
 ---
 
-### 8. Trump pauses ‘massive attack’ on Iran, says new talks to begin
+### 9. Trump pauses ‘massive attack’ on Iran, says new talks to begin
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ A total of 1,000sq km (386sq miles) has burned across Washington state, and some
 US President Trump says new talks with Iran will start Monday ‘in the form of a negotiation’ after calling off attack.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/3/trump-pauses-massive-attack-on-iran-says-new-talks-to-begin?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/3/trump-pauses-massive-attack-on-iran-says-new-talks-to-begin?traffic_source=rss)
-
----
-
-### 9. Brazil’s Lula launches reelection bid amid foreign interference concerns
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Brazil&#039;s President Luiz Inácio Lula da Silva has officially launched his reelection campaign.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/3/brazils-lula-launches-reelection-bid-amid-foreign-interference-concerns?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/3/brazils-lula-launches-reelection-bid-amid-foreign-interference-concerns?traffic_source=rss)
 
 ---
 

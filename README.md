@@ -1,77 +1,42 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-04 13:35:49
+**Last Update:** 2026-08-04 14:56:42
 
 **Total News:** 9
 
-**Sources:** Al Jazeera, BBC, Hacker News
+**Sources:** BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. FFmpeg 9.0
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES">https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49166202">https://news.ycombinator.com/item?id=49166202</a></p>
-<p>Points: 63</p>
-<p># Comments: 3</p>
-
-🔗 **Read more:** [https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES](https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES)
-
----
-
-### 2. Bending Spoons makes first post-IPO acquisition with $1.3B Airtable deal
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://live.euronext.com/en/financial-news/bending-spoons-makes-first-post-ipo-acquisition-13-billion-airtable-deal">https://live.euronext.com/en/financial-news/bending-spoons-makes-first-post-ipo-acquisition-13-billion-airtable-deal</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49166182">https://news.ycombinator.com/item?id=49166182</a></p>
-<p>Points: 10</p>
-<p># Comments: 4</p>
-
-🔗 **Read more:** [https://live.euronext.com/en/financial-news/bending-spoons-makes-first-post-ipo-acquisition-13-billion-airtable-deal](https://live.euronext.com/en/financial-news/bending-spoons-makes-first-post-ipo-acquisition-13-billion-airtable-deal)
-
----
-
-### 3. You don't need React: creating a minimal UI library in Vanilla JavaScript
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://pedroth.github.io/?p=post/NoNeedReact">https://pedroth.github.io/?p=post/NoNeedReact</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49165665">https://news.ycombinator.com/item?id=49165665</a></p>
-<p>Points: 24</p>
-<p># Comments: 13</p>
-
-🔗 **Read more:** [https://pedroth.github.io/?p=post/NoNeedReact](https://pedroth.github.io/?p=post/NoNeedReact)
-
----
-
-### 4. Breast cancer checks missing most women under 50 who are at risk, says study
+### 1. More than 150 migrants rescued after boat catches fire in Channel
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Up to 95% of younger women who are at higher risk of developing breast cancer are being missed by current NHS checks, researchers warn.
+The boat was attempting to cross to the UK when its engine caught fire, according to French authorities.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckgv652r625o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckgv652r625o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Analysis: Trump challenged by cold reality from top allies
+### 2. Boxer arrested in Greece over discovery of Scottish woman's body in suitcase
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Sharif Ahmadzai, from Afghanistan, is expected to appear in court in Athens on Wednesday.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c0m7xpr8zvvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c0m7xpr8zvvo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 3. Analysis: Trump challenged by cold reality from top allies
 
 **Source:** BBC
 
@@ -84,55 +49,81 @@ A president used to bending US politics to his will faces two stinging losses in
 
 ---
 
-### 6. There's a reason child vaccination rates are falling - and it's not social media
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-As child immunisation rates fall across the UK, one clinic in west Yorkshire is taking aggressive steps to boost immunisations
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c0qvlw2dd0no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c0qvlw2dd0no?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. US primaries: What to watch in Kansas, Missouri, Virginia, Washington
+### 4. The Gulf can no longer outsource its security
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-From House battlegrounds to party fights and Trump&#039;s influence, here are the races to follow during Tuesday&#039;s primaries.
+Iran’s attacks exposed the limits of external guarantees and the need for a Gulf-built security architecture.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/4/us-primaries-what-to-watch-in-kansas-missouri-virginia-washington?traffic_source=rss](https://www.aljazeera.com/news/2026/8/4/us-primaries-what-to-watch-in-kansas-missouri-virginia-washington?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/4/the-gulf-can-no-longer-outsource-its-security?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/4/the-gulf-can-no-longer-outsource-its-security?traffic_source=rss)
 
 ---
 
-### 8. Cars burn in reported settler attack in occupied West Bank
+### 5. Who is behind settler violence in the occupied West Bank?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Cars burn in reported settler attack in occupied West Bank
+A look at the main settler groups driving the escalation against Palestinians in the West Bank.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/4/cars-burn-in-reported-settler-attack-in-occupied-west-bank?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/4/cars-burn-in-reported-settler-attack-in-occupied-west-bank?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/4/who-is-behind-settler-violence-in-the-occupied-west-bank?traffic_source=rss](https://www.aljazeera.com/news/2026/8/4/who-is-behind-settler-violence-in-the-occupied-west-bank?traffic_source=rss)
 
 ---
 
-### 9. We demand accountability for the Beirut blast
+### 6. ‘One last chance’: The times Trump threatened Iran, said deal imminent
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Six years after the explosion, the domestic investigation is complete, but an indictment is yet to be issued.
+US president has claimed Iran &#039;desperate&#039; to do a deal or given Tehran &#039;last chance&#039; on multiple occasions.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/4/we-demand-accountability-for-the-beirut-blast?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/4/we-demand-accountability-for-the-beirut-blast?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/4/one-last-chance-the-times-trump-threatened-iran-said-deal-imminent?traffic_source=rss](https://www.aljazeera.com/features/2026/8/4/one-last-chance-the-times-trump-threatened-iran-said-deal-imminent?traffic_source=rss)
+
+---
+
+### 7. Wildfire Middle Coulee, Chouteau, Montana
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22101](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22101)
+
+---
+
+### 8. Wildfire Antelope Creek, Elko, Nevada
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22108](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22108)
+
+---
+
+### 9. Wildfire Bluegill, Miami-Dade, Florida
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22105](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22105)
 
 ---
 

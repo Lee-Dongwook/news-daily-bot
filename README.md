@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-04 03:02:47
+**Last Update:** 2026-08-04 06:18:36
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Windows XP 2002 for the Itanium: Unbridled rage
+### 1. Native Apps Should Be Avoided Whenever Possible
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://nooneshappy.com/article/native-apps-should-be-avoided-whenever-possible/">https://nooneshappy.com/article/native-apps-should-be-avoided-whenever-possible/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49163286">https://news.ycombinator.com/item?id=49163286</a></p>
+<p>Points: 4</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://nooneshappy.com/article/native-apps-should-be-avoided-whenever-possible/](https://nooneshappy.com/article/native-apps-should-be-avoided-whenever-possible/)
+
+---
+
+### 2. There Will Come Soft Rains (1950) [pdf]
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf">https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49162653">https://news.ycombinator.com/item?id=49162653</a></p>
+<p>Points: 40</p>
+<p># Comments: 17</p>
+
+🔗 **Read more:** [https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf](https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf)
+
+---
+
+### 3. Windows XP 2002 for the Itanium: Unbridled rage
 
 **Source:** Hacker News
 
@@ -19,120 +51,88 @@
 **Description:**
 <p>Article URL: <a href="https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/">https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49162086">https://news.ycombinator.com/item?id=49162086</a></p>
-<p>Points: 31</p>
-<p># Comments: 1</p>
+<p>Points: 64</p>
+<p># Comments: 31</p>
 
 🔗 **Read more:** [https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/](https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/)
 
 ---
 
-### 2. ZX Spectrum System Tour: Text Mode
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/">https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49161801">https://news.ycombinator.com/item?id=49161801</a></p>
-<p>Points: 11</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/](https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/)
-
----
-
-### 3. LLMs reward expertise
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.seangoedecke.com/llms-reward-expertise/">https://www.seangoedecke.com/llms-reward-expertise/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49161518">https://news.ycombinator.com/item?id=49161518</a></p>
-<p>Points: 268</p>
-<p># Comments: 114</p>
-
-🔗 **Read more:** [https://www.seangoedecke.com/llms-reward-expertise/](https://www.seangoedecke.com/llms-reward-expertise/)
-
----
-
-### 4. Rapists and child sex offenders to be barred from early release scheme
+### 4. PC Harper's mother 'devastated' his killers set for early release under revised plans
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The widow of PC Andrew Harper says it is "disgusting" her husband's killers remain eligible for the scheme in England and Wales.
+Rapists and child sex offenders will be barred from the scheme, which will restart in October, the government says.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c20e15d0z6zo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c20e15d0z6zo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach
+### 5. Breast cancer checks missing most women under 50 who are at risk, says study
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Three children were killed when the drone crashed at a popular resort on the Black Sea.
+Up to 95% of younger women who are at higher risk of developing breast cancer are being missed by current NHS checks, researchers warn.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckgv652r625o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckgv652r625o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Infantino opponents threaten 'non co-operation' with Fifa
+### 6. EU calls for stronger borders after Ceuta migrant crossings
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The English Football Association is set to join Wales in withdrawing backing for Infantino's bid to continue as Fifa president.
+Ursula von der Leyen has called for action ahead of an urgent EU interior ministers meeting to discuss the issue.
 
-🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/cp30vg829nxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/cp30vg829nxo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cyvl84zmgyro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cyvl84zmgyro?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Petrol prices strain US households as oil giants Chevron, Exxon profits soar
+### 7. Ibrahim Traore: Why Burkina Faso’s popular leader faces a reality test
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Low-income US households are hit hardest, spending more than 10 percent of monthly income on petrol as prices rise.
+Traore’s sovereignty message has won support across Africa, but his record at home faces scrutiny.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/3/petrol-prices-strain-us-households-as-oil-giants-chevron-exxon-profits-soar?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/3/petrol-prices-strain-us-households-as-oil-giants-chevron-exxon-profits-soar?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/4/ibrahim-traore-why-burkina-fasos-popular-leader-faces-a-reality-test?traffic_source=rss](https://www.aljazeera.com/news/2026/8/4/ibrahim-traore-why-burkina-fasos-popular-leader-faces-a-reality-test?traffic_source=rss)
 
 ---
 
-### 8. From Trump to El-Sayed: US Arabs in Michigan centre Palestine in politics
+### 8. Does the US blockade on Cuba make America safer?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Arab Americans in Michigan who withheld support for Kamala Harris in 2024 say they will not back pro-Israel candidates.
+Trump just escalated restrictions on Havana warning that Cuba remains a ‘threat to national security’.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/3/from-donald-trump-to-abdul-el-sayed-us-arabs-centre-palestine-in-politics?traffic_source=rss](https://www.aljazeera.com/news/2026/8/3/from-donald-trump-to-abdul-el-sayed-us-arabs-centre-palestine-in-politics?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/4/does-the-us-blockade-on-cuba-make-america-safer?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/4/does-the-us-blockade-on-cuba-make-america-safer?traffic_source=rss)
 
 ---
 
-### 9. Tennis: Philippines’ Eala wins first WTA title, Fritz claims DC crown
+### 9. Board of Peace says no Israeli withdrawal from Gaza before Hamas disarms
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Alex Eala rallies past top seed Jessica Pegula in a two-day, rain-hit final, while Taylor Fritz beats teen Rafael Jodar.
+Netanyahu and board director Maldenov meet amid tensions over Gaza disarmament roadmap and recent Israeli attacks.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/3/tennis-philippines-eala-wins-first-wta-title-fritz-claims-dc-crown?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/3/tennis-philippines-eala-wins-first-wta-title-fritz-claims-dc-crown?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/4/board-of-peace-says-no-israeli-withdrawal-from-gaza-before-hamas-disarms?traffic_source=rss](https://www.aljazeera.com/news/2026/8/4/board-of-peace-says-no-israeli-withdrawal-from-gaza-before-hamas-disarms?traffic_source=rss)
 
 ---
 

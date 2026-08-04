@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-04 20:24:19
+**Last Update:** 2026-08-04 20:40:15
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Webb telescope finds signs of ancient disaster for Neptune's moons
+### 1. Truemetrics (YC S23) Is Hiring in Berlin – GTM Lead
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.ycombinator.com/companies/truemetrics/jobs/bIQQ7tP-founding-gtm-lead">https://www.ycombinator.com/companies/truemetrics/jobs/bIQQ7tP-founding-gtm-lead</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49171650">https://news.ycombinator.com/item?id=49171650</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.ycombinator.com/companies/truemetrics/jobs/bIQQ7tP-founding-gtm-lead](https://www.ycombinator.com/companies/truemetrics/jobs/bIQQ7tP-founding-gtm-lead)
+
+---
+
+### 2. Webb telescope finds signs of ancient disaster for Neptune's moons
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.reuters.com/science/webb-telescope-finds-signs-ancient-disaster-neptunes-moons-2026-08-03/">https://www.reuters.com/science/webb-telescope-finds-signs-ancient-disaster-neptunes-moons-2026-08-03/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49171172">https://news.ycombinator.com/item?id=49171172</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
+<p>Points: 11</p>
+<p># Comments: 2</p>
 
 🔗 **Read more:** [https://www.reuters.com/science/webb-telescope-finds-signs-ancient-disaster-neptunes-moons-2026-08-03/](https://www.reuters.com/science/webb-telescope-finds-signs-ancient-disaster-neptunes-moons-2026-08-03/)
 
 ---
 
-### 2. When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation
+### 3. When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://arxiv.org/abs/2602.16763">https://arxiv.org/abs/2602.16763</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49170915">https://news.ycombinator.com/item?id=49170915</a></p>
-<p>Points: 13</p>
-<p># Comments: 1</p>
+<p>Points: 21</p>
+<p># Comments: 11</p>
 
 🔗 **Read more:** [https://arxiv.org/abs/2602.16763](https://arxiv.org/abs/2602.16763)
-
----
-
-### 3. Apple says more ex-employees may have taken confidential data to OpenAI
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/">https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49170479">https://news.ycombinator.com/item?id=49170479</a></p>
-<p>Points: 57</p>
-<p># Comments: 28</p>
-
-🔗 **Read more:** [https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/](https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/)
 
 ---
 
@@ -97,42 +97,42 @@ Sharif Ahmadzai, from Afghanistan, is expected to appear in court in Athens on W
 
 ---
 
-### 7. Photos: Guatemala’s Fuego volcano erupts, forcing evacuations
+### 7. Gaza holds mass funeral for 112 people killed in Israel’s 2023 Sabra attack
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Guatemala raises alert as Fuego volcano erupts, spewing ash and forcing village evacuations.
+Thousands join to bury remains after they were recovered from rubble of homes destroyed during Israel’s genocidal war.
 
-🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/8/4/photos-guatemalas-fuego-volcano-erupts-forcing-evacuations?traffic_source=rss](https://www.aljazeera.com/gallery/2026/8/4/photos-guatemalas-fuego-volcano-erupts-forcing-evacuations?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/4/gaza-holds-mass-funeral-for-112-people-killed-in-israels-2023-sabra-attack?traffic_source=rss](https://www.aljazeera.com/news/2026/8/4/gaza-holds-mass-funeral-for-112-people-killed-in-israels-2023-sabra-attack?traffic_source=rss)
 
 ---
 
-### 8. War on Iran: Trump says Iran has one ‘last chance’
+### 8. EU offers emergency aid to Spain to strengthen Ceuta border
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US President Donald Trump says Iran has ‘one last chance’ to make a deal, but Tehran is in no hurry to take it.
+EU offers Spain border assistance after emergency meeting over influx of more than 70,000 migrants into Ceuta last week
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/4/war-on-iran-trump-says-iran-has-one-last-chance?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/4/war-on-iran-trump-says-iran-has-one-last-chance?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/4/eu-offers-emergency-aid-to-spain-to-strengthen-ceuta-border?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/4/eu-offers-emergency-aid-to-spain-to-strengthen-ceuta-border?traffic_source=rss)
 
 ---
 
-### 9. Why did Trump attack Jeanine Pirro over US reflecting pool ‘vandalism’?
+### 9. Ivory Coast reappoint Herve Renard for attempt at repeat of AFCON title
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US president&#039;s hand-picked DC attorney in firing line after dropping charges for vandalism of Washington landmark.
+Former Saudi Arabia and Tunisia coach Herve Renard returns to Ivory Coast in attempt to repeat 2015 AFCON success.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/4/why-did-trump-attack-jeanine-pirro-over-us-reflecting-pool-vandalism?traffic_source=rss](https://www.aljazeera.com/news/2026/8/4/why-did-trump-attack-jeanine-pirro-over-us-reflecting-pool-vandalism?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/4/ivory-coast-reappoint-herve-renard-for-attempt-at-repeat-of-afcon-title?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/4/ivory-coast-reappoint-herve-renard-for-attempt-at-repeat-of-afcon-title?traffic_source=rss)
 
 ---
 

@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-04 09:20:43
+**Last Update:** 2026-08-04 10:36:40
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. The Myth, the Mythos, and the Man
+### 1. Apple is getting this wrong
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://openai.com/index/apple-is-getting-this-wrong/">https://openai.com/index/apple-is-getting-this-wrong/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49164649">https://news.ycombinator.com/item?id=49164649</a></p>
+<p>Points: 86</p>
+<p># Comments: 72</p>
+
+🔗 **Read more:** [https://openai.com/index/apple-is-getting-this-wrong/](https://openai.com/index/apple-is-getting-this-wrong/)
+
+---
+
+### 2. The Myth, the Mythos, and the Man
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://om.co/2026/06/07/the-myth-the-mythos-and-the-man/">https://om.co/2026/06/07/the-myth-the-mythos-and-the-man/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49163380">https://news.ycombinator.com/item?id=49163380</a></p>
-<p>Points: 8</p>
-<p># Comments: 0</p>
+<p>Points: 14</p>
+<p># Comments: 5</p>
 
 🔗 **Read more:** [https://om.co/2026/06/07/the-myth-the-mythos-and-the-man/](https://om.co/2026/06/07/the-myth-the-mythos-and-the-man/)
 
 ---
 
-### 2. Why did we wait so long for the bicycle? (2019)
+### 3. Why did we wait so long for the bicycle? (2019)
 
 **Source:** Hacker News
 
@@ -35,43 +51,14 @@
 **Description:**
 <p>Article URL: <a href="https://blog.rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle">https://blog.rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49162787">https://news.ycombinator.com/item?id=49162787</a></p>
-<p>Points: 23</p>
-<p># Comments: 12</p>
+<p>Points: 27</p>
+<p># Comments: 18</p>
 
 🔗 **Read more:** [https://blog.rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle](https://blog.rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle)
 
 ---
 
-### 3. There Will Come Soft Rains (1950) [pdf]
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf">https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49162653">https://news.ycombinator.com/item?id=49162653</a></p>
-<p>Points: 93</p>
-<p># Comments: 36</p>
-
-🔗 **Read more:** [https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf](https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf)
-
----
-
-### 4. PC Harper's mother 'devastated' his killers set for early release under revised plans
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Rapists and child sex offenders will be barred from the scheme, which will restart in October, the government says.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c20e15d0z6zo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c20e15d0z6zo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Breast cancer checks missing most women under 50 who are at risk, says study
+### 4. Breast cancer checks missing most women under 50 who are at risk, says study
 
 **Source:** BBC
 
@@ -84,7 +71,7 @@ Up to 95% of younger women who are at higher risk of developing breast cancer ar
 
 ---
 
-### 6. EU calls for stronger borders after Ceuta migrant crossings
+### 5. EU calls for stronger borders after Ceuta migrant crossings
 
 **Source:** BBC
 
@@ -97,7 +84,33 @@ Ursula von der Leyen has called for action ahead of an urgent EU interior minist
 
 ---
 
-### 7. Why are the Washington wildfires so severe? Spokane fires explained
+### 6. There's a reason child vaccination rates are falling - and it's not social media
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+As child immunisation rates fall across the UK, one clinic in west Yorkshire is taking aggressive steps to boost immunisations
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c0qvlw2dd0no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c0qvlw2dd0no?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 7. Palestine weekly: Israel kills dozens in Gaza after Hamas disarmament deal
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Israeli strikes on Gaza only intensified in the days following a US-brokered agreement billed as a &#039;breakthrough&#039;.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/4/palestine-weekly-israel-kills-dozens-in-gaza-after-hamas-disarmament-deal?traffic_source=rss](https://www.aljazeera.com/news/2026/8/4/palestine-weekly-israel-kills-dozens-in-gaza-after-hamas-disarmament-deal?traffic_source=rss)
+
+---
+
+### 8. Why are the Washington wildfires so severe? Spokane fires explained
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Why Spokane&#039;s wildfires spread so fast, what caused them and why Washington
 
 ---
 
-### 8. Bodycam video shows firefighters battling blaze in Spokane, US
+### 9. Bodycam video shows firefighters battling blaze in Spokane, US
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Why Spokane&#039;s wildfires spread so fast, what caused them and why Washington
 Bodycam footage from firefighters shows the speed needed to put out the blaze sweeping through the northwestern US.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/4/bodycam-video-shows-firefighters-battling-blaze-in-spokane-us?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/4/bodycam-video-shows-firefighters-battling-blaze-in-spokane-us?traffic_source=rss)
-
----
-
-### 9. Colombia’s Petro repeats vote fraud claims days before handing over power
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Petro accuses programmers of altering vote counts and claims metadata tied to election results was hidden from review.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/4/colombias-petro-repeats-vote-fraud-claims-days-before-handing-over-power?traffic_source=rss](https://www.aljazeera.com/news/2026/8/4/colombias-petro-repeats-vote-fraud-claims-days-before-handing-over-power?traffic_source=rss)
 
 ---
 

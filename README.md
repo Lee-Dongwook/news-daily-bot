@@ -1,77 +1,90 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-04 18:26:58
+**Last Update:** 2026-08-04 20:24:19
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, Al Jazeera, BBC
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Agent skills that bring team coding standards to Claude Code and Codex
+### 1. Webb telescope finds signs of ancient disaster for Neptune's moons
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/tikalk/adlc-team-skills">https://github.com/tikalk/adlc-team-skills</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49169640">https://news.ycombinator.com/item?id=49169640</a></p>
-<p>Points: 4</p>
+<p>Article URL: <a href="https://www.reuters.com/science/webb-telescope-finds-signs-ancient-disaster-neptunes-moons-2026-08-03/">https://www.reuters.com/science/webb-telescope-finds-signs-ancient-disaster-neptunes-moons-2026-08-03/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49171172">https://news.ycombinator.com/item?id=49171172</a></p>
+<p>Points: 6</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://github.com/tikalk/adlc-team-skills](https://github.com/tikalk/adlc-team-skills)
+🔗 **Read more:** [https://www.reuters.com/science/webb-telescope-finds-signs-ancient-disaster-neptunes-moons-2026-08-03/](https://www.reuters.com/science/webb-telescope-finds-signs-ancient-disaster-neptunes-moons-2026-08-03/)
 
 ---
 
-### 2. Xbox goes down. You can't play games you own on disc
+### 2. When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/">https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49167448">https://news.ycombinator.com/item?id=49167448</a></p>
-<p>Points: 263</p>
-<p># Comments: 269</p>
+<p>Article URL: <a href="https://arxiv.org/abs/2602.16763">https://arxiv.org/abs/2602.16763</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49170915">https://news.ycombinator.com/item?id=49170915</a></p>
+<p>Points: 13</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/](https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/)
+🔗 **Read more:** [https://arxiv.org/abs/2602.16763](https://arxiv.org/abs/2602.16763)
 
 ---
 
-### 3. Roame (YC S23) Is Hiring Lead Engineer
+### 3. Apple says more ex-employees may have taken confidential data to OpenAI
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.ycombinator.com/companies/roame/jobs/mqqfa38-lead-full-stack-engineer">https://www.ycombinator.com/companies/roame/jobs/mqqfa38-lead-full-stack-engineer</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49167444">https://news.ycombinator.com/item?id=49167444</a></p>
-<p>Points: 0</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/">https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49170479">https://news.ycombinator.com/item?id=49170479</a></p>
+<p>Points: 57</p>
+<p># Comments: 28</p>
 
-🔗 **Read more:** [https://www.ycombinator.com/companies/roame/jobs/mqqfa38-lead-full-stack-engineer](https://www.ycombinator.com/companies/roame/jobs/mqqfa38-lead-full-stack-engineer)
+🔗 **Read more:** [https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/](https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/)
 
 ---
 
-### 4. More than 150 migrants rescued after boat catches fire in Channel
+### 4. Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The boat was attempting to cross to the UK when its engine caught fire, according to French authorities.
+Ukraine said the video - showing a terrified civilian being hounded by a remotely-controlled drone - amounted to a war crime.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. More than 170 migrants rescued after boat catches fire in Channel
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The government says all of the migrants, who were attempting to cross to the UK, will be returned to France.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Afghan boxer arrested in Greece over discovery of Scottish woman's body in suitcase
+### 6. Afghan boxer arrested in Greece over discovery of Scottish woman's body in suitcase
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ Sharif Ahmadzai, from Afghanistan, is expected to appear in court in Athens on W
 
 ---
 
-### 6. Top Fifa official Wenger says scrapping World Cup plan 'absolutely necessary'
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Fifa's chief of global football development Arsene Wenger says the decision to scrap the plan to have private investment in Fifa competitions was "absolutely necessary".
-
-🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/c2k7p4nxdy4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/c2k7p4nxdy4o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Beirut port blast anniversary overshadowed by new wave of destruction
+### 7. Photos: Guatemala’s Fuego volcano erupts, forcing evacuations
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-As much of southern Lebanon lies in ruins due to Israeli attacks, residents struggle once again to rebuild their lives.
+Guatemala raises alert as Fuego volcano erupts, spewing ash and forcing village evacuations.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/4/beirut-port-blast-anniversary-overshadowed-by-new-wave-of-destruction?traffic_source=rss](https://www.aljazeera.com/news/2026/8/4/beirut-port-blast-anniversary-overshadowed-by-new-wave-of-destruction?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/8/4/photos-guatemalas-fuego-volcano-erupts-forcing-evacuations?traffic_source=rss](https://www.aljazeera.com/gallery/2026/8/4/photos-guatemalas-fuego-volcano-erupts-forcing-evacuations?traffic_source=rss)
 
 ---
 
-### 8. FIFA denies Infantino sought Trump backing after failed World Cup selloff
+### 8. War on Iran: Trump says Iran has one ‘last chance’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-FIFA refutes report that its President Gianni Infantino sought Donald Trump&#039;s backing after failed World Cup selloff.
+US President Donald Trump says Iran has ‘one last chance’ to make a deal, but Tehran is in no hurry to take it.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/4/fifa-deny-infantino-sought-trump-backing-after-failed-world-cup-sell-off?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/4/fifa-deny-infantino-sought-trump-backing-after-failed-world-cup-sell-off?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/4/war-on-iran-trump-says-iran-has-one-last-chance?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/4/war-on-iran-trump-says-iran-has-one-last-chance?traffic_source=rss)
 
 ---
 
-### 9. Why are oil companies posting record profits amid Iran war disruption?
+### 9. Why did Trump attack Jeanine Pirro over US reflecting pool ‘vandalism’?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Big Oil companies have bagged astronomical profits as the critical Strait of Hormuz remains closed.
+US president&#039;s hand-picked DC attorney in firing line after dropping charges for vandalism of Washington landmark.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/4/why-are-oil-companies-posting-record-profits-amid-iran-war-disruption?traffic_source=rss](https://www.aljazeera.com/features/2026/8/4/why-are-oil-companies-posting-record-profits-amid-iran-war-disruption?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/4/why-did-trump-attack-jeanine-pirro-over-us-reflecting-pool-vandalism?traffic_source=rss](https://www.aljazeera.com/news/2026/8/4/why-did-trump-attack-jeanine-pirro-over-us-reflecting-pool-vandalism?traffic_source=rss)
 
 ---
 

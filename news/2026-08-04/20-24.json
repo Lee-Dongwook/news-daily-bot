@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-04T20:24:19+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Webb telescope finds signs of ancient disaster for Neptune's moons",
+            "description": "<p>Article URL: <a href=\"https://www.reuters.com/science/webb-telescope-finds-signs-ancient-disaster-neptunes-moons-2026-08-03/\">https://www.reuters.com/science/webb-telescope-finds-signs-ancient-disaster-neptunes-moons-2026-08-03/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49171172\">https://news.ycombinator.com/item?id=49171172</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+            "url": "https://www.reuters.com/science/webb-telescope-finds-signs-ancient-disaster-neptunes-moons-2026-08-03/",
+            "published": "Tue, 04 Aug 2026 16:29:02 +0000",
+            "fetched": "2026-08-04T20:24:19+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
+            "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2602.16763\">https://arxiv.org/abs/2602.16763</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49170915\">https://news.ycombinator.com/item?id=49170915</a></p>\n<p>Points: 13</p>\n<p># Comments: 1</p>",
+            "url": "https://arxiv.org/abs/2602.16763",
+            "published": "Tue, 04 Aug 2026 16:10:39 +0000",
+            "fetched": "2026-08-04T20:24:19+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
+            "description": "<p>Article URL: <a href=\"https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/\">https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49170479\">https://news.ycombinator.com/item?id=49170479</a></p>\n<p>Points: 57</p>\n<p># Comments: 28</p>",
+            "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+            "published": "Tue, 04 Aug 2026 15:37:42 +0000",
+            "fetched": "2026-08-04T20:24:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
+            "description": "Ukraine said the video - showing a terrified civilian being hounded by a remotely-controlled drone - amounted to a war crime.",
+            "url": "https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 04 Aug 2026 16:33:39 GMT",
+            "fetched": "2026-08-04T20:24:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "More than 170 migrants rescued after boat catches fire in Channel",
+            "description": "The government says all of the migrants, who were attempting to cross to the UK, will be returned to France.",
+            "url": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 04 Aug 2026 16:21:43 GMT",
+            "fetched": "2026-08-04T20:24:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Afghan boxer arrested in Greece over discovery of Scottish woman's body in suitcase",
+            "description": "Sharif Ahmadzai, from Afghanistan, is expected to appear in court in Athens on Wednesday.",
+            "url": "https://www.bbc.co.uk/news/articles/c0m7xpr8zvvo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 04 Aug 2026 12:19:50 GMT",
+            "fetched": "2026-08-04T20:24:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Photos: Guatemala’s Fuego volcano erupts, forcing evacuations",
+            "description": "Guatemala raises alert as Fuego volcano erupts, spewing ash and forcing village evacuations.",
+            "url": "https://www.aljazeera.com/gallery/2026/8/4/photos-guatemalas-fuego-volcano-erupts-forcing-evacuations?traffic_source=rss",
+            "published": "Tue, 04 Aug 2026 16:14:34 +0000",
+            "fetched": "2026-08-04T20:24:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "War on Iran: Trump says Iran has one ‘last chance’",
+            "description": "US President Donald Trump says Iran has ‘one last chance’ to make a deal, but Tehran is in no hurry to take it.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/war-on-iran-trump-says-iran-has-one-last-chance?traffic_source=rss",
+            "published": "Tue, 04 Aug 2026 16:13:49 +0000",
+            "fetched": "2026-08-04T20:24:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why did Trump attack Jeanine Pirro over US reflecting pool ‘vandalism’?",
+            "description": "US president&#039;s hand-picked DC attorney in firing line after dropping charges for vandalism of Washington landmark.",
+            "url": "https://www.aljazeera.com/news/2026/8/4/why-did-trump-attack-jeanine-pirro-over-us-reflecting-pool-vandalism?traffic_source=rss",
+            "published": "Tue, 04 Aug 2026 16:01:35 +0000",
+            "fetched": "2026-08-04T20:24:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Middle Coulee, Chouteau, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22101",
+            "published": "2026-08-02T22:17:00Z",
+            "fetched": "2026-08-04T20:24:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Antelope Creek, Elko, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22108",
+            "published": "2026-08-02T14:31:00Z",
+            "fetched": "2026-08-04T20:24:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Bluegill, Miami-Dade, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22105",
+            "published": "2026-08-02T12:47:00Z",
+            "fetched": "2026-08-04T20:24:19+03:30"
+        }
+    ]
+}

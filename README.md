@@ -1,32 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-04 06:18:36
+**Last Update:** 2026-08-04 07:15:19
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Native Apps Should Be Avoided Whenever Possible
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://nooneshappy.com/article/native-apps-should-be-avoided-whenever-possible/">https://nooneshappy.com/article/native-apps-should-be-avoided-whenever-possible/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49163286">https://news.ycombinator.com/item?id=49163286</a></p>
-<p>Points: 4</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://nooneshappy.com/article/native-apps-should-be-avoided-whenever-possible/](https://nooneshappy.com/article/native-apps-should-be-avoided-whenever-possible/)
-
----
-
-### 2. There Will Come Soft Rains (1950) [pdf]
+### 1. There Will Come Soft Rains (1950) [pdf]
 
 **Source:** Hacker News
 
@@ -35,14 +19,14 @@
 **Description:**
 <p>Article URL: <a href="https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf">https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49162653">https://news.ycombinator.com/item?id=49162653</a></p>
-<p>Points: 40</p>
-<p># Comments: 17</p>
+<p>Points: 54</p>
+<p># Comments: 22</p>
 
 🔗 **Read more:** [https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf](https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf)
 
 ---
 
-### 3. Windows XP 2002 for the Itanium: Unbridled rage
+### 2. Windows XP 2002 for the Itanium: Unbridled rage
 
 **Source:** Hacker News
 
@@ -51,10 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/">https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49162086">https://news.ycombinator.com/item?id=49162086</a></p>
-<p>Points: 64</p>
-<p># Comments: 31</p>
+<p>Points: 67</p>
+<p># Comments: 37</p>
 
 🔗 **Read more:** [https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/](https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/)
+
+---
+
+### 3. ZX Spectrum System Tour: Text Mode
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/">https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49161801">https://news.ycombinator.com/item?id=49161801</a></p>
+<p>Points: 26</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/](https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/)
 
 ---
 
@@ -97,42 +97,42 @@ Ursula von der Leyen has called for action ahead of an urgent EU interior minist
 
 ---
 
-### 7. Ibrahim Traore: Why Burkina Faso’s popular leader faces a reality test
+### 7. Pochettino agrees to coach men’s US Soccer through 2030 World Cup
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Traore’s sovereignty message has won support across Africa, but his record at home faces scrutiny.
+Mauricio Pochettino has agreed to extend his tenure as coach of the United States men’s soccer team.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/4/ibrahim-traore-why-burkina-fasos-popular-leader-faces-a-reality-test?traffic_source=rss](https://www.aljazeera.com/news/2026/8/4/ibrahim-traore-why-burkina-fasos-popular-leader-faces-a-reality-test?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/4/pochettino-agrees-to-coach-mens-us-soccer-through-2030-world-cup?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/4/pochettino-agrees-to-coach-mens-us-soccer-through-2030-world-cup?traffic_source=rss)
 
 ---
 
-### 8. Does the US blockade on Cuba make America safer?
+### 8. Salvadoran man dies in ICE custody at New Jersey detention centre
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Trump just escalated restrictions on Havana warning that Cuba remains a ‘threat to national security’.
+Second Delaney Hall detainee death in eight months prompts calls to close facility, demands for answers.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/4/does-the-us-blockade-on-cuba-make-america-safer?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/4/does-the-us-blockade-on-cuba-make-america-safer?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/4/salvadoran-man-dies-in-ice-custody-at-new-jersey-detention-centre?traffic_source=rss](https://www.aljazeera.com/news/2026/8/4/salvadoran-man-dies-in-ice-custody-at-new-jersey-detention-centre?traffic_source=rss)
 
 ---
 
-### 9. Board of Peace says no Israeli withdrawal from Gaza before Hamas disarms
+### 9. US stocks near record high, oil falls as Trump claims Iran talks under way
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Netanyahu and board director Maldenov meet amid tensions over Gaza disarmament roadmap and recent Israeli attacks.
+Benchmark S&amp;P500 approaches all-time peak as Washington, Tehran offer conflicting accounts of status of talks.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/4/board-of-peace-says-no-israeli-withdrawal-from-gaza-before-hamas-disarms?traffic_source=rss](https://www.aljazeera.com/news/2026/8/4/board-of-peace-says-no-israeli-withdrawal-from-gaza-before-hamas-disarms?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/4/us-stocks-near-record-high-oil-falls-as-trump-claims-iran-talks-underway?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/4/us-stocks-near-record-high-oil-falls-as-trump-claims-iran-talks-underway?traffic_source=rss)
 
 ---
 

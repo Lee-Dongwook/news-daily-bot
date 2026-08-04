@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-05 00:20:13
+**Last Update:** 2026-08-05 01:45:32
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Oxide Computer raises $445M (SEC Form D)
+### 1. Security Incident INC-2026-07-28-01 – UK AI Security Institute [pdf]
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.sec.gov/Archives/edgar/data/1795071/000179507126000002/xslFormDX01/primary_doc.xml">https://www.sec.gov/Archives/edgar/data/1795071/000179507126000002/xslFormDX01/primary_doc.xml</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49174407">https://news.ycombinator.com/item?id=49174407</a></p>
-<p>Points: 12</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://cdn.prod.website-files.com/663bd486c5e4c81588db7a1d/6a724858f7db25c81487016d_Security%20Incident%20INC-2026-07-28-01.pdf">https://cdn.prod.website-files.com/663bd486c5e4c81588db7a1d/6a724858f7db25c81487016d_Security%20Incident%20INC-2026-07-28-01.pdf</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49175717">https://news.ycombinator.com/item?id=49175717</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.sec.gov/Archives/edgar/data/1795071/000179507126000002/xslFormDX01/primary_doc.xml](https://www.sec.gov/Archives/edgar/data/1795071/000179507126000002/xslFormDX01/primary_doc.xml)
+🔗 **Read more:** [https://cdn.prod.website-files.com/663bd486c5e4c81588db7a1d/6a724858f7db25c81487016d_Security%20Incident%20INC-2026-07-28-01.pdf](https://cdn.prod.website-files.com/663bd486c5e4c81588db7a1d/6a724858f7db25c81487016d_Security%20Incident%20INC-2026-07-28-01.pdf)
 
 ---
 
-### 2. Waymo CEO explains why Tesla's camera-only self-driving falls short
+### 2. Third-party cyber evaluations involving OpenAI models
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://electrek.co/2026/08/04/waymo-co-ceo-camera-only-self-driving-tesla/">https://electrek.co/2026/08/04/waymo-co-ceo-camera-only-self-driving-tesla/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49174369">https://news.ycombinator.com/item?id=49174369</a></p>
+<p>Article URL: <a href="https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/">https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49175248">https://news.ycombinator.com/item?id=49175248</a></p>
 <p>Points: 9</p>
-<p># Comments: 2</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://electrek.co/2026/08/04/waymo-co-ceo-camera-only-self-driving-tesla/](https://electrek.co/2026/08/04/waymo-co-ceo-camera-only-self-driving-tesla/)
+🔗 **Read more:** [https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/](https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/)
 
 ---
 
-### 3. In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years
+### 3. Thanks FedEx, This Is Why We Keep Getting Phished (2024)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/">https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49173165">https://news.ycombinator.com/item?id=49173165</a></p>
-<p>Points: 250</p>
-<p># Comments: 14</p>
+<p>Article URL: <a href="https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/">https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49175192">https://news.ycombinator.com/item?id=49175192</a></p>
+<p>Points: 117</p>
+<p># Comments: 18</p>
 
-🔗 **Read more:** [https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/](https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/)
+🔗 **Read more:** [https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/](https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/)
 
 ---
 
@@ -97,42 +97,42 @@ Sharif Ahmadzai, from Afghanistan, is expected to appear in court in Athens on W
 
 ---
 
-### 7. US court deals blow to Trump’s bid to scrap climate grant programme
+### 7. How the far right weaponised the Ceuta crisis
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A US federal appeals court says EPA likely acted unlawfully in trying to cancel Biden-era clean energy grants.
+More than 72 migrants died trying to reach Ceuta, but within hours the tragedy had become a political flashpoint.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/4/us-court-deals-blow-to-trumps-bid-to-scrap-climate-grant-programme?traffic_source=rss](https://www.aljazeera.com/news/2026/8/4/us-court-deals-blow-to-trumps-bid-to-scrap-climate-grant-programme?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/4/how-the-far-right-weaponised-the-ceuta-crisis?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/4/how-the-far-right-weaponised-the-ceuta-crisis?traffic_source=rss)
 
 ---
 
-### 8. How much of a challenge are wildfires to Europe?
+### 8. Funeral for family killed in US strike on Iran’s Qeshm Island
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Rapidly spreading blazes are scorching the continent.
+The funeral for a couple and their toddler took place after they were killed in the US strike on Iran&#039;s Qeshm Island.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/8/4/how-much-of-a-challenge-are-wildfires-to-europe?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/8/4/how-much-of-a-challenge-are-wildfires-to-europe?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/4/funeral-for-family-killed-in-us-strike-on-irans-qeshm-island?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/4/funeral-for-family-killed-in-us-strike-on-irans-qeshm-island?traffic_source=rss)
 
 ---
 
-### 9. ‘I wanted to hug whatever remained’: Gaza families’ 3-year wait for funeral
+### 9. Death toll rises to 87 in India’s flood-stricken Assam
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Thousands gather for mass funeral of 112 members of Abu Shreia and al-Hassaina families killed in 2023 Israeli attack.
+Flood victims in India’s Assam district are living in makeshift shelters after monsoon rains caused widespread flooding.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/4/i-wanted-to-hug-whatever-remained-gaza-families-3-year-wait-for-funeral?traffic_source=rss](https://www.aljazeera.com/news/2026/8/4/i-wanted-to-hug-whatever-remained-gaza-families-3-year-wait-for-funeral?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/4/aje-onl-nf_death-toll-rises-to-87-in-assam-040826?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/4/aje-onl-nf_death-toll-rises-to-87-in-assam-040826?traffic_source=rss)
 
 ---
 

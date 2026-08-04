@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-04 23:57:17
+**Last Update:** 2026-08-05 00:20:13
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Stephen Wolfram's Wife Has Died
+### 1. Oxide Computer raises $445M (SEC Form D)
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.sec.gov/Archives/edgar/data/1795071/000179507126000002/xslFormDX01/primary_doc.xml">https://www.sec.gov/Archives/edgar/data/1795071/000179507126000002/xslFormDX01/primary_doc.xml</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49174407">https://news.ycombinator.com/item?id=49174407</a></p>
+<p>Points: 12</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://www.sec.gov/Archives/edgar/data/1795071/000179507126000002/xslFormDX01/primary_doc.xml](https://www.sec.gov/Archives/edgar/data/1795071/000179507126000002/xslFormDX01/primary_doc.xml)
+
+---
+
+### 2. Waymo CEO explains why Tesla's camera-only self-driving falls short
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://electrek.co/2026/08/04/waymo-co-ceo-camera-only-self-driving-tesla/">https://electrek.co/2026/08/04/waymo-co-ceo-camera-only-self-driving-tesla/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49174369">https://news.ycombinator.com/item?id=49174369</a></p>
+<p>Points: 9</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://electrek.co/2026/08/04/waymo-co-ceo-camera-only-self-driving-tesla/](https://electrek.co/2026/08/04/waymo-co-ceo-camera-only-self-driving-tesla/)
+
+---
+
+### 3. In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years
 
 **Source:** Hacker News
 
@@ -19,43 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/">https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49173165">https://news.ycombinator.com/item?id=49173165</a></p>
-<p>Points: 188</p>
-<p># Comments: 12</p>
+<p>Points: 250</p>
+<p># Comments: 14</p>
 
 🔗 **Read more:** [https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/](https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/)
-
----
-
-### 2. Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>We are Rui and Michael and we’re building EdotEnv (<a href="https://edotenv.com" rel="nofollow">https://edotenv.com</a>): self-improving RL environments from Quant Trading workflows.<p>With all the benchmaxxing around, evals saturate and become meaningless for model comparison. Useful benchmarks should increase in difficulty as models advance. Back in our Quant jobs, Michael and I saw that the market has exactly this property: markets became more efficient as people profited from trading inefficiencies, making new profitable strategies harder to find and old ones decay over time.<p>This makes markets an ideal, continuously evolving benchmark for LLM training. The hard part is to turn professional quant workflows into reliable training envs, as this is a very niche expertise.<p>In our environments, we give LLMs a quant trading workflow and evaluate their performance on out-of-sample data: build predictive features/ models, design a portfolio, backtest strategies, adapt continuously to market regimes. Each step is a task with different self-built tools. For example, a predictive feature building task gives the agent cleaned market data of time period [0,T] to research ideas, a backtesting tool to test created features at time t on [0, t], an execution tool to trade strategies with the new features on [t+1, T] and a final evaluation. Our reward isolates the agent's feature building skills and yet benefits from market properties.<p>From running SOTA models in our environments, we see that i) they seem to struggle with iterating deeply on research ideas, preferring broad shallow searches; ii) higher reasoning does not seem to increase performance and iii) agents do not understand trading, e.g. when losing money they stop trading instead of trading smarter. Check out our blogs for more details! <a href="https://edotenv.com/?tab=blog" rel="nofollow">https://edotenv.com/?tab=blog</a><p>Quant workflows are essentially applied ML research, long-horizon planning and continual learning. Through our envs, we teach these transferable research skills, rather than task specific answers. Our environments are closer to a realistic research workflow: we use real-world data instead of synthetic ones; our envs naturally contain noise and real trade-offs; our rewards are verifiable and immediate, with no need for an additional LLM judge or human expert.<p>We open sourced a sample task repository: <a href="https://github.com/MMcollab-dotcom/feature-engineering" rel="nofollow">https://github.com/MMcollab-dotcom/feature-engineering</a>. We plan to sell continuously improving envs to AI labs/researchers/enterprises training their own agents, who are interested in ML modelling capabilities, continual learning, long horizon planning or Quant Research in general.<p>We'd love feedback from anyone trying out their own agents in our envs, for either eval or post training. And of course, we are always happy to discuss the future of trading with LLMs (and no, it should not be asking the LLM to read tea leaves and give you the stock to buy tomorrow). Looking forward to your comments!</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49172936">https://news.ycombinator.com/item?id=49172936</a></p>
-<p>Points: 12</p>
-<p># Comments: 4</p>
-
-🔗 **Read more:** [https://edotenv.com/](https://edotenv.com/)
-
----
-
-### 3. Waymo – Dallas Open to All
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://waymo.com/blog/shorts/dallas-open-to-all/">https://waymo.com/blog/shorts/dallas-open-to-all/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49172836">https://news.ycombinator.com/item?id=49172836</a></p>
-<p>Points: 89</p>
-<p># Comments: 76</p>
-
-🔗 **Read more:** [https://waymo.com/blog/shorts/dallas-open-to-all/](https://waymo.com/blog/shorts/dallas-open-to-all/)
 
 ---
 
@@ -98,42 +97,42 @@ Sharif Ahmadzai, from Afghanistan, is expected to appear in court in Athens on W
 
 ---
 
-### 7. Evacuations ordered as Guatemala volcano erupts
+### 7. US court deals blow to Trump’s bid to scrap climate grant programme
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Guatemala’s Fuego volcano erupted Monday, triggering an orange alert and evacuations near the deadly 2018 eruption site.
+A US federal appeals court says EPA likely acted unlawfully in trying to cancel Biden-era clean energy grants.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/4/evacuations-ordered-as-guatemala-volcano-erupts?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/4/evacuations-ordered-as-guatemala-volcano-erupts?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/4/us-court-deals-blow-to-trumps-bid-to-scrap-climate-grant-programme?traffic_source=rss](https://www.aljazeera.com/news/2026/8/4/us-court-deals-blow-to-trumps-bid-to-scrap-climate-grant-programme?traffic_source=rss)
 
 ---
 
-### 8. Red Cross urges international aid as Sudan crisis deepens
+### 8. How much of a challenge are wildfires to Europe?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Charity warns that shrinking humanitarian support could threaten efforts to support communities trying to rebuild lives.
+Rapidly spreading blazes are scorching the continent.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/4/red-cross-urges-international-aid-as-sudan-crisis-deepens?traffic_source=rss](https://www.aljazeera.com/news/2026/8/4/red-cross-urges-international-aid-as-sudan-crisis-deepens?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/8/4/how-much-of-a-challenge-are-wildfires-to-europe?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/8/4/how-much-of-a-challenge-are-wildfires-to-europe?traffic_source=rss)
 
 ---
 
-### 9. Telegram says Apple suspension followed content norms violation by one user
+### 9. ‘I wanted to hug whatever remained’: Gaza families’ 3-year wait for funeral
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Apple said its review found the content had violated guidelines prohibiting child sexual abuse material.
+Thousands gather for mass funeral of 112 members of Abu Shreia and al-Hassaina families killed in 2023 Israeli attack.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/4/telegram-says-apple-suspension-followed-content-norms-violation-by-one-user?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/4/telegram-says-apple-suspension-followed-content-norms-violation-by-one-user?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/4/i-wanted-to-hug-whatever-remained-gaza-families-3-year-wait-for-funeral?traffic_source=rss](https://www.aljazeera.com/news/2026/8/4/i-wanted-to-hug-whatever-remained-gaza-families-3-year-wait-for-funeral?traffic_source=rss)
 
 ---
 

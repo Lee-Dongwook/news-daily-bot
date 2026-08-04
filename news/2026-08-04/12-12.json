@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-04T12:12:16+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "NHS apologises and admits Palantir have access to identifiable patient data",
+            "description": "<p>Article URL: <a href=\"https://www.publictechnology.net/2026/08/03/health-and-social-care/nhs-apologises-and-admits-palantir-engineers-have-access-to-identifiable-patient-data/\">https://www.publictechnology.net/2026/08/03/health-and-social-care/nhs-apologises-and-admits-palantir-engineers-have-access-to-identifiable-patient-data/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49165775\">https://news.ycombinator.com/item?id=49165775</a></p>\n<p>Points: 38</p>\n<p># Comments: 0</p>",
+            "url": "https://www.publictechnology.net/2026/08/03/health-and-social-care/nhs-apologises-and-admits-palantir-engineers-have-access-to-identifiable-patient-data/",
+            "published": "Tue, 04 Aug 2026 08:27:02 +0000",
+            "fetched": "2026-08-04T12:12:16+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "CollectWise (YC F24) Is Hiring",
+            "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/collectwise/jobs/oEAfzBS-ai-agent-engineer\">https://www.ycombinator.com/companies/collectwise/jobs/oEAfzBS-ai-agent-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49165170\">https://news.ycombinator.com/item?id=49165170</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+            "url": "https://www.ycombinator.com/companies/collectwise/jobs/oEAfzBS-ai-agent-engineer",
+            "published": "Tue, 04 Aug 2026 07:01:26 +0000",
+            "fetched": "2026-08-04T12:12:16+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Harness Engineering for Self-Improvement",
+            "description": "<p>Article URL: <a href=\"https://lilianweng.github.io/posts/2026-07-04-harness/\">https://lilianweng.github.io/posts/2026-07-04-harness/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49164896\">https://news.ycombinator.com/item?id=49164896</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://lilianweng.github.io/posts/2026-07-04-harness/",
+            "published": "Tue, 04 Aug 2026 06:17:54 +0000",
+            "fetched": "2026-08-04T12:12:16+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Breast cancer checks missing most women under 50 who are at risk, says study",
+            "description": "Up to 95% of younger women who are at higher risk of developing breast cancer are being missed by current NHS checks, researchers warn.",
+            "url": "https://www.bbc.co.uk/news/articles/ckgv652r625o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 04 Aug 2026 01:08:13 GMT",
+            "fetched": "2026-08-04T12:12:16+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Analysis: Trump challenged by cold reality from top allies",
+            "description": "A president used to bending US politics to his will faces two stinging losses in a matter of days, writes the BBC's Anthony Zurcher.",
+            "url": "https://www.bbc.co.uk/news/articles/cgjed2q2l0xo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 04 Aug 2026 00:02:40 GMT",
+            "fetched": "2026-08-04T12:12:16+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "There's a reason child vaccination rates are falling - and it's not social media",
+            "description": "As child immunisation rates fall across the UK, one clinic in west Yorkshire is taking aggressive steps to boost immunisations",
+            "url": "https://www.bbc.co.uk/news/articles/c0qvlw2dd0no?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 03 Aug 2026 23:10:05 GMT",
+            "fetched": "2026-08-04T12:12:16+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Nascimento: UFC fighter dead at 34 after apparent heart attack",
+            "description": "The Brazilian fighter died in his sleep after a suspected heart attack, the UFC said.",
+            "url": "https://www.aljazeera.com/sports/2026/8/4/ufcs-allan-nascimento-dead-aged-34-after-apparent-heart-attack?traffic_source=rss",
+            "published": "Tue, 04 Aug 2026 07:19:29 +0000",
+            "fetched": "2026-08-04T12:12:16+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Palestine weekly: Israel kills dozens in Gaza after Hamas disarmament deal",
+            "description": "Israeli strikes on Gaza only intensified in the days following a US-brokered agreement billed as a &#039;breakthrough&#039;.",
+            "url": "https://www.aljazeera.com/news/2026/8/4/palestine-weekly-israel-kills-dozens-in-gaza-after-hamas-disarmament-deal?traffic_source=rss",
+            "published": "Tue, 04 Aug 2026 06:00:10 +0000",
+            "fetched": "2026-08-04T12:12:16+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why are the Washington wildfires so severe? Spokane fires explained",
+            "description": "Why Spokane&#039;s wildfires spread so fast, what caused them and why Washington is facing a major fire crisis.",
+            "url": "https://www.aljazeera.com/news/2026/8/4/why-are-the-washington-wildfires-so-severe-spokane-fires-explained?traffic_source=rss",
+            "published": "Tue, 04 Aug 2026 05:03:44 +0000",
+            "fetched": "2026-08-04T12:12:16+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Middle Coulee, Chouteau, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22101",
+            "published": "2026-08-02T22:17:00Z",
+            "fetched": "2026-08-04T12:12:16+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Antelope Creek, Elko, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22108",
+            "published": "2026-08-02T14:31:00Z",
+            "fetched": "2026-08-04T12:12:16+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Bluegill, Miami-Dade, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22105",
+            "published": "2026-08-02T12:47:00Z",
+            "fetched": "2026-08-04T12:12:16+03:30"
+        }
+    ]
+}

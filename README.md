@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-04 07:15:19
+**Last Update:** 2026-08-04 09:20:43
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. There Will Come Soft Rains (1950) [pdf]
+### 1. The Myth, the Mythos, and the Man
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://om.co/2026/06/07/the-myth-the-mythos-and-the-man/">https://om.co/2026/06/07/the-myth-the-mythos-and-the-man/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49163380">https://news.ycombinator.com/item?id=49163380</a></p>
+<p>Points: 8</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://om.co/2026/06/07/the-myth-the-mythos-and-the-man/](https://om.co/2026/06/07/the-myth-the-mythos-and-the-man/)
+
+---
+
+### 2. Why did we wait so long for the bicycle? (2019)
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://blog.rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle">https://blog.rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49162787">https://news.ycombinator.com/item?id=49162787</a></p>
+<p>Points: 23</p>
+<p># Comments: 12</p>
+
+🔗 **Read more:** [https://blog.rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle](https://blog.rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle)
+
+---
+
+### 3. There Will Come Soft Rains (1950) [pdf]
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf">https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49162653">https://news.ycombinator.com/item?id=49162653</a></p>
-<p>Points: 54</p>
-<p># Comments: 22</p>
+<p>Points: 93</p>
+<p># Comments: 36</p>
 
 🔗 **Read more:** [https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf](https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf)
-
----
-
-### 2. Windows XP 2002 for the Itanium: Unbridled rage
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/">https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49162086">https://news.ycombinator.com/item?id=49162086</a></p>
-<p>Points: 67</p>
-<p># Comments: 37</p>
-
-🔗 **Read more:** [https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/](https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/)
-
----
-
-### 3. ZX Spectrum System Tour: Text Mode
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/">https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49161801">https://news.ycombinator.com/item?id=49161801</a></p>
-<p>Points: 26</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/](https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/)
 
 ---
 
@@ -97,42 +97,42 @@ Ursula von der Leyen has called for action ahead of an urgent EU interior minist
 
 ---
 
-### 7. Pochettino agrees to coach men’s US Soccer through 2030 World Cup
+### 7. Why are the Washington wildfires so severe? Spokane fires explained
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Mauricio Pochettino has agreed to extend his tenure as coach of the United States men’s soccer team.
+Why Spokane&#039;s wildfires spread so fast, what caused them and why Washington is facing a major fire crisis.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/4/pochettino-agrees-to-coach-mens-us-soccer-through-2030-world-cup?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/4/pochettino-agrees-to-coach-mens-us-soccer-through-2030-world-cup?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/4/why-are-the-washington-wildfires-so-severe-spokane-fires-explained?traffic_source=rss](https://www.aljazeera.com/news/2026/8/4/why-are-the-washington-wildfires-so-severe-spokane-fires-explained?traffic_source=rss)
 
 ---
 
-### 8. Salvadoran man dies in ICE custody at New Jersey detention centre
+### 8. Bodycam video shows firefighters battling blaze in Spokane, US
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Second Delaney Hall detainee death in eight months prompts calls to close facility, demands for answers.
+Bodycam footage from firefighters shows the speed needed to put out the blaze sweeping through the northwestern US.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/4/salvadoran-man-dies-in-ice-custody-at-new-jersey-detention-centre?traffic_source=rss](https://www.aljazeera.com/news/2026/8/4/salvadoran-man-dies-in-ice-custody-at-new-jersey-detention-centre?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/4/bodycam-video-shows-firefighters-battling-blaze-in-spokane-us?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/4/bodycam-video-shows-firefighters-battling-blaze-in-spokane-us?traffic_source=rss)
 
 ---
 
-### 9. US stocks near record high, oil falls as Trump claims Iran talks under way
+### 9. Colombia’s Petro repeats vote fraud claims days before handing over power
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Benchmark S&amp;P500 approaches all-time peak as Washington, Tehran offer conflicting accounts of status of talks.
+Petro accuses programmers of altering vote counts and claims metadata tied to election results was hidden from review.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/4/us-stocks-near-record-high-oil-falls-as-trump-claims-iran-talks-underway?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/4/us-stocks-near-record-high-oil-falls-as-trump-claims-iran-talks-underway?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/4/colombias-petro-repeats-vote-fraud-claims-days-before-handing-over-power?traffic_source=rss](https://www.aljazeera.com/news/2026/8/4/colombias-petro-repeats-vote-fraud-claims-days-before-handing-over-power?traffic_source=rss)
 
 ---
 

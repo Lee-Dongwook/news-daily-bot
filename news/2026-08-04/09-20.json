@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-04T09:20:43+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Myth, the Mythos, and the Man",
+            "description": "<p>Article URL: <a href=\"https://om.co/2026/06/07/the-myth-the-mythos-and-the-man/\">https://om.co/2026/06/07/the-myth-the-mythos-and-the-man/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49163380\">https://news.ycombinator.com/item?id=49163380</a></p>\n<p>Points: 8</p>\n<p># Comments: 0</p>",
+            "url": "https://om.co/2026/06/07/the-myth-the-mythos-and-the-man/",
+            "published": "Tue, 04 Aug 2026 01:22:35 +0000",
+            "fetched": "2026-08-04T09:20:43+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Why did we wait so long for the bicycle? (2019)",
+            "description": "<p>Article URL: <a href=\"https://blog.rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle\">https://blog.rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49162787\">https://news.ycombinator.com/item?id=49162787</a></p>\n<p>Points: 23</p>\n<p># Comments: 12</p>",
+            "url": "https://blog.rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle",
+            "published": "Mon, 03 Aug 2026 23:44:19 +0000",
+            "fetched": "2026-08-04T09:20:43+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "There Will Come Soft Rains (1950) [pdf]",
+            "description": "<p>Article URL: <a href=\"https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf\">https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49162653\">https://news.ycombinator.com/item?id=49162653</a></p>\n<p>Points: 93</p>\n<p># Comments: 36</p>",
+            "url": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
+            "published": "Mon, 03 Aug 2026 23:24:53 +0000",
+            "fetched": "2026-08-04T09:20:43+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "PC Harper's mother 'devastated' his killers set for early release under revised plans",
+            "description": "Rapists and child sex offenders will be barred from the scheme, which will restart in October, the government says.",
+            "url": "https://www.bbc.co.uk/news/articles/c20e15d0z6zo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 04 Aug 2026 00:50:33 GMT",
+            "fetched": "2026-08-04T09:20:43+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Breast cancer checks missing most women under 50 who are at risk, says study",
+            "description": "Up to 95% of younger women who are at higher risk of developing breast cancer are being missed by current NHS checks, researchers warn.",
+            "url": "https://www.bbc.co.uk/news/articles/ckgv652r625o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 04 Aug 2026 01:08:13 GMT",
+            "fetched": "2026-08-04T09:20:43+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "EU calls for stronger borders after Ceuta migrant crossings",
+            "description": "Ursula von der Leyen has called for action ahead of an urgent EU interior ministers meeting to discuss the issue.",
+            "url": "https://www.bbc.co.uk/news/articles/cyvl84zmgyro?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 03 Aug 2026 21:43:10 GMT",
+            "fetched": "2026-08-04T09:20:43+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why are the Washington wildfires so severe? Spokane fires explained",
+            "description": "Why Spokane&#039;s wildfires spread so fast, what caused them and why Washington is facing a major fire crisis.",
+            "url": "https://www.aljazeera.com/news/2026/8/4/why-are-the-washington-wildfires-so-severe-spokane-fires-explained?traffic_source=rss",
+            "published": "Tue, 04 Aug 2026 05:03:44 +0000",
+            "fetched": "2026-08-04T09:20:43+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Bodycam video shows firefighters battling blaze in Spokane, US",
+            "description": "Bodycam footage from firefighters shows the speed needed to put out the blaze sweeping through the northwestern US.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/bodycam-video-shows-firefighters-battling-blaze-in-spokane-us?traffic_source=rss",
+            "published": "Tue, 04 Aug 2026 04:22:28 +0000",
+            "fetched": "2026-08-04T09:20:43+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Colombia’s Petro repeats vote fraud claims days before handing over power",
+            "description": "Petro accuses programmers of altering vote counts and claims metadata tied to election results was hidden from review.",
+            "url": "https://www.aljazeera.com/news/2026/8/4/colombias-petro-repeats-vote-fraud-claims-days-before-handing-over-power?traffic_source=rss",
+            "published": "Tue, 04 Aug 2026 03:58:09 +0000",
+            "fetched": "2026-08-04T09:20:43+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Middle Coulee, Chouteau, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22101",
+            "published": "2026-08-02T22:17:00Z",
+            "fetched": "2026-08-04T09:20:43+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Antelope Creek, Elko, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22108",
+            "published": "2026-08-02T14:31:00Z",
+            "fetched": "2026-08-04T09:20:43+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Bluegill, Miami-Dade, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22105",
+            "published": "2026-08-02T12:47:00Z",
+            "fetched": "2026-08-04T09:20:43+03:30"
+        }
+    ]
+}

@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-04 12:12:16
+**Last Update:** 2026-08-04 13:35:49
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. NHS apologises and admits Palantir have access to identifiable patient data
+### 1. FFmpeg 9.0
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.publictechnology.net/2026/08/03/health-and-social-care/nhs-apologises-and-admits-palantir-engineers-have-access-to-identifiable-patient-data/">https://www.publictechnology.net/2026/08/03/health-and-social-care/nhs-apologises-and-admits-palantir-engineers-have-access-to-identifiable-patient-data/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49165775">https://news.ycombinator.com/item?id=49165775</a></p>
-<p>Points: 38</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES">https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49166202">https://news.ycombinator.com/item?id=49166202</a></p>
+<p>Points: 63</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://www.publictechnology.net/2026/08/03/health-and-social-care/nhs-apologises-and-admits-palantir-engineers-have-access-to-identifiable-patient-data/](https://www.publictechnology.net/2026/08/03/health-and-social-care/nhs-apologises-and-admits-palantir-engineers-have-access-to-identifiable-patient-data/)
+🔗 **Read more:** [https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES](https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES)
 
 ---
 
-### 2. CollectWise (YC F24) Is Hiring
+### 2. Bending Spoons makes first post-IPO acquisition with $1.3B Airtable deal
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.ycombinator.com/companies/collectwise/jobs/oEAfzBS-ai-agent-engineer">https://www.ycombinator.com/companies/collectwise/jobs/oEAfzBS-ai-agent-engineer</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49165170">https://news.ycombinator.com/item?id=49165170</a></p>
-<p>Points: 0</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://live.euronext.com/en/financial-news/bending-spoons-makes-first-post-ipo-acquisition-13-billion-airtable-deal">https://live.euronext.com/en/financial-news/bending-spoons-makes-first-post-ipo-acquisition-13-billion-airtable-deal</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49166182">https://news.ycombinator.com/item?id=49166182</a></p>
+<p>Points: 10</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://www.ycombinator.com/companies/collectwise/jobs/oEAfzBS-ai-agent-engineer](https://www.ycombinator.com/companies/collectwise/jobs/oEAfzBS-ai-agent-engineer)
+🔗 **Read more:** [https://live.euronext.com/en/financial-news/bending-spoons-makes-first-post-ipo-acquisition-13-billion-airtable-deal](https://live.euronext.com/en/financial-news/bending-spoons-makes-first-post-ipo-acquisition-13-billion-airtable-deal)
 
 ---
 
-### 3. Harness Engineering for Self-Improvement
+### 3. You don't need React: creating a minimal UI library in Vanilla JavaScript
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://lilianweng.github.io/posts/2026-07-04-harness/">https://lilianweng.github.io/posts/2026-07-04-harness/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49164896">https://news.ycombinator.com/item?id=49164896</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://pedroth.github.io/?p=post/NoNeedReact">https://pedroth.github.io/?p=post/NoNeedReact</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49165665">https://news.ycombinator.com/item?id=49165665</a></p>
+<p>Points: 24</p>
+<p># Comments: 13</p>
 
-🔗 **Read more:** [https://lilianweng.github.io/posts/2026-07-04-harness/](https://lilianweng.github.io/posts/2026-07-04-harness/)
+🔗 **Read more:** [https://pedroth.github.io/?p=post/NoNeedReact](https://pedroth.github.io/?p=post/NoNeedReact)
 
 ---
 
@@ -97,81 +97,42 @@ As child immunisation rates fall across the UK, one clinic in west Yorkshire is 
 
 ---
 
-### 7. Nascimento: UFC fighter dead at 34 after apparent heart attack
+### 7. US primaries: What to watch in Kansas, Missouri, Virginia, Washington
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The Brazilian fighter died in his sleep after a suspected heart attack, the UFC said.
+From House battlegrounds to party fights and Trump&#039;s influence, here are the races to follow during Tuesday&#039;s primaries.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/4/ufcs-allan-nascimento-dead-aged-34-after-apparent-heart-attack?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/4/ufcs-allan-nascimento-dead-aged-34-after-apparent-heart-attack?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/4/us-primaries-what-to-watch-in-kansas-missouri-virginia-washington?traffic_source=rss](https://www.aljazeera.com/news/2026/8/4/us-primaries-what-to-watch-in-kansas-missouri-virginia-washington?traffic_source=rss)
 
 ---
 
-### 8. Palestine weekly: Israel kills dozens in Gaza after Hamas disarmament deal
+### 8. Cars burn in reported settler attack in occupied West Bank
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli strikes on Gaza only intensified in the days following a US-brokered agreement billed as a &#039;breakthrough&#039;.
+Cars burn in reported settler attack in occupied West Bank
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/4/palestine-weekly-israel-kills-dozens-in-gaza-after-hamas-disarmament-deal?traffic_source=rss](https://www.aljazeera.com/news/2026/8/4/palestine-weekly-israel-kills-dozens-in-gaza-after-hamas-disarmament-deal?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/4/cars-burn-in-reported-settler-attack-in-occupied-west-bank?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/4/cars-burn-in-reported-settler-attack-in-occupied-west-bank?traffic_source=rss)
 
 ---
 
-### 9. Why are the Washington wildfires so severe? Spokane fires explained
+### 9. We demand accountability for the Beirut blast
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Why Spokane&#039;s wildfires spread so fast, what caused them and why Washington is facing a major fire crisis.
+Six years after the explosion, the domestic investigation is complete, but an indictment is yet to be issued.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/4/why-are-the-washington-wildfires-so-severe-spokane-fires-explained?traffic_source=rss](https://www.aljazeera.com/news/2026/8/4/why-are-the-washington-wildfires-so-severe-spokane-fires-explained?traffic_source=rss)
-
----
-
-### 10. Wildfire Middle Coulee, Chouteau, Montana
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22101](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22101)
-
----
-
-### 11. Wildfire Antelope Creek, Elko, Nevada
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22108](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22108)
-
----
-
-### 12. Wildfire Bluegill, Miami-Dade, Florida
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22105](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22105)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/4/we-demand-accountability-for-the-beirut-blast?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/4/we-demand-accountability-for-the-beirut-blast?traffic_source=rss)
 
 ---
 

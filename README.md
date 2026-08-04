@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-04 15:53:24
+**Last Update:** 2026-08-04 17:52:43
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/">https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49167448">https://news.ycombinator.com/item?id=49167448</a></p>
-<p>Points: 22</p>
-<p># Comments: 3</p>
+<p>Points: 215</p>
+<p># Comments: 209</p>
 
 🔗 **Read more:** [https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/](https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.bfi.org/about-fuller/everything-i-know/">https://www.bfi.org/about-fuller/everything-i-know/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49167147">https://news.ycombinator.com/item?id=49167147</a></p>
-<p>Points: 11</p>
-<p># Comments: 6</p>
+<p>Points: 48</p>
+<p># Comments: 17</p>
 
 🔗 **Read more:** [https://www.bfi.org/about-fuller/everything-i-know/](https://www.bfi.org/about-fuller/everything-i-know/)
 
@@ -71,7 +71,20 @@ The boat was attempting to cross to the UK when its engine caught fire, accordin
 
 ---
 
-### 5. Afghan boxer arrested in Greece over discovery of Scottish woman's body in suitcase
+### 5. Prison overcrowding crisis limits ability to cut early releases, minister says
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Some offenders will be barred from the scheme, but those guilty of manslaughter may be eligible, leaving PC Harper's family "devastated".
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c20e15d0z6zo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c20e15d0z6zo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Afghan boxer arrested in Greece over discovery of Scottish woman's body in suitcase
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ Sharif Ahmadzai, from Afghanistan, is expected to appear in court in Athens on W
 
 ---
 
-### 6. Analysis: Trump challenged by cold reality from top allies
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-A president used to bending US politics to his will faces two stinging losses in a matter of days, writes the BBC's Anthony Zurcher.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cgjed2q2l0xo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cgjed2q2l0xo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. DR Congo Ebola outbreak kills more than 1,700 as WHO accelerates trials
+### 7. Spanish PM Sanchez faces criticism as EU meets over Ceuta crossings
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The outbreak is concentrated in the province of Ituri, which accounts for nearly 90 percent of reported cases.
+The vast majority of migrants have left the North African enclave and returned to Morocco.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/4/dr-congo-ebola-outbreak-kills-more-than-1700-as-who-accelerates-trials?traffic_source=rss](https://www.aljazeera.com/news/2026/8/4/dr-congo-ebola-outbreak-kills-more-than-1700-as-who-accelerates-trials?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/4/spanish-pm-sanchez-faces-criticism-as-eu-meets-over-ceuta-crossings?traffic_source=rss](https://www.aljazeera.com/news/2026/8/4/spanish-pm-sanchez-faces-criticism-as-eu-meets-over-ceuta-crossings?traffic_source=rss)
 
 ---
 
-### 8. Ex-Arsenal boss Wenger was ‘not aware’ of Infantino’s FIFA plan
+### 8. Top Africa football leaders back Infantino after FIFA selloff scandal
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-FIFA executive Arsene Wenger backs decision to drop FIFA President Gianni Infantino&#039;s World Cup sell-off plan.
+Five influential African football leaders back Gianni Infantino amid World Cup private investment row.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/4/ex-arsenal-boss-wenger-was-not-aware-of-infantinos-fifa-plan?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/4/ex-arsenal-boss-wenger-was-not-aware-of-infantinos-fifa-plan?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/4/top-africa-football-leaders-back-infantino-after-fifa-selloff-scandal?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/4/top-africa-football-leaders-back-infantino-after-fifa-selloff-scandal?traffic_source=rss)
 
 ---
 
-### 9. Nine killed in escalating long-range strikes between Russia and Ukraine
+### 9. Hamas negotiator says deal to disarm was necessary to ‘save Gaza’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Missile and drone strikes far beyond the front lines are causing a mounting civilian death toll in both countries.
+Hamas negotiator says deal to disarm was necessary to ‘save Gaza’
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/4/nine-killed-in-escalating-long-range-strikes-between-russia-and-ukraine?traffic_source=rss](https://www.aljazeera.com/news/2026/8/4/nine-killed-in-escalating-long-range-strikes-between-russia-and-ukraine?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/4/hamas-negotiator-says-deal-to-disarm-was-necessary-to-save?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/4/hamas-negotiator-says-deal-to-disarm-was-necessary-to-save?traffic_source=rss)
 
 ---
 

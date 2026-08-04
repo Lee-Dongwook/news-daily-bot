@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-08-04T22:10:25+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: cMCP, deny an AI agent's tool call and get a signed receipt",
+            "description": "<p>Article URL: <a href=\"https://github.com/agentrust-io/cmcp\">https://github.com/agentrust-io/cmcp</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49172545\">https://news.ycombinator.com/item?id=49172545</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+            "url": "https://github.com/agentrust-io/cmcp",
+            "published": "Tue, 04 Aug 2026 18:06:08 +0000",
+            "fetched": "2026-08-04T22:10:25+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Judgment Reservoir",
+            "description": "<p>Article URL: <a href=\"https://shannph.com/writing/the-judgment-reservoir/\">https://shannph.com/writing/the-judgment-reservoir/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49172540\">https://news.ycombinator.com/item?id=49172540</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+            "url": "https://shannph.com/writing/the-judgment-reservoir/",
+            "published": "Tue, 04 Aug 2026 18:05:41 +0000",
+            "fetched": "2026-08-04T22:10:25+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "AI Data Centers Are Driving Up Power Bills – This Map Shows Where",
+            "description": "<p>Article URL: <a href=\"https://www.gadgetreview.com/ai-data-centers-are-driving-up-power-bills-this-map-shows-where\">https://www.gadgetreview.com/ai-data-centers-are-driving-up-power-bills-this-map-shows-where</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49172433\">https://news.ycombinator.com/item?id=49172433</a></p>\n<p>Points: 22</p>\n<p># Comments: 1</p>",
+            "url": "https://www.gadgetreview.com/ai-data-centers-are-driving-up-power-bills-this-map-shows-where",
+            "published": "Tue, 04 Aug 2026 17:57:15 +0000",
+            "fetched": "2026-08-04T22:10:25+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
+            "description": "Ukraine said the video - showing a terrified civilian being hounded by a remotely-controlled drone - amounted to a war crime.",
+            "url": "https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 04 Aug 2026 17:26:06 GMT",
+            "fetched": "2026-08-04T22:10:25+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "More than 170 migrants rescued after boat catches fire in Channel",
+            "description": "The government says all of the migrants, who were attempting to cross to the UK, will be returned to France.",
+            "url": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 04 Aug 2026 17:25:41 GMT",
+            "fetched": "2026-08-04T22:10:25+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Afghan boxer arrested in Greece over discovery of Scottish woman's body in suitcase",
+            "description": "Sharif Ahmadzai, from Afghanistan, is expected to appear in court in Athens on Wednesday.",
+            "url": "https://www.bbc.co.uk/news/articles/c0m7xpr8zvvo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 04 Aug 2026 17:33:13 GMT",
+            "fetched": "2026-08-04T22:10:25+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why did the US economy slow down?",
+            "description": "The US economy slowed more than expected, but it&#039;s not because Americans stopped spending. So what really happened?",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/why-did-the-us-economy-slow-down?traffic_source=rss",
+            "published": "Tue, 04 Aug 2026 18:17:58 +0000",
+            "fetched": "2026-08-04T22:10:25+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israel election pressure fuels settlement push as West Bank violence surges",
+            "description": "Analysts point to uptick in activity of settlement movement as it bids to entrench West Bank chokehold.",
+            "url": "https://www.aljazeera.com/news/2026/8/4/israel-election-pressure-fuels-settlement-push-as-west-bank-violence-surges?traffic_source=rss",
+            "published": "Tue, 04 Aug 2026 18:08:08 +0000",
+            "fetched": "2026-08-04T22:10:25+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Three lions die in Tokyo zoo as heatwave scorches East Asia",
+            "description": "A record-breaking heatwave stretching across East Asia is straining animals, health systems and people.",
+            "url": "https://www.aljazeera.com/news/2026/8/4/three-lionesses-die-in-tokyo-zoo-as-heatwave-scorches-east-asia?traffic_source=rss",
+            "published": "Tue, 04 Aug 2026 17:50:06 +0000",
+            "fetched": "2026-08-04T22:10:25+03:30"
+        }
+    ]
+}

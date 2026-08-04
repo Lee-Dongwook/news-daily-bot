@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-04 20:40:15
+**Last Update:** 2026-08-04 22:10:25
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Truemetrics (YC S23) Is Hiring in Berlin – GTM Lead
+### 1. Show HN: cMCP, deny an AI agent's tool call and get a signed receipt
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.ycombinator.com/companies/truemetrics/jobs/bIQQ7tP-founding-gtm-lead">https://www.ycombinator.com/companies/truemetrics/jobs/bIQQ7tP-founding-gtm-lead</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49171650">https://news.ycombinator.com/item?id=49171650</a></p>
-<p>Points: 0</p>
+<p>Article URL: <a href="https://github.com/agentrust-io/cmcp">https://github.com/agentrust-io/cmcp</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49172545">https://news.ycombinator.com/item?id=49172545</a></p>
+<p>Points: 5</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.ycombinator.com/companies/truemetrics/jobs/bIQQ7tP-founding-gtm-lead](https://www.ycombinator.com/companies/truemetrics/jobs/bIQQ7tP-founding-gtm-lead)
+🔗 **Read more:** [https://github.com/agentrust-io/cmcp](https://github.com/agentrust-io/cmcp)
 
 ---
 
-### 2. Webb telescope finds signs of ancient disaster for Neptune's moons
+### 2. The Judgment Reservoir
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.reuters.com/science/webb-telescope-finds-signs-ancient-disaster-neptunes-moons-2026-08-03/">https://www.reuters.com/science/webb-telescope-finds-signs-ancient-disaster-neptunes-moons-2026-08-03/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49171172">https://news.ycombinator.com/item?id=49171172</a></p>
-<p>Points: 11</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://shannph.com/writing/the-judgment-reservoir/">https://shannph.com/writing/the-judgment-reservoir/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49172540">https://news.ycombinator.com/item?id=49172540</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.reuters.com/science/webb-telescope-finds-signs-ancient-disaster-neptunes-moons-2026-08-03/](https://www.reuters.com/science/webb-telescope-finds-signs-ancient-disaster-neptunes-moons-2026-08-03/)
+🔗 **Read more:** [https://shannph.com/writing/the-judgment-reservoir/](https://shannph.com/writing/the-judgment-reservoir/)
 
 ---
 
-### 3. When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation
+### 3. AI Data Centers Are Driving Up Power Bills – This Map Shows Where
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://arxiv.org/abs/2602.16763">https://arxiv.org/abs/2602.16763</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49170915">https://news.ycombinator.com/item?id=49170915</a></p>
-<p>Points: 21</p>
-<p># Comments: 11</p>
+<p>Article URL: <a href="https://www.gadgetreview.com/ai-data-centers-are-driving-up-power-bills-this-map-shows-where">https://www.gadgetreview.com/ai-data-centers-are-driving-up-power-bills-this-map-shows-where</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49172433">https://news.ycombinator.com/item?id=49172433</a></p>
+<p>Points: 22</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://arxiv.org/abs/2602.16763](https://arxiv.org/abs/2602.16763)
+🔗 **Read more:** [https://www.gadgetreview.com/ai-data-centers-are-driving-up-power-bills-this-map-shows-where](https://www.gadgetreview.com/ai-data-centers-are-driving-up-power-bills-this-map-shows-where)
 
 ---
 
@@ -97,81 +97,42 @@ Sharif Ahmadzai, from Afghanistan, is expected to appear in court in Athens on W
 
 ---
 
-### 7. Gaza holds mass funeral for 112 people killed in Israel’s 2023 Sabra attack
+### 7. Why did the US economy slow down?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Thousands join to bury remains after they were recovered from rubble of homes destroyed during Israel’s genocidal war.
+The US economy slowed more than expected, but it&#039;s not because Americans stopped spending. So what really happened?
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/4/gaza-holds-mass-funeral-for-112-people-killed-in-israels-2023-sabra-attack?traffic_source=rss](https://www.aljazeera.com/news/2026/8/4/gaza-holds-mass-funeral-for-112-people-killed-in-israels-2023-sabra-attack?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/4/why-did-the-us-economy-slow-down?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/4/why-did-the-us-economy-slow-down?traffic_source=rss)
 
 ---
 
-### 8. EU offers emergency aid to Spain to strengthen Ceuta border
+### 8. Israel election pressure fuels settlement push as West Bank violence surges
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-EU offers Spain border assistance after emergency meeting over influx of more than 70,000 migrants into Ceuta last week
+Analysts point to uptick in activity of settlement movement as it bids to entrench West Bank chokehold.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/4/eu-offers-emergency-aid-to-spain-to-strengthen-ceuta-border?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/4/eu-offers-emergency-aid-to-spain-to-strengthen-ceuta-border?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/4/israel-election-pressure-fuels-settlement-push-as-west-bank-violence-surges?traffic_source=rss](https://www.aljazeera.com/news/2026/8/4/israel-election-pressure-fuels-settlement-push-as-west-bank-violence-surges?traffic_source=rss)
 
 ---
 
-### 9. Ivory Coast reappoint Herve Renard for attempt at repeat of AFCON title
+### 9. Three lions die in Tokyo zoo as heatwave scorches East Asia
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Former Saudi Arabia and Tunisia coach Herve Renard returns to Ivory Coast in attempt to repeat 2015 AFCON success.
+A record-breaking heatwave stretching across East Asia is straining animals, health systems and people.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/4/ivory-coast-reappoint-herve-renard-for-attempt-at-repeat-of-afcon-title?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/4/ivory-coast-reappoint-herve-renard-for-attempt-at-repeat-of-afcon-title?traffic_source=rss)
-
----
-
-### 10. Wildfire Middle Coulee, Chouteau, Montana
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22101](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22101)
-
----
-
-### 11. Wildfire Antelope Creek, Elko, Nevada
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22108](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22108)
-
----
-
-### 12. Wildfire Bluegill, Miami-Dade, Florida
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22105](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22105)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/4/three-lionesses-die-in-tokyo-zoo-as-heatwave-scorches-east-asia?traffic_source=rss](https://www.aljazeera.com/news/2026/8/4/three-lionesses-die-in-tokyo-zoo-as-heatwave-scorches-east-asia?traffic_source=rss)
 
 ---
 

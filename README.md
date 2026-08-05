@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-05 03:36:37
+**Last Update:** 2026-08-05 04:21:58
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay
+### 1. Zigbee vs. Matter over Thread:Understanding IoT Protocol Performance in Practice
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/">https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49176697">https://news.ycombinator.com/item?id=49176697</a></p>
+<p>Article URL: <a href="https://arxiv.org/abs/2603.04221">https://arxiv.org/abs/2603.04221</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49176983">https://news.ycombinator.com/item?id=49176983</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://arxiv.org/abs/2603.04221](https://arxiv.org/abs/2603.04221)
+
+---
+
+### 2. Bugtraq Is Back
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/">https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49176947">https://news.ycombinator.com/item?id=49176947</a></p>
 <p>Points: 4</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/](https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/)
+🔗 **Read more:** [https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/](https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/)
 
 ---
 
-### 2. Pass the Passkey: A Novel Attack Surface in Passwordless Authentication
+### 3. Eight Myths on Software Engineering and GenAI
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/">https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49176644">https://news.ycombinator.com/item?id=49176644</a></p>
-<p>Points: 6</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://queue.acm.org/detail.cfm?id=3807963">https://queue.acm.org/detail.cfm?id=3807963</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49176830">https://news.ycombinator.com/item?id=49176830</a></p>
+<p>Points: 11</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/](https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/)
-
----
-
-### 3. FIPS 140-3 is not a security guarantee, and auditors know it
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://808bits.com/articles/fips-140-3-not-a-security-guarantee/">https://808bits.com/articles/fips-140-3-not-a-security-guarantee/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49176634">https://news.ycombinator.com/item?id=49176634</a></p>
-<p>Points: 8</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://808bits.com/articles/fips-140-3-not-a-security-guarantee/](https://808bits.com/articles/fips-140-3-not-a-security-guarantee/)
+🔗 **Read more:** [https://queue.acm.org/detail.cfm?id=3807963](https://queue.acm.org/detail.cfm?id=3807963)
 
 ---
 
@@ -97,20 +97,33 @@ A terminally-ill man was offered the drugs by a stair lift salesman claiming the
 
 ---
 
-### 7. US revokes visa of Brazilian ambassador amid deepening diplomatic spat
+### 7. Iran war live: Tehran-Oman talks on Hormuz ‘positive’; ship hit in Red Sea
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-An official has indicated that the visa revocation would not mean that Brazil&#039;s ambassador will be expelled from the US.
+Iran says talks with Oman are proceeding &#039;positively&#039; as US officials say a deal could be possible soon.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/8/5/iran-war-live-tehran-oman-talks-on-hormuz-positive-ship-hit-in-red-sea?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/8/5/iran-war-live-tehran-oman-talks-on-hormuz-positive-ship-hit-in-red-sea?traffic_source=rss)
+
+---
+
+### 8. US revokes visa of Brazilian ambassador amid deepening diplomatic spat
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+An official has indicated that the visa revocation does not mean Brazil&#039;s ambassador will be expelled from the US.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/4/us-revokes-visa-of-brazilian-ambassador-amid-deepening-diplomatic-spat?traffic_source=rss](https://www.aljazeera.com/news/2026/8/4/us-revokes-visa-of-brazilian-ambassador-amid-deepening-diplomatic-spat?traffic_source=rss)
 
 ---
 
-### 8. Sri Lanka shuts schools as floods and mudslides kill 7
+### 9. Sri Lanka shuts schools as floods and mudslides kill 7
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ An official has indicated that the visa revocation would not mean that Brazil&#0
 Torrential rains and flooding have damaged 129 houses and forced the evacuation of nearly 3,500 people, officials say.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/4/sri-lanka-shuts-schools-as-floods-and-mudslides-kill-7?traffic_source=rss](https://www.aljazeera.com/news/2026/8/4/sri-lanka-shuts-schools-as-floods-and-mudslides-kill-7?traffic_source=rss)
-
----
-
-### 9. Russia strikes Ukrainian capital Kyiv with ballistic missiles
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The latest attack comes after at least 27 people were killed in both Russia and Ukraine earlier this week.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/4/russia-strikes-ukrainian-capital-kyiv-with-ballistic-missiles?traffic_source=rss](https://www.aljazeera.com/news/2026/8/4/russia-strikes-ukrainian-capital-kyiv-with-ballistic-missiles?traffic_source=rss)
 
 ---
 

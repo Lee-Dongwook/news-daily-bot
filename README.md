@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-05 14:26:46
+**Last Update:** 2026-08-05 16:26:00
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. The software group Palantir paid just £2M in corporation tax in the UK in 2024
+### 1. Iowa asks OpenAI to keep their bots sandboxed
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.theguardian.com/technology/2026/aug/05/palantir-corporation-tax-uk-2024-accounting-practices">https://www.theguardian.com/technology/2026/aug/05/palantir-corporation-tax-uk-2024-accounting-practices</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49180535">https://news.ycombinator.com/item?id=49180535</a></p>
-<p>Points: 24</p>
-<p># Comments: 22</p>
+<p>Article URL: <a href="https://www.iowaattorneygeneral.gov/newsroom/attorney-general-brenna-bird-leads-coalition-demanding-transparency-from-openai-after-ai-breach-and">https://www.iowaattorneygeneral.gov/newsroom/attorney-general-brenna-bird-leads-coalition-demanding-transparency-from-openai-after-ai-breach-and</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49182052">https://news.ycombinator.com/item?id=49182052</a></p>
+<p>Points: 9</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.theguardian.com/technology/2026/aug/05/palantir-corporation-tax-uk-2024-accounting-practices](https://www.theguardian.com/technology/2026/aug/05/palantir-corporation-tax-uk-2024-accounting-practices)
+🔗 **Read more:** [https://www.iowaattorneygeneral.gov/newsroom/attorney-general-brenna-bird-leads-coalition-demanding-transparency-from-openai-after-ai-breach-and](https://www.iowaattorneygeneral.gov/newsroom/attorney-general-brenna-bird-leads-coalition-demanding-transparency-from-openai-after-ai-breach-and)
 
 ---
 
-### 2. Helsinki Hacker News Meetup
+### 2. TIME Is Serving AI Bots a Different Website, with Ads Built In
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://calpaterson.com/helsinki-hn.html">https://calpaterson.com/helsinki-hn.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49180407">https://news.ycombinator.com/item?id=49180407</a></p>
-<p>Points: 37</p>
-<p># Comments: 12</p>
+<p>Article URL: <a href="https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/">https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49182041">https://news.ycombinator.com/item?id=49182041</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://calpaterson.com/helsinki-hn.html](https://calpaterson.com/helsinki-hn.html)
+🔗 **Read more:** [https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/](https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/)
 
 ---
 
-### 3. Zero-Mem: Zero-Token Memory Operations for LLM Agents
+### 3. Three Six Mafia – Data about "6/6/6 dating" (2024)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://arxiv.org/abs/2607.29377">https://arxiv.org/abs/2607.29377</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49178608">https://news.ycombinator.com/item?id=49178608</a></p>
-<p>Points: 46</p>
-<p># Comments: 9</p>
+<p>Article URL: <a href="https://divingintheshallowend.com/three-six-mafia/">https://divingintheshallowend.com/three-six-mafia/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49181678">https://news.ycombinator.com/item?id=49181678</a></p>
+<p>Points: 70</p>
+<p># Comments: 36</p>
 
-🔗 **Read more:** [https://arxiv.org/abs/2607.29377](https://arxiv.org/abs/2607.29377)
+🔗 **Read more:** [https://divingintheshallowend.com/three-six-mafia/](https://divingintheshallowend.com/three-six-mafia/)
 
 ---
 
@@ -84,55 +84,55 @@ Joshua Bonehill-Paine was jailed over neo-Nazi activism, but has been selected t
 
 ---
 
-### 6. Dewormer and scabies drugs being sold as cancer treatments, BBC investigation finds
+### 6. Anthropic AI created fake profiles and impersonated people in attempted hack
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-A terminally ill patient was offered the drugs by a stair lift salesman claiming they could shrink tumours.
+The UK's AI Safety Institute said recent behaviour from Anthropic and OpenAI models was malicious and unprecedented.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c0m7wvpwjzeo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c0m7wvpwjzeo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c1w1lvn7d9go?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c1w1lvn7d9go?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Israeli raid deepens fears across West Bank refugee camps
+### 7. Mohamed Salah lands in Turkiye to fan frenzy ahead of Trabzonspor move
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli raid deepens fears across West Bank refugee camps
+Mohamed Salah lands in Turkiye to fan frenzy ahead of Trabzonspor move.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/5/israeli-raid-deepens-fears-across-west-bank-refugee-camps?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/5/israeli-raid-deepens-fears-across-west-bank-refugee-camps?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/5/mohamed-salah-lands-in-turkiye-to-fan-frenzy-ahead-of-trabzonspor-move?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/5/mohamed-salah-lands-in-turkiye-to-fan-frenzy-ahead-of-trabzonspor-move?traffic_source=rss)
 
 ---
 
-### 8. India’s severe monsoon season causes more than 100 deaths since July
+### 8. In Bandar Abbas, the ceasefire never came
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Monsoon downpours cause floods and landslides as climate change and El Nino disrupt rainfall patterns.
+A single mother from Bandar Abbas reflects on the fear and resilience of living through repeated attacks.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/5/indias-severe-monsoon-season-causes-more-than-100-deaths-since-july?traffic_source=rss](https://www.aljazeera.com/news/2026/8/5/indias-severe-monsoon-season-causes-more-than-100-deaths-since-july?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/5/in-bandar-abbas-the-ceasefire-never-came?traffic_source=rss](https://www.aljazeera.com/features/2026/8/5/in-bandar-abbas-the-ceasefire-never-came?traffic_source=rss)
 
 ---
 
-### 9. How Israeli restrictions on Palestinians’ movement break up the West Bank
+### 9. Iran, Oman, US ‘close’ to Hormuz deal: What do they all want?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-While barriers to free movement make the lives of Palestinians extremely difficult, they do not make Israel more secure.
+An agreement could restore shipping through crucial waterway, paving way for peace talks between Tehran and Washington.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/5/how-israeli-restrictions-on-palestinians-movement-break-up-the-west-bank?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/5/how-israeli-restrictions-on-palestinians-movement-break-up-the-west-bank?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/5/iran-oman-us-close-to-hormuz-deal-what-do-they-all-want?traffic_source=rss](https://www.aljazeera.com/news/2026/8/5/iran-oman-us-close-to-hormuz-deal-what-do-they-all-want?traffic_source=rss)
 
 ---
 

@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-06 00:44:16
+**Last Update:** 2026-08-06 01:09:42
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://runarcn.no/android-to-linux/">https://runarcn.no/android-to-linux/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49188022">https://news.ycombinator.com/item?id=49188022</a></p>
-<p>Points: 25</p>
-<p># Comments: 9</p>
+<p>Points: 45</p>
+<p># Comments: 25</p>
 
 🔗 **Read more:** [https://runarcn.no/android-to-linux/](https://runarcn.no/android-to-linux/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/">https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49187977">https://news.ycombinator.com/item?id=49187977</a></p>
-<p>Points: 98</p>
-<p># Comments: 34</p>
+<p>Points: 120</p>
+<p># Comments: 61</p>
 
 🔗 **Read more:** [https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/](https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2">https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49187575">https://news.ycombinator.com/item?id=49187575</a></p>
-<p>Points: 82</p>
-<p># Comments: 48</p>
+<p>Points: 91</p>
+<p># Comments: 54</p>
 
 🔗 **Read more:** [https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2](https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2)
 
@@ -97,7 +97,33 @@ Prof Jason Arday said he had "concluded that the only way to bring this chapter 
 
 ---
 
-### 7. US announces more than $100m in rewards for eight Jalisco cartel leaders
+### 7. Clashes on anniversary of Imran Khan imprisonment
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Pakistan police fired tear gas at supporters of jailed former Prime Minister Imran Khan in Rawalpindi.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/5/5-8-clip-teargas-ik-protests-pk?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/5/5-8-clip-teargas-ik-protests-pk?traffic_source=rss)
+
+---
+
+### 8. El-Sayed wins Michigan Democratic Senate primary
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Abdul el-Sayed has won Michigan’s Democratic senate primary
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/5/el-sayed-wins-michigan-democratic-senate-primary-2?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/5/el-sayed-wins-michigan-democratic-senate-primary-2?traffic_source=rss)
+
+---
+
+### 9. US announces more than $100m in rewards for eight Jalisco cartel leaders
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Prof Jason Arday said he had "concluded that the only way to bring this chapter 
 The Trump administration has sought to weaken the leadership of high-profile Mexican cartels by increasing the bounties.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/5/us-announces-more-than-100m-in-rewards-for-eight-jalisco-cartel-leaders?traffic_source=rss](https://www.aljazeera.com/news/2026/8/5/us-announces-more-than-100m-in-rewards-for-eight-jalisco-cartel-leaders?traffic_source=rss)
-
----
-
-### 8. Iran says Hormuz talks with Oman in ‘final’ stages as route approved
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The geographical coordinates of the route in the waterway have been agreed upon with Oman, according to Tehran.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/5/iran-says-hormuz-talks-with-oman-in-final-stages-as-route-approved?traffic_source=rss](https://www.aljazeera.com/news/2026/8/5/iran-says-hormuz-talks-with-oman-in-final-stages-as-route-approved?traffic_source=rss)
-
----
-
-### 9. What’s behind US Representative Massie’s claims over crisis at Ceuta?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Figures like Representative Thomas Massie have questioned whether crisis is related to US support for Morocco.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/5/whats-behind-us-representative-massies-claims-over-crisis-at-ceuta?traffic_source=rss](https://www.aljazeera.com/news/2026/8/5/whats-behind-us-representative-massies-claims-over-crisis-at-ceuta?traffic_source=rss)
 
 ---
 

@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-05 11:12:01
+**Last Update:** 2026-08-05 11:29:44
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, Al Jazeera, BBC
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/">https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49179039">https://news.ycombinator.com/item?id=49179039</a></p>
-<p>Points: 30</p>
-<p># Comments: 12</p>
+<p>Points: 42</p>
+<p># Comments: 20</p>
 
 🔗 **Read more:** [https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/](https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://arxiv.org/abs/2607.29377">https://arxiv.org/abs/2607.29377</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49178608">https://news.ycombinator.com/item?id=49178608</a></p>
-<p>Points: 18</p>
-<p># Comments: 3</p>
+<p>Points: 21</p>
+<p># Comments: 5</p>
 
 🔗 **Read more:** [https://arxiv.org/abs/2607.29377](https://arxiv.org/abs/2607.29377)
 
@@ -51,7 +51,7 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/Carloscodix/qapla">https://github.com/Carloscodix/qapla</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49178464">https://news.ycombinator.com/item?id=49178464</a></p>
-<p>Points: 16</p>
+<p>Points: 17</p>
 <p># Comments: 6</p>
 
 🔗 **Read more:** [https://github.com/Carloscodix/qapla](https://github.com/Carloscodix/qapla)
@@ -71,29 +71,29 @@ A terminally ill man was offered the drugs by a stair lift salesman claiming the
 
 ---
 
-### 5. Burnham 'looking into' conducting Epstein inquiry, says victims minister
+### 5. Russian strike kills at least 17 as Zelensky says interceptors could have saved lives
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Alex Davies-Jones tells BBC Newsnight she discussed an inquiry with the PM  when she was re-appointed as minister.
+The head of Kyiv's military administration said Russia is "once again massively attacking" the region around the city.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2jpqzwzj1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2jpqzwzj1o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Russian ballistic missile strike on Kyiv kills at least 17
+### 6. Temperatures to drop briefly ahead of potential new UK heatwave
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The head of Kyiv's military administration says Russia is "once again massively attacking" the region around the city.
+Temperatures and humidity are set to drop but, as Matt Taylor reports, respite from high heat is likely to be short-lived.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/weather/articles/czjlp07xz4vo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/weather/articles/czjlp07xz4vo?at_medium=RSS&at_campaign=rss)
 
 ---
 

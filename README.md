@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-05 07:42:54
+**Last Update:** 2026-08-05 08:07:00
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
@@ -19,14 +19,30 @@
 **Description:**
 <p>Article URL: <a href="https://www.asiae.co.kr/en/article/2026080416131786841">https://www.asiae.co.kr/en/article/2026080416131786841</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49177554">https://news.ycombinator.com/item?id=49177554</a></p>
-<p>Points: 32</p>
-<p># Comments: 17</p>
+<p>Points: 46</p>
+<p># Comments: 24</p>
 
 🔗 **Read more:** [https://www.asiae.co.kr/en/article/2026080416131786841](https://www.asiae.co.kr/en/article/2026080416131786841)
 
 ---
 
-### 2. Zigbee vs. Matter over Thread:Understanding IoT Protocol Performance in Practice
+### 2. Gallium: Why the US Cannot Produce Precision Missiles and Fully-Functional F-35s
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://sonar21.com/the-galling-gallium-chokehold-why-the-us-cannot-produce-precision-missiles-and-fully-functional-f-35s/">https://sonar21.com/the-galling-gallium-chokehold-why-the-us-cannot-produce-precision-missiles-and-fully-functional-f-35s/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49177301">https://news.ycombinator.com/item?id=49177301</a></p>
+<p>Points: 13</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://sonar21.com/the-galling-gallium-chokehold-why-the-us-cannot-produce-precision-missiles-and-fully-functional-f-35s/](https://sonar21.com/the-galling-gallium-chokehold-why-the-us-cannot-produce-precision-missiles-and-fully-functional-f-35s/)
+
+---
+
+### 3. Zigbee vs. Matter over Thread:Understanding IoT Protocol Performance in Practice
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://arxiv.org/abs/2603.04221">https://arxiv.org/abs/2603.04221</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49176983">https://news.ycombinator.com/item?id=49176983</a></p>
-<p>Points: 42</p>
-<p># Comments: 26</p>
+<p>Points: 45</p>
+<p># Comments: 30</p>
 
 🔗 **Read more:** [https://arxiv.org/abs/2603.04221](https://arxiv.org/abs/2603.04221)
-
----
-
-### 3. Bugtraq Is Back
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/">https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49176947">https://news.ycombinator.com/item?id=49176947</a></p>
-<p>Points: 29</p>
-<p># Comments: 6</p>
-
-🔗 **Read more:** [https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/](https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/)
 
 ---
 
@@ -97,7 +97,20 @@ Temperatures and humidity are set to drop but, as Matt Taylor reports, respite f
 
 ---
 
-### 7. North Korea’s Kim Yo Jong issues military threat over Japan missile test
+### 7. Bolivia sends troops to stop Brazilian gang violence along border
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Footage shows some of the more than 200 Bolivian police and military officers patrolling its border with Brazil.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/5/bolivia-sends-troops-to-stop-brazilian-gang-violence-along-border?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/5/bolivia-sends-troops-to-stop-brazilian-gang-violence-along-border?traffic_source=rss)
+
+---
+
+### 8. North Korea’s Kim Yo Jong issues military threat over Japan missile test
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ The powerful sister of North Korean leader Kim Jong Un has accused Japan of movi
 
 ---
 
-### 8. Protesters demand answers from ICE after second man dies at Delaney Hall
+### 9. Protesters demand answers from ICE after second man dies at Delaney Hall
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ The powerful sister of North Korean leader Kim Jong Un has accused Japan of movi
 Anger is growing after a 41-year-old Salvadoran man named Edwin Lopez-Cornejo died at an ICE detention centre.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/5/protesters-demand-answers-from-ice-after-second-man-dies-at-delaney-hall?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/5/protesters-demand-answers-from-ice-after-second-man-dies-at-delaney-hall?traffic_source=rss)
-
----
-
-### 9. Israel approves $37m to seize more than 70 occupied West Bank sites
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The allocated funding seeks to accelerate Israel&#039;s control of historical landmarks across the occupied West Bank.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/5/israel-approves-37m-to-seize-more-than-70-occupied-west-bank-sites?traffic_source=rss](https://www.aljazeera.com/news/2026/8/5/israel-approves-37m-to-seize-more-than-70-occupied-west-bank-sites?traffic_source=rss)
 
 ---
 

@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-05 23:09:33
+**Last Update:** 2026-08-05 23:32:03
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Muse Code and Muse Spark 1.2
+### 1. Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/">https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49187977">https://news.ycombinator.com/item?id=49187977</a></p>
+<p>Points: 14</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/](https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/)
+
+---
+
+### 2. Muse Code and Muse Spark 1.2
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2">https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49187575">https://news.ycombinator.com/item?id=49187575</a></p>
-<p>Points: 7</p>
-<p># Comments: 1</p>
+<p>Points: 34</p>
+<p># Comments: 16</p>
 
 🔗 **Read more:** [https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2](https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2)
 
 ---
 
-### 2. Sula: A Gemini protocol server written in Scryer Prolog
+### 3. Sula: A Gemini protocol server written in Scryer Prolog
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://sagredo.dev/projects/sula/">https://sagredo.dev/projects/sula/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49187259">https://news.ycombinator.com/item?id=49187259</a></p>
-<p>Points: 5</p>
+<p>Points: 11</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://sagredo.dev/projects/sula/](https://sagredo.dev/projects/sula/)
-
----
-
-### 3. Zed DeltaDB
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://zed.dev/deltadb">https://zed.dev/deltadb</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49187256">https://news.ycombinator.com/item?id=49187256</a></p>
-<p>Points: 70</p>
-<p># Comments: 12</p>
-
-🔗 **Read more:** [https://zed.dev/deltadb](https://zed.dev/deltadb)
 
 ---
 

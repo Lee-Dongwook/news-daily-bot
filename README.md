@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-05 02:02:50
+**Last Update:** 2026-08-05 03:36:37
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. AI fuels more than half of cybercrime in Africa as digital scams surge: INTERPOL
+### 1. IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/">https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49175826">https://news.ycombinator.com/item?id=49175826</a></p>
-<p>Points: 13</p>
-<p># Comments: 4</p>
-
-🔗 **Read more:** [https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/](https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/)
-
----
-
-### 2. Security Incident INC-2026-07-28-01 – UK AI Security Institute [pdf]
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://cdn.prod.website-files.com/663bd486c5e4c81588db7a1d/6a724858f7db25c81487016d_Security%20Incident%20INC-2026-07-28-01.pdf">https://cdn.prod.website-files.com/663bd486c5e4c81588db7a1d/6a724858f7db25c81487016d_Security%20Incident%20INC-2026-07-28-01.pdf</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49175717">https://news.ycombinator.com/item?id=49175717</a></p>
-<p>Points: 29</p>
-<p># Comments: 9</p>
-
-🔗 **Read more:** [https://cdn.prod.website-files.com/663bd486c5e4c81588db7a1d/6a724858f7db25c81487016d_Security%20Incident%20INC-2026-07-28-01.pdf](https://cdn.prod.website-files.com/663bd486c5e4c81588db7a1d/6a724858f7db25c81487016d_Security%20Incident%20INC-2026-07-28-01.pdf)
-
----
-
-### 3. Third-party cyber evaluations involving OpenAI models
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/">https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49175248">https://news.ycombinator.com/item?id=49175248</a></p>
-<p>Points: 16</p>
+<p>Article URL: <a href="https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/">https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49176697">https://news.ycombinator.com/item?id=49176697</a></p>
+<p>Points: 4</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/](https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/)
+🔗 **Read more:** [https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/](https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/)
+
+---
+
+### 2. Pass the Passkey: A Novel Attack Surface in Passwordless Authentication
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/">https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49176644">https://news.ycombinator.com/item?id=49176644</a></p>
+<p>Points: 6</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/](https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/)
+
+---
+
+### 3. FIPS 140-3 is not a security guarantee, and auditors know it
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://808bits.com/articles/fips-140-3-not-a-security-guarantee/">https://808bits.com/articles/fips-140-3-not-a-security-guarantee/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49176634">https://news.ycombinator.com/item?id=49176634</a></p>
+<p>Points: 8</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://808bits.com/articles/fips-140-3-not-a-security-guarantee/](https://808bits.com/articles/fips-140-3-not-a-security-guarantee/)
 
 ---
 
@@ -71,68 +71,68 @@ Ukraine said the video - showing a terrified civilian being hounded by a remotel
 
 ---
 
-### 5. More than 170 migrants rescued after boat catches fire in Channel
+### 5. Temperatures to drop briefly ahead of next UK heatwave
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The government says all of the migrants, who were attempting to cross to the UK, will be returned to France.
+Temperatures and humidity are set to drop but, as Matt Taylor reports, respite from high heat is likely to be short-lived.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/weather/articles/czjlp07xz4vo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/weather/articles/czjlp07xz4vo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Afghan boxer arrested in Greece over discovery of Scottish woman's body in suitcase
+### 6. Dewormer and scabies drugs being sold as cancer treatments, BBC investigation finds
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Sharif Ahmadzai, from Afghanistan, is expected to appear in court in Athens on Wednesday.
+A terminally-ill man was offered the drugs by a stair lift salesman claiming they could shrink tumours.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c0m7xpr8zvvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c0m7xpr8zvvo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c0m7wvpwjzeo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c0m7wvpwjzeo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. How the far right weaponised the Ceuta crisis
+### 7. US revokes visa of Brazilian ambassador amid deepening diplomatic spat
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-More than 72 migrants died trying to reach Ceuta, but within hours the tragedy had become a political flashpoint.
+An official has indicated that the visa revocation would not mean that Brazil&#039;s ambassador will be expelled from the US.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/4/how-the-far-right-weaponised-the-ceuta-crisis?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/4/how-the-far-right-weaponised-the-ceuta-crisis?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/4/us-revokes-visa-of-brazilian-ambassador-amid-deepening-diplomatic-spat?traffic_source=rss](https://www.aljazeera.com/news/2026/8/4/us-revokes-visa-of-brazilian-ambassador-amid-deepening-diplomatic-spat?traffic_source=rss)
 
 ---
 
-### 8. Funeral for family killed in US strike on Iran’s Qeshm Island
+### 8. Sri Lanka shuts schools as floods and mudslides kill 7
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The funeral for a couple and their toddler took place after they were killed in the US strike on Iran&#039;s Qeshm Island.
+Torrential rains and flooding have damaged 129 houses and forced the evacuation of nearly 3,500 people, officials say.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/4/funeral-for-family-killed-in-us-strike-on-irans-qeshm-island?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/4/funeral-for-family-killed-in-us-strike-on-irans-qeshm-island?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/4/sri-lanka-shuts-schools-as-floods-and-mudslides-kill-7?traffic_source=rss](https://www.aljazeera.com/news/2026/8/4/sri-lanka-shuts-schools-as-floods-and-mudslides-kill-7?traffic_source=rss)
 
 ---
 
-### 9. Death toll rises to 87 in India’s flood-stricken Assam
+### 9. Russia strikes Ukrainian capital Kyiv with ballistic missiles
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Flood victims in India’s Assam district are living in makeshift shelters after monsoon rains caused widespread flooding.
+The latest attack comes after at least 27 people were killed in both Russia and Ukraine earlier this week.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/4/aje-onl-nf_death-toll-rises-to-87-in-assam-040826?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/4/aje-onl-nf_death-toll-rises-to-87-in-assam-040826?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/4/russia-strikes-ukrainian-capital-kyiv-with-ballistic-missiles?traffic_source=rss](https://www.aljazeera.com/news/2026/8/4/russia-strikes-ukrainian-capital-kyiv-with-ballistic-missiles?traffic_source=rss)
 
 ---
 

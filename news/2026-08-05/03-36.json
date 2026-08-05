@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-05T03:36:37+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay",
+            "description": "<p>Article URL: <a href=\"https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/\">https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49176697\">https://news.ycombinator.com/item?id=49176697</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/",
+            "published": "Tue, 04 Aug 2026 23:31:46 +0000",
+            "fetched": "2026-08-05T03:36:37+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Pass the Passkey: A Novel Attack Surface in Passwordless Authentication",
+            "description": "<p>Article URL: <a href=\"https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/\">https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49176644\">https://news.ycombinator.com/item?id=49176644</a></p>\n<p>Points: 6</p>\n<p># Comments: 3</p>",
+            "url": "https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/",
+            "published": "Tue, 04 Aug 2026 23:22:37 +0000",
+            "fetched": "2026-08-05T03:36:37+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "FIPS 140-3 is not a security guarantee, and auditors know it",
+            "description": "<p>Article URL: <a href=\"https://808bits.com/articles/fips-140-3-not-a-security-guarantee/\">https://808bits.com/articles/fips-140-3-not-a-security-guarantee/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49176634\">https://news.ycombinator.com/item?id=49176634</a></p>\n<p>Points: 8</p>\n<p># Comments: 0</p>",
+            "url": "https://808bits.com/articles/fips-140-3-not-a-security-guarantee/",
+            "published": "Tue, 04 Aug 2026 23:21:33 +0000",
+            "fetched": "2026-08-05T03:36:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
+            "description": "Ukraine said the video - showing a terrified civilian being hounded by a remotely-controlled drone - amounted to a war crime.",
+            "url": "https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 04 Aug 2026 17:26:06 GMT",
+            "fetched": "2026-08-05T03:36:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Temperatures to drop briefly ahead of next UK heatwave",
+            "description": "Temperatures and humidity are set to drop but, as Matt Taylor reports, respite from high heat is likely to be short-lived.",
+            "url": "https://www.bbc.co.uk/weather/articles/czjlp07xz4vo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 04 Aug 2026 23:14:49 GMT",
+            "fetched": "2026-08-05T03:36:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Dewormer and scabies drugs being sold as cancer treatments, BBC investigation finds",
+            "description": "A terminally-ill man was offered the drugs by a stair lift salesman claiming they could shrink tumours.",
+            "url": "https://www.bbc.co.uk/news/articles/c0m7wvpwjzeo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 04 Aug 2026 21:55:17 GMT",
+            "fetched": "2026-08-05T03:36:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US revokes visa of Brazilian ambassador amid deepening diplomatic spat",
+            "description": "An official has indicated that the visa revocation would not mean that Brazil&#039;s ambassador will be expelled from the US.",
+            "url": "https://www.aljazeera.com/news/2026/8/4/us-revokes-visa-of-brazilian-ambassador-amid-deepening-diplomatic-spat?traffic_source=rss",
+            "published": "Tue, 04 Aug 2026 23:41:27 +0000",
+            "fetched": "2026-08-05T03:36:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Sri Lanka shuts schools as floods and mudslides kill 7",
+            "description": "Torrential rains and flooding have damaged 129 houses and forced the evacuation of nearly 3,500 people, officials say.",
+            "url": "https://www.aljazeera.com/news/2026/8/4/sri-lanka-shuts-schools-as-floods-and-mudslides-kill-7?traffic_source=rss",
+            "published": "Tue, 04 Aug 2026 23:27:13 +0000",
+            "fetched": "2026-08-05T03:36:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Russia strikes Ukrainian capital Kyiv with ballistic missiles",
+            "description": "The latest attack comes after at least 27 people were killed in both Russia and Ukraine earlier this week.",
+            "url": "https://www.aljazeera.com/news/2026/8/4/russia-strikes-ukrainian-capital-kyiv-with-ballistic-missiles?traffic_source=rss",
+            "published": "Tue, 04 Aug 2026 23:24:43 +0000",
+            "fetched": "2026-08-05T03:36:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Middle Coulee, Chouteau, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22101",
+            "published": "2026-08-02T22:17:00Z",
+            "fetched": "2026-08-05T03:36:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Antelope Creek, Elko, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22108",
+            "published": "2026-08-02T14:31:00Z",
+            "fetched": "2026-08-05T03:36:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Bluegill, Miami-Dade, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22105",
+            "published": "2026-08-02T12:47:00Z",
+            "fetched": "2026-08-05T03:36:37+03:30"
+        }
+    ]
+}

@@ -1,64 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-05 08:07:00
+**Last Update:** 2026-08-05 11:12:01
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. After Losses, Retail Investors Flock to 3x Leverage as 2x Product Are Restricted
+### 1. Rust-lang/rust is adopting an LLM policy
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.asiae.co.kr/en/article/2026080416131786841">https://www.asiae.co.kr/en/article/2026080416131786841</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49177554">https://news.ycombinator.com/item?id=49177554</a></p>
-<p>Points: 46</p>
-<p># Comments: 24</p>
+<p>Article URL: <a href="https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/">https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49179039">https://news.ycombinator.com/item?id=49179039</a></p>
+<p>Points: 30</p>
+<p># Comments: 12</p>
 
-🔗 **Read more:** [https://www.asiae.co.kr/en/article/2026080416131786841](https://www.asiae.co.kr/en/article/2026080416131786841)
+🔗 **Read more:** [https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/](https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/)
 
 ---
 
-### 2. Gallium: Why the US Cannot Produce Precision Missiles and Fully-Functional F-35s
+### 2. Zero-Mem: Zero-Token Memory Operations for LLM Agents
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://sonar21.com/the-galling-gallium-chokehold-why-the-us-cannot-produce-precision-missiles-and-fully-functional-f-35s/">https://sonar21.com/the-galling-gallium-chokehold-why-the-us-cannot-produce-precision-missiles-and-fully-functional-f-35s/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49177301">https://news.ycombinator.com/item?id=49177301</a></p>
-<p>Points: 13</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://arxiv.org/abs/2607.29377">https://arxiv.org/abs/2607.29377</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49178608">https://news.ycombinator.com/item?id=49178608</a></p>
+<p>Points: 18</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://sonar21.com/the-galling-gallium-chokehold-why-the-us-cannot-produce-precision-missiles-and-fully-functional-f-35s/](https://sonar21.com/the-galling-gallium-chokehold-why-the-us-cannot-produce-precision-missiles-and-fully-functional-f-35s/)
+🔗 **Read more:** [https://arxiv.org/abs/2607.29377](https://arxiv.org/abs/2607.29377)
 
 ---
 
-### 3. Zigbee vs. Matter over Thread:Understanding IoT Protocol Performance in Practice
+### 3. An SLM trained on $8 ESP32-S3
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://arxiv.org/abs/2603.04221">https://arxiv.org/abs/2603.04221</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49176983">https://news.ycombinator.com/item?id=49176983</a></p>
-<p>Points: 45</p>
-<p># Comments: 30</p>
+<p>Article URL: <a href="https://github.com/Carloscodix/qapla">https://github.com/Carloscodix/qapla</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49178464">https://news.ycombinator.com/item?id=49178464</a></p>
+<p>Points: 16</p>
+<p># Comments: 6</p>
 
-🔗 **Read more:** [https://arxiv.org/abs/2603.04221](https://arxiv.org/abs/2603.04221)
+🔗 **Read more:** [https://github.com/Carloscodix/qapla](https://github.com/Carloscodix/qapla)
 
 ---
 
-### 4. Burnham 'looking into' conducting Epstein inquiry, says victims minister
+### 4. Dewormer and scabies drugs being sold as cancer treatments, BBC investigation finds
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+A terminally ill man was offered the drugs by a stair lift salesman claiming they could shrink tumours.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c0m7wvpwjzeo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c0m7wvpwjzeo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Burnham 'looking into' conducting Epstein inquiry, says victims minister
 
 **Source:** BBC
 
@@ -71,68 +84,55 @@ Alex Davies-Jones tells BBC Newsnight she discussed an inquiry with the PM  when
 
 ---
 
-### 5. Dewormer and scabies drugs being sold as cancer treatments, BBC investigation finds
+### 6. Russian ballistic missile strike on Kyiv kills at least 17
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-A terminally-ill man was offered the drugs by a stair lift salesman claiming they could shrink tumours.
+The head of Kyiv's military administration says Russia is "once again massively attacking" the region around the city.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c0m7wvpwjzeo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c0m7wvpwjzeo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Temperatures to drop briefly ahead of next UK heatwave
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Temperatures and humidity are set to drop but, as Matt Taylor reports, respite from high heat is likely to be short-lived.
-
-🔗 **Read more:** [https://www.bbc.co.uk/weather/articles/czjlp07xz4vo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/weather/articles/czjlp07xz4vo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Bolivia sends troops to stop Brazilian gang violence along border
+### 7. Why the Trump administration is helping support Japan’s weakening yen
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Footage shows some of the more than 200 Bolivian police and military officers patrolling its border with Brazil.
+Washington and Tokyo&#039;s rare coordinated intervention aims to avoid spillover to global financial system.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/5/bolivia-sends-troops-to-stop-brazilian-gang-violence-along-border?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/5/bolivia-sends-troops-to-stop-brazilian-gang-violence-along-border?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/5/why-the-trump-administration-is-helping-support-japans-weakening-yen?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/5/why-the-trump-administration-is-helping-support-japans-weakening-yen?traffic_source=rss)
 
 ---
 
-### 8. North Korea’s Kim Yo Jong issues military threat over Japan missile test
+### 8. Pakistan and Uganda athletes ‘missing’ after Commonwealth Games
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The powerful sister of North Korean leader Kim Jong Un has accused Japan of moving beyond a defensive posture.
+UK police looking into reports of &#039;missing&#039; athletes who didn&#039;t return home after Commonwealth Games closing ceremony.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/5/north-koreas-kim-yo-jong-issues-military-threat-over-japan-missile-test?traffic_source=rss](https://www.aljazeera.com/news/2026/8/5/north-koreas-kim-yo-jong-issues-military-threat-over-japan-missile-test?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/5/pakistan-and-uganda-athletes-missing-after-commonwealth-games?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/5/pakistan-and-uganda-athletes-missing-after-commonwealth-games?traffic_source=rss)
 
 ---
 
-### 9. Protesters demand answers from ICE after second man dies at Delaney Hall
+### 9. Nigeria cannot build safe schools in unsafe communities
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Anger is growing after a 41-year-old Salvadoran man named Edwin Lopez-Cornejo died at an ICE detention centre.
+The Safe Schools Initiative will keep falling short until the lack of security beyond school grounds is confronted.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/5/protesters-demand-answers-from-ice-after-second-man-dies-at-delaney-hall?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/5/protesters-demand-answers-from-ice-after-second-man-dies-at-delaney-hall?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/5/nigeria-cannot-build-safe-schools-in-unsafe-communities?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/5/nigeria-cannot-build-safe-schools-in-unsafe-communities?traffic_source=rss)
 
 ---
 

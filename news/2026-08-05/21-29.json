@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-08-05T21:29:51+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Ex neo-Nazi activist withdraws as Tory election candidate",
+            "description": "Kemi Badenoch says Joshua Bonehill-Paine will now advise the Conservatives on tackling extremism.",
+            "url": "https://www.bbc.co.uk/news/articles/cy4kx8n2vwxo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 05 Aug 2026 17:24:26 GMT",
+            "fetched": "2026-08-05T21:29:51+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Woman arrested after four stabbed in central London",
+            "description": "A woman is arrested after four men are stabbed in central London, the Metropolitan Police said.",
+            "url": "https://www.bbc.co.uk/news/articles/cn0nk17881yo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 05 Aug 2026 16:34:52 GMT",
+            "fetched": "2026-08-05T21:29:51+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Family 'devastated' by death of girl, 9, as man charged with murder",
+            "description": "A 35-year old man has appeared in court charged with the murder of Minnie Merriman, who was found injured in Arbroath on Monday.",
+            "url": "https://www.bbc.co.uk/news/articles/c235evj1r04o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 05 Aug 2026 14:50:09 GMT",
+            "fetched": "2026-08-05T21:29:51+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Photos: Israeli forces raid occupied West Bank’s Qalandiya refugee camp",
+            "description": "Eight Palestinian people injured after Israeli forces enter homes, shops in Qalandiya, issuing demolition threats.",
+            "url": "https://www.aljazeera.com/gallery/2026/8/5/photos-israeli-forces-raid-occupied-west-banks-qalandiya-refugee-camp?traffic_source=rss",
+            "published": "Wed, 05 Aug 2026 17:41:24 +0000",
+            "fetched": "2026-08-05T21:29:51+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "El-Sayed wins Michigan Democratic Senate primary",
+            "description": "Abdul El-Sayed won Michigan&#039;s Democratic primary for US Senate, narrowly defeating Rep. Haley Stevens.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/el-sayed-wins-michigan-democratic-senate-primary?traffic_source=rss",
+            "published": "Wed, 05 Aug 2026 17:40:03 +0000",
+            "fetched": "2026-08-05T21:29:51+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Puntland forces seize government-held camp in Somalia’s Galkayo",
+            "description": "Puntland says it has taken control of Galkayo camp as rival federal-aligned forces retreat following intense clashes.",
+            "url": "https://www.aljazeera.com/news/2026/8/5/puntland-forces-seize-government-held-camp-in-somalias-galkayo?traffic_source=rss",
+            "published": "Wed, 05 Aug 2026 17:38:33 +0000",
+            "fetched": "2026-08-05T21:29:51+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Middle Coulee, Chouteau, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22101",
+            "published": "2026-08-02T22:17:00Z",
+            "fetched": "2026-08-05T21:29:51+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Antelope Creek, Elko, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22108",
+            "published": "2026-08-02T14:31:00Z",
+            "fetched": "2026-08-05T21:29:51+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Bluegill, Miami-Dade, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22105",
+            "published": "2026-08-02T12:47:00Z",
+            "fetched": "2026-08-05T21:29:51+03:30"
+        }
+    ]
+}

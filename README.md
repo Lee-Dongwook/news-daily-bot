@@ -1,32 +1,49 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-06 14:55:43
+**Last Update:** 2026-08-06 16:37:46
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. What I love about Django
+### 1. Show HN: Skyline Co-op is like SimTower, but built around democratic socialism
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://buttondown.com/blog/what-i-love-about-django">https://buttondown.com/blog/what-i-love-about-django</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49193673">https://news.ycombinator.com/item?id=49193673</a></p>
-<p>Points: 74</p>
-<p># Comments: 49</p>
+<p>I've been rebuilding old games with Claude. While creating a modern take on SimTower and having election news on TV in the background, I had the idea to build the economy of the game around democratic socialism instead of capitalism.<p>Instead of a real estate tycoon, you are an elected steward of the building, held responsible by the Assembly. Homes are allocated off a waitlist, dues are set on a sliding scale, and you face outside pressures from neighboring capitalist landlords.<p>The crown jewel is attracting a large grant to establish an observatory at the top of your tower, attracting scientists. To get there, you must make sure the people are fed, housed, healthy, and entertained. If the Assembly doesn't have confidence in your abilities, you get voted out.<p>It kinda works, and the potential failures in the game are pretty unique. I'd be interested to hear HN's take. An entire SimCity clone based on a different economy like this could be fun.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49195297">https://news.ycombinator.com/item?id=49195297</a></p>
+<p>Points: 21</p>
+<p># Comments: 19</p>
 
-🔗 **Read more:** [https://buttondown.com/blog/what-i-love-about-django](https://buttondown.com/blog/what-i-love-about-django)
+🔗 **Read more:** [https://intergalacticrobots.app/skyline-coop/](https://intergalacticrobots.app/skyline-coop/)
 
 ---
 
-### 2. Let's all meet up in the Y2K
+### 2. Mario Meets Pareto
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.mayerowitz.io/blog/mario-meets-pareto">https://www.mayerowitz.io/blog/mario-meets-pareto</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49195231">https://news.ycombinator.com/item?id=49195231</a></p>
+<p>Points: 55</p>
+<p># Comments: 9</p>
+
+🔗 **Read more:** [https://www.mayerowitz.io/blog/mario-meets-pareto](https://www.mayerowitz.io/blog/mario-meets-pareto)
+
+---
+
+### 3. Let's all meet up in the Y2K
 
 **Source:** Hacker News
 
@@ -35,56 +52,27 @@
 **Description:**
 <p>Article URL: <a href="https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/">https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49193314">https://news.ycombinator.com/item?id=49193314</a></p>
-<p>Points: 64</p>
-<p># Comments: 27</p>
+<p>Points: 88</p>
+<p># Comments: 61</p>
 
 🔗 **Read more:** [https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/](https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/)
 
 ---
 
-### 3. On non-rooted Android 17, ADB uninstall of system apps fails
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/issues/1426">https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/issues/1426</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49193173">https://news.ycombinator.com/item?id=49193173</a></p>
-<p>Points: 15</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/issues/1426](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/issues/1426)
-
----
-
-### 4. Young women tell BBC of rape, assault and harassment at Army training college for teenagers
+### 4. Calls for inquiry into Army training college for teenagers after reports of rape and abuse
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-They say the incidents happened at the Army Foundation College in Harrogate when they were aged 17.
+Four women told the BBC they were sexually assaulted and harassed while attending the Army Foundation College (AFC) at Harrogate in North Yorkshire.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3w07p7wqv1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3w07p7wqv1o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Cambridge professor at centre of plagiarism row resigns
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Prof Jason Arday said he had "concluded that the only way to bring this chapter to an end is to step away".
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c1e146jw618o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c1e146jw618o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm2g8pe13x5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm2g8pe13x5o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Majority of England's rivers and lakes fail new environmental review
+### 5. Majority of England's rivers and lakes fail new environmental review
 
 **Source:** BBC
 
@@ -97,42 +85,55 @@ A comprehensive assessment of England's waterways is the first in six years and 
 
 ---
 
-### 7. Who was Cesar Gastelum, Mexican TikToker shot dead mid-livestream?
+### 6. Cambridge professor at centre of plagiarism row resigns
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-Gastelum&#039;s death comes after the killing of TikToker Valeria Marquez last year.
+Prof Jason Arday said he had "concluded that the only way to bring this chapter to an end is to step away".
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/6/who-was-cesar-gastelum-mexican-tiktoker-shot-dead-mid-livestream?traffic_source=rss](https://www.aljazeera.com/news/2026/8/6/who-was-cesar-gastelum-mexican-tiktoker-shot-dead-mid-livestream?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c1e146jw618o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c1e146jw618o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. What the CJP protests reveal about India’s next generation
+### 7. Deadliest form of malnutrition has reached critical levels in Afghanistan
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The politics of aspiration is reshaping Generation Z worldwide, and India may still have an opportunity to respond.
+Child wasting, the deadliest form of malnutrition, has reached critical levels in a third of Afghanistan&#039;s provinces.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/6/what-the-cjp-protests-reveal-about-indias-next-generation?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/6/what-the-cjp-protests-reveal-about-indias-next-generation?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/6/deadliest-form-of-child-malnutrition-has-reached-critical-levels-in-afghani?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/6/deadliest-form-of-child-malnutrition-has-reached-critical-levels-in-afghani?traffic_source=rss)
 
 ---
 
-### 9. Cambridge professor Jason Arday quits amid plagiarism allegations
+### 8. Why is Pakistan PM Shehbaz Sharif visiting Saudi Arabia amid Gulf tensions?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The scholar announced his resignation amid a new investigation into his qualifications.
+Islamabad seeks economic backing while balancing new defence commitments and a volatile regional security landscape.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/6/cambridge-professor-jason-arday-quits-amid-plagiarism-allegations?traffic_source=rss](https://www.aljazeera.com/news/2026/8/6/cambridge-professor-jason-arday-quits-amid-plagiarism-allegations?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/6/why-is-pakistan-pm-shehbaz-sharif-visiting-saudi-arabia-amid-gulf-tensions?traffic_source=rss](https://www.aljazeera.com/news/2026/8/6/why-is-pakistan-pm-shehbaz-sharif-visiting-saudi-arabia-amid-gulf-tensions?traffic_source=rss)
+
+---
+
+### 9. Myanmar leader visits Thailand in bid to bolster international legitimacy
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Min Aung Hlaing stressed that his government was focused on ending the civil war and restoring peace.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/6/myanmar-leader-visits-thailand-in-bid-to-bolster-international-legitimacy?traffic_source=rss](https://www.aljazeera.com/news/2026/8/6/myanmar-leader-visits-thailand-in-bid-to-bolster-international-legitimacy?traffic_source=rss)
 
 ---
 

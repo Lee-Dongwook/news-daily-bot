@@ -1,65 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-06 16:37:46
+**Last Update:** 2026-08-06 17:49:24
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: Skyline Co-op is like SimTower, but built around democratic socialism
+### 1. I added a real-time chat to my blog, people used it to attack me
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>I've been rebuilding old games with Claude. While creating a modern take on SimTower and having election news on TV in the background, I had the idea to build the economy of the game around democratic socialism instead of capitalism.<p>Instead of a real estate tycoon, you are an elected steward of the building, held responsible by the Assembly. Homes are allocated off a waitlist, dues are set on a sliding scale, and you face outside pressures from neighboring capitalist landlords.<p>The crown jewel is attracting a large grant to establish an observatory at the top of your tower, attracting scientists. To get there, you must make sure the people are fed, housed, healthy, and entertained. If the Assembly doesn't have confidence in your abilities, you get voted out.<p>It kinda works, and the potential failures in the game are pretty unique. I'd be interested to hear HN's take. An entire SimCity clone based on a different economy like this could be fun.</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49195297">https://news.ycombinator.com/item?id=49195297</a></p>
-<p>Points: 21</p>
-<p># Comments: 19</p>
+<p>Article URL: <a href="https://en.andros.dev/blog/b6c32a90/i-added-a-real-time-chat-to-my-blog-people-used-it-to-attack-me/">https://en.andros.dev/blog/b6c32a90/i-added-a-real-time-chat-to-my-blog-people-used-it-to-attack-me/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49196745">https://news.ycombinator.com/item?id=49196745</a></p>
+<p>Points: 10</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://intergalacticrobots.app/skyline-coop/](https://intergalacticrobots.app/skyline-coop/)
+🔗 **Read more:** [https://en.andros.dev/blog/b6c32a90/i-added-a-real-time-chat-to-my-blog-people-used-it-to-attack-me/](https://en.andros.dev/blog/b6c32a90/i-added-a-real-time-chat-to-my-blog-people-used-it-to-attack-me/)
 
 ---
 
-### 2. Mario Meets Pareto
+### 2. Telephones Caught in Between
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.mayerowitz.io/blog/mario-meets-pareto">https://www.mayerowitz.io/blog/mario-meets-pareto</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49195231">https://news.ycombinator.com/item?id=49195231</a></p>
-<p>Points: 55</p>
-<p># Comments: 9</p>
+<p>Article URL: <a href="https://computer.rip/2026-08-02-telephone-leasing.html">https://computer.rip/2026-08-02-telephone-leasing.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49195819">https://news.ycombinator.com/item?id=49195819</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.mayerowitz.io/blog/mario-meets-pareto](https://www.mayerowitz.io/blog/mario-meets-pareto)
+🔗 **Read more:** [https://computer.rip/2026-08-02-telephone-leasing.html](https://computer.rip/2026-08-02-telephone-leasing.html)
 
 ---
 
-### 3. Let's all meet up in the Y2K
+### 3. Humans missed 1 in 3 threats approving AI agent commands across 40k game runs
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/">https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49193314">https://news.ycombinator.com/item?id=49193314</a></p>
-<p>Points: 88</p>
-<p># Comments: 61</p>
+<p>Article URL: <a href="https://scalex.dev/blog/ai-agent-permissions-stats/">https://scalex.dev/blog/ai-agent-permissions-stats/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49195468">https://news.ycombinator.com/item?id=49195468</a></p>
+<p>Points: 50</p>
+<p># Comments: 29</p>
 
-🔗 **Read more:** [https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/](https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/)
+🔗 **Read more:** [https://scalex.dev/blog/ai-agent-permissions-stats/](https://scalex.dev/blog/ai-agent-permissions-stats/)
 
 ---
 
-### 4. Calls for inquiry into Army training college for teenagers after reports of rape and abuse
+### 4. Burnham orders review of grooming gang early releases
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The announcement of the review comes after the Tory leader raised concerns that child sex offenders could leave jail early.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cg5lm3evpzzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cg5lm3evpzzo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Calls for inquiry into Army training college for teenagers after reports of rape and abuse
 
 **Source:** BBC
 
@@ -72,7 +84,7 @@ Four women told the BBC they were sexually assaulted and harassed while attendin
 
 ---
 
-### 5. Majority of England's rivers and lakes fail new environmental review
+### 6. Majority of England's rivers and lakes fail new environmental review
 
 **Source:** BBC
 
@@ -85,59 +97,46 @@ A comprehensive assessment of England's waterways is the first in six years and 
 
 ---
 
-### 6. Cambridge professor at centre of plagiarism row resigns
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Prof Jason Arday said he had "concluded that the only way to bring this chapter to an end is to step away".
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c1e146jw618o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c1e146jw618o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Deadliest form of malnutrition has reached critical levels in Afghanistan
+### 7. Why $370bn tech group Palantir pays just 1.4 percent tax: Report
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Child wasting, the deadliest form of malnutrition, has reached critical levels in a third of Afghanistan&#039;s provinces.
+The AI group&#039;s technology is used by Israeli military and Trump administration&#039;s ICE.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/6/deadliest-form-of-child-malnutrition-has-reached-critical-levels-in-afghani?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/6/deadliest-form-of-child-malnutrition-has-reached-critical-levels-in-afghani?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/6/why-370bn-tech-group-palantir-pays-just-1-4-percent-tax-report?traffic_source=rss](https://www.aljazeera.com/news/2026/8/6/why-370bn-tech-group-palantir-pays-just-1-4-percent-tax-report?traffic_source=rss)
 
 ---
 
-### 8. Why is Pakistan PM Shehbaz Sharif visiting Saudi Arabia amid Gulf tensions?
+### 8. FIFA pays up on overdue prize money after Jordan ‘blackmail’ remark
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Islamabad seeks economic backing while balancing new defence commitments and a volatile regional security landscape.
+Jordan FA&#039;s president, ​Prince Ali bin Hussein, accused FIFA of &#039;blackmail&#039;, and delayed Arab Cup prize money now paid.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/6/why-is-pakistan-pm-shehbaz-sharif-visiting-saudi-arabia-amid-gulf-tensions?traffic_source=rss](https://www.aljazeera.com/news/2026/8/6/why-is-pakistan-pm-shehbaz-sharif-visiting-saudi-arabia-amid-gulf-tensions?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/6/fifa-pay-up-on-overdue-prize-money-after-jordan-blackmail-remark?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/6/fifa-pay-up-on-overdue-prize-money-after-jordan-blackmail-remark?traffic_source=rss)
 
 ---
 
-### 9. Myanmar leader visits Thailand in bid to bolster international legitimacy
+### 9. What does the world pay for a child’s education?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Min Aung Hlaing stressed that his government was focused on ending the civil war and restoring peace.
+Rich countries spend 41 times more on each child&#039;s education. AJLabs looks at the classroom inequality around the world.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/6/myanmar-leader-visits-thailand-in-bid-to-bolster-international-legitimacy?traffic_source=rss](https://www.aljazeera.com/news/2026/8/6/myanmar-leader-visits-thailand-in-bid-to-bolster-international-legitimacy?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/by-the-numbers-3/2026/8/6/what-does-the-world-pay-for-a-childs-education?traffic_source=rss](https://www.aljazeera.com/video/by-the-numbers-3/2026/8/6/what-does-the-world-pay-for-a-childs-education?traffic_source=rss)
 
 ---
 
-### 10. Wildfire Middle Coulee, Chouteau, Montana
+### 10. Wildfire Wrights Spring, Klamath, Oregon
 
 **Source:** NASA
 
@@ -146,11 +145,11 @@ Min Aung Hlaing stressed that his government was focused on ending the civil war
 **Description:**
 Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22101](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22101)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196)
 
 ---
 
-### 11. Wildfire Antelope Creek, Elko, Nevada
+### 11. Wildfire BUZZARD, Kern, California
 
 **Source:** NASA
 
@@ -159,11 +158,11 @@ Natural event: Wildfires
 **Description:**
 Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22108](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22108)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195)
 
 ---
 
-### 12. Wildfire Bluegill, Miami-Dade, Florida
+### 12. Wildfire Bare, Sublette, Wyoming
 
 **Source:** NASA
 
@@ -172,7 +171,7 @@ Natural event: Wildfires
 **Description:**
 Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22105](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22105)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22197](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22197)
 
 ---
 

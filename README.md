@@ -1,64 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-06 09:22:30
+**Last Update:** 2026-08-06 11:28:25
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Ship Safe, an open source security scanner for coding agents
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/asamassekou10/ship-safe">https://github.com/asamassekou10/ship-safe</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49192277">https://news.ycombinator.com/item?id=49192277</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://github.com/asamassekou10/ship-safe](https://github.com/asamassekou10/ship-safe)
-
----
-
-### 2. Show HN: Wallfacer – A terminal session manager for Claude Code, and more
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/pradipta/wallfacer">https://github.com/pradipta/wallfacer</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49192219">https://news.ycombinator.com/item?id=49192219</a></p>
-<p>Points: 8</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://github.com/pradipta/wallfacer](https://github.com/pradipta/wallfacer)
-
----
-
-### 3. Nashville uses eminent domain to block data center near zoo
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project">https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49191624">https://news.ycombinator.com/item?id=49191624</a></p>
-<p>Points: 169</p>
-<p># Comments: 174</p>
-
-🔗 **Read more:** [https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project](https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project)
-
----
-
-### 4. Young women tell BBC of rape, assault and harassment at Army training college for teenagers
+### 1. Young women tell BBC of rape, assault and harassment at Army training college for teenagers
 
 **Source:** BBC
 
@@ -71,20 +23,7 @@ They say the incidents happened at the Army Foundation College in Harrogate when
 
 ---
 
-### 5. Infantino sorry for errors but stays Fifa president
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Gianni Infantino will remain as Fifa president after receiving the backing of senior executives, but "sincerely apologises" for errors made in his controversial private investment plans.
-
-🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. University of Cambridge professor at centre of plagiarism row resigns
+### 2. Cambridge professor at centre of plagiarism row resigns
 
 **Source:** BBC
 
@@ -97,46 +36,59 @@ Prof Jason Arday said he had "concluded that the only way to bring this chapter 
 
 ---
 
-### 7. Carney curses Infantino as FIFA backs its president
+### 3. Infantino sorry for errors but stays Fifa president
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Gianni Infantino will remain Fifa president after receiving backing from senior executives, but "sincerely apologises" for errors in his controversial private investment plans.
+
+🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 4. Russian strikes kill six in Ukraine as Moscow intercepts hundreds of drones
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-FIFA’s President Gianni Infantino gets the support of executive members at an emergency meeting in Morocco.
+Ukraine officials say three people killed in Kharkiv region and three in Sumy, as Russia says it intercepted 605 drones.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/6/carney-curses-infantino-as-fifa-backs-its-president?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/6/carney-curses-infantino-as-fifa-backs-its-president?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/6/russian-strikes-kill-six-in-ukraine-as-moscow-intercepts-hundreds-of-drones?traffic_source=rss](https://www.aljazeera.com/news/2026/8/6/russian-strikes-kill-six-in-ukraine-as-moscow-intercepts-hundreds-of-drones?traffic_source=rss)
 
 ---
 
-### 8. Strait of Hormuz tolls would harm livelihoods worldwide, shipowners warn
+### 5. Ex-Bangladesh cricket captain Shakib’s home petrol-bombed in Hasina fallout
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Eight leading shipping organisations sign letter opposing fees in critical waterway.
+Former Bangladesh captain Shakib Al Hasan&#039;s home attacked after joining former Prime Minister Sheikh Hasina’s event.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/6/strait-of-hormuz-tolls-would-harm-livelihoods-worldwide-shipowners-warn?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/6/strait-of-hormuz-tolls-would-harm-livelihoods-worldwide-shipowners-warn?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/6/ex-bangladesh-cricket-captain-shakibs-home-petrol-bombed-in-hasina-fallout?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/6/ex-bangladesh-cricket-captain-shakibs-home-petrol-bombed-in-hasina-fallout?traffic_source=rss)
 
 ---
 
-### 9. Trump attacks El-Sayed as ‘hater of Jews’ after Michigan win
+### 6. Messi scores his first goals since World Cup as Inter Miami beat San Luis
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US President Donald Trump attacked Michigan’s Democratic Senate candidate Abdul El-Sayed, calling him a ‘hater of Jews.&#039;
+Lionel Messi scores his first goals since Argentina&#039;s World Cup final defeat to Spain, as Miami win 4-2 in Leagues Cup.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/6/trump-attacks-el-sayed-as-hater-of-jews-after-michigan-win?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/6/trump-attacks-el-sayed-as-hater-of-jews-after-michigan-win?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/6/messi-scores-his-first-goals-since-world-cup-as-inter-miami-beat-san-luis?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/6/messi-scores-his-first-goals-since-world-cup-as-inter-miami-beat-san-luis?traffic_source=rss)
 
 ---
 
-### 10. Wildfire Middle Coulee, Chouteau, Montana
+### 7. Wildfire Middle Coulee, Chouteau, Montana
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Wildfires
 
 ---
 
-### 11. Wildfire Antelope Creek, Elko, Nevada
+### 8. Wildfire Antelope Creek, Elko, Nevada
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Wildfire Bluegill, Miami-Dade, Florida
+### 9. Wildfire Bluegill, Miami-Dade, Florida
 
 **Source:** NASA
 

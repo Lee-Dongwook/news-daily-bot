@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-06 12:11:42
+**Last Update:** 2026-08-06 14:28:20
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://buttondown.com/blog/what-i-love-about-django">https://buttondown.com/blog/what-i-love-about-django</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49193673">https://news.ycombinator.com/item?id=49193673</a></p>
-<p>Points: 26</p>
-<p># Comments: 4</p>
+<p>Points: 71</p>
+<p># Comments: 48</p>
 
 🔗 **Read more:** [https://buttondown.com/blog/what-i-love-about-django](https://buttondown.com/blog/what-i-love-about-django)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/">https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49193314">https://news.ycombinator.com/item?id=49193314</a></p>
-<p>Points: 20</p>
-<p># Comments: 3</p>
+<p>Points: 56</p>
+<p># Comments: 24</p>
 
 🔗 **Read more:** [https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/](https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.crimepaysbutbotanydoesnt.com/reading-list">https://www.crimepaysbutbotanydoesnt.com/reading-list</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49192566">https://news.ycombinator.com/item?id=49192566</a></p>
-<p>Points: 138</p>
-<p># Comments: 52</p>
+<p>Points: 245</p>
+<p># Comments: 97</p>
 
 🔗 **Read more:** [https://www.crimepaysbutbotanydoesnt.com/reading-list](https://www.crimepaysbutbotanydoesnt.com/reading-list)
 
@@ -84,55 +84,55 @@ Prof Jason Arday said he had "concluded that the only way to bring this chapter 
 
 ---
 
-### 6. Car washes and vape shops can still sponsor skilled foreign workers despite visa changes
+### 6. Majority of England's rivers and lakes fail new environmental review
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The rules were tightened in July 2025 to restrict the scheme mostly to graduate-level employees who would be earning at least £41,700.
+A comprehensive assessment of England's waterways is the first in six years and shows little improvement.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cj639rx147eo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cj639rx147eo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq6d0y5e3mjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq6d0y5e3mjo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Why is France developing a new nuclear strategy?
+### 7. Cambridge professor Jason Arday quits amid plagiarism allegations
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-As the US retreats from Europe and Russia adopts an aggressive posture, France plans to add weapons to its arsenal
+The scholar announced his resignation amid a new investigation into his qualifications.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/project-force-2/2026/8/6/why-is-france-developing-a-new-nuclear-strategy?traffic_source=rss](https://www.aljazeera.com/video/project-force-2/2026/8/6/why-is-france-developing-a-new-nuclear-strategy?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/6/cambridge-professor-jason-arday-quits-amid-plagiarism-allegations?traffic_source=rss](https://www.aljazeera.com/news/2026/8/6/cambridge-professor-jason-arday-quits-amid-plagiarism-allegations?traffic_source=rss)
 
 ---
 
-### 8. Iran anthem protest: Female footballers ‘proud’ to become Australian
+### 8. Hormuz deal ‘close’: What’s the latest on each side’s positions?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Fatemeh Pasandideh and Atefeh Ramezanisadeh refused to sing Iran anthem at Asian Cup, now granted Australia citizenship.
+US officials say they would not accept any arrangement on the waterway that would leave Iran in control.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/6/former-iranian-women-footballers-proud-to-become-australian-afc-cup-anthem-protest?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/6/former-iranian-women-footballers-proud-to-become-australian-afc-cup-anthem-protest?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/6/hormuz-deal-close-whats-the-latest-on-each-sides-positions?traffic_source=rss](https://www.aljazeera.com/news/2026/8/6/hormuz-deal-close-whats-the-latest-on-each-sides-positions?traffic_source=rss)
 
 ---
 
-### 9. Russian strikes kill six in Ukraine as Moscow intercepts hundreds of drones
+### 9. Uganda football star Owori killed, weeks after death of rugby’s Gongodyo
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ukraine officials say three people killed in Kharkiv region and three in Sumy, as Russia says it intercepted 605 drones.
+SC Villa captain and Ugandan international David Owori was found unconscious by passers-by, but later pronounced dead.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/6/russian-strikes-kill-six-in-ukraine-as-moscow-intercepts-hundreds-of-drones?traffic_source=rss](https://www.aljazeera.com/news/2026/8/6/russian-strikes-kill-six-in-ukraine-as-moscow-intercepts-hundreds-of-drones?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/6/uganda-football-star-owori-killed-weeks-after-death-of-rugbys-gongodyo?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/6/uganda-football-star-owori-killed-weeks-after-death-of-rugbys-gongodyo?traffic_source=rss)
 
 ---
 

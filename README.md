@@ -1,16 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-06 11:28:25
+**Last Update:** 2026-08-06 12:11:42
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Young women tell BBC of rape, assault and harassment at Army training college for teenagers
+### 1. What I love about Django
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://buttondown.com/blog/what-i-love-about-django">https://buttondown.com/blog/what-i-love-about-django</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49193673">https://news.ycombinator.com/item?id=49193673</a></p>
+<p>Points: 26</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://buttondown.com/blog/what-i-love-about-django](https://buttondown.com/blog/what-i-love-about-django)
+
+---
+
+### 2. Let's all meet up in the Y2K
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/">https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49193314">https://news.ycombinator.com/item?id=49193314</a></p>
+<p>Points: 20</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/](https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/)
+
+---
+
+### 3. Crime Pays but Botany Doesn't
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.crimepaysbutbotanydoesnt.com/reading-list">https://www.crimepaysbutbotanydoesnt.com/reading-list</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49192566">https://news.ycombinator.com/item?id=49192566</a></p>
+<p>Points: 138</p>
+<p># Comments: 52</p>
+
+🔗 **Read more:** [https://www.crimepaysbutbotanydoesnt.com/reading-list](https://www.crimepaysbutbotanydoesnt.com/reading-list)
+
+---
+
+### 4. Young women tell BBC of rape, assault and harassment at Army training college for teenagers
 
 **Source:** BBC
 
@@ -23,7 +71,7 @@ They say the incidents happened at the Army Foundation College in Harrogate when
 
 ---
 
-### 2. Cambridge professor at centre of plagiarism row resigns
+### 5. Cambridge professor at centre of plagiarism row resigns
 
 **Source:** BBC
 
@@ -36,20 +84,46 @@ Prof Jason Arday said he had "concluded that the only way to bring this chapter 
 
 ---
 
-### 3. Infantino sorry for errors but stays Fifa president
+### 6. Car washes and vape shops can still sponsor skilled foreign workers despite visa changes
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Gianni Infantino will remain Fifa president after receiving backing from senior executives, but "sincerely apologises" for errors in his controversial private investment plans.
+The rules were tightened in July 2025 to restrict the scheme mostly to graduate-level employees who would be earning at least £41,700.
 
-🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cj639rx147eo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cj639rx147eo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. Russian strikes kill six in Ukraine as Moscow intercepts hundreds of drones
+### 7. Why is France developing a new nuclear strategy?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+As the US retreats from Europe and Russia adopts an aggressive posture, France plans to add weapons to its arsenal
+
+🔗 **Read more:** [https://www.aljazeera.com/video/project-force-2/2026/8/6/why-is-france-developing-a-new-nuclear-strategy?traffic_source=rss](https://www.aljazeera.com/video/project-force-2/2026/8/6/why-is-france-developing-a-new-nuclear-strategy?traffic_source=rss)
+
+---
+
+### 8. Iran anthem protest: Female footballers ‘proud’ to become Australian
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Fatemeh Pasandideh and Atefeh Ramezanisadeh refused to sing Iran anthem at Asian Cup, now granted Australia citizenship.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/6/former-iranian-women-footballers-proud-to-become-australian-afc-cup-anthem-protest?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/6/former-iranian-women-footballers-proud-to-become-australian-afc-cup-anthem-protest?traffic_source=rss)
+
+---
+
+### 9. Russian strikes kill six in Ukraine as Moscow intercepts hundreds of drones
 
 **Source:** Al Jazeera
 
@@ -62,33 +136,7 @@ Ukraine officials say three people killed in Kharkiv region and three in Sumy, a
 
 ---
 
-### 5. Ex-Bangladesh cricket captain Shakib’s home petrol-bombed in Hasina fallout
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Former Bangladesh captain Shakib Al Hasan&#039;s home attacked after joining former Prime Minister Sheikh Hasina’s event.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/6/ex-bangladesh-cricket-captain-shakibs-home-petrol-bombed-in-hasina-fallout?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/6/ex-bangladesh-cricket-captain-shakibs-home-petrol-bombed-in-hasina-fallout?traffic_source=rss)
-
----
-
-### 6. Messi scores his first goals since World Cup as Inter Miami beat San Luis
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Lionel Messi scores his first goals since Argentina&#039;s World Cup final defeat to Spain, as Miami win 4-2 in Leagues Cup.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/6/messi-scores-his-first-goals-since-world-cup-as-inter-miami-beat-san-luis?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/6/messi-scores-his-first-goals-since-world-cup-as-inter-miami-beat-san-luis?traffic_source=rss)
-
----
-
-### 7. Wildfire Middle Coulee, Chouteau, Montana
+### 10. Wildfire Middle Coulee, Chouteau, Montana
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Wildfires
 
 ---
 
-### 8. Wildfire Antelope Creek, Elko, Nevada
+### 11. Wildfire Antelope Creek, Elko, Nevada
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Wildfires
 
 ---
 
-### 9. Wildfire Bluegill, Miami-Dade, Florida
+### 12. Wildfire Bluegill, Miami-Dade, Florida
 
 **Source:** NASA
 

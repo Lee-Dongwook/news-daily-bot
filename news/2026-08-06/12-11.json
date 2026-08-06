@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-06T12:11:42+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "What I love about Django",
+            "description": "<p>Article URL: <a href=\"https://buttondown.com/blog/what-i-love-about-django\">https://buttondown.com/blog/what-i-love-about-django</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49193673\">https://news.ycombinator.com/item?id=49193673</a></p>\n<p>Points: 26</p>\n<p># Comments: 4</p>",
+            "url": "https://buttondown.com/blog/what-i-love-about-django",
+            "published": "Thu, 06 Aug 2026 07:34:06 +0000",
+            "fetched": "2026-08-06T12:11:42+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Let's all meet up in the Y2K",
+            "description": "<p>Article URL: <a href=\"https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/\">https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49193314\">https://news.ycombinator.com/item?id=49193314</a></p>\n<p>Points: 20</p>\n<p># Comments: 3</p>",
+            "url": "https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/",
+            "published": "Thu, 06 Aug 2026 06:43:38 +0000",
+            "fetched": "2026-08-06T12:11:42+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Crime Pays but Botany Doesn't",
+            "description": "<p>Article URL: <a href=\"https://www.crimepaysbutbotanydoesnt.com/reading-list\">https://www.crimepaysbutbotanydoesnt.com/reading-list</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49192566\">https://news.ycombinator.com/item?id=49192566</a></p>\n<p>Points: 138</p>\n<p># Comments: 52</p>",
+            "url": "https://www.crimepaysbutbotanydoesnt.com/reading-list",
+            "published": "Thu, 06 Aug 2026 04:46:35 +0000",
+            "fetched": "2026-08-06T12:11:42+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Young women tell BBC of rape, assault and harassment at Army training college for teenagers",
+            "description": "They say the incidents happened at the Army Foundation College in Harrogate when they were aged 17.",
+            "url": "https://www.bbc.co.uk/news/articles/c3w07p7wqv1o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 06 Aug 2026 05:00:09 GMT",
+            "fetched": "2026-08-06T12:11:42+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Cambridge professor at centre of plagiarism row resigns",
+            "description": "Prof Jason Arday said he had \"concluded that the only way to bring this chapter to an end is to step away\".",
+            "url": "https://www.bbc.co.uk/news/articles/c1e146jw618o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 06 Aug 2026 06:28:03 GMT",
+            "fetched": "2026-08-06T12:11:42+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Car washes and vape shops can still sponsor skilled foreign workers despite visa changes",
+            "description": "The rules were tightened in July 2025 to restrict the scheme mostly to graduate-level employees who would be earning at least £41,700.",
+            "url": "https://www.bbc.co.uk/news/articles/cj639rx147eo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 06 Aug 2026 05:00:13 GMT",
+            "fetched": "2026-08-06T12:11:42+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why is France developing a new nuclear strategy?",
+            "description": "As the US retreats from Europe and Russia adopts an aggressive posture, France plans to add weapons to its arsenal",
+            "url": "https://www.aljazeera.com/video/project-force-2/2026/8/6/why-is-france-developing-a-new-nuclear-strategy?traffic_source=rss",
+            "published": "Thu, 06 Aug 2026 08:17:26 +0000",
+            "fetched": "2026-08-06T12:11:42+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran anthem protest: Female footballers ‘proud’ to become Australian",
+            "description": "Fatemeh Pasandideh and Atefeh Ramezanisadeh refused to sing Iran anthem at Asian Cup, now granted Australia citizenship.",
+            "url": "https://www.aljazeera.com/sports/2026/8/6/former-iranian-women-footballers-proud-to-become-australian-afc-cup-anthem-protest?traffic_source=rss",
+            "published": "Thu, 06 Aug 2026 08:15:37 +0000",
+            "fetched": "2026-08-06T12:11:42+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Russian strikes kill six in Ukraine as Moscow intercepts hundreds of drones",
+            "description": "Ukraine officials say three people killed in Kharkiv region and three in Sumy, as Russia says it intercepted 605 drones.",
+            "url": "https://www.aljazeera.com/news/2026/8/6/russian-strikes-kill-six-in-ukraine-as-moscow-intercepts-hundreds-of-drones?traffic_source=rss",
+            "published": "Thu, 06 Aug 2026 07:36:56 +0000",
+            "fetched": "2026-08-06T12:11:42+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Middle Coulee, Chouteau, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22101",
+            "published": "2026-08-02T22:17:00Z",
+            "fetched": "2026-08-06T12:11:42+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Antelope Creek, Elko, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22108",
+            "published": "2026-08-02T14:31:00Z",
+            "fetched": "2026-08-06T12:11:42+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Bluegill, Miami-Dade, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22105",
+            "published": "2026-08-02T12:47:00Z",
+            "fetched": "2026-08-06T12:11:42+03:30"
+        }
+    ]
+}

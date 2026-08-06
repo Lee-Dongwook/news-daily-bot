@@ -1,32 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-06 08:06:55
+**Last Update:** 2026-08-06 09:22:30
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Governments are making a dangerous bet on the AI boom
+### 1. Ship Safe, an open source security scanner for coding agents
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.economist.com/leaders/2026/08/05/governments-are-making-a-dangerous-bet-on-the-ai-boom">https://www.economist.com/leaders/2026/08/05/governments-are-making-a-dangerous-bet-on-the-ai-boom</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49192160">https://news.ycombinator.com/item?id=49192160</a></p>
-<p>Points: 40</p>
-<p># Comments: 12</p>
+<p>Article URL: <a href="https://github.com/asamassekou10/ship-safe">https://github.com/asamassekou10/ship-safe</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49192277">https://news.ycombinator.com/item?id=49192277</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.economist.com/leaders/2026/08/05/governments-are-making-a-dangerous-bet-on-the-ai-boom](https://www.economist.com/leaders/2026/08/05/governments-are-making-a-dangerous-bet-on-the-ai-boom)
+🔗 **Read more:** [https://github.com/asamassekou10/ship-safe](https://github.com/asamassekou10/ship-safe)
 
 ---
 
-### 2. Nashville uses eminent domain to block data center near zoo
+### 2. Show HN: Wallfacer – A terminal session manager for Claude Code, and more
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/pradipta/wallfacer">https://github.com/pradipta/wallfacer</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49192219">https://news.ycombinator.com/item?id=49192219</a></p>
+<p>Points: 8</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://github.com/pradipta/wallfacer](https://github.com/pradipta/wallfacer)
+
+---
+
+### 3. Nashville uses eminent domain to block data center near zoo
 
 **Source:** Hacker News
 
@@ -35,30 +51,27 @@
 **Description:**
 <p>Article URL: <a href="https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project">https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49191624">https://news.ycombinator.com/item?id=49191624</a></p>
-<p>Points: 120</p>
-<p># Comments: 107</p>
+<p>Points: 169</p>
+<p># Comments: 174</p>
 
 🔗 **Read more:** [https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project](https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project)
 
 ---
 
-### 3. LLMs won't break symmetric crypto
+### 4. Young women tell BBC of rape, assault and harassment at Army training college for teenagers
 
-**Source:** Hacker News
+**Source:** BBC
 
-**Category:** technology
+**Category:** world
 
 **Description:**
-<p>Article URL: <a href="https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto">https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49191365">https://news.ycombinator.com/item?id=49191365</a></p>
-<p>Points: 59</p>
-<p># Comments: 61</p>
+They say the incidents happened at the Army Foundation College in Harrogate when they were aged 17.
 
-🔗 **Read more:** [https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto](https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3w07p7wqv1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3w07p7wqv1o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. Infantino sorry for errors but stays Fifa president
+### 5. Infantino sorry for errors but stays Fifa president
 
 **Source:** BBC
 
@@ -71,7 +84,7 @@ Gianni Infantino will remain as Fifa president after receiving the backing of se
 
 ---
 
-### 5. University of Cambridge professor at centre of plagiarism row resigns
+### 6. University of Cambridge professor at centre of plagiarism row resigns
 
 **Source:** BBC
 
@@ -84,20 +97,33 @@ Prof Jason Arday said he had "concluded that the only way to bring this chapter 
 
 ---
 
-### 6. Families express anger over jailed funeral boss's letter
+### 7. Carney curses Infantino as FIFA backs its president
 
-**Source:** BBC
+**Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Robert Bush issues an open letter of apology to families affected by the Hull funeral scandal.
+FIFA’s President Gianni Infantino gets the support of executive members at an emergency meeting in Morocco.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c79gxqynwd3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c79gxqynwd3o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/6/carney-curses-infantino-as-fifa-backs-its-president?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/6/carney-curses-infantino-as-fifa-backs-its-president?traffic_source=rss)
 
 ---
 
-### 7. Trump attacks El-Sayed as ‘hater of Jews’ after Michigan win
+### 8. Strait of Hormuz tolls would harm livelihoods worldwide, shipowners warn
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Eight leading shipping organisations sign letter opposing fees in critical waterway.
+
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/6/strait-of-hormuz-tolls-would-harm-livelihoods-worldwide-shipowners-warn?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/6/strait-of-hormuz-tolls-would-harm-livelihoods-worldwide-shipowners-warn?traffic_source=rss)
+
+---
+
+### 9. Trump attacks El-Sayed as ‘hater of Jews’ after Michigan win
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Robert Bush issues an open letter of apology to families affected by the Hull fu
 US President Donald Trump attacked Michigan’s Democratic Senate candidate Abdul El-Sayed, calling him a ‘hater of Jews.&#039;
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/6/trump-attacks-el-sayed-as-hater-of-jews-after-michigan-win?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/6/trump-attacks-el-sayed-as-hater-of-jews-after-michigan-win?traffic_source=rss)
-
----
-
-### 8. Could the Iran war derail Donald Trump’s legacy?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-President Trump is looking to reframe the Iran war ahead of the 2026 midterm elections in November.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/6/could-the-iran-war-derail-donald-trumps-legacy?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/6/could-the-iran-war-derail-donald-trumps-legacy?traffic_source=rss)
-
----
-
-### 9. Trump administration refunds $100bn in tariffs struck down by Supreme Court
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Move comes after the US Supreme Court struck down many of Trump&#039;s sweeping levies in February.
-
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/6/trump-administration-refunds-100bn-in-tariffs-struck-down-by-supreme-court?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/6/trump-administration-refunds-100bn-in-tariffs-struck-down-by-supreme-court?traffic_source=rss)
 
 ---
 

@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-06 14:28:20
+**Last Update:** 2026-08-06 14:55:43
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://buttondown.com/blog/what-i-love-about-django">https://buttondown.com/blog/what-i-love-about-django</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49193673">https://news.ycombinator.com/item?id=49193673</a></p>
-<p>Points: 71</p>
-<p># Comments: 48</p>
+<p>Points: 74</p>
+<p># Comments: 49</p>
 
 🔗 **Read more:** [https://buttondown.com/blog/what-i-love-about-django](https://buttondown.com/blog/what-i-love-about-django)
 
@@ -35,26 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/">https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49193314">https://news.ycombinator.com/item?id=49193314</a></p>
-<p>Points: 56</p>
-<p># Comments: 24</p>
+<p>Points: 64</p>
+<p># Comments: 27</p>
 
 🔗 **Read more:** [https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/](https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/)
 
 ---
 
-### 3. Crime Pays but Botany Doesn't
+### 3. On non-rooted Android 17, ADB uninstall of system apps fails
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.crimepaysbutbotanydoesnt.com/reading-list">https://www.crimepaysbutbotanydoesnt.com/reading-list</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49192566">https://news.ycombinator.com/item?id=49192566</a></p>
-<p>Points: 245</p>
-<p># Comments: 97</p>
+<p>Article URL: <a href="https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/issues/1426">https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/issues/1426</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49193173">https://news.ycombinator.com/item?id=49193173</a></p>
+<p>Points: 15</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.crimepaysbutbotanydoesnt.com/reading-list](https://www.crimepaysbutbotanydoesnt.com/reading-list)
+🔗 **Read more:** [https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/issues/1426](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/issues/1426)
 
 ---
 
@@ -97,7 +97,33 @@ A comprehensive assessment of England's waterways is the first in six years and 
 
 ---
 
-### 7. Cambridge professor Jason Arday quits amid plagiarism allegations
+### 7. Who was Cesar Gastelum, Mexican TikToker shot dead mid-livestream?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Gastelum&#039;s death comes after the killing of TikToker Valeria Marquez last year.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/6/who-was-cesar-gastelum-mexican-tiktoker-shot-dead-mid-livestream?traffic_source=rss](https://www.aljazeera.com/news/2026/8/6/who-was-cesar-gastelum-mexican-tiktoker-shot-dead-mid-livestream?traffic_source=rss)
+
+---
+
+### 8. What the CJP protests reveal about India’s next generation
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The politics of aspiration is reshaping Generation Z worldwide, and India may still have an opportunity to respond.
+
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/6/what-the-cjp-protests-reveal-about-indias-next-generation?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/6/what-the-cjp-protests-reveal-about-indias-next-generation?traffic_source=rss)
+
+---
+
+### 9. Cambridge professor Jason Arday quits amid plagiarism allegations
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ A comprehensive assessment of England's waterways is the first in six years and 
 The scholar announced his resignation amid a new investigation into his qualifications.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/6/cambridge-professor-jason-arday-quits-amid-plagiarism-allegations?traffic_source=rss](https://www.aljazeera.com/news/2026/8/6/cambridge-professor-jason-arday-quits-amid-plagiarism-allegations?traffic_source=rss)
-
----
-
-### 8. Hormuz deal ‘close’: What’s the latest on each side’s positions?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-US officials say they would not accept any arrangement on the waterway that would leave Iran in control.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/6/hormuz-deal-close-whats-the-latest-on-each-sides-positions?traffic_source=rss](https://www.aljazeera.com/news/2026/8/6/hormuz-deal-close-whats-the-latest-on-each-sides-positions?traffic_source=rss)
-
----
-
-### 9. Uganda football star Owori killed, weeks after death of rugby’s Gongodyo
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-SC Villa captain and Ugandan international David Owori was found unconscious by passers-by, but later pronounced dead.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/6/uganda-football-star-owori-killed-weeks-after-death-of-rugbys-gongodyo?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/6/uganda-football-star-owori-killed-weeks-after-death-of-rugbys-gongodyo?traffic_source=rss)
 
 ---
 

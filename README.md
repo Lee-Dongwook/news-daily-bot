@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-06 17:49:24
+**Last Update:** 2026-08-06 19:06:39
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. I added a real-time chat to my blog, people used it to attack me
+### 1. Taylor Farms Cyclospora outbreak triples in size
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://efoodalert.com/2026/08/05/taylor-farms-cyclospora-outbreak-triples-in-size/">https://efoodalert.com/2026/08/05/taylor-farms-cyclospora-outbreak-triples-in-size/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49197498">https://news.ycombinator.com/item?id=49197498</a></p>
+<p>Points: 17</p>
+<p># Comments: 11</p>
+
+🔗 **Read more:** [https://efoodalert.com/2026/08/05/taylor-farms-cyclospora-outbreak-triples-in-size/](https://efoodalert.com/2026/08/05/taylor-farms-cyclospora-outbreak-triples-in-size/)
+
+---
+
+### 2. Degrees of Wealth
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://jaapgrolleman.com/degrees-of-wealth/">https://jaapgrolleman.com/degrees-of-wealth/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49197109">https://news.ycombinator.com/item?id=49197109</a></p>
+<p>Points: 29</p>
+<p># Comments: 36</p>
+
+🔗 **Read more:** [https://jaapgrolleman.com/degrees-of-wealth/](https://jaapgrolleman.com/degrees-of-wealth/)
+
+---
+
+### 3. I added a real-time chat to my blog, people used it to attack me
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://en.andros.dev/blog/b6c32a90/i-added-a-real-time-chat-to-my-blog-people-used-it-to-attack-me/">https://en.andros.dev/blog/b6c32a90/i-added-a-real-time-chat-to-my-blog-people-used-it-to-attack-me/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49196745">https://news.ycombinator.com/item?id=49196745</a></p>
-<p>Points: 10</p>
-<p># Comments: 5</p>
+<p>Points: 54</p>
+<p># Comments: 64</p>
 
 🔗 **Read more:** [https://en.andros.dev/blog/b6c32a90/i-added-a-real-time-chat-to-my-blog-people-used-it-to-attack-me/](https://en.andros.dev/blog/b6c32a90/i-added-a-real-time-chat-to-my-blog-people-used-it-to-attack-me/)
-
----
-
-### 2. Telephones Caught in Between
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://computer.rip/2026-08-02-telephone-leasing.html">https://computer.rip/2026-08-02-telephone-leasing.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49195819">https://news.ycombinator.com/item?id=49195819</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://computer.rip/2026-08-02-telephone-leasing.html](https://computer.rip/2026-08-02-telephone-leasing.html)
-
----
-
-### 3. Humans missed 1 in 3 threats approving AI agent commands across 40k game runs
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://scalex.dev/blog/ai-agent-permissions-stats/">https://scalex.dev/blog/ai-agent-permissions-stats/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49195468">https://news.ycombinator.com/item?id=49195468</a></p>
-<p>Points: 50</p>
-<p># Comments: 29</p>
-
-🔗 **Read more:** [https://scalex.dev/blog/ai-agent-permissions-stats/](https://scalex.dev/blog/ai-agent-permissions-stats/)
 
 ---
 
@@ -84,55 +84,55 @@ Four women told the BBC they were sexually assaulted and harassed while attendin
 
 ---
 
-### 6. Majority of England's rivers and lakes fail new environmental review
+### 6. Stephen Bear jailed for harassing ex-partner Georgia Harrison
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-A comprehensive assessment of England's waterways is the first in six years and shows little improvement.
+The reality TV contestant is back in prison after admitting a harassment charge regarding Georgia Harrison.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq6d0y5e3mjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq6d0y5e3mjo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cewrjp2gj4ko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cewrjp2gj4ko?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Why $370bn tech group Palantir pays just 1.4 percent tax: Report
+### 7. Trump vows to find ‘leakers’ after reports of depleted Iran war munitions
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The AI group&#039;s technology is used by Israeli military and Trump administration&#039;s ICE.
+The Trump administration has repeatedly pushed back on reports of shortages of both US offensive and defensive weapons.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/6/why-370bn-tech-group-palantir-pays-just-1-4-percent-tax-report?traffic_source=rss](https://www.aljazeera.com/news/2026/8/6/why-370bn-tech-group-palantir-pays-just-1-4-percent-tax-report?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/6/trump-vows-to-find-leakers-after-reports-of-depleted-iran-war-munitions?traffic_source=rss](https://www.aljazeera.com/news/2026/8/6/trump-vows-to-find-leakers-after-reports-of-depleted-iran-war-munitions?traffic_source=rss)
 
 ---
 
-### 8. FIFA pays up on overdue prize money after Jordan ‘blackmail’ remark
+### 8. UNICEF says one child killed per day in Gaza since ‘ceasefire’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Jordan FA&#039;s president, ​Prince Ali bin Hussein, accused FIFA of &#039;blackmail&#039;, and delayed Arab Cup prize money now paid.
+At least 300 children reported killed in Gaza in 300 days since October 2025 truce between Israel and Hamas was agreed.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/6/fifa-pay-up-on-overdue-prize-money-after-jordan-blackmail-remark?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/6/fifa-pay-up-on-overdue-prize-money-after-jordan-blackmail-remark?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/6/unicef-says-one-child-killed-per-day-in-gaza-since-ceasefire-2?traffic_source=rss](https://www.aljazeera.com/news/2026/8/6/unicef-says-one-child-killed-per-day-in-gaza-since-ceasefire-2?traffic_source=rss)
 
 ---
 
-### 9. What does the world pay for a child’s education?
+### 9. War on Iran: Iran and Oman agree on Strait of Hormuz deal
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Rich countries spend 41 times more on each child&#039;s education. AJLabs looks at the classroom inequality around the world.
+Iran and Oman agree on new coordinates for ships to pass through the Strait of Hormuz.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/by-the-numbers-3/2026/8/6/what-does-the-world-pay-for-a-childs-education?traffic_source=rss](https://www.aljazeera.com/video/by-the-numbers-3/2026/8/6/what-does-the-world-pay-for-a-childs-education?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/6/aje-onl-nf_aje-onl-nf-iran-omar-hormuz-deal-060826?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/6/aje-onl-nf_aje-onl-nf-iran-omar-hormuz-deal-060826?traffic_source=rss)
 
 ---
 

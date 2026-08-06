@@ -1,64 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-06 02:57:27
+**Last Update:** 2026-08-06 04:19:59
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. The title cards in Blade Runner are amazing
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://randsinrepose.com/archives/blade-runner-title-cards/">https://randsinrepose.com/archives/blade-runner-title-cards/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49189287">https://news.ycombinator.com/item?id=49189287</a></p>
-<p>Points: 81</p>
-<p># Comments: 19</p>
-
-🔗 **Read more:** [https://randsinrepose.com/archives/blade-runner-title-cards/](https://randsinrepose.com/archives/blade-runner-title-cards/)
-
----
-
-### 2. NVIDIA’s Vera Whitepaper Has a Thread Loose
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread">https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49189234">https://news.ycombinator.com/item?id=49189234</a></p>
-<p>Points: 49</p>
-<p># Comments: 4</p>
-
-🔗 **Read more:** [https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread](https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread)
-
----
-
-### 3. Prime Agent: A self-improving RLM agent
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.primeintellect.ai/blog/prime-agent">https://www.primeintellect.ai/blog/prime-agent</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49189075">https://news.ycombinator.com/item?id=49189075</a></p>
-<p>Points: 62</p>
-<p># Comments: 8</p>
-
-🔗 **Read more:** [https://www.primeintellect.ai/blog/prime-agent](https://www.primeintellect.ai/blog/prime-agent)
-
----
-
-### 4. Infantino sorry for errors but stays Fifa president
+### 1. Infantino sorry for errors but stays Fifa president
 
 **Source:** BBC
 
@@ -71,7 +23,7 @@ Gianni Infantino will remain as Fifa president after receiving the backing of se
 
 ---
 
-### 5. Ex neo-Nazi activist withdraws as Tory election candidate
+### 2. Ex neo-Nazi activist withdraws as Tory election candidate
 
 **Source:** BBC
 
@@ -84,59 +36,59 @@ Kemi Badenoch says Joshua Bonehill-Paine will now advise the Conservatives on ta
 
 ---
 
-### 6. Woman arrested after four stabbed in central London
+### 3. University of Cambridge professor at centre of plagiarism row resigns
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-A woman is arrested after four men are stabbed in central London, the Metropolitan Police said.
+Prof Jason Arday said he had "concluded that the only way to bring this chapter to an end is to step away".
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cn0nk17881yo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cn0nk17881yo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c1e146jw618o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c1e146jw618o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. FIFA pledges to defend Infantino after World Cup rights plan collapses
+### 4. Meta’s AI model follows rivals in revealing hacks of outside systems
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Infantino has faced leadership crisis as UEFA, AFC and Concacaf threaten drastic actions over commercial rights plan.
+Meta joins OpenAI and Anthropic in disclosing AI hacking during cybersecurity testing.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/5/fifa-pledges-to-defend-infantino-after-world-cup-rights-plan-collapses?traffic_source=rss](https://www.aljazeera.com/news/2026/8/5/fifa-pledges-to-defend-infantino-after-world-cup-rights-plan-collapses?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/6/metas-ai-model-follows-rivals-in-revealing-hacks-of-outside-systems?traffic_source=rss](https://www.aljazeera.com/news/2026/8/6/metas-ai-model-follows-rivals-in-revealing-hacks-of-outside-systems?traffic_source=rss)
 
 ---
 
-### 8. Erica Schwartz confirmed as new CDC chief amid US agency turmoil
+### 5. FAA says Trump’s Marine One briefly flew too close to passenger jet
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US public health agency faces toughest test as Schwartz takes charge amid political pressure and public health crises.
+Air traffic controllers had failed to pause commercial flights during Marine One’s departure, sources say.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/5/erica-schwartz-confirmed-as-new-cdc-chief-amid-us-agency-turmoil?traffic_source=rss](https://www.aljazeera.com/news/2026/8/5/erica-schwartz-confirmed-as-new-cdc-chief-amid-us-agency-turmoil?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/6/faa-says-trumps-marine-one-briefly-flew-too-close-to-passenger-jet?traffic_source=rss](https://www.aljazeera.com/news/2026/8/6/faa-says-trumps-marine-one-briefly-flew-too-close-to-passenger-jet?traffic_source=rss)
 
 ---
 
-### 9. Israeli occupation destroys farmland and lives in southern Syria
+### 6. Mamdani praises El-Sayed’s victory, rejects ‘mini Mamdani’ trope
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli occupation destroys farmland and lives in southern Syria
+New York City’s Mayor Zohran Mamdani congratulated Abdul El-Sayed on winning Michigan’s Democratic Senate primary.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/5/israeli-occupation-destroys-farmland-and-lives-in-southern-syria?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/5/israeli-occupation-destroys-farmland-and-lives-in-southern-syria?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/6/mamdani-praises-el-sayeds-victory-rejects-mini-mamdani-trope?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/6/mamdani-praises-el-sayeds-victory-rejects-mini-mamdani-trope?traffic_source=rss)
 
 ---
 
-### 10. Wildfire Middle Coulee, Chouteau, Montana
+### 7. Wildfire Middle Coulee, Chouteau, Montana
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Wildfires
 
 ---
 
-### 11. Wildfire Antelope Creek, Elko, Nevada
+### 8. Wildfire Antelope Creek, Elko, Nevada
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Wildfire Bluegill, Miami-Dade, Florida
+### 9. Wildfire Bluegill, Miami-Dade, Florida
 
 **Source:** NASA
 

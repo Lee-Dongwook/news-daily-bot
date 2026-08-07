@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-07 14:43:27
+**Last Update:** 2026-08-07 15:19:13
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. US strikes $1.2B deal to pay German firm to halt offshore wind projects
+### 1. The Gargantuan Lie That Is Collapsing the Climate
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.currentaffairs.org/news/the-massive-climate-lie-that-will-destroy-human-civilization">https://www.currentaffairs.org/news/the-massive-climate-lie-that-will-destroy-human-civilization</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49208686">https://news.ycombinator.com/item?id=49208686</a></p>
+<p>Points: 10</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://www.currentaffairs.org/news/the-massive-climate-lie-that-will-destroy-human-civilization](https://www.currentaffairs.org/news/the-massive-climate-lie-that-will-destroy-human-civilization)
+
+---
+
+### 2. US strikes $1.2B deal to pay German firm to halt offshore wind projects
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.bbc.com/news/articles/c1e1vg0gjl5o">https://www.bbc.com/news/articles/c1e1vg0gjl5o</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49208314">https://news.ycombinator.com/item?id=49208314</a></p>
-<p>Points: 74</p>
-<p># Comments: 38</p>
+<p>Points: 170</p>
+<p># Comments: 121</p>
 
 🔗 **Read more:** [https://www.bbc.com/news/articles/c1e1vg0gjl5o](https://www.bbc.com/news/articles/c1e1vg0gjl5o)
 
 ---
 
-### 2. Framework discloses data breach via Metabase 0-day
+### 3. Framework discloses data breach via Metabase 0-day
 
 **Source:** Hacker News
 
@@ -35,39 +51,23 @@
 **Description:**
 <p>Article URL: <a href="https://community.frame.work/t/framework-data-breach-discussion/83939">https://community.frame.work/t/framework-data-breach-discussion/83939</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49206130">https://news.ycombinator.com/item?id=49206130</a></p>
-<p>Points: 93</p>
-<p># Comments: 31</p>
+<p>Points: 96</p>
+<p># Comments: 34</p>
 
 🔗 **Read more:** [https://community.frame.work/t/framework-data-breach-discussion/83939](https://community.frame.work/t/framework-data-breach-discussion/83939)
 
 ---
 
-### 3. New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/">https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49204546">https://news.ycombinator.com/item?id=49204546</a></p>
-<p>Points: 60</p>
-<p># Comments: 89</p>
-
-🔗 **Read more:** [https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/](https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/)
-
----
-
-### 4. I was standing in front of my teacher when she was shot, Thai pupil says
+### 4. Academics call for independent inquiry into Jason Arday's Cambridge appointment
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The student says she had to climb over a school fence to flee the shooting which killed five teachers.
+Prof Priyamvada Gopal, who is part of the group, says Cambridge should not be "marking its own homework".
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c05q0nznq24o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c05q0nznq24o?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +97,42 @@ The 30-year-old former Brentford striker is due to appear in court next month.
 
 ---
 
-### 7. Houthi strikes in Yemen as Saudi Arabia braces for attacks: What we know
+### 7. Northern Ethiopia’s shifting alliances explained
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Tensions between the Houthis and Saudi Arabia have increased since the US-Israel war on Iran began.
+The TPLF, Fano militias and Eritrea are redrawing the battle lines in Ethiopia’s north.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/7/houthi-strikes-hit-yemen-as-saudi-arabia-braces-for-attacks-what-we-know?traffic_source=rss](https://www.aljazeera.com/news/2026/8/7/houthi-strikes-hit-yemen-as-saudi-arabia-braces-for-attacks-what-we-know?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/7/northern-ethiopias-shifting-alliances-explained?traffic_source=rss](https://www.aljazeera.com/news/2026/8/7/northern-ethiopias-shifting-alliances-explained?traffic_source=rss)
 
 ---
 
-### 8. Central Europe sees record temperatures as heatwave continues
+### 8. Trump says war ‘can’t go much longer’ – what’s the latest on talks?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Record-breaking temperatures in Slovakia and Austria as Italy places all of its 27 major cities on highest heat alert.
+Reports suggest that Tehran is discussing a bill barring US and Israeli vessels from passing the Strait of Hormuz.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/7/central-europe-sees-record-temperatures-as-heatwave-continues?traffic_source=rss](https://www.aljazeera.com/news/2026/8/7/central-europe-sees-record-temperatures-as-heatwave-continues?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/7/trump-says-war-cant-go-much-longer-whats-the-latest-on?traffic_source=rss](https://www.aljazeera.com/news/2026/8/7/trump-says-war-cant-go-much-longer-whats-the-latest-on?traffic_source=rss)
 
 ---
 
-### 9. Saudi Pro League’s England international Toney charged with assault
+### 9. Houthi attacks on gov’t forces hint that a major battle in Yemen is brewing
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ivan Toney charged for an assault that allegedly ​took place on December 6 last year in United Kingdom.
+Houthis&#039; expansion of cross-border attacks means an even bloodier war may be imminent, analysts say.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/7/saudi-pro-leagues-england-international-toney-charged-with-assault?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/7/saudi-pro-leagues-england-international-toney-charged-with-assault?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/7/houthi-attacks-on-govt-forces-hint-that-a-major-battle-in-yemen-is-brewing?traffic_source=rss](https://www.aljazeera.com/news/2026/8/7/houthi-attacks-on-govt-forces-hint-that-a-major-battle-in-yemen-is-brewing?traffic_source=rss)
 
 ---
 

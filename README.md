@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-07 18:25:32
+**Last Update:** 2026-08-07 18:44:46
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. US's largest newspaper chain partners with Palantir to analyze audience data
+### 1. Iceberg Collapses and Flips over in Ilulissat, Greenland (July 25, 2026) [video]
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.niemanlab.org/2026/08/americas-largest-newspaper-chain-usa-today-co-partners-with-palantir-to-analyze-audience-data/">https://www.niemanlab.org/2026/08/americas-largest-newspaper-chain-usa-today-co-partners-with-palantir-to-analyze-audience-data/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49210589">https://news.ycombinator.com/item?id=49210589</a></p>
-<p>Points: 47</p>
-<p># Comments: 13</p>
+<p>Article URL: <a href="https://www.youtube.com/watch?v=UufMqwyO7pY">https://www.youtube.com/watch?v=UufMqwyO7pY</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49211438">https://news.ycombinator.com/item?id=49211438</a></p>
+<p>Points: 8</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.niemanlab.org/2026/08/americas-largest-newspaper-chain-usa-today-co-partners-with-palantir-to-analyze-audience-data/](https://www.niemanlab.org/2026/08/americas-largest-newspaper-chain-usa-today-co-partners-with-palantir-to-analyze-audience-data/)
+🔗 **Read more:** [https://www.youtube.com/watch?v=UufMqwyO7pY](https://www.youtube.com/watch?v=UufMqwyO7pY)
 
 ---
 
-### 2. U.S. Lost 23,000 Jobs in July, While Unemployment Ticked Lower
+### 2. Software is about people, not code
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.wsj.com/economy/jobs/july-jobs-report-unemployment-0d7c08a7">https://www.wsj.com/economy/jobs/july-jobs-report-unemployment-0d7c08a7</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49210240">https://news.ycombinator.com/item?id=49210240</a></p>
-<p>Points: 39</p>
+<p>Article URL: <a href="https://letterstoanewdeveloper.com/2020/01/27/software-is-about-people-not-code/">https://letterstoanewdeveloper.com/2020/01/27/software-is-about-people-not-code/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49211437">https://news.ycombinator.com/item?id=49211437</a></p>
+<p>Points: 8</p>
 <p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.wsj.com/economy/jobs/july-jobs-report-unemployment-0d7c08a7](https://www.wsj.com/economy/jobs/july-jobs-report-unemployment-0d7c08a7)
+🔗 **Read more:** [https://letterstoanewdeveloper.com/2020/01/27/software-is-about-people-not-code/](https://letterstoanewdeveloper.com/2020/01/27/software-is-about-people-not-code/)
 
 ---
 
-### 3. AI psychosis is the new leadership blind spot
+### 3. 99% of My Website Traffic Is Bots
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots">https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49210077">https://news.ycombinator.com/item?id=49210077</a></p>
-<p>Points: 107</p>
-<p># Comments: 54</p>
+<p>Article URL: <a href="https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/">https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49211386">https://news.ycombinator.com/item?id=49211386</a></p>
+<p>Points: 29</p>
+<p># Comments: 15</p>
 
-🔗 **Read more:** [https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots](https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots)
+🔗 **Read more:** [https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/](https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/)
 
 ---
 

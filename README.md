@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-07 08:39:28
+**Last Update:** 2026-08-07 09:12:30
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7">https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49204352">https://news.ycombinator.com/item?id=49204352</a></p>
-<p>Points: 120</p>
-<p># Comments: 68</p>
+<p>Points: 143</p>
+<p># Comments: 84</p>
 
 🔗 **Read more:** [https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7](https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.wired.com/story/hackers-stalked-me-by-hijacking-a-smartwatch-for-kids/">https://www.wired.com/story/hackers-stalked-me-by-hijacking-a-smartwatch-for-kids/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49204060">https://news.ycombinator.com/item?id=49204060</a></p>
-<p>Points: 37</p>
-<p># Comments: 13</p>
+<p>Points: 46</p>
+<p># Comments: 29</p>
 
 🔗 **Read more:** [https://www.wired.com/story/hackers-stalked-me-by-hijacking-a-smartwatch-for-kids/](https://www.wired.com/story/hackers-stalked-me-by-hijacking-a-smartwatch-for-kids/)
 
@@ -51,27 +51,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/">https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49203105">https://news.ycombinator.com/item?id=49203105</a></p>
-<p>Points: 114</p>
+<p>Points: 116</p>
 <p># Comments: 19</p>
 
 🔗 **Read more:** [https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/](https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/)
 
 ---
 
-### 4. Meta fined $567m in largest child safety ruling against social media giant
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Former officer says he's 'appalled' PC Harper's killers could be released early
+### 4. Officer who led PC Harper investigation 'appalled' killers could be released early
 
 **Source:** BBC
 
@@ -84,20 +71,46 @@ Former Det Sup Stuart Blaik, who led the investigation into the police officer's
 
 ---
 
-### 6. Trump denies US weapons shortage and says information 'leakers' being 'hunted down'
+### 5. Arrests in Norfolk town as disorder continues for third night
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-While precise data is classified, publicly available information suggests the US has used up many difficult-to-manufacture weapons.
+The arrests follow disorder linked to anti-immigration protests in the Norfolk market town.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cy8mjd19xm7o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cy8mjd19xm7o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c74g1gxvwlvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c74g1gxvwlvo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Turkiye’s Erdogan visits Saudi Arabia: What to expect
+### 6. Meta fined $567m in largest child safety ruling against social media giant
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 7. Record-high heat soars through South Korea
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+A record-high heatwave is sweeping through the Korean Peninsula, sending temperatures skyrocketing, reaching 42.5C.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/7/record-high-heat-soars-through-south-korea?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/7/record-high-heat-soars-through-south-korea?traffic_source=rss)
+
+---
+
+### 8. Turkiye’s Erdogan visits Saudi Arabia: What to expect
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Erdogan will meet with Saudi Crown Prince Mohammed bin Salman and Pakistani PM S
 
 ---
 
-### 8. One killed, four injured in Thailand school shooting, officials say
+### 9. One killed, four injured in Thailand school shooting, officials say
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Erdogan will meet with Saudi Crown Prince Mohammed bin Salman and Pakistani PM S
 Authorities say the gunman, a student, killed a teacher before taking his own life at a school northwest of Bangkok.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/7/one-killed-four-injured-in-thailand-school-shooting-officials-say?traffic_source=rss](https://www.aljazeera.com/news/2026/8/7/one-killed-four-injured-in-thailand-school-shooting-officials-say?traffic_source=rss)
-
----
-
-### 9. Anti-Muslim US Congressman Andy Ogles loses Republican primary
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Trump&#039;s endorsement fails to save Tennessee legislator who recently said &#039;Muslims don&#039;t belong in American society&#039;.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/7/anti-muslim-us-congressman-andy-ogles-loses-congressional-primary?traffic_source=rss](https://www.aljazeera.com/news/2026/8/7/anti-muslim-us-congressman-andy-ogles-loses-congressional-primary?traffic_source=rss)
 
 ---
 

@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-07 07:21:32
+**Last Update:** 2026-08-07 08:39:28
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7">https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49204352">https://news.ycombinator.com/item?id=49204352</a></p>
-<p>Points: 102</p>
-<p># Comments: 56</p>
+<p>Points: 120</p>
+<p># Comments: 68</p>
 
 🔗 **Read more:** [https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7](https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.wired.com/story/hackers-stalked-me-by-hijacking-a-smartwatch-for-kids/">https://www.wired.com/story/hackers-stalked-me-by-hijacking-a-smartwatch-for-kids/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49204060">https://news.ycombinator.com/item?id=49204060</a></p>
-<p>Points: 18</p>
-<p># Comments: 2</p>
+<p>Points: 37</p>
+<p># Comments: 13</p>
 
 🔗 **Read more:** [https://www.wired.com/story/hackers-stalked-me-by-hijacking-a-smartwatch-for-kids/](https://www.wired.com/story/hackers-stalked-me-by-hijacking-a-smartwatch-for-kids/)
 
@@ -51,7 +51,7 @@
 **Description:**
 <p>Article URL: <a href="https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/">https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49203105">https://news.ycombinator.com/item?id=49203105</a></p>
-<p>Points: 108</p>
+<p>Points: 114</p>
 <p># Comments: 19</p>
 
 🔗 **Read more:** [https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/](https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/)
@@ -65,22 +65,22 @@
 **Category:** world
 
 **Description:**
-A New Mexico judge ordered the Instagram, Facebook and Whatsapp parent company to pay another $567m for the way it has harmed children.
+The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Thousands of rail passengers hit by power failure disruption
+### 5. Former officer says he's 'appalled' PC Harper's killers could be released early
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-An outage in Manchester caused delays and cancellations, with services expected to be affected throughout the evening.
+Former Det Sup Stuart Blaik, who led the investigation into the police officer's death, has publicly shared his views on the case for the first time.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cn5nlvdxpwpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cn5nlvdxpwpo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9q9erpz953o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9q9erpz953o?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +97,42 @@ While precise data is classified, publicly available information suggests the US
 
 ---
 
-### 7. More than one million affected by floods in India’s Assam state
+### 7. Turkiye’s Erdogan visits Saudi Arabia: What to expect
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Thousands of people in India have been displaced since July after monsoon rains triggered severe flooding.
+Erdogan will meet with Saudi Crown Prince Mohammed bin Salman and Pakistani PM Shehbaz Sharif, his office says.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/7/more-than-one-million-affected-by-floods-in-indias-assam-state?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/7/more-than-one-million-affected-by-floods-in-indias-assam-state?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/7/turkiyes-erdogan-to-visit-saudi-arabia-what-to-expect?traffic_source=rss](https://www.aljazeera.com/news/2026/8/7/turkiyes-erdogan-to-visit-saudi-arabia-what-to-expect?traffic_source=rss)
 
 ---
 
-### 8. Exclusive report with the 308 people rescued by Nigerian forces
+### 8. One killed, four injured in Thailand school shooting, officials say
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Nigerian security forces have rescued 308 people abducted in separate attacks in northern Niger and Kwara states.
+Authorities say the gunman, a student, killed a teacher before taking his own life at a school northwest of Bangkok.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/7/exclusive-report-with-the-308-people-rescued-by-nigerian-forces?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/7/exclusive-report-with-the-308-people-rescued-by-nigerian-forces?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/7/one-killed-four-injured-in-thailand-school-shooting-officials-say?traffic_source=rss](https://www.aljazeera.com/news/2026/8/7/one-killed-four-injured-in-thailand-school-shooting-officials-say?traffic_source=rss)
 
 ---
 
-### 9. Israeli raid in West Bank’s Qalandiya injures 51 Palestinians
+### 9. Anti-Muslim US Congressman Andy Ogles loses Republican primary
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli forces arrest dozens of Palestinians near Jerusalem amid uptick in military and settler violence in West Bank.
+Trump&#039;s endorsement fails to save Tennessee legislator who recently said &#039;Muslims don&#039;t belong in American society&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/7/israeli-raid-in-west-banks-qalandiya-injures-51-palestinians?traffic_source=rss](https://www.aljazeera.com/news/2026/8/7/israeli-raid-in-west-banks-qalandiya-injures-51-palestinians?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/7/anti-muslim-us-congressman-andy-ogles-loses-congressional-primary?traffic_source=rss](https://www.aljazeera.com/news/2026/8/7/anti-muslim-us-congressman-andy-ogles-loses-congressional-primary?traffic_source=rss)
 
 ---
 

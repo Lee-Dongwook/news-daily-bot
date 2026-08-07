@@ -1,16 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-07 12:32:39
+**Last Update:** 2026-08-07 13:53:42
 
 **Total News:** 9
 
-**Sources:** BBC, Al Jazeera, Hacker News
+**Sources:** Hacker News, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. All memory manufactured in 2027 has been sold out
+### 1. 2027 memory capacity is reportedly sold out
 
 **Source:** Hacker News
 
@@ -19,46 +19,59 @@
 **Description:**
 <p>Article URL: <a href="https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out">https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49207236">https://news.ycombinator.com/item?id=49207236</a></p>
-<p>Points: 13</p>
-<p># Comments: 1</p>
+<p>Points: 65</p>
+<p># Comments: 42</p>
 
 🔗 **Read more:** [https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out](https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out)
 
 ---
 
-### 2. I won't read LLM authored fiction
+### 2. Framework discloses data breach via Metabase 0-day
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://mccormick.cx/news/entries/why-i-won-t-read-llm-authored-fiction">https://mccormick.cx/news/entries/why-i-won-t-read-llm-authored-fiction</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49207146">https://news.ycombinator.com/item?id=49207146</a></p>
-<p>Points: 33</p>
-<p># Comments: 18</p>
+<p>Article URL: <a href="https://community.frame.work/t/framework-data-breach-discussion/83939">https://community.frame.work/t/framework-data-breach-discussion/83939</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49206130">https://news.ycombinator.com/item?id=49206130</a></p>
+<p>Points: 81</p>
+<p># Comments: 30</p>
 
-🔗 **Read more:** [https://mccormick.cx/news/entries/why-i-won-t-read-llm-authored-fiction](https://mccormick.cx/news/entries/why-i-won-t-read-llm-authored-fiction)
+🔗 **Read more:** [https://community.frame.work/t/framework-data-breach-discussion/83939](https://community.frame.work/t/framework-data-breach-discussion/83939)
 
 ---
 
-### 3. Artificial Intelligence used to design new viruses
+### 3. New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.bbc.co.uk/news/articles/c5y3j3ngevmo">https://www.bbc.co.uk/news/articles/c5y3j3ngevmo</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49206642">https://news.ycombinator.com/item?id=49206642</a></p>
-<p>Points: 23</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/">https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49204546">https://news.ycombinator.com/item?id=49204546</a></p>
+<p>Points: 60</p>
+<p># Comments: 80</p>
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5y3j3ngevmo](https://www.bbc.co.uk/news/articles/c5y3j3ngevmo)
+🔗 **Read more:** [https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/](https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/)
 
 ---
 
-### 4. Officer who led PC Harper investigation 'appalled' killers could be released early
+### 4. Thai pupil describes harrowing moment teacher was shot in front of her
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The student says she had to climb over a school fence to flee the shooting which killed five teachers.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Officer who led PC Harper investigation 'appalled' killers could be released early
 
 **Source:** BBC
 
@@ -71,68 +84,55 @@ Former Det Sup Stuart Blaik, who led the investigation into the police officer's
 
 ---
 
-### 5. Arrests in Norfolk town as disorder continues for third night
+### 6. England footballer Ivan Toney charged with assault at Soho nightclub
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The arrests follow disturbances linked to anti-immigration protests in the market town.
+The 30-year-old former Brentford striker is due to appear in court next month.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c74g1gxvwlvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c74g1gxvwlvo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Meta fined $567m in largest child safety ruling against social media giant
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cpw9nz7qwyqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cpw9nz7qwyqo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Africa backs Infantino as CAF unanimously votes in FIFA president’s favour
+### 7. Central Europe sees record temperatures as heatwave continues
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-CAF president Patrice Motsepe calls for good governance, as Africa throws weight behind FIFA&#039;s Gianni Infantino.
+Record-breaking temperatures in Slovakia and Austria as Italy places all of its 27 major cities on highest heat alert.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/7/africa-backs-infantino-as-caf-unanimously-votes-if-fifa-presidents-favour?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/7/africa-backs-infantino-as-caf-unanimously-votes-if-fifa-presidents-favour?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/7/central-europe-sees-record-temperatures-as-heatwave-continues?traffic_source=rss](https://www.aljazeera.com/news/2026/8/7/central-europe-sees-record-temperatures-as-heatwave-continues?traffic_source=rss)
 
 ---
 
-### 8. Earthquake strikes as doctors perform surgery
+### 8. Saudi Pro League’s England international Toney charged with assault
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A viral video shows medical staff protecting a patient as an earthquake struck Japan during surgery.
+Ivan Toney charged for an assault that allegedly ​took place on December 6 last year in United Kingdom.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/7/earthquake-strikes-as-doctors-perform-surgery?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/7/earthquake-strikes-as-doctors-perform-surgery?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/7/saudi-pro-leagues-england-international-toney-charged-with-assault?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/7/saudi-pro-leagues-england-international-toney-charged-with-assault?traffic_source=rss)
 
 ---
 
-### 9. ‘Still searching for truth’: Daughter of Sikh activist killed 30 years ago
+### 9. ‘De-escalation’: Europe hesitates as US pushes for Hormuz naval mission
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Jaswant Singh Khalra&#039;s daughter Navkiran reflects on slain father&#039;s life and legacy, which also inspired a recent film.
+The UK and France are not seeking confrontation with Iran in the US-Israeli war Europe largely rejected, say analysts.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/7/still-searching-for-truth-daughter-of-sikh-activist-killed-30-years-ago?traffic_source=rss](https://www.aljazeera.com/news/2026/8/7/still-searching-for-truth-daughter-of-sikh-activist-killed-30-years-ago?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/7/hld-european-caution-slowing-us-push-for-hormuz-naval-coalition?traffic_source=rss](https://www.aljazeera.com/news/2026/8/7/hld-european-caution-slowing-us-push-for-hormuz-naval-coalition?traffic_source=rss)
 
 ---
 

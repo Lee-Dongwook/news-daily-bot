@@ -1,28 +1,28 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-08 01:11:30
+**Last Update:** 2026-08-08 01:32:38
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Chasa
+### 1. Water system controllers don't belong on the internet, says ex-NSA chief
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://chasa.io/">https://chasa.io/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49215762">https://news.ycombinator.com/item?id=49215762</a></p>
-<p>Points: 7</p>
-<p># Comments: 5</p>
+<p>Article URL: <a href="https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070">https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49216362">https://news.ycombinator.com/item?id=49216362</a></p>
+<p>Points: 14</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://chasa.io/](https://chasa.io/)
+🔗 **Read more:** [https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070](https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070)
 
 ---
 
@@ -35,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours">https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49214863">https://news.ycombinator.com/item?id=49214863</a></p>
-<p>Points: 159</p>
-<p># Comments: 60</p>
+<p>Points: 178</p>
+<p># Comments: 76</p>
 
 🔗 **Read more:** [https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours](https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours)
 
 ---
 
-### 3. Psychological Warfare in Reverse Engineering
+### 3. Psychological Warfare in Reverse Engineering (2015)
 
 **Source:** Hacker News
 
@@ -51,7 +51,7 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/xoreaxeaxeax/repsych">https://github.com/xoreaxeaxeax/repsych</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49214775">https://news.ycombinator.com/item?id=49214775</a></p>
-<p>Points: 24</p>
+<p>Points: 26</p>
 <p># Comments: 2</p>
 
 🔗 **Read more:** [https://github.com/xoreaxeaxeax/repsych](https://github.com/xoreaxeaxeax/repsych)

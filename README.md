@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-07 12:03:03
+**Last Update:** 2026-08-07 12:32:39
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** BBC, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. I won't read LLM authored fiction
+### 1. All memory manufactured in 2027 has been sold out
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out">https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49207236">https://news.ycombinator.com/item?id=49207236</a></p>
+<p>Points: 13</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out](https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out)
+
+---
+
+### 2. I won't read LLM authored fiction
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://mccormick.cx/news/entries/why-i-won-t-read-llm-authored-fiction">https://mccormick.cx/news/entries/why-i-won-t-read-llm-authored-fiction</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49207146">https://news.ycombinator.com/item?id=49207146</a></p>
-<p>Points: 20</p>
-<p># Comments: 8</p>
+<p>Points: 33</p>
+<p># Comments: 18</p>
 
 🔗 **Read more:** [https://mccormick.cx/news/entries/why-i-won-t-read-llm-authored-fiction](https://mccormick.cx/news/entries/why-i-won-t-read-llm-authored-fiction)
 
 ---
 
-### 2. Artificial Intelligence used to design new viruses
+### 3. Artificial Intelligence used to design new viruses
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.bbc.co.uk/news/articles/c5y3j3ngevmo">https://www.bbc.co.uk/news/articles/c5y3j3ngevmo</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49206642">https://news.ycombinator.com/item?id=49206642</a></p>
-<p>Points: 20</p>
+<p>Points: 23</p>
 <p># Comments: 2</p>
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5y3j3ngevmo](https://www.bbc.co.uk/news/articles/c5y3j3ngevmo)
-
----
-
-### 3. Framework discloses data breach via Metabase 0-day
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://community.frame.work/t/framework-data-breach-discussion/83939">https://community.frame.work/t/framework-data-breach-discussion/83939</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49206130">https://news.ycombinator.com/item?id=49206130</a></p>
-<p>Points: 68</p>
-<p># Comments: 20</p>
-
-🔗 **Read more:** [https://community.frame.work/t/framework-data-breach-discussion/83939](https://community.frame.work/t/framework-data-breach-discussion/83939)
 
 ---
 
@@ -133,45 +133,6 @@ A viral video shows medical staff protecting a patient as an earthquake struck J
 Jaswant Singh Khalra&#039;s daughter Navkiran reflects on slain father&#039;s life and legacy, which also inspired a recent film.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/7/still-searching-for-truth-daughter-of-sikh-activist-killed-30-years-ago?traffic_source=rss](https://www.aljazeera.com/news/2026/8/7/still-searching-for-truth-daughter-of-sikh-activist-killed-30-years-ago?traffic_source=rss)
-
----
-
-### 10. Wildfire Wrights Spring, Klamath, Oregon
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196)
-
----
-
-### 11. Wildfire BUZZARD, Kern, California
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195)
-
----
-
-### 12. Wildfire Bare, Sublette, Wyoming
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22197](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22197)
 
 ---
 

@@ -89,7 +89,16 @@
                 "BBC",
                 "Hacker News"
             ]
+        },
+        {
+            "time": "12-32",
+            "news_count": 9,
+            "sources": [
+                "BBC",
+                "Al Jazeera",
+                "Hacker News"
+            ]
         }
     ],
-    "total_news": 105
+    "total_news": 114
 }

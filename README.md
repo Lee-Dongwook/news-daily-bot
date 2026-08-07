@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-07 23:34:10
+**Last Update:** 2026-08-08 00:14:16
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours">https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49214863">https://news.ycombinator.com/item?id=49214863</a></p>
-<p>Points: 57</p>
-<p># Comments: 14</p>
+<p>Points: 111</p>
+<p># Comments: 33</p>
 
 🔗 **Read more:** [https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours](https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/xoreaxeaxeax/repsych">https://github.com/xoreaxeaxeax/repsych</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49214775">https://news.ycombinator.com/item?id=49214775</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Points: 10</p>
+<p># Comments: 1</p>
 
 🔗 **Read more:** [https://github.com/xoreaxeaxeax/repsych](https://github.com/xoreaxeaxeax/repsych)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://ancientlibrary.net/">https://ancientlibrary.net/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49214770">https://news.ycombinator.com/item?id=49214770</a></p>
-<p>Points: 28</p>
-<p># Comments: 7</p>
+<p>Points: 40</p>
+<p># Comments: 14</p>
 
 🔗 **Read more:** [https://ancientlibrary.net/](https://ancientlibrary.net/)
 
@@ -84,20 +84,46 @@ Simon Levy, from Tottenham, was left free to kill due to a string of police and 
 
 ---
 
-### 6. Cambridge to review process for hiring senior academics after Jason Arday resignation
+### 6. Counter-terror police reopen attempted burglary probe as part of Widdecombe inquiry
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Prof Priyamvada Gopal, who is part of the group, says Cambridge should not be "marking its own homework".
+No arrests were made at the time and the investigation was closed.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c05q0nznq24o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c05q0nznq24o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c62qrvd9303o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c62qrvd9303o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. DR Congo releases 15 prisoners to M23 rebels as part of Doha peace process
+### 7. US appeals court upholds injunction pausing Trump’s White House ballroom
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The two-judge majority underscored that the president needed congressional authority to move forward with his plans.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/7/us-appeals-court-upholds-injunction-pausing-trumps-white-house-ballroom?traffic_source=rss](https://www.aljazeera.com/news/2026/8/7/us-appeals-court-upholds-injunction-pausing-trumps-white-house-ballroom?traffic_source=rss)
+
+---
+
+### 8. Contaminated water putting Gaza families at risk
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Gaza’s damaged water infrastructure is leaving families struggling to access safe drinking water.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/7/contaminated-water-putting-gaza-families-at-risk?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/7/contaminated-water-putting-gaza-families-at-risk?traffic_source=rss)
+
+---
+
+### 9. DR Congo releases 15 prisoners to M23 rebels as part of Doha peace process
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Prof Priyamvada Gopal, who is part of the group, says Cambridge should not be "m
 ICRC facilitates first known transfer of detainees between Congolese government and M23 rebels in North Kivu.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/7/dr-congo-releases-15-prisoners-to-m23-rebels-as-part-of-doha-peace-process?traffic_source=rss](https://www.aljazeera.com/news/2026/8/7/dr-congo-releases-15-prisoners-to-m23-rebels-as-part-of-doha-peace-process?traffic_source=rss)
-
----
-
-### 8. Several killed in attacks on Ukraine as Kyiv hits Russian e-commerce giant
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Ukraine continues to strike warehouses and logistics hubs run by Wildberries, which it says aid Moscow&#039;s war efforts.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/7/several-killed-in-attacks-on-ukraine-as-kyiv-hits-russian-e-commerce-giant?traffic_source=rss](https://www.aljazeera.com/news/2026/8/7/several-killed-in-attacks-on-ukraine-as-kyiv-hits-russian-e-commerce-giant?traffic_source=rss)
-
----
-
-### 9. Inside the results: How redistricting shaped Tennessee’s primary election
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Tennessee&#039;s party primaries saw incumbent Representative Andy Ogles ousted and set up a heated race for District 9.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/7/inside-the-results-how-redistricting-shaped-tennessees-primary-election?traffic_source=rss](https://www.aljazeera.com/news/2026/8/7/inside-the-results-how-redistricting-shaped-tennessees-primary-election?traffic_source=rss)
 
 ---
 

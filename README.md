@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-07 18:44:46
+**Last Update:** 2026-08-07 19:29:37
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.youtube.com/watch?v=UufMqwyO7pY">https://www.youtube.com/watch?v=UufMqwyO7pY</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49211438">https://news.ycombinator.com/item?id=49211438</a></p>
-<p>Points: 8</p>
-<p># Comments: 0</p>
+<p>Points: 66</p>
+<p># Comments: 17</p>
 
 🔗 **Read more:** [https://www.youtube.com/watch?v=UufMqwyO7pY](https://www.youtube.com/watch?v=UufMqwyO7pY)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://letterstoanewdeveloper.com/2020/01/27/software-is-about-people-not-code/">https://letterstoanewdeveloper.com/2020/01/27/software-is-about-people-not-code/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49211437">https://news.ycombinator.com/item?id=49211437</a></p>
-<p>Points: 8</p>
-<p># Comments: 1</p>
+<p>Points: 28</p>
+<p># Comments: 24</p>
 
 🔗 **Read more:** [https://letterstoanewdeveloper.com/2020/01/27/software-is-about-people-not-code/](https://letterstoanewdeveloper.com/2020/01/27/software-is-about-people-not-code/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/">https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49211386">https://news.ycombinator.com/item?id=49211386</a></p>
-<p>Points: 29</p>
-<p># Comments: 15</p>
+<p>Points: 131</p>
+<p># Comments: 102</p>
 
 🔗 **Read more:** [https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/](https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/)
 
@@ -97,7 +97,20 @@ Prof Priyamvada Gopal, who is part of the group, says Cambridge should not be "m
 
 ---
 
-### 7. Two civilians killed in Houthi strike on Marib, says Yemen’s government
+### 7. Sri Lanka prisoners riot leaving 3 dead, 23 injured in chaos
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Authorities suspect narcotics dealers and gang rivalries are behind prison violence at facilities in Sri Lanka.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/7/sri-lanka-prisoners-riot-leaving-3-dead-23-injured-in-chaos?traffic_source=rss](https://www.aljazeera.com/news/2026/8/7/sri-lanka-prisoners-riot-leaving-3-dead-23-injured-in-chaos?traffic_source=rss)
+
+---
+
+### 8. Two civilians killed in Houthi strike on Marib, says Yemen’s government
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Health Minister Qassem Bahaibah says 14 injured, accuses group of targeting resi
 
 ---
 
-### 8. Imade
+### 9. Imade
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Health Minister Qassem Bahaibah says 14 injured, accuses group of targeting resi
 A young deaf migrant in Spain prepares for an emotional reunion with his family in Morocco after years apart.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/witness/2026/8/7/imade?traffic_source=rss](https://www.aljazeera.com/video/witness/2026/8/7/imade?traffic_source=rss)
-
----
-
-### 9. Diego Maradona bloated, bedridden and resigned before death, says masseur
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Seven healthcare professionals have been on trial since mid-April in Argentina for possible negligence.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/7/diego-maradona-bloated-bedridden-and-resigned-before-death-says-masseur?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/7/diego-maradona-bloated-bedridden-and-resigned-before-death-says-masseur?traffic_source=rss)
 
 ---
 

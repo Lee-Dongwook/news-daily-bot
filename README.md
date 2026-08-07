@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-07 09:12:30
+**Last Update:** 2026-08-07 10:10:05
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Meta Ordered to Pay $942M to Address Harm to Kids from Social Media
+### 1. Framework discloses data breach via Metabase 0-day
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://community.frame.work/t/framework-data-breach-discussion/83939">https://community.frame.work/t/framework-data-breach-discussion/83939</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49206130">https://news.ycombinator.com/item?id=49206130</a></p>
+<p>Points: 32</p>
+<p># Comments: 5</p>
+
+🔗 **Read more:** [https://community.frame.work/t/framework-data-breach-discussion/83939](https://community.frame.work/t/framework-data-breach-discussion/83939)
+
+---
+
+### 2. Meta Ordered to Pay $942M to Address Harm to Kids from Social Media
 
 **Source:** Hacker News
 
@@ -19,26 +35,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7">https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49204352">https://news.ycombinator.com/item?id=49204352</a></p>
-<p>Points: 143</p>
-<p># Comments: 84</p>
+<p>Points: 161</p>
+<p># Comments: 104</p>
 
 🔗 **Read more:** [https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7](https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7)
-
----
-
-### 2. Hackers Stalked Me by Hijacking a Smartwatch for Kids
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.wired.com/story/hackers-stalked-me-by-hijacking-a-smartwatch-for-kids/">https://www.wired.com/story/hackers-stalked-me-by-hijacking-a-smartwatch-for-kids/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49204060">https://news.ycombinator.com/item?id=49204060</a></p>
-<p>Points: 46</p>
-<p># Comments: 29</p>
-
-🔗 **Read more:** [https://www.wired.com/story/hackers-stalked-me-by-hijacking-a-smartwatch-for-kids/](https://www.wired.com/story/hackers-stalked-me-by-hijacking-a-smartwatch-for-kids/)
 
 ---
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/">https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49203105">https://news.ycombinator.com/item?id=49203105</a></p>
-<p>Points: 116</p>
-<p># Comments: 19</p>
+<p>Points: 133</p>
+<p># Comments: 21</p>
 
 🔗 **Read more:** [https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/](https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/)
 
@@ -97,42 +97,42 @@ The ruling is in addition to $375m in fines Meta was already ordered to pay in t
 
 ---
 
-### 7. Record-high heat soars through South Korea
+### 7. ‘Still searching for truth’: Daughter of Sikh activist killed 30 years ago
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A record-high heatwave is sweeping through the Korean Peninsula, sending temperatures skyrocketing, reaching 42.5C.
+Jaswant Singh Khalra&#039;s daughter Navkiran reflects on slain father&#039;s life and legacy, which also inspired a recent film.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/7/record-high-heat-soars-through-south-korea?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/7/record-high-heat-soars-through-south-korea?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/7/still-searching-for-truth-daughter-of-sikh-activist-killed-30-years-ago?traffic_source=rss](https://www.aljazeera.com/news/2026/8/7/still-searching-for-truth-daughter-of-sikh-activist-killed-30-years-ago?traffic_source=rss)
 
 ---
 
-### 8. Turkiye’s Erdogan visits Saudi Arabia: What to expect
+### 8. Bodies of climbers killed in avalanche retrieved from Broad Peak
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Erdogan will meet with Saudi Crown Prince Mohammed bin Salman and Pakistani PM Shehbaz Sharif, his office says.
+A search team has retrieved the remains of renowned climber Nirmal Purja and several members of his team.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/7/turkiyes-erdogan-to-visit-saudi-arabia-what-to-expect?traffic_source=rss](https://www.aljazeera.com/news/2026/8/7/turkiyes-erdogan-to-visit-saudi-arabia-what-to-expect?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/7/bodies-of-climbers-killed-in-avalanche-retrieved-from-broad-peak?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/7/bodies-of-climbers-killed-in-avalanche-retrieved-from-broad-peak?traffic_source=rss)
 
 ---
 
-### 9. One killed, four injured in Thailand school shooting, officials say
+### 9. Mexico deploys troops to secure avocado region after US halts imports
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Authorities say the gunman, a student, killed a teacher before taking his own life at a school northwest of Bangkok.
+Mexico deployed more than 1,500 troops to its main avocado-producing state after the US suspended export inspections.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/7/one-killed-four-injured-in-thailand-school-shooting-officials-say?traffic_source=rss](https://www.aljazeera.com/news/2026/8/7/one-killed-four-injured-in-thailand-school-shooting-officials-say?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/7/mexico-deploys-troops-to-secure-avocado-region-after-us-halts-imports?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/7/mexico-deploys-troops-to-secure-avocado-region-after-us-halts-imports?traffic_source=rss)
 
 ---
 

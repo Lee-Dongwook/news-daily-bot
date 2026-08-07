@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-08 00:14:16
+**Last Update:** 2026-08-08 00:36:03
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. App Store Rejection of the Week: Dark Hours
+### 1. Mykhailo Fedorov reveals struggle to secure Patriot missiles and Western support
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.uawire.org/former-ukrainian-defense-minister-mykhailo-fedorov-reveals-struggles-to-secure-patriot-missiles-and-western-support">https://www.uawire.org/former-ukrainian-defense-minister-mykhailo-fedorov-reveals-struggles-to-secure-patriot-missiles-and-western-support</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49215292">https://news.ycombinator.com/item?id=49215292</a></p>
+<p>Points: 7</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.uawire.org/former-ukrainian-defense-minister-mykhailo-fedorov-reveals-struggles-to-secure-patriot-missiles-and-western-support](https://www.uawire.org/former-ukrainian-defense-minister-mykhailo-fedorov-reveals-struggles-to-secure-patriot-missiles-and-western-support)
+
+---
+
+### 2. App Store Rejection of the Week: Dark Hours
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours">https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49214863">https://news.ycombinator.com/item?id=49214863</a></p>
-<p>Points: 111</p>
-<p># Comments: 33</p>
+<p>Points: 129</p>
+<p># Comments: 43</p>
 
 🔗 **Read more:** [https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours](https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours)
 
 ---
 
-### 2. Psychological Warfare in Reverse Engineering
+### 3. Psychological Warfare in Reverse Engineering
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/xoreaxeaxeax/repsych">https://github.com/xoreaxeaxeax/repsych</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49214775">https://news.ycombinator.com/item?id=49214775</a></p>
-<p>Points: 10</p>
+<p>Points: 17</p>
 <p># Comments: 1</p>
 
 🔗 **Read more:** [https://github.com/xoreaxeaxeax/repsych](https://github.com/xoreaxeaxeax/repsych)
-
----
-
-### 3. Ancient Library – 1,060 Greek/Latin texts, click any word to parse it
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://ancientlibrary.net/">https://ancientlibrary.net/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49214770">https://news.ycombinator.com/item?id=49214770</a></p>
-<p>Points: 40</p>
-<p># Comments: 14</p>
-
-🔗 **Read more:** [https://ancientlibrary.net/](https://ancientlibrary.net/)
 
 ---
 
@@ -97,42 +97,42 @@ No arrests were made at the time and the investigation was closed.
 
 ---
 
-### 7. US appeals court upholds injunction pausing Trump’s White House ballroom
+### 7. Lebanon points to ‘positive progress’ on borders, prisoners in Israel talks
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The two-judge majority underscored that the president needed congressional authority to move forward with his plans.
+New Israeli attacks reported in southern Lebanon as Beirut offers optimism after the seventh round of discussions.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/7/us-appeals-court-upholds-injunction-pausing-trumps-white-house-ballroom?traffic_source=rss](https://www.aljazeera.com/news/2026/8/7/us-appeals-court-upholds-injunction-pausing-trumps-white-house-ballroom?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/7/lebanon-points-to-positive-progress-on-borders-prisoners-in-israel-talks?traffic_source=rss](https://www.aljazeera.com/news/2026/8/7/lebanon-points-to-positive-progress-on-borders-prisoners-in-israel-talks?traffic_source=rss)
 
 ---
 
-### 8. Contaminated water putting Gaza families at risk
+### 8. Ebola cases top 4,000 in DRC as WHO urges Ervebo vaccine trial
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Gaza’s damaged water infrastructure is leaving families struggling to access safe drinking water.
+The Bundibugyo epidemic, ​the world&#039;s second-largest, has been described as the ⁠fastest-spreading on record.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/7/contaminated-water-putting-gaza-families-at-risk?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/7/contaminated-water-putting-gaza-families-at-risk?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/7/ebola-cases-top-4000-in-drc-as-who-urges-ervebo-vaccine-trial?traffic_source=rss](https://www.aljazeera.com/news/2026/8/7/ebola-cases-top-4000-in-drc-as-who-urges-ervebo-vaccine-trial?traffic_source=rss)
 
 ---
 
-### 9. DR Congo releases 15 prisoners to M23 rebels as part of Doha peace process
+### 9. Can diplomacy end the conflict in Libya?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-ICRC facilitates first known transfer of detainees between Congolese government and M23 rebels in North Kivu.
+The country has been divided since 2014, with rival governments in the east and west.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/7/dr-congo-releases-15-prisoners-to-m23-rebels-as-part-of-doha-peace-process?traffic_source=rss](https://www.aljazeera.com/news/2026/8/7/dr-congo-releases-15-prisoners-to-m23-rebels-as-part-of-doha-peace-process?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/8/7/can-diplomacy-end-the-conflict-in-libya?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/8/7/can-diplomacy-end-the-conflict-in-libya?traffic_source=rss)
 
 ---
 

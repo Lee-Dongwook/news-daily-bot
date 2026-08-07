@@ -1,28 +1,28 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-08 00:36:03
+**Last Update:** 2026-08-08 01:11:30
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Mykhailo Fedorov reveals struggle to secure Patriot missiles and Western support
+### 1. Chasa
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.uawire.org/former-ukrainian-defense-minister-mykhailo-fedorov-reveals-struggles-to-secure-patriot-missiles-and-western-support">https://www.uawire.org/former-ukrainian-defense-minister-mykhailo-fedorov-reveals-struggles-to-secure-patriot-missiles-and-western-support</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49215292">https://news.ycombinator.com/item?id=49215292</a></p>
+<p>Article URL: <a href="https://chasa.io/">https://chasa.io/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49215762">https://news.ycombinator.com/item?id=49215762</a></p>
 <p>Points: 7</p>
-<p># Comments: 0</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://www.uawire.org/former-ukrainian-defense-minister-mykhailo-fedorov-reveals-struggles-to-secure-patriot-missiles-and-western-support](https://www.uawire.org/former-ukrainian-defense-minister-mykhailo-fedorov-reveals-struggles-to-secure-patriot-missiles-and-western-support)
+🔗 **Read more:** [https://chasa.io/](https://chasa.io/)
 
 ---
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours">https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49214863">https://news.ycombinator.com/item?id=49214863</a></p>
-<p>Points: 129</p>
-<p># Comments: 43</p>
+<p>Points: 159</p>
+<p># Comments: 60</p>
 
 🔗 **Read more:** [https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours](https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours)
 
@@ -51,14 +51,14 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/xoreaxeaxeax/repsych">https://github.com/xoreaxeaxeax/repsych</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49214775">https://news.ycombinator.com/item?id=49214775</a></p>
-<p>Points: 17</p>
-<p># Comments: 1</p>
+<p>Points: 24</p>
+<p># Comments: 2</p>
 
 🔗 **Read more:** [https://github.com/xoreaxeaxeax/repsych](https://github.com/xoreaxeaxeax/repsych)
 
 ---
 
-### 4. How police left a registered sex offender free to murder and attack women
+### 4. Police failings revealed as sex offender left free to murder and attack women
 
 **Source:** BBC
 
@@ -97,7 +97,33 @@ No arrests were made at the time and the investigation was closed.
 
 ---
 
-### 7. Lebanon points to ‘positive progress’ on borders, prisoners in Israel talks
+### 7. US appeals court halts White House ballroom construction
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+A federal appeals court has ordered President Donald Trump’s administration to halt construction on a ballroom project.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/7/us-appeals-court-halts-white-house-ballroom-construction?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/7/us-appeals-court-halts-white-house-ballroom-construction?traffic_source=rss)
+
+---
+
+### 8. South Koreans beat the heat with ‘silent disco’ pool party
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+South Koreans in Seoul cooled off with a silent disco pool party during a record-breaking heat wave.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/7/south-koreans-beat-the-heat-with-silent-disco-pool-party?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/7/south-koreans-beat-the-heat-with-silent-disco-pool-party?traffic_source=rss)
+
+---
+
+### 9. Lebanon points to ‘positive progress’ on borders, prisoners in Israel talks
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ No arrests were made at the time and the investigation was closed.
 New Israeli attacks reported in southern Lebanon as Beirut offers optimism after the seventh round of discussions.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/7/lebanon-points-to-positive-progress-on-borders-prisoners-in-israel-talks?traffic_source=rss](https://www.aljazeera.com/news/2026/8/7/lebanon-points-to-positive-progress-on-borders-prisoners-in-israel-talks?traffic_source=rss)
-
----
-
-### 8. Ebola cases top 4,000 in DRC as WHO urges Ervebo vaccine trial
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The Bundibugyo epidemic, ​the world&#039;s second-largest, has been described as the ⁠fastest-spreading on record.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/7/ebola-cases-top-4000-in-drc-as-who-urges-ervebo-vaccine-trial?traffic_source=rss](https://www.aljazeera.com/news/2026/8/7/ebola-cases-top-4000-in-drc-as-who-urges-ervebo-vaccine-trial?traffic_source=rss)
-
----
-
-### 9. Can diplomacy end the conflict in Libya?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The country has been divided since 2014, with rival governments in the east and west.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/8/7/can-diplomacy-end-the-conflict-in-libya?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/8/7/can-diplomacy-end-the-conflict-in-libya?traffic_source=rss)
 
 ---
 

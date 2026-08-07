@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-07 14:25:27
+**Last Update:** 2026-08-07 14:43:27
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Framework discloses data breach via Metabase 0-day
+### 1. US strikes $1.2B deal to pay German firm to halt offshore wind projects
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.bbc.com/news/articles/c1e1vg0gjl5o">https://www.bbc.com/news/articles/c1e1vg0gjl5o</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49208314">https://news.ycombinator.com/item?id=49208314</a></p>
+<p>Points: 74</p>
+<p># Comments: 38</p>
+
+🔗 **Read more:** [https://www.bbc.com/news/articles/c1e1vg0gjl5o](https://www.bbc.com/news/articles/c1e1vg0gjl5o)
+
+---
+
+### 2. Framework discloses data breach via Metabase 0-day
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://community.frame.work/t/framework-data-breach-discussion/83939">https://community.frame.work/t/framework-data-breach-discussion/83939</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49206130">https://news.ycombinator.com/item?id=49206130</a></p>
-<p>Points: 91</p>
+<p>Points: 93</p>
 <p># Comments: 31</p>
 
 🔗 **Read more:** [https://community.frame.work/t/framework-data-breach-discussion/83939](https://community.frame.work/t/framework-data-breach-discussion/83939)
 
 ---
 
-### 2. New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software
+### 3. New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software
 
 **Source:** Hacker News
 
@@ -36,26 +52,9 @@
 <p>Article URL: <a href="https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/">https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49204546">https://news.ycombinator.com/item?id=49204546</a></p>
 <p>Points: 60</p>
-<p># Comments: 88</p>
+<p># Comments: 89</p>
 
 🔗 **Read more:** [https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/](https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/)
-
----
-
-### 3. New Mexico court orders Meta to pay $567m over harms to children’s mental health
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p><a href="https://www.reuters.com/world/new-mexico-court-orders-meta-pay-567-mln-teen-mental-health-fund-2026-08-06/" rel="nofollow">https://www.reuters.com/world/new-mexico-court-orders-meta-p...</a><p><a href="https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta" rel="nofollow">https://www.theguardian.com/technology/2026/aug/06/new-mexic...</a><p><a href="https://www.kob.com/new-mexico/nm-court-orders-meta-to-pay-567m-make-changes-for-underage-users/" rel="nofollow">https://www.kob.com/new-mexico/nm-court-orders-meta-to-pay-5...</a><p><a href="https://www.bbc.com/news/articles/cd7lz3wr2rlo" rel="nofollow">https://www.bbc.com/news/articles/cd7lz3wr2rlo</a><p><a href="https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7" rel="nofollow">https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-...</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49204352">https://news.ycombinator.com/item?id=49204352</a></p>
-<p>Points: 327</p>
-<p># Comments: 210</p>
-
-🔗 **Read more:** [https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta](https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta)
 
 ---
 
@@ -98,7 +97,20 @@ The 30-year-old former Brentford striker is due to appear in court next month.
 
 ---
 
-### 7. Central Europe sees record temperatures as heatwave continues
+### 7. Houthi strikes in Yemen as Saudi Arabia braces for attacks: What we know
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Tensions between the Houthis and Saudi Arabia have increased since the US-Israel war on Iran began.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/7/houthi-strikes-hit-yemen-as-saudi-arabia-braces-for-attacks-what-we-know?traffic_source=rss](https://www.aljazeera.com/news/2026/8/7/houthi-strikes-hit-yemen-as-saudi-arabia-braces-for-attacks-what-we-know?traffic_source=rss)
+
+---
+
+### 8. Central Europe sees record temperatures as heatwave continues
 
 **Source:** Al Jazeera
 
@@ -111,7 +123,7 @@ Record-breaking temperatures in Slovakia and Austria as Italy places all of its 
 
 ---
 
-### 8. Saudi Pro League’s England international Toney charged with assault
+### 9. Saudi Pro League’s England international Toney charged with assault
 
 **Source:** Al Jazeera
 
@@ -121,19 +133,6 @@ Record-breaking temperatures in Slovakia and Austria as Italy places all of its 
 Ivan Toney charged for an assault that allegedly ​took place on December 6 last year in United Kingdom.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/7/saudi-pro-leagues-england-international-toney-charged-with-assault?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/7/saudi-pro-leagues-england-international-toney-charged-with-assault?traffic_source=rss)
-
----
-
-### 9. ‘De-escalation’: Europe hesitates as US pushes for Hormuz naval mission
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The UK and France are not seeking confrontation with Iran in the US-Israeli war Europe largely rejected, say analysts.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/7/hld-european-caution-slowing-us-push-for-hormuz-naval-coalition?traffic_source=rss](https://www.aljazeera.com/news/2026/8/7/hld-european-caution-slowing-us-push-for-hormuz-naval-coalition?traffic_source=rss)
 
 ---
 

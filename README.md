@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-08 12:15:31
+**Last Update:** 2026-08-08 12:36:57
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/xoreaxeaxeax/rosenbridge">https://github.com/xoreaxeaxeax/rosenbridge</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49219508">https://news.ycombinator.com/item?id=49219508</a></p>
-<p>Points: 53</p>
-<p># Comments: 10</p>
+<p>Points: 66</p>
+<p># Comments: 13</p>
 
 🔗 **Read more:** [https://github.com/xoreaxeaxeax/rosenbridge](https://github.com/xoreaxeaxeax/rosenbridge)
 
@@ -35,7 +35,7 @@
 **Description:**
 <p>Article URL: <a href="https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3">https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49218707">https://news.ycombinator.com/item?id=49218707</a></p>
-<p>Points: 58</p>
+<p>Points: 60</p>
 <p># Comments: 17</p>
 
 🔗 **Read more:** [https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3](https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3)
@@ -51,7 +51,7 @@
 **Description:**
 <p>Article URL: <a href="https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year">https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49218179">https://news.ycombinator.com/item?id=49218179</a></p>
-<p>Points: 217</p>
+<p>Points: 221</p>
 <p># Comments: 39</p>
 
 🔗 **Read more:** [https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year](https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year)
@@ -84,7 +84,7 @@ Gianni Infantino's alleged lover was given a severance payment over the affair b
 
 ---
 
-### 6. The phone book that led us to Assad's spy chief in hiding
+### 6. Inside our hunt for Syria’s fugitive spy chief - and where he’s hiding
 
 **Source:** BBC
 
@@ -97,7 +97,20 @@ How we tracked down "The Spider" who was once one of the most-feared men in Syri
 
 ---
 
-### 7. Afghanistan’s Rashid takes six wickets in ODI thrashing of Ireland
+### 7. Typhoon Dolphin hits Japan, heads towards China
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Five elderly people have suffered non-life-threatening injuries, with three falling due to the wind in Japan.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/8/typhoon-dolphin-hits-japan-heads-towards-china?traffic_source=rss](https://www.aljazeera.com/news/2026/8/8/typhoon-dolphin-hits-japan-heads-towards-china?traffic_source=rss)
+
+---
+
+### 8. Afghanistan’s Rashid takes six wickets in ODI thrashing of Ireland
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Rashid Khan forces collapse as Afghanistan beat Ireland by 92 runs in second gam
 
 ---
 
-### 8. South Korea FA apologises over ‘sexual services’ allegations
+### 9. South Korea FA apologises over ‘sexual services’ allegations
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Rashid Khan forces collapse as Afghanistan beat Ireland by 92 runs in second gam
 Football association apologises over claims relating to qualifiers for World Cup 2014 and the London 2012 Olympic Games.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/8/south-korea-football-association-apologises-over-sexual-services-allegations?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/8/south-korea-football-association-apologises-over-sexual-services-allegations?traffic_source=rss)
-
----
-
-### 9. NBA star Brandon Clarke died from heroin, cocaine effects, examiner rules
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Memphis Grizzlies ⁠forward Brandon Clarke&#039;s ⁠May 11 death ruled accidental, with effects of heroin and cocaine cited.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/8/nba-star-brandon-clarke-died-from-heroin-cocaine-effects-examiner-rules?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/8/nba-star-brandon-clarke-died-from-heroin-cocaine-effects-examiner-rules?traffic_source=rss)
 
 ---
 

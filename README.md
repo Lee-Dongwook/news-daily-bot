@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-08 13:11:10
+**Last Update:** 2026-08-08 13:30:12
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/xoreaxeaxeax/rosenbridge">https://github.com/xoreaxeaxeax/rosenbridge</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49219508">https://news.ycombinator.com/item?id=49219508</a></p>
-<p>Points: 81</p>
-<p># Comments: 21</p>
+<p>Points: 89</p>
+<p># Comments: 24</p>
 
 🔗 **Read more:** [https://github.com/xoreaxeaxeax/rosenbridge](https://github.com/xoreaxeaxeax/rosenbridge)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year">https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49218179">https://news.ycombinator.com/item?id=49218179</a></p>
-<p>Points: 231</p>
-<p># Comments: 43</p>
+<p>Points: 235</p>
+<p># Comments: 44</p>
 
 🔗 **Read more:** [https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year](https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413">https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49217993">https://news.ycombinator.com/item?id=49217993</a></p>
-<p>Points: 294</p>
-<p># Comments: 139</p>
+<p>Points: 298</p>
+<p># Comments: 143</p>
 
 🔗 **Read more:** [https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413](https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413)
 
@@ -97,7 +97,20 @@ How we tracked down "The Spider" who was once one of the most-feared men in Syri
 
 ---
 
-### 7. US announces $400m investment in Australian rare earth mine
+### 7. Newcastle say they “didn’t want to sell” Guimaraes, as Arsenal move looms
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Bruno Guimaraes looks set to move to Premier League champions Arsenal, but Newcastle say they did not want to sell.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/8/newcastle-say-they-didnt-want-to-sell-guimaraes-as-arsenal-move-looms?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/8/newcastle-say-they-didnt-want-to-sell-guimaraes-as-arsenal-move-looms?traffic_source=rss)
+
+---
+
+### 8. US announces $400m investment in Australian rare earth mine
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Deal aims to secure scandium supply as China restricts exports for defence produ
 
 ---
 
-### 8. Messi will decide when he retires, says Argentina FA chief
+### 9. Messi will decide when he retires, says Argentina FA chief
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Deal aims to secure scandium supply as China restricts exports for defence produ
 Retirement rumours surrounded Lionel Messi at last two World Cups, but Argentina FA chief says decision will be his.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/8/argentina-fa-chief-says-messi-is-the-only-one-to-decide-when-he-retires?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/8/argentina-fa-chief-says-messi-is-the-only-one-to-decide-when-he-retires?traffic_source=rss)
-
----
-
-### 9. Typhoon Dolphin hits Japan, heads towards China
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Five elderly people have suffered non-life-threatening injuries, with three falling due to the wind in Japan.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/8/typhoon-dolphin-hits-japan-heads-towards-china?traffic_source=rss](https://www.aljazeera.com/news/2026/8/8/typhoon-dolphin-hits-japan-heads-towards-china?traffic_source=rss)
 
 ---
 

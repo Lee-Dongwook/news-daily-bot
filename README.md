@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-08 17:18:27
+**Last Update:** 2026-08-08 17:33:18
 
 **Total News:** 12
 
@@ -19,7 +19,7 @@
 **Description:**
 <p>Article URL: <a href="https://simonwillison.net/2026/Aug/7/openai-timeline/">https://simonwillison.net/2026/Aug/7/openai-timeline/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49220609">https://news.ycombinator.com/item?id=49220609</a></p>
-<p>Points: 82</p>
+<p>Points: 84</p>
 <p># Comments: 97</p>
 
 🔗 **Read more:** [https://simonwillison.net/2026/Aug/7/openai-timeline/](https://simonwillison.net/2026/Aug/7/openai-timeline/)
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.theverge.com/tech/976880/microsoft-edge-extensions-ad-blockers-mv2-mv3">https://www.theverge.com/tech/976880/microsoft-edge-extensions-ad-blockers-mv2-mv3</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49220392">https://news.ycombinator.com/item?id=49220392</a></p>
-<p>Points: 20</p>
-<p># Comments: 13</p>
+<p>Points: 21</p>
+<p># Comments: 15</p>
 
 🔗 **Read more:** [https://www.theverge.com/tech/976880/microsoft-edge-extensions-ad-blockers-mv2-mv3](https://www.theverge.com/tech/976880/microsoft-edge-extensions-ad-blockers-mv2-mv3)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html">https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49220350">https://news.ycombinator.com/item?id=49220350</a></p>
-<p>Points: 137</p>
-<p># Comments: 143</p>
+<p>Points: 139</p>
+<p># Comments: 144</p>
 
 🔗 **Read more:** [https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html](https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html)
 
@@ -97,7 +97,20 @@ How we tracked down "The Spider" who was once one of the most-feared men in Syri
 
 ---
 
-### 7. Ivory Coast’s ‘talking drum’ returns to home village after 110 years
+### 7. Netanyahu mulls Saudi, Turkiye, Pakistan pact as Israeli elections loom
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Saudi Arabia, Turkiye, and Pakistan form a new defence pact, leaving Israel’s response and its implications uncertain
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/8/netanyahu-mulls-saudi-turkiye-pakistan-pact-as-israeli-elections-loom?traffic_source=rss](https://www.aljazeera.com/news/2026/8/8/netanyahu-mulls-saudi-turkiye-pakistan-pact-as-israeli-elections-loom?traffic_source=rss)
+
+---
+
+### 8. Ivory Coast’s ‘talking drum’ returns to home village after 110 years
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Ivory Coast&#039;s &#039;talking drum&#039; returns to home village after 110 ye
 
 ---
 
-### 8. Drones spotted in Bulgaria and Germany raise concerns of Russian escalation
+### 9. Drones spotted in Bulgaria and Germany raise concerns of Russian escalation
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Ivory Coast&#039;s &#039;talking drum&#039; returns to home village after 110 ye
 The drone incidents in Europe have ignited fears that Moscow&#039;s war on Kyiv is now entangling NATO nations.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/8/drones-spotted-in-bulgaria-and-germany-raise-concerns-of-russian-escalation?traffic_source=rss](https://www.aljazeera.com/news/2026/8/8/drones-spotted-in-bulgaria-and-germany-raise-concerns-of-russian-escalation?traffic_source=rss)
-
----
-
-### 9. Police bodycam and CCTV catches Idaho mall shooting as it unfolds
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Police bodycam and CCTV catches Idaho mall shooting as it unfolds
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/8/police-bodycam-and-cctv-catches-idaho-mall-shooting-as-it-unfolds?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/8/police-bodycam-and-cctv-catches-idaho-mall-shooting-as-it-unfolds?traffic_source=rss)
 
 ---
 

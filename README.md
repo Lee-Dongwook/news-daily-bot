@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-09 01:22:04
+**Last Update:** 2026-08-09 02:02:18
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
@@ -19,14 +19,30 @@
 **Description:**
 <p>Article URL: <a href="https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/">https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49225918">https://news.ycombinator.com/item?id=49225918</a></p>
-<p>Points: 18</p>
-<p># Comments: 7</p>
+<p>Points: 34</p>
+<p># Comments: 12</p>
 
 🔗 **Read more:** [https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/](https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/)
 
 ---
 
-### 2. Open-source interactive map for the Aug 12 total solar eclipse
+### 2. The Unreasonable Effectiveness of Mathematics in the Natural Sciences [pdf]
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://web.njit.edu/~akansu/PAPERS/The%20Unreasonable%20Effectiveness%20of%20Mathematics%20(EP%20Wigner).pdf">https://web.njit.edu/~akansu/PAPERS/The%20Unreasonable%20Effectiveness%20of%20Mathematics%20(EP%20Wigner).pdf</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49225676">https://news.ycombinator.com/item?id=49225676</a></p>
+<p>Points: 10</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://web.njit.edu/~akansu/PAPERS/The%20Unreasonable%20Effectiveness%20of%20Mathematics%20(EP%20Wigner).pdf](https://web.njit.edu/~akansu/PAPERS/The%20Unreasonable%20Effectiveness%20of%20Mathematics%20(EP%20Wigner).pdf)
+
+---
+
+### 3. Open-source interactive map for the Aug 12 total solar eclipse
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://eclipsefan.org/?v=2&amp;t=max&amp;layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&amp;lat=43.4623&amp;lon=-3.8099&amp;opacity=besselian%3A0.2%2Cumbra-live%3A0.2&amp;zoom=6&amp;palier=minute">https://eclipsefan.org/?v=2&amp;t=max&amp;layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&amp;lat=43.4623&amp;lon=-3.8099&amp;opacity=besselian%3A0.2%2Cumbra-live%3A0.2&amp;zoom=6&amp;palier=minute</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49225139">https://news.ycombinator.com/item?id=49225139</a></p>
-<p>Points: 30</p>
-<p># Comments: 6</p>
+<p>Points: 45</p>
+<p># Comments: 7</p>
 
 🔗 **Read more:** [https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute](https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute)
-
----
-
-### 3. Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/">https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49224294">https://news.ycombinator.com/item?id=49224294</a></p>
-<p>Points: 365</p>
-<p># Comments: 175</p>
-
-🔗 **Read more:** [https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/](https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/)
 
 ---
 
@@ -97,7 +97,20 @@ How we tracked down "The Spider" who was once one of the most-feared men in Syri
 
 ---
 
-### 7. Trump’s Former Lawyer Is Now Attorney General
+### 7. Will Pakistan-Saudi-Turkiye defence pact change US strategy?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Some experts say the deal precipitates a larger strategic shift in Middle East while others say it reinforces US goals.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/8/will-pakistan-saudi-turkiye-defence-pact-change-us-strategy?traffic_source=rss](https://www.aljazeera.com/news/2026/8/8/will-pakistan-saudi-turkiye-defence-pact-change-us-strategy?traffic_source=rss)
+
+---
+
+### 8. Trump’s Former Lawyer Is Now Attorney General
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Todd Blanche, President Trump’s former lawyer, is now US attorney general.
 
 ---
 
-### 8. What are the challenges facing the Mecca agreement?
+### 9. What are the challenges facing the Mecca agreement?
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Todd Blanche, President Trump’s former lawyer, is now US attorney general.
 Saudi Arabia turns to Turkiye and Pakistan for defence ties, raising questions overreliance on the US.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/8/8/challenges-facing-mecca-agreement?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/8/8/challenges-facing-mecca-agreement?traffic_source=rss)
-
----
-
-### 9. At least 200 people evacuated as wildfire rages near Lake Garda
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-At least 200 people have been evacuated after a wildfire broke out near Italy’s Lake Garda.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/8/at-least-200-people-evacuated-as-wildfire-rages-near-lake-garda?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/8/at-least-200-people-evacuated-as-wildfire-rages-near-lake-garda?traffic_source=rss)
 
 ---
 

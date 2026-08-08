@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-08 05:20:00
+**Last Update:** 2026-08-08 05:56:32
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Should AI labs be treated like the owners of dangerous animals?
+### 1. I'm Pulling ColorCopy from the macOS App Store
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals">https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49217629">https://news.ycombinator.com/item?id=49217629</a></p>
-<p>Points: 27</p>
-<p># Comments: 35</p>
+<p>Article URL: <a href="https://www.abeautifulsite.net/posts/im-pulling-colorcopy-from-the-macos-app-store/">https://www.abeautifulsite.net/posts/im-pulling-colorcopy-from-the-macos-app-store/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49218240">https://news.ycombinator.com/item?id=49218240</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals](https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals)
+🔗 **Read more:** [https://www.abeautifulsite.net/posts/im-pulling-colorcopy-from-the-macos-app-store/](https://www.abeautifulsite.net/posts/im-pulling-colorcopy-from-the-macos-app-store/)
 
 ---
 
-### 2. U.S. Department of Energy Launches the Genesis Open Models Initiative
+### 2. NASA to keep its 48-year-old Voyager 2 probe running for yet another year
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://genesisopenmodels.anl.gov/">https://genesisopenmodels.anl.gov/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49216946">https://news.ycombinator.com/item?id=49216946</a></p>
-<p>Points: 80</p>
-<p># Comments: 36</p>
+<p>Article URL: <a href="https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year">https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49218179">https://news.ycombinator.com/item?id=49218179</a></p>
+<p>Points: 7</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://genesisopenmodels.anl.gov/](https://genesisopenmodels.anl.gov/)
+🔗 **Read more:** [https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year](https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year)
 
 ---
 
-### 3. Water system controllers don't belong on the internet, says ex-NSA chief
+### 3. The Nixpkgs core team has disbanded
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070">https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49216362">https://news.ycombinator.com/item?id=49216362</a></p>
-<p>Points: 123</p>
-<p># Comments: 78</p>
+<p>Article URL: <a href="https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413">https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49217993">https://news.ycombinator.com/item?id=49217993</a></p>
+<p>Points: 84</p>
+<p># Comments: 28</p>
 
-🔗 **Read more:** [https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070](https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070)
+🔗 **Read more:** [https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413](https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413)
 
 ---
 

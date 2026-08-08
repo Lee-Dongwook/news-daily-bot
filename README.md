@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-08 15:01:22
+**Last Update:** 2026-08-08 15:20:40
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html">https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49220390">https://news.ycombinator.com/item?id=49220390</a></p>
-<p>Points: 8</p>
-<p># Comments: 8</p>
+<p>Points: 11</p>
+<p># Comments: 14</p>
 
 🔗 **Read more:** [https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html](https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html">https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49220350">https://news.ycombinator.com/item?id=49220350</a></p>
-<p>Points: 39</p>
-<p># Comments: 21</p>
+<p>Points: 77</p>
+<p># Comments: 41</p>
 
 🔗 **Read more:** [https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html](https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide">https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49220339">https://news.ycombinator.com/item?id=49220339</a></p>
-<p>Points: 16</p>
-<p># Comments: 8</p>
+<p>Points: 21</p>
+<p># Comments: 12</p>
 
 🔗 **Read more:** [https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide](https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide)
 
@@ -97,7 +97,33 @@ How we tracked down "The Spider" who was once one of the most-feared men in Syri
 
 ---
 
-### 7. Yemen’s collapsing healthcare forces the sick to seek alternative medicines
+### 7. Families retrieve bodies after deadly shooting rampage outside Bangkok
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Thailand has one of the highest rates of gun ownership in Asia.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/8/families-retrieve-bodies-after-deadly-shooting-rampage-outside-bangkok?traffic_source=rss](https://www.aljazeera.com/news/2026/8/8/families-retrieve-bodies-after-deadly-shooting-rampage-outside-bangkok?traffic_source=rss)
+
+---
+
+### 8. Woman screams for her man as Ukraine war recruiters pounce
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Viral video fuels concerns over Ukraine’s ‘busification’ and alleged abuse by recruitment officers.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/8/woman-screams-for-her-man-as-ukraine-war-recruiters-pounce?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/8/woman-screams-for-her-man-as-ukraine-war-recruiters-pounce?traffic_source=rss)
+
+---
+
+### 9. Yemen’s collapsing healthcare forces the sick to seek alternative medicines
 
 **Source:** Al Jazeera
 
@@ -110,29 +136,42 @@ Patients in Yemen who cannot afford healthcare or access relevant treatment are 
 
 ---
 
-### 8. How Israel’s occupation fuels resistance
+### 10. Wildfire Wrights Spring, Klamath, Oregon
 
-**Source:** Al Jazeera
+**Source:** NASA
 
-**Category:** world
+**Category:** nature
 
 **Description:**
-Israel is trapped in a cycle it created.
+Natural event: Wildfires
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/8/how-israels-occupation-fuels-resistance?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/8/how-israels-occupation-fuels-resistance?traffic_source=rss)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196)
 
 ---
 
-### 9. Trump’s former personal lawyer narrowly confirmed as US attorney general
+### 11. Tropical Cyclone Chan-Hom
 
-**Source:** Al Jazeera
+**Source:** NASA
 
-**Category:** world
+**Category:** nature
 
 **Description:**
-US Senate confirms Todd Blanche in narrow vote despite concerns over independence of office.
+Natural event: Severe Storms
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/8/trumps-former-personal-lawyer-narrowly-confirmed-as-us-attorney-general?traffic_source=rss](https://www.aljazeera.com/news/2026/8/8/trumps-former-personal-lawyer-narrowly-confirmed-as-us-attorney-general?traffic_source=rss)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22306](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22306)
+
+---
+
+### 12. Wildfire BUZZARD, Kern, California
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195)
 
 ---
 

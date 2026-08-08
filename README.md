@@ -1,32 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-08 05:56:32
+**Last Update:** 2026-08-08 07:05:37
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. I'm Pulling ColorCopy from the macOS App Store
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.abeautifulsite.net/posts/im-pulling-colorcopy-from-the-macos-app-store/">https://www.abeautifulsite.net/posts/im-pulling-colorcopy-from-the-macos-app-store/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49218240">https://news.ycombinator.com/item?id=49218240</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://www.abeautifulsite.net/posts/im-pulling-colorcopy-from-the-macos-app-store/](https://www.abeautifulsite.net/posts/im-pulling-colorcopy-from-the-macos-app-store/)
-
----
-
-### 2. NASA to keep its 48-year-old Voyager 2 probe running for yet another year
+### 1. NASA to keep its 48-year-old Voyager 2 probe running for yet another year
 
 **Source:** Hacker News
 
@@ -35,14 +19,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year">https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49218179">https://news.ycombinator.com/item?id=49218179</a></p>
-<p>Points: 7</p>
-<p># Comments: 0</p>
+<p>Points: 63</p>
+<p># Comments: 9</p>
 
 🔗 **Read more:** [https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year](https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year)
 
 ---
 
-### 3. The Nixpkgs core team has disbanded
+### 2. The Nixpkgs core team has disbanded
 
 **Source:** Hacker News
 
@@ -51,10 +35,27 @@
 **Description:**
 <p>Article URL: <a href="https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413">https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49217993">https://news.ycombinator.com/item?id=49217993</a></p>
-<p>Points: 84</p>
-<p># Comments: 28</p>
+<p>Points: 145</p>
+<p># Comments: 61</p>
 
 🔗 **Read more:** [https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413](https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413)
+
+---
+
+### 3. Show HN: Modern C++ Build Tools for Module Feature
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Anyone like C++'s module features? Feel free to try MCPP and talk with me.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49217761">https://news.ycombinator.com/item?id=49217761</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://github.com/mcpp-community/mcpp](https://github.com/mcpp-community/mcpp)
 
 ---
 
@@ -97,42 +98,42 @@ Gianni Infantino's alleged lover was given a severance payment over the affair b
 
 ---
 
-### 7. What could the Mecca defence pact mean for the US role in the Middle East?
+### 7. US Senate passes Russia sanctions that could hurt India and China
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Analysts say regional partners are seeking alternatives to supplement their security without discarding US support.
+The US Senate approved its strongest move against Russia under Trump.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/8/what-could-the-mecca-defence-pact-mean-for-the-us-role-in-the-middle-east?traffic_source=rss](https://www.aljazeera.com/news/2026/8/8/what-could-the-mecca-defence-pact-mean-for-the-us-role-in-the-middle-east?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/8/07-08-sv-us-sanctions-russia-us?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/8/07-08-sv-us-sanctions-russia-us?traffic_source=rss)
 
 ---
 
-### 8. Trump shifts blame to Republicans for waning support from public
+### 8. Submerged Indonesian village re-emerges as drought lowers water levels
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Republican senators are using the summer recess to avoid politically difficult votes.
+Drone footage shows the remains of a submerged village re-emerging from Indonesia’s Karian Reservoir after a drought.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/8/trump-shifts-blame-to-republicans-for-waning-support-from-public?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/8/trump-shifts-blame-to-republicans-for-waning-support-from-public?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/8/08-08-2026-indonesia-drought-sv?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/8/08-08-2026-indonesia-drought-sv?traffic_source=rss)
 
 ---
 
-### 9. Colombia’s new president takes office vowing to ‘crush’ narco-terrorism
+### 9. US courts clear way for deportations of South Sudan, Myanmar nationals
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Right-wing politician Abelardo De La Espriella takes office after narrowly winning June’s presidential runoff.
+Rulings allow Trump administration to end Temporary Protected Status for nationals of the two countries.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/8/08-08-sv-de-la-espriella-co?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/8/08-08-sv-de-la-espriella-co?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/8/us-courts-clear-way-for-deportations-of-south-sudan-myanmar-nationals?traffic_source=rss](https://www.aljazeera.com/news/2026/8/8/us-courts-clear-way-for-deportations-of-south-sudan-myanmar-nationals?traffic_source=rss)
 
 ---
 

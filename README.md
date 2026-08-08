@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-08 09:21:34
+**Last Update:** 2026-08-08 09:32:53
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
@@ -97,20 +97,7 @@ Gianni Infantino's alleged lover was given a severance payment over the affair b
 
 ---
 
-### 7. Hundreds camp on sweltering Rome street amid tussle over squatted building
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-After a fire broke out, the building was cleared in what activists say was a politically motivated move.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/8/hundreds-camp-on-sweltering-rome-street-amid-tussle-over-squatted-building?traffic_source=rss](https://www.aljazeera.com/news/2026/8/8/hundreds-camp-on-sweltering-rome-street-amid-tussle-over-squatted-building?traffic_source=rss)
-
----
-
-### 8. Bangladesh say Shakib will not play cricket again after Hasina event
+### 7. Bangladesh say Shakib will not play cricket again after Hasina event
 
 **Source:** Al Jazeera
 
@@ -123,7 +110,7 @@ Shakib Al Hasan says he will return home to face trial if safety assured, but Ba
 
 ---
 
-### 9. Violence is driving Palestinian Christians out of their Holy Land
+### 8. Violence is driving Palestinian Christians out of their Holy Land
 
 **Source:** Al Jazeera
 
@@ -133,6 +120,19 @@ Shakib Al Hasan says he will return home to face trial if safety assured, but Ba
 Palestinian Christians are facing violence and displacement across Gaza, Jerusalem and the occupied West Bank.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/8/violence-is-driving-palestinian-christians-out-of-their-holy-land?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/8/violence-is-driving-palestinian-christians-out-of-their-holy-land?traffic_source=rss)
+
+---
+
+### 9. FIFA’s Infantino backed in Colombia where he attends president inauguration
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+FIFA president Gianni Infantino gets South American football&#039;s backing while at Abelardo de la Espriella&#039;s inauguration.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/8/fifa-president-infantino-backed-in-colombia-where-he-attends-inauguration?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/8/fifa-president-infantino-backed-in-colombia-where-he-attends-inauguration?traffic_source=rss)
 
 ---
 

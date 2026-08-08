@@ -1,32 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-08 16:54:14
+**Last Update:** 2026-08-08 17:18:27
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. The CPU is back: Rethinking the CPU-GPU split for LLM inference
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.redhat.com/en/blog/cpu-back-rethinking-cpu-gpu-split-llm-inference">https://www.redhat.com/en/blog/cpu-back-rethinking-cpu-gpu-split-llm-inference</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49221089">https://news.ycombinator.com/item?id=49221089</a></p>
-<p>Points: 36</p>
-<p># Comments: 4</p>
-
-🔗 **Read more:** [https://www.redhat.com/en/blog/cpu-back-rethinking-cpu-gpu-split-llm-inference](https://www.redhat.com/en/blog/cpu-back-rethinking-cpu-gpu-split-llm-inference)
-
----
-
-### 2. Now we have a timeline of the OpenAI accidental attack against Hugging Face
+### 1. Now we have a timeline of the OpenAI accidental attack against Hugging Face
 
 **Source:** Hacker News
 
@@ -35,10 +19,26 @@
 **Description:**
 <p>Article URL: <a href="https://simonwillison.net/2026/Aug/7/openai-timeline/">https://simonwillison.net/2026/Aug/7/openai-timeline/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49220609">https://news.ycombinator.com/item?id=49220609</a></p>
-<p>Points: 67</p>
-<p># Comments: 82</p>
+<p>Points: 82</p>
+<p># Comments: 97</p>
 
 🔗 **Read more:** [https://simonwillison.net/2026/Aug/7/openai-timeline/](https://simonwillison.net/2026/Aug/7/openai-timeline/)
+
+---
+
+### 2. Microsoft Edge is about to lock out older ad blockers, just like Chrome did
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.theverge.com/tech/976880/microsoft-edge-extensions-ad-blockers-mv2-mv3">https://www.theverge.com/tech/976880/microsoft-edge-extensions-ad-blockers-mv2-mv3</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49220392">https://news.ycombinator.com/item?id=49220392</a></p>
+<p>Points: 20</p>
+<p># Comments: 13</p>
+
+🔗 **Read more:** [https://www.theverge.com/tech/976880/microsoft-edge-extensions-ad-blockers-mv2-mv3](https://www.theverge.com/tech/976880/microsoft-edge-extensions-ad-blockers-mv2-mv3)
 
 ---
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html">https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49220350">https://news.ycombinator.com/item?id=49220350</a></p>
-<p>Points: 124</p>
-<p># Comments: 118</p>
+<p>Points: 137</p>
+<p># Comments: 143</p>
 
 🔗 **Read more:** [https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html](https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html)
 
@@ -133,6 +133,45 @@ The drone incidents in Europe have ignited fears that Moscow&#039;s war on Kyiv 
 Police bodycam and CCTV catches Idaho mall shooting as it unfolds
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/8/police-bodycam-and-cctv-catches-idaho-mall-shooting-as-it-unfolds?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/8/police-bodycam-and-cctv-catches-idaho-mall-shooting-as-it-unfolds?traffic_source=rss)
+
+---
+
+### 10. Wildfire Wrights Spring, Klamath, Oregon
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196)
+
+---
+
+### 11. Tropical Cyclone Chan-Hom
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22306](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22306)
+
+---
+
+### 12. Wildfire BUZZARD, Kern, California
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195)
 
 ---
 

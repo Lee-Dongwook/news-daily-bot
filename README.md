@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-08 14:06:38
+**Last Update:** 2026-08-08 14:26:51
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html">https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49220390">https://news.ycombinator.com/item?id=49220390</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Points: 6</p>
+<p># Comments: 5</p>
 
 🔗 **Read more:** [https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html](https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html">https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49220350">https://news.ycombinator.com/item?id=49220350</a></p>
-<p>Points: 9</p>
-<p># Comments: 1</p>
+<p>Points: 25</p>
+<p># Comments: 7</p>
 
 🔗 **Read more:** [https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html](https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide">https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49220339">https://news.ycombinator.com/item?id=49220339</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Points: 12</p>
+<p># Comments: 2</p>
 
 🔗 **Read more:** [https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide](https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide)
 
@@ -97,7 +97,20 @@ How we tracked down "The Spider" who was once one of the most-feared men in Syri
 
 ---
 
-### 7. Fiji rugby player dies in Japan of suspected heatstroke as high of 35C hit
+### 7. Trump’s former personal lawyer narrowly confirmed as US attorney general
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+US Senate confirms Todd Blanche in narrow vote despite concerns over independence of office.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/8/trumps-former-personal-lawyer-narrowly-confirmed-as-us-attorney-general?traffic_source=rss](https://www.aljazeera.com/news/2026/8/8/trumps-former-personal-lawyer-narrowly-confirmed-as-us-attorney-general?traffic_source=rss)
+
+---
+
+### 8. Fiji rugby player dies in Japan of suspected heatstroke as high of 35C hit
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Saimoni Vunilagi was hospitalised with symptoms of heatstroke after rugby team t
 
 ---
 
-### 8. Mount Etna ash suspends arrivals at Italy’s Catania airport
+### 9. Mount Etna ash suspends arrivals at Italy’s Catania airport
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Saimoni Vunilagi was hospitalised with symptoms of heatstroke after rugby team t
 Catania international airport services the eastern part of Sicily, one of Italy&#039;s most popular tourist destinations.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/8/mount-etna-ash-suspends-arrivals-at-italys-catania-airport?traffic_source=rss](https://www.aljazeera.com/news/2026/8/8/mount-etna-ash-suspends-arrivals-at-italys-catania-airport?traffic_source=rss)
-
----
-
-### 9. Newcastle say they “didn’t want to sell” Guimaraes, as Arsenal move looms
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Bruno Guimaraes looks set to move to Premier League champions Arsenal, but Newcastle say they did not want to sell.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/8/newcastle-say-they-didnt-want-to-sell-guimaraes-as-arsenal-move-looms?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/8/newcastle-say-they-didnt-want-to-sell-guimaraes-as-arsenal-move-looms?traffic_source=rss)
 
 ---
 

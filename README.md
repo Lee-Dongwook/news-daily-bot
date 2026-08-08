@@ -1,48 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-08 16:24:00
+**Last Update:** 2026-08-08 16:54:14
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** Hacker News, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. A Tome of Forbidden Technologies
+### 1. The CPU is back: Rethinking the CPU-GPU split for LLM inference
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://ecosophia.net/a-tome-of-forbidden-technologies/">https://ecosophia.net/a-tome-of-forbidden-technologies/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49221124">https://news.ycombinator.com/item?id=49221124</a></p>
-<p>Points: 8</p>
-<p># Comments: 5</p>
+<p>Article URL: <a href="https://www.redhat.com/en/blog/cpu-back-rethinking-cpu-gpu-split-llm-inference">https://www.redhat.com/en/blog/cpu-back-rethinking-cpu-gpu-split-llm-inference</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49221089">https://news.ycombinator.com/item?id=49221089</a></p>
+<p>Points: 36</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://ecosophia.net/a-tome-of-forbidden-technologies/](https://ecosophia.net/a-tome-of-forbidden-technologies/)
-
----
-
-### 2. The USSR in 100 Photographs
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://trinixy.ru/7039-sssr_v_fotografijakh_100_foto.html">https://trinixy.ru/7039-sssr_v_fotografijakh_100_foto.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49221041">https://news.ycombinator.com/item?id=49221041</a></p>
-<p>Points: 43</p>
-<p># Comments: 24</p>
-
-🔗 **Read more:** [https://trinixy.ru/7039-sssr_v_fotografijakh_100_foto.html](https://trinixy.ru/7039-sssr_v_fotografijakh_100_foto.html)
+🔗 **Read more:** [https://www.redhat.com/en/blog/cpu-back-rethinking-cpu-gpu-split-llm-inference](https://www.redhat.com/en/blog/cpu-back-rethinking-cpu-gpu-split-llm-inference)
 
 ---
 
-### 3. Now we have a timeline of the OpenAI accidental attack against Hugging Face
+### 2. Now we have a timeline of the OpenAI accidental attack against Hugging Face
 
 **Source:** Hacker News
 
@@ -51,10 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://simonwillison.net/2026/Aug/7/openai-timeline/">https://simonwillison.net/2026/Aug/7/openai-timeline/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49220609">https://news.ycombinator.com/item?id=49220609</a></p>
-<p>Points: 46</p>
-<p># Comments: 63</p>
+<p>Points: 67</p>
+<p># Comments: 82</p>
 
 🔗 **Read more:** [https://simonwillison.net/2026/Aug/7/openai-timeline/](https://simonwillison.net/2026/Aug/7/openai-timeline/)
+
+---
+
+### 3. New Amazon Data Center Is Set to Have the Most Polluting Power Plant in the U.S.
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html">https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49220350">https://news.ycombinator.com/item?id=49220350</a></p>
+<p>Points: 124</p>
+<p># Comments: 118</p>
+
+🔗 **Read more:** [https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html](https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html)
 
 ---
 
@@ -71,7 +71,7 @@ Counter-terror police investigating the ex-MP's death say they are looking into 
 
 ---
 
-### 5. Victims urged to come forward as police accused of 'failures' over murderer and rapist
+### 5. Victims urged to come forward as police accused of 'litany of failures' over murderer and rapist
 
 **Source:** BBC
 
@@ -97,7 +97,20 @@ How we tracked down "The Spider" who was once one of the most-feared men in Syri
 
 ---
 
-### 7. Drones spotted in Bulgaria and Germany raise concerns of Russian escalation
+### 7. Ivory Coast’s ‘talking drum’ returns to home village after 110 years
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Ivory Coast&#039;s &#039;talking drum&#039; returns to home village after 110 years
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/8/ivory-coasts-talking-drum-returns-to-home-village-after-110-years?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/8/ivory-coasts-talking-drum-returns-to-home-village-after-110-years?traffic_source=rss)
+
+---
+
+### 8. Drones spotted in Bulgaria and Germany raise concerns of Russian escalation
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ The drone incidents in Europe have ignited fears that Moscow&#039;s war on Kyiv 
 
 ---
 
-### 8. Police bodycam and CCTV catches Idaho mall shooting as it unfolds
+### 9. Police bodycam and CCTV catches Idaho mall shooting as it unfolds
 
 **Source:** Al Jazeera
 
@@ -120,58 +133,6 @@ The drone incidents in Europe have ignited fears that Moscow&#039;s war on Kyiv 
 Police bodycam and CCTV catches Idaho mall shooting as it unfolds
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/8/police-bodycam-and-cctv-catches-idaho-mall-shooting-as-it-unfolds?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/8/police-bodycam-and-cctv-catches-idaho-mall-shooting-as-it-unfolds?traffic_source=rss)
-
----
-
-### 9. Atletico Madrid will not sell Alvarez amid Barcelona interest, says Simeone
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Last month, Atletico filed a complaint to FIFA over Barcelona allegedly tapping up the 26-year-old forward.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/8/atletico-madrid-will-not-sell-alvarez-amid-barcelona-interest-says-simeone?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/8/atletico-madrid-will-not-sell-alvarez-amid-barcelona-interest-says-simeone?traffic_source=rss)
-
----
-
-### 10. Wildfire Wrights Spring, Klamath, Oregon
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196)
-
----
-
-### 11. Tropical Cyclone Chan-Hom
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22306](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22306)
-
----
-
-### 12. Wildfire BUZZARD, Kern, California
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195)
 
 ---
 

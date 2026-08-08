@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-08 15:20:40
+**Last Update:** 2026-08-08 16:24:00
 
 **Total News:** 12
 
@@ -10,51 +10,51 @@
 
 ## 📰 Latest News
 
-### 1. Apple Introduces Leasing Program for iPhones and Other Devices
+### 1. A Tome of Forbidden Technologies
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html">https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49220390">https://news.ycombinator.com/item?id=49220390</a></p>
-<p>Points: 11</p>
-<p># Comments: 14</p>
+<p>Article URL: <a href="https://ecosophia.net/a-tome-of-forbidden-technologies/">https://ecosophia.net/a-tome-of-forbidden-technologies/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49221124">https://news.ycombinator.com/item?id=49221124</a></p>
+<p>Points: 8</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html](https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html)
+🔗 **Read more:** [https://ecosophia.net/a-tome-of-forbidden-technologies/](https://ecosophia.net/a-tome-of-forbidden-technologies/)
 
 ---
 
-### 2. New Amazon Data Center Is Set to Have the Most Polluting Power Plant in the U.S.
+### 2. The USSR in 100 Photographs
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html">https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49220350">https://news.ycombinator.com/item?id=49220350</a></p>
-<p>Points: 77</p>
-<p># Comments: 41</p>
+<p>Article URL: <a href="https://trinixy.ru/7039-sssr_v_fotografijakh_100_foto.html">https://trinixy.ru/7039-sssr_v_fotografijakh_100_foto.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49221041">https://news.ycombinator.com/item?id=49221041</a></p>
+<p>Points: 43</p>
+<p># Comments: 24</p>
 
-🔗 **Read more:** [https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html](https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html)
+🔗 **Read more:** [https://trinixy.ru/7039-sssr_v_fotografijakh_100_foto.html](https://trinixy.ru/7039-sssr_v_fotografijakh_100_foto.html)
 
 ---
 
-### 3. US Military's Cyber Command Unit Grapples with Cluster of Deaths by Suicide
+### 3. Now we have a timeline of the OpenAI accidental attack against Hugging Face
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide">https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49220339">https://news.ycombinator.com/item?id=49220339</a></p>
-<p>Points: 21</p>
-<p># Comments: 12</p>
+<p>Article URL: <a href="https://simonwillison.net/2026/Aug/7/openai-timeline/">https://simonwillison.net/2026/Aug/7/openai-timeline/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49220609">https://news.ycombinator.com/item?id=49220609</a></p>
+<p>Points: 46</p>
+<p># Comments: 63</p>
 
-🔗 **Read more:** [https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide](https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide)
+🔗 **Read more:** [https://simonwillison.net/2026/Aug/7/openai-timeline/](https://simonwillison.net/2026/Aug/7/openai-timeline/)
 
 ---
 
@@ -71,16 +71,16 @@ Counter-terror police investigating the ex-MP's death say they are looking into 
 
 ---
 
-### 5. Infantino denies claims Uefa paid off alleged 'lover' when he was general secretary
+### 5. Victims urged to come forward as police accused of 'failures' over murderer and rapist
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Gianni Infantino's alleged lover was given a severance payment over the affair by Uefa while he was its general secretary, according to a Daily Telegraph investigation.
+The Met and British Transport Police say the sex offender may have more victims, while criticism of investigators continues.
 
-🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/cx2vw5z0q7no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/cx2vw5z0q7no?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cewr8egkelwo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cewr8egkelwo?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +97,42 @@ How we tracked down "The Spider" who was once one of the most-feared men in Syri
 
 ---
 
-### 7. Families retrieve bodies after deadly shooting rampage outside Bangkok
+### 7. Drones spotted in Bulgaria and Germany raise concerns of Russian escalation
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Thailand has one of the highest rates of gun ownership in Asia.
+The drone incidents in Europe have ignited fears that Moscow&#039;s war on Kyiv is now entangling NATO nations.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/8/families-retrieve-bodies-after-deadly-shooting-rampage-outside-bangkok?traffic_source=rss](https://www.aljazeera.com/news/2026/8/8/families-retrieve-bodies-after-deadly-shooting-rampage-outside-bangkok?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/8/drones-spotted-in-bulgaria-and-germany-raise-concerns-of-russian-escalation?traffic_source=rss](https://www.aljazeera.com/news/2026/8/8/drones-spotted-in-bulgaria-and-germany-raise-concerns-of-russian-escalation?traffic_source=rss)
 
 ---
 
-### 8. Woman screams for her man as Ukraine war recruiters pounce
+### 8. Police bodycam and CCTV catches Idaho mall shooting as it unfolds
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Viral video fuels concerns over Ukraine’s ‘busification’ and alleged abuse by recruitment officers.
+Police bodycam and CCTV catches Idaho mall shooting as it unfolds
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/8/woman-screams-for-her-man-as-ukraine-war-recruiters-pounce?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/8/woman-screams-for-her-man-as-ukraine-war-recruiters-pounce?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/8/police-bodycam-and-cctv-catches-idaho-mall-shooting-as-it-unfolds?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/8/police-bodycam-and-cctv-catches-idaho-mall-shooting-as-it-unfolds?traffic_source=rss)
 
 ---
 
-### 9. Yemen’s collapsing healthcare forces the sick to seek alternative medicines
+### 9. Atletico Madrid will not sell Alvarez amid Barcelona interest, says Simeone
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Patients in Yemen who cannot afford healthcare or access relevant treatment are turning to alternative medicine.
+Last month, Atletico filed a complaint to FIFA over Barcelona allegedly tapping up the 26-year-old forward.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/8/yemens-collapsing-healthcare-forces-the-sick-to-seek-alternative-medicines?traffic_source=rss](https://www.aljazeera.com/features/2026/8/8/yemens-collapsing-healthcare-forces-the-sick-to-seek-alternative-medicines?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/8/atletico-madrid-will-not-sell-alvarez-amid-barcelona-interest-says-simeone?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/8/atletico-madrid-will-not-sell-alvarez-amid-barcelona-interest-says-simeone?traffic_source=rss)
 
 ---
 

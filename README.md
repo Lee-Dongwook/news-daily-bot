@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-08 20:07:03
+**Last Update:** 2026-08-08 20:29:19
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
@@ -20,29 +20,13 @@
 <p>Article URL: <a href="https://www.wired.com/story/sensitive-info-goes-into-no-reply-emails-constantly-this-guy-sees-it-all/">https://www.wired.com/story/sensitive-info-goes-into-no-reply-emails-constantly-this-guy-sees-it-all/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49221947">https://news.ycombinator.com/item?id=49221947</a></p>
 <p>Points: 28</p>
-<p># Comments: 6</p>
+<p># Comments: 7</p>
 
 🔗 **Read more:** [https://www.wired.com/story/sensitive-info-goes-into-no-reply-emails-constantly-this-guy-sees-it-all/](https://www.wired.com/story/sensitive-info-goes-into-no-reply-emails-constantly-this-guy-sees-it-all/)
 
 ---
 
-### 2. Don't use your phone while you poop
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://nate.spot/no-phone-while-poop/">https://nate.spot/no-phone-while-poop/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49221939">https://news.ycombinator.com/item?id=49221939</a></p>
-<p>Points: 156</p>
-<p># Comments: 158</p>
-
-🔗 **Read more:** [https://nate.spot/no-phone-while-poop/](https://nate.spot/no-phone-while-poop/)
-
----
-
-### 3. Gentoo bugzilla closed due AI bot scraper overload
+### 2. Gentoo bugzilla closed due AI bot scraper overload
 
 **Source:** Hacker News
 
@@ -51,10 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://social.treehouse.systems/@mgorny/117058483039362779">https://social.treehouse.systems/@mgorny/117058483039362779</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49221864">https://news.ycombinator.com/item?id=49221864</a></p>
-<p>Points: 78</p>
-<p># Comments: 32</p>
+<p>Points: 81</p>
+<p># Comments: 39</p>
 
 🔗 **Read more:** [https://social.treehouse.systems/@mgorny/117058483039362779](https://social.treehouse.systems/@mgorny/117058483039362779)
+
+---
+
+### 3. Triton: DirectX 11 Driver for QEMU
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/">https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49221711">https://news.ycombinator.com/item?id=49221711</a></p>
+<p>Points: 25</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/](https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/)
 
 ---
 

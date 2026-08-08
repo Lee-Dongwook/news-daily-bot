@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-08 22:11:33
+**Last Update:** 2026-08-08 22:36:05
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** Al Jazeera, Hacker News, BBC
 
 ---
 
@@ -19,14 +19,30 @@
 **Description:**
 <p>Article URL: <a href="https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/">https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49224294">https://news.ycombinator.com/item?id=49224294</a></p>
-<p>Points: 25</p>
-<p># Comments: 3</p>
+<p>Points: 58</p>
+<p># Comments: 21</p>
 
 🔗 **Read more:** [https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/](https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/)
 
 ---
 
-### 2. Amazon Is Creating the Biggest Pollution Source in the Country
+### 2. TinySol, a tiny solitaire game for DOS
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://classicbits.net/coding-and-software/my-software/monosol/">https://classicbits.net/coding-and-software/my-software/monosol/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49224020">https://news.ycombinator.com/item?id=49224020</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://classicbits.net/coding-and-software/my-software/monosol/](https://classicbits.net/coding-and-software/my-software/monosol/)
+
+---
+
+### 3. Amazon Is Creating the Biggest Pollution Source in the Country
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://newrepublic.com/post/214111/amazon-data-center-biggest-pollution-source-entire-country">https://newrepublic.com/post/214111/amazon-data-center-biggest-pollution-source-entire-country</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49223845">https://news.ycombinator.com/item?id=49223845</a></p>
-<p>Points: 20</p>
-<p># Comments: 3</p>
+<p>Points: 27</p>
+<p># Comments: 5</p>
 
 🔗 **Read more:** [https://newrepublic.com/post/214111/amazon-data-center-biggest-pollution-source-entire-country](https://newrepublic.com/post/214111/amazon-data-center-biggest-pollution-source-entire-country)
-
----
-
-### 3. LinkedIn Feed Blocker
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/andrewpollack/linkedin-feed-blocker">https://github.com/andrewpollack/linkedin-feed-blocker</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49223475">https://news.ycombinator.com/item?id=49223475</a></p>
-<p>Points: 49</p>
-<p># Comments: 39</p>
-
-🔗 **Read more:** [https://github.com/andrewpollack/linkedin-feed-blocker](https://github.com/andrewpollack/linkedin-feed-blocker)
 
 ---
 
@@ -97,7 +97,20 @@ How we tracked down "The Spider" who was once one of the most-feared men in Syri
 
 ---
 
-### 7. The influencers taking on far-right leader Nigel Farage
+### 7. Yemen’s government forces attack Houthis amid renewed shelling of Marib
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Fears of a wider conflict grow as Yemen’s army counterattacks and expert warns ‘all the warning signs are there’.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/8/yemens-government-forces-attack-houthis-amid-renewed-shelling-of-marib?traffic_source=rss](https://www.aljazeera.com/news/2026/8/8/yemens-government-forces-attack-houthis-amid-renewed-shelling-of-marib?traffic_source=rss)
+
+---
+
+### 8. The influencers taking on far-right leader Nigel Farage
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ The UK media has been accused of giving far-right leader Nigel Farage an easy ri
 
 ---
 
-### 8. Gaza health chief urges action to ‘save’ Dr Abu Safia before it’s too late
+### 9. Gaza health chief urges action to ‘save’ Dr Abu Safia before it’s too late
 
 **Source:** Al Jazeera
 
@@ -120,58 +133,6 @@ The UK media has been accused of giving far-right leader Nigel Farage an easy ri
 Fears increase for life of Hussam Abu Safia detained by Israel amid reports of torture and lack of medical care.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/8/gaza-health-chief-urges-action-to-save-dr-abu-safia-before-its-too-late?traffic_source=rss](https://www.aljazeera.com/news/2026/8/8/gaza-health-chief-urges-action-to-save-dr-abu-safia-before-its-too-late?traffic_source=rss)
-
----
-
-### 9. British Columbia issues evacuation orders ahead of fast-moving wildfires
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Authorities warn residents to be prepared to leave their homes as fast-moving wildfires spread across western Canada.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/8/british-columbia-issues-evacuation-orders-ahead-of-fast-moving-wildfires?traffic_source=rss](https://www.aljazeera.com/news/2026/8/8/british-columbia-issues-evacuation-orders-ahead-of-fast-moving-wildfires?traffic_source=rss)
-
----
-
-### 10. Wildfire Wrights Spring, Klamath, Oregon
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196)
-
----
-
-### 11. Tropical Cyclone Chan-Hom
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22306](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22306)
-
----
-
-### 12. Wildfire BUZZARD, Kern, California
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195)
 
 ---
 

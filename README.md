@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-09 23:05:41
+**Last Update:** 2026-08-09 23:23:24
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
@@ -19,14 +19,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.theregister.com/security/2026/08/09/ransomware-gangs-skip-the-ceo-head-straight-for-the-40-something-it-manager/5284499">https://www.theregister.com/security/2026/08/09/ransomware-gangs-skip-the-ceo-head-straight-for-the-40-something-it-manager/5284499</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49234724">https://news.ycombinator.com/item?id=49234724</a></p>
-<p>Points: 3</p>
+<p>Points: 7</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://www.theregister.com/security/2026/08/09/ransomware-gangs-skip-the-ceo-head-straight-for-the-40-something-it-manager/5284499](https://www.theregister.com/security/2026/08/09/ransomware-gangs-skip-the-ceo-head-straight-for-the-40-something-it-manager/5284499)
 
 ---
 
-### 2. I use LLMs to learn complex topics
+### 2. How I use LLMs to learn complex topics
 
 **Source:** Hacker News
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/">https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49234675">https://news.ycombinator.com/item?id=49234675</a></p>
-<p>Points: 9</p>
-<p># Comments: 4</p>
+<p>Points: 19</p>
+<p># Comments: 9</p>
 
 🔗 **Read more:** [https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/](https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/nsrht/time-travel-sqlite-debugger">https://github.com/nsrht/time-travel-sqlite-debugger</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49234506">https://news.ycombinator.com/item?id=49234506</a></p>
-<p>Points: 6</p>
-<p># Comments: 1</p>
+<p>Points: 11</p>
+<p># Comments: 2</p>
 
 🔗 **Read more:** [https://github.com/nsrht/time-travel-sqlite-debugger](https://github.com/nsrht/time-travel-sqlite-debugger)
 
@@ -97,7 +97,20 @@ Some people using weight-loss drugs say their cravings for alcohol disappeared o
 
 ---
 
-### 7. Can the Doha Framework end the conflict in eastern DRC?
+### 7. Israel is ‘trying to make Palestine disappear’: The Elders
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Former Irish President Mary Robinson: Israel ‘erasing Palestine physically, economically, culturally and politically’.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/the-bottom-line/2026/8/9/israel-is-trying-to-make-palestine-disappear-the-elders?traffic_source=rss](https://www.aljazeera.com/video/the-bottom-line/2026/8/9/israel-is-trying-to-make-palestine-disappear-the-elders?traffic_source=rss)
+
+---
+
+### 8. Can the Doha Framework end the conflict in eastern DRC?
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Kinshasa hands over 15 prisoners to powerful rebel alliance.
 
 ---
 
-### 8. Hundreds of anti-tourism Spanish protesters march in Mallorca’s Soller
+### 9. Hundreds of anti-tourism Spanish protesters march in Mallorca’s Soller
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Kinshasa hands over 15 prisoners to powerful rebel alliance.
 Hundreds of people marched on Saturday in the town of Soller, in the island of Mallorca against mass tourism.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/9/hundreds-of-anti-tourism-spanish-protesters-march-in-mallorcas-soller?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/9/hundreds-of-anti-tourism-spanish-protesters-march-in-mallorcas-soller?traffic_source=rss)
-
----
-
-### 9. Where does Iran stand on Saudi-Pakistan-Turkiye pact?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Iran not immediately threatened by pact, analysts say, with officials focusing on aspect of diminishing US role.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/9/where-does-iran-stand-on-saudi-pakistan-turkiye-pact?traffic_source=rss](https://www.aljazeera.com/news/2026/8/9/where-does-iran-stand-on-saudi-pakistan-turkiye-pact?traffic_source=rss)
 
 ---
 

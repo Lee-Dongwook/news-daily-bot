@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-09 08:12:07
+**Last Update:** 2026-08-09 08:38:50
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Retraction: The App Store Rejection of the Week That Was a Correct Rejection
+### 1. "The original URL for this prediction will no longer be available in 11 years." (2011)
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://longbets.org/601/">https://longbets.org/601/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49228458">https://news.ycombinator.com/item?id=49228458</a></p>
+<p>Points: 5</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://longbets.org/601/](https://longbets.org/601/)
+
+---
+
+### 2. Retraction: The App Store Rejection of the Week That Was a Correct Rejection
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week">https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49228166">https://news.ycombinator.com/item?id=49228166</a></p>
-<p>Points: 36</p>
-<p># Comments: 2</p>
+<p>Points: 52</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week](https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week)
 
 ---
 
-### 2. ChatGPT starts blocking direct requests to copy an author's style
+### 3. ChatGPT starts blocking direct requests to copy an author's style
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/">https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49227718">https://news.ycombinator.com/item?id=49227718</a></p>
-<p>Points: 20</p>
-<p># Comments: 12</p>
+<p>Points: 24</p>
+<p># Comments: 15</p>
 
 🔗 **Read more:** [https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/](https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/)
-
----
-
-### 3. The phone book that led us to Assad's spy chief in hiding
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.bbc.com/news/articles/c4gyrzn8p94o">https://www.bbc.com/news/articles/c4gyrzn8p94o</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49227686">https://news.ycombinator.com/item?id=49227686</a></p>
-<p>Points: 32</p>
-<p># Comments: 16</p>
-
-🔗 **Read more:** [https://www.bbc.com/news/articles/c4gyrzn8p94o](https://www.bbc.com/news/articles/c4gyrzn8p94o)
 
 ---
 

@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-09 19:04:31
+**Last Update:** 2026-08-09 19:24:37
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, Al Jazeera, BBC
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. John C. Lilly on solid state intelligence and the elimination of man (1978)
+### 1. Silicon Valley misreads science fiction and undermines democracy
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/">https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49232221">https://news.ycombinator.com/item?id=49232221</a></p>
+<p>Points: 7</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/](https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/)
+
+---
+
+### 2. Tom Stanton's supersonic trebuchet breaks sound barrier with gravity alone
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.techeblog.com/tom-stanton-supersonic-trebuchet/">https://www.techeblog.com/tom-stanton-supersonic-trebuchet/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49232110">https://news.ycombinator.com/item?id=49232110</a></p>
+<p>Points: 7</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.techeblog.com/tom-stanton-supersonic-trebuchet/](https://www.techeblog.com/tom-stanton-supersonic-trebuchet/)
+
+---
+
+### 3. John C. Lilly on solid state intelligence and the elimination of man (1978)
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://kibotronics.net/unlisted/lilly-machines/">https://kibotronics.net/unlisted/lilly-machines/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49231397">https://news.ycombinator.com/item?id=49231397</a></p>
-<p>Points: 18</p>
-<p># Comments: 3</p>
+<p>Points: 21</p>
+<p># Comments: 5</p>
 
 🔗 **Read more:** [https://kibotronics.net/unlisted/lilly-machines/](https://kibotronics.net/unlisted/lilly-machines/)
-
----
-
-### 2. Mea Culpa – Dark Hours
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html">https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49231154">https://news.ycombinator.com/item?id=49231154</a></p>
-<p>Points: 189</p>
-<p># Comments: 76</p>
-
-🔗 **Read more:** [https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html](https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html)
-
----
-
-### 3. Show HN: A Project Oberon System version running on RISC-V instead of RISC-5
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/rochus-keller/OberonSystem/tree/op2-rv32">https://github.com/rochus-keller/OberonSystem/tree/op2-rv32</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49230891">https://news.ycombinator.com/item?id=49230891</a></p>
-<p>Points: 40</p>
-<p># Comments: 11</p>
-
-🔗 **Read more:** [https://github.com/rochus-keller/OberonSystem/tree/op2-rv32](https://github.com/rochus-keller/OberonSystem/tree/op2-rv32)
 
 ---
 
@@ -97,7 +97,33 @@ With no significant rain forecast in the coming week, more areas of England coul
 
 ---
 
-### 7. Concerns mount over integrity of Israel’s upcoming October elections
+### 7. War on Iran: Phase II: Day 29
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Iran says the Strait of Hormuz will remain restricted unless the US meets a series of demands.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/9/war-on-iran-phase-ii-day-29?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/9/war-on-iran-phase-ii-day-29?traffic_source=rss)
+
+---
+
+### 8. Pentagon urges faster US weapons production amid stockpile concerns
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+US defense industry pressed to boost output as munitions shortages raise security concerns amid Middle East tensions.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/9/pentagon-urges-faster-us-weapons-production-amid-stockpile-concerns?traffic_source=rss](https://www.aljazeera.com/news/2026/8/9/pentagon-urges-faster-us-weapons-production-amid-stockpile-concerns?traffic_source=rss)
+
+---
+
+### 9. Concerns mount over integrity of Israel’s upcoming October elections
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ With no significant rain forecast in the coming week, more areas of England coul
 Poll shows 70 percent of Jewish Israelis fear election integrity risks as Netanyahu government faces mounting criticism.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/9/concerns-mount-over-integrity-of-israels-upcoming-october-elections?traffic_source=rss](https://www.aljazeera.com/news/2026/8/9/concerns-mount-over-integrity-of-israels-upcoming-october-elections?traffic_source=rss)
-
----
-
-### 8. Gaza’s children still struggling with hunger as another famine threatens
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Youngsters are still feeling the effects of the 2025 famine, with another food emergency emerging.
-
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/9/gazas-children-still-struggling-with-hunger-as-another-famine-threatens?traffic_source=rss](https://www.aljazeera.com/features/2026/8/9/gazas-children-still-struggling-with-hunger-as-another-famine-threatens?traffic_source=rss)
-
----
-
-### 9. Gaza engineer builds animal shelters out of empty cans
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Gaza engineer builds animal shelters out of empty cans
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/9/gaza-engineer-builds-animal-shelters-out-of-empty-cans?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/9/gaza-engineer-builds-animal-shelters-out-of-empty-cans?traffic_source=rss)
 
 ---
 

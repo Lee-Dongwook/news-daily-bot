@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-09 20:08:50
+**Last Update:** 2026-08-09 20:31:57
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
@@ -19,7 +19,7 @@
 **Description:**
 <p>Article URL: <a href="https://www.shayon.dev/post/2026/220/every-fast-write-moves-work-somewhere-else/">https://www.shayon.dev/post/2026/220/every-fast-write-moves-work-somewhere-else/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49232410">https://news.ycombinator.com/item?id=49232410</a></p>
-<p>Points: 6</p>
+<p>Points: 9</p>
 <p># Comments: 1</p>
 
 🔗 **Read more:** [https://www.shayon.dev/post/2026/220/every-fast-write-moves-work-somewhere-else/](https://www.shayon.dev/post/2026/220/every-fast-write-moves-work-somewhere-else/)
@@ -35,26 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://alexanderwanyoike.github.io/vibez/">https://alexanderwanyoike.github.io/vibez/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49232369">https://news.ycombinator.com/item?id=49232369</a></p>
-<p>Points: 6</p>
-<p># Comments: 2</p>
+<p>Points: 10</p>
+<p># Comments: 3</p>
 
 🔗 **Read more:** [https://alexanderwanyoike.github.io/vibez/](https://alexanderwanyoike.github.io/vibez/)
 
 ---
 
-### 3. Taxi drivers rarely die of Alzheimer's
+### 3. Criminal Deception in Silicon Valley
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650">https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49232253">https://news.ycombinator.com/item?id=49232253</a></p>
-<p>Points: 19</p>
-<p># Comments: 9</p>
+<p>Article URL: <a href="https://pubsonline.informs.org/doi/full/10.1287/orsc.2024.19981">https://pubsonline.informs.org/doi/full/10.1287/orsc.2024.19981</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49232318">https://news.ycombinator.com/item?id=49232318</a></p>
+<p>Points: 23</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650](https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650)
+🔗 **Read more:** [https://pubsonline.informs.org/doi/full/10.1287/orsc.2024.19981](https://pubsonline.informs.org/doi/full/10.1287/orsc.2024.19981)
 
 ---
 
@@ -71,20 +71,7 @@ Israel's PM says its military will not pull out from Gaza until Hamas is "genuin
 
 ---
 
-### 5. Suspected crime boss Daniel Kinahan returning to Ireland in high-security operation
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Ancient Roman shipwreck discovered off Sicily coast
+### 5. Ancient Roman shipwreck discovered off Sicily coast
 
 **Source:** BBC
 
@@ -97,7 +84,33 @@ Italy's culture minister says it is one of the most important underwater archaeo
 
 ---
 
-### 7. How Israel’s occupation fuels resistance
+### 6. How weight-loss medication is changing relationships with alcohol
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Some people using weight-loss drugs say their cravings for alcohol disappeared or they felt nauseous when they drank.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr7kmlg0lxpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr7kmlg0lxpo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 7. Wildfires in Albania and Spain cause hundreds to evacuate
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Wildfires have spread near Albania’s capital and in parts of southern Spain, prompting hundreds to evacuate.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/9/wildfires-in-albania-and-spain-cause-hundreds-to-evacuate?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/9/wildfires-in-albania-and-spain-cause-hundreds-to-evacuate?traffic_source=rss)
+
+---
+
+### 8. How Israel’s occupation fuels resistance
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Israel is trapped in a cycle it created.
 
 ---
 
-### 8. ‘No surprise’: Netanyahu rejects US-backed Gaza plan
+### 9. ‘No surprise’: Netanyahu rejects US-backed Gaza plan
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Israel is trapped in a cycle it created.
 Palestinian politician Mustafa Barghouti says Netanyahu&#039;s rejection of the US-backed Gaza plan is no surprise.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/quotable/2026/8/9/no-surprise-netanyahu-rejects-us-backed-gaza-plan?traffic_source=rss](https://www.aljazeera.com/video/quotable/2026/8/9/no-surprise-netanyahu-rejects-us-backed-gaza-plan?traffic_source=rss)
-
----
-
-### 9. Incumbents secure Hawaii primary wins, defying progressive challengers
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Their victories highlight ongoing clashes between centrist Democrats and more progressive candidates.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/9/incumbents-secure-hawaii-primary-wins-defying-progressive-challengers?traffic_source=rss](https://www.aljazeera.com/news/2026/8/9/incumbents-secure-hawaii-primary-wins-defying-progressive-challengers?traffic_source=rss)
 
 ---
 

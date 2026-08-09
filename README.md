@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-09 22:39:15
+**Last Update:** 2026-08-09 23:05:41
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. A zero-dependency, ultra-lightweight database time machine for SQLite
+### 1. Ransomware gangs skip the CEO, head straight for the 40-something IT manager
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.theregister.com/security/2026/08/09/ransomware-gangs-skip-the-ceo-head-straight-for-the-40-something-it-manager/5284499">https://www.theregister.com/security/2026/08/09/ransomware-gangs-skip-the-ceo-head-straight-for-the-40-something-it-manager/5284499</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49234724">https://news.ycombinator.com/item?id=49234724</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.theregister.com/security/2026/08/09/ransomware-gangs-skip-the-ceo-head-straight-for-the-40-something-it-manager/5284499](https://www.theregister.com/security/2026/08/09/ransomware-gangs-skip-the-ceo-head-straight-for-the-40-something-it-manager/5284499)
+
+---
+
+### 2. I use LLMs to learn complex topics
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/">https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49234675">https://news.ycombinator.com/item?id=49234675</a></p>
+<p>Points: 9</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/](https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/)
+
+---
+
+### 3. A zero-dependency, ultra-lightweight database time machine for SQLite
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/nsrht/time-travel-sqlite-debugger">https://github.com/nsrht/time-travel-sqlite-debugger</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49234506">https://news.ycombinator.com/item?id=49234506</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://github.com/nsrht/time-travel-sqlite-debugger](https://github.com/nsrht/time-travel-sqlite-debugger)
-
----
-
-### 2. Plug-In Solar Panels Starting to Sprout in U.S. Backyards
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.nytimes.com/2026/07/31/business/energy-environment/plug-in-balcony-solar.html">https://www.nytimes.com/2026/07/31/business/energy-environment/plug-in-balcony-solar.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49234393">https://news.ycombinator.com/item?id=49234393</a></p>
-<p>Points: 7</p>
+<p>Points: 6</p>
 <p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.nytimes.com/2026/07/31/business/energy-environment/plug-in-balcony-solar.html](https://www.nytimes.com/2026/07/31/business/energy-environment/plug-in-balcony-solar.html)
-
----
-
-### 3. Saying No
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://rozumem.xyz/posts/19">https://rozumem.xyz/posts/19</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49234379">https://news.ycombinator.com/item?id=49234379</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://rozumem.xyz/posts/19](https://rozumem.xyz/posts/19)
+🔗 **Read more:** [https://github.com/nsrht/time-travel-sqlite-debugger](https://github.com/nsrht/time-travel-sqlite-debugger)
 
 ---
 
@@ -97,7 +97,20 @@ Some people using weight-loss drugs say their cravings for alcohol disappeared o
 
 ---
 
-### 7. Hundreds of anti-tourism Spanish protesters march in Mallorca’s Soller
+### 7. Can the Doha Framework end the conflict in eastern DRC?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Kinshasa hands over 15 prisoners to powerful rebel alliance.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/8/9/can-the-doha-framework-end-the-conflict-in-eastern-drc?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/8/9/can-the-doha-framework-end-the-conflict-in-eastern-drc?traffic_source=rss)
+
+---
+
+### 8. Hundreds of anti-tourism Spanish protesters march in Mallorca’s Soller
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Hundreds of people marched on Saturday in the town of Soller, in the island of M
 
 ---
 
-### 8. Where does Iran stand on Saudi-Pakistan-Turkiye pact?
+### 9. Where does Iran stand on Saudi-Pakistan-Turkiye pact?
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Hundreds of people marched on Saturday in the town of Soller, in the island of M
 Iran not immediately threatened by pact, analysts say, with officials focusing on aspect of diminishing US role.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/9/where-does-iran-stand-on-saudi-pakistan-turkiye-pact?traffic_source=rss](https://www.aljazeera.com/news/2026/8/9/where-does-iran-stand-on-saudi-pakistan-turkiye-pact?traffic_source=rss)
-
----
-
-### 9. Jannik Sinner withdraws from Cincinnati Open with knee injury
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Number one ranked player in men&#039;s tennis will miss the tournament due to a knee issue, he says via organisers.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/9/jannik-sinner-withdraws-from-cincinnati-open-with-knee-injury?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/9/jannik-sinner-withdraws-from-cincinnati-open-with-knee-injury?traffic_source=rss)
 
 ---
 

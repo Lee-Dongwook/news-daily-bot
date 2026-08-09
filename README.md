@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-09 19:24:37
+**Last Update:** 2026-08-09 20:08:50
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Silicon Valley misreads science fiction and undermines democracy
+### 1. Every fast write moves work somewhere else
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/">https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49232221">https://news.ycombinator.com/item?id=49232221</a></p>
-<p>Points: 7</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.shayon.dev/post/2026/220/every-fast-write-moves-work-somewhere-else/">https://www.shayon.dev/post/2026/220/every-fast-write-moves-work-somewhere-else/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49232410">https://news.ycombinator.com/item?id=49232410</a></p>
+<p>Points: 6</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/](https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/)
+🔗 **Read more:** [https://www.shayon.dev/post/2026/220/every-fast-write-moves-work-somewhere-else/](https://www.shayon.dev/post/2026/220/every-fast-write-moves-work-somewhere-else/)
 
 ---
 
-### 2. Tom Stanton's supersonic trebuchet breaks sound barrier with gravity alone
+### 2. Show HN: Vibez – Open-Source Rust Based Digital Audio Workstation (DAW)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.techeblog.com/tom-stanton-supersonic-trebuchet/">https://www.techeblog.com/tom-stanton-supersonic-trebuchet/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49232110">https://news.ycombinator.com/item?id=49232110</a></p>
-<p>Points: 7</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://alexanderwanyoike.github.io/vibez/">https://alexanderwanyoike.github.io/vibez/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49232369">https://news.ycombinator.com/item?id=49232369</a></p>
+<p>Points: 6</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://www.techeblog.com/tom-stanton-supersonic-trebuchet/](https://www.techeblog.com/tom-stanton-supersonic-trebuchet/)
+🔗 **Read more:** [https://alexanderwanyoike.github.io/vibez/](https://alexanderwanyoike.github.io/vibez/)
 
 ---
 
-### 3. John C. Lilly on solid state intelligence and the elimination of man (1978)
+### 3. Taxi drivers rarely die of Alzheimer's
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://kibotronics.net/unlisted/lilly-machines/">https://kibotronics.net/unlisted/lilly-machines/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49231397">https://news.ycombinator.com/item?id=49231397</a></p>
-<p>Points: 21</p>
-<p># Comments: 5</p>
+<p>Article URL: <a href="https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650">https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49232253">https://news.ycombinator.com/item?id=49232253</a></p>
+<p>Points: 19</p>
+<p># Comments: 9</p>
 
-🔗 **Read more:** [https://kibotronics.net/unlisted/lilly-machines/](https://kibotronics.net/unlisted/lilly-machines/)
+🔗 **Read more:** [https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650](https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650)
 
 ---
 
@@ -84,55 +84,55 @@ The Irish Prison Service bought a bulletproof and bombproof van to transport the
 
 ---
 
-### 6. More areas of UK likely to move into drought as fifth heatwave builds
+### 6. Ancient Roman shipwreck discovered off Sicily coast
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-With no significant rain forecast in the coming week, more areas of England could move into drought status, as Simon King explains.
+Italy's culture minister says it is one of the most important underwater archaeological finds in years.
 
-🔗 **Read more:** [https://www.bbc.co.uk/weather/articles/c9d8vwg0197o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/weather/articles/c9d8vwg0197o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvgx1kpz17go?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvgx1kpz17go?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. War on Iran: Phase II: Day 29
+### 7. How Israel’s occupation fuels resistance
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Iran says the Strait of Hormuz will remain restricted unless the US meets a series of demands.
+Israel is trapped in a cycle it created.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/9/war-on-iran-phase-ii-day-29?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/9/war-on-iran-phase-ii-day-29?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/9/how-israels-occupation-fuels-resistance?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/9/how-israels-occupation-fuels-resistance?traffic_source=rss)
 
 ---
 
-### 8. Pentagon urges faster US weapons production amid stockpile concerns
+### 8. ‘No surprise’: Netanyahu rejects US-backed Gaza plan
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US defense industry pressed to boost output as munitions shortages raise security concerns amid Middle East tensions.
+Palestinian politician Mustafa Barghouti says Netanyahu&#039;s rejection of the US-backed Gaza plan is no surprise.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/9/pentagon-urges-faster-us-weapons-production-amid-stockpile-concerns?traffic_source=rss](https://www.aljazeera.com/news/2026/8/9/pentagon-urges-faster-us-weapons-production-amid-stockpile-concerns?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/quotable/2026/8/9/no-surprise-netanyahu-rejects-us-backed-gaza-plan?traffic_source=rss](https://www.aljazeera.com/video/quotable/2026/8/9/no-surprise-netanyahu-rejects-us-backed-gaza-plan?traffic_source=rss)
 
 ---
 
-### 9. Concerns mount over integrity of Israel’s upcoming October elections
+### 9. Incumbents secure Hawaii primary wins, defying progressive challengers
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Poll shows 70 percent of Jewish Israelis fear election integrity risks as Netanyahu government faces mounting criticism.
+Their victories highlight ongoing clashes between centrist Democrats and more progressive candidates.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/9/concerns-mount-over-integrity-of-israels-upcoming-october-elections?traffic_source=rss](https://www.aljazeera.com/news/2026/8/9/concerns-mount-over-integrity-of-israels-upcoming-october-elections?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/9/incumbents-secure-hawaii-primary-wins-defying-progressive-challengers?traffic_source=rss](https://www.aljazeera.com/news/2026/8/9/incumbents-secure-hawaii-primary-wins-defying-progressive-challengers?traffic_source=rss)
 
 ---
 

@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-10 02:04:24
+**Last Update:** 2026-08-10 02:26:18
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Tuxedo No. 2 – Cocktail recipes
+### 1. Georgia police officers fired after Flock camera misuse
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.wtoc.com/2026/08/07/savannah-police-department-fires-6-employees-over-flock-safety-system-misuse/">https://www.wtoc.com/2026/08/07/savannah-police-department-fires-6-employees-over-flock-safety-system-misuse/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49236033">https://news.ycombinator.com/item?id=49236033</a></p>
+<p>Points: 15</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://www.wtoc.com/2026/08/07/savannah-police-department-fires-6-employees-over-flock-safety-system-misuse/](https://www.wtoc.com/2026/08/07/savannah-police-department-fires-6-employees-over-flock-safety-system-misuse/)
+
+---
+
+### 2. Tuxedo No. 2 – Cocktail recipes
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://tuxedono2.com">https://tuxedono2.com</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49235697">https://news.ycombinator.com/item?id=49235697</a></p>
-<p>Points: 12</p>
+<p>Points: 14</p>
 <p># Comments: 2</p>
 
 🔗 **Read more:** [https://tuxedono2.com](https://tuxedono2.com)
 
 ---
 
-### 2. New Zealand lost its music media, and what we're building to replace it
+### 3. New Zealand lost its music media, and what we're building to replace it
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media">https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49235641">https://news.ycombinator.com/item?id=49235641</a></p>
-<p>Points: 28</p>
-<p># Comments: 10</p>
+<p>Points: 32</p>
+<p># Comments: 13</p>
 
 🔗 **Read more:** [https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media](https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media)
-
----
-
-### 3. The climate benefits of retiring an operational combustion engine vehicle
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.science.org/doi/10.1126/science.adv5441">https://www.science.org/doi/10.1126/science.adv5441</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49235572">https://news.ycombinator.com/item?id=49235572</a></p>
-<p>Points: 7</p>
-<p># Comments: 4</p>
-
-🔗 **Read more:** [https://www.science.org/doi/10.1126/science.adv5441](https://www.science.org/doi/10.1126/science.adv5441)
 
 ---
 

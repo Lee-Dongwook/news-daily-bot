@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-09 03:20:45
+**Last Update:** 2026-08-09 05:27:14
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. My server is a phone now
+### 1. The AI Apocalypse Is Here
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://seg6.space/posts/phone-server/">https://seg6.space/posts/phone-server/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49226636">https://news.ycombinator.com/item?id=49226636</a></p>
-<p>Points: 10</p>
+<p>Article URL: <a href="https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/">https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49227521">https://news.ycombinator.com/item?id=49227521</a></p>
+<p>Points: 8</p>
 <p># Comments: 1</p>
 
-🔗 **Read more:** [https://seg6.space/posts/phone-server/](https://seg6.space/posts/phone-server/)
+🔗 **Read more:** [https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/](https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/)
 
 ---
 
-### 2. Maryland Closes More of Cunningham Falls State Park After Second Beaver Attack
+### 2. Os8088: A powerful Mac-like OS for the IBM XT, 286, 386
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/">https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49225918">https://news.ycombinator.com/item?id=49225918</a></p>
-<p>Points: 64</p>
-<p># Comments: 30</p>
+<p>Article URL: <a href="https://os8088.com/">https://os8088.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49226923">https://news.ycombinator.com/item?id=49226923</a></p>
+<p>Points: 29</p>
+<p># Comments: 8</p>
 
-🔗 **Read more:** [https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/](https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/)
+🔗 **Read more:** [https://os8088.com/](https://os8088.com/)
 
 ---
 
-### 3. The Unreasonable Effectiveness of Mathematics in the Natural Sciences [pdf]
+### 3. Dithered QR Codes
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://web.njit.edu/~akansu/PAPERS/The%20Unreasonable%20Effectiveness%20of%20Mathematics%20(EP%20Wigner).pdf">https://web.njit.edu/~akansu/PAPERS/The%20Unreasonable%20Effectiveness%20of%20Mathematics%20(EP%20Wigner).pdf</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49225676">https://news.ycombinator.com/item?id=49225676</a></p>
-<p>Points: 14</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://www.andrewt.net/dithered-qr-codes/wtf/">https://www.andrewt.net/dithered-qr-codes/wtf/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49226742">https://news.ycombinator.com/item?id=49226742</a></p>
+<p>Points: 21</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://web.njit.edu/~akansu/PAPERS/The%20Unreasonable%20Effectiveness%20of%20Mathematics%20(EP%20Wigner).pdf](https://web.njit.edu/~akansu/PAPERS/The%20Unreasonable%20Effectiveness%20of%20Mathematics%20(EP%20Wigner).pdf)
+🔗 **Read more:** [https://www.andrewt.net/dithered-qr-codes/wtf/](https://www.andrewt.net/dithered-qr-codes/wtf/)
 
 ---
 
@@ -97,42 +97,42 @@ The early release of two of his killers has brought a case which still resonates
 
 ---
 
-### 7. Crews recover 19 bodies from rubble of destroyed Gaza building
+### 7. Hungary nominates former Supreme Court chief Andras Baka for presidency
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-More than 8,000 people remain missing amid rubble in Gaza, with recovery efforts hindered by lack of heavy machinery.
+Andras Baka, a strong advocate for judicial independence, becomes governing party&#039;s pick for Hungary&#039;s next president.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/8/crews-recover-19-bodies-from-rubble-of-destroyed-gaza-building?traffic_source=rss](https://www.aljazeera.com/news/2026/8/8/crews-recover-19-bodies-from-rubble-of-destroyed-gaza-building?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/9/hungary-nominates-former-supreme-court-chief-andras-baka-for-presidency?traffic_source=rss](https://www.aljazeera.com/news/2026/8/9/hungary-nominates-former-supreme-court-chief-andras-baka-for-presidency?traffic_source=rss)
 
 ---
 
-### 8. Car bomb attack rattles Colombia after inauguration of hardline president
+### 8. Iran war live: Tehran demands end to US blockade to reopen Strait of Hormuz
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Government promises harsh response following explosives attack on Pan-American Highway in southwest of country.
+IRGC sets conditions to reopen Strait of Hormuz as US seeks commitments to end attacks on ships in the waterway.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/8/car-bomb-attack-rattles-colombia-after-inauguration-of-hardline-president?traffic_source=rss](https://www.aljazeera.com/news/2026/8/8/car-bomb-attack-rattles-colombia-after-inauguration-of-hardline-president?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/8/9/iran-war-live-tehran-demands-end-to-us-blockade-to-reopen-strait-of-hormuz?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/8/9/iran-war-live-tehran-demands-end-to-us-blockade-to-reopen-strait-of-hormuz?traffic_source=rss)
 
 ---
 
-### 9. Will Pakistan-Saudi-Turkiye defence pact change US strategy?
+### 9. Turkiye says Mecca defence pact not aimed at Iran
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Some experts say the deal precipitates a larger strategic shift in Middle East while others say it reinforces US goals.
+Turkiye says the Mecca defence pact with Saudi Arabia and Pakistan does not target Iran.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/8/will-pakistan-saudi-turkiye-defence-pact-change-us-strategy?traffic_source=rss](https://www.aljazeera.com/news/2026/8/8/will-pakistan-saudi-turkiye-defence-pact-change-us-strategy?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/8/turkiye-says-mecca-defence-pact-not-aimed-at-iran?traffic_source=rss](https://www.aljazeera.com/news/2026/8/8/turkiye-says-mecca-defence-pact-not-aimed-at-iran?traffic_source=rss)
 
 ---
 

@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-09 07:19:19
+**Last Update:** 2026-08-09 08:12:07
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. ChatGPT starts blocking direct requests to copy an author's style
+### 1. Retraction: The App Store Rejection of the Week That Was a Correct Rejection
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week">https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49228166">https://news.ycombinator.com/item?id=49228166</a></p>
+<p>Points: 36</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week](https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week)
+
+---
+
+### 2. ChatGPT starts blocking direct requests to copy an author's style
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/">https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49227718">https://news.ycombinator.com/item?id=49227718</a></p>
-<p>Points: 13</p>
-<p># Comments: 0</p>
+<p>Points: 20</p>
+<p># Comments: 12</p>
 
 🔗 **Read more:** [https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/](https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/)
 
 ---
 
-### 2. The phone book that led us to Assad's spy chief in hiding
+### 3. The phone book that led us to Assad's spy chief in hiding
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.bbc.com/news/articles/c4gyrzn8p94o">https://www.bbc.com/news/articles/c4gyrzn8p94o</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49227686">https://news.ycombinator.com/item?id=49227686</a></p>
-<p>Points: 25</p>
-<p># Comments: 5</p>
+<p>Points: 32</p>
+<p># Comments: 16</p>
 
 🔗 **Read more:** [https://www.bbc.com/news/articles/c4gyrzn8p94o](https://www.bbc.com/news/articles/c4gyrzn8p94o)
-
----
-
-### 3. TheoremDB · A public workspace for machine mathematics
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://theoremdb.org/">https://theoremdb.org/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49227505">https://news.ycombinator.com/item?id=49227505</a></p>
-<p>Points: 7</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://theoremdb.org/](https://theoremdb.org/)
 
 ---
 
@@ -97,42 +97,42 @@ The early release of two of his killers has brought a case which still resonates
 
 ---
 
-### 7. Helicopter crash kills pilot and crew member amid Utah wildfire battle
+### 7. Car bomb hits Colombia highway day after new president sworn in
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Utah wildfire suppression efforts continued, with containment standing at 24 percent.
+A car bomb destroyed a toll booth on a highway in Colombia a day after President Abelardo de la Espriella was sworn in.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/9/helicopter-crash-kills-pilot-and-crew-member-amid-utah-wildfire-battle?traffic_source=rss](https://www.aljazeera.com/news/2026/8/9/helicopter-crash-kills-pilot-and-crew-member-amid-utah-wildfire-battle?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/9/08-09-2026-colombia-car-bomb-sv-mp4?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/9/08-09-2026-colombia-car-bomb-sv-mp4?traffic_source=rss)
 
 ---
 
-### 8. Israeli settler attacks rise as West Bank residents lose land
+### 8. Iran seeks way out of ‘neither war nor peace’ stalemate with US
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Palestinians near Bethlehem describe daily settler attacks as violence rises across the West Bank.
+Iran President Pezeshkian said he hopes talks with Oman can end the “neither war nor peace” state of relations with US.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/9/09-08-reported-nour-odeh-bethlehem?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/9/09-08-reported-nour-odeh-bethlehem?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/9/08-08-clip-pezeshkian-iran-ir?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/9/08-08-clip-pezeshkian-iran-ir?traffic_source=rss)
 
 ---
 
-### 9. Hungary nominates former Supreme Court chief Andras Baka for presidency
+### 9. Ghana’s cashew apples get a second life
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Andras Baka, a strong advocate for judicial independence, becomes governing party&#039;s pick for Hungary&#039;s next president.
+A fruit long left to rot could become a new source of income for Ghana’s cashew farmers.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/9/hungary-nominates-former-supreme-court-chief-andras-baka-for-presidency?traffic_source=rss](https://www.aljazeera.com/news/2026/8/9/hungary-nominates-former-supreme-court-chief-andras-baka-for-presidency?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/9/ghanas-cashew-apples-get-a-second-life?traffic_source=rss](https://www.aljazeera.com/news/2026/8/9/ghanas-cashew-apples-get-a-second-life?traffic_source=rss)
 
 ---
 

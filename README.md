@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-09 05:27:14
+**Last Update:** 2026-08-09 06:03:30
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. The AI Apocalypse Is Here
+### 1. The phone book that led us to Assad's spy chief in hiding
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.bbc.com/news/articles/c4gyrzn8p94o">https://www.bbc.com/news/articles/c4gyrzn8p94o</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49227686">https://news.ycombinator.com/item?id=49227686</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.bbc.com/news/articles/c4gyrzn8p94o](https://www.bbc.com/news/articles/c4gyrzn8p94o)
+
+---
+
+### 2. The AI Apocalypse Is Here
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/">https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49227521">https://news.ycombinator.com/item?id=49227521</a></p>
-<p>Points: 8</p>
-<p># Comments: 1</p>
+<p>Points: 19</p>
+<p># Comments: 11</p>
 
 🔗 **Read more:** [https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/](https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/)
 
 ---
 
-### 2. Os8088: A powerful Mac-like OS for the IBM XT, 286, 386
+### 3. Os8088: A powerful Mac-like OS for the IBM XT, 286, 386
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://os8088.com/">https://os8088.com/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49226923">https://news.ycombinator.com/item?id=49226923</a></p>
-<p>Points: 29</p>
-<p># Comments: 8</p>
+<p>Points: 51</p>
+<p># Comments: 13</p>
 
 🔗 **Read more:** [https://os8088.com/](https://os8088.com/)
-
----
-
-### 3. Dithered QR Codes
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.andrewt.net/dithered-qr-codes/wtf/">https://www.andrewt.net/dithered-qr-codes/wtf/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49226742">https://news.ycombinator.com/item?id=49226742</a></p>
-<p>Points: 21</p>
-<p># Comments: 3</p>
-
-🔗 **Read more:** [https://www.andrewt.net/dithered-qr-codes/wtf/](https://www.andrewt.net/dithered-qr-codes/wtf/)
 
 ---
 
@@ -97,7 +97,20 @@ The early release of two of his killers has brought a case which still resonates
 
 ---
 
-### 7. Hungary nominates former Supreme Court chief Andras Baka for presidency
+### 7. Israeli settler attacks rise as West Bank residents lose land
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Palestinians near Bethlehem describe daily settler attacks as violence rises across the West Bank.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/9/09-08-reported-nour-odeh-bethlehem?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/9/09-08-reported-nour-odeh-bethlehem?traffic_source=rss)
+
+---
+
+### 8. Hungary nominates former Supreme Court chief Andras Baka for presidency
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Andras Baka, a strong advocate for judicial independence, becomes governing part
 
 ---
 
-### 8. Iran war live: Tehran demands end to US blockade to reopen Strait of Hormuz
+### 9. Iran war live: Tehran demands end to US blockade to reopen Strait of Hormuz
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Andras Baka, a strong advocate for judicial independence, becomes governing part
 IRGC sets conditions to reopen Strait of Hormuz as US seeks commitments to end attacks on ships in the waterway.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/8/9/iran-war-live-tehran-demands-end-to-us-blockade-to-reopen-strait-of-hormuz?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/8/9/iran-war-live-tehran-demands-end-to-us-blockade-to-reopen-strait-of-hormuz?traffic_source=rss)
-
----
-
-### 9. Turkiye says Mecca defence pact not aimed at Iran
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Turkiye says the Mecca defence pact with Saudi Arabia and Pakistan does not target Iran.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/8/turkiye-says-mecca-defence-pact-not-aimed-at-iran?traffic_source=rss](https://www.aljazeera.com/news/2026/8/8/turkiye-says-mecca-defence-pact-not-aimed-at-iran?traffic_source=rss)
 
 ---
 

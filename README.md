@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-09 08:38:50
+**Last Update:** 2026-08-09 09:34:50
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, Al Jazeera, BBC
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
@@ -19,14 +19,30 @@
 **Description:**
 <p>Article URL: <a href="https://longbets.org/601/">https://longbets.org/601/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49228458">https://news.ycombinator.com/item?id=49228458</a></p>
-<p>Points: 5</p>
-<p># Comments: 1</p>
+<p>Points: 46</p>
+<p># Comments: 9</p>
 
 🔗 **Read more:** [https://longbets.org/601/](https://longbets.org/601/)
 
 ---
 
-### 2. Retraction: The App Store Rejection of the Week That Was a Correct Rejection
+### 2. Illinois Just Told Every Operating System to Start Reporting Your Kid's Age
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://itsfoss.com/news/illinois-age-verification-bill/">https://itsfoss.com/news/illinois-age-verification-bill/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49228350">https://news.ycombinator.com/item?id=49228350</a></p>
+<p>Points: 35</p>
+<p># Comments: 9</p>
+
+🔗 **Read more:** [https://itsfoss.com/news/illinois-age-verification-bill/](https://itsfoss.com/news/illinois-age-verification-bill/)
+
+---
+
+### 3. Retraction: The App Store Rejection of the Week That Was a Correct Rejection
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week">https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49228166">https://news.ycombinator.com/item?id=49228166</a></p>
-<p>Points: 52</p>
-<p># Comments: 4</p>
+<p>Points: 82</p>
+<p># Comments: 5</p>
 
 🔗 **Read more:** [https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week](https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week)
-
----
-
-### 3. ChatGPT starts blocking direct requests to copy an author's style
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/">https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49227718">https://news.ycombinator.com/item?id=49227718</a></p>
-<p>Points: 24</p>
-<p># Comments: 15</p>
-
-🔗 **Read more:** [https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/](https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/)
 
 ---
 
@@ -97,42 +97,42 @@ The early release of two of his killers has brought a case which still resonates
 
 ---
 
-### 7. Car bomb hits Colombia highway day after new president sworn in
+### 7. Lionel Messi returns to Argentina after father Jorge’s death
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A car bomb destroyed a toll booth on a highway in Colombia a day after President Abelardo de la Espriella was sworn in.
+Football star Lionel Messi returned to Argentina with his family on Saturday, a day after his father died.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/9/08-09-2026-colombia-car-bomb-sv-mp4?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/9/08-09-2026-colombia-car-bomb-sv-mp4?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/9/08-09-2026-messi-arrives-argentina-clip?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/9/08-09-2026-messi-arrives-argentina-clip?traffic_source=rss)
 
 ---
 
-### 8. Iran seeks way out of ‘neither war nor peace’ stalemate with US
+### 8. Iran issues new demands as Pezeshkian seeks deal
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Iran President Pezeshkian said he hopes talks with Oman can end the “neither war nor peace” state of relations with US.
+Senior Iranian security official sets broader conditions for reopening Hormuz.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/9/08-08-clip-pezeshkian-iran-ir?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/9/08-08-clip-pezeshkian-iran-ir?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/9/iran-issues-new-demands-as-pezeshkian-seeks-deal?traffic_source=rss](https://www.aljazeera.com/news/2026/8/9/iran-issues-new-demands-as-pezeshkian-seeks-deal?traffic_source=rss)
 
 ---
 
-### 9. Ghana’s cashew apples get a second life
+### 9. ‘Very painful’: Joe Biden’s cancer has spread, son Hunter says
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A fruit long left to rot could become a new source of income for Ghana’s cashew farmers.
+Joe Biden’s son, Hunter Biden, says his father’s prostate cancer has “metastasised into his bones and further”.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/9/ghanas-cashew-apples-get-a-second-life?traffic_source=rss](https://www.aljazeera.com/news/2026/8/9/ghanas-cashew-apples-get-a-second-life?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/9/08-09-clip-biden-cancer-us?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/9/08-09-clip-biden-cancer-us?traffic_source=rss)
 
 ---
 

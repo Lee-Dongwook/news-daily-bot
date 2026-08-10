@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-10 05:32:00
+**Last Update:** 2026-08-10 06:09:13
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
@@ -19,7 +19,7 @@
 **Description:**
 <p>Article URL: <a href="https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/">https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49238050">https://news.ycombinator.com/item?id=49238050</a></p>
-<p>Points: 17</p>
+<p>Points: 22</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/](https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/)
@@ -35,7 +35,7 @@
 **Description:**
 <p>Article URL: <a href="https://www.dpreview.com/news/panasonic-did-what-apple-sony-and-nikon-couldnt-overturn-a-red-raw-video-patent/">https://www.dpreview.com/news/panasonic-did-what-apple-sony-and-nikon-couldnt-overturn-a-red-raw-video-patent/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49237873">https://news.ycombinator.com/item?id=49237873</a></p>
-<p>Points: 22</p>
+<p>Points: 31</p>
 <p># Comments: 3</p>
 
 🔗 **Read more:** [https://www.dpreview.com/news/panasonic-did-what-apple-sony-and-nikon-couldnt-overturn-a-red-raw-video-patent/](https://www.dpreview.com/news/panasonic-did-what-apple-sony-and-nikon-couldnt-overturn-a-red-raw-video-patent/)
@@ -51,7 +51,7 @@
 **Description:**
 <p>Article URL: <a href="https://www.betonit.ai/p/the-ambition-project">https://www.betonit.ai/p/the-ambition-project</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49237407">https://news.ycombinator.com/item?id=49237407</a></p>
-<p>Points: 4</p>
+<p>Points: 8</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://www.betonit.ai/p/the-ambition-project](https://www.betonit.ai/p/the-ambition-project)
@@ -71,20 +71,7 @@ The Irish Prison Service bought a bulletproof and bombproof van to transport the
 
 ---
 
-### 5. How Kinahan's hearing unfolded inside the courtroom in Dublin
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Suspected crime boss Daniel Kinahan appeared in court and was charged with directing the activities of a criminal organisation after being extradited from Dubai.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cly5zpx0ypdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cly5zpx0ypdo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Burnham brings forward ban on 'subscription traps' to ease cost of living
+### 5. Burnham brings forward ban on 'subscription traps' to ease cost of living
 
 **Source:** BBC
 
@@ -94,6 +81,19 @@ Suspected crime boss Daniel Kinahan appeared in court and was charged with direc
 The prime minister is embarking on a UK tour with a series of announcements aimed at easing living costs.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cly5x9qlnvjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cly5x9qlnvjo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Evidence that South African special forces murdered top detective shared with BBC
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Frans Mathipa was shot while driving - we got access to the prosecution case against eight accused men.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cly8djwgem0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cly8djwgem0o?at_medium=RSS&at_campaign=rss)
 
 ---
 

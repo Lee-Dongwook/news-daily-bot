@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-10 18:31:23
+**Last Update:** 2026-08-10 18:58:53
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models
+### 1. OpenAI's letter to Governor Abbott on responsible AI infrastructure in Texas
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://openai.com/index/responsible-ai-infrastructure-texas/">https://openai.com/index/responsible-ai-infrastructure-texas/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49244308">https://news.ycombinator.com/item?id=49244308</a></p>
+<p>Points: 27</p>
+<p># Comments: 16</p>
+
+🔗 **Read more:** [https://openai.com/index/responsible-ai-infrastructure-texas/](https://openai.com/index/responsible-ai-infrastructure-texas/)
+
+---
+
+### 2. Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models
 
 **Source:** Hacker News
 
@@ -19,26 +35,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878">https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49243880">https://news.ycombinator.com/item?id=49243880</a></p>
-<p>Points: 11</p>
-<p># Comments: 5</p>
+<p>Points: 47</p>
+<p># Comments: 38</p>
 
 🔗 **Read more:** [https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878](https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878)
-
----
-
-### 2. China is now the world's greatest oil power
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.economist.com/finance-and-economics/2026/08/09/china-is-now-the-worlds-great-oil-power">https://www.economist.com/finance-and-economics/2026/08/09/china-is-now-the-worlds-great-oil-power</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49243531">https://news.ycombinator.com/item?id=49243531</a></p>
-<p>Points: 17</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://www.economist.com/finance-and-economics/2026/08/09/china-is-now-the-worlds-great-oil-power](https://www.economist.com/finance-and-economics/2026/08/09/china-is-now-the-worlds-great-oil-power)
 
 ---
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html">https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49243397">https://news.ycombinator.com/item?id=49243397</a></p>
-<p>Points: 67</p>
-<p># Comments: 65</p>
+<p>Points: 87</p>
+<p># Comments: 82</p>
 
 🔗 **Read more:** [https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html](https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html)
 
@@ -97,7 +97,33 @@ A group including Amazon founder Jeff Bezos advances its talks to buy about a 30
 
 ---
 
-### 7. Ben-Gvir posts AI video of starving Palestinian ahead of elections
+### 7. Earthquake with 7.4 magnitude hits Colombia, killing at least 20
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Emergency teams are still assessing the impact of the quake that was felt across the region.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/10/7-4-magnitude-earthquake-hits-colombia-killing-at-least-20?traffic_source=rss](https://www.aljazeera.com/news/2026/8/10/7-4-magnitude-earthquake-hits-colombia-killing-at-least-20?traffic_source=rss)
+
+---
+
+### 8. Indian police attack protesters seeking action over ‘exam irregularities’
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Indian police attack protesters seeking action over ‘exam irregularities’ in Jharkhand.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/10/indian-police-attack-protesters-seeking-action-over-exam?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/10/indian-police-attack-protesters-seeking-action-over-exam?traffic_source=rss)
+
+---
+
+### 9. Ben-Gvir posts AI video of starving Palestinian ahead of elections
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ A group including Amazon founder Jeff Bezos advances its talks to buy about a 30
 Ben-Gvir posts AI video of starving Palestinian ahead of elections
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/10/ben-gvir-posts-ai-video-of-starving-palestinian-ahead-of-elections?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/10/ben-gvir-posts-ai-video-of-starving-palestinian-ahead-of-elections?traffic_source=rss)
-
----
-
-### 8. How the US far-right weaponised ‘inshallah’ against Abdul El-Sayed
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-After his Senate primary win in Michigan, the Egyptian American doctor faced a coordinated digital smear campaign.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/10/how-the-us-far-right-weaponised-inshallah-against-abdul-el-sayed?traffic_source=rss](https://www.aljazeera.com/news/2026/8/10/how-the-us-far-right-weaponised-inshallah-against-abdul-el-sayed?traffic_source=rss)
-
----
-
-### 9. War on Iran: Phase II: Day 30
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Donald Trump says the US is only ‘semi-negotiating’ with Iran.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/10/war-on-iran-phase-ii-day-30?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/10/war-on-iran-phase-ii-day-30?traffic_source=rss)
 
 ---
 

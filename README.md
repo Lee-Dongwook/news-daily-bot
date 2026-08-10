@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-10 13:49:17
+**Last Update:** 2026-08-10 14:11:00
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.docker.com/products/docker-sandboxes/">https://www.docker.com/products/docker-sandboxes/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49239751">https://news.ycombinator.com/item?id=49239751</a></p>
-<p>Points: 216</p>
-<p># Comments: 142</p>
+<p>Points: 232</p>
+<p># Comments: 148</p>
 
 🔗 **Read more:** [https://www.docker.com/products/docker-sandboxes/](https://www.docker.com/products/docker-sandboxes/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://claude.com/blog/auto-mode-default-in-claude-code">https://claude.com/blog/auto-mode-default-in-claude-code</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49239021">https://news.ycombinator.com/item?id=49239021</a></p>
-<p>Points: 214</p>
-<p># Comments: 217</p>
+<p>Points: 220</p>
+<p># Comments: 226</p>
 
 🔗 **Read more:** [https://claude.com/blog/auto-mode-default-in-claude-code](https://claude.com/blog/auto-mode-default-in-claude-code)
 
@@ -65,7 +65,7 @@
 **Category:** world
 
 **Description:**
-The boat made the journey on Saturday, when a total of 258 migrants made the crossing on four boats.
+The 230 people on one boat breaks the previous record from July, which was 165 on a vessel.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c4g4vxjg2yno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c4g4vxjg2yno?at_medium=RSS&at_campaign=rss)
 
@@ -97,42 +97,42 @@ The seven-figure payment was given to Steve Buck as part of package to persuade 
 
 ---
 
-### 7. Tropical Storm Dolphin batters eastern China with heavy rain, strong winds
+### 7. June and July hottest on record in Western Europe, monitor says
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Dolphin is forecast to move deeper inland to the central provinces of Hubei and Henan in ⁠the coming days.
+The Copernicus Climate Change Service says historically low rainfall has worsened the situation in several countries.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/10/tropical-storm-dolphin-batters-eastern-china-with-heavy-rain-strong-winds?traffic_source=rss](https://www.aljazeera.com/news/2026/8/10/tropical-storm-dolphin-batters-eastern-china-with-heavy-rain-strong-winds?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/10/june-and-july-hottest-on-record-in-western-europe-monitor-says?traffic_source=rss](https://www.aljazeera.com/news/2026/8/10/june-and-july-hottest-on-record-in-western-europe-monitor-says?traffic_source=rss)
 
 ---
 
-### 8. Osaka, Gauff race into Canadian Open quarters as Rybakina survives scare
+### 8. UEFA, AFC, CONCACAF hit out at Infantino over World Cup privatisation plan
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-World No. 2 Elena Rybakina rallies to beat unseeded Liudmila Samsonova while stars Naomi Osaka, Coco Gauff progress.
+Three confederations release letter criticising FIFA&#039;s president over his proposal to sell off stakes in the World Cup.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/10/osaka-gauff-race-into-canadian-open-quarters-as-rybakina-survives-scare?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/10/osaka-gauff-race-into-canadian-open-quarters-as-rybakina-survives-scare?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/10/uefa-afc-concacaf-hit-out-at-infantino-over-world-cup-privatisation-plan?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/10/uefa-afc-concacaf-hit-out-at-infantino-over-world-cup-privatisation-plan?traffic_source=rss)
 
 ---
 
-### 9. Anguished locals watch as Israel demolishes homes in southern Lebanon
+### 9. One year on, Gaza mourns journalist Anas al-Sharif’s death
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Anguished locals watch as Israel demolishes homes in southern Lebanon
+Gaza remembers Anas al-Sharif, a journalist whose voice defined the impact of war on civilian lives.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/10/anguished-locals-watch-as-israel-demolishes-homes-in-southern-lebanon?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/10/anguished-locals-watch-as-israel-demolishes-homes-in-southern-lebanon?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/8/10/one-year-on-gaza-mourns-journalist-anas-al-sharifs-death?traffic_source=rss](https://www.aljazeera.com/gallery/2026/8/10/one-year-on-gaza-mourns-journalist-anas-al-sharifs-death?traffic_source=rss)
 
 ---
 

@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-10 12:25:03
+**Last Update:** 2026-08-10 13:49:17
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Docker Sandboxes – Disposable, isolated sandboxes for AI agents
+### 1. Implant – an extension to VS Code that exposes its APIs to coding agents
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://marketplace.visualstudio.com/items?itemName=strangepleasures.implant">https://marketplace.visualstudio.com/items?itemName=strangepleasures.implant</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49241303">https://news.ycombinator.com/item?id=49241303</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://marketplace.visualstudio.com/items?itemName=strangepleasures.implant](https://marketplace.visualstudio.com/items?itemName=strangepleasures.implant)
+
+---
+
+### 2. Docker Sandboxes – Disposable, isolated sandboxes for AI agents
 
 **Source:** Hacker News
 
@@ -19,26 +35,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.docker.com/products/docker-sandboxes/">https://www.docker.com/products/docker-sandboxes/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49239751">https://news.ycombinator.com/item?id=49239751</a></p>
-<p>Points: 147</p>
-<p># Comments: 97</p>
+<p>Points: 216</p>
+<p># Comments: 142</p>
 
 🔗 **Read more:** [https://www.docker.com/products/docker-sandboxes/](https://www.docker.com/products/docker-sandboxes/)
-
----
-
-### 2. The Philippines' big offshoring industry is growing despite AI
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai">https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49239226">https://news.ycombinator.com/item?id=49239226</a></p>
-<p>Points: 45</p>
-<p># Comments: 42</p>
-
-🔗 **Read more:** [https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai](https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai)
 
 ---
 
@@ -51,14 +51,27 @@
 **Description:**
 <p>Article URL: <a href="https://claude.com/blog/auto-mode-default-in-claude-code">https://claude.com/blog/auto-mode-default-in-claude-code</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49239021">https://news.ycombinator.com/item?id=49239021</a></p>
-<p>Points: 183</p>
-<p># Comments: 172</p>
+<p>Points: 214</p>
+<p># Comments: 217</p>
 
 🔗 **Read more:** [https://claude.com/blog/auto-mode-default-in-claude-code](https://claude.com/blog/auto-mode-default-in-claude-code)
 
 ---
 
-### 4. Travelodge staff gave domestic abuser key to his victim's room
+### 4. Record 230 people cross Channel in one small boat
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The boat made the journey on Saturday, when a total of 258 migrants made the crossing on four boats.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c4g4vxjg2yno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c4g4vxjg2yno?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Travelodge staff gave domestic abuser key to his victim's room
 
 **Source:** BBC
 
@@ -71,68 +84,55 @@ A woman tells the BBC her attacker kicked her hotel room door "off its hinges" a
 
 ---
 
-### 5. Burnham brings forward ban on 'subscription traps' to ease cost of living
+### 6. Thames Water gave finance boss a £1m signing-on fee
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The prime minister is embarking on a UK tour with a series of announcements aimed at easing living costs.
+The seven-figure payment was given to Steve Buck as part of package to persuade him to join the troubled utility company.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cly5x9qlnvjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cly5x9qlnvjo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Suspected crime boss Daniel Kinahan appears in court after extradition
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9d841yexe0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9d841yexe0o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Nigeria eliminated as Cameroon, Malawi reach WAFCON semis and World Cup
+### 7. Tropical Storm Dolphin batters eastern China with heavy rain, strong winds
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Outsiders Malawi qualify for their first FIFA World Cup, while defending champions Nigeria are eliminated by Cameroon.
+Dolphin is forecast to move deeper inland to the central provinces of Hubei and Henan in ⁠the coming days.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/10/nigeria-eliminated-as-cameroon-malawi-reach-wafcon-semis-and-world-cup?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/10/nigeria-eliminated-as-cameroon-malawi-reach-wafcon-semis-and-world-cup?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/10/tropical-storm-dolphin-batters-eastern-china-with-heavy-rain-strong-winds?traffic_source=rss](https://www.aljazeera.com/news/2026/8/10/tropical-storm-dolphin-batters-eastern-china-with-heavy-rain-strong-winds?traffic_source=rss)
 
 ---
 
-### 8. Pakistan-administered Kashmir votes in reduced third phase amid unrest
+### 8. Osaka, Gauff race into Canadian Open quarters as Rybakina survives scare
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Voting postponed in seven of 11 Poonch division constituencies as boycott calls and violence mar the region&#039;s elections.
+World No. 2 Elena Rybakina rallies to beat unseeded Liudmila Samsonova while stars Naomi Osaka, Coco Gauff progress.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/10/pakistan-administered-kashmir-votes-in-reduced-third-phase-amid-unrest?traffic_source=rss](https://www.aljazeera.com/news/2026/8/10/pakistan-administered-kashmir-votes-in-reduced-third-phase-amid-unrest?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/10/osaka-gauff-race-into-canadian-open-quarters-as-rybakina-survives-scare?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/10/osaka-gauff-race-into-canadian-open-quarters-as-rybakina-survives-scare?traffic_source=rss)
 
 ---
 
-### 9. North Korea’s hackers using AI for attacks, cybersecurity firm says
+### 9. Anguished locals watch as Israel demolishes homes in southern Lebanon
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Hacking group Kimsuky using AI-generated documents in spear-phishing attacks, South Korean cybersecurity firm says.
+Anguished locals watch as Israel demolishes homes in southern Lebanon
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/10/north-koreas-hackers-using-ai-for-attacks-cybersecurity-firm-says?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/10/north-koreas-hackers-using-ai-for-attacks-cybersecurity-firm-says?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/10/anguished-locals-watch-as-israel-demolishes-homes-in-southern-lebanon?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/10/anguished-locals-watch-as-israel-demolishes-homes-in-southern-lebanon?traffic_source=rss)
 
 ---
 

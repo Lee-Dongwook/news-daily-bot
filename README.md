@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-10 10:17:44
+**Last Update:** 2026-08-10 12:10:49
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.docker.com/products/docker-sandboxes/">https://www.docker.com/products/docker-sandboxes/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49239751">https://news.ycombinator.com/item?id=49239751</a></p>
-<p>Points: 36</p>
-<p># Comments: 15</p>
+<p>Points: 134</p>
+<p># Comments: 83</p>
 
 🔗 **Read more:** [https://www.docker.com/products/docker-sandboxes/](https://www.docker.com/products/docker-sandboxes/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai">https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49239226">https://news.ycombinator.com/item?id=49239226</a></p>
-<p>Points: 11</p>
-<p># Comments: 5</p>
+<p>Points: 44</p>
+<p># Comments: 39</p>
 
 🔗 **Read more:** [https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai](https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://claude.com/blog/auto-mode-default-in-claude-code">https://claude.com/blog/auto-mode-default-in-claude-code</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49239021">https://news.ycombinator.com/item?id=49239021</a></p>
-<p>Points: 137</p>
-<p># Comments: 106</p>
+<p>Points: 178</p>
+<p># Comments: 165</p>
 
 🔗 **Read more:** [https://claude.com/blog/auto-mode-default-in-claude-code](https://claude.com/blog/auto-mode-default-in-claude-code)
 
@@ -97,42 +97,42 @@ The Irish Prison Service bought a bulletproof and bombproof van to transport the
 
 ---
 
-### 7. What’s driving unrest in Pakistan-administered Kashmir?
+### 7. Pakistan-administered Kashmir votes in reduced third phase amid unrest
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-What&#039;s driving unrest in Pakistan-administered Kashmir?
+Voting postponed in seven of 11 Poonch division constituencies as boycott calls and violence mar the region&#039;s elections.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/10/whats-driving-unrest-in-pakistan-administered-kashmir?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/10/whats-driving-unrest-in-pakistan-administered-kashmir?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/10/pakistan-administered-kashmir-votes-in-reduced-third-phase-amid-unrest?traffic_source=rss](https://www.aljazeera.com/news/2026/8/10/pakistan-administered-kashmir-votes-in-reduced-third-phase-amid-unrest?traffic_source=rss)
 
 ---
 
-### 8. Wildfires bear down on homes in Canada’s Okanagan region
+### 8. North Korea’s hackers using AI for attacks, cybersecurity firm says
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A fast-moving wildfire in Canada’s British Columbia province has forced thousands of people from their homes.
+Hacking group Kimsuky using AI-generated documents in spear-phishing attacks, South Korean cybersecurity firm says.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/10/wildfires-bear-down-on-homes-in-canadas-okanagan-region?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/10/wildfires-bear-down-on-homes-in-canadas-okanagan-region?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/10/north-koreas-hackers-using-ai-for-attacks-cybersecurity-firm-says?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/10/north-koreas-hackers-using-ai-for-attacks-cybersecurity-firm-says?traffic_source=rss)
 
 ---
 
-### 9. Trump names Will Scharf as White House counsel ahead of midterms
+### 9. Don Nelson, Hall of Fame basketball coach and NBA player, dies at 86
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Trump has named White House Staff Secretary Will Scharf as White House counsel, starting from September 1.
+Nelson was a five-time NBA champion with the Boston Celtics but is best remembered for his innovative coaching style.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/10/trump-names-will-scharf-as-white-house-counsel-ahead-of-midterms?traffic_source=rss](https://www.aljazeera.com/news/2026/8/10/trump-names-will-scharf-as-white-house-counsel-ahead-of-midterms?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/10/don-nelson-hall-of-fame-basketball-coach-and-nba-player-dies-at-86?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/10/don-nelson-hall-of-fame-basketball-coach-and-nba-player-dies-at-86?traffic_source=rss)
 
 ---
 

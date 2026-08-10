@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-10 03:24:57
+**Last Update:** 2026-08-10 05:32:00
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. To Recruit Teachers, School Districts Are Building Homes
+### 1. How We Pushed CDC into Postgres
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.nytimes.com/2026/07/28/business/affordable-housing-schools-teachers.html">https://www.nytimes.com/2026/07/28/business/affordable-housing-schools-teachers.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49236541">https://news.ycombinator.com/item?id=49236541</a></p>
-<p>Points: 18</p>
-<p># Comments: 9</p>
+<p>Article URL: <a href="https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/">https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49238050">https://news.ycombinator.com/item?id=49238050</a></p>
+<p>Points: 17</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.nytimes.com/2026/07/28/business/affordable-housing-schools-teachers.html](https://www.nytimes.com/2026/07/28/business/affordable-housing-schools-teachers.html)
+🔗 **Read more:** [https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/](https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/)
 
 ---
 
-### 2. AI assistant hacks gym website in first known Australian autonomous cyber attack
+### 2. Japanese court overturns Red RAW video patent
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986">https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49236439">https://news.ycombinator.com/item?id=49236439</a></p>
-<p>Points: 19</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://www.dpreview.com/news/panasonic-did-what-apple-sony-and-nikon-couldnt-overturn-a-red-raw-video-patent/">https://www.dpreview.com/news/panasonic-did-what-apple-sony-and-nikon-couldnt-overturn-a-red-raw-video-patent/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49237873">https://news.ycombinator.com/item?id=49237873</a></p>
+<p>Points: 22</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986](https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986)
+🔗 **Read more:** [https://www.dpreview.com/news/panasonic-did-what-apple-sony-and-nikon-couldnt-overturn-a-red-raw-video-patent/](https://www.dpreview.com/news/panasonic-did-what-apple-sony-and-nikon-couldnt-overturn-a-red-raw-video-patent/)
 
 ---
 
-### 3. Georgia police officers fired after Flock camera misuse
+### 3. The Ambition Project
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.wtoc.com/2026/08/07/savannah-police-department-fires-6-employees-over-flock-safety-system-misuse/">https://www.wtoc.com/2026/08/07/savannah-police-department-fires-6-employees-over-flock-safety-system-misuse/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49236033">https://news.ycombinator.com/item?id=49236033</a></p>
-<p>Points: 50</p>
-<p># Comments: 15</p>
+<p>Article URL: <a href="https://www.betonit.ai/p/the-ambition-project">https://www.betonit.ai/p/the-ambition-project</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49237407">https://news.ycombinator.com/item?id=49237407</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.wtoc.com/2026/08/07/savannah-police-department-fires-6-employees-over-flock-safety-system-misuse/](https://www.wtoc.com/2026/08/07/savannah-police-department-fires-6-employees-over-flock-safety-system-misuse/)
+🔗 **Read more:** [https://www.betonit.ai/p/the-ambition-project](https://www.betonit.ai/p/the-ambition-project)
 
 ---
 
@@ -97,42 +97,42 @@ The prime minister is embarking on a UK tour with a series of announcements aime
 
 ---
 
-### 7. F-16s intercept two aircraft near Trump’s New Jersey golf club
+### 7. Alleged Irish crime boss Daniel Kinahan in court after Dubai extradition
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-F-16s intercepted two civilian aircraft entering restricted airspace over Bedminster, NJ, where President Trump was.
+Suspected Irish crime boss Daniel Kinahan has appeared before a Dublin court after being extradited from Dubai.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/9/aje-onl-nf_f-16s-intercept-two-aircraft-near-trump-golf-club-090826?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/9/aje-onl-nf_f-16s-intercept-two-aircraft-near-trump-golf-club-090826?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/10/alleged-irish-crime-boss-daniel-kinahan-in-court-after-dubai-extradition?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/10/alleged-irish-crime-boss-daniel-kinahan-in-court-after-dubai-extradition?traffic_source=rss)
 
 ---
 
-### 8. Union reports 108 attacks on Palestinian journalists in July
+### 8. Houthis launch fresh ballistic missile and drone attacks on al-Makha port
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Palestinian Journalists Syndicate exposes rising threats, with over 270 journalists killed in Gaza since October 2023.
+Iran-backed Houthis have resumed attacks on Yemen’s al-Makha port in the Red Sea.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/9/union-reports-108-attacks-on-palestinian-journalists-in-july?traffic_source=rss](https://www.aljazeera.com/news/2026/8/9/union-reports-108-attacks-on-palestinian-journalists-in-july?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/10/houthis-launch-fresh-ballistic-missile-and-drone-attacks-on-al-makha-port?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/10/houthis-launch-fresh-ballistic-missile-and-drone-attacks-on-al-makha-port?traffic_source=rss)
 
 ---
 
-### 9. What’s driving unrest in Pakistan-administered Kashmir?
+### 9. Could Morocco’s football chief Fouzi Lekjaa become its next prime minister?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Pakistan-administered Kashmir is facing its biggest political crisis in years. Al Jazeera&#039;s Ava Warriner explains.
+Lekjaa’s decision to join a political party has fuelled speculation about his political ambitions.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/9/aje-onl-nf_dnrexp-260808-warrinera-pakistankashmir-100826?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/9/aje-onl-nf_dnrexp-260808-warrinera-pakistankashmir-100826?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/10/could-moroccos-football-chief-fouzi-lekjaa-become-its-next-prime-minister?traffic_source=rss](https://www.aljazeera.com/news/2026/8/10/could-moroccos-football-chief-fouzi-lekjaa-become-its-next-prime-minister?traffic_source=rss)
 
 ---
 

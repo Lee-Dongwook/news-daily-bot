@@ -1,28 +1,28 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-10 09:41:46
+**Last Update:** 2026-08-10 10:17:44
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Why do we assume everyone should be working?
+### 1. Docker Sandboxes – Disposable, isolated sandboxes for AI agents
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://wilsoniumite.com/2026/08/10/why-do-we-assume-everyone-should-be-working/">https://wilsoniumite.com/2026/08/10/why-do-we-assume-everyone-should-be-working/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49239467">https://news.ycombinator.com/item?id=49239467</a></p>
-<p>Points: 12</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.docker.com/products/docker-sandboxes/">https://www.docker.com/products/docker-sandboxes/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49239751">https://news.ycombinator.com/item?id=49239751</a></p>
+<p>Points: 36</p>
+<p># Comments: 15</p>
 
-🔗 **Read more:** [https://wilsoniumite.com/2026/08/10/why-do-we-assume-everyone-should-be-working/](https://wilsoniumite.com/2026/08/10/why-do-we-assume-everyone-should-be-working/)
+🔗 **Read more:** [https://www.docker.com/products/docker-sandboxes/](https://www.docker.com/products/docker-sandboxes/)
 
 ---
 
@@ -35,26 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai">https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49239226">https://news.ycombinator.com/item?id=49239226</a></p>
-<p>Points: 4</p>
-<p># Comments: 1</p>
+<p>Points: 11</p>
+<p># Comments: 5</p>
 
 🔗 **Read more:** [https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai](https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai)
 
 ---
 
-### 3. Long-Run Effects of H-1B Immigration on the U.S. Economy (July 2026)
+### 3. Auto mode is now the default in Claude Code
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.nber.org/papers/w35560">https://www.nber.org/papers/w35560</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49239095">https://news.ycombinator.com/item?id=49239095</a></p>
-<p>Points: 48</p>
-<p># Comments: 13</p>
+<p>Article URL: <a href="https://claude.com/blog/auto-mode-default-in-claude-code">https://claude.com/blog/auto-mode-default-in-claude-code</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49239021">https://news.ycombinator.com/item?id=49239021</a></p>
+<p>Points: 137</p>
+<p># Comments: 106</p>
 
-🔗 **Read more:** [https://www.nber.org/papers/w35560](https://www.nber.org/papers/w35560)
+🔗 **Read more:** [https://claude.com/blog/auto-mode-default-in-claude-code](https://claude.com/blog/auto-mode-default-in-claude-code)
 
 ---
 
@@ -97,7 +97,20 @@ The Irish Prison Service bought a bulletproof and bombproof van to transport the
 
 ---
 
-### 7. Wildfires bear down on homes in Canada’s Okanagan region
+### 7. What’s driving unrest in Pakistan-administered Kashmir?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+What&#039;s driving unrest in Pakistan-administered Kashmir?
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/10/whats-driving-unrest-in-pakistan-administered-kashmir?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/10/whats-driving-unrest-in-pakistan-administered-kashmir?traffic_source=rss)
+
+---
+
+### 8. Wildfires bear down on homes in Canada’s Okanagan region
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ A fast-moving wildfire in Canada’s British Columbia province has forced thousa
 
 ---
 
-### 8. Trump names Will Scharf as White House counsel ahead of midterms
+### 9. Trump names Will Scharf as White House counsel ahead of midterms
 
 **Source:** Al Jazeera
 
@@ -123,16 +136,42 @@ Trump has named White House Staff Secretary Will Scharf as White House counsel, 
 
 ---
 
-### 9. Brazilian player falls into tunnel celebrating goal
+### 10. Wildfire Wrights Spring, Klamath, Oregon
 
-**Source:** Al Jazeera
+**Source:** NASA
 
-**Category:** world
+**Category:** nature
 
 **Description:**
-Footage shows Brazilian player Jacy Maranhão falling into the players’ tunnel after jumping over advertising boards.
+Natural event: Wildfires
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/10/brazilian-player-falls-into-tunnel-celebrating-goal?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/10/brazilian-player-falls-into-tunnel-celebrating-goal?traffic_source=rss)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196)
+
+---
+
+### 11. Tropical Cyclone Chan-Hom
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22306](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22306)
+
+---
+
+### 12. Wildfire BUZZARD, Kern, California
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195)
 
 ---
 

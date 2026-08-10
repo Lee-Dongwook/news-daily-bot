@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-10 18:58:53
+**Last Update:** 2026-08-10 19:52:29
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. OpenAI's letter to Governor Abbott on responsible AI infrastructure in Texas
+### 1. Exploiting System Management Mode with a very long interrupt
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://openai.com/index/responsible-ai-infrastructure-texas/">https://openai.com/index/responsible-ai-infrastructure-texas/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49244308">https://news.ycombinator.com/item?id=49244308</a></p>
-<p>Points: 27</p>
-<p># Comments: 16</p>
+<p>Article URL: <a href="https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii">https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49245491">https://news.ycombinator.com/item?id=49245491</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://openai.com/index/responsible-ai-infrastructure-texas/](https://openai.com/index/responsible-ai-infrastructure-texas/)
+🔗 **Read more:** [https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii](https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii)
 
 ---
 
-### 2. Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models
+### 2. GLP-1 drugs linked to bigger jump in women’s employment than a college degree
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878">https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49243880">https://news.ycombinator.com/item?id=49243880</a></p>
-<p>Points: 47</p>
-<p># Comments: 38</p>
+<p>Article URL: <a href="https://finance.yahoo.com/healthcare/articles/harvard-study-links-glp-1-123000637.html">https://finance.yahoo.com/healthcare/articles/harvard-study-links-glp-1-123000637.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49245487">https://news.ycombinator.com/item?id=49245487</a></p>
+<p>Points: 16</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878](https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878)
+🔗 **Read more:** [https://finance.yahoo.com/healthcare/articles/harvard-study-links-glp-1-123000637.html](https://finance.yahoo.com/healthcare/articles/harvard-study-links-glp-1-123000637.html)
 
 ---
 
-### 3. Mistral Patent for "Code implemented tool calls"
+### 3. Show HN: Ante, a coding agent in a single binary that runs offline
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html">https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49243397">https://news.ycombinator.com/item?id=49243397</a></p>
-<p>Points: 87</p>
-<p># Comments: 82</p>
+<p>Article URL: <a href="https://github.com/AntigmaLabs/ante">https://github.com/AntigmaLabs/ante</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49245437">https://news.ycombinator.com/item?id=49245437</a></p>
+<p>Points: 5</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html](https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html)
+🔗 **Read more:** [https://github.com/AntigmaLabs/ante](https://github.com/AntigmaLabs/ante)
 
 ---
 
@@ -97,7 +97,33 @@ A group including Amazon founder Jeff Bezos advances its talks to buy about a 30
 
 ---
 
-### 7. Earthquake with 7.4 magnitude hits Colombia, killing at least 20
+### 7. Anas al-Sharif: One year on from Israel’s killing of Al Jazeera reporter
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+10 August marks one year on from Israel’s killing of Al Jazeera reporter Anas al-Sharif and fellow colleagues.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/10/anas-al-sharif-one-year-on-from-israels-killing-of-al-jazeera-reporter?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/10/anas-al-sharif-one-year-on-from-israels-killing-of-al-jazeera-reporter?traffic_source=rss)
+
+---
+
+### 8. Oil prices, stocks surge as Hormuz closure drags on
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+US petrol prices dropped nine cents last week but could again surge if the strait closure continues, analysts warn.
+
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/10/oil-prices-stocks-surge-as-hormuz-closure-drags-on?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/10/oil-prices-stocks-surge-as-hormuz-closure-drags-on?traffic_source=rss)
+
+---
+
+### 9. Earthquake with 7.4 magnitude hits Colombia, killing at least 20
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ A group including Amazon founder Jeff Bezos advances its talks to buy about a 30
 Emergency teams are still assessing the impact of the quake that was felt across the region.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/10/7-4-magnitude-earthquake-hits-colombia-killing-at-least-20?traffic_source=rss](https://www.aljazeera.com/news/2026/8/10/7-4-magnitude-earthquake-hits-colombia-killing-at-least-20?traffic_source=rss)
-
----
-
-### 8. Indian police attack protesters seeking action over ‘exam irregularities’
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Indian police attack protesters seeking action over ‘exam irregularities’ in Jharkhand.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/10/indian-police-attack-protesters-seeking-action-over-exam?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/10/indian-police-attack-protesters-seeking-action-over-exam?traffic_source=rss)
-
----
-
-### 9. Ben-Gvir posts AI video of starving Palestinian ahead of elections
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Ben-Gvir posts AI video of starving Palestinian ahead of elections
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/10/ben-gvir-posts-ai-video-of-starving-palestinian-ahead-of-elections?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/10/ben-gvir-posts-ai-video-of-starving-palestinian-ahead-of-elections?traffic_source=rss)
 
 ---
 

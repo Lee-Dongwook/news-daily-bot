@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-11 02:32:46
+**Last Update:** 2026-08-11 03:07:49
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://thewalrus.ca/google-search-is-dying/">https://thewalrus.ca/google-search-is-dying/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49250836">https://news.ycombinator.com/item?id=49250836</a></p>
-<p>Points: 8</p>
-<p># Comments: 2</p>
+<p>Points: 24</p>
+<p># Comments: 9</p>
 
 🔗 **Read more:** [https://thewalrus.ca/google-search-is-dying/](https://thewalrus.ca/google-search-is-dying/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/">https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49249971">https://news.ycombinator.com/item?id=49249971</a></p>
-<p>Points: 83</p>
-<p># Comments: 46</p>
+<p>Points: 110</p>
+<p># Comments: 66</p>
 
 🔗 **Read more:** [https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/](https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/)
 
@@ -51,7 +51,7 @@
 **Description:**
 <p>Article URL: <a href="https://arachnoid.com/lutusp/sailbook.html">https://arachnoid.com/lutusp/sailbook.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49249555">https://news.ycombinator.com/item?id=49249555</a></p>
-<p>Points: 21</p>
+<p>Points: 33</p>
 <p># Comments: 4</p>
 
 🔗 **Read more:** [https://arachnoid.com/lutusp/sailbook.html](https://arachnoid.com/lutusp/sailbook.html)
@@ -97,7 +97,20 @@ Prime Minister Andy Burnham said town centres had been "hollowed out" by decades
 
 ---
 
-### 7. Ceuta mayor calls for migrant detention amid mass influx crisis
+### 7. Moment of terror as powerful earthquake shakes airport in Colombia
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Video from Pereira airport in Colombia shows violent shaking during a magnitude 7.4 earthquake
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/10/moment-of-terror-as-powerful-earthquake-shakes-airport-in-colombia?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/10/moment-of-terror-as-powerful-earthquake-shakes-airport-in-colombia?traffic_source=rss)
+
+---
+
+### 8. Ceuta mayor calls for migrant detention amid mass influx crisis
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Thousands of migrants in Ceuta face dire conditions, sparking political and soci
 
 ---
 
-### 8. Al Jazeera reporter on the ground as Colombia quake death toll rises
+### 9. Al Jazeera reporter on the ground as Colombia quake death toll rises
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Thousands of migrants in Ceuta face dire conditions, sparking political and soci
 Rescue teams are searching collapsed buildings after a powerful earthquake struck western Colombia.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/10/08-11-2026-colombia-alessandro-rampietti-mp4?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/10/08-11-2026-colombia-alessandro-rampietti-mp4?traffic_source=rss)
-
----
-
-### 9. Colombia’s Espriella to lead emergency efforts following Bogota earthquake
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Colombia’s newly inaugurated president announced to lead emergency rescue efforts in Bogota’s earthquake-struck areas.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/10/colombias-espriella-to-lead-emergency-efforts-following-bogota-earthquake?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/10/colombias-espriella-to-lead-emergency-efforts-following-bogota-earthquake?traffic_source=rss)
 
 ---
 

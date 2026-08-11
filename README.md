@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-11 15:34:26
+**Last Update:** 2026-08-11 16:42:41
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Panic of 1873
+### 1. OpenAI's Only Ethicist Reportedly Left Last Month
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://en.wikipedia.org/wiki/Panic_of_1873">https://en.wikipedia.org/wiki/Panic_of_1873</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49255918">https://news.ycombinator.com/item?id=49255918</a></p>
-<p>Points: 13</p>
-<p># Comments: 8</p>
+<p>Article URL: <a href="https://gizmodo.com/openais-only-ethicist-reportedly-left-last-month-she-wasnt-replaced-2000796883">https://gizmodo.com/openais-only-ethicist-reportedly-left-last-month-she-wasnt-replaced-2000796883</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49257160">https://news.ycombinator.com/item?id=49257160</a></p>
+<p>Points: 28</p>
+<p># Comments: 30</p>
 
-🔗 **Read more:** [https://en.wikipedia.org/wiki/Panic_of_1873](https://en.wikipedia.org/wiki/Panic_of_1873)
+🔗 **Read more:** [https://gizmodo.com/openais-only-ethicist-reportedly-left-last-month-she-wasnt-replaced-2000796883](https://gizmodo.com/openais-only-ethicist-reportedly-left-last-month-she-wasnt-replaced-2000796883)
 
 ---
 
-### 2. Closing Canario Terminal source code
+### 2. How to organize Claude Code for product work
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://rapha.land/closing-canario-terminal-source-code/">https://rapha.land/closing-canario-terminal-source-code/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49254881">https://news.ycombinator.com/item?id=49254881</a></p>
-<p>Points: 11</p>
-<p># Comments: 10</p>
+<p>Article URL: <a href="https://www.theaithinker.com/p/how-to-organize-claude-code-for-product">https://www.theaithinker.com/p/how-to-organize-claude-code-for-product</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49256258">https://news.ycombinator.com/item?id=49256258</a></p>
+<p>Points: 4</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://rapha.land/closing-canario-terminal-source-code/](https://rapha.land/closing-canario-terminal-source-code/)
+🔗 **Read more:** [https://www.theaithinker.com/p/how-to-organize-claude-code-for-product](https://www.theaithinker.com/p/how-to-organize-claude-code-for-product)
 
 ---
 
-### 3. France to ban unsolicited telemarketing calls
+### 3. Nvidia's Risky Business
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html">https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49254880">https://news.ycombinator.com/item?id=49254880</a></p>
-<p>Points: 329</p>
-<p># Comments: 202</p>
+<p>Article URL: <a href="https://stratechery.com/2026/nvidias-risky-business/">https://stratechery.com/2026/nvidias-risky-business/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49255710">https://news.ycombinator.com/item?id=49255710</a></p>
+<p>Points: 12</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html](https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html)
+🔗 **Read more:** [https://stratechery.com/2026/nvidias-risky-business/](https://stratechery.com/2026/nvidias-risky-business/)
 
 ---
 
@@ -84,55 +84,55 @@ An amber weather warning for extreme heat has been issued for Thursday, when ext
 
 ---
 
-### 6. Councils to get more powers to stop vape and betting shops, PM announces
+### 6. Eclipse chasers scramble for glasses as stocks run low
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Prime Minister Andy Burnham said town centres had been "hollowed out" by decades of decline.
+Specialist glasses are all but sold out online ahead of the UK's most significant eclipse since 1999.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvg90el9236o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvg90el9236o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/clyqxx27620o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/clyqxx27620o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. ‘New level of danger’: Drone incidents scare Europe amid Russia-Ukraine war
+### 7. Philippines sailors say they will work despite wartime risks
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-After a drone crashes in Germany, fears of suspected Russian operations rise across Europe.
+Philippines sailors say they will work despite wartime risks
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/11/new-level-of-danger-drone-incidents-scare-europe-amid-russia-ukraine-war?traffic_source=rss](https://www.aljazeera.com/news/2026/8/11/new-level-of-danger-drone-incidents-scare-europe-amid-russia-ukraine-war?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/11/philippines-sailors-say-they-will-work-despite-wartime-risks-2?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/11/philippines-sailors-say-they-will-work-despite-wartime-risks-2?traffic_source=rss)
 
 ---
 
-### 8. Future of southern Lebanon peacekeeping uncertain ahead of UNIFIL phase-out
+### 8. Late snow blankets parts of southern Africa as winter nears its end
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Future peacekeeping missions may shrink significantly, risking security gaps, as political solutions remain elusive.
+Late-season snow hits South Africa and Lesotho as the Northern Hemisphere swelters in heat and wildfires.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/11/future-southern-lebanon-peacekeeping-uncertain-amid-unifil-phase-out?traffic_source=rss](https://www.aljazeera.com/news/2026/8/11/future-southern-lebanon-peacekeeping-uncertain-amid-unifil-phase-out?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/11/late-snow-blankets-parts-of-southern-africa-as-winter-nears-its-end?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/11/late-snow-blankets-parts-of-southern-africa-as-winter-nears-its-end?traffic_source=rss)
 
 ---
 
-### 9. Palestine weekly: Netanyahu hedges on Gaza roadmap
+### 9. Hockey World Cup 2026: Full match schedule, groups, India vs Pakistan
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Attacks in Gaza slowed sharply this week even as Netanyahu publicly rejected Trump&#039;s 15-point peace plan.
+Pools, format, match schedule, timings, India vs Pakistan history and more before 2026 FIH Hockey World Cup.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/11/palestine-weekly-netanyahu-hedges-on-gaza-roadmap?traffic_source=rss](https://www.aljazeera.com/news/2026/8/11/palestine-weekly-netanyahu-hedges-on-gaza-roadmap?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/11/hockey-world-cup-2026-full-match-schedule-groups-india-vs-pakistan?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/11/hockey-world-cup-2026-full-match-schedule-groups-india-vs-pakistan?traffic_source=rss)
 
 ---
 

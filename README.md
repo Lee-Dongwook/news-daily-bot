@@ -1,32 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-11 07:20:55
+**Last Update:** 2026-08-11 08:15:57
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. US President hid in catering cart for secret flight in Turkey amid Iran threat
+### 1. Updated GPG Key for Signing Firefox and Thunderbird Releases
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.theguardian.com/us-news/2026/aug/10/trump-secret-flight-nato-return">https://www.theguardian.com/us-news/2026/aug/10/trump-secret-flight-nato-return</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49252912">https://news.ycombinator.com/item?id=49252912</a></p>
-<p>Points: 32</p>
-<p># Comments: 14</p>
+<p>Article URL: <a href="https://blog.mozilla.org/security/2026/08/10/updated-gpg-key-for-signing-firefox-and-thunderbird-releases/">https://blog.mozilla.org/security/2026/08/10/updated-gpg-key-for-signing-firefox-and-thunderbird-releases/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49253250">https://news.ycombinator.com/item?id=49253250</a></p>
+<p>Points: 9</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.theguardian.com/us-news/2026/aug/10/trump-secret-flight-nato-return](https://www.theguardian.com/us-news/2026/aug/10/trump-secret-flight-nato-return)
+🔗 **Read more:** [https://blog.mozilla.org/security/2026/08/10/updated-gpg-key-for-signing-firefox-and-thunderbird-releases/](https://blog.mozilla.org/security/2026/08/10/updated-gpg-key-for-signing-firefox-and-thunderbird-releases/)
 
 ---
 
-### 2. Hyperspace
+### 2. Why My Father Is Wrong: A Defense of Guitar Hero
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://whatever.scalzi.com/2026/08/10/why-my-father-is-wrong-a-defense-of-guitar-hero/">https://whatever.scalzi.com/2026/08/10/why-my-father-is-wrong-a-defense-of-guitar-hero/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49253176">https://news.ycombinator.com/item?id=49253176</a></p>
+<p>Points: 9</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://whatever.scalzi.com/2026/08/10/why-my-father-is-wrong-a-defense-of-guitar-hero/](https://whatever.scalzi.com/2026/08/10/why-my-father-is-wrong-a-defense-of-guitar-hero/)
+
+---
+
+### 3. Hyperspace
 
 **Source:** Hacker News
 
@@ -35,30 +51,27 @@
 **Description:**
 <p>Article URL: <a href="https://hypercritical.co/hyperspace/">https://hypercritical.co/hyperspace/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49252493">https://news.ycombinator.com/item?id=49252493</a></p>
-<p>Points: 7</p>
-<p># Comments: 0</p>
+<p>Points: 24</p>
+<p># Comments: 9</p>
 
 🔗 **Read more:** [https://hypercritical.co/hyperspace/](https://hypercritical.co/hyperspace/)
 
 ---
 
-### 3. Recycle – Floppydisks
+### 4. PM asks justice secretary to find way to keep PC Harper's killers in jail
 
-**Source:** Hacker News
+**Source:** BBC
 
-**Category:** technology
+**Category:** world
 
 **Description:**
-<p>Article URL: <a href="https://www.floppydisk.com/recycle">https://www.floppydisk.com/recycle</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49252462">https://news.ycombinator.com/item?id=49252462</a></p>
-<p>Points: 22</p>
-<p># Comments: 3</p>
+Andy Burnham is confident a solution can be found to exclude two of PC Harper's killers from an early release scheme, the BBC understands.
 
-🔗 **Read more:** [https://www.floppydisk.com/recycle](https://www.floppydisk.com/recycle)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crrv1zlgd9ko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crrv1zlgd9ko?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. Amber heat health alerts for almost all of England as next heatwave begins
+### 5. Amber heat health alerts for almost all of England as next heatwave begins
 
 **Source:** BBC
 
@@ -71,7 +84,7 @@ The amber alerts will be in place until Friday evening to cover high and even ex
 
 ---
 
-### 5. Councils to get more powers to stop vape and betting shops, PM announces
+### 6. Councils to get more powers to stop vape and betting shops, PM announces
 
 **Source:** BBC
 
@@ -84,20 +97,33 @@ Prime Minister Andy Burnham said town centres had been "hollowed out" by decades
 
 ---
 
-### 6. New Forest firefighting to continue overnight as cars abandoned
+### 7. China’s Long March 7A rocket explodes after lift-off
 
-**Source:** BBC
+**Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-One woman says she thought her family's car might go up in flames as the fire took hold on Sunday.
+China’s Long March 7A rocket exploded shortly after lifting off from the Wenchang launch site in Hainan.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/clye8l9422no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/clye8l9422no?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/11/08-11-2026-china-rocket-explodes-clip?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/11/08-11-2026-china-rocket-explodes-clip?traffic_source=rss)
 
 ---
 
-### 7. Where did all the money go if the US is running out of weapons?
+### 8. Fire rages after drone strikes Libya’s largest oil refinery
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+A drone attack ignited gasoline at Libya&#039;s Zawiya oil refinery, the country&#039;s largest operational facility.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/11/fire-rages-after-drone-strikes-libyas-largest-oil-refinery?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/11/fire-rages-after-drone-strikes-libyas-largest-oil-refinery?traffic_source=rss)
+
+---
+
+### 9. Where did all the money go if the US is running out of weapons?
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ One woman says she thought her family's car might go up in flames as the fire to
 The war on Iran is exposing shortages in US weapons stockpiles, raising questions about years of defence spending.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/11/where-did-all-the-money-go-if-the-us-is-running-out-of-weapons?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/11/where-did-all-the-money-go-if-the-us-is-running-out-of-weapons?traffic_source=rss)
-
----
-
-### 8. Colombia’s far-right government recognises Israeli claim over Golan Heights
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The South American nation is only the second country to recognise Israel&#039;s claims over the illegally annexed territory.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/11/colombias-far-right-government-recognises-israeli-claim-over-golan-heights?traffic_source=rss](https://www.aljazeera.com/news/2026/8/11/colombias-far-right-government-recognises-israeli-claim-over-golan-heights?traffic_source=rss)
-
----
-
-### 9. Trump demands compensation from Iran as talks on Strait of Hormuz continue
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-US president seeks payment for &#039;50 years&#039; of alleged damages after Iran conditions opening of Hormuz on war reparations.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/11/trump-demands-compensation-from-iran-as-talks-on-strait-of-hormuz-continue?traffic_source=rss](https://www.aljazeera.com/news/2026/8/11/trump-demands-compensation-from-iran-as-talks-on-strait-of-hormuz-continue?traffic_source=rss)
 
 ---
 

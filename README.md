@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-11 16:42:41
+**Last Update:** 2026-08-11 17:21:47
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. OpenAI's Only Ethicist Reportedly Left Last Month
+### 1. It's time Amazon played by the same rules as everyone else [video]
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.youtube.com/watch?v=91DoiansHqk">https://www.youtube.com/watch?v=91DoiansHqk</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49257601">https://news.ycombinator.com/item?id=49257601</a></p>
+<p>Points: 44</p>
+<p># Comments: 10</p>
+
+🔗 **Read more:** [https://www.youtube.com/watch?v=91DoiansHqk](https://www.youtube.com/watch?v=91DoiansHqk)
+
+---
+
+### 2. England set to be one of the first countries to eliminate hepatitis C
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.bbc.com/news/articles/c75gk620r22o">https://www.bbc.com/news/articles/c75gk620r22o</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49257377">https://news.ycombinator.com/item?id=49257377</a></p>
+<p>Points: 44</p>
+<p># Comments: 17</p>
+
+🔗 **Read more:** [https://www.bbc.com/news/articles/c75gk620r22o](https://www.bbc.com/news/articles/c75gk620r22o)
+
+---
+
+### 3. OpenAI's Only Ethicist Reportedly Left Last Month
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://gizmodo.com/openais-only-ethicist-reportedly-left-last-month-she-wasnt-replaced-2000796883">https://gizmodo.com/openais-only-ethicist-reportedly-left-last-month-she-wasnt-replaced-2000796883</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49257160">https://news.ycombinator.com/item?id=49257160</a></p>
-<p>Points: 28</p>
-<p># Comments: 30</p>
+<p>Points: 42</p>
+<p># Comments: 56</p>
 
 🔗 **Read more:** [https://gizmodo.com/openais-only-ethicist-reportedly-left-last-month-she-wasnt-replaced-2000796883](https://gizmodo.com/openais-only-ethicist-reportedly-left-last-month-she-wasnt-replaced-2000796883)
-
----
-
-### 2. How to organize Claude Code for product work
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.theaithinker.com/p/how-to-organize-claude-code-for-product">https://www.theaithinker.com/p/how-to-organize-claude-code-for-product</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49256258">https://news.ycombinator.com/item?id=49256258</a></p>
-<p>Points: 4</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://www.theaithinker.com/p/how-to-organize-claude-code-for-product](https://www.theaithinker.com/p/how-to-organize-claude-code-for-product)
-
----
-
-### 3. Nvidia's Risky Business
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://stratechery.com/2026/nvidias-risky-business/">https://stratechery.com/2026/nvidias-risky-business/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49255710">https://news.ycombinator.com/item?id=49255710</a></p>
-<p>Points: 12</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://stratechery.com/2026/nvidias-risky-business/](https://stratechery.com/2026/nvidias-risky-business/)
 
 ---
 
@@ -97,42 +97,42 @@ Specialist glasses are all but sold out online ahead of the UK's most significan
 
 ---
 
-### 7. Philippines sailors say they will work despite wartime risks
+### 7. Hunter Biden defends Tucker Carlson over Netanyahu comments
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Philippines sailors say they will work despite wartime risks
+Hunter Biden defends Tucker Carlson over Netanyahu comments
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/11/philippines-sailors-say-they-will-work-despite-wartime-risks-2?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/11/philippines-sailors-say-they-will-work-despite-wartime-risks-2?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/11/hunter-biden-defends-tucker-carlson-over-netanyahu-comments?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/11/hunter-biden-defends-tucker-carlson-over-netanyahu-comments?traffic_source=rss)
 
 ---
 
-### 8. Late snow blankets parts of southern Africa as winter nears its end
+### 8. Somali denied World Cup ‘proud’ to referee PSG vs Villa in UEFA Super Cup
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Late-season snow hits South Africa and Lesotho as the Northern Hemisphere swelters in heat and wildfires.
+Omar Artan was turned away on arrival at Miami International Airport before World Cup 2026 where he was to officiate.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/11/late-snow-blankets-parts-of-southern-africa-as-winter-nears-its-end?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/11/late-snow-blankets-parts-of-southern-africa-as-winter-nears-its-end?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/11/somali-referee-denied-world-cup-proud-to-oversee-uefa-super-cup?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/11/somali-referee-denied-world-cup-proud-to-oversee-uefa-super-cup?traffic_source=rss)
 
 ---
 
-### 9. Hockey World Cup 2026: Full match schedule, groups, India vs Pakistan
+### 9. What to know about the US primary election in Minnesota
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Pools, format, match schedule, timings, India vs Pakistan history and more before 2026 FIH Hockey World Cup.
+Immigration is at the centre of another closely watched Democratic Senate race.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/11/hockey-world-cup-2026-full-match-schedule-groups-india-vs-pakistan?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/11/hockey-world-cup-2026-full-match-schedule-groups-india-vs-pakistan?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/11/what-to-know-about-us-primary-election-in-minnesota?traffic_source=rss](https://www.aljazeera.com/news/2026/8/11/what-to-know-about-us-primary-election-in-minnesota?traffic_source=rss)
 
 ---
 

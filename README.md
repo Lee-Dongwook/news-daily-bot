@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-11 21:31:37
+**Last Update:** 2026-08-11 21:42:21
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Woman Pulled over at Gunpoint Twice After Flock Camera Glitch
+### 1. The SpaceX Sham
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://dissentmagazine.org/online_articles/spacex-ipo-elon-musk-trillionaire/">https://dissentmagazine.org/online_articles/spacex-ipo-elon-musk-trillionaire/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49261857">https://news.ycombinator.com/item?id=49261857</a></p>
+<p>Points: 15</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://dissentmagazine.org/online_articles/spacex-ipo-elon-musk-trillionaire/](https://dissentmagazine.org/online_articles/spacex-ipo-elon-musk-trillionaire/)
+
+---
+
+### 2. Woman Pulled over at Gunpoint Twice After Flock Camera Glitch
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://guessingheadlights.com/yall-failed-me-woman-pulled-over-at-gunpoint-twice-after-flock-camera-glitch/">https://guessingheadlights.com/yall-failed-me-woman-pulled-over-at-gunpoint-twice-after-flock-camera-glitch/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49261218">https://news.ycombinator.com/item?id=49261218</a></p>
-<p>Points: 36</p>
-<p># Comments: 11</p>
+<p>Points: 100</p>
+<p># Comments: 63</p>
 
 🔗 **Read more:** [https://guessingheadlights.com/yall-failed-me-woman-pulled-over-at-gunpoint-twice-after-flock-camera-glitch/](https://guessingheadlights.com/yall-failed-me-woman-pulled-over-at-gunpoint-twice-after-flock-camera-glitch/)
 
 ---
 
-### 2. Why Go Is an Ideal Language for AI-Assisted Software Engineering
+### 3. Why Go Is an Ideal Language for AI-Assisted Software Engineering
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/">https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49261133">https://news.ycombinator.com/item?id=49261133</a></p>
-<p>Points: 36</p>
-<p># Comments: 29</p>
+<p>Points: 60</p>
+<p># Comments: 48</p>
 
 🔗 **Read more:** [https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/](https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/)
-
----
-
-### 3. Show HN: Git-knife – edit commit messages, authors, and dates like a spreadsheet
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/TheRealYT/git-knife">https://github.com/TheRealYT/git-knife</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49259611">https://news.ycombinator.com/item?id=49259611</a></p>
-<p>Points: 69</p>
-<p># Comments: 49</p>
-
-🔗 **Read more:** [https://github.com/TheRealYT/git-knife](https://github.com/TheRealYT/git-knife)
 
 ---
 

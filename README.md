@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-11 12:57:19
+**Last Update:** 2026-08-11 13:53:40
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. France to ban unsolicited telemarketing calls
+### 1. London Underground begins scanning passengers' faces
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.btp.police.uk/news/btp/news/england/btp-expands-live-facial-recognition-lfr-trial-into-london-underground-stations/">https://www.btp.police.uk/news/btp/news/england/btp-expands-live-facial-recognition-lfr-trial-into-london-underground-stations/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49255496">https://news.ycombinator.com/item?id=49255496</a></p>
+<p>Points: 9</p>
+<p># Comments: 9</p>
+
+🔗 **Read more:** [https://www.btp.police.uk/news/btp/news/england/btp-expands-live-facial-recognition-lfr-trial-into-london-underground-stations/](https://www.btp.police.uk/news/btp/news/england/btp-expands-live-facial-recognition-lfr-trial-into-london-underground-stations/)
+
+---
+
+### 2. France to ban unsolicited telemarketing calls
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html">https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49254880">https://news.ycombinator.com/item?id=49254880</a></p>
-<p>Points: 59</p>
-<p># Comments: 16</p>
+<p>Points: 149</p>
+<p># Comments: 96</p>
 
 🔗 **Read more:** [https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html](https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html)
 
 ---
 
-### 2. The Water Footprint of AI
+### 3. The Water Footprint of AI
 
 **Source:** Hacker News
 
@@ -35,30 +51,14 @@
 **Description:**
 <p>Article URL: <a href="https://doi.org/10.1016/j.watres.2026.125866">https://doi.org/10.1016/j.watres.2026.125866</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49254351">https://news.ycombinator.com/item?id=49254351</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
+<p>Points: 15</p>
+<p># Comments: 5</p>
 
 🔗 **Read more:** [https://doi.org/10.1016/j.watres.2026.125866](https://doi.org/10.1016/j.watres.2026.125866)
 
 ---
 
-### 3. Show HN: Mcptoon – Token-efficient MCP CLI client
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/activeing123/mcptoon">https://github.com/activeing123/mcptoon</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49253721">https://news.ycombinator.com/item?id=49253721</a></p>
-<p>Points: 41</p>
-<p># Comments: 32</p>
-
-🔗 **Read more:** [https://github.com/activeing123/mcptoon](https://github.com/activeing123/mcptoon)
-
----
-
-### 4. Trump hidden in catering truck in secret plane swap over Iran threat, reports say
+### 4. Trump hid in catering truck in secret plane swap over Iran threat, reports say
 
 **Source:** BBC
 
@@ -71,14 +71,14 @@ The US president was moved from the old Air Force One to a military plane as he 
 
 ---
 
-### 5. Amber heat health alerts in place for almost all of England as next heatwave hits
+### 5. Amber Met Office extreme heat warning issued as temperatures could reach 38C
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The amber alerts are in place until Friday evening to cover high and even extreme temperatures expected through this week.
+An amber weather warning for extreme heat has been issued for Thursday, when extreme temperatures are expected to peak.
 
 🔗 **Read more:** [https://www.bbc.co.uk/weather/articles/ce8ljn1ngg2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/weather/articles/ce8ljn1ngg2o?at_medium=RSS&at_campaign=rss)
 
@@ -97,42 +97,42 @@ Prime Minister Andy Burnham said town centres had been "hollowed out" by decades
 
 ---
 
-### 7. Rescue efforts intensify as quake devastates western Colombia towns
+### 7. The Global South’s digital future must not belong to Bezos and Musk
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Rescue teams rush to find survivors as western Colombia grapples with deadly earthquake devastation.
+Satellite internet can close digital divide, but Global South must not trade access for dependence on foreign firms.
 
-🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/8/11/rescue-efforts-intensify-as-quake-devastates-western-colombia-towns?traffic_source=rss](https://www.aljazeera.com/gallery/2026/8/11/rescue-efforts-intensify-as-quake-devastates-western-colombia-towns?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/11/the-global-souths-digital-future-must-not-belong-to-bezos-and-musk?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/11/the-global-souths-digital-future-must-not-belong-to-bezos-and-musk?traffic_source=rss)
 
 ---
 
-### 8. Swiatek to face Svitolina in Canadian Open semifinal
+### 8. Iraq’s semi-autonomous Kurdish region suffers as US-Iran war drags on
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Former world no 1 Iga Swiatek cruised past Diana Shnaider to set up a clash with Elina Svitolina in Toronto.
+Kurdistan Regional Government says 70 percent of its trade has been cut by the regional conflict.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/11/swiatek-to-face-svitolina-in-canadian-open-semifinals-toronto?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/11/swiatek-to-face-svitolina-in-canadian-open-semifinals-toronto?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/11/iraqs-semi-autonomous-kurdish-region-suffers-as-us-iran-war-drags-on?traffic_source=rss](https://www.aljazeera.com/news/2026/8/11/iraqs-semi-autonomous-kurdish-region-suffers-as-us-iran-war-drags-on?traffic_source=rss)
 
 ---
 
-### 9. What to know about the US primaries in Connecticut, Vermont, and Alabama
+### 9. Vietnam’s VinSpace announces deal with SpaceX to launch first satellite
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Four redrawn Alabama districts will hold special elections for US House nominees on Tuesday.
+Hanoi-based aerospace firm says it will partner with Elon Musk&#039;s rocket company to deploy satellites next year.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/11/what-to-know-about-the-us-primaries-in-connecticut-vermont-and-alabama?traffic_source=rss](https://www.aljazeera.com/news/2026/8/11/what-to-know-about-the-us-primaries-in-connecticut-vermont-and-alabama?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/11/vietnams-vinspace-announces-deal-with-spacex-to-launch-first-satellite?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/11/vietnams-vinspace-announces-deal-with-spacex-to-launch-first-satellite?traffic_source=rss)
 
 ---
 

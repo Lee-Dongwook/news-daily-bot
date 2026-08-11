@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-11 08:42:16
+**Last Update:** 2026-08-11 09:42:14
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Microsoft Responds to Outcry After Quiet Enterprise Install of Beta 'Photos' App
+### 1. Half of Europe's towns and villages have fewer residents than 60 years ago
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.neowin.net/news/windows-11-admins-unhappy-as-microsoft-found-installing-unexpected-new-onedrive-photos-app/">https://www.neowin.net/news/windows-11-admins-unhappy-as-microsoft-found-installing-unexpected-new-onedrive-photos-app/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49253329">https://news.ycombinator.com/item?id=49253329</a></p>
-<p>Points: 14</p>
+<p>Article URL: <a href="https://correctiv.org/en/europe/2026/04/21/half-of-europes-towns-and-villages-have-fewer-residents-than-60-years-ago/">https://correctiv.org/en/europe/2026/04/21/half-of-europes-towns-and-villages-have-fewer-residents-than-60-years-ago/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49253813">https://news.ycombinator.com/item?id=49253813</a></p>
+<p>Points: 11</p>
 <p># Comments: 2</p>
 
-🔗 **Read more:** [https://www.neowin.net/news/windows-11-admins-unhappy-as-microsoft-found-installing-unexpected-new-onedrive-photos-app/](https://www.neowin.net/news/windows-11-admins-unhappy-as-microsoft-found-installing-unexpected-new-onedrive-photos-app/)
+🔗 **Read more:** [https://correctiv.org/en/europe/2026/04/21/half-of-europes-towns-and-villages-have-fewer-residents-than-60-years-ago/](https://correctiv.org/en/europe/2026/04/21/half-of-europes-towns-and-villages-have-fewer-residents-than-60-years-ago/)
 
 ---
 
-### 2. Updated GPG Key for Signing Firefox and Thunderbird Releases
+### 2. DeepSeek: Reverse Engineering an AI Assistant by Interviewing Itself
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.mozilla.org/security/2026/08/10/updated-gpg-key-for-signing-firefox-and-thunderbird-releases/">https://blog.mozilla.org/security/2026/08/10/updated-gpg-key-for-signing-firefox-and-thunderbird-releases/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49253250">https://news.ycombinator.com/item?id=49253250</a></p>
-<p>Points: 14</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://manish.sh/writings/models/inside-deepseek-reverse-engineering-an-ai-assistant-by-interviewing-itself">https://manish.sh/writings/models/inside-deepseek-reverse-engineering-an-ai-assistant-by-interviewing-itself</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49253738">https://news.ycombinator.com/item?id=49253738</a></p>
+<p>Points: 9</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://blog.mozilla.org/security/2026/08/10/updated-gpg-key-for-signing-firefox-and-thunderbird-releases/](https://blog.mozilla.org/security/2026/08/10/updated-gpg-key-for-signing-firefox-and-thunderbird-releases/)
+🔗 **Read more:** [https://manish.sh/writings/models/inside-deepseek-reverse-engineering-an-ai-assistant-by-interviewing-itself](https://manish.sh/writings/models/inside-deepseek-reverse-engineering-an-ai-assistant-by-interviewing-itself)
 
 ---
 
-### 3. Why My Father Is Wrong: A Defense of Guitar Hero
+### 3. Show HN: Mcptoon – MCP CLI client that cuts tool discovery tokens by 97%
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://whatever.scalzi.com/2026/08/10/why-my-father-is-wrong-a-defense-of-guitar-hero/">https://whatever.scalzi.com/2026/08/10/why-my-father-is-wrong-a-defense-of-guitar-hero/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49253176">https://news.ycombinator.com/item?id=49253176</a></p>
-<p>Points: 19</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://github.com/activeing123/mcptoon">https://github.com/activeing123/mcptoon</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49253721">https://news.ycombinator.com/item?id=49253721</a></p>
+<p>Points: 15</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://whatever.scalzi.com/2026/08/10/why-my-father-is-wrong-a-defense-of-guitar-hero/](https://whatever.scalzi.com/2026/08/10/why-my-father-is-wrong-a-defense-of-guitar-hero/)
+🔗 **Read more:** [https://github.com/activeing123/mcptoon](https://github.com/activeing123/mcptoon)
 
 ---
 
@@ -97,42 +97,42 @@ Prime Minister Andy Burnham said town centres had been "hollowed out" by decades
 
 ---
 
-### 7. Huge fire breaks out at Libya’s Zawiya refinery after drone attack
+### 7. Somali referee arrives for UEFA Super Cup after World Cup exclusion
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-National oil company warns it may halt operations at the country&#039;s largest operating refinery if drone attacks continue.
+Somali referee Omar Artan will make history as the first non-European referee to officiate the UEFA Super Cup.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/11/huge-fire-breaks-out-at-libyas-zawiya-refinery-after-drone-attack?traffic_source=rss](https://www.aljazeera.com/news/2026/8/11/huge-fire-breaks-out-at-libyas-zawiya-refinery-after-drone-attack?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/11/aje-onl-nf_somali-referee-arrives-for-uefa-super-cup-110826?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/11/aje-onl-nf_somali-referee-arrives-for-uefa-super-cup-110826?traffic_source=rss)
 
 ---
 
-### 8. China’s Long March 7A rocket explodes after lift-off
+### 8. Family watches helplessly as Colombia quake destroys home
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-China’s Long March 7A rocket exploded shortly after lifting off from the Wenchang launch site in Hainan.
+A family documents the moment a magnitude 7.4 earthquake hits, and destroys their home.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/11/08-11-2026-china-rocket-explodes-clip?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/11/08-11-2026-china-rocket-explodes-clip?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/11/family-watches-helplessly-as-colombia-quake-destroys-home?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/11/family-watches-helplessly-as-colombia-quake-destroys-home?traffic_source=rss)
 
 ---
 
-### 9. Fire rages after drone strikes Libya’s largest oil refinery
+### 9. Trump’s media company reports $238m loss
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A drone attack ignited gasoline at Libya&#039;s Zawiya oil refinery, the country&#039;s largest operational facility.
+Trump Media &amp; Technology Group earns less than $2m in Q2.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/11/fire-rages-after-drone-strikes-libyas-largest-oil-refinery?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/11/fire-rages-after-drone-strikes-libyas-largest-oil-refinery?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/11/trumps-media-company-reports-238m-loss?traffic_source=rss](https://www.aljazeera.com/news/2026/8/11/trumps-media-company-reports-238m-loss?traffic_source=rss)
 
 ---
 

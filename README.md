@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-11 15:16:06
+**Last Update:** 2026-08-11 15:34:26
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
@@ -20,7 +20,7 @@
 <p>Article URL: <a href="https://en.wikipedia.org/wiki/Panic_of_1873">https://en.wikipedia.org/wiki/Panic_of_1873</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49255918">https://news.ycombinator.com/item?id=49255918</a></p>
 <p>Points: 13</p>
-<p># Comments: 7</p>
+<p># Comments: 8</p>
 
 🔗 **Read more:** [https://en.wikipedia.org/wiki/Panic_of_1873](https://en.wikipedia.org/wiki/Panic_of_1873)
 
@@ -36,7 +36,7 @@
 <p>Article URL: <a href="https://rapha.land/closing-canario-terminal-source-code/">https://rapha.land/closing-canario-terminal-source-code/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49254881">https://news.ycombinator.com/item?id=49254881</a></p>
 <p>Points: 11</p>
-<p># Comments: 8</p>
+<p># Comments: 10</p>
 
 🔗 **Read more:** [https://rapha.land/closing-canario-terminal-source-code/](https://rapha.land/closing-canario-terminal-source-code/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html">https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49254880">https://news.ycombinator.com/item?id=49254880</a></p>
-<p>Points: 315</p>
-<p># Comments: 189</p>
+<p>Points: 329</p>
+<p># Comments: 202</p>
 
 🔗 **Read more:** [https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html](https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html)
 
@@ -97,42 +97,42 @@ Prime Minister Andy Burnham said town centres had been "hollowed out" by decades
 
 ---
 
-### 7. What to know about South Carolina’s election to replace Lindsey Graham
+### 7. ‘New level of danger’: Drone incidents scare Europe amid Russia-Ukraine war
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Tuesday&#039;s special election will pick a Republican challenger for the midterm Senate race transformed by Graham&#039;s death.
+After a drone crashes in Germany, fears of suspected Russian operations rise across Europe.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/11/what-to-know-about-south-carolinas-election-to-replace-lindsey-graham?traffic_source=rss](https://www.aljazeera.com/news/2026/8/11/what-to-know-about-south-carolinas-election-to-replace-lindsey-graham?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/11/new-level-of-danger-drone-incidents-scare-europe-amid-russia-ukraine-war?traffic_source=rss](https://www.aljazeera.com/news/2026/8/11/new-level-of-danger-drone-incidents-scare-europe-amid-russia-ukraine-war?traffic_source=rss)
 
 ---
 
-### 8. DRC Ebola death toll passes 2,000 amid fastest-growing outbreak on record
+### 8. Future of southern Lebanon peacekeeping uncertain ahead of UNIFIL phase-out
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A total of 4,381 cases across five provinces have been confirmed in the Democratic Republic of the Congo as of Tuesday.
+Future peacekeeping missions may shrink significantly, risking security gaps, as political solutions remain elusive.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/11/drc-ebola-death-toll-passes-2000-amid-fastest-growing-outbreak-on-record?traffic_source=rss](https://www.aljazeera.com/news/2026/8/11/drc-ebola-death-toll-passes-2000-amid-fastest-growing-outbreak-on-record?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/11/future-southern-lebanon-peacekeeping-uncertain-amid-unifil-phase-out?traffic_source=rss](https://www.aljazeera.com/news/2026/8/11/future-southern-lebanon-peacekeeping-uncertain-amid-unifil-phase-out?traffic_source=rss)
 
 ---
 
-### 9. East Libya military intelligence chief killed in car bomb
+### 9. Palestine weekly: Netanyahu hedges on Gaza roadmap
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Prime minister of the Eastern Libyan government condemns killing of Major-General Fawzi al‑Mansouri.
+Attacks in Gaza slowed sharply this week even as Netanyahu publicly rejected Trump&#039;s 15-point peace plan.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/11/east-libya-military-intelligence-chief-killed-in-car-bomb?traffic_source=rss](https://www.aljazeera.com/news/2026/8/11/east-libya-military-intelligence-chief-killed-in-car-bomb?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/11/palestine-weekly-netanyahu-hedges-on-gaza-roadmap?traffic_source=rss](https://www.aljazeera.com/news/2026/8/11/palestine-weekly-netanyahu-hedges-on-gaza-roadmap?traffic_source=rss)
 
 ---
 

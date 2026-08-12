@@ -1,32 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-12 21:29:05
+**Last Update:** 2026-08-12 21:42:58
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Aaron Rodgers secretly funded his town's Flock-style cameras
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.foiaball.com/p/aaron-rodgers-secretly-bought-police-alpr-cameras">https://www.foiaball.com/p/aaron-rodgers-secretly-bought-police-alpr-cameras</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49276021">https://news.ycombinator.com/item?id=49276021</a></p>
-<p>Points: 14</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://www.foiaball.com/p/aaron-rodgers-secretly-bought-police-alpr-cameras](https://www.foiaball.com/p/aaron-rodgers-secretly-bought-police-alpr-cameras)
-
----
-
-### 2. Reflex (YC W23) Is hiring Growth and GTM Roles
+### 1. Reflex (YC W23) Is hiring Growth and GTM Roles
 
 **Source:** Hacker News
 
@@ -42,7 +26,7 @@
 
 ---
 
-### 3. SpaceXAI's Grok 4.6 Scores 61 on the Artificial Analysis Intelligence Index
+### 2. SpaceXAI's Grok 4.6 Scores 61 on the Artificial Analysis Intelligence Index
 
 **Source:** Hacker News
 
@@ -51,10 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis">https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49275385">https://news.ycombinator.com/item?id=49275385</a></p>
-<p>Points: 79</p>
-<p># Comments: 30</p>
+<p>Points: 100</p>
+<p># Comments: 50</p>
 
 🔗 **Read more:** [https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis](https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis)
+
+---
+
+### 3. HTML over WebSockets: real-time SPAs with barely any JavaScript
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/">https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49275335">https://news.ycombinator.com/item?id=49275335</a></p>
+<p>Points: 24</p>
+<p># Comments: 16</p>
+
+🔗 **Read more:** [https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/](https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/)
 
 ---
 

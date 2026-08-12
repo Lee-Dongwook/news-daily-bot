@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-12 09:46:42
+**Last Update:** 2026-08-12 10:19:51
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
@@ -19,42 +19,42 @@
 **Description:**
 <p>Article URL: <a href="https://llama.app">https://llama.app</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49267928">https://news.ycombinator.com/item?id=49267928</a></p>
-<p>Points: 51</p>
-<p># Comments: 9</p>
+<p>Points: 99</p>
+<p># Comments: 41</p>
 
 🔗 **Read more:** [https://llama.app](https://llama.app)
 
 ---
 
-### 2. The Human Is the Loop
+### 2. CVE-2026-53361 AF_Unix GC vs. MSG_PEEK use-after-free container escape
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://brentfitzgerald.com/posts/the-human-is-the-loop/">https://brentfitzgerald.com/posts/the-human-is-the-loop/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49267108">https://news.ycombinator.com/item?id=49267108</a></p>
-<p>Points: 49</p>
-<p># Comments: 20</p>
+<p>Article URL: <a href="https://github.com/sgkdev/bad_garbage">https://github.com/sgkdev/bad_garbage</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49267550">https://news.ycombinator.com/item?id=49267550</a></p>
+<p>Points: 8</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://brentfitzgerald.com/posts/the-human-is-the-loop/](https://brentfitzgerald.com/posts/the-human-is-the-loop/)
+🔗 **Read more:** [https://github.com/sgkdev/bad_garbage](https://github.com/sgkdev/bad_garbage)
 
 ---
 
-### 3. Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI
+### 3. DARPA heavy lift challenge ends with winner at a 3.84:1 payload to weight ratio
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/">https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49267057">https://news.ycombinator.com/item?id=49267057</a></p>
-<p>Points: 135</p>
-<p># Comments: 31</p>
+<p>Article URL: <a href="https://dronexl.co/2026/08/10/darpa-lift-challenge-results-avidrone/">https://dronexl.co/2026/08/10/darpa-lift-challenge-results-avidrone/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49267527">https://news.ycombinator.com/item?id=49267527</a></p>
+<p>Points: 7</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/](https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/)
+🔗 **Read more:** [https://dronexl.co/2026/08/10/darpa-lift-challenge-results-avidrone/](https://dronexl.co/2026/08/10/darpa-lift-challenge-results-avidrone/)
 
 ---
 

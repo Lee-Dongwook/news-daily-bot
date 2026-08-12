@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-12 15:19:32
+**Last Update:** 2026-08-12 15:34:53
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
@@ -24,14 +24,14 @@
 Contributions and bug reports are also very welcome: <a href="https://github.com/ad-si/Woxi" rel="nofollow">https://github.com/ad-si/Woxi</a></p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49270040">https://news.ycombinator.com/item?id=49270040</a></p>
-<p>Points: 63</p>
+<p>Points: 74</p>
 <p># Comments: 1</p>
 
 🔗 **Read more:** [https://woxi.ad-si.com](https://woxi.ad-si.com)
 
 ---
 
-### 2. Tim Gowers: What sort of maths are LLMs good at?
+### 2. What sort of maths are LLMs good at?
 
 **Source:** Hacker News
 
@@ -40,8 +40,8 @@ Contributions and bug reports are also very welcome: <a href="https://github.com
 **Description:**
 <p>Article URL: <a href="https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/">https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49270022">https://news.ycombinator.com/item?id=49270022</a></p>
-<p>Points: 80</p>
-<p># Comments: 17</p>
+<p>Points: 87</p>
+<p># Comments: 21</p>
 
 🔗 **Read more:** [https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/](https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/)
 
@@ -56,8 +56,8 @@ Contributions and bug reports are also very welcome: <a href="https://github.com
 **Description:**
 <p>Article URL: <a href="https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696">https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49269818">https://news.ycombinator.com/item?id=49269818</a></p>
-<p>Points: 133</p>
-<p># Comments: 64</p>
+<p>Points: 151</p>
+<p># Comments: 78</p>
 
 🔗 **Read more:** [https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696](https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696)
 

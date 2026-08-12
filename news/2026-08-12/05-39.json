@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-12T05:39:45+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Gen Z has rediscovered the joy of going to the movies",
+            "description": "<p>Article URL: <a href=\"https://www.economist.com/culture/2026/08/11/gen-z-has-rediscovered-the-joy-of-going-to-the-movies\">https://www.economist.com/culture/2026/08/11/gen-z-has-rediscovered-the-joy-of-going-to-the-movies</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49266879\">https://news.ycombinator.com/item?id=49266879</a></p>\n<p>Points: 4</p>\n<p># Comments: 2</p>",
+            "url": "https://www.economist.com/culture/2026/08/11/gen-z-has-rediscovered-the-joy-of-going-to-the-movies",
+            "published": "Wed, 12 Aug 2026 01:39:56 +0000",
+            "fetched": "2026-08-12T05:39:45+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "DEF CON crowd suspected in fake-hotspot attack on Delta flight",
+            "description": "<p>Article URL: <a href=\"https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/\">https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49266560\">https://news.ycombinator.com/item?id=49266560</a></p>\n<p>Points: 17</p>\n<p># Comments: 4</p>",
+            "url": "https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/",
+            "published": "Wed, 12 Aug 2026 00:58:00 +0000",
+            "fetched": "2026-08-12T05:39:45+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "CFTC declares market emergency, orders Kalshi to continue to operate in New York",
+            "description": "<p>Article URL: <a href=\"https://www.cftc.gov/PressRoom/PressReleases/9281-26\">https://www.cftc.gov/PressRoom/PressReleases/9281-26</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49266277\">https://news.ycombinator.com/item?id=49266277</a></p>\n<p>Points: 112</p>\n<p># Comments: 85</p>",
+            "url": "https://www.cftc.gov/PressRoom/PressReleases/9281-26",
+            "published": "Wed, 12 Aug 2026 00:17:59 +0000",
+            "fetched": "2026-08-12T05:39:45+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Woman assaulted by double murderer says nightmare became 'real life' when police let him attack again",
+            "description": "Serial sex offender Simon Levy went on to murder two women and rape a third after a series of disastrous decisions that left him free to roam the streets.",
+            "url": "https://www.bbc.co.uk/news/articles/czjlwlkw1m4o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 11 Aug 2026 21:00:46 GMT",
+            "fetched": "2026-08-12T05:39:45+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "More weather records as UK heat set to spike again",
+            "description": "Summer's record-breaking streak continues as the tally for days above 30C in the UK is broken.",
+            "url": "https://www.bbc.co.uk/weather/articles/c36dr3r3ny0o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 11 Aug 2026 23:37:43 GMT",
+            "fetched": "2026-08-12T05:39:45+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Police chiefs call for PM to prevent early release of PC Harper's killers",
+            "description": "The intervention comes after Andy Burnham said he was \"confident\" the early release of PC Harper's killers could be prevented.",
+            "url": "https://www.bbc.co.uk/news/articles/cwyrkz9ryr5o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 11 Aug 2026 21:21:44 GMT",
+            "fetched": "2026-08-12T05:39:45+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Zambia to vote as economic hardship tests government reforms",
+            "description": "Debt restructuring, inflation and copper revenues are emerging as key issues in the vote.",
+            "url": "https://www.aljazeera.com/news/2026/8/12/zambia-to-vote-as-economic-hardship-tests-government-reforms?traffic_source=rss",
+            "published": "Wed, 12 Aug 2026 01:18:29 +0000",
+            "fetched": "2026-08-12T05:39:45+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "N Korea launches ballistic missile as S Korea, US plan military drills",
+            "description": "Pyongyang conducts second weapons test in less than a week as Seoul, Washington gear up for annual military exercises.",
+            "url": "https://www.aljazeera.com/news/2026/8/12/n-korea-launches-ballistic-missile-as-s-korea-us-plan-military-drills?traffic_source=rss",
+            "published": "Wed, 12 Aug 2026 00:39:53 +0000",
+            "fetched": "2026-08-12T05:39:45+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran war live: Trump claims US in ‘total control’ of Strait of Hormuz",
+            "description": "Qatar says negotiations between Oman, Iran over future of shipping through Strait of Hormuz are making major progress.",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/8/12/iran-war-live-us-fires-missiles-at-cargo-ship-violating-iran-blockade?traffic_source=rss",
+            "published": "Wed, 12 Aug 2026 00:00:00 +0000",
+            "fetched": "2026-08-12T05:39:45+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm 15W",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22386",
+            "published": "2026-08-10T06:00:00Z",
+            "fetched": "2026-08-12T05:39:45+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Harris, Rosebud, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22430",
+            "published": "2026-08-09T16:55:00Z",
+            "fetched": "2026-08-12T05:39:45+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire WEISER KNOLL, Fremont, Wyoming",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22424",
+            "published": "2026-08-09T16:32:00Z",
+            "fetched": "2026-08-12T05:39:45+03:30"
+        }
+    ]
+}

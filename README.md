@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-12 03:35:16
+**Last Update:** 2026-08-12 05:39:45
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. US hires over 2k video gamers as air traffic controllers
+### 1. Gen Z has rediscovered the joy of going to the movies
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.cbsnews.com/news/video-gamer-air-traffic-controllers-faa-recruitment-sean-duffy/">https://www.cbsnews.com/news/video-gamer-air-traffic-controllers-faa-recruitment-sean-duffy/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49265879">https://news.ycombinator.com/item?id=49265879</a></p>
-<p>Points: 7</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.economist.com/culture/2026/08/11/gen-z-has-rediscovered-the-joy-of-going-to-the-movies">https://www.economist.com/culture/2026/08/11/gen-z-has-rediscovered-the-joy-of-going-to-the-movies</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49266879">https://news.ycombinator.com/item?id=49266879</a></p>
+<p>Points: 4</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://www.cbsnews.com/news/video-gamer-air-traffic-controllers-faa-recruitment-sean-duffy/](https://www.cbsnews.com/news/video-gamer-air-traffic-controllers-faa-recruitment-sean-duffy/)
+🔗 **Read more:** [https://www.economist.com/culture/2026/08/11/gen-z-has-rediscovered-the-joy-of-going-to-the-movies](https://www.economist.com/culture/2026/08/11/gen-z-has-rediscovered-the-joy-of-going-to-the-movies)
 
 ---
 
-### 2. WorldClaw Agentic 3D open-world generation at scale
+### 2. DEF CON crowd suspected in fake-hotspot attack on Delta flight
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/">https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49265051">https://news.ycombinator.com/item?id=49265051</a></p>
-<p>Points: 65</p>
-<p># Comments: 24</p>
+<p>Article URL: <a href="https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/">https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49266560">https://news.ycombinator.com/item?id=49266560</a></p>
+<p>Points: 17</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/](https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/)
+🔗 **Read more:** [https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/](https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/)
 
 ---
 
-### 3. pg_clickhouse v0.10: Subquery pushdown and 1000x faster TPC-H queries
+### 3. CFTC declares market emergency, orders Kalshi to continue to operate in New York
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026">https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49265031">https://news.ycombinator.com/item?id=49265031</a></p>
-<p>Points: 23</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.cftc.gov/PressRoom/PressReleases/9281-26">https://www.cftc.gov/PressRoom/PressReleases/9281-26</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49266277">https://news.ycombinator.com/item?id=49266277</a></p>
+<p>Points: 112</p>
+<p># Comments: 85</p>
 
-🔗 **Read more:** [https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026](https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026)
+🔗 **Read more:** [https://www.cftc.gov/PressRoom/PressReleases/9281-26](https://www.cftc.gov/PressRoom/PressReleases/9281-26)
 
 ---
 
@@ -97,42 +97,42 @@ The intervention comes after Andy Burnham said he was "confident" the early rele
 
 ---
 
-### 7. Colombia scrambles to find survivors after deadly earthquake
+### 7. Zambia to vote as economic hardship tests government reforms
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-At least 254 deaths have been reported so far, as rescue workers continue to sift through collapsed buildings.
+Debt restructuring, inflation and copper revenues are emerging as key issues in the vote.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/longform/2026/8/11/colombia-scrambles-to-find-survivors-after-deadly-earthquake?traffic_source=rss](https://www.aljazeera.com/features/longform/2026/8/11/colombia-scrambles-to-find-survivors-after-deadly-earthquake?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/zambia-to-vote-as-economic-hardship-tests-government-reforms?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/zambia-to-vote-as-economic-hardship-tests-government-reforms?traffic_source=rss)
 
 ---
 
-### 8. Father and sons forced to manually clear rubble in Gaza
+### 8. N Korea launches ballistic missile as S Korea, US plan military drills
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Forced to rely on basic tools, a father and his sons are clearing the rubble of their destroyed home in Gaza.
+Pyongyang conducts second weapons test in less than a week as Seoul, Washington gear up for annual military exercises.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/11/father-and-sons-forced-to-manually-clear-rubble-in-gaza?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/11/father-and-sons-forced-to-manually-clear-rubble-in-gaza?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/n-korea-launches-ballistic-missile-as-s-korea-us-plan-military-drills?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/n-korea-launches-ballistic-missile-as-s-korea-us-plan-military-drills?traffic_source=rss)
 
 ---
 
-### 9. Relatives mourn victims of Pakistan avalanche
+### 9. Iran war live: Trump claims US in ‘total control’ of Strait of Hormuz
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Relatives gathered to mourn the three Nepali mountaineers, Kili Pemba Sherpa, Gyalu Sherpa, and Nima Sherpa.
+Qatar says negotiations between Oman, Iran over future of shipping through Strait of Hormuz are making major progress.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/11/relatives-mourn-victims-of-pakistan-avalanche?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/11/relatives-mourn-victims-of-pakistan-avalanche?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/8/12/iran-war-live-us-fires-missiles-at-cargo-ship-violating-iran-blockade?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/8/12/iran-war-live-us-fires-missiles-at-cargo-ship-violating-iran-blockade?traffic_source=rss)
 
 ---
 

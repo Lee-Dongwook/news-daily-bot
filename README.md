@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-12 23:03:00
+**Last Update:** 2026-08-13 00:19:47
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Zed: Delta
+### 1. Breaking the WAL
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://antithesis.com/blog/2026/wal-reset-bug/">https://antithesis.com/blog/2026/wal-reset-bug/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49277799">https://news.ycombinator.com/item?id=49277799</a></p>
+<p>Points: 5</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://antithesis.com/blog/2026/wal-reset-bug/](https://antithesis.com/blog/2026/wal-reset-bug/)
+
+---
+
+### 2. Building Security Agents That Cannot Escape Their Trust Boundary
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://cynative.com/blog/agent-trust-boundaries/">https://cynative.com/blog/agent-trust-boundaries/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49277437">https://news.ycombinator.com/item?id=49277437</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://cynative.com/blog/agent-trust-boundaries/](https://cynative.com/blog/agent-trust-boundaries/)
+
+---
+
+### 3. Delta
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://zed.dev/blog/introducing-delta">https://zed.dev/blog/introducing-delta</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49276574">https://news.ycombinator.com/item?id=49276574</a></p>
-<p>Points: 100</p>
-<p># Comments: 30</p>
+<p>Points: 187</p>
+<p># Comments: 64</p>
 
 🔗 **Read more:** [https://zed.dev/blog/introducing-delta](https://zed.dev/blog/introducing-delta)
-
----
-
-### 2. Your Key to Success Isn't More Luck or Hard Work
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://julienreszka.com/blog/your-key-to-success-isn-t-more-luck-or-hard-work/">https://julienreszka.com/blog/your-key-to-success-isn-t-more-luck-or-hard-work/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49276534">https://news.ycombinator.com/item?id=49276534</a></p>
-<p>Points: 21</p>
-<p># Comments: 16</p>
-
-🔗 **Read more:** [https://julienreszka.com/blog/your-key-to-success-isn-t-more-luck-or-hard-work/](https://julienreszka.com/blog/your-key-to-success-isn-t-more-luck-or-hard-work/)
-
----
-
-### 3. Reflex (YC W23) Is hiring Growth and GTM Roles
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.ycombinator.com/companies/reflex/jobs/71x5GFb-growth-engineer">https://www.ycombinator.com/companies/reflex/jobs/71x5GFb-growth-engineer</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49275465">https://news.ycombinator.com/item?id=49275465</a></p>
-<p>Points: 0</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://www.ycombinator.com/companies/reflex/jobs/71x5GFb-growth-engineer](https://www.ycombinator.com/companies/reflex/jobs/71x5GFb-growth-engineer)
 
 ---
 
@@ -97,42 +97,42 @@ The PM wants the public to avoid using single-use grills during the current spel
 
 ---
 
-### 7. Brazil orders Discord to suspend livestreams after teen’s death
+### 7. Photos: Solar eclipse plunges parts of Europe into darkness
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Regulator says Discord failed to protect minors from violence, self-harm, and suicide content.
+A total solar eclipse crossed Iceland, Britain and parts of the European continent, drawing crowds to watch the event.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/brazil-orders-discord-to-suspend-livestreams-after-teens-death?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/brazil-orders-discord-to-suspend-livestreams-after-teens-death?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/8/12/photos-solar-eclipse-plunges-parts-of-europe-into-darkness?traffic_source=rss](https://www.aljazeera.com/gallery/2026/8/12/photos-solar-eclipse-plunges-parts-of-europe-into-darkness?traffic_source=rss)
 
 ---
 
-### 8. Iraq says September 30 withdrawal deadline for US-led coalition ‘final’
+### 8. ‘Platformicide’ of Palestine: Activists struggle to be heard on Meta
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A US official confirmed that the United States expects to complete its pullout by September 30.
+Report by NGO 7amleh, Utrecht University analyses 3,520 cases of digital rights violations against Palestinians.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/iraq-says-sept-30-deadline-to-end-us-led-military-coalition-final?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/iraq-says-sept-30-deadline-to-end-us-led-military-coalition-final?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/platformicide-of-palestine-activists-struggle-to-be-heard-on-meta?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/platformicide-of-palestine-activists-struggle-to-be-heard-on-meta?traffic_source=rss)
 
 ---
 
-### 9. Thousands flee drought in Somalia amid sharp aid decline
+### 9. Trump reveals Karoline Leavitt to step down as White House press secretary
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Thousands of hunger-stricken families have lost their livestock and farms due to a yearslong drought in Somalia.
+Leavitt is departing her role to spend more time with family after giving birth to a second child, according to Trump.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/12/thousands-flee-drought-in-somalia-amid-sharp-aid-decline?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/12/thousands-flee-drought-in-somalia-amid-sharp-aid-decline?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/trump-reveals-karoline-leavitt-to-step-down-as-white-house-press-secretary?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/trump-reveals-karoline-leavitt-to-step-down-as-white-house-press-secretary?traffic_source=rss)
 
 ---
 

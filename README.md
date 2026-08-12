@@ -1,16 +1,53 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-12 13:39:46
+**Last Update:** 2026-08-12 14:02:07
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Facebook is paying controversial creators to produce rage-bait content
+### 1. Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Woxi is an interpreter for the Wolfram Language written in Rust.<p>It comes with Woxi Studio, a Mathematica-like GUI built with iced, but you can also use Woxi through a CLI, Jupyter kernel, Python package, npm package, or WASM module.<p>Compared with wolframscript / Mathematica, the main differences are:<p>- Free and open source
+- Very fast startup - Typically milliseconds rather than seconds for the Wolfram kernel, making Woxi practical for shell scripts, one-liners, and other short-lived processes
+- Embeddable - It can run in a browser via WASM or be embedded into another application as a scripting language<p>A more detailed comparison with Mathematica is available here:
+<a href="https://woxi.ad-si.com/docs/comparison/mathematica/" rel="nofollow">https://woxi.ad-si.com/docs/comparison/mathematica/</a>.<p>Conformance is ensured with ~26'000 unit tests and ~900 .wls script snapshot tests.<p>The current focus is on fixing remaining edge cases, improving performance, and growing the community.<p>If you use the Wolfram Language, I'd be particularly interested in feedback on compatibility and missing functionality.
+Contributions and bug reports are also very welcome: <a href="https://github.com/ad-si/Woxi" rel="nofollow">https://github.com/ad-si/Woxi</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49270040">https://news.ycombinator.com/item?id=49270040</a></p>
+<p>Points: 18</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://woxi.ad-si.com](https://woxi.ad-si.com)
+
+---
+
+### 2. Tim Gowers: What sort of maths are LLMs good at?
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/">https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49270022">https://news.ycombinator.com/item?id=49270022</a></p>
+<p>Points: 21</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/](https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/)
+
+---
+
+### 3. Facebook is paying controversial creators to produce rage-bait content
 
 **Source:** Hacker News
 
@@ -19,42 +56,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696">https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49269818">https://news.ycombinator.com/item?id=49269818</a></p>
-<p>Points: 24</p>
-<p># Comments: 12</p>
+<p>Points: 54</p>
+<p># Comments: 17</p>
 
 🔗 **Read more:** [https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696](https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696)
-
----
-
-### 2. Beef and dairy drive 41% of biodiversity damage linked to global farmland
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.oxfordmartin.ox.ac.uk/news/beef-and-dairy-drive-41-of-biodiversity-damage-linked-to-global-farmland">https://www.oxfordmartin.ox.ac.uk/news/beef-and-dairy-drive-41-of-biodiversity-damage-linked-to-global-farmland</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49269789">https://news.ycombinator.com/item?id=49269789</a></p>
-<p>Points: 22</p>
-<p># Comments: 6</p>
-
-🔗 **Read more:** [https://www.oxfordmartin.ox.ac.uk/news/beef-and-dairy-drive-41-of-biodiversity-damage-linked-to-global-farmland](https://www.oxfordmartin.ox.ac.uk/news/beef-and-dairy-drive-41-of-biodiversity-damage-linked-to-global-farmland)
-
----
-
-### 3. Dutch Train Map Simulator
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://spoorkaart.zaza.dev">https://spoorkaart.zaza.dev</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49269641">https://news.ycombinator.com/item?id=49269641</a></p>
-<p>Points: 18</p>
-<p># Comments: 3</p>
-
-🔗 **Read more:** [https://spoorkaart.zaza.dev](https://spoorkaart.zaza.dev)
 
 ---
 
@@ -97,7 +102,20 @@ The Government will meet to discuss this summer's record-breaking heat as the ta
 
 ---
 
-### 7. More than 100 passengers rescued after Indonesia ferry fire
+### 7. ‘The hardest mission of my life’: A rescuer’s loss in the Lebanon War
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+A Lebanon rescuer’s work is shaped by the daughter he lost in an Israeli attack on his station.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/al-jazeera-originals/2026/8/12/aje-onl-or_leb_paramedics_teaser-120826?traffic_source=rss](https://www.aljazeera.com/video/al-jazeera-originals/2026/8/12/aje-onl-or_leb_paramedics_teaser-120826?traffic_source=rss)
+
+---
+
+### 8. More than 100 passengers rescued after Indonesia ferry fire
 
 **Source:** Al Jazeera
 
@@ -110,7 +128,7 @@ More than 100 passengers rescued after Indonesia ferry fire
 
 ---
 
-### 8. Pogba suffers new injury setback with Monaco future now in doubt
+### 9. Pogba suffers new injury setback with Monaco future now in doubt
 
 **Source:** Al Jazeera
 
@@ -120,19 +138,6 @@ More than 100 passengers rescued after Indonesia ferry fire
 Former France and Manchester United star Paul Pogba suffers latest injury setback, sparking rumours about Monaco future.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/12/pogba-suffers-new-injury-setback-with-monaco-future-now-in-doubt?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/12/pogba-suffers-new-injury-setback-with-monaco-future-now-in-doubt?traffic_source=rss)
-
----
-
-### 9. Zambia’s president rallies for second term ahead of election
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Zambia&#039;s president rallies for second term ahead of election
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/12/zambias-president-rallies-for-second-term-ahead-of-election?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/12/zambias-president-rallies-for-second-term-ahead-of-election?traffic_source=rss)
 
 ---
 

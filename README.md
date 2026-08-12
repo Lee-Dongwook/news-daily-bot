@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-12 18:56:01
+**Last Update:** 2026-08-12 19:35:40
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. GiveCampus (YC S15) Is Hiring Engineering Managers
+### 1. Grok 4.6
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://x.ai/news/grok-4-6">https://x.ai/news/grok-4-6</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49274027">https://news.ycombinator.com/item?id=49274027</a></p>
+<p>Points: 17</p>
+<p># Comments: 8</p>
+
+🔗 **Read more:** [https://x.ai/news/grok-4-6](https://x.ai/news/grok-4-6)
+
+---
+
+### 2. Qwen/Qwen3.8-2.4T-A95B
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B">https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49273478">https://news.ycombinator.com/item?id=49273478</a></p>
+<p>Points: 70</p>
+<p># Comments: 17</p>
+
+🔗 **Read more:** [https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B](https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B)
+
+---
+
+### 3. GiveCampus (YC S15) Is Hiring Engineering Managers
 
 **Source:** Hacker News
 
@@ -26,52 +58,7 @@
 
 ---
 
-### 2. Hax – a minimalist, terminal-native coding agent written in C
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://usehax.dev/">https://usehax.dev/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49273175">https://news.ycombinator.com/item?id=49273175</a></p>
-<p>Points: 3</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://usehax.dev/](https://usehax.dev/)
-
----
-
-### 3. License Plate Reader Searches Should Require a Warrant
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/">https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49273165">https://news.ycombinator.com/item?id=49273165</a></p>
-<p>Points: 81</p>
-<p># Comments: 23</p>
-
-🔗 **Read more:** [https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/](https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/)
-
----
-
-### 4. Double killer and rapist given whole life sentence
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Simon Levy, from Tottenham, will spend the rest of his life in prison for the murder of two women and rape of a third.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c4g30dw9xw6o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c4g30dw9xw6o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Three ways to watch the solar eclipse safely without glasses
+### 4. Three ways to watch the solar eclipse safely without glasses
 
 **Source:** BBC
 
@@ -81,6 +68,19 @@ Simon Levy, from Tottenham, will spend the rest of his life in prison for the mu
 With some shops running out of stock, it may be too late to buy eclipse glasses - but you can still safely watch the spectacle using some household items.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c4gdxyjnz3do?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c4gdxyjnz3do?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Double killer and rapist given whole life sentence
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Simon Levy, from Tottenham, will spend the rest of his life in prison for the murder of two women and rape of a third.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c4g30dw9xw6o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c4g30dw9xw6o?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +97,42 @@ The PM wants the public to avoid using single-use grills during the current spel
 
 ---
 
-### 7. US consumer inflation slows in July as energy prices briefly retreat
+### 7. Europe prepares for first total solar eclipse in 27 years
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Energy prices declined 1.5 percent in July but remain 14.7 percent higher compared with a year ago.
+Europe is gearing up for its first total solar eclipse in 27 years.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/12/us-consumer-inflation-slows-in-july-as-energy-prices-briefly-retreat?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/12/us-consumer-inflation-slows-in-july-as-energy-prices-briefly-retreat?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/12/europe-prepares-for-first-total-solar-eclipse-in-27-years?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/12/europe-prepares-for-first-total-solar-eclipse-in-27-years?traffic_source=rss)
 
 ---
 
-### 8. As Strait of Hormuz transit drops, Trump again says US has ‘control’
+### 8. Colombia declares three days of mourning after deadly earthquake
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Just eight vessels crossed strait on Tuesday, down from 130 to 140 prior to the war as peace talks stall.
+Hundreds are dead as rescuers race to find survivors of the magnitude 7.4 quake.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/as-strait-of-hormuz-transit-drops-trump-again-says-us-has-control?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/as-strait-of-hormuz-transit-drops-trump-again-says-us-has-control?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/colombia-declares-three-days-of-mourning-after-deadly-earthquake?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/colombia-declares-three-days-of-mourning-after-deadly-earthquake?traffic_source=rss)
 
 ---
 
-### 9. Lebanon passes long-sought amnesty law, a day after death penalty repeal
+### 9. Is Russia’s economy cracking despite the Iran war windfall?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The legislation will &#039;exceptionally&#039; reduce certain prison terms, says Lebanon&#039;s parliament speaker.
+A widening deficit and Ukrainian strikes are testing Russia&#039;s economy, even as war in the Middle East lifts oil revenue.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/lebanon-passes-long-sought-amnesty-law-a-day-after-death-penalty-repeal?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/lebanon-passes-long-sought-amnesty-law-a-day-after-death-penalty-repeal?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/counting-the-cost/2026/8/12/is-russias-economy-cracking-despite-the-iran-war-windfall?traffic_source=rss](https://www.aljazeera.com/video/counting-the-cost/2026/8/12/is-russias-economy-cracking-despite-the-iran-war-windfall?traffic_source=rss)
 
 ---
 

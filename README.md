@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-12 08:19:37
+**Last Update:** 2026-08-12 08:40:56
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://brentfitzgerald.com/posts/the-human-is-the-loop/">https://brentfitzgerald.com/posts/the-human-is-the-loop/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49267108">https://news.ycombinator.com/item?id=49267108</a></p>
-<p>Points: 26</p>
-<p># Comments: 3</p>
+<p>Points: 27</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://brentfitzgerald.com/posts/the-human-is-the-loop/](https://brentfitzgerald.com/posts/the-human-is-the-loop/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/">https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49267057">https://news.ycombinator.com/item?id=49267057</a></p>
-<p>Points: 73</p>
-<p># Comments: 15</p>
+<p>Points: 85</p>
+<p># Comments: 19</p>
 
 🔗 **Read more:** [https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/](https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/)
 
@@ -51,14 +51,27 @@
 **Description:**
 <p>Article URL: <a href="https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/">https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49266921">https://news.ycombinator.com/item?id=49266921</a></p>
-<p>Points: 31</p>
-<p># Comments: 5</p>
+<p>Points: 36</p>
+<p># Comments: 7</p>
 
 🔗 **Read more:** [https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/](https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/)
 
 ---
 
-### 4. Woman assaulted by double murderer says nightmare became 'real life' when police let him attack again
+### 4. 'Overwhelmed' probation officers warn  of early prison release crime risk
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+England and Wales' probation services are already under "unprecedented pressure" - set to increase with the scheme, the chief inspector said.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c39e3y1y2zjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c39e3y1y2zjo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Woman assaulted by double murderer says nightmare became 'real life' when police let him attack again
 
 **Source:** BBC
 
@@ -71,7 +84,7 @@ Serial sex offender Simon Levy went on to murder two women and rape a third afte
 
 ---
 
-### 5. More weather records as UK heat set to spike again
+### 6. More weather records broken as UK heat set to spike again
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ Summer's record-breaking streak continues as the tally for days above 30C in the
 
 ---
 
-### 6. Police chiefs call for PM to prevent early release of PC Harper's killers
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The intervention comes after Andy Burnham said he was "confident" the early release of PC Harper's killers could be prevented.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwyrkz9ryr5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwyrkz9ryr5o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Trump says secret plane switch ‘up to the Secret Service’
+### 7. Can Trump keep his ‘irritation’ with Netanyahu in check?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US President Donald Trump says the decision to make a plane switch in Turkiye after the NATO summit.
+Israel’s PM Benjamin Netanyahu has rejected Donald Trump’s Gaza peace plan which has exposed tensions between the two.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/12/trump-says-secret-plane-switch-up-to-the-secret?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/12/trump-says-secret-plane-switch-up-to-the-secret?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/12/aje-onl-nf_-trump-keep-his-irritation-with-netanyahu-in-check-120826?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/12/aje-onl-nf_-trump-keep-his-irritation-with-netanyahu-in-check-120826?traffic_source=rss)
 
 ---
 
-### 8. Drone strikes power station near Libya’s largest oil refinery
+### 8. Israeli raids, demolitions continue as UN warns West Bank at breaking point
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A drone has struck a power station in Libya’s western city of Zawiya
+Israeli forces arrest 23 Palestinians and demolish home of man killed in confrontation with Israeli settlers in July.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/12/drone-strikes-power-station-near-libyas-largest-oil-refinery?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/12/drone-strikes-power-station-near-libyas-largest-oil-refinery?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/israeli-raids-demolitions-continue-as-un-warns-west-bank-at-breaking-point?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/israeli-raids-demolitions-continue-as-un-warns-west-bank-at-breaking-point?traffic_source=rss)
 
 ---
 
-### 9. Russia frees ex-US marine Gilman jailed since 2022
+### 9. Did Trump flee an Iranian assassination plot on a catering truck?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Russia has released former US marine Robert Gilman, who had been jailed since 2022 for attacking a police officer.
+New reports reveal the US President hid in a catering truck to switch planes over an alleged bomb plot in July.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/12/russia-frees-ex-us-marine-gilman-jailed-since-2022?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/12/russia-frees-ex-us-marine-gilman-jailed-since-2022?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/12/did-trump-flee-an-iranian-assassination-plot-on-a-catering-truck?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/12/did-trump-flee-an-iranian-assassination-plot-on-a-catering-truck?traffic_source=rss)
 
 ---
 

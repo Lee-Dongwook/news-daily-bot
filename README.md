@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-12 19:35:40
+**Last Update:** 2026-08-12 19:53:24
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://x.ai/news/grok-4-6">https://x.ai/news/grok-4-6</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49274027">https://news.ycombinator.com/item?id=49274027</a></p>
-<p>Points: 17</p>
-<p># Comments: 8</p>
+<p>Points: 71</p>
+<p># Comments: 49</p>
 
 🔗 **Read more:** [https://x.ai/news/grok-4-6](https://x.ai/news/grok-4-6)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B">https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49273478">https://news.ycombinator.com/item?id=49273478</a></p>
-<p>Points: 70</p>
-<p># Comments: 17</p>
+<p>Points: 91</p>
+<p># Comments: 23</p>
 
 🔗 **Read more:** [https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B](https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B)
 
@@ -97,7 +97,20 @@ The PM wants the public to avoid using single-use grills during the current spel
 
 ---
 
-### 7. Europe prepares for first total solar eclipse in 27 years
+### 7. PSG vs Aston Villa LIVE: UEFA Super Cup 2026
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Live coverage and text updates from our commentary stream as PSG&#039;s Dembele, Doue and Barcola target more trophies.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/liveblog/2026/8/12/psg-vs-aston-villa-live-uefa-super-cup-2026?traffic_source=rss](https://www.aljazeera.com/sports/liveblog/2026/8/12/psg-vs-aston-villa-live-uefa-super-cup-2026?traffic_source=rss)
+
+---
+
+### 8. Europe prepares for first total solar eclipse in 27 years
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Europe is gearing up for its first total solar eclipse in 27 years.
 
 ---
 
-### 8. Colombia declares three days of mourning after deadly earthquake
+### 9. Colombia declares three days of mourning after deadly earthquake
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Europe is gearing up for its first total solar eclipse in 27 years.
 Hundreds are dead as rescuers race to find survivors of the magnitude 7.4 quake.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/colombia-declares-three-days-of-mourning-after-deadly-earthquake?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/colombia-declares-three-days-of-mourning-after-deadly-earthquake?traffic_source=rss)
-
----
-
-### 9. Is Russia’s economy cracking despite the Iran war windfall?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-A widening deficit and Ukrainian strikes are testing Russia&#039;s economy, even as war in the Middle East lifts oil revenue.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/counting-the-cost/2026/8/12/is-russias-economy-cracking-despite-the-iran-war-windfall?traffic_source=rss](https://www.aljazeera.com/video/counting-the-cost/2026/8/12/is-russias-economy-cracking-despite-the-iran-war-windfall?traffic_source=rss)
 
 ---
 

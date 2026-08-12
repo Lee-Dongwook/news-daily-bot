@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-12 22:44:28
+**Last Update:** 2026-08-12 23:03:00
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://zed.dev/blog/introducing-delta">https://zed.dev/blog/introducing-delta</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49276574">https://news.ycombinator.com/item?id=49276574</a></p>
-<p>Points: 81</p>
-<p># Comments: 13</p>
+<p>Points: 100</p>
+<p># Comments: 30</p>
 
 🔗 **Read more:** [https://zed.dev/blog/introducing-delta](https://zed.dev/blog/introducing-delta)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://julienreszka.com/blog/your-key-to-success-isn-t-more-luck-or-hard-work/">https://julienreszka.com/blog/your-key-to-success-isn-t-more-luck-or-hard-work/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49276534">https://news.ycombinator.com/item?id=49276534</a></p>
-<p>Points: 11</p>
-<p># Comments: 10</p>
+<p>Points: 21</p>
+<p># Comments: 16</p>
 
 🔗 **Read more:** [https://julienreszka.com/blog/your-key-to-success-isn-t-more-luck-or-hard-work/](https://julienreszka.com/blog/your-key-to-success-isn-t-more-luck-or-hard-work/)
 
@@ -71,20 +71,7 @@ Grain exports from both Russia and Ukraine are falling as both countries attack 
 
 ---
 
-### 5. Ann Widdecombe's loved ones gather for her funeral
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-A requiem mass is held for the former MP at Buckfast Abbey in Devon, near her Dartmoor home.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvgwz81w892o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvgwz81w892o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Double killer and rapist given whole life sentence
+### 5. Double killer and rapist given whole life sentence
 
 **Source:** BBC
 
@@ -97,42 +84,55 @@ Simon Levy, from Tottenham, will spend the rest of his life in prison for the mu
 
 ---
 
-### 7. Paramount Skydance mulls CNN sale amid antitrust merger challenge
+### 6. Burnham urges shops not to sell disposable BBQs over wildfire risks
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-Paramount’s legal officer hints at CNN sale as 12 states, led by California, file lawsuit to block merger with WBD.
+The PM wants the public to avoid using single-use grills during the current spell of extremely dry weather.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/12/paramount-skydance-mulls-cnn-sale-amid-antitrust-merger-challenge?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/12/paramount-skydance-mulls-cnn-sale-amid-antitrust-merger-challenge?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr59p2nr6dqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr59p2nr6dqo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. DR Congo Ebola outbreak set to become deadliest on record, WHO warns
+### 7. Brazil orders Discord to suspend livestreams after teen’s death
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Outbreak to eclipse West Africa&#039;s Ebola outbreak of 2014 to 2016 if it continues at current pace, WHO chief says.
+Regulator says Discord failed to protect minors from violence, self-harm, and suicide content.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/dr-congo-ebola-outbreak-set-to-become-deadliest-on-record-who-warns?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/dr-congo-ebola-outbreak-set-to-become-deadliest-on-record-who-warns?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/brazil-orders-discord-to-suspend-livestreams-after-teens-death?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/brazil-orders-discord-to-suspend-livestreams-after-teens-death?traffic_source=rss)
 
 ---
 
-### 9. Lebanese families demand release of detainees held by Israel
+### 8. Iraq says September 30 withdrawal deadline for US-led coalition ‘final’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Lebanese families rallied in Beirut demanding answers about relatives detained by Israel.
+A US official confirmed that the United States expects to complete its pullout by September 30.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/12/lebanese-families-demand-release-of-detainees-held-by-israel?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/12/lebanese-families-demand-release-of-detainees-held-by-israel?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/iraq-says-sept-30-deadline-to-end-us-led-military-coalition-final?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/iraq-says-sept-30-deadline-to-end-us-led-military-coalition-final?traffic_source=rss)
+
+---
+
+### 9. Thousands flee drought in Somalia amid sharp aid decline
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Thousands of hunger-stricken families have lost their livestock and farms due to a yearslong drought in Somalia.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/12/thousands-flee-drought-in-somalia-amid-sharp-aid-decline?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/12/thousands-flee-drought-in-somalia-amid-sharp-aid-decline?traffic_source=rss)
 
 ---
 

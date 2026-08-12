@@ -1,16 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-13 01:38:01
+**Last Update:** 2026-08-13 02:14:11
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Why Can't You Find Canned Sardines?
+### 1. Thanks to social media, canned sardines are a scarcity on the supermarket shelf
 
 **Source:** Hacker News
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/">https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49279013">https://news.ycombinator.com/item?id=49279013</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Points: 28</p>
+<p># Comments: 26</p>
 
 🔗 **Read more:** [https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/](https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/)
 
@@ -35,30 +35,44 @@
 **Description:**
 <p>Article URL: <a href="https://antithesis.com/blog/2026/wal-reset-bug/">https://antithesis.com/blog/2026/wal-reset-bug/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49277799">https://news.ycombinator.com/item?id=49277799</a></p>
-<p>Points: 23</p>
-<p># Comments: 25</p>
+<p>Points: 28</p>
+<p># Comments: 29</p>
 
 🔗 **Read more:** [https://antithesis.com/blog/2026/wal-reset-bug/](https://antithesis.com/blog/2026/wal-reset-bug/)
 
 ---
 
-### 3. Building Security Agents That Cannot Escape Their Trust Boundary
+### 3. Show HN: Programmable timer web app (for gym workouts or stretching sessions)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://cynative.com/blog/agent-trust-boundaries/">https://cynative.com/blog/agent-trust-boundaries/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49277437">https://news.ycombinator.com/item?id=49277437</a></p>
-<p>Points: 3</p>
+<p>Over the last couple of months, I’ve been building a timer web app for myself that I use for workout and stretching sessions. My main use-case is gym routines that consist of repeatable sequences, e.g. where you are holding certain positions for a set time (rinse and repeat). The app counts down the program, beeps, and reads the activities out loud.<p>Two things (I suppose) are special about it:<p>- The timers are “programmable”, so you can freely express your own routines and procedures in a declarative notation.<p>- The app is all static (no backend): the entire program is encoded in the URL and can be bookmarked or shared/transferred via QR-code.<p>You can check it out at <a href="https://timer.jotaen.net" rel="nofollow">https://timer.jotaen.net</a>, optionally with a demo program pre-loaded: <a href="https://timer.jotaen.net/#demo" rel="nofollow">https://timer.jotaen.net/#demo</a>.<p>Source code is at <a href="https://github.com/jotaen/timer" rel="nofollow">https://github.com/jotaen/timer</a>. I’ve also written up a small behind-the-scenes on my blog: <a href="https://www.jotaen.net/SAKxq" rel="nofollow">https://www.jotaen.net/SAKxq</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49276673">https://news.ycombinator.com/item?id=49276673</a></p>
+<p>Points: 6</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://cynative.com/blog/agent-trust-boundaries/](https://cynative.com/blog/agent-trust-boundaries/)
+🔗 **Read more:** [https://timer.jotaen.net](https://timer.jotaen.net)
 
 ---
 
-### 4. Watch: Solar eclipse seen over UK skies
+### 4. Once-in-a-generation solar eclipse wows millions in UK and Europe
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+More than 95% of the Sun was covered by the Moon in Cornwall, while parts of Spain experienced the magic of a total eclipse.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckgdp4923rdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckgdp4923rdo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Watch: Solar eclipse seen over UK skies
 
 **Source:** BBC
 
@@ -71,7 +85,7 @@ Millions of people in the UK and Europe have been wowed by a once-in-a-generatio
 
 ---
 
-### 5. Major Russian grain export terminals hit in Ukraine Black Sea port attack
+### 6. Major Russian grain export terminals hit in Ukraine Black Sea port attack
 
 **Source:** BBC
 
@@ -84,20 +98,33 @@ Grain exports from both Russia and Ukraine are falling as both countries attack 
 
 ---
 
-### 6. Students wait for A-level, T-level and BTec results
+### 7. US strikes in Yemen killed 153 civilians in 2025, says Pentagon review
 
-**Source:** BBC
+**Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Another record number of students are expected to secure a place at their first choice of university.
+The unclassified Pentagon review sheds new light on civilian harm from the US campaign against Yemen’s Houthis.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c8dn8q3r8mzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c8dn8q3r8mzo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/us-strikes-in-yemen-killed-153-civilians-in-2025-says-pentagon-review?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/us-strikes-in-yemen-killed-153-civilians-in-2025-says-pentagon-review?traffic_source=rss)
 
 ---
 
-### 7. PSG win back-to-back UEFA Super Cups with victory over Aston Villa
+### 8. Hegseth cautions that ICC may investigate US boat strikes in Latin America
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+US defence chief vows to continue campaign against drug cartels, says Colombia has joined regional military coalition.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/hegseth-cautions-that-icc-may-investigate-us-boat-strikes-in-latin-america?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/hegseth-cautions-that-icc-may-investigate-us-boat-strikes-in-latin-america?traffic_source=rss)
+
+---
+
+### 9. PSG win back-to-back UEFA Super Cups with victory over Aston Villa
 
 **Source:** Al Jazeera
 
@@ -107,32 +134,6 @@ Another record number of students are expected to secure a place at their first 
 Kvaratskhelia and Doue earn a win for Paris Saint-Germain as 17-year-old Brian Madjo&#039;s goal is in vain for Aston Villa.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/12/psg-win-back-to-back-uefa-super-cups-with-victory-over-aston-villa?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/12/psg-win-back-to-back-uefa-super-cups-with-victory-over-aston-villa?traffic_source=rss)
-
----
-
-### 8. Thousands missing after Colombia quake as rescue continues
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Thousands missing after Colombia quake as rescue continues
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/12/thousands-missing-after-colombia-quake-as-rescue-continues?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/12/thousands-missing-after-colombia-quake-as-rescue-continues?traffic_source=rss)
-
----
-
-### 9. Morocco says working to prevent potential new Ceuta crossings surge
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Morocco Interior Ministry says it has increased security along its borders with the Spanish exclaves Ceuta and Melilla.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/morocco-says-working-to-prevent-potential-new-ceuta-crossings-surge?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/morocco-says-working-to-prevent-potential-new-ceuta-crossings-surge?traffic_source=rss)
 
 ---
 

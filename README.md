@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-13 11:53:14
+**Last Update:** 2026-08-13 12:18:43
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://openai.com/codex/">https://openai.com/codex/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49281916">https://news.ycombinator.com/item?id=49281916</a></p>
-<p>Points: 44</p>
-<p># Comments: 20</p>
+<p>Points: 56</p>
+<p># Comments: 23</p>
 
 🔗 **Read more:** [https://openai.com/codex/](https://openai.com/codex/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://sharktastica.co.uk/articles/pc-fxt-45">https://sharktastica.co.uk/articles/pc-fxt-45</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49280103">https://news.ycombinator.com/item?id=49280103</a></p>
-<p>Points: 81</p>
-<p># Comments: 20</p>
+<p>Points: 82</p>
+<p># Comments: 21</p>
 
 🔗 **Read more:** [https://sharktastica.co.uk/articles/pc-fxt-45](https://sharktastica.co.uk/articles/pc-fxt-45)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://flutter.dev/blog/whats-new-in-flutter-3-47">https://flutter.dev/blog/whats-new-in-flutter-3-47</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49280061">https://news.ycombinator.com/item?id=49280061</a></p>
-<p>Points: 86</p>
-<p># Comments: 76</p>
+<p>Points: 93</p>
+<p># Comments: 86</p>
 
 🔗 **Read more:** [https://flutter.dev/blog/whats-new-in-flutter-3-47](https://flutter.dev/blog/whats-new-in-flutter-3-47)
 
@@ -97,42 +97,42 @@ The UK economy grew by 0.4% with some firms reporting hot weather and sports hel
 
 ---
 
-### 7. US defence secretary says drug cartels will be ‘targeted like ISIS’
+### 7. How to stay safe during an earthquake: A visual guide
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US defence secretary says drug cartels will be ‘targeted like ISIS’
+Earthquakes can happen suddenly, but knowing what to do before, during and after one can reduce the risk of injury.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/13/us-defence-secretary-says-drug-cartels-will-be-targeted-like?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/13/us-defence-secretary-says-drug-cartels-will-be-targeted-like?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/how-to-stay-safe-during-an-earthquake-a-visual-guide?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/how-to-stay-safe-during-an-earthquake-a-visual-guide?traffic_source=rss)
 
 ---
 
-### 8. Malawi shock Algeria and Cameroon beat Morocco to reach WAFCON final
+### 8. Part of children’s hospital collapses in Colombia earthquake
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Malawi will face Cameroon in the Women&#039;s Africa Cup of Nations final after respective wins over Algeria and Morocco.
+Security cameras captured the moment part of a children&#039;s hospital in Cali collapsed.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/13/malawi-shock-algeria-and-cameroon-beat-morocco-to-reach-wafcon-final?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/13/malawi-shock-algeria-and-cameroon-beat-morocco-to-reach-wafcon-final?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/13/13-08-clip-colombia-hospital-co?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/13/13-08-clip-colombia-hospital-co?traffic_source=rss)
 
 ---
 
-### 9. Messi plays in Inter Miami defeat by Leon only hours after retirement hint
+### 9. As temperatures soar, ‘exceptionally serious’ drought imperils UK farmers
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Argentina star Lionel Messi hinted at retirement on Wednesday before featuring in Inter Miami&#039;s defeat by Leon.
+Farmers trying to adapt to extreme weather say even with the best planning, their industry is facing its toughest test.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/13/messi-plays-in-inter-miami-defeat-only-hours-after-retirement-hint?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/13/messi-plays-in-inter-miami-defeat-only-hours-after-retirement-hint?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/uk-drought-imperils-farmers?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/uk-drought-imperils-farmers?traffic_source=rss)
 
 ---
 

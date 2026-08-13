@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-13 18:58:19
+**Last Update:** 2026-08-13 19:53:58
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. McDonald's Built a 515-Page Dossier on Me. It Says I'll Never Stop Eating There
+### 1. Text AI watermarks will always be trivial to remove
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.seangoedecke.com/text-ai-watermarks/">https://www.seangoedecke.com/text-ai-watermarks/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49287153">https://news.ycombinator.com/item?id=49287153</a></p>
+<p>Points: 24</p>
+<p># Comments: 17</p>
+
+🔗 **Read more:** [https://www.seangoedecke.com/text-ai-watermarks/](https://www.seangoedecke.com/text-ai-watermarks/)
+
+---
+
+### 2. I requested a copy of my data from McDonald’s loyalty program
 
 **Source:** Hacker News
 
@@ -19,42 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/">https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49286662">https://news.ycombinator.com/item?id=49286662</a></p>
-<p>Points: 15</p>
-<p># Comments: 0</p>
+<p>Points: 62</p>
+<p># Comments: 56</p>
 
 🔗 **Read more:** [https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/](https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/)
 
 ---
 
-### 2. Kubernetes on Oxide: How Customer Needs Shaped Our Integrations
+### 3. Flock updates privacy, accountability, security, and transparency safeguards
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://oxide.computer/blog/kubernetes-on-oxide">https://oxide.computer/blog/kubernetes-on-oxide</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49286485">https://news.ycombinator.com/item?id=49286485</a></p>
-<p>Points: 16</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.flocksafety.com/blog/flock-guardrails-address-lpr-privacy-concerns-and-police-transparency">https://www.flocksafety.com/blog/flock-guardrails-address-lpr-privacy-concerns-and-police-transparency</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49286654">https://news.ycombinator.com/item?id=49286654</a></p>
+<p>Points: 25</p>
+<p># Comments: 32</p>
 
-🔗 **Read more:** [https://oxide.computer/blog/kubernetes-on-oxide](https://oxide.computer/blog/kubernetes-on-oxide)
-
----
-
-### 3. Graduate Student Proves a Quantum Uncertainty Principle for Fractals
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.quantamagazine.org/graduate-student-proves-the-fractal-uncertainty-principle-20260812/">https://www.quantamagazine.org/graduate-student-proves-the-fractal-uncertainty-principle-20260812/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49286424">https://news.ycombinator.com/item?id=49286424</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://www.quantamagazine.org/graduate-student-proves-the-fractal-uncertainty-principle-20260812/](https://www.quantamagazine.org/graduate-student-proves-the-fractal-uncertainty-principle-20260812/)
+🔗 **Read more:** [https://www.flocksafety.com/blog/flock-guardrails-address-lpr-privacy-concerns-and-police-transparency](https://www.flocksafety.com/blog/flock-guardrails-address-lpr-privacy-concerns-and-police-transparency)
 
 ---
 
@@ -97,7 +97,33 @@ Symptoms after looking at the sun without eclipse glasses can include blurred vi
 
 ---
 
-### 7. Turkiye’s AK Party turns 25: A journey of change and renewal
+### 7. Zambian president Hichilema votes as he seeks second term
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Zambian president Hakainde Hichilema has cast his vote in the capital Lusaka, as he bids for a second term.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/13/zambian-president-hichilema-votes-as-he-seeks-second-term?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/13/zambian-president-hichilema-votes-as-he-seeks-second-term?traffic_source=rss)
+
+---
+
+### 8. Will all-out war in Yemen reignite as the Houthis escalate attacks?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Analysts say Saudi Arabia is strengthening its position with regional allies as the Houthis increase their attacks.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/will-all-out-war-in-yemen-reignite-as-houthis-escalate-attacks?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/will-all-out-war-in-yemen-reignite-as-houthis-escalate-attacks?traffic_source=rss)
+
+---
+
+### 9. Turkiye’s AK Party turns 25: A journey of change and renewal
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Symptoms after looking at the sun without eclipse glasses can include blurred vi
 In a quarter-century, the party has strengthened democracy, driven development and elevated Turkiye’s global standing.
 
 🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/13/turkiyes-ak-party-turns-25-a-journey-of-change-and-renewal?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/13/turkiyes-ak-party-turns-25-a-journey-of-change-and-renewal?traffic_source=rss)
-
----
-
-### 8. Iran says Strait of Hormuz under its control, rejects Trump claims
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Iran asserts full control over the Strait of Hormuz, challenging US claims of dominance in the strategic waterway.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/iran-says-strait-of-hormuz-under-its-control-rejects-trump-claims?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/iran-says-strait-of-hormuz-under-its-control-rejects-trump-claims?traffic_source=rss)
-
----
-
-### 9. Pro-Palestine football fans lament West Ham for signing Manor Solomon
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The 27-year-old Israeli player has used his platform to defend Israel amid the genocide in Gaza.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/pro-palestine-football-fans-lament-west-ham-for-signing-manor-solomon?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/pro-palestine-football-fans-lament-west-ham-for-signing-manor-solomon?traffic_source=rss)
 
 ---
 

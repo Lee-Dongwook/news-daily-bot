@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-14 00:20:43
+**Last Update:** 2026-08-14 00:40:20
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
@@ -19,14 +19,14 @@
 **Description:**
 <p>Article URL: <a href="https://gruhn.me/blog/2026-08-13/">https://gruhn.me/blog/2026-08-13/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49291268">https://news.ycombinator.com/item?id=49291268</a></p>
-<p>Points: 8</p>
-<p># Comments: 0</p>
+<p>Points: 36</p>
+<p># Comments: 9</p>
 
 🔗 **Read more:** [https://gruhn.me/blog/2026-08-13/](https://gruhn.me/blog/2026-08-13/)
 
 ---
 
-### 2. How Gödel's Proof Works
+### 2. How Gödel's Proof Works (2020)
 
 **Source:** Hacker News
 
@@ -35,26 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://www.quantamagazine.org/how-godels-proof-works-20200714/">https://www.quantamagazine.org/how-godels-proof-works-20200714/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49290969">https://news.ycombinator.com/item?id=49290969</a></p>
-<p>Points: 17</p>
-<p># Comments: 5</p>
+<p>Points: 28</p>
+<p># Comments: 12</p>
 
 🔗 **Read more:** [https://www.quantamagazine.org/how-godels-proof-works-20200714/](https://www.quantamagazine.org/how-godels-proof-works-20200714/)
 
 ---
 
-### 3. How Organizations Use AI: Evidence from ChatGPT [pdf]
+### 3. Airbnb Eval-driven development: Lessons from evaluating GenAI at scale
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf">https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49290768">https://news.ycombinator.com/item?id=49290768</a></p>
-<p>Points: 19</p>
-<p># Comments: 7</p>
+<p>Article URL: <a href="https://medium.com/airbnb-engineering/eval-driven-development-lessons-from-evaluating-genai-at-scale-e817e5ae5788">https://medium.com/airbnb-engineering/eval-driven-development-lessons-from-evaluating-genai-at-scale-e817e5ae5788</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49290785">https://news.ycombinator.com/item?id=49290785</a></p>
+<p>Points: 6</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf](https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf)
+🔗 **Read more:** [https://medium.com/airbnb-engineering/eval-driven-development-lessons-from-evaluating-genai-at-scale-e817e5ae5788](https://medium.com/airbnb-engineering/eval-driven-development-lessons-from-evaluating-genai-at-scale-e817e5ae5788)
 
 ---
 
@@ -97,7 +97,33 @@ Top grades and students going to university are on the up, but technical subject
 
 ---
 
-### 7. Are We in the Singularity?
+### 7. Huge explosion rocks Italian munitions factory south of Rome
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+A powerful explosion tore through a munitions faction south of the Italian capital Rome on Thursday.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/13/huge-explosion-rocks-italian-munitions-factory-south-of-rome?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/13/huge-explosion-rocks-italian-munitions-factory-south-of-rome?traffic_source=rss)
+
+---
+
+### 8. Photos: Cuba marks Fidel Castro’s 100th birthday
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Fidel Castro would have turned 100 on Thursday and his legacy continues to overshadow the island.
+
+🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/8/13/photos-cuba-marks-fidel-castros-100th-birthday?traffic_source=rss](https://www.aljazeera.com/gallery/2026/8/13/photos-cuba-marks-fidel-castros-100th-birthday?traffic_source=rss)
+
+---
+
+### 9. Are We in the Singularity?
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Top grades and students going to university are on the up, but technical subject
 Sam Altman just said AI has entered &quot;the singularity.&quot;
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/13/are-we-in-the-singularity?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/13/are-we-in-the-singularity?traffic_source=rss)
-
----
-
-### 8. Sudan army says RSF advance on key town bordering Ethiopia
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Military and government sources say the paramilitary RSF and allies advance into town of Kurmuk in Blue Nile state.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/sudan-army-says-rsf-advance-on-key-town-bordering-ethiopia?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/sudan-army-says-rsf-advance-on-key-town-bordering-ethiopia?traffic_source=rss)
-
----
-
-### 9. Passenger train derails, injuring several in southern England
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-A passenger train derailed near Lewes in East Sussex, England,  injuring at least 11 people, and two of them seriously.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/13/passenger-train-derails-injuring-several-in-southern-england?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/13/passenger-train-derails-injuring-several-in-southern-england?traffic_source=rss)
 
 ---
 

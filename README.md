@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-13 23:26:20
+**Last Update:** 2026-08-14 00:20:43
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. How Organizations Use AI: Evidence from ChatGPT [pdf]
+### 1. NP-Overrated
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://gruhn.me/blog/2026-08-13/">https://gruhn.me/blog/2026-08-13/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49291268">https://news.ycombinator.com/item?id=49291268</a></p>
+<p>Points: 8</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://gruhn.me/blog/2026-08-13/](https://gruhn.me/blog/2026-08-13/)
+
+---
+
+### 2. How Gödel's Proof Works
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.quantamagazine.org/how-godels-proof-works-20200714/">https://www.quantamagazine.org/how-godels-proof-works-20200714/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49290969">https://news.ycombinator.com/item?id=49290969</a></p>
+<p>Points: 17</p>
+<p># Comments: 5</p>
+
+🔗 **Read more:** [https://www.quantamagazine.org/how-godels-proof-works-20200714/](https://www.quantamagazine.org/how-godels-proof-works-20200714/)
+
+---
+
+### 3. How Organizations Use AI: Evidence from ChatGPT [pdf]
 
 **Source:** Hacker News
 
@@ -19,55 +51,23 @@
 **Description:**
 <p>Article URL: <a href="https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf">https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49290768">https://news.ycombinator.com/item?id=49290768</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
+<p>Points: 19</p>
+<p># Comments: 7</p>
 
 🔗 **Read more:** [https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf](https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf)
 
 ---
 
-### 2. Show HN: Pixy, visual editor for coding agents, like Figma on your live site
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://pixydesignapp.com/">https://pixydesignapp.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49290629">https://news.ycombinator.com/item?id=49290629</a></p>
-<p>Points: 4</p>
-<p># Comments: 3</p>
-
-🔗 **Read more:** [https://pixydesignapp.com/](https://pixydesignapp.com/)
-
----
-
-### 3. Understanding is the new bottleneck
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck">https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49290299">https://news.ycombinator.com/item?id=49290299</a></p>
-<p>Points: 14</p>
-<p># Comments: 3</p>
-
-🔗 **Read more:** [https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck](https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck)
-
----
-
-### 4. Aerial footage shows derailed train
+### 4. Watch: Houses engulfed in flames across Stourbridge
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-A train has derailed near Lewes in East Sussex, British Transport Police say.
+Multiple fires burned across the West Midlands and destroyed homes there.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cn5np5x00edo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cn5np5x00edo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c3v0ykk4lplo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c3v0ykk4lplo?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +97,42 @@ Top grades and students going to university are on the up, but technical subject
 
 ---
 
-### 7. Colombia earthquake: Hospitals adapt to save lives amid widespread damage
+### 7. Are We in the Singularity?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Earthquake damages Cali&#039;s hospitals, forcing medical staff to prioritize critical patients as rescue teams work nonstop.
+Sam Altman just said AI has entered &quot;the singularity.&quot;
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/colombia-earthquake-hospitals-adapt-to-save-lives-amid-widespread-damage?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/colombia-earthquake-hospitals-adapt-to-save-lives-amid-widespread-damage?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/13/are-we-in-the-singularity?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/13/are-we-in-the-singularity?traffic_source=rss)
 
 ---
 
-### 8. Europe swelters in latest wave of extreme heat
+### 8. Sudan army says RSF advance on key town bordering Ethiopia
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-UK records its hottest day of the year as the temperature in west London reaches 38.1 degrees Celsius.
+Military and government sources say the paramilitary RSF and allies advance into town of Kurmuk in Blue Nile state.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/europe-swelters-in-latest-wave-of-extreme-heat?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/europe-swelters-in-latest-wave-of-extreme-heat?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/sudan-army-says-rsf-advance-on-key-town-bordering-ethiopia?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/sudan-army-says-rsf-advance-on-key-town-bordering-ethiopia?traffic_source=rss)
 
 ---
 
-### 9. Carrick urges Manchester United to sign more transfers to boost title bid
+### 9. Passenger train derails, injuring several in southern England
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-United&#039;s preseason outlay pales in comparison with some of their fellow title contenders.
+A passenger train derailed near Lewes in East Sussex, England,  injuring at least 11 people, and two of them seriously.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/13/carrick-urges-manchester-united-to-sign-more-transfers-to-boost-title-bid?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/13/carrick-urges-manchester-united-to-sign-more-transfers-to-boost-title-bid?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/13/passenger-train-derails-injuring-several-in-southern-england?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/13/passenger-train-derails-injuring-several-in-southern-england?traffic_source=rss)
 
 ---
 

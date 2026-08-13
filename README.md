@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-13 15:20:22
+**Last Update:** 2026-08-13 15:35:01
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
@@ -71,68 +71,68 @@ Critics - including Labour MP Jess Phillips - have accused the Met of overlookin
 
 ---
 
-### 5. UK defends seizing shadow fleet tanker after Putin threat
+### 5. Water bills set to rise for many after firms permitted extra funding
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The UK government says it is "disrupting and deterring shadow fleet vessels" in accordance with the law.
+Ofwat has given provisional approval for 13 water companies to charge customers more to pay for investments.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cn0npn249qvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cn0npn249qvo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2j1j5ypjdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2j1j5ypjdo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Once-in-a-generation solar eclipse wows millions in UK and Europe
+### 6. Watch: Key moments from Karoline Leavitt's White House tenure as Trump says she will leave post
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-More than 95% of the Sun was covered by the Moon in Cornwall, while parts of Spain experienced the magic of a total eclipse.
+Leavitt became the youngest press secretary in the country's history when she took the job in January 2025 at age 27.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckgdp4923rdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckgdp4923rdo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c86nd59z7vqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c86nd59z7vqo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Israel trucks out Gaza’s rubble to ‘hide genocide’ and ‘redraw the map’
+### 7. Five charts that explain the high cost of living in the UK
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israel carts away Gaza&#039;s rubble to destroy war crimes evidence and make the landscape unliveable, rights groups say.
+UK Prime Minister Andy Burnham is on a nationwide tour to listen to the ‘financial concerns’ of the people.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/13/israel-trucks-out-gazas-rubble-to-hide-genocide-and-redraw-the-map?traffic_source=rss](https://www.aljazeera.com/features/2026/8/13/israel-trucks-out-gazas-rubble-to-hide-genocide-and-redraw-the-map?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/five-charts-that-explain-the-high-cost-of-living-in-the-uk?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/five-charts-that-explain-the-high-cost-of-living-in-the-uk?traffic_source=rss)
 
 ---
 
-### 8. Fulham walk off in Malaga in friendly repeat of Senegal AFCON final protest
+### 8. US-Iran talks in deadlock – what’s the latest?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Fulham&#039;s friendly in Malaga turned sour as the Premier League club walked off ahead of a penalty shootout.
+The US and Iran continue their standoff in the Strait of Hormuz as mediators try to coax talks.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/13/fulham-march-off-in-malaga-in-friendly-repeat-of-senegal-afcon-protest?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/13/fulham-march-off-in-malaga-in-friendly-repeat-of-senegal-afcon-protest?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/us-iran-talks-in-deadlock-whats-the-latest?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/us-iran-talks-in-deadlock-whats-the-latest?traffic_source=rss)
 
 ---
 
-### 9. Civilian deaths in Ukraine in July hit highest level since May 2022: UN
+### 9. Colombia earthquake response tests new far-right government
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-At least 437 civilians were killed and 2,610 injured in Ukraine in July, the UN Human Rights Monitoring Mission said.
+Disaster tests President Abelardo de la Espriella and his government as it scrambles to find survivors and provide aid.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/civilian-deaths-in-ukraine-in-july-hit-highest-level-since-may-2022-un?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/civilian-deaths-in-ukraine-in-july-hit-highest-level-since-may-2022-un?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/colombia-earthquake-response-tests-new-far-right-government?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/colombia-earthquake-response-tests-new-far-right-government?traffic_source=rss)
 
 ---
 

@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-13 03:34:11
+**Last Update:** 2026-08-13 05:42:09
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: A marketplace where AI agents buy services from AI agents
+### 1. What is AI governance and how to operationalize it?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://aaas-marketplace-1089237826218.asia-northeast1.run.app">https://aaas-marketplace-1089237826218.asia-northeast1.run.app</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49279804">https://news.ycombinator.com/item?id=49279804</a></p>
-<p>Points: 6</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://www.etherionconsulting.com/blog/what-is-ai-governance-and-how-to-operationalize-it/">https://www.etherionconsulting.com/blog/what-is-ai-governance-and-how-to-operationalize-it/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49280585">https://news.ycombinator.com/item?id=49280585</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://aaas-marketplace-1089237826218.asia-northeast1.run.app](https://aaas-marketplace-1089237826218.asia-northeast1.run.app)
+🔗 **Read more:** [https://www.etherionconsulting.com/blog/what-is-ai-governance-and-how-to-operationalize-it/](https://www.etherionconsulting.com/blog/what-is-ai-governance-and-how-to-operationalize-it/)
 
 ---
 
-### 2. I built a browser-native SysEx librarian for 80s/90s synthesizers
+### 2. Show HN: Ballet – Workflow automation that writes integrations against any API
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://bipluk.com/">https://bipluk.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49279628">https://news.ycombinator.com/item?id=49279628</a></p>
-<p>Points: 5</p>
+<p>Article URL: <a href="https://www.ballet.dev/">https://www.ballet.dev/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49280184">https://news.ycombinator.com/item?id=49280184</a></p>
+<p>Points: 17</p>
 <p># Comments: 2</p>
 
-🔗 **Read more:** [https://bipluk.com/](https://bipluk.com/)
+🔗 **Read more:** [https://www.ballet.dev/](https://www.ballet.dev/)
 
 ---
 
-### 3. Process as a Proxy for Motivation
+### 3. Happy 45th Birthday to the IBM PC and Model F/XT
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://bengodfrey.dev/blog/process/">https://bengodfrey.dev/blog/process/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49279197">https://news.ycombinator.com/item?id=49279197</a></p>
-<p>Points: 7</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://sharktastica.co.uk/articles/pc-fxt-45">https://sharktastica.co.uk/articles/pc-fxt-45</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49280103">https://news.ycombinator.com/item?id=49280103</a></p>
+<p>Points: 29</p>
+<p># Comments: 6</p>
 
-🔗 **Read more:** [https://bengodfrey.dev/blog/process/](https://bengodfrey.dev/blog/process/)
+🔗 **Read more:** [https://sharktastica.co.uk/articles/pc-fxt-45](https://sharktastica.co.uk/articles/pc-fxt-45)
 
 ---
 
@@ -71,20 +71,7 @@ More than 95% of the Sun was covered by the Moon in Cornwall, while parts of Spa
 
 ---
 
-### 5. Millions watch 'surreal' solar eclipse in UK and Europe
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-More than 90% of the Sun was covered by the Moon in the UK, while a full eclipse was visible in Spain and Iceland.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c5yr891pp5eo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c5yr891pp5eo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Major Russian grain export terminals hit in Ukraine Black Sea port attack
+### 5. Major Russian grain export terminals hit in Ukraine Black Sea port attack
 
 **Source:** BBC
 
@@ -97,7 +84,46 @@ Grain exports from both Russia and Ukraine are falling as both countries attack 
 
 ---
 
-### 7. Trump administration arrests Southern Poverty Law Center expert for fraud
+### 6. Students wait for A-level, T-level and BTec results
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Another record number of students are expected to secure a place at their first choice of university.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c8dn8q3r8mzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c8dn8q3r8mzo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 7. Half a tonne of Erling Haaland branded cocaine seized in Ecuador
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Erling Haaland’s name and image turned up on hundreds of cocaine bricks seized by Ecuadorian police.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/13/aje-onl-nf_erling-haaland-branded-cocaine-seized-in-ecuador-120826?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/13/aje-onl-nf_erling-haaland-branded-cocaine-seized-in-ecuador-120826?traffic_source=rss)
+
+---
+
+### 8. Iran war live: US, Tehran exchange opposing claims over Hormuz control
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+President Trump again insists US has &#039;total control&#039; of strait, while Tehran resolute that the US must meet its demands.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/8/13/iran-war-live-us-and-iran-exchange-opposing-claims-over-hormuz-control?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/8/13/iran-war-live-us-and-iran-exchange-opposing-claims-over-hormuz-control?traffic_source=rss)
+
+---
+
+### 9. Trump administration arrests Southern Poverty Law Center expert for fraud
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Grain exports from both Russia and Ukraine are falling as both countries attack 
 Heidi Beirich, an expert on far-right groups, has been charged over alleged misuse of donor funds to pay informants.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/trump-administration-arrests-southern-poverty-law-center-expert-for-fraud?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/trump-administration-arrests-southern-poverty-law-center-expert-for-fraud?traffic_source=rss)
-
----
-
-### 8. Media groups sue Trump over paid access to public social media posts
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Lawsuit claims Trump profits unfairly by charging up to $100,000 monthly for exclusive access to presidential posts.
-
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/12/media-groups-sue-trump-over-paid-access-to-public-social-media-posts?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/12/media-groups-sue-trump-over-paid-access-to-public-social-media-posts?traffic_source=rss)
-
----
-
-### 9. Trump administration plans to give ICE officers electric-shock gloves
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-US Homeland Security is expected to buy up to $20m in gloves amid criticism of the president&#039;s immigration crackdown.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/trump-administration-plans-to-give-ice-officers-electric-shock-gloves?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/trump-administration-plans-to-give-ice-officers-electric-shock-gloves?traffic_source=rss)
 
 ---
 

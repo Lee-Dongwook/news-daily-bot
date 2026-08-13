@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-13 19:53:58
+**Last Update:** 2026-08-13 20:28:23
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.seangoedecke.com/text-ai-watermarks/">https://www.seangoedecke.com/text-ai-watermarks/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49287153">https://news.ycombinator.com/item?id=49287153</a></p>
-<p>Points: 24</p>
-<p># Comments: 17</p>
+<p>Points: 41</p>
+<p># Comments: 28</p>
 
 🔗 **Read more:** [https://www.seangoedecke.com/text-ai-watermarks/](https://www.seangoedecke.com/text-ai-watermarks/)
 
@@ -35,39 +35,39 @@
 **Description:**
 <p>Article URL: <a href="https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/">https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49286662">https://news.ycombinator.com/item?id=49286662</a></p>
-<p>Points: 62</p>
-<p># Comments: 56</p>
+<p>Points: 92</p>
+<p># Comments: 95</p>
 
 🔗 **Read more:** [https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/](https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/)
 
 ---
 
-### 3. Flock updates privacy, accountability, security, and transparency safeguards
+### 3. Kubernetes on Oxide: How customer needs shaped our integrations
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.flocksafety.com/blog/flock-guardrails-address-lpr-privacy-concerns-and-police-transparency">https://www.flocksafety.com/blog/flock-guardrails-address-lpr-privacy-concerns-and-police-transparency</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49286654">https://news.ycombinator.com/item?id=49286654</a></p>
-<p>Points: 25</p>
-<p># Comments: 32</p>
+<p>Article URL: <a href="https://oxide.computer/blog/kubernetes-on-oxide">https://oxide.computer/blog/kubernetes-on-oxide</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49286485">https://news.ycombinator.com/item?id=49286485</a></p>
+<p>Points: 67</p>
+<p># Comments: 18</p>
 
-🔗 **Read more:** [https://www.flocksafety.com/blog/flock-guardrails-address-lpr-privacy-concerns-and-police-transparency](https://www.flocksafety.com/blog/flock-guardrails-address-lpr-privacy-concerns-and-police-transparency)
+🔗 **Read more:** [https://oxide.computer/blog/kubernetes-on-oxide](https://oxide.computer/blog/kubernetes-on-oxide)
 
 ---
 
-### 4. Water bills set to rise for many after firms permitted extra funding
+### 4. Five key takeaways from results day 2026
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Ofwat has given provisional approval for 13 water companies to charge customers more to pay for investments.
+Top grades and students going to university are on the up, but technical subjects are also becoming more popular.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2j1j5ypjdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2j1j5ypjdo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/clyqpqxv04go?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/clyqpqxv04go?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -84,20 +84,33 @@ Phillip Ormerod was taken to hospital in critical condition and later died, poli
 
 ---
 
-### 6. The key signs you may have damaged your eyes by looking at the eclipse
+### 6. Water bills set to rise for many after firms permitted extra funding
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Symptoms after looking at the sun without eclipse glasses can include blurred vision
+Ofwat has given provisional approval for 13 water companies to charge customers more to pay for investments.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c4gk0dq81j2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c4gk0dq81j2o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2j1j5ypjdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2j1j5ypjdo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Zambian president Hichilema votes as he seeks second term
+### 7. Is Russia’s economy cracking despite the Iran war windfall?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+A widening deficit and Ukrainian strikes are testing Russia&#039;s economy, even as war in the Middle East lifts oil revenue.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/counting-the-cost/2026/8/13/is-russias-economy-cracking-despite-the-iran-war-windfall?traffic_source=rss](https://www.aljazeera.com/video/counting-the-cost/2026/8/13/is-russias-economy-cracking-despite-the-iran-war-windfall?traffic_source=rss)
+
+---
+
+### 8. Zambian president Hichilema votes as he seeks second term
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Zambian president Hakainde Hichilema has cast his vote in the capital Lusaka, as
 
 ---
 
-### 8. Will all-out war in Yemen reignite as the Houthis escalate attacks?
+### 9. Will all-out war in Yemen reignite as the Houthis escalate attacks?
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Zambian president Hakainde Hichilema has cast his vote in the capital Lusaka, as
 Analysts say Saudi Arabia is strengthening its position with regional allies as the Houthis increase their attacks.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/will-all-out-war-in-yemen-reignite-as-houthis-escalate-attacks?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/will-all-out-war-in-yemen-reignite-as-houthis-escalate-attacks?traffic_source=rss)
-
----
-
-### 9. Turkiye’s AK Party turns 25: A journey of change and renewal
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-In a quarter-century, the party has strengthened democracy, driven development and elevated Turkiye’s global standing.
-
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/13/turkiyes-ak-party-turns-25-a-journey-of-change-and-renewal?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/13/turkiyes-ak-party-turns-25-a-journey-of-change-and-renewal?traffic_source=rss)
 
 ---
 

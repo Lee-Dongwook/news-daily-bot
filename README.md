@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-13 16:48:20
+**Last Update:** 2026-08-13 17:24:14
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Deutsche Bank becomes first foreign yuan clearing bank in Europe
+### 1. Choosing an AI model: one prompt, 11 models, different results
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/">https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49284774">https://news.ycombinator.com/item?id=49284774</a></p>
-<p>Points: 118</p>
-<p># Comments: 74</p>
+<p>Article URL: <a href="https://www.netlify.com/blog/one-prompt-11-models-very-different-results/">https://www.netlify.com/blog/one-prompt-11-models-very-different-results/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49285327">https://news.ycombinator.com/item?id=49285327</a></p>
+<p>Points: 27</p>
+<p># Comments: 6</p>
 
-🔗 **Read more:** [https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/](https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/)
+🔗 **Read more:** [https://www.netlify.com/blog/one-prompt-11-models-very-different-results/](https://www.netlify.com/blog/one-prompt-11-models-very-different-results/)
 
 ---
 
-### 2. ATG (YC F25) Is Hiring Member of Technical Staff (Data Platform)
+### 2. My Rules for Using Spreadsheets
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://atg.science/careers">https://atg.science/careers</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49284697">https://news.ycombinator.com/item?id=49284697</a></p>
-<p>Points: 0</p>
+<p>Article URL: <a href="https://leancrew.com/all-this/2026/08/my-rules-for-using-spreadsheets/">https://leancrew.com/all-this/2026/08/my-rules-for-using-spreadsheets/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49285268">https://news.ycombinator.com/item?id=49285268</a></p>
+<p>Points: 8</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://leancrew.com/all-this/2026/08/my-rules-for-using-spreadsheets/](https://leancrew.com/all-this/2026/08/my-rules-for-using-spreadsheets/)
+
+---
+
+### 3. DeepSeek Harness
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/deepseek-ai/deepseek-harness">https://github.com/deepseek-ai/deepseek-harness</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49285244">https://news.ycombinator.com/item?id=49285244</a></p>
+<p>Points: 18</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://atg.science/careers](https://atg.science/careers)
-
----
-
-### 3. Rapid warming may tip AMOC at 2°C, slower warming may avert collapse
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://phys.org/news/2026-08-rapid-atlantic-circulation-2c-slower.html">https://phys.org/news/2026-08-rapid-atlantic-circulation-2c-slower.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49283840">https://news.ycombinator.com/item?id=49283840</a></p>
-<p>Points: 19</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://phys.org/news/2026-08-rapid-atlantic-circulation-2c-slower.html](https://phys.org/news/2026-08-rapid-atlantic-circulation-2c-slower.html)
+🔗 **Read more:** [https://github.com/deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
 
 ---
 
@@ -97,7 +97,20 @@ Symptoms after looking at the sun without eclipse glasses can include blurred vi
 
 ---
 
-### 7. Turkiye lays out ‘mechanisms’ of defence pact with Pakistan, Saudi Arabia
+### 7. Spanish Super Cup will be held in Turkiye in 2027
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The tournament from February 2 to 7 will feature Barcelona, Real Madrid, Atletico Madrid and Real Sociedad.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/13/spanish-super-cup-will-be-held-in-turkiye-in-2027?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/13/spanish-super-cup-will-be-held-in-turkiye-in-2027?traffic_source=rss)
+
+---
+
+### 8. Turkiye lays out ‘mechanisms’ of defence pact with Pakistan, Saudi Arabia
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Three nations to group ministers, hold ⁠joint exercises and deepen defence ind
 
 ---
 
-### 8. Falling Danube flow forces shutdown of Romania’s sole nuclear plant
+### 9. Falling Danube flow forces shutdown of Romania’s sole nuclear plant
 
 **Source:** Al Jazeera
 
@@ -123,20 +136,7 @@ Romania had tried to avert a total shutdown of the plant, which usually generate
 
 ---
 
-### 9. Infantino’s FIFA fate must go to an election, says Africa football chief
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-CAF have given under-fire Gianni Infantino their backing, and now say the FIFA president must stand in March&#039;s election.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/13/infantinos-fifa-fate-must-go-to-an-election-says-african-football-chief?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/13/infantinos-fifa-fate-must-go-to-an-election-says-african-football-chief?traffic_source=rss)
-
----
-
-### 10. Tropical Storm Cristobal
+### 10. Tropical Storm Hernan
 
 **Source:** NASA
 
@@ -145,11 +145,11 @@ CAF have given under-fire Gianni Infantino their backing, and now say the FIFA p
 **Description:**
 Natural event: Severe Storms
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22560](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22560)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562)
 
 ---
 
-### 11. Tropical Storm 15W
+### 11. Tropical Storm Nangka
 
 **Source:** NASA
 
@@ -158,20 +158,20 @@ Natural event: Severe Storms
 **Description:**
 Natural event: Severe Storms
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22386](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22386)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561)
 
 ---
 
-### 12. Wildfire Harris, Rosebud, Montana
+### 12. Tropical Storm 01C
 
 **Source:** NASA
 
 **Category:** nature
 
 **Description:**
-Natural event: Wildfires
+Natural event: Severe Storms
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22430](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22430)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563)
 
 ---
 

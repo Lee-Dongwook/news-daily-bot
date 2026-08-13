@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-13 20:55:39
+**Last Update:** 2026-08-13 21:30:57
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Gemini 3.7 Flash
+### 1. Choose Boring Technology (2015)
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://mcfunley.com/choose-boring-technology">https://mcfunley.com/choose-boring-technology</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49289512">https://news.ycombinator.com/item?id=49289512</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://mcfunley.com/choose-boring-technology](https://mcfunley.com/choose-boring-technology)
+
+---
+
+### 2. Donkey.bas is 45 Years Old – 131 line of Glory
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://donkeybas.com/">https://donkeybas.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49289465">https://news.ycombinator.com/item?id=49289465</a></p>
+<p>Points: 5</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://donkeybas.com/](https://donkeybas.com/)
+
+---
+
+### 3. Gemini 3.7 Flash
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://ai.google.dev/gemini-api/docs/models/gemini-3.7-flash">https://ai.google.dev/gemini-api/docs/models/gemini-3.7-flash</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49289112">https://news.ycombinator.com/item?id=49289112</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
+<p>Points: 120</p>
+<p># Comments: 62</p>
 
 🔗 **Read more:** [https://ai.google.dev/gemini-api/docs/models/gemini-3.7-flash](https://ai.google.dev/gemini-api/docs/models/gemini-3.7-flash)
-
----
-
-### 2. Mistral OCR 4.1
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://docs.mistral.ai/models/ocr-4-1">https://docs.mistral.ai/models/ocr-4-1</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49288889">https://news.ycombinator.com/item?id=49288889</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://docs.mistral.ai/models/ocr-4-1](https://docs.mistral.ai/models/ocr-4-1)
-
----
-
-### 3. Mozilla says stricter antitrust measures against Google 'threaten Firefox'
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.techcentral.ie/mozilla-says-stricter-antitrust-measures-against-google-threaten-firefox/">https://www.techcentral.ie/mozilla-says-stricter-antitrust-measures-against-google-threaten-firefox/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49288324">https://news.ycombinator.com/item?id=49288324</a></p>
-<p>Points: 6</p>
-<p># Comments: 6</p>
-
-🔗 **Read more:** [https://www.techcentral.ie/mozilla-says-stricter-antitrust-measures-against-google-threaten-firefox/](https://www.techcentral.ie/mozilla-says-stricter-antitrust-measures-against-google-threaten-firefox/)
 
 ---
 
@@ -97,7 +97,20 @@ Top grades and students going to university are on the up, but technical subject
 
 ---
 
-### 7. DR Congo Ebola outbreak spreads to a sixth province
+### 7. Trump administration ‘gutted’ federal civil rights enforcement, HRW says
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+A new report finds key federal agencies have stopped providing oversight of civil rights laws nationally.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/trump-administration-gutted-federal-civil-rights-enforcement-hrw-says?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/trump-administration-gutted-federal-civil-rights-enforcement-hrw-says?traffic_source=rss)
+
+---
+
+### 8. DR Congo Ebola outbreak spreads to a sixth province
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Ebola outbreak has killed 2,128 people out of around 4,566 recorded cases in the
 
 ---
 
-### 8. China and Indonesia’s joint naval drills anger Taiwan
+### 9. China and Indonesia’s joint naval drills anger Taiwan
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Ebola outbreak has killed 2,128 people out of around 4,566 recorded cases in the
 Chinese state media have released footage of a joint naval drill with Indonesia in waters east of Taiwan.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/13/china-and-indonesias-joint-naval-drills-anger-taiwan?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/13/china-and-indonesias-joint-naval-drills-anger-taiwan?traffic_source=rss)
-
----
-
-### 9. Reports of US sailors in Middle East trying to jump ship spark outcry
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-US senators call for inquiry as USS Lincoln has record-long period without port stop amid war on Iran.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/reports-of-us-sailors-in-middle-east-trying-to-jump-ship-spark-outcry?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/reports-of-us-sailors-in-middle-east-trying-to-jump-ship-spark-outcry?traffic_source=rss)
 
 ---
 

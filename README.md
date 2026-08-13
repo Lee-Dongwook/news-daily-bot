@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-13 08:23:33
+**Last Update:** 2026-08-13 08:44:56
 
 **Total News:** 12
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.ballet.dev/">https://www.ballet.dev/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49280184">https://news.ycombinator.com/item?id=49280184</a></p>
-<p>Points: 25</p>
-<p># Comments: 3</p>
+<p>Points: 27</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://www.ballet.dev/](https://www.ballet.dev/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://sharktastica.co.uk/articles/pc-fxt-45">https://sharktastica.co.uk/articles/pc-fxt-45</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49280103">https://news.ycombinator.com/item?id=49280103</a></p>
-<p>Points: 47</p>
-<p># Comments: 16</p>
+<p>Points: 51</p>
+<p># Comments: 17</p>
 
 🔗 **Read more:** [https://sharktastica.co.uk/articles/pc-fxt-45](https://sharktastica.co.uk/articles/pc-fxt-45)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://adapt.com/blog/build-wide-ship-narrow">https://adapt.com/blog/build-wide-ship-narrow</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49280047">https://news.ycombinator.com/item?id=49280047</a></p>
-<p>Points: 62</p>
-<p># Comments: 9</p>
+<p>Points: 66</p>
+<p># Comments: 11</p>
 
 🔗 **Read more:** [https://adapt.com/blog/build-wide-ship-narrow](https://adapt.com/blog/build-wide-ship-narrow)
 
@@ -97,7 +97,20 @@ Heat will spike again on Thursday with a rare warning in place and more records 
 
 ---
 
-### 7. Search efforts in Colombia enter ‘final phase’ as quake toll reaches 265
+### 7. Three Palestinian families besieged in their homes by Israeli settlers
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Three Palestinian families in Qusra, occupied West Bank, are being besieged inside their homes.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/13/three-palestinian-families-besieged-in-their-homes-by-israeli-settlers?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/13/three-palestinian-families-besieged-in-their-homes-by-israeli-settlers?traffic_source=rss)
+
+---
+
+### 8. Search efforts in Colombia enter ‘final phase’ as quake toll reaches 265
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ President de La Espriella promises to set up an emergency fund to help rebuild d
 
 ---
 
-### 8. Oman says oil spill from stricken tanker has reached its coast
+### 9. Oman says oil spill from stricken tanker has reached its coast
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ President de La Espriella promises to set up an emergency fund to help rebuild d
 Up to 40km of coastline affected by oil pollution, Omani environmental authority says.
 
 🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/13/oman-says-oil-spill-from-stricken-tanker-has-reached-its-coast?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/13/oman-says-oil-spill-from-stricken-tanker-has-reached-its-coast?traffic_source=rss)
-
----
-
-### 9. Israeli settlers besiege three Palestinian families in West Bank’s Qusra
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Dozens of settlers besiege Palestinian families in Qusra, cutting off water, power and essential supplies.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/israeli-settlers-besiege-three-palestinian-families-in-occupied-west-bank?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/israeli-settlers-besiege-three-palestinian-families-in-occupied-west-bank?traffic_source=rss)
 
 ---
 

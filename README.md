@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-13 18:30:41
+**Last Update:** 2026-08-13 18:58:19
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Kubernetes on Oxide: How Customer Needs Shaped Our Integrations
+### 1. McDonald's Built a 515-Page Dossier on Me. It Says I'll Never Stop Eating There
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/">https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49286662">https://news.ycombinator.com/item?id=49286662</a></p>
+<p>Points: 15</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/](https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/)
+
+---
+
+### 2. Kubernetes on Oxide: How Customer Needs Shaped Our Integrations
 
 **Source:** Hacker News
 
@@ -19,26 +35,10 @@
 **Description:**
 <p>Article URL: <a href="https://oxide.computer/blog/kubernetes-on-oxide">https://oxide.computer/blog/kubernetes-on-oxide</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49286485">https://news.ycombinator.com/item?id=49286485</a></p>
-<p>Points: 5</p>
+<p>Points: 16</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://oxide.computer/blog/kubernetes-on-oxide](https://oxide.computer/blog/kubernetes-on-oxide)
-
----
-
-### 2. US vs. UK Baby Names 2025: The Biggest Top Differences Visualized
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://namedaisy.com/blog/us-vs-uk-top-100-baby-names-2025">https://namedaisy.com/blog/us-vs-uk-top-100-baby-names-2025</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49286435">https://news.ycombinator.com/item?id=49286435</a></p>
-<p>Points: 5</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://namedaisy.com/blog/us-vs-uk-top-100-baby-names-2025](https://namedaisy.com/blog/us-vs-uk-top-100-baby-names-2025)
 
 ---
 
@@ -51,7 +51,7 @@
 **Description:**
 <p>Article URL: <a href="https://www.quantamagazine.org/graduate-student-proves-the-fractal-uncertainty-principle-20260812/">https://www.quantamagazine.org/graduate-student-proves-the-fractal-uncertainty-principle-20260812/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49286424">https://news.ycombinator.com/item?id=49286424</a></p>
-<p>Points: 3</p>
+<p>Points: 6</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://www.quantamagazine.org/graduate-student-proves-the-fractal-uncertainty-principle-20260812/](https://www.quantamagazine.org/graduate-student-proves-the-fractal-uncertainty-principle-20260812/)
@@ -97,7 +97,33 @@ Symptoms after looking at the sun without eclipse glasses can include blurred vi
 
 ---
 
-### 7. Pro-Palestine football fans lament West Ham for signing Manor Solomon
+### 7. Turkiye’s AK Party turns 25: A journey of change and renewal
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+In a quarter-century, the party has strengthened democracy, driven development and elevated Turkiye’s global standing.
+
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/13/turkiyes-ak-party-turns-25-a-journey-of-change-and-renewal?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/13/turkiyes-ak-party-turns-25-a-journey-of-change-and-renewal?traffic_source=rss)
+
+---
+
+### 8. Iran says Strait of Hormuz under its control, rejects Trump claims
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Iran asserts full control over the Strait of Hormuz, challenging US claims of dominance in the strategic waterway.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/iran-says-strait-of-hormuz-under-its-control-rejects-trump-claims?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/iran-says-strait-of-hormuz-under-its-control-rejects-trump-claims?traffic_source=rss)
+
+---
+
+### 9. Pro-Palestine football fans lament West Ham for signing Manor Solomon
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Symptoms after looking at the sun without eclipse glasses can include blurred vi
 The 27-year-old Israeli player has used his platform to defend Israel amid the genocide in Gaza.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/pro-palestine-football-fans-lament-west-ham-for-signing-manor-solomon?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/pro-palestine-football-fans-lament-west-ham-for-signing-manor-solomon?traffic_source=rss)
-
----
-
-### 8. Oman says massive oil spill reaches coastline: What damage could it do?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Oil has been spilling from the Caroline Bezengi, a tanker that has been leaking crude since running aground off Oman.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/oman-says-massive-oil-spill-reaches-coastline-what-damage-could-it-do?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/oman-says-massive-oil-spill-reaches-coastline-what-damage-could-it-do?traffic_source=rss)
-
----
-
-### 9. Ukraine attacks key Russian grain terminal on Black Sea port
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Ukraine has damaged Russia’s grain export terminals in an attack on the Novorossiysk port.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/13/13-08-sv-ukraine-russia-grain-attack-ur?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/13/13-08-sv-ukraine-russia-grain-attack-ur?traffic_source=rss)
 
 ---
 

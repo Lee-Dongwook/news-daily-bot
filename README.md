@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-14 06:34:04
+**Last Update:** 2026-08-14 08:20:07
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** Al Jazeera, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Bluesky Protocol Services
+### 1. US conducted mass spying campaign against leftwing and anti-ICE protesters
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.theguardian.com/us-news/2026/aug/13/us-government-spied-anti-ice-protesters">https://www.theguardian.com/us-news/2026/aug/13/us-government-spied-anti-ice-protesters</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49294199">https://news.ycombinator.com/item?id=49294199</a></p>
+<p>Points: 148</p>
+<p># Comments: 44</p>
+
+🔗 **Read more:** [https://www.theguardian.com/us-news/2026/aug/13/us-government-spied-anti-ice-protesters](https://www.theguardian.com/us-news/2026/aug/13/us-government-spied-anti-ice-protesters)
+
+---
+
+### 2. Bluesky Protocol Services
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://atproto.com/blog/introducing-bluesky-protocol-services">https://atproto.com/blog/introducing-bluesky-protocol-services</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49293324">https://news.ycombinator.com/item?id=49293324</a></p>
-<p>Points: 78</p>
-<p># Comments: 18</p>
+<p>Points: 107</p>
+<p># Comments: 21</p>
 
 🔗 **Read more:** [https://atproto.com/blog/introducing-bluesky-protocol-services](https://atproto.com/blog/introducing-bluesky-protocol-services)
 
 ---
 
-### 2. SparrowMap – Cameras that watch government vehicles
+### 3. SparrowMap – Cameras that watch government vehicles
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://sparrowmap.com/">https://sparrowmap.com/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49293294">https://news.ycombinator.com/item?id=49293294</a></p>
-<p>Points: 66</p>
-<p># Comments: 13</p>
+<p>Points: 137</p>
+<p># Comments: 33</p>
 
 🔗 **Read more:** [https://sparrowmap.com/](https://sparrowmap.com/)
-
----
-
-### 3. Blog about things you don't understand yet
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/">https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49293087">https://news.ycombinator.com/item?id=49293087</a></p>
-<p>Points: 19</p>
-<p># Comments: 3</p>
-
-🔗 **Read more:** [https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/](https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/)
 
 ---
 
@@ -97,81 +97,42 @@ Multiple fires burned across the West Midlands and destroyed homes.
 
 ---
 
-### 7. UN, Palestinian ministry condemn Israeli settler siege of West Bank homes
+### 7. Al Jazeera speaks to Count Binface as Farage claims Clacton victory
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-UN rights office and Palestine Foreign Ministry call days-long Israeli settler siege in Qusra &#039;criminal&#039; and &#039;inhumane&#039;.
+Al Jazeera’s Jonah Hull spoke to candidate for MP, Count Binface, as votes were counted in Clacton.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/14/un-palestinian-ministry-condemn-israeli-settler-siege-of-west-bank-homes?traffic_source=rss](https://www.aljazeera.com/news/2026/8/14/un-palestinian-ministry-condemn-israeli-settler-siege-of-west-bank-homes?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/14/08-14-2026-clacton-by-election-reported?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/14/08-14-2026-clacton-by-election-reported?traffic_source=rss)
 
 ---
 
-### 8. Could Trump actually run for a third term as president?
+### 8. Water supply for three US states drips down, Lake Mead at record low
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Donald Trump says the law stopping him from seeking a third presidential term is ‘very strong’.
+The largest reservoir in the United States, located on the border of Arizona and Nevada, just hit a record low.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/14/could-trump-actually-run-for-a-third-term-as-president?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/14/could-trump-actually-run-for-a-third-term-as-president?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/14/water-supply-for-three-us-states-drips-down-lake-mead-at-record-low?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/14/water-supply-for-three-us-states-drips-down-lake-mead-at-record-low?traffic_source=rss)
 
 ---
 
-### 9. Bodycam captures lightning striking metres from US police officers
+### 9. Brazil begins exploring retaliatory options to new US tariffs
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Bodycam video captured the moment lightning struck just metres from South Dakota Highway Patrol officers.
+Brazil has not yet decided whether it will proceed with retaliatory measures, but commits to defending its position.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/14/08-14-2026-s-dakota-lightning-clip?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/14/08-14-2026-s-dakota-lightning-clip?traffic_source=rss)
-
----
-
-### 10. Tropical Storm Hernan
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562)
-
----
-
-### 11. Tropical Storm Nangka
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561)
-
----
-
-### 12. Tropical Storm Lala
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/14/brazil-begins-exploring-retaliatory-options-to-new-us-tariffs?traffic_source=rss](https://www.aljazeera.com/news/2026/8/14/brazil-begins-exploring-retaliatory-options-to-new-us-tariffs?traffic_source=rss)
 
 ---
 

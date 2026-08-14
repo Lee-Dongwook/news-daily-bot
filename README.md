@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-14 20:26:34
+**Last Update:** 2026-08-14 20:52:54
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. RustDesk now supports true unattended remote access on Wayland
+### 1. A Contract-Grade Verifier for LLM-Generated GPU Kernels
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://rustdesk.com/blog/unattended-remote-access-wayland/">https://rustdesk.com/blog/unattended-remote-access-wayland/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49300759">https://news.ycombinator.com/item?id=49300759</a></p>
-<p>Points: 26</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://arxiv.org/abs/2608.12700">https://arxiv.org/abs/2608.12700</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49301417">https://news.ycombinator.com/item?id=49301417</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://rustdesk.com/blog/unattended-remote-access-wayland/](https://rustdesk.com/blog/unattended-remote-access-wayland/)
+🔗 **Read more:** [https://arxiv.org/abs/2608.12700](https://arxiv.org/abs/2608.12700)
 
 ---
 
-### 2. France blocks social media ban because it would require adults to prove age
+### 2. Discrete Fourier Transform by Hand
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.reuters.com/world/frances-top-court-rules-social-media-ban-curtails-freedom-expression-2026-08-14/">https://www.reuters.com/world/frances-top-court-rules-social-media-ban-curtails-freedom-expression-2026-08-14/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49300671">https://news.ycombinator.com/item?id=49300671</a></p>
-<p>Points: 45</p>
-<p># Comments: 9</p>
+<p>Article URL: <a href="https://www.byhand.ai/p/28-discrete-fourier-transform">https://www.byhand.ai/p/28-discrete-fourier-transform</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49301342">https://news.ycombinator.com/item?id=49301342</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.reuters.com/world/frances-top-court-rules-social-media-ban-curtails-freedom-expression-2026-08-14/](https://www.reuters.com/world/frances-top-court-rules-social-media-ban-curtails-freedom-expression-2026-08-14/)
+🔗 **Read more:** [https://www.byhand.ai/p/28-discrete-fourier-transform](https://www.byhand.ai/p/28-discrete-fourier-transform)
 
 ---
 
-### 3. RayforceDB – a pure C analytics database with a Lisp-like syntax
+### 3. Count Binface receives over a quarter of votes in Clacton by-election
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://rayforcedb.com/">https://rayforcedb.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49300615">https://news.ycombinator.com/item?id=49300615</a></p>
-<p>Points: 11</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://www.bbc.com/news/articles/ce97mm3vvemo">https://www.bbc.com/news/articles/ce97mm3vvemo</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49301260">https://news.ycombinator.com/item?id=49301260</a></p>
+<p>Points: 3</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://rayforcedb.com/](https://rayforcedb.com/)
+🔗 **Read more:** [https://www.bbc.com/news/articles/ce97mm3vvemo](https://www.bbc.com/news/articles/ce97mm3vvemo)
 
 ---
 

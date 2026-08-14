@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-14 03:34:40
+**Last Update:** 2026-08-14 05:39:58
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. How AI text watermarking works
+### 1. Bluesky Protocol Services
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://declaude.org/watermarking/">https://declaude.org/watermarking/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49292932">https://news.ycombinator.com/item?id=49292932</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://atproto.com/blog/introducing-bluesky-protocol-services">https://atproto.com/blog/introducing-bluesky-protocol-services</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49293324">https://news.ycombinator.com/item?id=49293324</a></p>
+<p>Points: 65</p>
+<p># Comments: 14</p>
 
-🔗 **Read more:** [https://declaude.org/watermarking/](https://declaude.org/watermarking/)
+🔗 **Read more:** [https://atproto.com/blog/introducing-bluesky-protocol-services](https://atproto.com/blog/introducing-bluesky-protocol-services)
 
 ---
 
-### 2. PBS loses 70 years of TV history after cloud storage vendor goes defunct
+### 2. SparrowMap – Cameras that watch government vehicles
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.tomshardware.com/software/cloud-storage/nine-pbs-loses-access-to-70-years-of-data-after-contracted-cloud-storage-vendor-goes-defunct-public-tv-channel-sues-iron-mountain-data-center-which-hosts-archival-materials-to-ensure-preservation">https://www.tomshardware.com/software/cloud-storage/nine-pbs-loses-access-to-70-years-of-data-after-contracted-cloud-storage-vendor-goes-defunct-public-tv-channel-sues-iron-mountain-data-center-which-hosts-archival-materials-to-ensure-preservation</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49292843">https://news.ycombinator.com/item?id=49292843</a></p>
-<p>Points: 29</p>
-<p># Comments: 7</p>
+<p>Article URL: <a href="https://sparrowmap.com/">https://sparrowmap.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49293294">https://news.ycombinator.com/item?id=49293294</a></p>
+<p>Points: 38</p>
+<p># Comments: 6</p>
 
-🔗 **Read more:** [https://www.tomshardware.com/software/cloud-storage/nine-pbs-loses-access-to-70-years-of-data-after-contracted-cloud-storage-vendor-goes-defunct-public-tv-channel-sues-iron-mountain-data-center-which-hosts-archival-materials-to-ensure-preservation](https://www.tomshardware.com/software/cloud-storage/nine-pbs-loses-access-to-70-years-of-data-after-contracted-cloud-storage-vendor-goes-defunct-public-tv-channel-sues-iron-mountain-data-center-which-hosts-archival-materials-to-ensure-preservation)
+🔗 **Read more:** [https://sparrowmap.com/](https://sparrowmap.com/)
 
 ---
 
-### 3. NP-Overrated
+### 3. Blog about things you don't understand yet
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://gruhn.me/blog/2026-08-13/">https://gruhn.me/blog/2026-08-13/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49291268">https://news.ycombinator.com/item?id=49291268</a></p>
-<p>Points: 109</p>
-<p># Comments: 57</p>
+<p>Article URL: <a href="https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/">https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49293087">https://news.ycombinator.com/item?id=49293087</a></p>
+<p>Points: 13</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://gruhn.me/blog/2026-08-13/](https://gruhn.me/blog/2026-08-13/)
+🔗 **Read more:** [https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/](https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/)
 
 ---
 
@@ -97,42 +97,42 @@ Multiple fires burned across the West Midlands and destroyed homes.
 
 ---
 
-### 7. Gaza City police chief killed as Israel pushes on with deadly strikes
+### 7. Colombia’s rescuers search rubble as hope fades on finding survivors
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Latest Israeli attacks kill police official Jamal Abu Kamil in Gaza City and another person in Khan Younis.
+The crucial 72-hour window to find survivors has passed, but rescue teams in Colombia keep digging.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/gaza-city-police-chief-killed-as-israel-pushes-on-with-deadly-strikes?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/gaza-city-police-chief-killed-as-israel-pushes-on-with-deadly-strikes?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/14/colombias-rescuers-search-rubble-as-hope-fades-on-finding-survivors?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/14/colombias-rescuers-search-rubble-as-hope-fades-on-finding-survivors?traffic_source=rss)
 
 ---
 
-### 8. Tate supporters rally for brothers ahead of bail hearing in Miami
+### 8. Norway’s FM tells Al Jazeera the US war on Iran was not ‘smart’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Supporters of Andrew and Tristan Tate gathered outside a Miami detention centre ahead of their bail hearing.
+Norway’s FM Espen Barth Eide says the Iran war failed to achieve its initial aims and strengthened hardliners in Tehran.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/13/tate-supporters-rally-for-brothers-ahead-of-bail-hearing-in-miami?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/13/tate-supporters-rally-for-brothers-ahead-of-bail-hearing-in-miami?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/14/aje-onl-nf_norways-fm-us-war-on-iran-was-not-smart-130826?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/14/aje-onl-nf_norways-fm-us-war-on-iran-was-not-smart-130826?traffic_source=rss)
 
 ---
 
-### 9. Israeli strikes in Gaza kill two, including police chief
+### 9. Israel’s Katz hails settlers for ‘holding onto’ Palestinian land
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli drone strikes killed at least 2 people and wounded several others in Gaza on Thursday.
+Israel’s Defence Minister Israel Katz praised radical Hilltop Youth settlers for ‘holding onto’ Palestinian land.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/13/israeli-strikes-in-gaza-kill-two-including-police-chief?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/13/israeli-strikes-in-gaza-kill-two-including-police-chief?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/14/08-14-2026-katz-ganim-clip-mp4?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/14/08-14-2026-katz-ganim-clip-mp4?traffic_source=rss)
 
 ---
 

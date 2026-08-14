@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-15 02:54:58
+**Last Update:** 2026-08-15 03:13:17
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. RISC-V: They should have known better
+### 1. Stop sending me PRs; a rant
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://getsmall.xyz/post/cmstjfl9l000if70ljmpzr4va">https://getsmall.xyz/post/cmstjfl9l000if70ljmpzr4va</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49305558">https://news.ycombinator.com/item?id=49305558</a></p>
+<p>Points: 5</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://getsmall.xyz/post/cmstjfl9l000if70ljmpzr4va](https://getsmall.xyz/post/cmstjfl9l000if70ljmpzr4va)
+
+---
+
+### 2. RISC-V: They should have known better
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://dmitry.gr/?r=06.%20Thoughts&amp;proj=12.%20RV">https://dmitry.gr/?r=06.%20Thoughts&amp;proj=12.%20RV</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49305492">https://news.ycombinator.com/item?id=49305492</a></p>
-<p>Points: 18</p>
-<p># Comments: 1</p>
+<p>Points: 41</p>
+<p># Comments: 10</p>
 
 🔗 **Read more:** [https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV](https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV)
 
 ---
 
-### 2. Going Dark, and the era of law enforcement hacking
+### 3. Going Dark, and the era of law enforcement hacking
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/">https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49304447">https://news.ycombinator.com/item?id=49304447</a></p>
-<p>Points: 117</p>
-<p># Comments: 81</p>
+<p>Points: 136</p>
+<p># Comments: 89</p>
 
 🔗 **Read more:** [https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/](https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/)
-
----
-
-### 3. Every exterior shot in The Taking of Pelham 123
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://iafisher.com/2026/07/pelham-123">https://iafisher.com/2026/07/pelham-123</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49303957">https://news.ycombinator.com/item?id=49303957</a></p>
-<p>Points: 19</p>
-<p># Comments: 4</p>
-
-🔗 **Read more:** [https://iafisher.com/2026/07/pelham-123](https://iafisher.com/2026/07/pelham-123)
 
 ---
 

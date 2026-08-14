@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-14 19:24:59
+**Last Update:** 2026-08-14 19:40:56
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: Graft – Claude Code hooks that cut grep tokens by 42%
+### 1. Show HN: Online SNMP MIB database - upload/view your own MIBs
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://mib-viewer.com/">https://mib-viewer.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49300419">https://news.ycombinator.com/item?id=49300419</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://mib-viewer.com/](https://mib-viewer.com/)
+
+---
+
+### 2. "Solving a largely imaginary user goal"
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://unsung.aresluna.org/solving-a-largely-imaginary-user-goal/">https://unsung.aresluna.org/solving-a-largely-imaginary-user-goal/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49300411">https://news.ycombinator.com/item?id=49300411</a></p>
+<p>Points: 9</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://unsung.aresluna.org/solving-a-largely-imaginary-user-goal/](https://unsung.aresluna.org/solving-a-largely-imaginary-user-goal/)
+
+---
+
+### 3. Show HN: Graft – Claude Code hooks that cut grep tokens by 42%
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/NanoNets/Graft">https://github.com/NanoNets/Graft</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49299985">https://news.ycombinator.com/item?id=49299985</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
+<p>Points: 13</p>
+<p># Comments: 3</p>
 
 🔗 **Read more:** [https://github.com/NanoNets/Graft](https://github.com/NanoNets/Graft)
-
----
-
-### 2. AV1 vs. AV2: Which Video Codec Should You Use in 2026?
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.red5.net/blog/av1-vs-av2/">https://www.red5.net/blog/av1-vs-av2/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49299970">https://news.ycombinator.com/item?id=49299970</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://www.red5.net/blog/av1-vs-av2/](https://www.red5.net/blog/av1-vs-av2/)
-
----
-
-### 3. Introducing Toast 1
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.mixedbread.com/blog/toast-1">https://www.mixedbread.com/blog/toast-1</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49299746">https://news.ycombinator.com/item?id=49299746</a></p>
-<p>Points: 31</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://www.mixedbread.com/blog/toast-1](https://www.mixedbread.com/blog/toast-1)
 
 ---
 
@@ -97,7 +97,20 @@ Police released the CCTV footage after the art, which was stolen in March, was r
 
 ---
 
-### 7. Mangione pleads guilty to federal charges in UnitedHealthcare CEO killing
+### 7. Top French court upholds assisted dying law, rejects teen social media ban
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The decisions mark both a victory and a setback for President Emmanuel Macron, who had championed both policies.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/14/top-french-court-upholds-assisted-dying-law-rejects-teen-social-media-ban?traffic_source=rss](https://www.aljazeera.com/news/2026/8/14/top-french-court-upholds-assisted-dying-law-rejects-teen-social-media-ban?traffic_source=rss)
+
+---
+
+### 8. Mangione pleads guilty to federal charges in UnitedHealthcare CEO killing
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Mangione admits to shooting Brian Thompson in federal court, still faces separat
 
 ---
 
-### 8. Zambia suspends vote counting in election citing violence
+### 9. Zambia suspends vote counting in election citing violence
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Mangione admits to shooting Brian Thompson in federal court, still faces separat
 Zambia&#039;s electoral commission on Friday suspended vote counting nationwide.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/14/zambia-suspends-vote-counting-in-election-citing-violence?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/14/zambia-suspends-vote-counting-in-election-citing-violence?traffic_source=rss)
-
----
-
-### 9. Qatar challenges AFC over open letter attacking FIFA President Infantino
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Qatar FA President Hamad bin Khalifa Al-Thani complains about lack of consultation about AFC open letter to FIFA.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/14/qatar-challenges-afc-over-open-letter-attacking-fifa-president-infantino?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/14/qatar-challenges-afc-over-open-letter-attacking-fifa-president-infantino?traffic_source=rss)
 
 ---
 

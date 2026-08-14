@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-14 20:52:54
+**Last Update:** 2026-08-14 21:25:57
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
@@ -19,7 +19,7 @@
 **Description:**
 <p>Article URL: <a href="https://arxiv.org/abs/2608.12700">https://arxiv.org/abs/2608.12700</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49301417">https://news.ycombinator.com/item?id=49301417</a></p>
-<p>Points: 3</p>
+<p>Points: 4</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://arxiv.org/abs/2608.12700](https://arxiv.org/abs/2608.12700)
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.byhand.ai/p/28-discrete-fourier-transform">https://www.byhand.ai/p/28-discrete-fourier-transform</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49301342">https://news.ycombinator.com/item?id=49301342</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
+<p>Points: 9</p>
+<p># Comments: 1</p>
 
 🔗 **Read more:** [https://www.byhand.ai/p/28-discrete-fourier-transform](https://www.byhand.ai/p/28-discrete-fourier-transform)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.bbc.com/news/articles/ce97mm3vvemo">https://www.bbc.com/news/articles/ce97mm3vvemo</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49301260">https://news.ycombinator.com/item?id=49301260</a></p>
-<p>Points: 3</p>
-<p># Comments: 2</p>
+<p>Points: 55</p>
+<p># Comments: 10</p>
 
 🔗 **Read more:** [https://www.bbc.com/news/articles/ce97mm3vvemo](https://www.bbc.com/news/articles/ce97mm3vvemo)
 
@@ -71,7 +71,20 @@ Single-use grills pose a "significant risk to the public" in current drought and
 
 ---
 
-### 5. Chris Mason: Where does this unorthodox by-election victory leave Nigel Farage?
+### 5. Weekend cancellations after East Sussex train derailment
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Three train carriages left the tracks on an embankment near Lewes, leaving 20 people injured.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cjwxg6jwv77o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cjwxg6jwv77o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Chris Mason: Where does this unorthodox by-election victory leave Nigel Farage?
 
 **Source:** BBC
 
@@ -84,20 +97,20 @@ As expected, the Reform UK leader easily won the Clacton by-election but was now
 
 ---
 
-### 6. Britain's Finlay Tarling dies in Volta a Portugal accident
+### 7. Liverpool to sell minority stake to consortium including Jeff Bezos
 
-**Source:** BBC
+**Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-British cyclist Finlay Tarling dies at the age of 19 in a serious accident during the eighth stage of the Volta a Portugal.
+The 1892 Holdings consortium, led by former QPR chairman Amit Bhatia, also includes Bezos’s K5 Sports Fund.
 
-🔗 **Read more:** [https://www.bbc.co.uk/sport/cycling/articles/ceqed1g3j48o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/cycling/articles/ceqed1g3j48o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/14/liverpool-to-sell-minority-stake-to-consortium-including-jeff-bezos?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/14/liverpool-to-sell-minority-stake-to-consortium-including-jeff-bezos?traffic_source=rss)
 
 ---
 
-### 7. Analysis: Israel’s government can’t disown West Bank settler violence
+### 8. Analysis: Israel’s government can’t disown West Bank settler violence
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Rights groups warn settler and state-led violence aim to displace Palestinians a
 
 ---
 
-### 8. What’s next for far-right Reform UK after Farage’s by-election win?
+### 9. What’s next for far-right Reform UK after Farage’s by-election win?
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Rights groups warn settler and state-led violence aim to displace Palestinians a
 What’s next for far-right Reform UK after Farage’s by-election win?
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/14/whats-next-for-far-right-reform-uk-after-farages-by-election-win?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/14/whats-next-for-far-right-reform-uk-after-farages-by-election-win?traffic_source=rss)
-
----
-
-### 9. Philippines drug war victims seek justice through truth commission
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Families of drug war victims testify before the Truth Commission, seeking answers and closure after years of silence.
-
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/14/philippines-drug-war-victims-seek-justice-through-truth-commission?traffic_source=rss](https://www.aljazeera.com/features/2026/8/14/philippines-drug-war-victims-seek-justice-through-truth-commission?traffic_source=rss)
 
 ---
 

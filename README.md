@@ -1,32 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-14 08:20:07
+**Last Update:** 2026-08-14 08:41:53
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. US conducted mass spying campaign against leftwing and anti-ICE protesters
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.theguardian.com/us-news/2026/aug/13/us-government-spied-anti-ice-protesters">https://www.theguardian.com/us-news/2026/aug/13/us-government-spied-anti-ice-protesters</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49294199">https://news.ycombinator.com/item?id=49294199</a></p>
-<p>Points: 148</p>
-<p># Comments: 44</p>
-
-🔗 **Read more:** [https://www.theguardian.com/us-news/2026/aug/13/us-government-spied-anti-ice-protesters](https://www.theguardian.com/us-news/2026/aug/13/us-government-spied-anti-ice-protesters)
-
----
-
-### 2. Bluesky Protocol Services
+### 1. Bluesky Protocol Services
 
 **Source:** Hacker News
 
@@ -35,14 +19,14 @@
 **Description:**
 <p>Article URL: <a href="https://atproto.com/blog/introducing-bluesky-protocol-services">https://atproto.com/blog/introducing-bluesky-protocol-services</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49293324">https://news.ycombinator.com/item?id=49293324</a></p>
-<p>Points: 107</p>
-<p># Comments: 21</p>
+<p>Points: 116</p>
+<p># Comments: 22</p>
 
 🔗 **Read more:** [https://atproto.com/blog/introducing-bluesky-protocol-services](https://atproto.com/blog/introducing-bluesky-protocol-services)
 
 ---
 
-### 3. SparrowMap – Cameras that watch government vehicles
+### 2. SparrowMap – Cameras that watch government vehicles
 
 **Source:** Hacker News
 
@@ -51,10 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://sparrowmap.com/">https://sparrowmap.com/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49293294">https://news.ycombinator.com/item?id=49293294</a></p>
-<p>Points: 137</p>
-<p># Comments: 33</p>
+<p>Points: 138</p>
+<p># Comments: 34</p>
 
 🔗 **Read more:** [https://sparrowmap.com/](https://sparrowmap.com/)
+
+---
+
+### 3. Blog about things you don't understand yet
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/">https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49293087">https://news.ycombinator.com/item?id=49293087</a></p>
+<p>Points: 51</p>
+<p># Comments: 19</p>
+
+🔗 **Read more:** [https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/](https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/)
 
 ---
 
@@ -97,7 +97,20 @@ Multiple fires burned across the West Midlands and destroyed homes.
 
 ---
 
-### 7. Al Jazeera speaks to Count Binface as Farage claims Clacton victory
+### 7. Salvage work begins on tanker leaking oil off Oman, risk firm says
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Environmental NGO Greenpeace warns that spill has rapidly expanded to 1,300 square kilometres, threatening ecosystems.
+
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/14/salvage-work-begins-on-tanker-leaking-oil-off-oman-risk-firm-says?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/14/salvage-work-begins-on-tanker-leaking-oil-off-oman-risk-firm-says?traffic_source=rss)
+
+---
+
+### 8. Al Jazeera speaks to Count Binface as Farage claims Clacton victory
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Al Jazeera’s Jonah Hull spoke to candidate for MP, Count Binface, as votes wer
 
 ---
 
-### 8. Water supply for three US states drips down, Lake Mead at record low
+### 9. Water supply for three US states drips down, Lake Mead at record low
 
 **Source:** Al Jazeera
 
@@ -123,16 +136,42 @@ The largest reservoir in the United States, located on the border of Arizona and
 
 ---
 
-### 9. Brazil begins exploring retaliatory options to new US tariffs
+### 10. Tropical Storm Hernan
 
-**Source:** Al Jazeera
+**Source:** NASA
 
-**Category:** world
+**Category:** nature
 
 **Description:**
-Brazil has not yet decided whether it will proceed with retaliatory measures, but commits to defending its position.
+Natural event: Severe Storms
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/14/brazil-begins-exploring-retaliatory-options-to-new-us-tariffs?traffic_source=rss](https://www.aljazeera.com/news/2026/8/14/brazil-begins-exploring-retaliatory-options-to-new-us-tariffs?traffic_source=rss)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562)
+
+---
+
+### 11. Tropical Storm Nangka
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561)
+
+---
+
+### 12. Tropical Storm Lala
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563)
 
 ---
 

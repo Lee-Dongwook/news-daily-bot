@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-14 05:39:58
+**Last Update:** 2026-08-14 06:34:04
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://atproto.com/blog/introducing-bluesky-protocol-services">https://atproto.com/blog/introducing-bluesky-protocol-services</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49293324">https://news.ycombinator.com/item?id=49293324</a></p>
-<p>Points: 65</p>
-<p># Comments: 14</p>
+<p>Points: 78</p>
+<p># Comments: 18</p>
 
 🔗 **Read more:** [https://atproto.com/blog/introducing-bluesky-protocol-services](https://atproto.com/blog/introducing-bluesky-protocol-services)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://sparrowmap.com/">https://sparrowmap.com/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49293294">https://news.ycombinator.com/item?id=49293294</a></p>
-<p>Points: 38</p>
-<p># Comments: 6</p>
+<p>Points: 66</p>
+<p># Comments: 13</p>
 
 🔗 **Read more:** [https://sparrowmap.com/](https://sparrowmap.com/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/">https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49293087">https://news.ycombinator.com/item?id=49293087</a></p>
-<p>Points: 13</p>
-<p># Comments: 1</p>
+<p>Points: 19</p>
+<p># Comments: 3</p>
 
 🔗 **Read more:** [https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/](https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/)
 
@@ -97,42 +97,42 @@ Multiple fires burned across the West Midlands and destroyed homes.
 
 ---
 
-### 7. Colombia’s rescuers search rubble as hope fades on finding survivors
+### 7. UN, Palestinian ministry condemn Israeli settler siege of West Bank homes
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The crucial 72-hour window to find survivors has passed, but rescue teams in Colombia keep digging.
+UN rights office and Palestine Foreign Ministry call days-long Israeli settler siege in Qusra &#039;criminal&#039; and &#039;inhumane&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/14/colombias-rescuers-search-rubble-as-hope-fades-on-finding-survivors?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/14/colombias-rescuers-search-rubble-as-hope-fades-on-finding-survivors?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/14/un-palestinian-ministry-condemn-israeli-settler-siege-of-west-bank-homes?traffic_source=rss](https://www.aljazeera.com/news/2026/8/14/un-palestinian-ministry-condemn-israeli-settler-siege-of-west-bank-homes?traffic_source=rss)
 
 ---
 
-### 8. Norway’s FM tells Al Jazeera the US war on Iran was not ‘smart’
+### 8. Could Trump actually run for a third term as president?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Norway’s FM Espen Barth Eide says the Iran war failed to achieve its initial aims and strengthened hardliners in Tehran.
+Donald Trump says the law stopping him from seeking a third presidential term is ‘very strong’.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/14/aje-onl-nf_norways-fm-us-war-on-iran-was-not-smart-130826?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/14/aje-onl-nf_norways-fm-us-war-on-iran-was-not-smart-130826?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/14/could-trump-actually-run-for-a-third-term-as-president?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/14/could-trump-actually-run-for-a-third-term-as-president?traffic_source=rss)
 
 ---
 
-### 9. Israel’s Katz hails settlers for ‘holding onto’ Palestinian land
+### 9. Bodycam captures lightning striking metres from US police officers
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israel’s Defence Minister Israel Katz praised radical Hilltop Youth settlers for ‘holding onto’ Palestinian land.
+Bodycam video captured the moment lightning struck just metres from South Dakota Highway Patrol officers.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/14/08-14-2026-katz-ganim-clip-mp4?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/14/08-14-2026-katz-ganim-clip-mp4?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/14/08-14-2026-s-dakota-lightning-clip?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/14/08-14-2026-s-dakota-lightning-clip?traffic_source=rss)
 
 ---
 

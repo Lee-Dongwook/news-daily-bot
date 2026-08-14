@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-14 19:40:56
+**Last Update:** 2026-08-14 20:26:34
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: Online SNMP MIB database - upload/view your own MIBs
+### 1. RustDesk now supports true unattended remote access on Wayland
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://mib-viewer.com/">https://mib-viewer.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49300419">https://news.ycombinator.com/item?id=49300419</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://mib-viewer.com/](https://mib-viewer.com/)
-
----
-
-### 2. "Solving a largely imaginary user goal"
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://unsung.aresluna.org/solving-a-largely-imaginary-user-goal/">https://unsung.aresluna.org/solving-a-largely-imaginary-user-goal/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49300411">https://news.ycombinator.com/item?id=49300411</a></p>
-<p>Points: 9</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://unsung.aresluna.org/solving-a-largely-imaginary-user-goal/](https://unsung.aresluna.org/solving-a-largely-imaginary-user-goal/)
-
----
-
-### 3. Show HN: Graft – Claude Code hooks that cut grep tokens by 42%
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/NanoNets/Graft">https://github.com/NanoNets/Graft</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49299985">https://news.ycombinator.com/item?id=49299985</a></p>
-<p>Points: 13</p>
+<p>Article URL: <a href="https://rustdesk.com/blog/unattended-remote-access-wayland/">https://rustdesk.com/blog/unattended-remote-access-wayland/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49300759">https://news.ycombinator.com/item?id=49300759</a></p>
+<p>Points: 26</p>
 <p># Comments: 3</p>
 
-🔗 **Read more:** [https://github.com/NanoNets/Graft](https://github.com/NanoNets/Graft)
+🔗 **Read more:** [https://rustdesk.com/blog/unattended-remote-access-wayland/](https://rustdesk.com/blog/unattended-remote-access-wayland/)
+
+---
+
+### 2. France blocks social media ban because it would require adults to prove age
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.reuters.com/world/frances-top-court-rules-social-media-ban-curtails-freedom-expression-2026-08-14/">https://www.reuters.com/world/frances-top-court-rules-social-media-ban-curtails-freedom-expression-2026-08-14/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49300671">https://news.ycombinator.com/item?id=49300671</a></p>
+<p>Points: 45</p>
+<p># Comments: 9</p>
+
+🔗 **Read more:** [https://www.reuters.com/world/frances-top-court-rules-social-media-ban-curtails-freedom-expression-2026-08-14/](https://www.reuters.com/world/frances-top-court-rules-social-media-ban-curtails-freedom-expression-2026-08-14/)
+
+---
+
+### 3. RayforceDB – a pure C analytics database with a Lisp-like syntax
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://rayforcedb.com/">https://rayforcedb.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49300615">https://news.ycombinator.com/item?id=49300615</a></p>
+<p>Points: 11</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://rayforcedb.com/](https://rayforcedb.com/)
 
 ---
 
@@ -84,55 +84,55 @@ As expected, the Reform UK leader easily won the Clacton by-election but was now
 
 ---
 
-### 6. Watch: Moment €9m worth of art stolen from Italy museum
+### 6. Britain's Finlay Tarling dies in Volta a Portugal accident
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Police released the CCTV footage after the art, which was stolen in March, was recovered.
+British cyclist Finlay Tarling dies at the age of 19 in a serious accident during the eighth stage of the Volta a Portugal.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cddjlrzd26eo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cddjlrzd26eo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/sport/cycling/articles/ceqed1g3j48o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/cycling/articles/ceqed1g3j48o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Top French court upholds assisted dying law, rejects teen social media ban
+### 7. Analysis: Israel’s government can’t disown West Bank settler violence
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The decisions mark both a victory and a setback for President Emmanuel Macron, who had championed both policies.
+Rights groups warn settler and state-led violence aim to displace Palestinians and annex land in the occupied West Bank.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/14/top-french-court-upholds-assisted-dying-law-rejects-teen-social-media-ban?traffic_source=rss](https://www.aljazeera.com/news/2026/8/14/top-french-court-upholds-assisted-dying-law-rejects-teen-social-media-ban?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/14/analysis-israels-government-cant-disown-west-bank-settler-violence?traffic_source=rss](https://www.aljazeera.com/news/2026/8/14/analysis-israels-government-cant-disown-west-bank-settler-violence?traffic_source=rss)
 
 ---
 
-### 8. Mangione pleads guilty to federal charges in UnitedHealthcare CEO killing
+### 8. What’s next for far-right Reform UK after Farage’s by-election win?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Mangione admits to shooting Brian Thompson in federal court, still faces separate state charges.
+What’s next for far-right Reform UK after Farage’s by-election win?
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/14/mangione-pleads-guilty-to-federal-charges-in-unitedhealthcare-ceo-killing?traffic_source=rss](https://www.aljazeera.com/news/2026/8/14/mangione-pleads-guilty-to-federal-charges-in-unitedhealthcare-ceo-killing?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/14/whats-next-for-far-right-reform-uk-after-farages-by-election-win?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/14/whats-next-for-far-right-reform-uk-after-farages-by-election-win?traffic_source=rss)
 
 ---
 
-### 9. Zambia suspends vote counting in election citing violence
+### 9. Philippines drug war victims seek justice through truth commission
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Zambia&#039;s electoral commission on Friday suspended vote counting nationwide.
+Families of drug war victims testify before the Truth Commission, seeking answers and closure after years of silence.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/14/zambia-suspends-vote-counting-in-election-citing-violence?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/14/zambia-suspends-vote-counting-in-election-citing-violence?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/14/philippines-drug-war-victims-seek-justice-through-truth-commission?traffic_source=rss](https://www.aljazeera.com/features/2026/8/14/philippines-drug-war-victims-seek-justice-through-truth-commission?traffic_source=rss)
 
 ---
 

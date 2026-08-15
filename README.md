@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-15 04:53:24
+**Last Update:** 2026-08-15 05:24:32
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. The Ploopy A+ Trackball Is Here
+### 1. Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive">https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49306577">https://news.ycombinator.com/item?id=49306577</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive)
+
+---
+
+### 2. The Ploopy A+ Trackball Is Here
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://blog.ploopy.co/the-aplus-is-finally-here-499">https://blog.ploopy.co/the-aplus-is-finally-here-499</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49306443">https://news.ycombinator.com/item?id=49306443</a></p>
-<p>Points: 4</p>
-<p># Comments: 2</p>
+<p>Points: 11</p>
+<p># Comments: 3</p>
 
 🔗 **Read more:** [https://blog.ploopy.co/the-aplus-is-finally-here-499](https://blog.ploopy.co/the-aplus-is-finally-here-499)
 
 ---
 
-### 2. Simplifying and Refactoring Introductory Calculus
+### 3. Simplifying and Refactoring Introductory Calculus
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://arxiv.org/abs/1811.03459">https://arxiv.org/abs/1811.03459</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49306196">https://news.ycombinator.com/item?id=49306196</a></p>
-<p>Points: 5</p>
+<p>Points: 8</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://arxiv.org/abs/1811.03459](https://arxiv.org/abs/1811.03459)
-
----
-
-### 3. Corgi kills short-lived website that ranked its female employees
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://sf.gazetteer.co/corgi-kills-short-lived-website-that-ranked-its-female-employees">https://sf.gazetteer.co/corgi-kills-short-lived-website-that-ranked-its-female-employees</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49306080">https://news.ycombinator.com/item?id=49306080</a></p>
-<p>Points: 5</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://sf.gazetteer.co/corgi-kills-short-lived-website-that-ranked-its-female-employees](https://sf.gazetteer.co/corgi-kills-short-lived-website-that-ranked-its-female-employees)
 
 ---
 
@@ -97,7 +97,33 @@ Single-use grills pose a "significant risk to the public" in current drought and
 
 ---
 
-### 7. Buenaventura residents criticise state neglect after Colombia’s earthquake
+### 7. At least two killed as magnitude 7.7 quake hits Indonesia
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Authorities urge coastal residents to move inland or to higher ground following the quake near Flores Island.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/15/at-least-two-killed-as-magnitude-7-7-quake-hits-indonesia?traffic_source=rss](https://www.aljazeera.com/news/2026/8/15/at-least-two-killed-as-magnitude-7-7-quake-hits-indonesia?traffic_source=rss)
+
+---
+
+### 8. Mangione pleads guilty as polarising CEO killing reaches new phase
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Luigi Mangione pleaded guilty to federal charges over the fatal shooting of UnitedHealthcare CEO Brian Thompson in 2024.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/15/mangione-pleads-guilty-as-polarising-ceo-killing-reaches-new-phase?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/15/mangione-pleads-guilty-as-polarising-ceo-killing-reaches-new-phase?traffic_source=rss)
+
+---
+
+### 9. Buenaventura residents criticise state neglect after Colombia’s earthquake
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Single-use grills pose a "significant risk to the public" in current drought and
 Locals in impoverished areas say the insufficient government response after the earthquake speaks to a broader trend.
 
 🔗 **Read more:** [https://www.aljazeera.com/features/longform/2026/8/15/buenaventura-residents-criticise-state-neglect-after-colombias-earthquake?traffic_source=rss](https://www.aljazeera.com/features/longform/2026/8/15/buenaventura-residents-criticise-state-neglect-after-colombias-earthquake?traffic_source=rss)
-
----
-
-### 8. Lula holds slim lead over Flavio Bolsonaro ahead of Brazil election
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-A new poll shows Lula leading Bolsonaro, but the gap has closed ahead of Brazil&#039;s high-stakes presidential election.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/15/lula-holds-slim-lead-over-flavio-bolsonaro-ahead-of-brazil-election?traffic_source=rss](https://www.aljazeera.com/news/2026/8/15/lula-holds-slim-lead-over-flavio-bolsonaro-ahead-of-brazil-election?traffic_source=rss)
-
----
-
-### 9. UN urges support for Afghan women’s aid five years into Taliban rule
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-More than half of women’s organisations operating in Afghanistan could cease operations within next year: UN Women.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/15/un-urges-support-for-afghan-womens-aid-five-years-into-taliban-rule?traffic_source=rss](https://www.aljazeera.com/news/2026/8/15/un-urges-support-for-afghan-womens-aid-five-years-into-taliban-rule?traffic_source=rss)
 
 ---
 

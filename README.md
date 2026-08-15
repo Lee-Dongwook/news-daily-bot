@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-16 01:54:50
+**Last Update:** 2026-08-16 02:13:31
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Bede Liu, a digital signal processing pioneer, has died
+### 1. Engineers will do anything to avoid learning from history
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://horn.gg/blog/engineers-will-do-anything-to-avoid-learning-from-history/">https://horn.gg/blog/engineers-will-do-anything-to-avoid-learning-from-history/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49314744">https://news.ycombinator.com/item?id=49314744</a></p>
+<p>Points: 8</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://horn.gg/blog/engineers-will-do-anything-to-avoid-learning-from-history/](https://horn.gg/blog/engineers-will-do-anything-to-avoid-learning-from-history/)
+
+---
+
+### 2. Modeling and Verification of Keeta's Consensus [pdf]
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://xescu.re/keeta-consensus.pdf">https://xescu.re/keeta-consensus.pdf</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49314642">https://news.ycombinator.com/item?id=49314642</a></p>
+<p>Points: 3</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://xescu.re/keeta-consensus.pdf](https://xescu.re/keeta-consensus.pdf)
+
+---
+
+### 3. Bede Liu, a digital signal processing pioneer, has died
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://spectrum.ieee.org/digital-signal-processing">https://spectrum.ieee.org/digital-signal-processing</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49314615">https://news.ycombinator.com/item?id=49314615</a></p>
-<p>Points: 8</p>
-<p># Comments: 0</p>
+<p>Points: 16</p>
+<p># Comments: 1</p>
 
 🔗 **Read more:** [https://spectrum.ieee.org/digital-signal-processing](https://spectrum.ieee.org/digital-signal-processing)
-
----
-
-### 2. The Wow signal was a strong narrowband radio signal detected on August 15, 1977
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://en.wikipedia.org/wiki/Wow!_signal">https://en.wikipedia.org/wiki/Wow!_signal</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49314596">https://news.ycombinator.com/item?id=49314596</a></p>
-<p>Points: 8</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://en.wikipedia.org/wiki/Wow!_signal](https://en.wikipedia.org/wiki/Wow!_signal)
-
----
-
-### 3. No-New-Physics Consciousness
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.overcomingbias.com/p/no-new-physics-consciousness">https://www.overcomingbias.com/p/no-new-physics-consciousness</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49314567">https://news.ycombinator.com/item?id=49314567</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://www.overcomingbias.com/p/no-new-physics-consciousness](https://www.overcomingbias.com/p/no-new-physics-consciousness)
 
 ---
 

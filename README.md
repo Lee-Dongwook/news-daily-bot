@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-15 14:53:04
+**Last Update:** 2026-08-15 15:10:37
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html">https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49309050">https://news.ycombinator.com/item?id=49309050</a></p>
-<p>Points: 13</p>
-<p># Comments: 8</p>
+<p>Points: 16</p>
+<p># Comments: 11</p>
 
 🔗 **Read more:** [https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html](https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html)
 
@@ -35,7 +35,7 @@
 **Description:**
 <p>Article URL: <a href="https://uecker.codeberg.page/2026-07-14.html">https://uecker.codeberg.page/2026-07-14.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49308685">https://news.ycombinator.com/item?id=49308685</a></p>
-<p>Points: 22</p>
+<p>Points: 26</p>
 <p># Comments: 1</p>
 
 🔗 **Read more:** [https://uecker.codeberg.page/2026-07-14.html](https://uecker.codeberg.page/2026-07-14.html)
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/">https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49308553">https://news.ycombinator.com/item?id=49308553</a></p>
-<p>Points: 36</p>
-<p># Comments: 27</p>
+<p>Points: 40</p>
+<p># Comments: 32</p>
 
 🔗 **Read more:** [https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/](https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/)
 
@@ -97,42 +97,42 @@ A search and rescue operation is under way to find survivors in Flores, an islan
 
 ---
 
-### 7. World Cup winner Ferran Torres joins Paris Saint-Germain from Barcelona
+### 7. Japanese minister visits shrine to war dead, angering China, South Korea
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The 26-year-old striker cost the Ligue 1 champions a reported 50 million euros ($58m) and has signed a five year deal.
+Defence Minister Koizumi&#039;s visit to Yasukuni Shrine comes on the 81st anniversary of Japan&#039;s surrender in WWII.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/15/japanese-minister-visits-shrine-to-war-dead-angering-china-south-korea?traffic_source=rss](https://www.aljazeera.com/news/2026/8/15/japanese-minister-visits-shrine-to-war-dead-angering-china-south-korea?traffic_source=rss)
+
+---
+
+### 8. What the Taliban achieved and failed to achieve in five years
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The Taliban government brought security and stability but is facing increasing alienation of the general population.
+
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/15/what-the-taliban-achieved-and-failed-to-achieve-in-five-years?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/15/what-the-taliban-achieved-and-failed-to-achieve-in-five-years?traffic_source=rss)
+
+---
+
+### 9. World Cup winner Ferran Torres joins Paris Saint-Germain from Barcelona
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The 26-year-old striker cost the Ligue 1 champions a reported 50 million euros ($58m) and has signed a five-year deal.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/15/world-cup-winner-ferran-torres-joins-paris-saint-germain-from-barcelona?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/15/world-cup-winner-ferran-torres-joins-paris-saint-germain-from-barcelona?traffic_source=rss)
-
----
-
-### 8. Arsenal vs Manchester City: Community Shield – prediction, lineups, teams
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Premier League winners Arsenal and FA Cup holders Man City prepare to trade blows as English top-flight season nears.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/15/arsenal-vs-manchester-city-community-shield-prediction-lineups-teams?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/15/arsenal-vs-manchester-city-community-shield-prediction-lineups-teams?traffic_source=rss)
-
----
-
-### 9. At scene of deadly Israeli strike on Lebanon home
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-An overnight Israeli strike on a family home in Ansar, southern Lebanon, killed at least seven people.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/15/at-scene-of-deadly-israeli-strike-on-lebanon-home?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/15/at-scene-of-deadly-israeli-strike-on-lebanon-home?traffic_source=rss)
 
 ---
 

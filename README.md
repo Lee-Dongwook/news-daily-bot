@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-15 10:12:16
+**Last Update:** 2026-08-15 10:34:09
 
 **Total News:** 12
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://ampcode.com/notes/thats-not-soc-2-compliant">https://ampcode.com/notes/thats-not-soc-2-compliant</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49308073">https://news.ycombinator.com/item?id=49308073</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
+<p>Points: 16</p>
+<p># Comments: 9</p>
 
 🔗 **Read more:** [https://ampcode.com/notes/thats-not-soc-2-compliant](https://ampcode.com/notes/thats-not-soc-2-compliant)
 
@@ -36,8 +36,8 @@
 <p>In the last 2-3 years, mostly because of AI, keeping up with interesting articles on HN has become harder and harder.<p>How do you deal with it? Besides the simple solution of simply ignoring interesting stuff more and more.</p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49308059">https://news.ycombinator.com/item?id=49308059</a></p>
-<p>Points: 10</p>
-<p># Comments: 5</p>
+<p>Points: 17</p>
+<p># Comments: 21</p>
 
 🔗 **Read more:** [https://news.ycombinator.com/item?id=49308059](https://news.ycombinator.com/item?id=49308059)
 
@@ -52,7 +52,7 @@
 **Description:**
 <p>Article URL: <a href="https://chenxiachan.github.io/thoughtdag/">https://chenxiachan.github.io/thoughtdag/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49307700">https://news.ycombinator.com/item?id=49307700</a></p>
-<p>Points: 4</p>
+<p>Points: 6</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://chenxiachan.github.io/thoughtdag/](https://chenxiachan.github.io/thoughtdag/)

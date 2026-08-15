@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-15 17:55:53
+**Last Update:** 2026-08-15 18:14:08
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
@@ -19,14 +19,31 @@
 **Description:**
 <p>Article URL: <a href="https://www.bbc.co.uk/news/articles/cp3rprx2wl4o">https://www.bbc.co.uk/news/articles/cp3rprx2wl4o</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49310725">https://news.ycombinator.com/item?id=49310725</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
+<p>Points: 9</p>
+<p># Comments: 1</p>
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cp3rprx2wl4o](https://www.bbc.co.uk/news/articles/cp3rprx2wl4o)
 
 ---
 
-### 2. Yadda 3.0.0: BDD in the Age of AI Agents
+### 2. Show HN: Quasicrystals Animation Playground with WebXR
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Hi! This is my little project introducing quasicrystals animations with some parameters. It uses a custom shader to allow higher resolution.<p>Not all combinations look equally good. For example the "Spectrum" color palette IMO makes sense only for low values of "Tempo" and "Pattern Density".<p>If you have VR googles, I recommend trying the WebXR version - it's really nice.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49310533">https://news.ycombinator.com/item?id=49310533</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://hypnagogic-quasicrystals.github.io/](https://hypnagogic-quasicrystals.github.io/)
+
+---
+
+### 3. Yadda 3.0.0: BDD in the Age of AI Agents
 
 **Source:** Hacker News
 
@@ -35,26 +52,10 @@
 **Description:**
 <p>Article URL: <a href="http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html">http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49310495">https://news.ycombinator.com/item?id=49310495</a></p>
-<p>Points: 4</p>
-<p># Comments: 1</p>
+<p>Points: 5</p>
+<p># Comments: 2</p>
 
 🔗 **Read more:** [http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html](http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html)
-
----
-
-### 3. Brazilian election filter in X For You timeline
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/xai-org/x-algorithm/blob/main/home-mixer/filters/brazil_2026_election_filter.rs">https://github.com/xai-org/x-algorithm/blob/main/home-mixer/filters/brazil_2026_election_filter.rs</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49310291">https://news.ycombinator.com/item?id=49310291</a></p>
-<p>Points: 26</p>
-<p># Comments: 20</p>
-
-🔗 **Read more:** [https://github.com/xai-org/x-algorithm/blob/main/home-mixer/filters/brazil_2026_election_filter.rs](https://github.com/xai-org/x-algorithm/blob/main/home-mixer/filters/brazil_2026_election_filter.rs)
 
 ---
 
@@ -97,7 +98,20 @@ A search and rescue operation is under way to find survivors in Flores, an islan
 
 ---
 
-### 7. Afghans mark five years of Taliban rule
+### 7. The next Yemen war might be different
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Drones are no longer the advantage for only one side.
+
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/15/the-next-yemen-war-might-be-different?traffic_source=rss](https://www.aljazeera.com/features/2026/8/15/the-next-yemen-war-might-be-different?traffic_source=rss)
+
+---
+
+### 8. Afghans mark five years of Taliban rule
 
 **Source:** Al Jazeera
 
@@ -110,7 +124,7 @@ Afghans have gathered in Kabul to mark five years since the Taliban returned to 
 
 ---
 
-### 8. Black professor at centre of Cambridge plagiarism row found dead
+### 9. Black professor at centre of Cambridge plagiarism row found dead
 
 **Source:** Al Jazeera
 
@@ -120,19 +134,6 @@ Afghans have gathered in Kabul to mark five years since the Taliban returned to 
 Dr Jason Arday has been found dead days after resigning from Cambridge University due to plagiarism allegations.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/15/black-professor-at-centre-of-cambridge-plagiarism-row-found-dead?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/15/black-professor-at-centre-of-cambridge-plagiarism-row-found-dead?traffic_source=rss)
-
----
-
-### 9. Vienna woman sues city for discrimination over toilet fees
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-An Austrian activist in Vienna is challenging the city over public toilet fees.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/15/vienna-woman-sues-city-for-discrimination-over-toilet-fees?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/15/vienna-woman-sues-city-for-discrimination-over-toilet-fees?traffic_source=rss)
 
 ---
 

@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-15 18:14:08
+**Last Update:** 2026-08-15 18:53:45
 
 **Total News:** 12
 
@@ -19,43 +19,42 @@
 **Description:**
 <p>Article URL: <a href="https://www.bbc.co.uk/news/articles/cp3rprx2wl4o">https://www.bbc.co.uk/news/articles/cp3rprx2wl4o</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49310725">https://news.ycombinator.com/item?id=49310725</a></p>
-<p>Points: 9</p>
-<p># Comments: 1</p>
+<p>Points: 21</p>
+<p># Comments: 22</p>
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cp3rprx2wl4o](https://www.bbc.co.uk/news/articles/cp3rprx2wl4o)
 
 ---
 
-### 2. Show HN: Quasicrystals Animation Playground with WebXR
+### 2. Cloudflare's AI Psychosis
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Hi! This is my little project introducing quasicrystals animations with some parameters. It uses a custom shader to allow higher resolution.<p>Not all combinations look equally good. For example the "Spectrum" color palette IMO makes sense only for low values of "Tempo" and "Pattern Density".<p>If you have VR googles, I recommend trying the WebXR version - it's really nice.</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49310533">https://news.ycombinator.com/item?id=49310533</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://opensauce.it/cloudflare-ai-psychosis/">https://opensauce.it/cloudflare-ai-psychosis/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49310719">https://news.ycombinator.com/item?id=49310719</a></p>
+<p>Points: 72</p>
+<p># Comments: 32</p>
 
-🔗 **Read more:** [https://hypnagogic-quasicrystals.github.io/](https://hypnagogic-quasicrystals.github.io/)
+🔗 **Read more:** [https://opensauce.it/cloudflare-ai-psychosis/](https://opensauce.it/cloudflare-ai-psychosis/)
 
 ---
 
-### 3. Yadda 3.0.0: BDD in the Age of AI Agents
+### 3. Writergate: Zig I/O Interface Overhaul
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html">http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49310495">https://news.ycombinator.com/item?id=49310495</a></p>
-<p>Points: 5</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://alexrios.me/blog/writergate/">https://alexrios.me/blog/writergate/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49310623">https://news.ycombinator.com/item?id=49310623</a></p>
+<p>Points: 17</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html](http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html)
+🔗 **Read more:** [https://alexrios.me/blog/writergate/](https://alexrios.me/blog/writergate/)
 
 ---
 
@@ -150,29 +149,29 @@ Natural event: Severe Storms
 
 ---
 
-### 11. Tropical Storm Nangka
+### 11. Iceberg C39
 
 **Source:** NASA
 
 **Category:** nature
 
 **Description:**
-Natural event: Severe Storms
+Natural event: Sea and Lake Ice
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6051](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6051)
 
 ---
 
-### 12. Tropical Storm Lala
+### 12. Iceberg D32
 
 **Source:** NASA
 
 **Category:** nature
 
 **Description:**
-Natural event: Severe Storms
+Natural event: Sea and Lake Ice
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6288](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6288)
 
 ---
 

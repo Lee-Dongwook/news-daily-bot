@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-15 11:02:58
+**Last Update:** 2026-08-15 11:19:11
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://ampcode.com/notes/thats-not-soc-2-compliant">https://ampcode.com/notes/thats-not-soc-2-compliant</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49308073">https://news.ycombinator.com/item?id=49308073</a></p>
-<p>Points: 32</p>
-<p># Comments: 14</p>
+<p>Points: 36</p>
+<p># Comments: 16</p>
 
 🔗 **Read more:** [https://ampcode.com/notes/thats-not-soc-2-compliant](https://ampcode.com/notes/thats-not-soc-2-compliant)
 
@@ -51,7 +51,7 @@
 **Description:**
 <p>Article URL: <a href="https://conic.al/writing/the-other-sean-byrne-doesnt-exist/">https://conic.al/writing/the-other-sean-byrne-doesnt-exist/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49307592">https://news.ycombinator.com/item?id=49307592</a></p>
-<p>Points: 67</p>
+<p>Points: 74</p>
 <p># Comments: 18</p>
 
 🔗 **Read more:** [https://conic.al/writing/the-other-sean-byrne-doesnt-exist/](https://conic.al/writing/the-other-sean-byrne-doesnt-exist/)
@@ -97,7 +97,33 @@ Single-use grills pose a "significant risk to the public" in current drought and
 
 ---
 
-### 7. South Korea’s president wants talks with North to end Korean War
+### 7. Israeli strike kills seven in south Lebanon as attacks intensify
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Deadliest Israeli attack in Lebanon since June agreements significantly reduced hostilities.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/15/israeli-strike-kills-seven-in-south-lebanon-as-attacks-intensify?traffic_source=rss](https://www.aljazeera.com/news/2026/8/15/israeli-strike-kills-seven-in-south-lebanon-as-attacks-intensify?traffic_source=rss)
+
+---
+
+### 8. Moment Israeli forces storm wedding hall in occupied West Bank
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Israeli forces stormed a wedding hall in al-Eizariya town in the occupied West Bank and assaulted Palestinian attendees.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/15/moment-israeli-forces-storm-wedding-hall-in-occupied-west-bank?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/15/moment-israeli-forces-storm-wedding-hall-in-occupied-west-bank?traffic_source=rss)
+
+---
+
+### 9. South Korea’s president wants talks with North to end Korean War
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Single-use grills pose a "significant risk to the public" in current drought and
 South Korean President Lee Jae Myung has proposed talks with North Korea to formally end the Korean War.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/15/south-koreas-president-wants-talks-with-north-to-end-korean-war?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/15/south-koreas-president-wants-talks-with-north-to-end-korean-war?traffic_source=rss)
-
----
-
-### 8. Small-scale projects offer hope for Gaza farmers rebuilding lives
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Greenhouses and rented plots are lifelines for Gaza&#039;s farmers, helping them grow crops despite the extensive destruction
-
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/15/small-scale-projects-offer-hope-for-gaza-farmers-rebuilding-lives?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/15/small-scale-projects-offer-hope-for-gaza-farmers-rebuilding-lives?traffic_source=rss)
-
----
-
-### 9. How a Sudanese refugee became a head teacher in a Chadian camp
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Displaced by Sudan’s war, Sahra now leads a refugee school where education offers children safety and hope.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/15/how-a-sudanese-refugee-became-a-head-teacher-in-a-chadian-camp?traffic_source=rss](https://www.aljazeera.com/news/2026/8/15/how-a-sudanese-refugee-became-a-head-teacher-in-a-chadian-camp?traffic_source=rss)
 
 ---
 

@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-15 17:18:39
+**Last Update:** 2026-08-15 17:55:53
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Brazilian election filter in X For You timeline
+### 1. Secondhand book sales are booming. Is it because of AI?
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.bbc.co.uk/news/articles/cp3rprx2wl4o">https://www.bbc.co.uk/news/articles/cp3rprx2wl4o</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49310725">https://news.ycombinator.com/item?id=49310725</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cp3rprx2wl4o](https://www.bbc.co.uk/news/articles/cp3rprx2wl4o)
+
+---
+
+### 2. Yadda 3.0.0: BDD in the Age of AI Agents
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html">http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49310495">https://news.ycombinator.com/item?id=49310495</a></p>
+<p>Points: 4</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html](http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html)
+
+---
+
+### 3. Brazilian election filter in X For You timeline
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/xai-org/x-algorithm/blob/main/home-mixer/filters/brazil_2026_election_filter.rs">https://github.com/xai-org/x-algorithm/blob/main/home-mixer/filters/brazil_2026_election_filter.rs</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49310291">https://news.ycombinator.com/item?id=49310291</a></p>
-<p>Points: 13</p>
-<p># Comments: 5</p>
+<p>Points: 26</p>
+<p># Comments: 20</p>
 
 🔗 **Read more:** [https://github.com/xai-org/x-algorithm/blob/main/home-mixer/filters/brazil_2026_election_filter.rs](https://github.com/xai-org/x-algorithm/blob/main/home-mixer/filters/brazil_2026_election_filter.rs)
-
----
-
-### 2. 388 years ago, Galileo worked out why human giants can't exist
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.scientificamerican.com/article/388-years-ago-galileo-worked-out-why-human-giants-cant-exist-and-explained-a-law-of-nature/">https://www.scientificamerican.com/article/388-years-ago-galileo-worked-out-why-human-giants-cant-exist-and-explained-a-law-of-nature/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49310277">https://news.ycombinator.com/item?id=49310277</a></p>
-<p>Points: 8</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://www.scientificamerican.com/article/388-years-ago-galileo-worked-out-why-human-giants-cant-exist-and-explained-a-law-of-nature/](https://www.scientificamerican.com/article/388-years-ago-galileo-worked-out-why-human-giants-cant-exist-and-explained-a-law-of-nature/)
-
----
-
-### 3. Brain turns listening inward during REM sleep, EEG recordings suggest
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://medicalxpress.com/news/2026-07-brain-rem-eeg.html">https://medicalxpress.com/news/2026-07-brain-rem-eeg.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49310248">https://news.ycombinator.com/item?id=49310248</a></p>
-<p>Points: 10</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://medicalxpress.com/news/2026-07-brain-rem-eeg.html](https://medicalxpress.com/news/2026-07-brain-rem-eeg.html)
 
 ---
 
@@ -65,7 +65,7 @@
 **Category:** world
 
 **Description:**
-Andy Burnham said the former Cambridge professor's death was a "really sad, sad and sorry state of affairs".
+Andy Burnham says the former Cambridge professor's death is a "really sad, sad and sorry state of affairs".
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9982znvyk4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9982znvyk4o?at_medium=RSS&at_campaign=rss)
 
@@ -78,7 +78,7 @@ Andy Burnham said the former Cambridge professor's death was a "really sad, sad 
 **Category:** world
 
 **Description:**
-The academic's Cambridge appointment in 2023 drew worldwide attention
+Barely 1% of professors at UK universities are black, so he was joining a small and highly visible minority in academia, writes Education Editor Branwen Jeffreys.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr59jg1ypd3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr59jg1ypd3o?at_medium=RSS&at_campaign=rss)
 

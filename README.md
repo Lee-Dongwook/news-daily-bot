@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-15 03:13:17
+**Last Update:** 2026-08-15 04:53:24
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Stop sending me PRs; a rant
+### 1. The Ploopy A+ Trackball Is Here
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://getsmall.xyz/post/cmstjfl9l000if70ljmpzr4va">https://getsmall.xyz/post/cmstjfl9l000if70ljmpzr4va</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49305558">https://news.ycombinator.com/item?id=49305558</a></p>
+<p>Article URL: <a href="https://blog.ploopy.co/the-aplus-is-finally-here-499">https://blog.ploopy.co/the-aplus-is-finally-here-499</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49306443">https://news.ycombinator.com/item?id=49306443</a></p>
+<p>Points: 4</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://blog.ploopy.co/the-aplus-is-finally-here-499](https://blog.ploopy.co/the-aplus-is-finally-here-499)
+
+---
+
+### 2. Simplifying and Refactoring Introductory Calculus
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://arxiv.org/abs/1811.03459">https://arxiv.org/abs/1811.03459</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49306196">https://news.ycombinator.com/item?id=49306196</a></p>
 <p>Points: 5</p>
-<p># Comments: 1</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://getsmall.xyz/post/cmstjfl9l000if70ljmpzr4va](https://getsmall.xyz/post/cmstjfl9l000if70ljmpzr4va)
+🔗 **Read more:** [https://arxiv.org/abs/1811.03459](https://arxiv.org/abs/1811.03459)
 
 ---
 
-### 2. RISC-V: They should have known better
+### 3. Corgi kills short-lived website that ranked its female employees
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://dmitry.gr/?r=06.%20Thoughts&amp;proj=12.%20RV">https://dmitry.gr/?r=06.%20Thoughts&amp;proj=12.%20RV</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49305492">https://news.ycombinator.com/item?id=49305492</a></p>
-<p>Points: 41</p>
-<p># Comments: 10</p>
+<p>Article URL: <a href="https://sf.gazetteer.co/corgi-kills-short-lived-website-that-ranked-its-female-employees">https://sf.gazetteer.co/corgi-kills-short-lived-website-that-ranked-its-female-employees</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49306080">https://news.ycombinator.com/item?id=49306080</a></p>
+<p>Points: 5</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV](https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV)
-
----
-
-### 3. Going Dark, and the era of law enforcement hacking
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/">https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49304447">https://news.ycombinator.com/item?id=49304447</a></p>
-<p>Points: 136</p>
-<p># Comments: 89</p>
-
-🔗 **Read more:** [https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/](https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/)
+🔗 **Read more:** [https://sf.gazetteer.co/corgi-kills-short-lived-website-that-ranked-its-female-employees](https://sf.gazetteer.co/corgi-kills-short-lived-website-that-ranked-its-female-employees)
 
 ---
 
@@ -97,42 +97,42 @@ Single-use grills pose a "significant risk to the public" in current drought and
 
 ---
 
-### 7. Lebanon’s PM urges timetable for Israeli withdrawal as Hezbollah slams deal
+### 7. Buenaventura residents criticise state neglect after Colombia’s earthquake
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Hezbollah criticises Beirut’s approach, accusing officials of exposing the Lebanese army to risks and Israeli pressure.
+Locals in impoverished areas say the insufficient government response after the earthquake speaks to a broader trend.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/14/lebanons-pm-urges-timetable-for-israeli-withdrawal-as-hezbollah-slams-deal?traffic_source=rss](https://www.aljazeera.com/news/2026/8/14/lebanons-pm-urges-timetable-for-israeli-withdrawal-as-hezbollah-slams-deal?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/longform/2026/8/15/buenaventura-residents-criticise-state-neglect-after-colombias-earthquake?traffic_source=rss](https://www.aljazeera.com/features/longform/2026/8/15/buenaventura-residents-criticise-state-neglect-after-colombias-earthquake?traffic_source=rss)
 
 ---
 
-### 8. Houthi attack on port kills four eroding truce with Yemen’s government
+### 8. Lula holds slim lead over Flavio Bolsonaro ahead of Brazil election
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Six Houthi ballistic missiles struck Yemen&#039;s government-held al-Makha port, killing at least four.
+A new poll shows Lula leading Bolsonaro, but the gap has closed ahead of Brazil&#039;s high-stakes presidential election.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/14/houthi-attack-on-port-kills-four-eroding-truce-with-yemens-government?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/14/houthi-attack-on-port-kills-four-eroding-truce-with-yemens-government?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/15/lula-holds-slim-lead-over-flavio-bolsonaro-ahead-of-brazil-election?traffic_source=rss](https://www.aljazeera.com/news/2026/8/15/lula-holds-slim-lead-over-flavio-bolsonaro-ahead-of-brazil-election?traffic_source=rss)
 
 ---
 
-### 9. Yemen’s government says Houthi attack on al-Makha kills at least four
+### 9. UN urges support for Afghan women’s aid five years into Taliban rule
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Hostilities are rising between Iran-backed Houthis and Yemen&#039;s internationally recognised government.
+More than half of women’s organisations operating in Afghanistan could cease operations within next year: UN Women.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/14/yemens-government-says-houthi-attack-on-al-makha-kills-at-least-four?traffic_source=rss](https://www.aljazeera.com/news/2026/8/14/yemens-government-says-houthi-attack-on-al-makha-kills-at-least-four?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/15/un-urges-support-for-afghan-womens-aid-five-years-into-taliban-rule?traffic_source=rss](https://www.aljazeera.com/news/2026/8/15/un-urges-support-for-afghan-womens-aid-five-years-into-taliban-rule?traffic_source=rss)
 
 ---
 

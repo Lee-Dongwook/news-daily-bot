@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-15 16:12:07
+**Last Update:** 2026-08-15 16:34:35
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
@@ -19,14 +19,30 @@
 **Description:**
 <p>Article URL: <a href="https://sankalp.bearblog.dev/autoresearch/">https://sankalp.bearblog.dev/autoresearch/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49309549">https://news.ycombinator.com/item?id=49309549</a></p>
-<p>Points: 43</p>
-<p># Comments: 8</p>
+<p>Points: 61</p>
+<p># Comments: 12</p>
 
 🔗 **Read more:** [https://sankalp.bearblog.dev/autoresearch/](https://sankalp.bearblog.dev/autoresearch/)
 
 ---
 
-### 2. Debian has begun voting on the future of AI/LLM contributions
+### 2. OpenAI rolling out ads for Europe later this month
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://openai.com/policies/eu-privacy-policy-preview/">https://openai.com/policies/eu-privacy-policy-preview/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49309509">https://news.ycombinator.com/item?id=49309509</a></p>
+<p>Points: 11</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://openai.com/policies/eu-privacy-policy-preview/](https://openai.com/policies/eu-privacy-policy-preview/)
+
+---
+
+### 3. Debian has begun voting on the future of AI/LLM contributions
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html">https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49309050">https://news.ycombinator.com/item?id=49309050</a></p>
-<p>Points: 39</p>
-<p># Comments: 25</p>
+<p>Points: 43</p>
+<p># Comments: 26</p>
 
 🔗 **Read more:** [https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html](https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html)
-
----
-
-### 3. Using GCC's Nested Functions with Wide Pointers and No Trampolines II
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://uecker.codeberg.page/2026-07-14.html">https://uecker.codeberg.page/2026-07-14.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49308685">https://news.ycombinator.com/item?id=49308685</a></p>
-<p>Points: 34</p>
-<p># Comments: 15</p>
-
-🔗 **Read more:** [https://uecker.codeberg.page/2026-07-14.html](https://uecker.codeberg.page/2026-07-14.html)
 
 ---
 
@@ -97,7 +97,20 @@ A search and rescue operation is under way to find survivors in Flores, an islan
 
 ---
 
-### 7. Afghan refugees face an uncertain future as Europe shifts to the right
+### 7. Five years on, how will Taliban deal with armed opposition?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The United Nations says armed groups opposed to the government remain active.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/15/five-years-on-how-will-taliban-deal-with-armed-opposition?traffic_source=rss](https://www.aljazeera.com/news/2026/8/15/five-years-on-how-will-taliban-deal-with-armed-opposition?traffic_source=rss)
+
+---
+
+### 8. Afghan refugees face an uncertain future as Europe shifts to the right
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ With the fall of the former government in Kabul, thousands of Afghans were force
 
 ---
 
-### 8. Is China seeking to copy Iran’s Strait of Hormuz blockade around Taiwan?
+### 9. Is China seeking to copy Iran’s Strait of Hormuz blockade around Taiwan?
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ With the fall of the former government in Kabul, thousands of Afghans were force
 Taiwan has long prepared for a Chinese military invasion but wars in Iran and Ukraine expose new potential threats.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/101-east/2026/8/15/is-china-seeking-to-copy-irans-strait-of-hormuz-blockade-around-taiwan?traffic_source=rss](https://www.aljazeera.com/video/101-east/2026/8/15/is-china-seeking-to-copy-irans-strait-of-hormuz-blockade-around-taiwan?traffic_source=rss)
-
----
-
-### 9. Modi threatens to target ‘intellectual Naxals’ in Independence Day speech
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The Indian PM said Maoist-influenced Naxalite rebellion is largely gone, but its ideological backers still pose threat.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/15/modi-threatens-to-target-intellectual-naxals-in-independence-day-speech?traffic_source=rss](https://www.aljazeera.com/news/2026/8/15/modi-threatens-to-target-intellectual-naxals-in-independence-day-speech?traffic_source=rss)
 
 ---
 

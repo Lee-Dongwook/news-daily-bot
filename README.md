@@ -1,44 +1,44 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-15 20:16:58
+**Last Update:** 2026-08-15 20:52:57
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. The price of a Costco hot dog has gone up
+### 1. A controversial Alzheimer's surgery is said to reverse symptoms
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://sina.bio/posts/costco-hotdog.html">https://sina.bio/posts/costco-hotdog.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49311685">https://news.ycombinator.com/item?id=49311685</a></p>
-<p>Points: 4</p>
+<p>Article URL: <a href="https://www.nature.com/articles/d41586-026-02448-x">https://www.nature.com/articles/d41586-026-02448-x</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49312008">https://news.ycombinator.com/item?id=49312008</a></p>
+<p>Points: 23</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://sina.bio/posts/costco-hotdog.html](https://sina.bio/posts/costco-hotdog.html)
+🔗 **Read more:** [https://www.nature.com/articles/d41586-026-02448-x](https://www.nature.com/articles/d41586-026-02448-x)
 
 ---
 
-### 2. AI Can Now Design Functional Viruses. Should We Worry?
+### 2. Semaglutide linked to 26% lower 5-year predicted dementia risk
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://spectrum.ieee.org/ai-designed-virus">https://spectrum.ieee.org/ai-designed-virus</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49311445">https://news.ycombinator.com/item?id=49311445</a></p>
-<p>Points: 35</p>
-<p># Comments: 30</p>
+<p>Article URL: <a href="https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432">https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49311651">https://news.ycombinator.com/item?id=49311651</a></p>
+<p>Points: 31</p>
+<p># Comments: 10</p>
 
-🔗 **Read more:** [https://spectrum.ieee.org/ai-designed-virus](https://spectrum.ieee.org/ai-designed-virus)
+🔗 **Read more:** [https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432)
 
 ---
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.dampfkraft.com/ghost-characters.html">https://www.dampfkraft.com/ghost-characters.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49310926">https://news.ycombinator.com/item?id=49310926</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Points: 24</p>
+<p># Comments: 1</p>
 
 🔗 **Read more:** [https://www.dampfkraft.com/ghost-characters.html](https://www.dampfkraft.com/ghost-characters.html)
 
@@ -97,42 +97,42 @@ Major incidents are declared across the UK including in Stourbridge, Sandwell an
 
 ---
 
-### 7. Ukraine hits Russian Starlink-style network, Moscow tracks arms package
+### 7. Erdogan says Egypt could join Turkiye-Saudi-Pakistan defence pact
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ukraine used domestically produced Flamingo missiles to hit targets in Russia&#039;s southwestern Samara region.
+Turkish president tells Al Jazeera that the recently signed agreement is open to new members as he pledges continued support.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/15/ukraine-hits-russian-starlink-style-network-moscow-tracks-arms-package?traffic_source=rss](https://www.aljazeera.com/news/2026/8/15/ukraine-hits-russian-starlink-style-network-moscow-tracks-arms-package?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/15/erdogan-says-egypt-could-join-turkiye-saudi-pakistan-defence-pact?traffic_source=rss](https://www.aljazeera.com/news/2026/8/15/erdogan-says-egypt-could-join-turkiye-saudi-pakistan-defence-pact?traffic_source=rss)
 
 ---
 
-### 8. Israeli settlers besiege Palestinian families in occupied West Bank
+### 8. One killed, dozens injured after wildfire hits Croatian coast
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Three Palestinian families say they have been trapped inside their homes in the occupied West Bank for nearly a week.
+At least one person was killed and around 42 others were injured after a violent wildfire hit a coastal town in Croatia.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/15/15-08-reported-nour-west-bank-ps?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/15/15-08-reported-nour-west-bank-ps?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/15/one-killed-dozens-injured-after-wildfire-hits-croatian-coast?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/15/one-killed-dozens-injured-after-wildfire-hits-croatian-coast?traffic_source=rss)
 
 ---
 
-### 9. Sedition to anthem: Many lives of ‘Azadi’ chants in India’s youth protests
+### 9. Sudan’s al-Burhan pledges immunity for dialogue, rules out Hemedti return
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A decade ago, student leaders were jailed for shouting &#039;Azadi&#039;, which means freedom.
+Al-Burhan pledged temporary immunity and legal protections for participants in a Sudanese national dialogue.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/15/sedition-to-anthem-many-lives-of-aazadi-chants-in-indias-youth-protests?traffic_source=rss](https://www.aljazeera.com/features/2026/8/15/sedition-to-anthem-many-lives-of-aazadi-chants-in-indias-youth-protests?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/15/sudans-al-burhan-pledges-immunity-for-dialogue-rules-out-hemedti-return?traffic_source=rss](https://www.aljazeera.com/news/2026/8/15/sudans-al-burhan-pledges-immunity-for-dialogue-rules-out-hemedti-return?traffic_source=rss)
 
 ---
 

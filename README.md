@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-15 22:53:31
+**Last Update:** 2026-08-15 23:11:35
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Voltair (YC W26) Is Hiring a Test Flight Engineer
+### 1. So How Is AI Drug Discovery Doing, Really?
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really">https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49313367">https://news.ycombinator.com/item?id=49313367</a></p>
+<p>Points: 12</p>
+<p># Comments: 5</p>
+
+🔗 **Read more:** [https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really](https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really)
+
+---
+
+### 2. First human trials of designer protein therapies stun US neuroscientists
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://cen.acs.org/biological-chemistry/biotechnology/human-trial-chemogenetic-brain-therapy/104/web/2026/08">https://cen.acs.org/biological-chemistry/biotechnology/human-trial-chemogenetic-brain-therapy/104/web/2026/08</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49313097">https://news.ycombinator.com/item?id=49313097</a></p>
+<p>Points: 6</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://cen.acs.org/biological-chemistry/biotechnology/human-trial-chemogenetic-brain-therapy/104/web/2026/08](https://cen.acs.org/biological-chemistry/biotechnology/human-trial-chemogenetic-brain-therapy/104/web/2026/08)
+
+---
+
+### 3. Voltair (YC W26) Is Hiring a Test Flight Engineer
 
 **Source:** Hacker News
 
@@ -23,38 +55,6 @@
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer](https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer)
-
----
-
-### 2. AI Isn't Outthinking Mathematicians. It's Out-Remembering Them
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians">https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49312845">https://news.ycombinator.com/item?id=49312845</a></p>
-<p>Points: 131</p>
-<p># Comments: 89</p>
-
-🔗 **Read more:** [https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians)
-
----
-
-### 3. Thunderbird's Desktop Calendar Visual Redesign
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://blog.thunderbird.net/2026/08/desktop-calendar-a-design-journey/">https://blog.thunderbird.net/2026/08/desktop-calendar-a-design-journey/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49312823">https://news.ycombinator.com/item?id=49312823</a></p>
-<p>Points: 10</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://blog.thunderbird.net/2026/08/desktop-calendar-a-design-journey/](https://blog.thunderbird.net/2026/08/desktop-calendar-a-design-journey/)
 
 ---
 
@@ -97,7 +97,20 @@ Major incidents are declared across the UK including in Stourbridge, Sandwell an
 
 ---
 
-### 7. La Liga: Real Madrid key talking points heading into new 2026-27 season
+### 7. Death toll from Zimbabwe ferry disaster rises to 69
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Police say 23 more bodies have been recovered from Lake Kariba after the overloaded vessel capsized on Tuesday.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/15/death-toll-from-zimbabwe-ferry-disaster-rises-to-69?traffic_source=rss](https://www.aljazeera.com/news/2026/8/15/death-toll-from-zimbabwe-ferry-disaster-rises-to-69?traffic_source=rss)
+
+---
+
+### 8. La Liga: Real Madrid key talking points heading into new 2026-27 season
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Real Madrid welcome back Jose Mourinho as manager as they attempt to stop a thre
 
 ---
 
-### 8. Cleanup underway as Russian oil spill reaches Oman’s coastline
+### 9. Cleanup underway as Russian oil spill reaches Oman’s coastline
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Real Madrid welcome back Jose Mourinho as manager as they attempt to stop a thre
 Cleanup crews are responding along 12 kilometres of Omani coastline following an oil spill from the grounded tanker.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/15/15-08-sv-oil-spill-oman-on?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/15/15-08-sv-oil-spill-oman-on?traffic_source=rss)
-
----
-
-### 9. US aircraft carrier expected to relieve USS Lincoln in Middle East
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The USS Washington&#039;s movement comes amid reports of dire conditions on the USS Lincoln amid the ongoing Iran war.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/15/us-aircraft-carrier-expected-to-relieve-uss-lincoln-in-middle-east?traffic_source=rss](https://www.aljazeera.com/news/2026/8/15/us-aircraft-carrier-expected-to-relieve-uss-lincoln-in-middle-east?traffic_source=rss)
 
 ---
 

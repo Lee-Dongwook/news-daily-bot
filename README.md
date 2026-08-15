@@ -1,64 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-15 06:24:27
+**Last Update:** 2026-08-15 06:39:32
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** NASA, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive">https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49306577">https://news.ycombinator.com/item?id=49306577</a></p>
-<p>Points: 68</p>
-<p># Comments: 14</p>
-
-🔗 **Read more:** [https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive)
-
----
-
-### 2. The Ploopy A+ Trackball Is Here
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://blog.ploopy.co/the-aplus-is-finally-here-499">https://blog.ploopy.co/the-aplus-is-finally-here-499</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49306443">https://news.ycombinator.com/item?id=49306443</a></p>
-<p>Points: 30</p>
-<p># Comments: 18</p>
-
-🔗 **Read more:** [https://blog.ploopy.co/the-aplus-is-finally-here-499](https://blog.ploopy.co/the-aplus-is-finally-here-499)
-
----
-
-### 3. NSA and IETF, Part 9
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://blog.cr.yp.to/20260814-update.html">https://blog.cr.yp.to/20260814-update.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49306432">https://news.ycombinator.com/item?id=49306432</a></p>
-<p>Points: 15</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://blog.cr.yp.to/20260814-update.html](https://blog.cr.yp.to/20260814-update.html)
-
----
-
-### 4. Jason Arday, ex-Cambridge professor at centre of plagiarism row, found dead
+### 1. Jason Arday, ex-Cambridge professor at centre of plagiarism row, found dead
 
 **Source:** BBC
 
@@ -71,7 +23,7 @@ His family said it was "in shock to have lost this amazing father, partner, brot
 
 ---
 
-### 5. Fires prompt national alert as 19 homes destroyed
+### 2. Fires prompt national alert as 19 homes destroyed
 
 **Source:** BBC
 
@@ -84,7 +36,7 @@ The prime minister said 37 fires were currently burning across England and Wales
 
 ---
 
-### 6. Temporary ban on sale of disposable BBQs over wildfire risk
+### 3. Temporary ban on sale of disposable BBQs over wildfire risk
 
 **Source:** BBC
 
@@ -97,7 +49,7 @@ Single-use grills pose a "significant risk to the public" in current drought and
 
 ---
 
-### 7. US President Trump says he will declare Strait of Hormuz US territory
+### 4. US President Trump says he will declare Strait of Hormuz US territory
 
 **Source:** Al Jazeera
 
@@ -110,7 +62,7 @@ US President Donald Trump said he will “soon” declare the Strait of Hormuz a
 
 ---
 
-### 8. Venezuela says 131 political prisoners freed amid post-Maduro talks
+### 5. Venezuela says 131 political prisoners freed amid post-Maduro talks
 
 **Source:** Al Jazeera
 
@@ -123,7 +75,7 @@ As detainees granted &#039;alternative&#039; to imprisonment, US welcomes releas
 
 ---
 
-### 9. 7.7-magnitude earthquake strikes eastern Indonesia
+### 6. 7.7-magnitude earthquake strikes eastern Indonesia
 
 **Source:** Al Jazeera
 
@@ -136,7 +88,7 @@ A powerful 7.7-magnitude earthquake struck eastern Indonesia, damaging buildings
 
 ---
 
-### 10. Tropical Storm Hernan
+### 7. Tropical Storm Hernan
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Severe Storms
 
 ---
 
-### 11. Tropical Storm Nangka
+### 8. Tropical Storm Nangka
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Severe Storms
 
 ---
 
-### 12. Tropical Storm Lala
+### 9. Tropical Storm Lala
 
 **Source:** NASA
 

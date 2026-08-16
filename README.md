@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-16 08:26:31
+**Last Update:** 2026-08-16 09:05:52
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
@@ -19,42 +19,42 @@
 **Description:**
 <p>Article URL: <a href="https://breck.lol/plMakers.html">https://breck.lol/plMakers.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49316888">https://news.ycombinator.com/item?id=49316888</a></p>
-<p>Points: 9</p>
-<p># Comments: 2</p>
+<p>Points: 32</p>
+<p># Comments: 9</p>
 
 🔗 **Read more:** [https://breck.lol/plMakers.html](https://breck.lol/plMakers.html)
 
 ---
 
-### 2. I checked 30 frontier model cards. Here are the benchmarks labs report
+### 2. 21,000 MCP servers exposed: the protocol reaches a security inflection point
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://koutian.is-a.dev/benchmark-radar/?view=leaderboard">https://koutian.is-a.dev/benchmark-radar/?view=leaderboard</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49316791">https://news.ycombinator.com/item?id=49316791</a></p>
-<p>Points: 7</p>
-<p># Comments: 7</p>
+<p>Article URL: <a href="https://forkast.news/the-model-context-protocol-reaches-a-security-inflection-point/">https://forkast.news/the-model-context-protocol-reaches-a-security-inflection-point/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49316815">https://news.ycombinator.com/item?id=49316815</a></p>
+<p>Points: 11</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://koutian.is-a.dev/benchmark-radar/?view=leaderboard](https://koutian.is-a.dev/benchmark-radar/?view=leaderboard)
+🔗 **Read more:** [https://forkast.news/the-model-context-protocol-reaches-a-security-inflection-point/](https://forkast.news/the-model-context-protocol-reaches-a-security-inflection-point/)
 
 ---
 
-### 3. Government sponsored study on alcohol doesn't stand up to scrutiny: Nassim Taleb
+### 3. Targeted marine cloud brightening weakens subsequent El Niño
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://nntaleb.substack.com/p/have-another-drink">https://nntaleb.substack.com/p/have-another-drink</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49316611">https://news.ycombinator.com/item?id=49316611</a></p>
-<p>Points: 18</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://www.science.org/doi/10.1126/sciadv.adx3012">https://www.science.org/doi/10.1126/sciadv.adx3012</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49316685">https://news.ycombinator.com/item?id=49316685</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://nntaleb.substack.com/p/have-another-drink](https://nntaleb.substack.com/p/have-another-drink)
+🔗 **Read more:** [https://www.science.org/doi/10.1126/sciadv.adx3012](https://www.science.org/doi/10.1126/sciadv.adx3012)
 
 ---
 
@@ -65,7 +65,7 @@
 **Category:** world
 
 **Description:**
-The party plans to release a full 50-page plan on Monday outlining their proposed changes were they to come to power.
+The party will release a full 50-page plan on Monday outlining the proposed changes - including a replacement for the disability payments system Pip - were they to come to power.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cz977nxww1jo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cz977nxww1jo?at_medium=RSS&at_campaign=rss)
 
@@ -97,42 +97,42 @@ The star plays the first of 10 dates in London, after which she will "step back"
 
 ---
 
-### 7. Yemeni government forces hit back after new Houthi offensive
+### 7. Indonesia’s magnitude 7.7 quake kills at least 51, displaces thousands
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Yemeni government forces, backed by Saudi Arabia, have struck back after a new Houthi offensive in areas it controls.
+Over 1,300 homes damaged and 5,000 people displaced as Indonesia grapples with one of its deadliest quakes in years.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/16/08-16-2026-houthis-yemen-sv?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/16/08-16-2026-houthis-yemen-sv?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/16/indonesias-magnitude-7-7-quake-kills-at-least-51-displaces-thousands?traffic_source=rss](https://www.aljazeera.com/news/2026/8/16/indonesias-magnitude-7-7-quake-kills-at-least-51-displaces-thousands?traffic_source=rss)
 
 ---
 
-### 8. Who killed Tupac? What to know about the trial of Duane ‘Keffe D’ Davis
+### 8. Russian strikes kill Ukrainian woman as NATO jet downs drone over Romania
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Three decades after rapper Tupac Shakur&#039;s death, a former California gang boss is the first person to be prosecuted.
+Romania&#039;s Defence Ministry didn&#039;t specify origin of the drone but has previously blamed Russia for similar incidents.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/16/who-killed-tupac-what-to-know-about-the-trial-of-duane-keffe-d-davis?traffic_source=rss](https://www.aljazeera.com/news/2026/8/16/who-killed-tupac-what-to-know-about-the-trial-of-duane-keffe-d-davis?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/16/russian-strikes-kill-ukrainian-woman-as-nato-jet-downs-drone-over-romania?traffic_source=rss](https://www.aljazeera.com/news/2026/8/16/russian-strikes-kill-ukrainian-woman-as-nato-jet-downs-drone-over-romania?traffic_source=rss)
 
 ---
 
-### 9. Observers say Zambia’s election marred by reports of intimidation, violence
+### 9. Israel strikes south Lebanon again as families flee north
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Vote counting in Thursday&#039;s presidential polls were briefly suspended amid security threats to the electoral process.
+Israeli airstrikes hit the Nabatieh district of southern Lebanon just hours after the deadliest day of Israeli raids.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/16/observers-say-zambias-election-marred-by-reports-of-intimidation-violence?traffic_source=rss](https://www.aljazeera.com/news/2026/8/16/observers-say-zambias-election-marred-by-reports-of-intimidation-violence?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/16/israel-strikes-south-lebanon-again-as-families-flee-north?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/16/israel-strikes-south-lebanon-again-as-families-flee-north?traffic_source=rss)
 
 ---
 

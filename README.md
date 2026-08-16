@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-16 14:52:36
+**Last Update:** 2026-08-16 15:11:14
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** Hacker News, Al Jazeera, BBC
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://littlelearner-ll.github.io/">https://littlelearner-ll.github.io/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49317760">https://news.ycombinator.com/item?id=49317760</a></p>
-<p>Points: 134</p>
-<p># Comments: 93</p>
+<p>Points: 139</p>
+<p># Comments: 98</p>
 
 🔗 **Read more:** [https://littlelearner-ll.github.io/](https://littlelearner-ll.github.io/)
 
@@ -35,7 +35,7 @@
 **Description:**
 <p>Article URL: <a href="https://www.falstad.com/mathphysics.html">https://www.falstad.com/mathphysics.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49316872">https://news.ycombinator.com/item?id=49316872</a></p>
-<p>Points: 22</p>
+<p>Points: 23</p>
 <p># Comments: 4</p>
 
 🔗 **Read more:** [https://www.falstad.com/mathphysics.html](https://www.falstad.com/mathphysics.html)
@@ -51,7 +51,7 @@
 **Description:**
 <p>Article URL: <a href="https://spectrum.ieee.org/stimulated-geologic-hydrogen">https://spectrum.ieee.org/stimulated-geologic-hydrogen</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49316395">https://news.ycombinator.com/item?id=49316395</a></p>
-<p>Points: 19</p>
+<p>Points: 20</p>
 <p># Comments: 5</p>
 
 🔗 **Read more:** [https://spectrum.ieee.org/stimulated-geologic-hydrogen](https://spectrum.ieee.org/stimulated-geologic-hydrogen)
@@ -97,7 +97,20 @@ Hundreds of homes and public buildings have been severely damaged with at least 
 
 ---
 
-### 7. Arsenal vs Manchester City LIVE: FA Community Shield
+### 7. Trump threatens to make the Strait of Hormuz a US territory: Can he?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+US president has yet another outlandish threat for Iran, with no end to war in sight.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/16/trump-threatens-to-make-the-strait-of-hormuz-a-us-territory-can-he?traffic_source=rss](https://www.aljazeera.com/news/2026/8/16/trump-threatens-to-make-the-strait-of-hormuz-a-us-territory-can-he?traffic_source=rss)
+
+---
+
+### 8. Arsenal vs Manchester City LIVE: FA Community Shield
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Follow updates from the Community Shield, including the build-up, analysis and l
 
 ---
 
-### 8. Why has Israel escalated attacks in southern Lebanon despite ceasefire?
+### 9. Why has Israel escalated attacks in southern Lebanon despite ceasefire?
 
 **Source:** Al Jazeera
 
@@ -120,58 +133,6 @@ Follow updates from the Community Shield, including the build-up, analysis and l
 At least 11 people killed in one day of Israeli attacks despite truce extension brokered by US in June.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/16/why-has-israel-escalated-attacks-in-southern-lebanon-despite-ceasefire?traffic_source=rss](https://www.aljazeera.com/news/2026/8/16/why-has-israel-escalated-attacks-in-southern-lebanon-despite-ceasefire?traffic_source=rss)
-
----
-
-### 9. Premier League: Key talking points heading into the new 2026-27 season
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-City, Liverpool and Chelsea have new faces in the dugout as Arsenal attempt to defend title for first time in 90 years.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/16/premier-league-key-talking-points-heading-into-the-new-2026-27-season?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/16/premier-league-key-talking-points-heading-into-the-new-2026-27-season?traffic_source=rss)
-
----
-
-### 10. Tropical Storm Hernan
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562)
-
----
-
-### 11. Tropical Storm Nangka
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561)
-
----
-
-### 12. Tropical Storm Lala
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563)
 
 ---
 

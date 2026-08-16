@@ -1,48 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-16 11:21:44
+**Last Update:** 2026-08-16 12:02:37
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: Laptop is the last place your secrets are still in plaintext
+### 1. What happens when an LLM never sees material beyond fifth grade?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/jitpass/jit">https://github.com/jitpass/jit</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49317546">https://news.ycombinator.com/item?id=49317546</a></p>
-<p>Points: 24</p>
-<p># Comments: 19</p>
+<p>Article URL: <a href="https://littlelearner-ll.github.io/">https://littlelearner-ll.github.io/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49317760">https://news.ycombinator.com/item?id=49317760</a></p>
+<p>Points: 46</p>
+<p># Comments: 22</p>
 
-🔗 **Read more:** [https://github.com/jitpass/jit](https://github.com/jitpass/jit)
-
----
-
-### 2. Health benefits of Tai Chi
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.health.harvard.edu/exercise-and-fitness/the-health-benefits-of-tai-chi">https://www.health.harvard.edu/exercise-and-fitness/the-health-benefits-of-tai-chi</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49317279">https://news.ycombinator.com/item?id=49317279</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://www.health.harvard.edu/exercise-and-fitness/the-health-benefits-of-tai-chi](https://www.health.harvard.edu/exercise-and-fitness/the-health-benefits-of-tai-chi)
+🔗 **Read more:** [https://littlelearner-ll.github.io/](https://littlelearner-ll.github.io/)
 
 ---
 
-### 3. Falstad Math and Physics Simulations
+### 2. Falstad Math and Physics Simulations
 
 **Source:** Hacker News
 
@@ -51,27 +35,56 @@
 **Description:**
 <p>Article URL: <a href="https://www.falstad.com/mathphysics.html">https://www.falstad.com/mathphysics.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49316872">https://news.ycombinator.com/item?id=49316872</a></p>
-<p>Points: 8</p>
+<p>Points: 11</p>
 <p># Comments: 1</p>
 
 🔗 **Read more:** [https://www.falstad.com/mathphysics.html](https://www.falstad.com/mathphysics.html)
 
 ---
 
-### 4. Rescuers search for survivors of powerful Indonesia earthquake
+### 3. Government sponsored study on alcohol doesn't stand up to scrutiny
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://nntaleb.substack.com/p/have-another-drink">https://nntaleb.substack.com/p/have-another-drink</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49316611">https://news.ycombinator.com/item?id=49316611</a></p>
+<p>Points: 41</p>
+<p># Comments: 29</p>
+
+🔗 **Read more:** [https://nntaleb.substack.com/p/have-another-drink](https://nntaleb.substack.com/p/have-another-drink)
+
+---
+
+### 4. Thousands displaced by deadly Indonesia earthquake as rescue efforts continue
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Officials say a rapid assessment into the impact of the earthquake that destroyed hundreds of buildings and killed 47 is under way.
+Hundreds of homes and public buildings have been severely damaged with at least 51 people killed.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Reform UK plans to overhaul welfare system to save £50bn
+### 5. Three killed as Russia launches fresh aerial attacks across Ukraine
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Firefighters are tackling a fire at a market in Kyiv, while Moscow reports that a warehouse was hit.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Reform proposes £50bn welfare bill cut with changes to disability payments for millions
 
 **Source:** BBC
 
@@ -84,20 +97,33 @@ The party's proposed changes were they to come to power include a replacement fo
 
 ---
 
-### 6. Major incidents across UK putting firefighters under 'incredible pressure', fire chief says
+### 7. Lionel Messi misses penalty as Nashville thrash Inter Miami in MLS
 
-**Source:** BBC
+**Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Major incidents declared across England and Wales with blazes in Stourbridge, Sandwell and Pershore.
+Messi&#039;s record from the penalty spot is poor by his sky-high standards, including missing twice at the 2026 World Cup.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwyjjvd4g0qo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwyjjvd4g0qo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/16/lionel-messi-misses-penalty-as-nashville-thrash-inter-miami-in-mls?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/16/lionel-messi-misses-penalty-as-nashville-thrash-inter-miami-in-mls?traffic_source=rss)
 
 ---
 
-### 7. UFC 330: Makhachev secures record-setting win against Machado Garry
+### 8. New satellite images show Europe’s disappearing rivers due to drought
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Half of Europe’s land is experiencing drought with rivers running low from the Danube to the Rhine.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/16/new-satellite-images-show-europes-disappearing-rivers-due-to-drought?traffic_source=rss](https://www.aljazeera.com/news/2026/8/16/new-satellite-images-show-europes-disappearing-rivers-due-to-drought?traffic_source=rss)
+
+---
+
+### 9. UFC 330: Makhachev secures record-setting win against Machado Garry
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Major incidents declared across England and Wales with blazes in Stourbridge, Sa
 Islam Makhachev records 17th UFC victory in a row in his welterweight title defeat of Ian Machado Garry.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/16/ufc-330-makhachev-secures-record-setting-win-against-machado-garry?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/16/ufc-330-makhachev-secures-record-setting-win-against-machado-garry?traffic_source=rss)
-
----
-
-### 8. Bangladesh make history with first-ever Test cricket win in Australia
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Bangladesh dominated Australia throughout, and the margin of victory will send shockwaves through the cricketing world.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/16/bangladesh-australia-first-test-win-miraz-mahmud-hasan-smith-green-hazlewood?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/16/bangladesh-australia-first-test-win-miraz-mahmud-hasan-smith-green-hazlewood?traffic_source=rss)
-
----
-
-### 9. How a simple lighter has become the backbone of life in Gaza
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-In Gaza the struggle to find lighters can mean the difference between cooking a meal or going to bed hungry.
-
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/16/struggle-for-a-spark-gaza-lighter-crisis-makes-cooking-an-expensive-chore?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/16/struggle-for-a-spark-gaza-lighter-crisis-makes-cooking-an-expensive-chore?traffic_source=rss)
 
 ---
 

@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-16 22:52:42
+**Last Update:** 2026-08-16 23:10:30
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. MathCode, Mathematical Coding Agent
+### 1. Protobuf has LSP support. You're welcome
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://buf.build/blog/protobuf-lsp">https://buf.build/blog/protobuf-lsp</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49322573">https://news.ycombinator.com/item?id=49322573</a></p>
+<p>Points: 6</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://buf.build/blog/protobuf-lsp](https://buf.build/blog/protobuf-lsp)
+
+---
+
+### 2. MathCode, Mathematical Coding Agent
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://math-ai-org.github.io/mathcode/">https://math-ai-org.github.io/mathcode/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49322330">https://news.ycombinator.com/item?id=49322330</a></p>
-<p>Points: 10</p>
-<p># Comments: 1</p>
+<p>Points: 12</p>
+<p># Comments: 3</p>
 
 🔗 **Read more:** [https://math-ai-org.github.io/mathcode/](https://math-ai-org.github.io/mathcode/)
 
 ---
 
-### 2. Tell HN: Cloudflare silently injects its analytics when you switch nameservers
+### 3. Tell HN: Cloudflare silently injects its analytics when you switch nameservers
 
 **Source:** Hacker News
 
@@ -36,26 +52,10 @@
 <p>A few hours ago I switched my nameservers to Cloudflare in order to enable R2 bucket serving through my own subdomain, and I found out that it silently had injected a JS analytics snippet in my HTML-only JS-free site textlog.cc — I had to go to the Analytics dashboard, Add the site to the analytics and <i>then</i> disable the snippet. I find this approach entirely invasive, you should opt-in to features like that not have to opt-out. Just a warning out there to folks who might not be aware of this.</p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49322107">https://news.ycombinator.com/item?id=49322107</a></p>
-<p>Points: 44</p>
-<p># Comments: 4</p>
+<p>Points: 60</p>
+<p># Comments: 8</p>
 
 🔗 **Read more:** [https://news.ycombinator.com/item?id=49322107](https://news.ycombinator.com/item?id=49322107)
-
----
-
-### 3. A 3rd World Embedded Engineer Responds to "RISC-V They Should Have Known Better"
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://rvembedded.com/blog_post/12/">https://rvembedded.com/blog_post/12/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49321717">https://news.ycombinator.com/item?id=49321717</a></p>
-<p>Points: 134</p>
-<p># Comments: 44</p>
-
-🔗 **Read more:** [https://rvembedded.com/blog_post/12/](https://rvembedded.com/blog_post/12/)
 
 ---
 
@@ -98,42 +98,42 @@ The alert took many by surprise when it was sent to millions of phones on Friday
 
 ---
 
-### 7. Former Israeli captive asks Ben-Gvir to let him execute Palestinian prisone
+### 7. Erdogan says Israeli attacks on Lebanon are a serious concern for Türkiye
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Former Israeli captive Rom Braslavski asked Ben Gvir to allow him to execute Palestinian prisoners by hanging.
+Turkish President Recep Tayyip Erdogan said continued Israeli attacks on Lebanon are a source of serious concern.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/16/former-israeli-captive-asks-ben-gvir-to-let-him-execute-palestinian-prisone?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/16/former-israeli-captive-asks-ben-gvir-to-let-him-execute-palestinian-prisone?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/16/erdogan-says-israeli-attacks-on-lebanon-are-a-serious-concern-for-turkiye?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/16/erdogan-says-israeli-attacks-on-lebanon-are-a-serious-concern-for-turkiye?traffic_source=rss)
 
 ---
 
-### 8. Israeli army besieges Palestinian homes in occupied West Bank
+### 8. Kushner meets Hamas leaders in Egypt to push Trump’s Gaza plan
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli troops have raided the village of Qusra, south of Nablus, in the occupied West Bank.
+Trump envoy has pushed for disarmament to end any future Hamas role in running Gaza, diplomatic sources tell AFP.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/16/israeli-army-besieges-palestinian-homes-in-occupied-west-bank?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/16/israeli-army-besieges-palestinian-homes-in-occupied-west-bank?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/16/kushner-meets-hamas-in-egypt-to-push-trumps-gaza-plan?traffic_source=rss](https://www.aljazeera.com/news/2026/8/16/kushner-meets-hamas-in-egypt-to-push-trumps-gaza-plan?traffic_source=rss)
 
 ---
 
-### 9. Why are sandwiches more regulated than AI?
+### 9. Erdogan calls for Strait of Hormuz reopening amid oil disruption
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Futurist Max Tegmark wonders why sandwiches are more regulated than artificial intelligence in the US.
+Turkish President Recep Tayyip Erdogan has called for the Strait of Hormuz to reopen.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/the-bottom-line/2026/8/16/why-are-sandwiches-more-regulated-than-ai?traffic_source=rss](https://www.aljazeera.com/video/the-bottom-line/2026/8/16/why-are-sandwiches-more-regulated-than-ai?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-clip-erdogan-hormuz-tr?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-clip-erdogan-hormuz-tr?traffic_source=rss)
 
 ---
 

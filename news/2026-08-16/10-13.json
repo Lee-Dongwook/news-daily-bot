@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-16T10:13:45+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Iran War Is a Whole New Level of Quagmire for the US",
+            "description": "<p>Article URL: <a href=\"https://www.politico.com/news/magazine/2026/08/12/the-us-forgot-the-lessons-of-iraq-now-its-desperate-for-ideas-on-iran-01033217\">https://www.politico.com/news/magazine/2026/08/12/the-us-forgot-the-lessons-of-iraq-now-its-desperate-for-ideas-on-iran-01033217</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49317234\">https://news.ycombinator.com/item?id=49317234</a></p>\n<p>Points: 26</p>\n<p># Comments: 4</p>",
+            "url": "https://www.politico.com/news/magazine/2026/08/12/the-us-forgot-the-lessons-of-iraq-now-its-desperate-for-ideas-on-iran-01033217",
+            "published": "Sun, 16 Aug 2026 05:45:32 +0000",
+            "fetched": "2026-08-16T10:13:45+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The quirky personal homepages of programming language creators",
+            "description": "<p>Article URL: <a href=\"https://breck.lol/plMakers.html\">https://breck.lol/plMakers.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49316888\">https://news.ycombinator.com/item?id=49316888</a></p>\n<p>Points: 54</p>\n<p># Comments: 16</p>",
+            "url": "https://breck.lol/plMakers.html",
+            "published": "Sun, 16 Aug 2026 04:24:00 +0000",
+            "fetched": "2026-08-16T10:13:45+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "21,000 MCP servers exposed: the protocol reaches a security inflection point",
+            "description": "<p>Article URL: <a href=\"https://forkast.news/the-model-context-protocol-reaches-a-security-inflection-point/\">https://forkast.news/the-model-context-protocol-reaches-a-security-inflection-point/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49316815\">https://news.ycombinator.com/item?id=49316815</a></p>\n<p>Points: 11</p>\n<p># Comments: 1</p>",
+            "url": "https://forkast.news/the-model-context-protocol-reaches-a-security-inflection-point/",
+            "published": "Sun, 16 Aug 2026 04:07:18 +0000",
+            "fetched": "2026-08-16T10:13:45+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Rescuers search for survivors of powerful Indonesia earthquake",
+            "description": "Officials say a rapid assessment into the impact of the earthquake that destroyed hundreds of buildings and killed 47 is under way.",
+            "url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 16 Aug 2026 04:13:32 GMT",
+            "fetched": "2026-08-16T10:13:45+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Reform UK plans to overhaul welfare system to save £50bn",
+            "description": "The party's proposed changes were they to come to power include a replacement for the disability payments system Pip.",
+            "url": "https://www.bbc.co.uk/news/articles/cz977nxww1jo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 16 Aug 2026 00:39:22 GMT",
+            "fetched": "2026-08-16T10:13:45+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Major incidents across UK putting firefighters under 'incredible pressure', fire chief says",
+            "description": "Major incidents declared across England and Wales with blazes in Stourbridge, Sandwell and Pershore.",
+            "url": "https://www.bbc.co.uk/news/articles/cwyjjvd4g0qo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 15 Aug 2026 21:28:54 GMT",
+            "fetched": "2026-08-16T10:13:45+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "How a simple lighter has become the backbone of life in Gaza",
+            "description": "In Gaza the struggle to find lighters can mean the difference between cooking a meal or going to bed hungry.",
+            "url": "https://www.aljazeera.com/economy/2026/8/16/struggle-for-a-spark-gaza-lighter-crisis-makes-cooking-an-expensive-chore?traffic_source=rss",
+            "published": "Sun, 16 Aug 2026 06:10:58 +0000",
+            "fetched": "2026-08-16T10:13:45+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "A nation divided: What do Israelis want in October’s elections?",
+            "description": "Despite a genocide and multiple wars, analysts say the issues determining October’s elections fall far closer to home.",
+            "url": "https://www.aljazeera.com/news/2026/8/16/a-nation-divided-what-do-israelis-want-in-octobers-elections?traffic_source=rss",
+            "published": "Sun, 16 Aug 2026 06:06:31 +0000",
+            "fetched": "2026-08-16T10:13:45+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Indonesia’s magnitude 7.7 quake kills at least 51, displaces thousands",
+            "description": "Over 1,300 homes damaged and 5,000 people displaced as Indonesia grapples with one of its deadliest quakes in years.",
+            "url": "https://www.aljazeera.com/news/2026/8/16/indonesias-magnitude-7-7-quake-kills-at-least-51-displaces-thousands?traffic_source=rss",
+            "published": "Sun, 16 Aug 2026 05:14:00 +0000",
+            "fetched": "2026-08-16T10:13:45+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Hernan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562",
+            "published": "2026-08-13T06:00:00Z",
+            "fetched": "2026-08-16T10:13:45+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Nangka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561",
+            "published": "2026-08-13T00:00:00Z",
+            "fetched": "2026-08-16T10:13:45+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Lala",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563",
+            "published": "2026-08-12T18:00:00Z",
+            "fetched": "2026-08-16T10:13:45+03:30"
+        }
+    ]
+}

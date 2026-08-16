@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-16 17:55:56
+**Last Update:** 2026-08-16 18:15:07
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Tasklet (YC P26) Is Hiring a Head of Design Engineering
+### 1. Anthropic revenue reportedly jumps to more than $11.5B in second quarter
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html">https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49320144">https://news.ycombinator.com/item?id=49320144</a></p>
+<p>Points: 7</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html](https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html)
+
+---
+
+### 2. Tasklet (YC P26) Is Hiring a Head of Design Engineering
 
 **Source:** Hacker News
 
@@ -26,7 +42,7 @@
 
 ---
 
-### 2. Firefox for iOS now has a native adblocker
+### 3. Firefox for iOS now has a native adblocker
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://support.mozilla.org/en-US/kb/block-ads-firefox-ios">https://support.mozilla.org/en-US/kb/block-ads-firefox-ios</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49319633">https://news.ycombinator.com/item?id=49319633</a></p>
-<p>Points: 51</p>
-<p># Comments: 17</p>
+<p>Points: 84</p>
+<p># Comments: 26</p>
 
 🔗 **Read more:** [https://support.mozilla.org/en-US/kb/block-ads-firefox-ios](https://support.mozilla.org/en-US/kb/block-ads-firefox-ios)
-
----
-
-### 3. US oil reserves are so low, the caverns holding them could be damaged
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.independent.co.uk/news/world/americas/us-politics/strategic-petroleum-reserve-trump-iran-war-gas-prices-b3033680.html">https://www.independent.co.uk/news/world/americas/us-politics/strategic-petroleum-reserve-trump-iran-war-gas-prices-b3033680.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49319566">https://news.ycombinator.com/item?id=49319566</a></p>
-<p>Points: 41</p>
-<p># Comments: 10</p>
-
-🔗 **Read more:** [https://www.independent.co.uk/news/world/americas/us-politics/strategic-petroleum-reserve-trump-iran-war-gas-prices-b3033680.html](https://www.independent.co.uk/news/world/americas/us-politics/strategic-petroleum-reserve-trump-iran-war-gas-prices-b3033680.html)
 
 ---
 
@@ -97,7 +97,33 @@ Police appeal for two people who stopped to help the victim in Wakefield to come
 
 ---
 
-### 7. Patients treated in tents after earthquake damages Indonesia hospital
+### 7. What is Tokyo’s Yasukuni Shrine, linked to Japan’s wartime atrocities?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+About 2.5 million people, including Japanese war criminals who fought for the country, are enshrined at Yasukuni.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/16/what-is-tokyos-yasukuni-shrine-linked-to-japans-wartime-atrocities?traffic_source=rss](https://www.aljazeera.com/news/2026/8/16/what-is-tokyos-yasukuni-shrine-linked-to-japans-wartime-atrocities?traffic_source=rss)
+
+---
+
+### 8. Who is DEI critic and Jason Arday accuser, Nathan Cofnas?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Nathan Cofnas, who accused Jason Arday of plagiarism, believes intelligence varies between racial groups.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/16/who-is-dei-critic-and-jason-arday-accuser-nathan-cofnas?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/16/who-is-dei-critic-and-jason-arday-accuser-nathan-cofnas?traffic_source=rss)
+
+---
+
+### 9. Patients treated in tents after earthquake damages Indonesia hospital
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Police appeal for two people who stopped to help the victim in Wakefield to come
 Patients treated in tents after earthquake damages Indonesia hospital
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/16/patients-treated-in-tents-after-earthquake-damages-indonesia-hospital?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/16/patients-treated-in-tents-after-earthquake-damages-indonesia-hospital?traffic_source=rss)
-
----
-
-### 8. Houthis launch new attacks on al-Makha and Marib as Yemen conflict escalates
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Houthi missile and drone strikes target Marib and al-Makha, killing at least four people and injuring eight.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/16/houthis-launch-new-attacks-on-al-makha-and-marib-as-yemen-conflict-escalates?traffic_source=rss](https://www.aljazeera.com/news/2026/8/16/houthis-launch-new-attacks-on-al-makha-and-marib-as-yemen-conflict-escalates?traffic_source=rss)
-
----
-
-### 9. Timeline: The one-week siege of Qusra by Israeli settlers in the West Bank
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Israeli settlers encircle Palestinian homes and cut off supplies, leading to a declaration of a military zone.
-
-🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/8/16/timeline-the-one-week-siege-of-qusra-by-israeli-settlers-in-the-west-bank?traffic_source=rss](https://www.aljazeera.com/gallery/2026/8/16/timeline-the-one-week-siege-of-qusra-by-israeli-settlers-in-the-west-bank?traffic_source=rss)
 
 ---
 

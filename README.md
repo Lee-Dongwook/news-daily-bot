@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-16 03:10:46
+**Last Update:** 2026-08-16 05:02:43
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, Al Jazeera, BBC
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. The Government Is Monitoring Anti-Flock TikTok and Instagram Accounts
+### 1. ChatGPT lost 22 points of web share in a year
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.404media.co/the-government-is-monitoring-anti-flock-tiktok-and-instagram-accounts/">https://www.404media.co/the-government-is-monitoring-anti-flock-tiktok-and-instagram-accounts/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49314962">https://news.ycombinator.com/item?id=49314962</a></p>
+<p>Article URL: <a href="https://aicharts.grok.me/c/market-share">https://aicharts.grok.me/c/market-share</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49315630">https://news.ycombinator.com/item?id=49315630</a></p>
+<p>Points: 13</p>
+<p># Comments: 18</p>
+
+🔗 **Read more:** [https://aicharts.grok.me/c/market-share](https://aicharts.grok.me/c/market-share)
+
+---
+
+### 2. Tea5767-Radio-Tuner
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/turtushig22-blip/tea5767-radio-tuner">https://github.com/turtushig22-blip/tea5767-radio-tuner</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49315456">https://news.ycombinator.com/item?id=49315456</a></p>
+<p>Points: 7</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://github.com/turtushig22-blip/tea5767-radio-tuner](https://github.com/turtushig22-blip/tea5767-radio-tuner)
+
+---
+
+### 3. Credit card debt rises to $1.26T, nearing all-time record
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://abc7.com/story/credit-card-debt-rises-126-trillion-nearing-time-record/19667289/">https://abc7.com/story/credit-card-debt-rises-126-trillion-nearing-time-record/19667289/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49315232">https://news.ycombinator.com/item?id=49315232</a></p>
 <p>Points: 37</p>
-<p># Comments: 11</p>
+<p># Comments: 33</p>
 
-🔗 **Read more:** [https://www.404media.co/the-government-is-monitoring-anti-flock-tiktok-and-instagram-accounts/](https://www.404media.co/the-government-is-monitoring-anti-flock-tiktok-and-instagram-accounts/)
-
----
-
-### 2. SugarTrack – an offline Android logbook for blood sugar (no account, no cloud)
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://sugartrack-beta.vercel.app/">https://sugartrack-beta.vercel.app/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49314884">https://news.ycombinator.com/item?id=49314884</a></p>
-<p>Points: 6</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://sugartrack-beta.vercel.app/](https://sugartrack-beta.vercel.app/)
-
----
-
-### 3. Engineers will do anything to avoid learning from history
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://horn.gg/blog/engineers-will-do-anything-to-avoid-learning-from-history/">https://horn.gg/blog/engineers-will-do-anything-to-avoid-learning-from-history/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49314744">https://news.ycombinator.com/item?id=49314744</a></p>
-<p>Points: 76</p>
-<p># Comments: 34</p>
-
-🔗 **Read more:** [https://horn.gg/blog/engineers-will-do-anything-to-avoid-learning-from-history/](https://horn.gg/blog/engineers-will-do-anything-to-avoid-learning-from-history/)
+🔗 **Read more:** [https://abc7.com/story/credit-card-debt-rises-126-trillion-nearing-time-record/19667289/](https://abc7.com/story/credit-card-debt-rises-126-trillion-nearing-time-record/19667289/)
 
 ---
 
@@ -71,68 +71,68 @@ Major incidents declared across England and Wales with blazes in Stourbridge, Sa
 
 ---
 
-### 5. Jason Arday death 'tragedy on so many levels' says PM
+### 5. Met Police apologises for data breach involving alleged Al Fayed victims
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Andy Burnham says the former Cambridge professor's death is a "really sad, sad and sorry state of affairs".
+Scotland Yard copied in all those who had signed up to receive a monthly update.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9982znvyk4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9982znvyk4o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c1w1yv987jqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c1w1yv987jqo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia
+### 6. Reform UK plan would overhaul welfare system with £50bn in savings
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia.
+The party plans to release a full 50-page plan on Monday outlining their proposed changes were they to come to power.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cz977nxww1jo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cz977nxww1jo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Colombia asks Trump to suspend tariffs as country reels from earthquake
+### 7. Army drops roses on Syrian crowds in a far cry from war
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Post-earthquake reconstruction is expected to cost about $6.4bn, but Colombia has been hit by renewed US tariffs.
+Syrian army helicopters dropped roses on crowds at Damascus Citadel’s Summer Syria festival.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/15/colombia-asks-trump-to-suspend-tariffs-as-country-reels-from-earthquake?traffic_source=rss](https://www.aljazeera.com/news/2026/8/15/colombia-asks-trump-to-suspend-tariffs-as-country-reels-from-earthquake?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/16/08-16-26-damascus-summer-festival-sv?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/16/08-16-26-damascus-summer-festival-sv?traffic_source=rss)
 
 ---
 
-### 8. US Democrats finalise major shakeup to 2028 presidential primary calendar
+### 8. Hamas leader heads to Cairo for Gaza talks ahead of Kushner visit
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-South Carolina will again take centre stage as the first nominating contest, pushing Iowa from its top spot.
+Hamas chief Khalil al-Hayya to meet Egyptian intelligence chief Hassan Rashad in Cairo amid ongoing Gaza tensions.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/15/us-democrats-finalise-major-shakeup-to-2028-presidential-primary-calendar?traffic_source=rss](https://www.aljazeera.com/news/2026/8/15/us-democrats-finalise-major-shakeup-to-2028-presidential-primary-calendar?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/16/hamas-leader-heads-to-cairo-for-gaza-talks-ahead-of-kushner-visit?traffic_source=rss](https://www.aljazeera.com/news/2026/8/16/hamas-leader-heads-to-cairo-for-gaza-talks-ahead-of-kushner-visit?traffic_source=rss)
 
 ---
 
-### 9. Why is the latest Ebola outbreak worsening?
+### 9. Iran war live: Talks on Hormuz Strait continue; Israel kills 11 in Lebanon
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Virus spreading in DRC faster than containment efforts.
+Israel kills 11 in deadliest attacks on Lebanon since June truce as Iran and Oman continue talks on Hormuz.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/8/15/why-is-the-latest-ebola-outbreak-worsening?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/8/15/why-is-the-latest-ebola-outbreak-worsening?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/8/16/iran-war-live-talks-on-hormuz-strait-continue-israel-kills-11-in-lebanon?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/8/16/iran-war-live-talks-on-hormuz-strait-continue-israel-kills-11-in-lebanon?traffic_source=rss)
 
 ---
 

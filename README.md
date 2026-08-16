@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-16 16:14:16
+**Last Update:** 2026-08-16 16:36:15
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Gooseworks (YC W23) Is Hiring a Founding Builder / Engineer
+### 1. Research papers using "kidney disappointment" instead of "kidney failure"
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://scholar.google.com/scholar?q=%22kidney+disappointment%22">https://scholar.google.com/scholar?q=%22kidney+disappointment%22</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49319389">https://news.ycombinator.com/item?id=49319389</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://scholar.google.com/scholar?q=%22kidney+disappointment%22](https://scholar.google.com/scholar?q=%22kidney+disappointment%22)
+
+---
+
+### 2. Gooseworks (YC W23) Is Hiring a Founding Builder / Engineer
 
 **Source:** Hacker News
 
@@ -26,7 +42,7 @@
 
 ---
 
-### 2. Access to telemetry data: Automotive industry criticizes intelligence reform
+### 3. Access to telemetry data: Automotive industry criticizes intelligence reform
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.heise.de/en/news/Access-to-telemetry-data-Automotive-industry-criticizes-intelligence-reform-11414994.html">https://www.heise.de/en/news/Access-to-telemetry-data-Automotive-industry-criticizes-intelligence-reform-11414994.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49319170">https://news.ycombinator.com/item?id=49319170</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Points: 8</p>
+<p># Comments: 1</p>
 
 🔗 **Read more:** [https://www.heise.de/en/news/Access-to-telemetry-data-Automotive-industry-criticizes-intelligence-reform-11414994.html](https://www.heise.de/en/news/Access-to-telemetry-data-Automotive-industry-criticizes-intelligence-reform-11414994.html)
-
----
-
-### 3. Show HN: Grafana agent observability for Hermes Agent
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/alexander-akhmetov/grafana-agento11y-hermes">https://github.com/alexander-akhmetov/grafana-agento11y-hermes</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49318128">https://news.ycombinator.com/item?id=49318128</a></p>
-<p>Points: 8</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://github.com/alexander-akhmetov/grafana-agento11y-hermes](https://github.com/alexander-akhmetov/grafana-agento11y-hermes)
 
 ---
 
@@ -97,7 +97,20 @@ The party's proposed changes were they to come to power include a replacement fo
 
 ---
 
-### 7. ‘Spearhead of annexation’: Israel hands West Bank rule to civilian police
+### 7. Belgium’s largest wildfire on record spreads towards German border
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Largest recorded wildfire in Belgium forces 600 residents to evacuate as blaze spreads towards German border towns.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/16/belgiums-largest-wildfire-on-record-spreads-towards-german-border?traffic_source=rss](https://www.aljazeera.com/news/2026/8/16/belgiums-largest-wildfire-on-record-spreads-towards-german-border?traffic_source=rss)
+
+---
+
+### 8. ‘Spearhead of annexation’: Israel hands West Bank rule to civilian police
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Israel&#039;s transfer of West Bank policing to civilian forces cements de facto
 
 ---
 
-### 8. ‘Limited options’ for many Iranians as war with US chokes economy
+### 9. ‘Limited options’ for many Iranians as war with US chokes economy
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Israel&#039;s transfer of West Bank policing to civilian forces cements de facto
 Millions of Iranians struggle to make ends meet as war with US devastates the economy and sends prices soaring.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/16/limited-options-for-many-iranians-as-war-with-us-chokes-economy?traffic_source=rss](https://www.aljazeera.com/news/2026/8/16/limited-options-for-many-iranians-as-war-with-us-chokes-economy?traffic_source=rss)
-
----
-
-### 9. Trump threatens to make the Strait of Hormuz a US territory: Can he?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-US president has yet another outlandish threat for Iran, with no end to war in sight.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/16/trump-threatens-to-make-the-strait-of-hormuz-a-us-territory-can-he?traffic_source=rss](https://www.aljazeera.com/news/2026/8/16/trump-threatens-to-make-the-strait-of-hormuz-a-us-territory-can-he?traffic_source=rss)
 
 ---
 

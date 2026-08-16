@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-16 20:51:47
+**Last Update:** 2026-08-16 21:10:48
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. NIH is ending a key grant for budding clinical researchers
+### 1. Ordinary WiFi can now identify you with near-perfect accuracy
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.sciencedaily.com/releases/2026/08/260811052857.htm">https://www.sciencedaily.com/releases/2026/08/260811052857.htm</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49321783">https://news.ycombinator.com/item?id=49321783</a></p>
+<p>Points: 10</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://www.sciencedaily.com/releases/2026/08/260811052857.htm](https://www.sciencedaily.com/releases/2026/08/260811052857.htm)
+
+---
+
+### 2. NIH is ending a key grant for budding clinical researchers
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers">https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49321353">https://news.ycombinator.com/item?id=49321353</a></p>
-<p>Points: 9</p>
-<p># Comments: 1</p>
+<p>Points: 24</p>
+<p># Comments: 3</p>
 
 🔗 **Read more:** [https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers](https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers)
 
 ---
 
-### 2. The weekend is 100 years old
+### 3. The weekend is 100 years old
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it">https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49320984">https://news.ycombinator.com/item?id=49320984</a></p>
-<p>Points: 65</p>
-<p># Comments: 26</p>
+<p>Points: 71</p>
+<p># Comments: 34</p>
 
 🔗 **Read more:** [https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it](https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it)
-
----
-
-### 3. St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core">https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49320856">https://news.ycombinator.com/item?id=49320856</a></p>
-<p>Points: 59</p>
-<p># Comments: 29</p>
-
-🔗 **Read more:** [https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core](https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core)
 
 ---
 
@@ -97,14 +97,14 @@ The alert took many by surprise when it was sent to millions of phones on Friday
 
 ---
 
-### 7. Cristiano Ronaldo hints at retirement at end of season
+### 7. Cristiano Ronaldo hints at retirement at the end of the football season
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Superstar forward gave his clearest indication yet that he might end his playing career after the current season.
+Superstar forward gave his clearest indication yet that he could end his playing career after the current season.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/16/cristiano-ronaldo-hints-at-retirement-at-the-end-of-the-football-season?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/16/cristiano-ronaldo-hints-at-retirement-at-the-end-of-the-football-season?traffic_source=rss)
 

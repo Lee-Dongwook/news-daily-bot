@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-16 07:35:10
+**Last Update:** 2026-08-16 08:08:44
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Government sponsored study on alcohol doesn't stand up to scrutiny: Nassim Taleb
+### 1. I checked 30 frontier model cards. Here are the benchmarks labs report
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://koutian.is-a.dev/benchmark-radar/?view=leaderboard">https://koutian.is-a.dev/benchmark-radar/?view=leaderboard</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49316791">https://news.ycombinator.com/item?id=49316791</a></p>
+<p>Points: 4</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://koutian.is-a.dev/benchmark-radar/?view=leaderboard](https://koutian.is-a.dev/benchmark-radar/?view=leaderboard)
+
+---
+
+### 2. Government sponsored study on alcohol doesn't stand up to scrutiny: Nassim Taleb
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://nntaleb.substack.com/p/have-another-drink">https://nntaleb.substack.com/p/have-another-drink</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49316611">https://news.ycombinator.com/item?id=49316611</a></p>
-<p>Points: 10</p>
-<p># Comments: 4</p>
+<p>Points: 16</p>
+<p># Comments: 6</p>
 
 🔗 **Read more:** [https://nntaleb.substack.com/p/have-another-drink](https://nntaleb.substack.com/p/have-another-drink)
 
 ---
 
-### 2. Zapping Rocks Unlocks Stimulated Geologic Hydrogen
+### 3. Zapping Rocks Unlocks Stimulated Geologic Hydrogen
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://spectrum.ieee.org/stimulated-geologic-hydrogen">https://spectrum.ieee.org/stimulated-geologic-hydrogen</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49316395">https://news.ycombinator.com/item?id=49316395</a></p>
-<p>Points: 5</p>
+<p>Points: 8</p>
 <p># Comments: 1</p>
 
 🔗 **Read more:** [https://spectrum.ieee.org/stimulated-geologic-hydrogen](https://spectrum.ieee.org/stimulated-geologic-hydrogen)
-
----
-
-### 3. Patterns and problems in emerging multi-agent systems
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.anthropic.com/research/multiagent-systems">https://www.anthropic.com/research/multiagent-systems</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49316271">https://news.ycombinator.com/item?id=49316271</a></p>
-<p>Points: 8</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://www.anthropic.com/research/multiagent-systems](https://www.anthropic.com/research/multiagent-systems)
 
 ---
 
@@ -84,20 +84,33 @@ Major incidents declared across England and Wales with blazes in Stourbridge, Sa
 
 ---
 
-### 6. Morocco detains dozens of migrants trying to cross into Ceuta, reports say
+### 6. Ariana Grande leaves problems at home as her tour hits the UK
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday.
+The star plays the first of 10 dates in London, after which she will "step back" from public life.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cn0n7rln2rno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cn0n7rln2rno?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Who killed Tupac? What to know about the trial of Duane ‘Keffe D’ Davis
+### 7. Yemeni government forces hit back after new Houthi offensive
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Yemeni government forces, backed by Saudi Arabia, have struck back after a new Houthi offensive in areas it controls.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/16/08-16-2026-houthis-yemen-sv?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/16/08-16-2026-houthis-yemen-sv?traffic_source=rss)
+
+---
+
+### 8. Who killed Tupac? What to know about the trial of Duane ‘Keffe D’ Davis
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Three decades after rapper Tupac Shakur&#039;s death, a former California gang b
 
 ---
 
-### 8. Observers say Zambia’s election marred by reports of intimidation, violence
+### 9. Observers say Zambia’s election marred by reports of intimidation, violence
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Three decades after rapper Tupac Shakur&#039;s death, a former California gang b
 Vote counting in Thursday&#039;s presidential polls were briefly suspended amid security threats to the electoral process.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/16/observers-say-zambias-election-marred-by-reports-of-intimidation-violence?traffic_source=rss](https://www.aljazeera.com/news/2026/8/16/observers-say-zambias-election-marred-by-reports-of-intimidation-violence?traffic_source=rss)
-
----
-
-### 9. Al Jazeera journalist opens beach cafe in the Gaza she loves
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Palestinian journalist Hind Khoudary has opened a Gaza beach cafe, hoping to revive a much-loved part of life in the war
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/16/al-jazeera-journalist-opens-beach-cafe-in-the-gaza-she-loves?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/16/al-jazeera-journalist-opens-beach-cafe-in-the-gaza-she-loves?traffic_source=rss)
 
 ---
 

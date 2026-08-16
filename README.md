@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-16 20:16:54
+**Last Update:** 2026-08-16 20:51:47
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. The weekend is 100 years old
+### 1. NIH is ending a key grant for budding clinical researchers
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers">https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49321353">https://news.ycombinator.com/item?id=49321353</a></p>
+<p>Points: 9</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers](https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers)
+
+---
+
+### 2. The weekend is 100 years old
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it">https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49320984">https://news.ycombinator.com/item?id=49320984</a></p>
-<p>Points: 38</p>
-<p># Comments: 10</p>
+<p>Points: 65</p>
+<p># Comments: 26</p>
 
 🔗 **Read more:** [https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it](https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it)
 
 ---
 
-### 2. St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core
+### 3. St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core">https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49320856">https://news.ycombinator.com/item?id=49320856</a></p>
-<p>Points: 37</p>
-<p># Comments: 15</p>
+<p>Points: 59</p>
+<p># Comments: 29</p>
 
 🔗 **Read more:** [https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core](https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core)
-
----
-
-### 3. GPS and the Lost Art of Getting Lost
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.newyorker.com/news/annals-of-inquiry/gps-and-the-lost-art-of-getting-lost">https://www.newyorker.com/news/annals-of-inquiry/gps-and-the-lost-art-of-getting-lost</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49320673">https://news.ycombinator.com/item?id=49320673</a></p>
-<p>Points: 11</p>
-<p># Comments: 7</p>
-
-🔗 **Read more:** [https://www.newyorker.com/news/annals-of-inquiry/gps-and-the-lost-art-of-getting-lost](https://www.newyorker.com/news/annals-of-inquiry/gps-and-the-lost-art-of-getting-lost)
 
 ---
 
@@ -97,7 +97,20 @@ The alert took many by surprise when it was sent to millions of phones on Friday
 
 ---
 
-### 7. Arsenal cruise to 3-0 win over Manchester City in Community Shield
+### 7. Cristiano Ronaldo hints at retirement at end of season
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Superstar forward gave his clearest indication yet that he might end his playing career after the current season.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/16/cristiano-ronaldo-hints-at-retirement-at-the-end-of-the-football-season?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/16/cristiano-ronaldo-hints-at-retirement-at-the-end-of-the-football-season?traffic_source=rss)
+
+---
+
+### 8. Arsenal cruise to 3-0 win over Manchester City in Community Shield
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Premier League champions hand new ​City boss Enzo Maresca a humbling defeat �
 
 ---
 
-### 8. Moroccan migrants stage sit-in as thousands remain stranded in Ceuta
+### 9. Moroccan migrants stage sit-in as thousands remain stranded in Ceuta
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Premier League champions hand new ​City boss Enzo Maresca a humbling defeat �
 Moroccan migrants are protesting in Ceuta, demanding asylum two weeks after more than a massive migrant surge.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/16/moroccan-migrants-stage-sit-in-as-thousands-remain-stranded-in-ceuta?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/16/moroccan-migrants-stage-sit-in-as-thousands-remain-stranded-in-ceuta?traffic_source=rss)
-
----
-
-### 9. Largest Ukrainian drone attack on Russia, Moscow says 822 drones shot down
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Ukraine launched hundreds of drones across Russia, killing at least six people and striking a Wildberries logistics hub.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-sv-ukraine-largest-drone-attack-russia-ua?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-sv-ukraine-largest-drone-attack-russia-ua?traffic_source=rss)
 
 ---
 

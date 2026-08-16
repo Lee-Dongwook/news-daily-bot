@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-16 08:08:44
+**Last Update:** 2026-08-16 08:26:31
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. I checked 30 frontier model cards. Here are the benchmarks labs report
+### 1. The quirky personal homepages of programming language creators
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://breck.lol/plMakers.html">https://breck.lol/plMakers.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49316888">https://news.ycombinator.com/item?id=49316888</a></p>
+<p>Points: 9</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://breck.lol/plMakers.html](https://breck.lol/plMakers.html)
+
+---
+
+### 2. I checked 30 frontier model cards. Here are the benchmarks labs report
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://koutian.is-a.dev/benchmark-radar/?view=leaderboard">https://koutian.is-a.dev/benchmark-radar/?view=leaderboard</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49316791">https://news.ycombinator.com/item?id=49316791</a></p>
-<p>Points: 4</p>
-<p># Comments: 3</p>
+<p>Points: 7</p>
+<p># Comments: 7</p>
 
 🔗 **Read more:** [https://koutian.is-a.dev/benchmark-radar/?view=leaderboard](https://koutian.is-a.dev/benchmark-radar/?view=leaderboard)
 
 ---
 
-### 2. Government sponsored study on alcohol doesn't stand up to scrutiny: Nassim Taleb
+### 3. Government sponsored study on alcohol doesn't stand up to scrutiny: Nassim Taleb
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://nntaleb.substack.com/p/have-another-drink">https://nntaleb.substack.com/p/have-another-drink</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49316611">https://news.ycombinator.com/item?id=49316611</a></p>
-<p>Points: 16</p>
+<p>Points: 18</p>
 <p># Comments: 6</p>
 
 🔗 **Read more:** [https://nntaleb.substack.com/p/have-another-drink](https://nntaleb.substack.com/p/have-another-drink)
-
----
-
-### 3. Zapping Rocks Unlocks Stimulated Geologic Hydrogen
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://spectrum.ieee.org/stimulated-geologic-hydrogen">https://spectrum.ieee.org/stimulated-geologic-hydrogen</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49316395">https://news.ycombinator.com/item?id=49316395</a></p>
-<p>Points: 8</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://spectrum.ieee.org/stimulated-geologic-hydrogen](https://spectrum.ieee.org/stimulated-geologic-hydrogen)
 
 ---
 

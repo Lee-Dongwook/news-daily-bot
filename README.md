@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-16 12:02:37
+**Last Update:** 2026-08-16 12:23:19
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://littlelearner-ll.github.io/">https://littlelearner-ll.github.io/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49317760">https://news.ycombinator.com/item?id=49317760</a></p>
-<p>Points: 46</p>
-<p># Comments: 22</p>
+<p>Points: 63</p>
+<p># Comments: 41</p>
 
 🔗 **Read more:** [https://littlelearner-ll.github.io/](https://littlelearner-ll.github.io/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://nntaleb.substack.com/p/have-another-drink">https://nntaleb.substack.com/p/have-another-drink</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49316611">https://news.ycombinator.com/item?id=49316611</a></p>
-<p>Points: 41</p>
-<p># Comments: 29</p>
+<p>Points: 42</p>
+<p># Comments: 36</p>
 
 🔗 **Read more:** [https://nntaleb.substack.com/p/have-another-drink](https://nntaleb.substack.com/p/have-another-drink)
 
@@ -71,20 +71,7 @@ Hundreds of homes and public buildings have been severely damaged with at least 
 
 ---
 
-### 5. Three killed as Russia launches fresh aerial attacks across Ukraine
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Firefighters are tackling a fire at a market in Kyiv, while Moscow reports that a warehouse was hit.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Reform proposes £50bn welfare bill cut with changes to disability payments for millions
+### 5. Reform proposes £50bn welfare bill cut with changes to disability payments for millions
 
 **Source:** BBC
 
@@ -97,42 +84,55 @@ The party's proposed changes were they to come to power include a replacement fo
 
 ---
 
-### 7. Lionel Messi misses penalty as Nashville thrash Inter Miami in MLS
+### 6. People who fled Stourbridge fires start to return home
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-Messi&#039;s record from the penalty spot is poor by his sky-high standards, including missing twice at the 2026 World Cup.
+Many families are only just discovering the extent of damage to their homes for the first time.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/16/lionel-messi-misses-penalty-as-nashville-thrash-inter-miami-in-mls?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/16/lionel-messi-misses-penalty-as-nashville-thrash-inter-miami-in-mls?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr49932qrqno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr49932qrqno?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. New satellite images show Europe’s disappearing rivers due to drought
+### 7. Photos: Patriotic music and flags mark Taliban rule anniversary in Kabul
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Half of Europe’s land is experiencing drought with rivers running low from the Danube to the Rhine.
+Crowds create carnival-like atmosphere in Afghan capital as Taliban celebrates five years since its return to power.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/16/new-satellite-images-show-europes-disappearing-rivers-due-to-drought?traffic_source=rss](https://www.aljazeera.com/news/2026/8/16/new-satellite-images-show-europes-disappearing-rivers-due-to-drought?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/8/16/photos-patriotic-music-and-flags-mark-taliban-rule-anniversary-in-kabul?traffic_source=rss](https://www.aljazeera.com/gallery/2026/8/16/photos-patriotic-music-and-flags-mark-taliban-rule-anniversary-in-kabul?traffic_source=rss)
 
 ---
 
-### 9. UFC 330: Makhachev secures record-setting win against Machado Garry
+### 8. Douglass breaks 50m freestyle swimming world record, Ledecky loses 800m
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Islam Makhachev records 17th UFC victory in a row in his welterweight title defeat of Ian Machado Garry.
+US swim superstar Katie Ledecky was upstaged by Lani Pallister, while Kate Douglass made history twice in 50m freestyle.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/16/ufc-330-makhachev-secures-record-setting-win-against-machado-garry?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/16/ufc-330-makhachev-secures-record-setting-win-against-machado-garry?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/16/pallister-ledecky-pan-pacific-swimming-championship-800m-free-douglass-50m-free-world-record?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/16/pallister-ledecky-pan-pacific-swimming-championship-800m-free-douglass-50m-free-world-record?traffic_source=rss)
+
+---
+
+### 9. Australia to begin gun buyback scheme in response to Bondi shooting
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Australia will begin buying back guns in November, almost a year after a shooting at Sydney&#039;s Bondi killed 15 people.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/16/australia-to-begin-gun-buyback-scheme-in-response-to-bondi-shooting?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/16/australia-to-begin-gun-buyback-scheme-in-response-to-bondi-shooting?traffic_source=rss)
 
 ---
 

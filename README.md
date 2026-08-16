@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-16 17:19:40
+**Last Update:** 2026-08-16 17:55:56
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
@@ -35,26 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://support.mozilla.org/en-US/kb/block-ads-firefox-ios">https://support.mozilla.org/en-US/kb/block-ads-firefox-ios</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49319633">https://news.ycombinator.com/item?id=49319633</a></p>
-<p>Points: 12</p>
-<p># Comments: 7</p>
+<p>Points: 51</p>
+<p># Comments: 17</p>
 
 🔗 **Read more:** [https://support.mozilla.org/en-US/kb/block-ads-firefox-ios](https://support.mozilla.org/en-US/kb/block-ads-firefox-ios)
 
 ---
 
-### 3. Is the industry ready for tokens-constrained work?
+### 3. US oil reserves are so low, the caverns holding them could be damaged
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.alaindichiappari.dev/p/what-to-do-when-tokens-run-out">https://blog.alaindichiappari.dev/p/what-to-do-when-tokens-run-out</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49319582">https://news.ycombinator.com/item?id=49319582</a></p>
-<p>Points: 16</p>
-<p># Comments: 13</p>
+<p>Article URL: <a href="https://www.independent.co.uk/news/world/americas/us-politics/strategic-petroleum-reserve-trump-iran-war-gas-prices-b3033680.html">https://www.independent.co.uk/news/world/americas/us-politics/strategic-petroleum-reserve-trump-iran-war-gas-prices-b3033680.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49319566">https://news.ycombinator.com/item?id=49319566</a></p>
+<p>Points: 41</p>
+<p># Comments: 10</p>
 
-🔗 **Read more:** [https://blog.alaindichiappari.dev/p/what-to-do-when-tokens-run-out](https://blog.alaindichiappari.dev/p/what-to-do-when-tokens-run-out)
+🔗 **Read more:** [https://www.independent.co.uk/news/world/americas/us-politics/strategic-petroleum-reserve-trump-iran-war-gas-prices-b3033680.html](https://www.independent.co.uk/news/world/americas/us-politics/strategic-petroleum-reserve-trump-iran-war-gas-prices-b3033680.html)
 
 ---
 

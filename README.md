@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-16 10:13:45
+**Last Update:** 2026-08-16 10:36:17
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. The Iran War Is a Whole New Level of Quagmire for the US
+### 1. Falstad Math and Physics Simulations
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.politico.com/news/magazine/2026/08/12/the-us-forgot-the-lessons-of-iraq-now-its-desperate-for-ideas-on-iran-01033217">https://www.politico.com/news/magazine/2026/08/12/the-us-forgot-the-lessons-of-iraq-now-its-desperate-for-ideas-on-iran-01033217</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49317234">https://news.ycombinator.com/item?id=49317234</a></p>
-<p>Points: 26</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://www.falstad.com/mathphysics.html">https://www.falstad.com/mathphysics.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49316872">https://news.ycombinator.com/item?id=49316872</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.politico.com/news/magazine/2026/08/12/the-us-forgot-the-lessons-of-iraq-now-its-desperate-for-ideas-on-iran-01033217](https://www.politico.com/news/magazine/2026/08/12/the-us-forgot-the-lessons-of-iraq-now-its-desperate-for-ideas-on-iran-01033217)
+🔗 **Read more:** [https://www.falstad.com/mathphysics.html](https://www.falstad.com/mathphysics.html)
 
 ---
 
-### 2. The quirky personal homepages of programming language creators
+### 2. Targeted marine cloud brightening weakens subsequent El Niño
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://breck.lol/plMakers.html">https://breck.lol/plMakers.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49316888">https://news.ycombinator.com/item?id=49316888</a></p>
-<p>Points: 54</p>
-<p># Comments: 16</p>
+<p>Article URL: <a href="https://www.science.org/doi/10.1126/sciadv.adx3012">https://www.science.org/doi/10.1126/sciadv.adx3012</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49316685">https://news.ycombinator.com/item?id=49316685</a></p>
+<p>Points: 15</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://breck.lol/plMakers.html](https://breck.lol/plMakers.html)
+🔗 **Read more:** [https://www.science.org/doi/10.1126/sciadv.adx3012](https://www.science.org/doi/10.1126/sciadv.adx3012)
 
 ---
 
-### 3. 21,000 MCP servers exposed: the protocol reaches a security inflection point
+### 3. Government sponsored study on alcohol doesn't stand up to scrutiny
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://forkast.news/the-model-context-protocol-reaches-a-security-inflection-point/">https://forkast.news/the-model-context-protocol-reaches-a-security-inflection-point/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49316815">https://news.ycombinator.com/item?id=49316815</a></p>
-<p>Points: 11</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://nntaleb.substack.com/p/have-another-drink">https://nntaleb.substack.com/p/have-another-drink</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49316611">https://news.ycombinator.com/item?id=49316611</a></p>
+<p>Points: 31</p>
+<p># Comments: 11</p>
 
-🔗 **Read more:** [https://forkast.news/the-model-context-protocol-reaches-a-security-inflection-point/](https://forkast.news/the-model-context-protocol-reaches-a-security-inflection-point/)
+🔗 **Read more:** [https://nntaleb.substack.com/p/have-another-drink](https://nntaleb.substack.com/p/have-another-drink)
 
 ---
 

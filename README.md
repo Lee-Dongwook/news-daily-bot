@@ -1,64 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-16 15:11:14
+**Last Update:** 2026-08-16 16:14:16
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. What happens when an LLM never sees material beyond fifth grade?
+### 1. Gooseworks (YC W23) Is Hiring a Founding Builder / Engineer
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://littlelearner-ll.github.io/">https://littlelearner-ll.github.io/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49317760">https://news.ycombinator.com/item?id=49317760</a></p>
-<p>Points: 139</p>
-<p># Comments: 98</p>
+<p>Article URL: <a href="https://www.ycombinator.com/companies/gooseworks/jobs/UJ4vH2F-founding-engineer">https://www.ycombinator.com/companies/gooseworks/jobs/UJ4vH2F-founding-engineer</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49319215">https://news.ycombinator.com/item?id=49319215</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://littlelearner-ll.github.io/](https://littlelearner-ll.github.io/)
+🔗 **Read more:** [https://www.ycombinator.com/companies/gooseworks/jobs/UJ4vH2F-founding-engineer](https://www.ycombinator.com/companies/gooseworks/jobs/UJ4vH2F-founding-engineer)
 
 ---
 
-### 2. Falstad Math and Physics Simulations
+### 2. Access to telemetry data: Automotive industry criticizes intelligence reform
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.falstad.com/mathphysics.html">https://www.falstad.com/mathphysics.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49316872">https://news.ycombinator.com/item?id=49316872</a></p>
-<p>Points: 23</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://www.heise.de/en/news/Access-to-telemetry-data-Automotive-industry-criticizes-intelligence-reform-11414994.html">https://www.heise.de/en/news/Access-to-telemetry-data-Automotive-industry-criticizes-intelligence-reform-11414994.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49319170">https://news.ycombinator.com/item?id=49319170</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.falstad.com/mathphysics.html](https://www.falstad.com/mathphysics.html)
+🔗 **Read more:** [https://www.heise.de/en/news/Access-to-telemetry-data-Automotive-industry-criticizes-intelligence-reform-11414994.html](https://www.heise.de/en/news/Access-to-telemetry-data-Automotive-industry-criticizes-intelligence-reform-11414994.html)
 
 ---
 
-### 3. Zapping Rocks Unlocks Stimulated Geologic Hydrogen
+### 3. Show HN: Grafana agent observability for Hermes Agent
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://spectrum.ieee.org/stimulated-geologic-hydrogen">https://spectrum.ieee.org/stimulated-geologic-hydrogen</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49316395">https://news.ycombinator.com/item?id=49316395</a></p>
-<p>Points: 20</p>
-<p># Comments: 5</p>
+<p>Article URL: <a href="https://github.com/alexander-akhmetov/grafana-agento11y-hermes">https://github.com/alexander-akhmetov/grafana-agento11y-hermes</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49318128">https://news.ycombinator.com/item?id=49318128</a></p>
+<p>Points: 8</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://spectrum.ieee.org/stimulated-geologic-hydrogen](https://spectrum.ieee.org/stimulated-geologic-hydrogen)
+🔗 **Read more:** [https://github.com/alexander-akhmetov/grafana-agento11y-hermes](https://github.com/alexander-akhmetov/grafana-agento11y-hermes)
 
 ---
 
-### 4. People who fled Stourbridge fires start to return home
+### 4. Watch: BBC visits smouldering market in Ukraine after strikes
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Six people were injured in the strike on the market selling second-hand records, posters, toys and tools.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. People who fled Stourbridge fires start to return home
 
 **Source:** BBC
 
@@ -71,7 +84,7 @@ Many families are only just discovering the extent of damage to their homes for 
 
 ---
 
-### 5. Reform proposes £50bn welfare bill cut with changes to disability payments for millions
+### 6. Reform proposes £50bn welfare bill cut with changes to disability payments for millions
 
 **Source:** BBC
 
@@ -84,20 +97,33 @@ The party's proposed changes were they to come to power include a replacement fo
 
 ---
 
-### 6. Thousands displaced by deadly Indonesia earthquake as rescue efforts continue
+### 7. ‘Spearhead of annexation’: Israel hands West Bank rule to civilian police
 
-**Source:** BBC
+**Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Hundreds of homes and public buildings have been severely damaged with at least 51 people killed.
+Israel&#039;s transfer of West Bank policing to civilian forces cements de facto annexation and empowers settler militias.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/16/spearhead-of-annexation-israel-hands-west-bank-rule-to-civilian-police?traffic_source=rss](https://www.aljazeera.com/news/2026/8/16/spearhead-of-annexation-israel-hands-west-bank-rule-to-civilian-police?traffic_source=rss)
 
 ---
 
-### 7. Trump threatens to make the Strait of Hormuz a US territory: Can he?
+### 8. ‘Limited options’ for many Iranians as war with US chokes economy
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Millions of Iranians struggle to make ends meet as war with US devastates the economy and sends prices soaring.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/16/limited-options-for-many-iranians-as-war-with-us-chokes-economy?traffic_source=rss](https://www.aljazeera.com/news/2026/8/16/limited-options-for-many-iranians-as-war-with-us-chokes-economy?traffic_source=rss)
+
+---
+
+### 9. Trump threatens to make the Strait of Hormuz a US territory: Can he?
 
 **Source:** Al Jazeera
 
@@ -110,29 +136,42 @@ US president has yet another outlandish threat for Iran, with no end to war in s
 
 ---
 
-### 8. Arsenal vs Manchester City LIVE: FA Community Shield
+### 10. Cyclone Hernan
 
-**Source:** Al Jazeera
+**Source:** NASA
 
-**Category:** world
+**Category:** nature
 
 **Description:**
-Follow updates from the Community Shield, including the build-up, analysis and live text commentary of the game.
+Natural event: Severe Storms
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/liveblog/2026/8/16/arsenal-vs-manchester-city-live-fa-community-shield?traffic_source=rss](https://www.aljazeera.com/sports/liveblog/2026/8/16/arsenal-vs-manchester-city-live-fa-community-shield?traffic_source=rss)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562)
 
 ---
 
-### 9. Why has Israel escalated attacks in southern Lebanon despite ceasefire?
+### 11. Tropical Storm Nangka
 
-**Source:** Al Jazeera
+**Source:** NASA
 
-**Category:** world
+**Category:** nature
 
 **Description:**
-At least 11 people killed in one day of Israeli attacks despite truce extension brokered by US in June.
+Natural event: Severe Storms
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/16/why-has-israel-escalated-attacks-in-southern-lebanon-despite-ceasefire?traffic_source=rss](https://www.aljazeera.com/news/2026/8/16/why-has-israel-escalated-attacks-in-southern-lebanon-despite-ceasefire?traffic_source=rss)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561)
+
+---
+
+### 12. Tropical Storm Lala
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563)
 
 ---
 

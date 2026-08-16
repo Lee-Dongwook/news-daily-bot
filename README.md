@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-16 23:10:30
+**Last Update:** 2026-08-16 23:56:09
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Protobuf has LSP support. You're welcome
+### 1. Models Are Getting Dumber on Purpose
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://w4g1.dev/blog/models-are-getting-dumber-on-purpose">https://w4g1.dev/blog/models-are-getting-dumber-on-purpose</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49322695">https://news.ycombinator.com/item?id=49322695</a></p>
+<p>Points: 93</p>
+<p># Comments: 43</p>
+
+🔗 **Read more:** [https://w4g1.dev/blog/models-are-getting-dumber-on-purpose](https://w4g1.dev/blog/models-are-getting-dumber-on-purpose)
+
+---
+
+### 2. Protobuf has LSP support. You're welcome
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://buf.build/blog/protobuf-lsp">https://buf.build/blog/protobuf-lsp</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49322573">https://news.ycombinator.com/item?id=49322573</a></p>
-<p>Points: 6</p>
-<p># Comments: 1</p>
+<p>Points: 28</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://buf.build/blog/protobuf-lsp](https://buf.build/blog/protobuf-lsp)
 
 ---
 
-### 2. MathCode, Mathematical Coding Agent
+### 3. MathCode, Mathematical Coding Agent
 
 **Source:** Hacker News
 
@@ -35,31 +51,27 @@
 **Description:**
 <p>Article URL: <a href="https://math-ai-org.github.io/mathcode/">https://math-ai-org.github.io/mathcode/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49322330">https://news.ycombinator.com/item?id=49322330</a></p>
-<p>Points: 12</p>
-<p># Comments: 3</p>
+<p>Points: 24</p>
+<p># Comments: 7</p>
 
 🔗 **Read more:** [https://math-ai-org.github.io/mathcode/](https://math-ai-org.github.io/mathcode/)
 
 ---
 
-### 3. Tell HN: Cloudflare silently injects its analytics when you switch nameservers
+### 4. Trump envoy Kushner meets Hamas leader to push Gaza peace plan
 
-**Source:** Hacker News
+**Source:** BBC
 
-**Category:** technology
+**Category:** world
 
 **Description:**
-<p>A few hours ago I switched my nameservers to Cloudflare in order to enable R2 bucket serving through my own subdomain, and I found out that it silently had injected a JS analytics snippet in my HTML-only JS-free site textlog.cc — I had to go to the Analytics dashboard, Add the site to the analytics and <i>then</i> disable the snippet. I find this approach entirely invasive, you should opt-in to features like that not have to opt-out. Just a warning out there to folks who might not be aware of this.</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49322107">https://news.ycombinator.com/item?id=49322107</a></p>
-<p>Points: 60</p>
-<p># Comments: 8</p>
+The rare meeting comes a week after Israel rejected Donald Trump's peace plan for Gaza.
 
-🔗 **Read more:** [https://news.ycombinator.com/item?id=49322107](https://news.ycombinator.com/item?id=49322107)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. Russia says at least seven killed in largest Ukrainian attack of 2026
+### 5. Russia says at least seven killed in largest Ukrainian attack of 2026
 
 **Source:** BBC
 
@@ -69,19 +81,6 @@
 Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Watch: BBC visits smouldering market in Ukraine after strikes
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Six people were injured in the strike on the market selling second-hand records, posters, toys and tools.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&at_campaign=rss)
 
 ---
 

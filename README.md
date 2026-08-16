@@ -1,28 +1,28 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-16 05:02:43
+**Last Update:** 2026-08-16 05:31:35
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. ChatGPT lost 22 points of web share in a year
+### 1. The complete AI SEO playbook: from zero to 4.6M impressions in 3 months
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://aicharts.grok.me/c/market-share">https://aicharts.grok.me/c/market-share</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49315630">https://news.ycombinator.com/item?id=49315630</a></p>
-<p>Points: 13</p>
-<p># Comments: 18</p>
+<p>Article URL: <a href="https://github.com/TraceCohenTech/ai-seo-playbook">https://github.com/TraceCohenTech/ai-seo-playbook</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49315620">https://news.ycombinator.com/item?id=49315620</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://aicharts.grok.me/c/market-share](https://aicharts.grok.me/c/market-share)
+🔗 **Read more:** [https://github.com/TraceCohenTech/ai-seo-playbook](https://github.com/TraceCohenTech/ai-seo-playbook)
 
 ---
 
@@ -35,26 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/turtushig22-blip/tea5767-radio-tuner">https://github.com/turtushig22-blip/tea5767-radio-tuner</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49315456">https://news.ycombinator.com/item?id=49315456</a></p>
-<p>Points: 7</p>
+<p>Points: 12</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://github.com/turtushig22-blip/tea5767-radio-tuner](https://github.com/turtushig22-blip/tea5767-radio-tuner)
 
 ---
 
-### 3. Credit card debt rises to $1.26T, nearing all-time record
+### 3. SugarTrack – an offline Android logbook for blood sugar (no account, no cloud)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://abc7.com/story/credit-card-debt-rises-126-trillion-nearing-time-record/19667289/">https://abc7.com/story/credit-card-debt-rises-126-trillion-nearing-time-record/19667289/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49315232">https://news.ycombinator.com/item?id=49315232</a></p>
-<p>Points: 37</p>
-<p># Comments: 33</p>
+<p>Article URL: <a href="https://sugartrack-beta.vercel.app/">https://sugartrack-beta.vercel.app/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49314884">https://news.ycombinator.com/item?id=49314884</a></p>
+<p>Points: 20</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://abc7.com/story/credit-card-debt-rises-126-trillion-nearing-time-record/19667289/](https://abc7.com/story/credit-card-debt-rises-126-trillion-nearing-time-record/19667289/)
+🔗 **Read more:** [https://sugartrack-beta.vercel.app/](https://sugartrack-beta.vercel.app/)
 
 ---
 
@@ -133,45 +133,6 @@ Hamas chief Khalil al-Hayya to meet Egyptian intelligence chief Hassan Rashad in
 Israel kills 11 in deadliest attacks on Lebanon since June truce as Iran and Oman continue talks on Hormuz.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/8/16/iran-war-live-talks-on-hormuz-strait-continue-israel-kills-11-in-lebanon?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/8/16/iran-war-live-talks-on-hormuz-strait-continue-israel-kills-11-in-lebanon?traffic_source=rss)
-
----
-
-### 10. Tropical Storm Hernan
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562)
-
----
-
-### 11. Tropical Storm Nangka
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561)
-
----
-
-### 12. Tropical Storm Lala
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563)
 
 ---
 

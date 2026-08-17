@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-17 16:19:36
+**Last Update:** 2026-08-17 16:42:51
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Buyer cancels showing after Deflock shows two cameras utilized by the HOA
+### 1. David Sacks on X: Some thoughts on Dario's post
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://twitter.com/DavidSacks/status/2089227290769080656">https://twitter.com/DavidSacks/status/2089227290769080656</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49329844">https://news.ycombinator.com/item?id=49329844</a></p>
+<p>Points: 12</p>
+<p># Comments: 6</p>
+
+🔗 **Read more:** [https://twitter.com/DavidSacks/status/2089227290769080656](https://twitter.com/DavidSacks/status/2089227290769080656)
+
+---
+
+### 2. Buyer cancels showing after Deflock shows two cameras utilized by the HOA
 
 **Source:** Hacker News
 
@@ -19,42 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://twitter.com/lydiakauppi/status/2089196932413452386">https://twitter.com/lydiakauppi/status/2089196932413452386</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49329660">https://news.ycombinator.com/item?id=49329660</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Points: 56</p>
+<p># Comments: 46</p>
 
 🔗 **Read more:** [https://twitter.com/lydiakauppi/status/2089196932413452386](https://twitter.com/lydiakauppi/status/2089196932413452386)
 
 ---
 
-### 2. Who Owns Commodore? The Retro PC Brand Still Exists, but a Lot Has Changed
+### 3. Mexico Crackdown on Coastal Development Underway
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.bgr.com/2233625/who-owns-commodore-retro-brand/">https://www.bgr.com/2233625/who-owns-commodore-retro-brand/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49329430">https://news.ycombinator.com/item?id=49329430</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://yucatanmagazine.com/mexico-crackdown-on-coastal-development/">https://yucatanmagazine.com/mexico-crackdown-on-coastal-development/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49329583">https://news.ycombinator.com/item?id=49329583</a></p>
+<p>Points: 12</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://www.bgr.com/2233625/who-owns-commodore-retro-brand/](https://www.bgr.com/2233625/who-owns-commodore-retro-brand/)
-
----
-
-### 3. People are worried about America's solvency
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.ft.com/content/e04f286c-f5ed-46d1-8e3f-0bbe4cce4d3e">https://www.ft.com/content/e04f286c-f5ed-46d1-8e3f-0bbe4cce4d3e</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49329347">https://news.ycombinator.com/item?id=49329347</a></p>
-<p>Points: 37</p>
-<p># Comments: 35</p>
-
-🔗 **Read more:** [https://www.ft.com/content/e04f286c-f5ed-46d1-8e3f-0bbe4cce4d3e](https://www.ft.com/content/e04f286c-f5ed-46d1-8e3f-0bbe4cce4d3e)
+🔗 **Read more:** [https://yucatanmagazine.com/mexico-crackdown-on-coastal-development/](https://yucatanmagazine.com/mexico-crackdown-on-coastal-development/)
 
 ---
 
@@ -65,7 +65,7 @@
 **Category:** world
 
 **Description:**
-Mothers, like Katy, describe battles to make ex-partners pay, while fathers say they have been wrongly charged thousands.
+Mothers describe battles to make ex-partners pay, while fathers say they have been wrongly charged thousands.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c4g3re5ew8do?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c4g3re5ew8do?at_medium=RSS&at_campaign=rss)
 

@@ -1,16 +1,49 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-17 17:28:04
+**Last Update:** 2026-08-17 18:00:56
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Incident with Github.com
+### 1. Ask HN: Alternatives to GitHub
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Github has been down consistently over the last few months - does it make sense to switch to alternatives?</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49331033">https://news.ycombinator.com/item?id=49331033</a></p>
+<p>Points: 8</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://news.ycombinator.com/item?id=49331033](https://news.ycombinator.com/item?id=49331033)
+
+---
+
+### 2. We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/">https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49330742">https://news.ycombinator.com/item?id=49330742</a></p>
+<p>Points: 11</p>
+<p># Comments: 9</p>
+
+🔗 **Read more:** [https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/](https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/)
+
+---
+
+### 3. Incident with Github.com
 
 **Source:** Hacker News
 
@@ -19,50 +52,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.githubstatus.com/incidents/zkxwbgr0cnmx">https://www.githubstatus.com/incidents/zkxwbgr0cnmx</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49330684">https://news.ycombinator.com/item?id=49330684</a></p>
-<p>Points: 11</p>
-<p># Comments: 2</p>
+<p>Points: 286</p>
+<p># Comments: 223</p>
 
 🔗 **Read more:** [https://www.githubstatus.com/incidents/zkxwbgr0cnmx](https://www.githubstatus.com/incidents/zkxwbgr0cnmx)
-
----
-
-### 2. GitHub down again? no PR access
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Githubstatus.com currently says everything is working, but it isn't</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49330632">https://news.ycombinator.com/item?id=49330632</a></p>
-<p>Points: 15</p>
-<p># Comments: 4</p>
-
-🔗 **Read more:** [https://news.ycombinator.com/item?id=49330632](https://news.ycombinator.com/item?id=49330632)
-
----
-
-### 3. Show HN: 1667, a terminal UI for writing fiction with language models
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Hi HN. I built 1667 for my own fiction work and now use it each day. This probably has a limited audience. Maybe an audience of one...<p>Why a terminal interface for story writing? I'm a dev. I like to use terminals for a lot of stuff. Most WebUIs feel off to me. That's the only  reason.<p>One thing that bothers me about writing in existing tools is that they don't fit the way I write. The mental model of my story is a tree. I try many takes usually continue with just one, but sometimes I want to try an alternate route and see where this goes. And that can branch again in many places. See what happens if I kill off this character or they don't take the job or whatever.<p>1667 is a full-screen terminal app for long-form fiction. Each story part can have several takes. All takes stay in a tree. You select one path through that tree as the story line. Export writes that line to Markdown in the project folder.<p>Some technical details:
-- A project stores its stories and settings in a `.1667/` directory. Exported Markdown sits beside it.
-- Provider secrets stay in private machine files. Requests go to the provider that the writer selects.
-- An optional Vault Password seals project files at rest.
-- An operating-system lock permits one writer process for each project.
-- The request viewer shows the next provider request without its credential.
-- Each generated take keeps a Generation Record with its model and effective settings.<p>Version 0.9.5 runs on macOS, Linux, and Windows x64. The website has Shell and PowerShell installers. An npm package is also available.<p>1667 imports Markdown, SillyTavern chats and cards, and NovelAI archives. It can use OpenAI-compatible, Anthropic, and local endpoints such as Ollama, LM Studio, llama.cpp, and KoboldCpp.<p>Current limits: the release is pre-1.0. The interface is a terminal. There is no account or cloud sync, and I don't plan to add any. No tracking.</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49330604">https://news.ycombinator.com/item?id=49330604</a></p>
-<p>Points: 3</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://1667.ai/](https://1667.ai/)
 
 ---
 
@@ -99,13 +92,26 @@ Downing Street has declined to comment on the security breach, first reported by
 **Category:** world
 
 **Description:**
-After and exceptional summer of heatwaves and drought, the weather will turn wetter and cooler this week, as Simon King explains
+After an exceptional summer of heatwaves and drought, the weather will turn wetter and cooler this week, as Simon King explains
 
 🔗 **Read more:** [https://www.bbc.co.uk/weather/articles/cy8eevy3zzxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/weather/articles/cy8eevy3zzxo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Trump hails Mecca pact: Can it replace the region’s US security umbrella?
+### 7. Global condemnation of Israeli settler violence against Palestinians
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Global condemnation of Israeli settler violence against Palestinians
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/17/global-condemnation-of-israeli-settler-violence-against-palestinians?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/17/global-condemnation-of-israeli-settler-violence-against-palestinians?traffic_source=rss)
+
+---
+
+### 8. Trump hails Mecca pact: Can it replace the region’s US security umbrella?
 
 **Source:** Al Jazeera
 
@@ -118,7 +124,7 @@ As Trump pushes allies to do more for their own defence, three US partners have 
 
 ---
 
-### 8. French Serie A footballer Yael Trepy in intensive care after near-drowning
+### 9. French Serie A footballer Yael Trepy in intensive care after near-drowning
 
 **Source:** Al Jazeera
 
@@ -128,19 +134,6 @@ As Trump pushes allies to do more for their own defence, three US partners have 
 Italian media reports that the Cagliari forward was rescued after swallowing a lot of water in a swimming pool in Porto Cervo.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/17/french-serie-a-footballer-yael-trepy-in-intensive-care-after-near-drowning?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/17/french-serie-a-footballer-yael-trepy-in-intensive-care-after-near-drowning?traffic_source=rss)
-
----
-
-### 9. Why Kushner met Hamas leaders, and what it means for Trump’s Gaza roadmap
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Jared Kushner to meet Netanyahu next, after Israel rejected Trump&#039;s 15-point Gaza roadmap.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/why-kushner-met-hamas-leaders-and-what-it-means-for-trumps-gaza-roadmap?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/why-kushner-met-hamas-leaders-and-what-it-means-for-trumps-gaza-roadmap?traffic_source=rss)
 
 ---
 

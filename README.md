@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-17 04:55:14
+**Last Update:** 2026-08-17 05:29:01
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. The Life and Death of Direct File [pdf]
+### 1. Rhombus 1.1 is now available
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://blog.racket-lang.org/2026/08/rhombus-v1.1.html">https://blog.racket-lang.org/2026/08/rhombus-v1.1.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49325384">https://news.ycombinator.com/item?id=49325384</a></p>
+<p>Points: 13</p>
+<p># Comments: 5</p>
+
+🔗 **Read more:** [https://blog.racket-lang.org/2026/08/rhombus-v1.1.html](https://blog.racket-lang.org/2026/08/rhombus-v1.1.html)
+
+---
+
+### 2. The Life and Death of Direct File [pdf]
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf">https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49325185">https://news.ycombinator.com/item?id=49325185</a></p>
-<p>Points: 27</p>
-<p># Comments: 3</p>
+<p>Points: 48</p>
+<p># Comments: 17</p>
 
 🔗 **Read more:** [https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf](https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf)
 
 ---
 
-### 2. The federal keyword lists that canceled billions in research funding
+### 3. The federal keyword lists that canceled billions in research funding
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.highereddive.com/news/inside-the-federal-keyword-lists-that-canceled-billions-in-research-funding/826203/">https://www.highereddive.com/news/inside-the-federal-keyword-lists-that-canceled-billions-in-research-funding/826203/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49325159">https://news.ycombinator.com/item?id=49325159</a></p>
-<p>Points: 10</p>
-<p># Comments: 0</p>
+<p>Points: 45</p>
+<p># Comments: 3</p>
 
 🔗 **Read more:** [https://www.highereddive.com/news/inside-the-federal-keyword-lists-that-canceled-billions-in-research-funding/826203/](https://www.highereddive.com/news/inside-the-federal-keyword-lists-that-canceled-billions-in-research-funding/826203/)
-
----
-
-### 3. Webmaster a Manifesto for Everyone
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://brennan.day/webmaster-a-manifesto-for-everyone/">https://brennan.day/webmaster-a-manifesto-for-everyone/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49325092">https://news.ycombinator.com/item?id=49325092</a></p>
-<p>Points: 9</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://brennan.day/webmaster-a-manifesto-for-everyone/](https://brennan.day/webmaster-a-manifesto-for-everyone/)
 
 ---
 
@@ -97,7 +97,33 @@ The collision occurred on on the M9 Northbound at about 03:00 local time on Sund
 
 ---
 
-### 7. Can the AU make its current Sudan mission count?
+### 7. Ebola outbreak in DR Congo becomes deadliest in country’s history
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+A top UN official says &#039;speed, scale, and solidarity&#039; needed &#039;before this virus gets even further ahead of us&#039;.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/ebola-outbreak-in-dr-congo-becomes-deadliest-in-countrys-history?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/ebola-outbreak-in-dr-congo-becomes-deadliest-in-countrys-history?traffic_source=rss)
+
+---
+
+### 8. Israeli settlers pitch tents for new illegal outpost in occupied West Bank
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+UN Special Rapporteur Albanese warns that Israel is &#039;using settlers to advance ethnic cleansing&#039; in the West Bank.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/israeli-settlers-pitch-tents-for-new-illegal-outpost-in-occupied-west-bank?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/israeli-settlers-pitch-tents-for-new-illegal-outpost-in-occupied-west-bank?traffic_source=rss)
+
+---
+
+### 9. Can the AU make its current Sudan mission count?
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ The collision occurred on on the M9 Northbound at about 03:00 local time on Sund
 The African Union is seeking progress in Sudan, but must overcome deep battlefield and diplomatic divisions.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/can-the-au-make-its-current-sudan-mission-count?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/can-the-au-make-its-current-sudan-mission-count?traffic_source=rss)
-
----
-
-### 8. Trump says US to ‘substantially reduce’ military drills with South Korea
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-US president says he&#039;s &#039;not happy&#039; about the drills, citing his &#039;very good relationship&#039; with North Korea&#039;s Kim Jong Un.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/trump-says-us-to-substantially-reduce-military-drills-with-south-korea?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/trump-says-us-to-substantially-reduce-military-drills-with-south-korea?traffic_source=rss)
-
----
-
-### 9. Israel releases 35 Palestinian prisoners back into Gaza
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Emotional reunions greeted 35 Palestinians prisoners released by Israel into Gaza.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/17/08-17-26-pal-prisoners-release-sv-mp4?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/17/08-17-26-pal-prisoners-release-sv-mp4?traffic_source=rss)
 
 ---
 

@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-17 22:35:02
+**Last Update:** 2026-08-17 23:00:16
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. The Lonely Men Who Work in Patagonia, at the End of the World
+### 1. AirTag reveals Amazon is trashing rare books to train AI
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/">https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49336050">https://news.ycombinator.com/item?id=49336050</a></p>
+<p>Points: 11</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/](https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/)
+
+---
+
+### 2. The Lonely Men Who Work in Patagonia, at the End of the World
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world">https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49335600">https://news.ycombinator.com/item?id=49335600</a></p>
-<p>Points: 22</p>
-<p># Comments: 2</p>
+<p>Points: 44</p>
+<p># Comments: 9</p>
 
 🔗 **Read more:** [https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world](https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world)
 
 ---
 
-### 2. Roboflow Playground: Try and Compare 30 Computer Vision Models
+### 3. Roboflow Playground: Try and Compare 30 Computer Vision Models
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://blog.roboflow.com/roboflow-playground/">https://blog.roboflow.com/roboflow-playground/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49335517">https://news.ycombinator.com/item?id=49335517</a></p>
-<p>Points: 4</p>
+<p>Points: 7</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://blog.roboflow.com/roboflow-playground/](https://blog.roboflow.com/roboflow-playground/)
-
----
-
-### 3. How I Over-Engineered My Book
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://ben.balter.com/2026/08/17/how-i-over-engineered-my-book/">https://ben.balter.com/2026/08/17/how-i-over-engineered-my-book/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49335292">https://news.ycombinator.com/item?id=49335292</a></p>
-<p>Points: 7</p>
-<p># Comments: 6</p>
-
-🔗 **Read more:** [https://ben.balter.com/2026/08/17/how-i-over-engineered-my-book/](https://ben.balter.com/2026/08/17/how-i-over-engineered-my-book/)
 
 ---
 
@@ -71,7 +71,7 @@ Trump's threat on Oman, which has been holding its own talks with Iran to reopen
 
 ---
 
-### 5. Actors lead tributes to 'amazing' Hayden Panettiere after Heroes star dies aged 36
+### 5. Tributes to actress Hayden Panettiere as coroner finds 'no signs of trauma'
 
 **Source:** BBC
 

@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-17 09:07:04
+**Last Update:** 2026-08-17 09:26:55
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
@@ -19,14 +19,30 @@
 **Description:**
 <p>Article URL: <a href="https://boston.conman.org/2026/08/11.1">https://boston.conman.org/2026/08/11.1</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49326229">https://news.ycombinator.com/item?id=49326229</a></p>
-<p>Points: 23</p>
-<p># Comments: 25</p>
+<p>Points: 25</p>
+<p># Comments: 28</p>
 
 🔗 **Read more:** [https://boston.conman.org/2026/08/11.1](https://boston.conman.org/2026/08/11.1)
 
 ---
 
-### 2. AGI-64 Brings Sierra Adventures to the Commodore 64
+### 2. Strong Gravitational Lensing and Microlensing of Supernovae
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://infoscience.epfl.ch/entities/publication/644cad8a-6c9b-4b02-bcf3-b8b6e8c614c5">https://infoscience.epfl.ch/entities/publication/644cad8a-6c9b-4b02-bcf3-b8b6e8c614c5</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49326071">https://news.ycombinator.com/item?id=49326071</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://infoscience.epfl.ch/entities/publication/644cad8a-6c9b-4b02-bcf3-b8b6e8c614c5](https://infoscience.epfl.ch/entities/publication/644cad8a-6c9b-4b02-bcf3-b8b6e8c614c5)
+
+---
+
+### 3. AGI-64 Brings Sierra Adventures to the Commodore 64
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64">https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49325714">https://news.ycombinator.com/item?id=49325714</a></p>
-<p>Points: 44</p>
+<p>Points: 50</p>
 <p># Comments: 4</p>
 
 🔗 **Read more:** [https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64](https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64)
-
----
-
-### 3. Prolly: A content-addressed ordered map built on prolly trees
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/crabbuild/prolly">https://github.com/crabbuild/prolly</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49325458">https://news.ycombinator.com/item?id=49325458</a></p>
-<p>Points: 21</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://github.com/crabbuild/prolly](https://github.com/crabbuild/prolly)
 
 ---
 

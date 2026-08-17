@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-17 23:17:57
+**Last Update:** 2026-08-18 00:00:21
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. AirTag reveals Amazon is trashing rare books to train AI
+### 1. Will you have spent more of your life with computers than your family?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/">https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49336050">https://news.ycombinator.com/item?id=49336050</a></p>
-<p>Points: 35</p>
-<p># Comments: 5</p>
+<p>Article URL: <a href="https://beachfront.bearblog.dev/will-you-have-spent-more-of-your-life-with-computers-than-your-family/">https://beachfront.bearblog.dev/will-you-have-spent-more-of-your-life-with-computers-than-your-family/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49336672">https://news.ycombinator.com/item?id=49336672</a></p>
+<p>Points: 17</p>
+<p># Comments: 7</p>
 
-🔗 **Read more:** [https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/](https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/)
+🔗 **Read more:** [https://beachfront.bearblog.dev/will-you-have-spent-more-of-your-life-with-computers-than-your-family/](https://beachfront.bearblog.dev/will-you-have-spent-more-of-your-life-with-computers-than-your-family/)
 
 ---
 
-### 2. The Lonely Men Who Work in Patagonia, at the End of the World
+### 2. AI;DR (AI; Didn't Read)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world">https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49335600">https://news.ycombinator.com/item?id=49335600</a></p>
-<p>Points: 47</p>
-<p># Comments: 13</p>
+<p>Article URL: <a href="https://www.rickmanelius.com/p/aidr-ai-didnt-read">https://www.rickmanelius.com/p/aidr-ai-didnt-read</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49336573">https://news.ycombinator.com/item?id=49336573</a></p>
+<p>Points: 125</p>
+<p># Comments: 44</p>
 
-🔗 **Read more:** [https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world](https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world)
+🔗 **Read more:** [https://www.rickmanelius.com/p/aidr-ai-didnt-read](https://www.rickmanelius.com/p/aidr-ai-didnt-read)
 
 ---
 
-### 3. Roboflow Playground: Try and Compare 30 Computer Vision Models
+### 3. India built the biggest digital payments miracle: Now comes the bill
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.roboflow.com/roboflow-playground/">https://blog.roboflow.com/roboflow-playground/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49335517">https://news.ycombinator.com/item?id=49335517</a></p>
-<p>Points: 11</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.bbc.com/news/articles/c8xnwqe00v1o">https://www.bbc.com/news/articles/c8xnwqe00v1o</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49336304">https://news.ycombinator.com/item?id=49336304</a></p>
+<p>Points: 13</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://blog.roboflow.com/roboflow-playground/](https://blog.roboflow.com/roboflow-playground/)
+🔗 **Read more:** [https://www.bbc.com/news/articles/c8xnwqe00v1o](https://www.bbc.com/news/articles/c8xnwqe00v1o)
 
 ---
 
@@ -84,94 +84,94 @@ The US actress, who has died at the age of 36, starred in the TV shows Heroes an
 
 ---
 
-### 6. Burnham exchanged messages with person posing as Trump's chief of staff
+### 6. Fifa executive leaves job three weeks after speaking out against Infantino plan
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Downing Street has declined to comment on the security breach, first reported by Politico.
+A senior Fifa figure leaves football's world governing body three weeks after criticising its president Gianni Infantino.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/clyvj5zdjj2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/clyvj5zdjj2o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/cn7n4d6vy03o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/cn7n4d6vy03o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Death toll from capsized ferry in Zimbabwe rises to 92
+### 7. Why did Trump scale back war games with South Korea?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Search efforts to recover the remaining victims are still underway.
+US president cites good relationship with North Korean leader Kim Jong Un
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/death-toll-from-capsized-ferry-in-zimbabwe-rises-to-92?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/death-toll-from-capsized-ferry-in-zimbabwe-rises-to-92?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/8/17/why-did-trump-scale-back-war-games-with-south-korea?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/8/17/why-did-trump-scale-back-war-games-with-south-korea?traffic_source=rss)
 
 ---
 
-### 8. Russian politician sentenced to 11 years for opposing war in Ukraine
+### 8. Gaza flotilla sets sail from the UK in bid to break Israeli siege
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Lev Shlosberg, a senior member of the Yabloko party, was sentenced to 11 years and one month in prison on Monday.
+A boat has left Bristol as part of a wider campaign to break Israel’s blockade and deliver aid to Gaza.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/17/russian-politician-sentenced-to-11-years-for-opposing-war-in-ukraine?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/17/russian-politician-sentenced-to-11-years-for-opposing-war-in-ukraine?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/17/gaza-flotilla-sets-sail-from-the-uk-in-bid-to-break-israeli-siege?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/17/gaza-flotilla-sets-sail-from-the-uk-in-bid-to-break-israeli-siege?traffic_source=rss)
 
 ---
 
-### 9. Russia maintains election ban on opposition Yabloko, jails deputy head
+### 9. Photos: Search for Indonesia earthquake victims continues
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Supreme Court ruling supports Kremlin&#039;s clampdown on the political party ahead of September&#039;s parliamentary vote.
+At least 68 killed in eastern Indonesia as aftershocks and landslides hamper aid.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/russia-maintains-election-ban-on-opposition-yabloko-jails-deputy-head?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/russia-maintains-election-ban-on-opposition-yabloko-jails-deputy-head?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/8/17/photos-search-for-indonesia-earthquake-victims-continues?traffic_source=rss](https://www.aljazeera.com/gallery/2026/8/17/photos-search-for-indonesia-earthquake-victims-continues?traffic_source=rss)
 
 ---
 
-### 10. Cyclone Hernan
+### 10. Wildfire Picture Rock, Lake, Oregon
 
 **Source:** NASA
 
 **Category:** nature
 
 **Description:**
-Natural event: Severe Storms
+Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22798](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22798)
 
 ---
 
-### 11. Tropical Storm Nangka
+### 11. Wildfire CATO 2, Chaves, New Mexico
 
 **Source:** NASA
 
 **Category:** nature
 
 **Description:**
-Natural event: Severe Storms
+Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22800](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22800)
 
 ---
 
-### 12. Tropical Storm Lala
+### 12. Wildfire THE H1, Palm Beach, Florida
 
 **Source:** NASA
 
 **Category:** nature
 
 **Description:**
-Natural event: Severe Storms
+Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22791](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22791)
 
 ---
 

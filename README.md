@@ -1,16 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-18 02:16:13
+**Last Update:** 2026-08-18 02:55:56
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Bluesky draws its logo on screenshots
+### 1. How Bluesky draws its logo on screenshots
 
 **Source:** Hacker News
 
@@ -19,42 +19,43 @@
 **Description:**
 <p>Article URL: <a href="https://timmarinin.net/2026/bluesky-screenshots/">https://timmarinin.net/2026/bluesky-screenshots/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49338459">https://news.ycombinator.com/item?id=49338459</a></p>
-<p>Points: 36</p>
-<p># Comments: 15</p>
+<p>Points: 77</p>
+<p># Comments: 51</p>
 
 🔗 **Read more:** [https://timmarinin.net/2026/bluesky-screenshots/](https://timmarinin.net/2026/bluesky-screenshots/)
 
 ---
 
-### 2. Nation's Largest Reservoirs Are Drying Up, Threatening Life in the Southwest
+### 2. scScript for Linux
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.nytimes.com/2026/08/17/climate/lake-powell-record-low-colorado.html">https://www.nytimes.com/2026/08/17/climate/lake-powell-record-low-colorado.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49338404">https://news.ycombinator.com/item?id=49338404</a></p>
-<p>Points: 11</p>
-<p># Comments: 8</p>
+<p>Article URL: <a href="https://scapplications.com/">https://scapplications.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49338428">https://news.ycombinator.com/item?id=49338428</a></p>
+<p>Points: 4</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.nytimes.com/2026/08/17/climate/lake-powell-record-low-colorado.html](https://www.nytimes.com/2026/08/17/climate/lake-powell-record-low-colorado.html)
+🔗 **Read more:** [https://scapplications.com/](https://scapplications.com/)
 
 ---
 
-### 3. Quake Shareware, a CD-ROM just a little too full
+### 3. Colorado River plummets as lakes Powell and Mead drop to record lows
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://fabiensanglard.net/quake_shareware_cd/index.html">https://fabiensanglard.net/quake_shareware_cd/index.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49338328">https://news.ycombinator.com/item?id=49338328</a></p>
-<p>Points: 9</p>
-<p># Comments: 0</p>
+<p><a href="https://archive.ph/cD5hF" rel="nofollow">https://archive.ph/cD5hF</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49338404">https://news.ycombinator.com/item?id=49338404</a></p>
+<p>Points: 22</p>
+<p># Comments: 26</p>
 
-🔗 **Read more:** [https://fabiensanglard.net/quake_shareware_cd/index.html](https://fabiensanglard.net/quake_shareware_cd/index.html)
+🔗 **Read more:** [https://www.nytimes.com/2026/08/17/climate/lake-powell-record-low-colorado.html](https://www.nytimes.com/2026/08/17/climate/lake-powell-record-low-colorado.html)
 
 ---
 

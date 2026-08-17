@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-17 13:15:24
+**Last Update:** 2026-08-17 13:32:42
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://duti.dev/blog/2026/spr/">https://duti.dev/blog/2026/spr/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49327490">https://news.ycombinator.com/item?id=49327490</a></p>
-<p>Points: 28</p>
-<p># Comments: 23</p>
+<p>Points: 33</p>
+<p># Comments: 25</p>
 
 🔗 **Read more:** [https://duti.dev/blog/2026/spr/](https://duti.dev/blog/2026/spr/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://linear.axler.net/">https://linear.axler.net/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49326816">https://news.ycombinator.com/item?id=49326816</a></p>
-<p>Points: 78</p>
-<p># Comments: 30</p>
+<p>Points: 82</p>
+<p># Comments: 31</p>
 
 🔗 **Read more:** [https://linear.axler.net/](https://linear.axler.net/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.gimp.org/news/2026/08/16/dev-update-august-2026/">https://www.gimp.org/news/2026/08/16/dev-update-august-2026/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49326156">https://news.ycombinator.com/item?id=49326156</a></p>
-<p>Points: 164</p>
-<p># Comments: 96</p>
+<p>Points: 172</p>
+<p># Comments: 111</p>
 
 🔗 **Read more:** [https://www.gimp.org/news/2026/08/16/dev-update-august-2026/](https://www.gimp.org/news/2026/08/16/dev-update-august-2026/)
 
@@ -97,7 +97,20 @@ After and exceptional summer of heatwaves and drought, the weather will turn wet
 
 ---
 
-### 7. Will India’s ‘Cockroach’ movement force Modi’s BJP to rethink its politics?
+### 7. Inside the UK’s ‘stressful’ cost of living crisis Burnham hopes to tackle
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Britain&#039;s new premier has promised to ease the suffering of millions of families unable to afford basic items.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/who-can-live-on-340-a-month-inside-the-uks-cost-of-living-crisis?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/who-can-live-on-340-a-month-inside-the-uks-cost-of-living-crisis?traffic_source=rss)
+
+---
+
+### 8. Will India’s ‘Cockroach’ movement force Modi’s BJP to rethink its politics?
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Modi&#039;s BJP once controlled media narratives in India, but this might be cha
 
 ---
 
-### 8. Photos: Rising energy prices disrupt education on Cambodia’s Tonle Sap lake
+### 9. Photos: Rising energy prices disrupt education on Cambodia’s Tonle Sap lake
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Modi&#039;s BJP once controlled media narratives in India, but this might be cha
 Children on Tonle Sap sacrifice education, with many working to help their families cover increasing fuel costs.
 
 🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/8/17/photos-rising-energy-prices-disrupt-education-on-cambodias-tonle-sap-lake?traffic_source=rss](https://www.aljazeera.com/gallery/2026/8/17/photos-rising-energy-prices-disrupt-education-on-cambodias-tonle-sap-lake?traffic_source=rss)
-
----
-
-### 9. Scottie Scheffler wins St Jude Championship by eight shots
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Scheffler&#039;s 21st career PGA Tour title earns the American $3.6m for his resounding victory at TPC Southwind.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/17/scottie-scheffler-wins-st-jude-championship-by-eight-shots?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/17/scottie-scheffler-wins-st-jude-championship-by-eight-shots?traffic_source=rss)
 
 ---
 

@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-17 06:54:43
+**Last Update:** 2026-08-17 07:38:58
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. AGI-64 Brings Sierra Adventures to the Commodore 64
+### 1. Gmail might partially be to blame for receiving emails from other Sean Conners
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://boston.conman.org/2026/08/11.1">https://boston.conman.org/2026/08/11.1</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49326229">https://news.ycombinator.com/item?id=49326229</a></p>
+<p>Points: 7</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://boston.conman.org/2026/08/11.1](https://boston.conman.org/2026/08/11.1)
+
+---
+
+### 2. AGI-64 Brings Sierra Adventures to the Commodore 64
 
 **Source:** Hacker News
 
@@ -19,42 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64">https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49325714">https://news.ycombinator.com/item?id=49325714</a></p>
-<p>Points: 13</p>
-<p># Comments: 1</p>
+<p>Points: 24</p>
+<p># Comments: 3</p>
 
 🔗 **Read more:** [https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64](https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64)
 
 ---
 
-### 2. Rhombus 1.1 is now available
+### 3. Prolly: A content-addressed ordered map built on prolly trees
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.racket-lang.org/2026/08/rhombus-v1.1.html">https://blog.racket-lang.org/2026/08/rhombus-v1.1.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49325384">https://news.ycombinator.com/item?id=49325384</a></p>
-<p>Points: 23</p>
-<p># Comments: 10</p>
+<p>Article URL: <a href="https://github.com/crabbuild/prolly">https://github.com/crabbuild/prolly</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49325458">https://news.ycombinator.com/item?id=49325458</a></p>
+<p>Points: 10</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://blog.racket-lang.org/2026/08/rhombus-v1.1.html](https://blog.racket-lang.org/2026/08/rhombus-v1.1.html)
-
----
-
-### 3. The Life and Death of Direct File [pdf]
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf">https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49325185">https://news.ycombinator.com/item?id=49325185</a></p>
-<p>Points: 100</p>
-<p># Comments: 31</p>
-
-🔗 **Read more:** [https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf](https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf)
+🔗 **Read more:** [https://github.com/crabbuild/prolly](https://github.com/crabbuild/prolly)
 
 ---
 
@@ -71,7 +71,20 @@ The rare meeting comes a week after Israel rejected Donald Trump's peace plan fo
 
 ---
 
-### 5. UK to turn cooler with rain after exceptional heat and dry spell
+### 5. Actress Hayden Panettiere dies aged 36, US media report
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+A representative for the actress confirmed the news to US outlet ABC News, but did not provide further details of her death.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. UK to turn cooler with rain after exceptional heat and dry spell
 
 **Source:** BBC
 
@@ -84,20 +97,33 @@ After and exceptional summer of heatwaves and drought, the weather will turn wet
 
 ---
 
-### 6. Five teenagers dead and four injured after car drives on wrong side of motorway
+### 7. Palestinian-American travels to West Bank home encircled by Israeli settler
 
-**Source:** BBC
+**Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The collision occurred on on the M9 Northbound at about 03:00 local time on Sunday in County Kildare.
+Palestinian-American Loui Ridi is flying from the US to Qusra, where Israeli settlers have encircled his family’s home.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwyqq52xkypo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwyqq52xkypo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/17/08-17-26-pal-american-qusra-sv-mp4?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/17/08-17-26-pal-american-qusra-sv-mp4?traffic_source=rss)
 
 ---
 
-### 7. Zambia incumbent takes early election lead as opposition alleges armed raid
+### 8. Rare Pallas’s cat captured on camera in northern Iran mountains
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Footage shows a rare sighting of one of Iran’s most elusive wild felines.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/17/rare-pallass-cat-captured-on-camera-in-northern-iran-mountains?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/17/rare-pallass-cat-captured-on-camera-in-northern-iran-mountains?traffic_source=rss)
+
+---
+
+### 9. Zambia incumbent takes early election lead as opposition alleges armed raid
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ The collision occurred on on the M9 Northbound at about 03:00 local time on Sund
 President Hakainde Hichilema appears on course for outright win as observers cite violence and a tilted campaign field.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/zambia-incumbent-takes-early-election-lead-as-opposition-alleges-armed-raid?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/zambia-incumbent-takes-early-election-lead-as-opposition-alleges-armed-raid?traffic_source=rss)
-
----
-
-### 8. Ebola outbreak in DR Congo becomes deadliest in country’s history
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-A top UN official says &#039;speed, scale, and solidarity&#039; needed &#039;before this virus gets even further ahead of us&#039;.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/ebola-outbreak-in-dr-congo-becomes-deadliest-in-countrys-history?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/ebola-outbreak-in-dr-congo-becomes-deadliest-in-countrys-history?traffic_source=rss)
-
----
-
-### 9. Israeli settlers pitch tents for new illegal outpost in occupied West Bank
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-UN Special Rapporteur Albanese warns that Israel is &#039;using settlers to advance ethnic cleansing&#039; in the West Bank.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/israeli-settlers-pitch-tents-for-new-illegal-outpost-in-occupied-west-bank?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/israeli-settlers-pitch-tents-for-new-illegal-outpost-in-occupied-west-bank?traffic_source=rss)
 
 ---
 

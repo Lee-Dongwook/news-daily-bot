@@ -1,0 +1,65 @@
+{
+    "update_time": "2026-08-17T20:00:57+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 6,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran issue",
+            "description": "The US and Oman have been negotiating separately to reopen the Strait of Hormuz, a waterway that has been closed during the war with Iran.",
+            "url": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 17 Aug 2026 16:26:34 GMT",
+            "fetched": "2026-08-17T20:00:57+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham exchanged messages with person posing as Trump's chief of staff",
+            "description": "Downing Street has declined to comment on the security breach, first reported by Politico.",
+            "url": "https://www.bbc.co.uk/news/articles/clyvj5zdjj2o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 17 Aug 2026 14:24:58 GMT",
+            "fetched": "2026-08-17T20:00:57+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Parents pushed to breaking point by Child Maintenance Service, BBC told",
+            "description": "Mothers describe battles to make ex-partners pay, while fathers say they have been wrongly charged thousands.",
+            "url": "https://www.bbc.co.uk/news/articles/c4g3re5ew8do?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 17 Aug 2026 05:03:31 GMT",
+            "fetched": "2026-08-17T20:00:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "How Russian dissidents are being punished by both Russia and Europe",
+            "description": "While Moscow is stripping citizenship rights, European states are curbing access to legal status for Russian emigres.",
+            "url": "https://www.aljazeera.com/opinions/2026/8/17/how-russian-dissidents-are-being-punished-by-both-russia-and-europe?traffic_source=rss",
+            "published": "Mon, 17 Aug 2026 15:54:34 +0000",
+            "fetched": "2026-08-17T20:00:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Rights group urges FIFA to block Infantino re-election bid over term limits",
+            "description": "FairSquare says the FIFA president should not be able to run again under the world football organisation&#039;s statutes.",
+            "url": "https://www.aljazeera.com/sports/2026/8/17/rights-group-urges-fifa-to-block-infantino-re-election-bid-over-term-limits?traffic_source=rss",
+            "published": "Mon, 17 Aug 2026 15:21:47 +0000",
+            "fetched": "2026-08-17T20:00:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Police execute controlled World War II–era Mine explosion",
+            "description": "Video footage released by police on Sunday shows Slovak bomb disposal experts executing a mine detonation.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/police-execute-controlled-world-war-ii-era-mine?traffic_source=rss",
+            "published": "Mon, 17 Aug 2026 15:08:17 +0000",
+            "fetched": "2026-08-17T20:00:57+03:30"
+        }
+    ]
+}

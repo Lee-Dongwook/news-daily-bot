@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-18 16:45:36
+**Last Update:** 2026-08-18 17:19:26
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Using the railway network as a flatbed scanner
+### 1. Deus Ex creator Warren Spector is retiring from game development
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.videogameschronicle.com/news/its-just-not-as-much-fun-for-me-anymore-deus-ex-creator-warren-spector-is-retiring-from-game-development/">https://www.videogameschronicle.com/news/its-just-not-as-much-fun-for-me-anymore-deus-ex-creator-warren-spector-is-retiring-from-game-development/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49345070">https://news.ycombinator.com/item?id=49345070</a></p>
+<p>Points: 21</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://www.videogameschronicle.com/news/its-just-not-as-much-fun-for-me-anymore-deus-ex-creator-warren-spector-is-retiring-from-game-development/](https://www.videogameschronicle.com/news/its-just-not-as-much-fun-for-me-anymore-deus-ex-creator-warren-spector-is-retiring-from-game-development/)
+
+---
+
+### 2. Using the railway network as a flatbed scanner
 
 **Source:** Hacker News
 
@@ -19,42 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://philo.gay/linecam/">https://philo.gay/linecam/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49344825">https://news.ycombinator.com/item?id=49344825</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
+<p>Points: 47</p>
+<p># Comments: 6</p>
 
 🔗 **Read more:** [https://philo.gay/linecam/](https://philo.gay/linecam/)
 
 ---
 
-### 2. Meta Files Patent for Facial Recognition, Automatic Recording of People
+### 3. Fairphone is now officially available in the United States
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.privacyguides.org/news/2026/08/17/meta-files-patent-for-facial-recognition-automatic-recording-of-people/">https://www.privacyguides.org/news/2026/08/17/meta-files-patent-for-facial-recognition-automatic-recording-of-people/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49344654">https://news.ycombinator.com/item?id=49344654</a></p>
-<p>Points: 9</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://www.privacyguides.org/news/2026/08/17/meta-files-patent-for-facial-recognition-automatic-recording-of-people/](https://www.privacyguides.org/news/2026/08/17/meta-files-patent-for-facial-recognition-automatic-recording-of-people/)
-
----
-
-### 3. Claude writing a macOS driver for my obscure HP printer built only for Windows
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://twitter.com/kuberwastaken/status/2089377982536388964">https://twitter.com/kuberwastaken/status/2089377982536388964</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49344643">https://news.ycombinator.com/item?id=49344643</a></p>
-<p>Points: 9</p>
+<p>Article URL: <a href="https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more">https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49344811">https://news.ycombinator.com/item?id=49344811</a></p>
+<p>Points: 30</p>
 <p># Comments: 2</p>
 
-🔗 **Read more:** [https://twitter.com/kuberwastaken/status/2089377982536388964](https://twitter.com/kuberwastaken/status/2089377982536388964)
+🔗 **Read more:** [https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more](https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more)
 
 ---
 

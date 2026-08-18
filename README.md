@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-18 14:01:49
+**Last Update:** 2026-08-18 14:22:16
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, Al Jazeera, BBC
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
@@ -71,20 +71,7 @@ Russia accuses the UK of escalating the Ukraine war after British-made drones we
 
 ---
 
-### 5. IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Multiple children are feared to have been conceived using sperm and egg donors which were not the ones selected by the parents.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. British couple on honeymoon killed in helicopter crash on Greek island
+### 5. British couple on honeymoon killed in helicopter crash on Greek island
 
 **Source:** BBC
 
@@ -97,7 +84,46 @@ The newlyweds, named as Alexander Cromie and Marie Ebert, were killed alongside 
 
 ---
 
-### 7. Eight air strikes hit airbase in Syria’s Idlib
+### 6. IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Multiple children are feared to have been conceived using sperm and egg donors which were not the ones selected by the parents.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 7. India’s ‘Cockroach’ movement makes schools next battleground against Modi
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Cockroach leaders asked supporters to audit their nearest government-run schools. But it has started with a killing.
+
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/18/indias-cockroach-movement-makes-schools-next-battleground-against-modi?traffic_source=rss](https://www.aljazeera.com/features/2026/8/18/indias-cockroach-movement-makes-schools-next-battleground-against-modi?traffic_source=rss)
+
+---
+
+### 8. Asian Champions League draw: Holders Al-Ahli to face former winners Al Ain
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Al-Ahli and Al Ain, who will also face Cristiano Ronaldo&#039;s Al-Nassr, are the pick of the match-ups in AFC&#039;s Elite draw.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/18/asian-champions-league-draw-holders-al-ahli-to-face-former-winners-al-ain?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/18/asian-champions-league-draw-holders-al-ahli-to-face-former-winners-al-ain?traffic_source=rss)
+
+---
+
+### 9. Eight air strikes hit airbase in Syria’s Idlib
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ The newlyweds, named as Alexander Cromie and Marie Ebert, were killed alongside 
 Syrian state TV quotes military source as saying Israeli forces carried out attack, causing damage and no casualties.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/eight-air-strikes-hit-airbase-in-syrias-idlib?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/eight-air-strikes-hit-airbase-in-syrias-idlib?traffic_source=rss)
-
----
-
-### 8. Brazil’s president says Amazon oil is ‘passport to the future’
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Brazil&#039;s president says Amazon oil is ‘passport to the future’
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/18/brazils-president-says-amazon-oil-is-passport-to-the?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/18/brazils-president-says-amazon-oil-is-passport-to-the?traffic_source=rss)
-
----
-
-### 9. Syrian man dies in custody after alleged abuse by security officers
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-A Syrian man died in police custody after his family alleged he was severely beaten.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/18/syrian-man-dies-in-custody-after-alleged-abuse-by-security-officers?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/18/syrian-man-dies-in-custody-after-alleged-abuse-by-security-officers?traffic_source=rss)
 
 ---
 

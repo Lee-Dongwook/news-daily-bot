@@ -1,32 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-18 04:52:03
+**Last Update:** 2026-08-18 05:25:48
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** BBC, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. PM Carney announces largest clean energy investment in North American history
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.pm.gc.ca/en/news/news-releases/2026/08/17/prime-minister-carney-announces-largest-clean-energy-investment-north">https://www.pm.gc.ca/en/news/news-releases/2026/08/17/prime-minister-carney-announces-largest-clean-energy-investment-north</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49339577">https://news.ycombinator.com/item?id=49339577</a></p>
-<p>Points: 25</p>
-<p># Comments: 3</p>
-
-🔗 **Read more:** [https://www.pm.gc.ca/en/news/news-releases/2026/08/17/prime-minister-carney-announces-largest-clean-energy-investment-north](https://www.pm.gc.ca/en/news/news-releases/2026/08/17/prime-minister-carney-announces-largest-clean-energy-investment-north)
-
----
-
-### 2. Repair Cafe – Fix Your Broken Items
+### 1. Repair Cafe – Fix Your Broken Items
 
 **Source:** Hacker News
 
@@ -35,14 +19,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.repaircafe.org/">https://www.repaircafe.org/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49339097">https://news.ycombinator.com/item?id=49339097</a></p>
-<p>Points: 7</p>
-<p># Comments: 2</p>
+<p>Points: 15</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://www.repaircafe.org/](https://www.repaircafe.org/)
 
 ---
 
-### 3. Puppy PPE
+### 2. Puppy PPE
 
 **Source:** Hacker News
 
@@ -51,10 +35,26 @@
 **Description:**
 <p>Article URL: <a href="http://amosdudley.com/weblog/Designing-PPE-for-Hilde">http://amosdudley.com/weblog/Designing-PPE-for-Hilde</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49338953">https://news.ycombinator.com/item?id=49338953</a></p>
-<p>Points: 13</p>
+<p>Points: 16</p>
 <p># Comments: 3</p>
 
 🔗 **Read more:** [http://amosdudley.com/weblog/Designing-PPE-for-Hilde](http://amosdudley.com/weblog/Designing-PPE-for-Hilde)
+
+---
+
+### 3. How Bluesky draws its logo on screenshots
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://timmarinin.net/2026/bluesky-screenshots/">https://timmarinin.net/2026/bluesky-screenshots/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49338459">https://news.ycombinator.com/item?id=49338459</a></p>
+<p>Points: 226</p>
+<p># Comments: 156</p>
+
+🔗 **Read more:** [https://timmarinin.net/2026/bluesky-screenshots/](https://timmarinin.net/2026/bluesky-screenshots/)
 
 ---
 
@@ -84,20 +84,46 @@ An MoD spokesperson responds by saying Britain stands "shoulder to shoulder" wit
 
 ---
 
-### 6. Tributes to actress Hayden Panettiere as coroner finds 'no signs of trauma'
+### 6. Fifa official sacked after Infantino plan criticism
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The US actress, who has died at the age of 36, starred in the TV shows Heroes and Nashville.
+Senior Fifa figure Kevin Lamour is sacked by football's world governing body three weeks after criticising its president Gianni Infantino.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/cn7n4d6vy03o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/cn7n4d6vy03o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Iran war live: Trump rejects MoU extension as US claims control of Hormuz
+### 7. Vigil held in central London for late Cambridge professor Jason Arday
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Thousands mourned Jason Arday in central London, and voiced anger over the Cambridge professor’s media treatment.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/18/08-18-26-arday-vigil-london-sv-mp4?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/18/08-18-26-arday-vigil-london-sv-mp4?traffic_source=rss)
+
+---
+
+### 8. Zambia’s Hichilema wins second term as president
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Official results show Hichilema receiving about 60 percent of votes, compared with ⁠38 percent for his main challenger.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/zambias-hichilema-wins-second-term-as-president?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/zambias-hichilema-wins-second-term-as-president?traffic_source=rss)
+
+---
+
+### 9. Iran war live: Trump rejects MoU extension as US claims control of Hormuz
 
 **Source:** Al Jazeera
 
@@ -107,71 +133,6 @@ The US actress, who has died at the age of 36, starred in the TV shows Heroes an
 US president says Iran should &#039;put up the white flag of surrender&#039; as the two nations’ MoU expired on Monday.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/8/18/iran-war-live-trump-rejects-mou-extension-as-us-claims-control-of-hormuz?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/8/18/iran-war-live-trump-rejects-mou-extension-as-us-claims-control-of-hormuz?traffic_source=rss)
-
----
-
-### 8. ‘We will not allow Gaza to be rebuilt’ until Hamas disarms, Kushner says
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Trump&#039;s son-in-law and envoy says US will not &#039;restrict Israel&#039;s right to defend itself&#039; as strikes on Gaza continue.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/we-will-not-allow-gaza-to-be-rebuilt-until-hamas-disarms-kushner-says?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/we-will-not-allow-gaza-to-be-rebuilt-until-hamas-disarms-kushner-says?traffic_source=rss)
-
----
-
-### 9. As rubble clears, Colombia begins focusing on recovery after the earthquake
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-A week after a deadly quake, Colombia turns from rescue efforts to shelter, aid and rebuilding.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/as-rubble-clears-colombia-begins-focusing-on-recovery-after-the-earthquake?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/as-rubble-clears-colombia-begins-focusing-on-recovery-after-the-earthquake?traffic_source=rss)
-
----
-
-### 10. Wildfire Picture Rock, Lake, Oregon
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22798](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22798)
-
----
-
-### 11. Wildfire CATO 2, Chaves, New Mexico
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22800](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22800)
-
----
-
-### 12. Wildfire THE H1, Palm Beach, Florida
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22791](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22791)
 
 ---
 

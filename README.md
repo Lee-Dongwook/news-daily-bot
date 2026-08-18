@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-18 18:28:23
+**Last Update:** 2026-08-18 19:04:26
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Babies born under sugar rationing grew into adults with lower cancer risk
+### 1. An Engineer's Old Cooking Trick Is Going Viral, Divides the Internet
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://pleated-jeans.com/2026/08/15/engineers-forgotten-recipe-hack-viral-divides-internet/">https://pleated-jeans.com/2026/08/15/engineers-forgotten-recipe-hack-viral-divides-internet/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49346312">https://news.ycombinator.com/item?id=49346312</a></p>
+<p>Points: 9</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://pleated-jeans.com/2026/08/15/engineers-forgotten-recipe-hack-viral-divides-internet/](https://pleated-jeans.com/2026/08/15/engineers-forgotten-recipe-hack-viral-divides-internet/)
+
+---
+
+### 2. Babies born under sugar rationing grew into adults with lower cancer risk
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://theconversation.com/babies-born-under-sugar-rationing-grew-into-adults-with-lower-cancer-risk-289873">https://theconversation.com/babies-born-under-sugar-rationing-grew-into-adults-with-lower-cancer-risk-289873</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49345843">https://news.ycombinator.com/item?id=49345843</a></p>
-<p>Points: 10</p>
-<p># Comments: 2</p>
+<p>Points: 34</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://theconversation.com/babies-born-under-sugar-rationing-grew-into-adults-with-lower-cancer-risk-289873](https://theconversation.com/babies-born-under-sugar-rationing-grew-into-adults-with-lower-cancer-risk-289873)
 
 ---
 
-### 2. Python Polars Cheatsheet (based on our O'Reilly book)
+### 3. Python Polars Cheatsheet (based on our O'Reilly book)
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://opensource.posit.co/resources/cheatsheets/polars/">https://opensource.posit.co/resources/cheatsheets/polars/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49345476">https://news.ycombinator.com/item?id=49345476</a></p>
-<p>Points: 26</p>
-<p># Comments: 4</p>
+<p>Points: 46</p>
+<p># Comments: 7</p>
 
 🔗 **Read more:** [https://opensource.posit.co/resources/cheatsheets/polars/](https://opensource.posit.co/resources/cheatsheets/polars/)
-
----
-
-### 3. NeoBrowser: An MCP server that drives real Chrome with your logged-in sessions
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/pitiflautico/neobrowser">https://github.com/pitiflautico/neobrowser</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49345320">https://news.ycombinator.com/item?id=49345320</a></p>
-<p>Points: 18</p>
-<p># Comments: 10</p>
-
-🔗 **Read more:** [https://github.com/pitiflautico/neobrowser](https://github.com/pitiflautico/neobrowser)
 
 ---
 
@@ -97,42 +97,42 @@ The 62-year-old man is charged with misconduct in public office and appears befo
 
 ---
 
-### 7. Patrick Vieira appointed Senegal head coach with AFCON qualifiers looming
+### 7. Iran clubs face Qatar and UAE sides at neutral venues in Champions League
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Former France, Arsenal and Manchester City midfielder Patrick Vieira replaces Pape Thiaw as Senegal coach.
+Following the start of the US-Israel war on Iran, the first match of the Iranian league was played last week.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/18/patrick-vieira-appointed-senegal-head-coach-with-afcon-qualifiers-looming?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/18/patrick-vieira-appointed-senegal-head-coach-with-afcon-qualifiers-looming?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/18/iran-clubs-to-play-qatar-and-uae-champions-league-games-at-neutral-venues?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/18/iran-clubs-to-play-qatar-and-uae-champions-league-games-at-neutral-venues?traffic_source=rss)
 
 ---
 
-### 8. What to watch in the Alaska and Wyoming primary elections
+### 8. US cites India on voter IDs, but are elections under Modi clean?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Republican-led states face leadership shuffling.
+Trump highlights India&#039;s voter ID rules to bolster his case for stricter US election laws.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/what-to-watch-in-the-alaska-and-wyoming-primary-elections?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/what-to-watch-in-the-alaska-and-wyoming-primary-elections?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/us-cites-india-on-voter-ids-but-are-elections-under-modi-clean?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/us-cites-india-on-voter-ids-but-are-elections-under-modi-clean?traffic_source=rss)
 
 ---
 
-### 9. Hichilema re-elected as Zambia president amid opposition concerns over vote
+### 9. Why is Russia threatening UK with ‘consequences’ over Ukraine drones?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Hakainde Hichilema’s second term will test whether economic recovery can deliver real change for Zambians.
+Russia is suffering attacks inside its own territory as long-range drones strike its strategic assets.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/hichilema-re-elected-as-zambia-president-amid-opposition-concerns-over-vote?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/hichilema-re-elected-as-zambia-president-amid-opposition-concerns-over-vote?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/why-is-russia-threatening-uk-with-consequences-over-ukraine-drones?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/why-is-russia-threatening-uk-with-consequences-over-ukraine-drones?traffic_source=rss)
 
 ---
 

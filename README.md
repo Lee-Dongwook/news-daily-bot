@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-18 12:30:09
+**Last Update:** 2026-08-18 13:06:11
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://pixelcluster.dev/VRAM-Overcommit/">https://pixelcluster.dev/VRAM-Overcommit/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49342719">https://news.ycombinator.com/item?id=49342719</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
+<p>Points: 48</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://pixelcluster.dev/VRAM-Overcommit/](https://pixelcluster.dev/VRAM-Overcommit/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://acadia.engineering/blog/rethinking-database-programming">https://acadia.engineering/blog/rethinking-database-programming</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49342530">https://news.ycombinator.com/item?id=49342530</a></p>
-<p>Points: 8</p>
-<p># Comments: 1</p>
+<p>Points: 18</p>
+<p># Comments: 3</p>
 
 🔗 **Read more:** [https://acadia.engineering/blog/rethinking-database-programming](https://acadia.engineering/blog/rethinking-database-programming)
 
@@ -51,14 +51,27 @@
 **Description:**
 <p>Article URL: <a href="https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791%2826%2900405-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379126004052%3Fshowall%3Dtrue">https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791%2826%2900405-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379126004052%3Fshowall%3Dtrue</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49341411">https://news.ycombinator.com/item?id=49341411</a></p>
-<p>Points: 13</p>
+<p>Points: 19</p>
 <p># Comments: 1</p>
 
 🔗 **Read more:** [https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791%2826%2900405-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379126004052%3Fshowall%3Dtrue](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791%2826%2900405-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379126004052%3Fshowall%3Dtrue)
 
 ---
 
-### 4. IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus
+### 4. Russia warns UK will pay for supplying drones to Ukraine
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Russia accuses the UK after British-made drones were used in Ukrainian strikes, but the MoD says it stands against Russian aggression.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus
 
 **Source:** BBC
 
@@ -71,33 +84,46 @@ Multiple children are feared to have been conceived using sperm and egg donors w
 
 ---
 
-### 5. Russia says UK 'will pay' for supplying drones to Ukraine
+### 6. British couple on honeymoon killed in helicopter crash on Greek island
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-An MoD spokesperson responds by saying Britain stands "shoulder to shoulder" with Ukraine.
+The newlyweds, named as Alexander Cromie and Marie Ebert, were killed alongside their Greek pilot.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2lzj91d84o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2lzj91d84o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Fifa official sacked after Infantino plan criticism
+### 7. Pakistan top court orders Imran Khan’s hospital transfer amid access battle
 
-**Source:** BBC
+**Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Senior Fifa figure Kevin Lamour is sacked by football's world governing body three weeks after criticising its president Gianni Infantino.
+Supreme Court grants jailed ex-PM Imran Khan transfer to hospital for a month after concerns raised over blood pressure.
 
-🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/cn7n4d6vy03o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/cn7n4d6vy03o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/pakistan-top-court-orders-imran-khans-hospital-transfer-amid-access-battle?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/pakistan-top-court-orders-imran-khans-hospital-transfer-amid-access-battle?traffic_source=rss)
 
 ---
 
-### 7. Trump lashes out at CNN reporter over South Korea question
+### 8. Cincinnati Open: Williams sisters fall in doubles while Zverev advances
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Alexander Zverev survives third-round scare versus Terrance Atmane while Venus, Serena Williams lose in doubles return.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/18/cincinnati-open-williams-sisters-fall-in-doubles-while-zverev-advances?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/18/cincinnati-open-williams-sisters-fall-in-doubles-while-zverev-advances?traffic_source=rss)
+
+---
+
+### 9. Trump lashes out at CNN reporter over South Korea question
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Senior Fifa figure Kevin Lamour is sacked by football's world governing body thr
 Trump lashes out at CNN reporter over South Korea question
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/18/trump-lashes-out-at-cnn-reporter-over-south-korea-question?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/18/trump-lashes-out-at-cnn-reporter-over-south-korea-question?traffic_source=rss)
-
----
-
-### 8. Syrian court sentences Wassim al-Assad to death
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The former regime figure was found guilty of charges including premeditated murder and torture.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/syrian-court-sentences-wassim-al-assad-to?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/syrian-court-sentences-wassim-al-assad-to?traffic_source=rss)
-
----
-
-### 9. Chinese company unveils new ‘Superman’ humanoid robot
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Chinese company unveils new ‘Superman’ humanoid robot
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/18/chinese-company-unveils-new-superman-humanoid-robot?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/18/chinese-company-unveils-new-superman-humanoid-robot?traffic_source=rss)
 
 ---
 

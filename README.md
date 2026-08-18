@@ -1,60 +1,61 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-18 17:19:26
+**Last Update:** 2026-08-18 17:32:11
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Deus Ex creator Warren Spector is retiring from game development
+### 1. A group of Gandalfs protest outside the home of Peter Thiel in Argentina
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.videogameschronicle.com/news/its-just-not-as-much-fun-for-me-anymore-deus-ex-creator-warren-spector-is-retiring-from-game-development/">https://www.videogameschronicle.com/news/its-just-not-as-much-fun-for-me-anymore-deus-ex-creator-warren-spector-is-retiring-from-game-development/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49345070">https://news.ycombinator.com/item?id=49345070</a></p>
-<p>Points: 21</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://dangerousminds.net/weird-news/gandalfs-protest-outside-the-home-peter-thiel-argentina/">https://dangerousminds.net/weird-news/gandalfs-protest-outside-the-home-peter-thiel-argentina/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49345438">https://news.ycombinator.com/item?id=49345438</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.videogameschronicle.com/news/its-just-not-as-much-fun-for-me-anymore-deus-ex-creator-warren-spector-is-retiring-from-game-development/](https://www.videogameschronicle.com/news/its-just-not-as-much-fun-for-me-anymore-deus-ex-creator-warren-spector-is-retiring-from-game-development/)
+🔗 **Read more:** [https://dangerousminds.net/weird-news/gandalfs-protest-outside-the-home-peter-thiel-argentina/](https://dangerousminds.net/weird-news/gandalfs-protest-outside-the-home-peter-thiel-argentina/)
 
 ---
 
-### 2. Using the railway network as a flatbed scanner
+### 2. NeoBrowser: An MCP server that drives real Chrome with your logged-in sessions
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://philo.gay/linecam/">https://philo.gay/linecam/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49344825">https://news.ycombinator.com/item?id=49344825</a></p>
-<p>Points: 47</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://github.com/pitiflautico/neobrowser">https://github.com/pitiflautico/neobrowser</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49345320">https://news.ycombinator.com/item?id=49345320</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://philo.gay/linecam/](https://philo.gay/linecam/)
+🔗 **Read more:** [https://github.com/pitiflautico/neobrowser](https://github.com/pitiflautico/neobrowser)
 
 ---
 
-### 3. Fairphone is now officially available in the United States
+### 3. Ask HN: Good content on using AI to modernize professional services delivery
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more">https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49344811">https://news.ycombinator.com/item?id=49344811</a></p>
-<p>Points: 30</p>
-<p># Comments: 2</p>
+<p>I'm curious if the HN community has a good resources (blogs, podcasts, other content) on practical uses of SOTA AI to improve professional services (e.g. outsourced finance, etc.)<p>I've read a fair amount of what people think should be done (theory) but haven't found a ton of content from people who actually have done it (practice)</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49345255">https://news.ycombinator.com/item?id=49345255</a></p>
+<p>Points: 4</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more](https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more)
+🔗 **Read more:** [https://news.ycombinator.com/item?id=49345255](https://news.ycombinator.com/item?id=49345255)
 
 ---
 
@@ -97,7 +98,20 @@ Multiple children are feared to have been conceived using sperm and egg donors w
 
 ---
 
-### 7. Qatar: Iran’s claim that Doha is holding missing pilots is a ‘media ploy’
+### 7. Yemeni government escalates attacks against Houthis: What’s next?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Fighting intensifies across Yemen as Houthis clash with internationally recognised government forces across many fronts.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/yemeni-government-escalates-attacks-against-houthis-whats-next?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/yemeni-government-escalates-attacks-against-houthis-whats-next?traffic_source=rss)
+
+---
+
+### 8. Qatar: Iran’s claim that Doha is holding missing pilots is a ‘media ploy’
 
 **Source:** Al Jazeera
 
@@ -110,7 +124,7 @@ Qatar says Iran’s claim it is holding missing aircrew is untrue and a “media
 
 ---
 
-### 8. Palestinian-American confronts Israeli settler at his besieged home
+### 9. Palestinian-American confronts Israeli settler at his besieged home
 
 **Source:** Al Jazeera
 
@@ -120,19 +134,6 @@ Qatar says Iran’s claim it is holding missing aircrew is untrue and a “media
 Palestinian-American Loui Abu Ridi confronted an Israeli settler at his home in Qusra, south of Nablus.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/18/palestinian-american-confronts-israeli-settler-at-his-besieged-home?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/18/palestinian-american-confronts-israeli-settler-at-his-besieged-home?traffic_source=rss)
-
----
-
-### 9. Who is Wassim al-Assad, sentenced to death for Syria war atrocities?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The latest sentence against Wassim al-Assad comes a week after ousted President Bashar al-Assad was sentenced to death
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/who-is-wassim-al-assad-sentenced-to-death-for-syria-war-atrocities?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/who-is-wassim-al-assad-sentenced-to-death-for-syria-war-atrocities?traffic_source=rss)
 
 ---
 

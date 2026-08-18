@@ -1,61 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-18 03:12:56
+**Last Update:** 2026-08-18 04:52:03
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. How Bluesky draws its logo on screenshots
+### 1. PM Carney announces largest clean energy investment in North American history
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://timmarinin.net/2026/bluesky-screenshots/">https://timmarinin.net/2026/bluesky-screenshots/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49338459">https://news.ycombinator.com/item?id=49338459</a></p>
-<p>Points: 97</p>
-<p># Comments: 75</p>
+<p>Article URL: <a href="https://www.pm.gc.ca/en/news/news-releases/2026/08/17/prime-minister-carney-announces-largest-clean-energy-investment-north">https://www.pm.gc.ca/en/news/news-releases/2026/08/17/prime-minister-carney-announces-largest-clean-energy-investment-north</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49339577">https://news.ycombinator.com/item?id=49339577</a></p>
+<p>Points: 25</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://timmarinin.net/2026/bluesky-screenshots/](https://timmarinin.net/2026/bluesky-screenshots/)
+🔗 **Read more:** [https://www.pm.gc.ca/en/news/news-releases/2026/08/17/prime-minister-carney-announces-largest-clean-energy-investment-north](https://www.pm.gc.ca/en/news/news-releases/2026/08/17/prime-minister-carney-announces-largest-clean-energy-investment-north)
 
 ---
 
-### 2. scScript for Linux
+### 2. Repair Cafe – Fix Your Broken Items
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://scapplications.com/">https://scapplications.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49338428">https://news.ycombinator.com/item?id=49338428</a></p>
-<p>Points: 5</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://www.repaircafe.org/">https://www.repaircafe.org/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49339097">https://news.ycombinator.com/item?id=49339097</a></p>
+<p>Points: 7</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://scapplications.com/](https://scapplications.com/)
+🔗 **Read more:** [https://www.repaircafe.org/](https://www.repaircafe.org/)
 
 ---
 
-### 3. Colorado River plummets as lakes Powell and Mead drop to record lows
+### 3. Puppy PPE
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p><a href="https://archive.ph/cD5hF" rel="nofollow">https://archive.ph/cD5hF</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49338404">https://news.ycombinator.com/item?id=49338404</a></p>
-<p>Points: 31</p>
-<p># Comments: 38</p>
+<p>Article URL: <a href="http://amosdudley.com/weblog/Designing-PPE-for-Hilde">http://amosdudley.com/weblog/Designing-PPE-for-Hilde</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49338953">https://news.ycombinator.com/item?id=49338953</a></p>
+<p>Points: 13</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://www.nytimes.com/2026/08/17/climate/lake-powell-record-low-colorado.html](https://www.nytimes.com/2026/08/17/climate/lake-powell-record-low-colorado.html)
+🔗 **Read more:** [http://amosdudley.com/weblog/Designing-PPE-for-Hilde](http://amosdudley.com/weblog/Designing-PPE-for-Hilde)
 
 ---
 
@@ -72,7 +71,20 @@ Trump's threat on Oman, which has been holding its own talks with Iran to reopen
 
 ---
 
-### 5. Tributes to actress Hayden Panettiere as coroner finds 'no signs of trauma'
+### 5. Russia warns UK over supplying drones to Ukraine
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+An MoD spokesperson responds by saying Britain stands "shoulder to shoulder" with Ukraine.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Tributes to actress Hayden Panettiere as coroner finds 'no signs of trauma'
 
 **Source:** BBC
 
@@ -85,20 +97,33 @@ The US actress, who has died at the age of 36, starred in the TV shows Heroes an
 
 ---
 
-### 6. Fifa executive leaves job three weeks after speaking out against Infantino plan
+### 7. Iran war live: Trump rejects MoU extension as US claims control of Hormuz
 
-**Source:** BBC
+**Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Senior Fifa figure Kevin Lamour is sacked by football's world governing body three weeks after criticising its president Gianni Infantino.
+US president says Iran should &#039;put up the white flag of surrender&#039; as the two nations’ MoU expired on Monday.
 
-🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/cn7n4d6vy03o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/cn7n4d6vy03o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/8/18/iran-war-live-trump-rejects-mou-extension-as-us-claims-control-of-hormuz?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/8/18/iran-war-live-trump-rejects-mou-extension-as-us-claims-control-of-hormuz?traffic_source=rss)
 
 ---
 
-### 7. As rubble clears, Colombia begins focusing on recovery after the earthquake
+### 8. ‘We will not allow Gaza to be rebuilt’ until Hamas disarms, Kushner says
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Trump&#039;s son-in-law and envoy says US will not &#039;restrict Israel&#039;s right to defend itself&#039; as strikes on Gaza continue.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/we-will-not-allow-gaza-to-be-rebuilt-until-hamas-disarms-kushner-says?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/we-will-not-allow-gaza-to-be-rebuilt-until-hamas-disarms-kushner-says?traffic_source=rss)
+
+---
+
+### 9. As rubble clears, Colombia begins focusing on recovery after the earthquake
 
 **Source:** Al Jazeera
 
@@ -108,32 +133,6 @@ Senior Fifa figure Kevin Lamour is sacked by football's world governing body thr
 A week after a deadly quake, Colombia turns from rescue efforts to shelter, aid and rebuilding.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/as-rubble-clears-colombia-begins-focusing-on-recovery-after-the-earthquake?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/as-rubble-clears-colombia-begins-focusing-on-recovery-after-the-earthquake?traffic_source=rss)
-
----
-
-### 8. ‘Truth or fiction’: US trial of Tupac Shakur’s accused killer begins
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Prosecutors claim Duane Davis was ‘on-site commander’ in murder of Shakur, who died after drive-by shooting in 1996.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/truth-or-fiction-us-trial-of-tupac-shakurs-accused-killer-begins?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/truth-or-fiction-us-trial-of-tupac-shakurs-accused-killer-begins?traffic_source=rss)
-
----
-
-### 9. Palestinian American reunites with family under siege in West Bank
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Videos show the first moments Palestinian-American Loui Ridi arrived at his home in Qusra.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/17/palestinian-american-reunites-with-family-under-siege-in-west-bank?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/17/palestinian-american-reunites-with-family-under-siege-in-west-bank?traffic_source=rss)
 
 ---
 

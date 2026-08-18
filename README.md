@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-18 09:21:49
+**Last Update:** 2026-08-18 10:18:29
 
 **Total News:** 12
 
@@ -10,39 +10,23 @@
 
 ## 📰 Latest News
 
-### 1. I don't enjoy the Internet any more
+### 1. Expert Witness to ChatGPT: "Show how 3M is 0 percent at fault"
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://btao.org/posts/2026-08-17-i-dont-enjoy-the-internet/">https://btao.org/posts/2026-08-17-i-dont-enjoy-the-internet/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49341551">https://news.ycombinator.com/item?id=49341551</a></p>
-<p>Points: 43</p>
-<p># Comments: 22</p>
+<p>Article URL: <a href="https://www.404media.co/show-how-3m-is-0-at-fault-expert-witness-used-chatgpt-to-write-report-defending-company-in-deadly-explosion-lawsuit/">https://www.404media.co/show-how-3m-is-0-at-fault-expert-witness-used-chatgpt-to-write-report-defending-company-in-deadly-explosion-lawsuit/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49341009">https://news.ycombinator.com/item?id=49341009</a></p>
+<p>Points: 30</p>
+<p># Comments: 8</p>
 
-🔗 **Read more:** [https://btao.org/posts/2026-08-17-i-dont-enjoy-the-internet/](https://btao.org/posts/2026-08-17-i-dont-enjoy-the-internet/)
-
----
-
-### 2. What's Better Than Binary? – Advent of Computing Episode 187
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://adventofcomputing.libsyn.com/episode-187-whats-better-than-binary">https://adventofcomputing.libsyn.com/episode-187-whats-better-than-binary</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49340315">https://news.ycombinator.com/item?id=49340315</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://adventofcomputing.libsyn.com/episode-187-whats-better-than-binary](https://adventofcomputing.libsyn.com/episode-187-whats-better-than-binary)
+🔗 **Read more:** [https://www.404media.co/show-how-3m-is-0-at-fault-expert-witness-used-chatgpt-to-write-report-defending-company-in-deadly-explosion-lawsuit/](https://www.404media.co/show-how-3m-is-0-at-fault-expert-witness-used-chatgpt-to-write-report-defending-company-in-deadly-explosion-lawsuit/)
 
 ---
 
-### 3. The Benchmarkpocalypse
+### 2. The Benchmarkpocalypse
 
 **Source:** Hacker News
 
@@ -51,10 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://danluu.com/benchpocalypse/">https://danluu.com/benchpocalypse/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49340299">https://news.ycombinator.com/item?id=49340299</a></p>
-<p>Points: 41</p>
-<p># Comments: 2</p>
+<p>Points: 61</p>
+<p># Comments: 8</p>
 
 🔗 **Read more:** [https://danluu.com/benchpocalypse/](https://danluu.com/benchpocalypse/)
+
+---
+
+### 3. Repair Cafe – Fix Your Broken Items
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.repaircafe.org/">https://www.repaircafe.org/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49339097">https://news.ycombinator.com/item?id=49339097</a></p>
+<p>Points: 81</p>
+<p># Comments: 11</p>
+
+🔗 **Read more:** [https://www.repaircafe.org/](https://www.repaircafe.org/)
 
 ---
 
@@ -71,7 +71,7 @@ Multiple children are feared to have been conceived using sperm and egg donors w
 
 ---
 
-### 5. Russia warns UK over supplying drones to Ukraine
+### 5. Russia says UK 'will pay' for supplying drones to Ukraine
 
 **Source:** BBC
 
@@ -97,42 +97,42 @@ Senior Fifa figure Kevin Lamour is sacked by football's world governing body thr
 
 ---
 
-### 7. Can Trump limit birthright citizenship? Legal experts are doubtful
+### 7. Vessel hit by ‘unknown projectile’ in Strait of Hormuz, UKMTO says
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Trump’s new order targeting ‘birth tourism’ faces an uphill legal battle after an earlier Supreme Court defeat.
+British maritime agency says the incident caused one casualty and damaged the vessel&#039;s engine room.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/18/can-trump-limit-birthright-citizenship-legal-experts-are-doubtful?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/18/can-trump-limit-birthright-citizenship-legal-experts-are-doubtful?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/vessel-hit-by-unknown-projectile-in-strait-of-hormuz-ukmto-says?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/vessel-hit-by-unknown-projectile-in-strait-of-hormuz-ukmto-says?traffic_source=rss)
 
 ---
 
-### 8. A hero’s welcome as Cameroon parades its first Women’s AFCON title
+### 8. Can China’s new Arctic Sea route to Europe replace Middle East chokepoints?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Cameroon’s women’s football team received a hero’s welcome in Yaounde after winning its first Women’s Africa Cup
+Beijing&#039;s new &#039;Ice Silk Road&#039; cuts through a melting Arctic, and could prompt fresh tensions with the US, say analysts.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/18/a-heros-welcome-as-cameroon-parades-its-first-womens-afcon-title?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/18/a-heros-welcome-as-cameroon-parades-its-first-womens-afcon-title?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/can-chinas-new-arctic-sea-route-to-europe-replace-middle-east-chokepoints?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/can-chinas-new-arctic-sea-route-to-europe-replace-middle-east-chokepoints?traffic_source=rss)
 
 ---
 
-### 9. Hichilema wins second term as president of copper-rich Zambia
+### 9. Trump says N Korea’s Kim has responded to his request for a conversation
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Hichilema wins Zambia’s election with 60% after attacks on election officials briefly halted the vote count.
+US president says conversations with Kim Jong Un at a &#039;positive&#039; stage and slams Seoul for refusing to join war on Iran.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/18/08-18-26-zambia-elections-sv?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/18/08-18-26-zambia-elections-sv?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/trump-says-n-koreas-kim-has-responded-to-his-request-for-a-conversation?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/trump-says-n-koreas-kim-has-responded-to-his-request-for-a-conversation?traffic_source=rss)
 
 ---
 

@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-18 16:22:04
+**Last Update:** 2026-08-18 16:45:36
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. As Wisconsin cities flee Flock, its shared camera network loses value
+### 1. Using the railway network as a flatbed scanner
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/">https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49344114">https://news.ycombinator.com/item?id=49344114</a></p>
-<p>Points: 39</p>
-<p># Comments: 7</p>
+<p>Article URL: <a href="https://philo.gay/linecam/">https://philo.gay/linecam/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49344825">https://news.ycombinator.com/item?id=49344825</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/](https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/)
+🔗 **Read more:** [https://philo.gay/linecam/](https://philo.gay/linecam/)
 
 ---
 
-### 2. Google buys crashed airline Spirit's data at auction, because AI
+### 2. Meta Files Patent for Facial Recognition, Automatic Recording of People
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962">https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49343559">https://news.ycombinator.com/item?id=49343559</a></p>
-<p>Points: 188</p>
-<p># Comments: 107</p>
+<p>Article URL: <a href="https://www.privacyguides.org/news/2026/08/17/meta-files-patent-for-facial-recognition-automatic-recording-of-people/">https://www.privacyguides.org/news/2026/08/17/meta-files-patent-for-facial-recognition-automatic-recording-of-people/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49344654">https://news.ycombinator.com/item?id=49344654</a></p>
+<p>Points: 9</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962](https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962)
+🔗 **Read more:** [https://www.privacyguides.org/news/2026/08/17/meta-files-patent-for-facial-recognition-automatic-recording-of-people/](https://www.privacyguides.org/news/2026/08/17/meta-files-patent-for-facial-recognition-automatic-recording-of-people/)
 
 ---
 
-### 3. Linux 7.3 improves performance when running out of vRAM
+### 3. Claude writing a macOS driver for my obscure HP printer built only for Windows
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://pixelcluster.dev/VRAM-Overcommit/">https://pixelcluster.dev/VRAM-Overcommit/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49342719">https://news.ycombinator.com/item?id=49342719</a></p>
-<p>Points: 271</p>
-<p># Comments: 83</p>
+<p>Article URL: <a href="https://twitter.com/kuberwastaken/status/2089377982536388964">https://twitter.com/kuberwastaken/status/2089377982536388964</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49344643">https://news.ycombinator.com/item?id=49344643</a></p>
+<p>Points: 9</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://pixelcluster.dev/VRAM-Overcommit/](https://pixelcluster.dev/VRAM-Overcommit/)
+🔗 **Read more:** [https://twitter.com/kuberwastaken/status/2089377982536388964](https://twitter.com/kuberwastaken/status/2089377982536388964)
 
 ---
 
@@ -97,42 +97,42 @@ Multiple children are feared to have been conceived using sperm and egg donors w
 
 ---
 
-### 7. Bashar al-Assad’s cousin Wassim sentenced to death in Syria
+### 7. Qatar: Iran’s claim that Doha is holding missing pilots is a ‘media ploy’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A Syrian court has sentenced Wassim al-Assad, cousin of Bashar al-Assad, to death for murder, torture and war crimes.
+Qatar says Iran’s claim it is holding missing aircrew is untrue and a “media ploy”, with Tehran yet to verify it.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/18/bashar-al-assads-cousin-wassim-sentenced-to-death-in-syria?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/18/bashar-al-assads-cousin-wassim-sentenced-to-death-in-syria?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/18/qatar-irans-claim-that-doha-is-holding-missing-pilots-is-a-media-ploy?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/18/qatar-irans-claim-that-doha-is-holding-missing-pilots-is-a-media-ploy?traffic_source=rss)
 
 ---
 
-### 8. Qatar rejects Iran’s ‘false’ claims about missing pilots
+### 8. Palestinian-American confronts Israeli settler at his besieged home
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Majed al-Ansari says the Iranian planes &#039;violated Qatar’s sovereignty&#039; and were dealt with in accordance with the law.
+Palestinian-American Loui Abu Ridi confronted an Israeli settler at his home in Qusra, south of Nablus.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/qatar-rejects-irans-false-claims-about-missing-pilots?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/qatar-rejects-irans-false-claims-about-missing-pilots?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/18/palestinian-american-confronts-israeli-settler-at-his-besieged-home?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/18/palestinian-american-confronts-israeli-settler-at-his-besieged-home?traffic_source=rss)
 
 ---
 
-### 9. Myanmar: The Architecture of Statelessness
+### 9. Who is Wassim al-Assad, sentenced to death for Syria war atrocities?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-How Myanmar stripped the Rohingya of citizenship, leading to mass expulsions and a genocide case at the ICJ.
+The latest sentence against Wassim al-Assad comes a week after ousted President Bashar al-Assad was sentenced to death
 
-🔗 **Read more:** [https://www.aljazeera.com/video/aljazeerauntangles/2026/8/18/myanmar-the-architecture-of-statelessness?traffic_source=rss](https://www.aljazeera.com/video/aljazeerauntangles/2026/8/18/myanmar-the-architecture-of-statelessness?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/who-is-wassim-al-assad-sentenced-to-death-for-syria-war-atrocities?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/who-is-wassim-al-assad-sentenced-to-death-for-syria-war-atrocities?traffic_source=rss)
 
 ---
 

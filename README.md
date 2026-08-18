@@ -1,28 +1,28 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-18 13:24:52
+**Last Update:** 2026-08-18 14:01:49
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. When I worked at Apple, I remember seeing code that was 15 years old
+### 1. Google buys crashed airline Spirit's data at auction, because AI
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://twitter.com/sean_geiger/status/2089487682305216534">https://twitter.com/sean_geiger/status/2089487682305216534</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49343187">https://news.ycombinator.com/item?id=49343187</a></p>
-<p>Points: 7</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962">https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49343559">https://news.ycombinator.com/item?id=49343559</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://twitter.com/sean_geiger/status/2089487682305216534](https://twitter.com/sean_geiger/status/2089487682305216534)
+🔗 **Read more:** [https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962](https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962)
 
 ---
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://pixelcluster.dev/VRAM-Overcommit/">https://pixelcluster.dev/VRAM-Overcommit/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49342719">https://news.ycombinator.com/item?id=49342719</a></p>
-<p>Points: 70</p>
-<p># Comments: 7</p>
+<p>Points: 130</p>
+<p># Comments: 15</p>
 
 🔗 **Read more:** [https://pixelcluster.dev/VRAM-Overcommit/](https://pixelcluster.dev/VRAM-Overcommit/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://acadia.engineering/blog/rethinking-database-programming">https://acadia.engineering/blog/rethinking-database-programming</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49342530">https://news.ycombinator.com/item?id=49342530</a></p>
-<p>Points: 25</p>
-<p># Comments: 5</p>
+<p>Points: 51</p>
+<p># Comments: 10</p>
 
 🔗 **Read more:** [https://acadia.engineering/blog/rethinking-database-programming](https://acadia.engineering/blog/rethinking-database-programming)
 
@@ -97,42 +97,42 @@ The newlyweds, named as Alexander Cromie and Marie Ebert, were killed alongside 
 
 ---
 
-### 7. Videos show deadly school shooting in Philippines
+### 7. Eight air strikes hit airbase in Syria’s Idlib
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A ninth-grade student opened fire at a high school in Zamboanga, Philippines, killing a fellow student and himself.
+Syrian state TV quotes military source as saying Israeli forces carried out attack, causing damage and no casualties.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/18/videos-show-deadly-school-shooting-in-philippines?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/18/videos-show-deadly-school-shooting-in-philippines?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/eight-air-strikes-hit-airbase-in-syrias-idlib?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/eight-air-strikes-hit-airbase-in-syrias-idlib?traffic_source=rss)
 
 ---
 
-### 8. Drone video shows drought-hit fields in England after driest July on record
+### 8. Brazil’s president says Amazon oil is ‘passport to the future’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Drone video shows drought-hit fields in England after driest July on record
+Brazil&#039;s president says Amazon oil is ‘passport to the future’
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/18/drone-video-shows-drought-hit-fields-in-england-after-driest-july-on-record?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/18/drone-video-shows-drought-hit-fields-in-england-after-driest-july-on-record?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/18/brazils-president-says-amazon-oil-is-passport-to-the?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/18/brazils-president-says-amazon-oil-is-passport-to-the?traffic_source=rss)
 
 ---
 
-### 9. Pakistan top court orders Imran Khan’s hospital transfer amid access battle
+### 9. Syrian man dies in custody after alleged abuse by security officers
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Supreme Court grants jailed ex-PM Imran Khan transfer to hospital for a month after concerns raised over blood pressure.
+A Syrian man died in police custody after his family alleged he was severely beaten.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/pakistan-top-court-orders-imran-khans-hospital-transfer-amid-access-battle?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/pakistan-top-court-orders-imran-khans-hospital-transfer-amid-access-battle?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/18/syrian-man-dies-in-custody-after-alleged-abuse-by-security-officers?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/18/syrian-man-dies-in-custody-after-alleged-abuse-by-security-officers?traffic_source=rss)
 
 ---
 

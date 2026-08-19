@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-19 07:23:50
+**Last Update:** 2026-08-19 07:34:24
 
 **Total News:** 12
 
@@ -19,7 +19,7 @@
 **Description:**
 <p>Article URL: <a href="https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/">https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49355968">https://news.ycombinator.com/item?id=49355968</a></p>
-<p>Points: 13</p>
+<p>Points: 15</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/](https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/)
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco">https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49355825">https://news.ycombinator.com/item?id=49355825</a></p>
-<p>Points: 54</p>
-<p># Comments: 23</p>
+<p>Points: 59</p>
+<p># Comments: 27</p>
 
 🔗 **Read more:** [https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco](https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco)
 
@@ -51,27 +51,14 @@
 **Description:**
 <p>Article URL: <a href="https://openlogi.org/en">https://openlogi.org/en</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49355606">https://news.ycombinator.com/item?id=49355606</a></p>
-<p>Points: 68</p>
-<p># Comments: 11</p>
+<p>Points: 75</p>
+<p># Comments: 14</p>
 
 🔗 **Read more:** [https://openlogi.org/en](https://openlogi.org/en)
 
 ---
 
-### 4. Three dead after family get into difficulty in sea
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-A man, a woman and a teenage girl die, and a younger girl is in critical condition, after swimming off Shoreham on the Sussex coast.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm2gmjd36pvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm2gmjd36pvo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Sacked Ukrainian defence minister calls for presidential election
+### 4. Sacked Ukrainian defence minister calls for presidential election
 
 **Source:** BBC
 
@@ -81,6 +68,19 @@ A man, a woman and a teenage girl die, and a younger girl is in critical conditi
 Martial law has been in place in Ukraine since February 2022, under which elections are suspended.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Three dead after family get into difficulty in sea
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+A man, a woman and a teenage girl die, and a younger girl is in critical condition, after swimming off Shoreham on the Sussex coast.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm2gmjd36pvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm2gmjd36pvo?at_medium=RSS&at_campaign=rss)
 
 ---
 

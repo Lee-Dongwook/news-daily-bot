@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-19 12:10:27
+**Last Update:** 2026-08-19 12:31:28
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
@@ -19,7 +19,7 @@
 **Description:**
 <p>Article URL: <a href="https://www.modular.com/blog/modcon-announcements">https://www.modular.com/blog/modcon-announcements</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49358327">https://news.ycombinator.com/item?id=49358327</a></p>
-<p>Points: 9</p>
+<p>Points: 18</p>
 <p># Comments: 1</p>
 
 🔗 **Read more:** [https://www.modular.com/blog/modcon-announcements](https://www.modular.com/blog/modcon-announcements)
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://nautil.us/where-human-sleep-went-wrong-1283797">https://nautil.us/where-human-sleep-went-wrong-1283797</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49358259">https://news.ycombinator.com/item?id=49358259</a></p>
-<p>Points: 19</p>
-<p># Comments: 2</p>
+<p>Points: 27</p>
+<p># Comments: 10</p>
 
 🔗 **Read more:** [https://nautil.us/where-human-sleep-went-wrong-1283797](https://nautil.us/where-human-sleep-went-wrong-1283797)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://arstechnica.com/health/2026/08/sabotage-experts-lawmakers-blast-rfk-jr-for-destroying-healthcare-research/">https://arstechnica.com/health/2026/08/sabotage-experts-lawmakers-blast-rfk-jr-for-destroying-healthcare-research/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49358220">https://news.ycombinator.com/item?id=49358220</a></p>
-<p>Points: 14</p>
-<p># Comments: 0</p>
+<p>Points: 23</p>
+<p># Comments: 1</p>
 
 🔗 **Read more:** [https://arstechnica.com/health/2026/08/sabotage-experts-lawmakers-blast-rfk-jr-for-destroying-healthcare-research/](https://arstechnica.com/health/2026/08/sabotage-experts-lawmakers-blast-rfk-jr-for-destroying-healthcare-research/)
 
@@ -97,7 +97,20 @@ The popularity of degree apprenticeships has grown as the cost of university has
 
 ---
 
-### 7. South Africa to Australia: Why coal profits are surging during Iran war
+### 7. Who won and lost in Florida primaries: Key takeaways
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Florida primaries reveal political shifts, reshaping key races ahead of crucial US midterm elections in November.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/who-won-and-lost-in-florida-primaries-key-takeaways?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/who-won-and-lost-in-florida-primaries-key-takeaways?traffic_source=rss)
+
+---
+
+### 8. South Africa to Australia: Why coal profits are surging during Iran war
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Coal companies are reporting a huge rise in profits, but analysts say global cle
 
 ---
 
-### 8. Scaling back US-South Korea drills may fail to woo Kim away from China
+### 9. Scaling back US-South Korea drills may fail to woo Kim away from China
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Coal companies are reporting a huge rise in profits, but analysts say global cle
 Trump is scaling back US-South Korea military exercises as he signals interest in renewed talks with Kim Jong Un.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/19/scaling-back-us-south-korea-drills-may-fail-to-woo-kim-away-from-china?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/19/scaling-back-us-south-korea-drills-may-fail-to-woo-kim-away-from-china?traffic_source=rss)
-
----
-
-### 9. Ukraine’s ousted defence minister calls for elections during war
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Mykhailo Fedorov&#039;s call is first such demand by a major Ukrainian political figure since Russia&#039;s full-scale invasion.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/ukraines-ousted-defence-minister-calls-for-elections-during-war?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/ukraines-ousted-defence-minister-calls-for-elections-during-war?traffic_source=rss)
 
 ---
 

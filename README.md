@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-19 03:13:10
+**Last Update:** 2026-08-19 04:53:54
 
 **Total News:** 12
 
@@ -10,51 +10,51 @@
 
 ## 📰 Latest News
 
-### 1. Programmable Property-Based Testing
+### 1. Cerebras CS4
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://dl.acm.org/doi/10.1145/3828685">https://dl.acm.org/doi/10.1145/3828685</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49353618">https://news.ycombinator.com/item?id=49353618</a></p>
+<p>Article URL: <a href="https://www.cerebras.ai/cs4">https://www.cerebras.ai/cs4</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49354949">https://news.ycombinator.com/item?id=49354949</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.cerebras.ai/cs4](https://www.cerebras.ai/cs4)
+
+---
+
+### 2. Why crypto's best infrastructure companies stopped looking like crypto?
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://konstantintkachuk.com/writing/depin-is-dead-long-live-infrastructure-as-a-service/">https://konstantintkachuk.com/writing/depin-is-dead-long-live-infrastructure-as-a-service/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49354778">https://news.ycombinator.com/item?id=49354778</a></p>
 <p>Points: 5</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://dl.acm.org/doi/10.1145/3828685](https://dl.acm.org/doi/10.1145/3828685)
+🔗 **Read more:** [https://konstantintkachuk.com/writing/depin-is-dead-long-live-infrastructure-as-a-service/](https://konstantintkachuk.com/writing/depin-is-dead-long-live-infrastructure-as-a-service/)
 
 ---
 
-### 2. AI usage patterns in software teams
+### 3. Show HN: Interactive, animated architecture of any HuggingFace models
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://linear.app/data">https://linear.app/data</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49353432">https://news.ycombinator.com/item?id=49353432</a></p>
-<p>Points: 10</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://modelmap.cc">https://modelmap.cc</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49354664">https://news.ycombinator.com/item?id=49354664</a></p>
+<p>Points: 28</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://linear.app/data](https://linear.app/data)
-
----
-
-### 3. GLM-5.3 Artificial Analysis Benchmarks
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://artificialanalysis.ai/models/glm-5-3">https://artificialanalysis.ai/models/glm-5-3</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49353407">https://news.ycombinator.com/item?id=49353407</a></p>
-<p>Points: 52</p>
-<p># Comments: 17</p>
-
-🔗 **Read more:** [https://artificialanalysis.ai/models/glm-5-3](https://artificialanalysis.ai/models/glm-5-3)
+🔗 **Read more:** [https://modelmap.cc](https://modelmap.cc)
 
 ---
 
@@ -65,7 +65,7 @@
 **Category:** world
 
 **Description:**
-A man, a woman and a teenage girl die and a younger girl is in a critical condition after swimming off the Sussex coast.
+A man, a woman and a teenage girl die, and a younger girl is in critical condition, after swimming off the Sussex coast.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm2gmjd36pvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm2gmjd36pvo?at_medium=RSS&at_campaign=rss)
 
@@ -84,55 +84,55 @@ Rough sleepers in England will be offered housing, in a move likened to the “E
 
 ---
 
-### 6. British couple on honeymoon killed in helicopter crash on Greek island
+### 6. Scientists stunned by children's lung recovery in ultra low emission zone
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The newlyweds, named as Alexander Cromie and Marie Ebert, were killed alongside their Greek pilot.
+Children's lung capacity caught up with their peers in less polluted areas once a clean air zone came in, a study shows.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2lzj91d84o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2lzj91d84o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c1l1r1zne1ro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c1l1r1zne1ro?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Minnesota official sues Texas governor to force ICE agent’s extradition
+### 7. How Ebola became the deadliest outbreak in DR Congo’s history
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-State Attorney General Keith Ellison has called for the transfer of ICE agent accused of lying about nonfatal shooting.
+Conflict, delayed detection, and mistrust are complicating efforts to contain the virus in eastern DR Congo.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/minnesota-official-sues-texas-governor-to-force-ice-agents-extradition?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/minnesota-official-sues-texas-governor-to-force-ice-agents-extradition?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/how-ebola-became-the-deadliest-outbreak-in-dr-congos-history?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/how-ebola-became-the-deadliest-outbreak-in-dr-congos-history?traffic_source=rss)
 
 ---
 
-### 8. Bolivia arrests political adviser to Latin American right-wingers
+### 8. US ambassador to Israel calls settler violence ‘terror’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Arrest comes after attack on activist Nadia Beller, who says she was targeted for her opposition to corruption.
+US Ambassador to Israel Mike Huckabee says Israeli settler violence in the occupied West Bank
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/bolivia-arrests-political-adviser-to-latin-american-right-wingers?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/bolivia-arrests-political-adviser-to-latin-american-right-wingers?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/19/us-ambassador-to-israel-calls-settler-violence?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/19/us-ambassador-to-israel-calls-settler-violence?traffic_source=rss)
 
 ---
 
-### 9. Trump administration moves to end rule protecting swaths of forest land
+### 9. Quebec separatist says no independence referendum while Trump in office
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US Agriculture Department says rescinding 2001 rule will help reduce wildfire risk and return control to local managers.
+Leader of Canadian province&#039;s secessionist party says debate over independence stymied by turbulence in US politics.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/trump-administration-moves-to-end-rule-protecting-swaths-of-forest-land?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/trump-administration-moves-to-end-rule-protecting-swaths-of-forest-land?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/quebec-separatist-says-no-independence-referendum-while-trump-in-office?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/quebec-separatist-says-no-independence-referendum-while-trump-in-office?traffic_source=rss)
 
 ---
 

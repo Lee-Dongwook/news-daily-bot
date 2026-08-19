@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-19 04:53:54
+**Last Update:** 2026-08-19 05:27:38
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Cerebras CS4
+### 1. Tiny satellite will use the dark side of the Moon as a shield
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.cerebras.ai/cs4">https://www.cerebras.ai/cs4</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49354949">https://news.ycombinator.com/item?id=49354949</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.cam.ac.uk/research/news/tiny-satellite-will-use-the-dark-side-of-the-moon-to-eavesdrop-on-whispers-from-the-early-universe">https://www.cam.ac.uk/research/news/tiny-satellite-will-use-the-dark-side-of-the-moon-to-eavesdrop-on-whispers-from-the-early-universe</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49355232">https://news.ycombinator.com/item?id=49355232</a></p>
+<p>Points: 7</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.cerebras.ai/cs4](https://www.cerebras.ai/cs4)
+🔗 **Read more:** [https://www.cam.ac.uk/research/news/tiny-satellite-will-use-the-dark-side-of-the-moon-to-eavesdrop-on-whispers-from-the-early-universe](https://www.cam.ac.uk/research/news/tiny-satellite-will-use-the-dark-side-of-the-moon-to-eavesdrop-on-whispers-from-the-early-universe)
 
 ---
 
-### 2. Why crypto's best infrastructure companies stopped looking like crypto?
+### 2. New paper shows that 37% of workers in US saw real wages decline from 2021-2024 [pdf]
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://konstantintkachuk.com/writing/depin-is-dead-long-live-infrastructure-as-a-service/">https://konstantintkachuk.com/writing/depin-is-dead-long-live-infrastructure-as-a-service/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49354778">https://news.ycombinator.com/item?id=49354778</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf">https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49355142">https://news.ycombinator.com/item?id=49355142</a></p>
+<p>Points: 41</p>
+<p># Comments: 16</p>
 
-🔗 **Read more:** [https://konstantintkachuk.com/writing/depin-is-dead-long-live-infrastructure-as-a-service/](https://konstantintkachuk.com/writing/depin-is-dead-long-live-infrastructure-as-a-service/)
+🔗 **Read more:** [https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf](https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf)
 
 ---
 
-### 3. Show HN: Interactive, animated architecture of any HuggingFace models
+### 3. Scientists stunned by children's lung recovery in ultra low emission zone
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://modelmap.cc">https://modelmap.cc</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49354664">https://news.ycombinator.com/item?id=49354664</a></p>
-<p>Points: 28</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://www.bbc.com/news/articles/c1l1r1zne1ro">https://www.bbc.com/news/articles/c1l1r1zne1ro</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49355105">https://news.ycombinator.com/item?id=49355105</a></p>
+<p>Points: 17</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://modelmap.cc](https://modelmap.cc)
+🔗 **Read more:** [https://www.bbc.com/news/articles/c1l1r1zne1ro](https://www.bbc.com/news/articles/c1l1r1zne1ro)
 
 ---
 
@@ -65,13 +65,26 @@
 **Category:** world
 
 **Description:**
-A man, a woman and a teenage girl die, and a younger girl is in critical condition, after swimming off the Sussex coast.
+A man, a woman and a teenage girl die, and a younger girl is in critical condition, after swimming off Shoreham on the Sussex coast.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm2gmjd36pvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm2gmjd36pvo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. 'Everyone in for Christmas' - Burnham unveils rough sleeping plan
+### 5. Sacked Ukrainian defence minister calls for presidential election
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Martial law has been in place in Ukraine since February 2022, under which elections are suspended.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. 'Everyone in for Christmas' - Burnham unveils rough sleeping plan
 
 **Source:** BBC
 
@@ -81,19 +94,6 @@ A man, a woman and a teenage girl die, and a younger girl is in critical conditi
 Rough sleepers in England will be offered housing, in a move likened to the “Everyone In” initiative during the pandemic.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvgvy2n6grno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvgvy2n6grno?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Scientists stunned by children's lung recovery in ultra low emission zone
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Children's lung capacity caught up with their peers in less polluted areas once a clean air zone came in, a study shows.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c1l1r1zne1ro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c1l1r1zne1ro?at_medium=RSS&at_campaign=rss)
 
 ---
 

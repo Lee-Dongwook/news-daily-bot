@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-19 06:52:25
+**Last Update:** 2026-08-19 07:23:50
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Meta's blockbuster trial draws parallels to big tobacco
+### 1. Palomar: A registry of Lean verified mathematics
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/">https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49355968">https://news.ycombinator.com/item?id=49355968</a></p>
+<p>Points: 13</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/](https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/)
+
+---
+
+### 2. Meta's blockbuster trial draws parallels to big tobacco
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco">https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49355825">https://news.ycombinator.com/item?id=49355825</a></p>
-<p>Points: 20</p>
-<p># Comments: 2</p>
+<p>Points: 54</p>
+<p># Comments: 23</p>
 
 🔗 **Read more:** [https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco](https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco)
 
 ---
 
-### 2. OpenLogi
+### 3. OpenLogi
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://openlogi.org/en">https://openlogi.org/en</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49355606">https://news.ycombinator.com/item?id=49355606</a></p>
-<p>Points: 26</p>
-<p># Comments: 4</p>
+<p>Points: 68</p>
+<p># Comments: 11</p>
 
 🔗 **Read more:** [https://openlogi.org/en](https://openlogi.org/en)
-
----
-
-### 3. The Integer
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://gist.github.com/17twenty/1f230ab8256f42d4cd3ba931b9bd440b">https://gist.github.com/17twenty/1f230ab8256f42d4cd3ba931b9bd440b</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49355368">https://news.ycombinator.com/item?id=49355368</a></p>
-<p>Points: 19</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://gist.github.com/17twenty/1f230ab8256f42d4cd3ba931b9bd440b](https://gist.github.com/17twenty/1f230ab8256f42d4cd3ba931b9bd440b)
 
 ---
 
@@ -97,42 +97,42 @@ Rough sleepers in England will be offered housing, in a move likened to the “E
 
 ---
 
-### 7. US, Canada reach trade deal to avert steep tariffs, Trump says
+### 7. UAE imposes indefinite trade embargo on Iran over alleged missile attacks
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Trump announces pause on 50 percent duty on Canadian exports shortly before midnight deadline.
+Iran denies launching missiles at the UAE, suggesting the incident was a &#039;false flag operation&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/19/us-canada-reach-trade-deal-to-avert-steep-tariffs-trump-says?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/19/us-canada-reach-trade-deal-to-avert-steep-tariffs-trump-says?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/uae-imposes-indefinite-trade-embargo-on-iran-over-alleged-missile-attacks?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/uae-imposes-indefinite-trade-embargo-on-iran-over-alleged-missile-attacks?traffic_source=rss)
 
 ---
 
-### 8. US refineries taking in half of Venezuela’s oil output, official says
+### 8. US sanctions International Criminal Court’s president and top lawyer
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US official says Venezuela is sending 500,000 of its 1.25 million barrels per day output to Gulf Coast refineries.
+The US has sanctioned International Criminal Court president Tomoko Akane and trial lawyer Abdoulaye Seye.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/venezuela-oil-exports-surge-with-us-refineries-taking-in-half-of-output?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/venezuela-oil-exports-surge-with-us-refineries-taking-in-half-of-output?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/19/us-sanctions-international-criminal-courts-president-and-top-lawyer?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/19/us-sanctions-international-criminal-courts-president-and-top-lawyer?traffic_source=rss)
 
 ---
 
-### 9. How Ebola became the deadliest outbreak in DR Congo’s history
+### 9. Trial begins that could force Meta to change Facebook and Instagram
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Conflict, delayed detection, and mistrust are complicating efforts to contain the virus in eastern DR Congo.
+A landmark trial has begun in California over allegations Meta deliberately designed its platforms to be addictive.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/how-ebola-became-the-deadliest-outbreak-in-dr-congos-history?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/how-ebola-became-the-deadliest-outbreak-in-dr-congos-history?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/19/trial-begins-that-could-force-meta-to-change-facebook-and-instagram?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/19/trial-begins-that-could-force-meta-to-change-facebook-and-instagram?traffic_source=rss)
 
 ---
 

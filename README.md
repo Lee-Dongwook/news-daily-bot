@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-19 15:16:33
+**Last Update:** 2026-08-19 16:22:28
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Air Theremin – a browser theremin you play by waving at your webcam
+### 1. Geolocating a random island using geometry and CUDA programming
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://yassa9.github.io/osint/gralhix-004/">https://yassa9.github.io/osint/gralhix-004/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49360545">https://news.ycombinator.com/item?id=49360545</a></p>
+<p>Points: 10</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://yassa9.github.io/osint/gralhix-004/](https://yassa9.github.io/osint/gralhix-004/)
+
+---
+
+### 2. GrapheneOS in 2027 available on high-end Motorola phones
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://grapheneos.social/@GrapheneOS/117078064184215730">https://grapheneos.social/@GrapheneOS/117078064184215730</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49360242">https://news.ycombinator.com/item?id=49360242</a></p>
+<p>Points: 98</p>
+<p># Comments: 22</p>
+
+🔗 **Read more:** [https://grapheneos.social/@GrapheneOS/117078064184215730](https://grapheneos.social/@GrapheneOS/117078064184215730)
+
+---
+
+### 3. Air Theremin – a browser theremin you play by waving at your webcam
 
 **Source:** Hacker News
 
@@ -19,59 +51,14 @@
 **Description:**
 <p>Article URL: <a href="https://theremin.bizibah.com/">https://theremin.bizibah.com/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49359425">https://news.ycombinator.com/item?id=49359425</a></p>
-<p>Points: 37</p>
-<p># Comments: 14</p>
+<p>Points: 73</p>
+<p># Comments: 38</p>
 
 🔗 **Read more:** [https://theremin.bizibah.com/](https://theremin.bizibah.com/)
 
 ---
 
-### 2. The Mojo language (by Modular, now Qualcomm) is now open-source
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.modular.com/blog/modcon-announcements">https://www.modular.com/blog/modcon-announcements</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49358327">https://news.ycombinator.com/item?id=49358327</a></p>
-<p>Points: 76</p>
-<p># Comments: 27</p>
-
-🔗 **Read more:** [https://www.modular.com/blog/modcon-announcements](https://www.modular.com/blog/modcon-announcements)
-
----
-
-### 3. Where Human Sleep Went Wrong
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://nautil.us/where-human-sleep-went-wrong-1283797">https://nautil.us/where-human-sleep-went-wrong-1283797</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49358259">https://news.ycombinator.com/item?id=49358259</a></p>
-<p>Points: 78</p>
-<p># Comments: 63</p>
-
-🔗 **Read more:** [https://nautil.us/where-human-sleep-went-wrong-1283797](https://nautil.us/where-human-sleep-went-wrong-1283797)
-
----
-
-### 4. Jump in energy bills drives UK inflation to highest rate for four months
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-A 2.9% rise in inflation had been widely expected by economists, with Chancellor John Healey saying the Iran war “continues to impact prices here at home”.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cdrv7jr8n74o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cdrv7jr8n74o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Thunderstorm warnings issued for parts of UK with flash flooding expected
+### 4. Thunderstorm warnings issued for parts of UK with flash flooding expected
 
 **Source:** BBC
 
@@ -84,55 +71,68 @@ Warnings for northern England, eastern Scotland and Northern Ireland will come i
 
 ---
 
-### 6. Burnham unveils plan to get rough sleepers off streets for Christmas
+### 5. Israeli army orders criminal investigation into killing of Palestinian girl Hind Rajab in Gaza
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Rough sleepers in England will be offered housing, in a move likened to the “Everyone In” initiative during the pandemic.
+The five-year-old spent hours on the phone to paramedics before her body was recovered days later in Gaza City in 2024.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvgvy2n6grno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvgvy2n6grno?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Angelique Kidjo makes history with Hollywood walk of fame star
+### 6. Jump in energy bills drives UK inflation to highest rate for four months
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+A 2.9% rise in inflation had been widely expected by economists, with Chancellor John Healey saying the Iran war “continues to impact prices here at home”.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cdrv7jr8n74o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cdrv7jr8n74o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 7. Dozens killed after gold mine collapse in Central African Republic
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Angelique Kidjo makes history with Hollywood walk of fame star
+Rescue operations ongoing after mine collapse kills dozens in the Central African Republic near the Cameroon border.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/19/angelique-kidjo-makes-history-with-hollywood-walk-of-fame-star?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/19/angelique-kidjo-makes-history-with-hollywood-walk-of-fame-star?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/dozens-killed-after-gold-mine-collapse-in-central-african-republic?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/dozens-killed-after-gold-mine-collapse-in-central-african-republic?traffic_source=rss)
 
 ---
 
-### 8. Humanitarianism is not collapsing. It is being traded and compromised
+### 8. UAE trade embargo could shut Iran’s key economic escape route: Here’s why
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-This is endangering the lives of humanitarian workers and the vulnerable communities they serve.
+The UAE announced the embargo, accusing Iran of launching missiles into its territory.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/19/humanitarianism-is-not-collapsing-it-is-being-traded-and-compromised?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/19/humanitarianism-is-not-collapsing-it-is-being-traded-and-compromised?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/uae-trade-embargo-could-shut-irans-key-economic-escape-route-heres-why?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/uae-trade-embargo-could-shut-irans-key-economic-escape-route-heres-why?traffic_source=rss)
 
 ---
 
-### 9. ‘Tit for tat’: Why is Trump cozying up to North Korea’s Kim Jong Un again?
+### 9. In Ukraine, forcible military recruitment efforts escalate into violence
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Analysts say Trump&#039;s attempted rapprochement with Kim Jong Un is driven by political signals to Pyongyang and Seoul.
+&#039;Busification&#039;, the term describing being captured on the street, is engulfed by abuse and corruption.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/tit-for-tat-why-is-trump-cozying-up-to-north-koreas-kim-jong-un-again?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/tit-for-tat-why-is-trump-cozying-up-to-north-koreas-kim-jong-un-again?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/in-ukraine-forcible-military-recruitment-efforts-escalate-into-violence?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/in-ukraine-forcible-military-recruitment-efforts-escalate-into-violence?traffic_source=rss)
 
 ---
 

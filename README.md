@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-19 14:57:59
+**Last Update:** 2026-08-19 15:16:33
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://theremin.bizibah.com/">https://theremin.bizibah.com/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49359425">https://news.ycombinator.com/item?id=49359425</a></p>
-<p>Points: 24</p>
-<p># Comments: 9</p>
+<p>Points: 37</p>
+<p># Comments: 14</p>
 
 🔗 **Read more:** [https://theremin.bizibah.com/](https://theremin.bizibah.com/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.modular.com/blog/modcon-announcements">https://www.modular.com/blog/modcon-announcements</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49358327">https://news.ycombinator.com/item?id=49358327</a></p>
-<p>Points: 67</p>
-<p># Comments: 25</p>
+<p>Points: 76</p>
+<p># Comments: 27</p>
 
 🔗 **Read more:** [https://www.modular.com/blog/modcon-announcements](https://www.modular.com/blog/modcon-announcements)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://nautil.us/where-human-sleep-went-wrong-1283797">https://nautil.us/where-human-sleep-went-wrong-1283797</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49358259">https://news.ycombinator.com/item?id=49358259</a></p>
-<p>Points: 75</p>
-<p># Comments: 60</p>
+<p>Points: 78</p>
+<p># Comments: 63</p>
 
 🔗 **Read more:** [https://nautil.us/where-human-sleep-went-wrong-1283797](https://nautil.us/where-human-sleep-went-wrong-1283797)
 
@@ -97,7 +97,20 @@ Rough sleepers in England will be offered housing, in a move likened to the “E
 
 ---
 
-### 7. Humanitarianism is not collapsing. It is being traded and compromised
+### 7. Angelique Kidjo makes history with Hollywood walk of fame star
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Angelique Kidjo makes history with Hollywood walk of fame star
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/19/angelique-kidjo-makes-history-with-hollywood-walk-of-fame-star?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/19/angelique-kidjo-makes-history-with-hollywood-walk-of-fame-star?traffic_source=rss)
+
+---
+
+### 8. Humanitarianism is not collapsing. It is being traded and compromised
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ This is endangering the lives of humanitarian workers and the vulnerable communi
 
 ---
 
-### 8. ‘Tit for tat’: Why is Trump cozying up to North Korea’s Kim Jong Un again?
+### 9. ‘Tit for tat’: Why is Trump cozying up to North Korea’s Kim Jong Un again?
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ This is endangering the lives of humanitarian workers and the vulnerable communi
 Analysts say Trump&#039;s attempted rapprochement with Kim Jong Un is driven by political signals to Pyongyang and Seoul.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/tit-for-tat-why-is-trump-cozying-up-to-north-koreas-kim-jong-un-again?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/tit-for-tat-why-is-trump-cozying-up-to-north-koreas-kim-jong-un-again?traffic_source=rss)
-
----
-
-### 9. Top India court allows passive euthanasia, but few aware of ‘living wills’
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Families of terminally ill patients have little or no awareness or preparedness for what comes next.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/top-india-court-allows-passive-euthanasia-but-few-aware-of-living-wills?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/top-india-court-allows-passive-euthanasia-but-few-aware-of-living-wills?traffic_source=rss)
 
 ---
 

@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-08-19T20:59:21+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Track defect found on approach to site of Lewes derailment, initial report says",
+            "description": "Initial findings from an RAIB investigation show an \"irregularity\" at the site near Lewes.",
+            "url": "https://www.bbc.co.uk/news/articles/c4gx12v8z51o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 19 Aug 2026 14:06:42 GMT",
+            "fetched": "2026-08-19T20:59:21+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Thunderstorm warnings issued for parts of UK with flash flooding expected",
+            "description": "Warnings for northern England, eastern Scotland and Northern Ireland will come into force later on Wednesday.",
+            "url": "https://www.bbc.co.uk/news/articles/c0m7e9ym747o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 19 Aug 2026 12:09:47 GMT",
+            "fetched": "2026-08-19T20:59:21+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
+            "description": "The five-year old Gaza girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives.",
+            "url": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 19 Aug 2026 15:33:32 GMT",
+            "fetched": "2026-08-19T20:59:21+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Hamas condemns ‘new war crime’ as Israel kills 10 in crowded Gaza hubs",
+            "description": "Israeli air strikes on Gaza kill 10 Palestinians, targeting police headquarters and a refugee camp in separate attacks.",
+            "url": "https://www.aljazeera.com/news/2026/8/19/hamas-condemns-new-war-crime-as-israel-kills-10-in-crowded-gaza-hubs?traffic_source=rss",
+            "published": "Wed, 19 Aug 2026 17:14:21 +0000",
+            "fetched": "2026-08-19T20:59:21+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US pressure on Israel needed for peace in Syria",
+            "description": "With Israeli elections approaching, analysts say Netanyahu needs a new escalation, undermining deconfliction efforts.",
+            "url": "https://www.aljazeera.com/features/2026/8/19/us-pressure-on-israel-needed-for-peace-in-syria?traffic_source=rss",
+            "published": "Wed, 19 Aug 2026 17:12:11 +0000",
+            "fetched": "2026-08-19T20:59:21+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US and Canada reach ‘very fair’ trade agreement, Trump says",
+            "description": "New trade deal ensures no tariffs for US farmers and businesses exporting to Canada, Trump announces",
+            "url": "https://www.aljazeera.com/economy/2026/8/19/us-and-canada-reach-very-fair-trade-agreement-trump-says?traffic_source=rss",
+            "published": "Wed, 19 Aug 2026 16:55:57 +0000",
+            "fetched": "2026-08-19T20:59:21+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Saudel",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22926",
+            "published": "2026-08-19T00:00:00Z",
+            "fetched": "2026-08-19T20:59:21+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Picture Rock, Lake, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22798",
+            "published": "2026-08-16T15:55:00Z",
+            "fetched": "2026-08-19T20:59:21+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire CATO 2, Chaves, New Mexico",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22800",
+            "published": "2026-08-15T23:18:00Z",
+            "fetched": "2026-08-19T20:59:21+03:30"
+        }
+    ]
+}

@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-19 16:22:28
+**Last Update:** 2026-08-19 16:52:20
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://yassa9.github.io/osint/gralhix-004/">https://yassa9.github.io/osint/gralhix-004/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49360545">https://news.ycombinator.com/item?id=49360545</a></p>
-<p>Points: 10</p>
-<p># Comments: 3</p>
+<p>Points: 46</p>
+<p># Comments: 13</p>
 
 🔗 **Read more:** [https://yassa9.github.io/osint/gralhix-004/](https://yassa9.github.io/osint/gralhix-004/)
 
@@ -35,26 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://grapheneos.social/@GrapheneOS/117078064184215730">https://grapheneos.social/@GrapheneOS/117078064184215730</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49360242">https://news.ycombinator.com/item?id=49360242</a></p>
-<p>Points: 98</p>
-<p># Comments: 22</p>
+<p>Points: 166</p>
+<p># Comments: 73</p>
 
 🔗 **Read more:** [https://grapheneos.social/@GrapheneOS/117078064184215730](https://grapheneos.social/@GrapheneOS/117078064184215730)
 
 ---
 
-### 3. Air Theremin – a browser theremin you play by waving at your webcam
+### 3. A joke domain purchase turned in geopolitical warfare
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://theremin.bizibah.com/">https://theremin.bizibah.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49359425">https://news.ycombinator.com/item?id=49359425</a></p>
-<p>Points: 73</p>
-<p># Comments: 38</p>
+<p>Article URL: <a href="https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/">https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49360015">https://news.ycombinator.com/item?id=49360015</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://theremin.bizibah.com/](https://theremin.bizibah.com/)
+🔗 **Read more:** [https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/](https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/)
 
 ---
 
@@ -97,42 +97,42 @@ A 2.9% rise in inflation had been widely expected by economists, with Chancellor
 
 ---
 
-### 7. Dozens killed after gold mine collapse in Central African Republic
+### 7. Why aid entering Gaza may not reach those who need it
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Rescue operations ongoing after mine collapse kills dozens in the Central African Republic near the Cameroon border.
+It is extremely difficult for trucks to get through the Israeli blockade, let alone for drivers to reach aid warehouses.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/dozens-killed-after-gold-mine-collapse-in-central-african-republic?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/dozens-killed-after-gold-mine-collapse-in-central-african-republic?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/why-aid-entering-gaza-may-not-reach-those-who-need-it?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/why-aid-entering-gaza-may-not-reach-those-who-need-it?traffic_source=rss)
 
 ---
 
-### 8. UAE trade embargo could shut Iran’s key economic escape route: Here’s why
+### 8. War on Iran: Iran allegedly targets the UAE
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The UAE announced the embargo, accusing Iran of launching missiles into its territory.
+After reports that Iran targeted the UAE with two ballistic missiles, the Emirates has suspended trade with Tehran.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/uae-trade-embargo-could-shut-irans-key-economic-escape-route-heres-why?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/uae-trade-embargo-could-shut-irans-key-economic-escape-route-heres-why?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/19/war-on-iran-iran-allegedly-targets-the-uae?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/19/war-on-iran-iran-allegedly-targets-the-uae?traffic_source=rss)
 
 ---
 
-### 9. In Ukraine, forcible military recruitment efforts escalate into violence
+### 9. Palestinian factions explore broad alliance for November elections
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-&#039;Busification&#039;, the term describing being captured on the street, is engulfed by abuse and corruption.
+Hamas, breakaway Fatah faction consider unified electoral list to challenge Mahmoud Abbas as political landscape shifts.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/in-ukraine-forcible-military-recruitment-efforts-escalate-into-violence?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/in-ukraine-forcible-military-recruitment-efforts-escalate-into-violence?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/palestinian-factions-explore-broad-alliance-for-november-elections?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/palestinian-factions-explore-broad-alliance-for-november-elections?traffic_source=rss)
 
 ---
 

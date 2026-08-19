@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-19 14:01:46
+**Last Update:** 2026-08-19 14:21:41
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. The Mojo language (by Modular, now Qualcomm) is now open-source
+### 1. Air Theremin – a browser theremin you play by waving at your webcam
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://theremin.bizibah.com/">https://theremin.bizibah.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49359425">https://news.ycombinator.com/item?id=49359425</a></p>
+<p>Points: 3</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://theremin.bizibah.com/](https://theremin.bizibah.com/)
+
+---
+
+### 2. The Mojo language (by Modular, now Qualcomm) is now open-source
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.modular.com/blog/modcon-announcements">https://www.modular.com/blog/modcon-announcements</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49358327">https://news.ycombinator.com/item?id=49358327</a></p>
-<p>Points: 45</p>
-<p># Comments: 17</p>
+<p>Points: 56</p>
+<p># Comments: 19</p>
 
 🔗 **Read more:** [https://www.modular.com/blog/modcon-announcements](https://www.modular.com/blog/modcon-announcements)
 
 ---
 
-### 2. Where Human Sleep Went Wrong
+### 3. Where Human Sleep Went Wrong
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://nautil.us/where-human-sleep-went-wrong-1283797">https://nautil.us/where-human-sleep-went-wrong-1283797</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49358259">https://news.ycombinator.com/item?id=49358259</a></p>
-<p>Points: 55</p>
-<p># Comments: 43</p>
+<p>Points: 66</p>
+<p># Comments: 52</p>
 
 🔗 **Read more:** [https://nautil.us/where-human-sleep-went-wrong-1283797](https://nautil.us/where-human-sleep-went-wrong-1283797)
-
----
-
-### 3. λλ: A Programming Language for Silicon Photonics
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://dl.acm.org/doi/10.1145/3789240.3829151">https://dl.acm.org/doi/10.1145/3789240.3829151</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49357501">https://news.ycombinator.com/item?id=49357501</a></p>
-<p>Points: 20</p>
-<p># Comments: 5</p>
-
-🔗 **Read more:** [https://dl.acm.org/doi/10.1145/3789240.3829151](https://dl.acm.org/doi/10.1145/3789240.3829151)
 
 ---
 
@@ -71,7 +71,20 @@ A 2.9% rise in inflation had been widely expected by economists, with Chancellor
 
 ---
 
-### 5. Burnham unveils plan to get rough sleepers off streets for Christmas
+### 5. Thunderstorm warnings issued for parts of UK with flash flooding expected
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Warnings for northern England, eastern Scotland and Northern Ireland will come into force later on Wednesday.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c0m7e9ym747o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c0m7e9ym747o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Burnham unveils plan to get rough sleepers off streets for Christmas
 
 **Source:** BBC
 
@@ -81,19 +94,6 @@ A 2.9% rise in inflation had been widely expected by economists, with Chancellor
 Rough sleepers in England will be offered housing, in a move likened to the “Everyone In” initiative during the pandemic.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvgvy2n6grno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvgvy2n6grno?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Tennis player Nick Kyrgios suspended after testing positive for cocaine
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Nick Kyrgios is provisionally suspended from tennis after testing positive for cocaine.
-
-🔗 **Read more:** [https://www.bbc.co.uk/sport/tennis/articles/c4g612r12yno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/tennis/articles/c4g612r12yno?at_medium=RSS&at_campaign=rss)
 
 ---
 

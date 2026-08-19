@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-20 01:16:52
+**Last Update:** 2026-08-20 01:57:38
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. DFlash 2: Keep Drafting Parallel
+### 1. Collaborative Human Agent Protocol (CHAP)
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/BrightbeamAI/chap">https://github.com/BrightbeamAI/chap</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49367836">https://news.ycombinator.com/item?id=49367836</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://github.com/BrightbeamAI/chap](https://github.com/BrightbeamAI/chap)
+
+---
+
+### 2. Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://os8088.com/spotlight/">https://os8088.com/spotlight/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49367256">https://news.ycombinator.com/item?id=49367256</a></p>
+<p>Points: 11</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://os8088.com/spotlight/](https://os8088.com/spotlight/)
+
+---
+
+### 3. DFlash 2: Keep Drafting Parallel
 
 **Source:** Hacker News
 
@@ -19,46 +51,14 @@
 **Description:**
 <p>Article URL: <a href="https://inco.ai/blog/dflash2/">https://inco.ai/blog/dflash2/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49366792">https://news.ycombinator.com/item?id=49366792</a></p>
-<p>Points: 21</p>
-<p># Comments: 3</p>
+<p>Points: 41</p>
+<p># Comments: 5</p>
 
 🔗 **Read more:** [https://inco.ai/blog/dflash2/](https://inco.ai/blog/dflash2/)
 
 ---
 
-### 2. Pressed Penny Machine Map
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://pennypresses.net/home/map.php">https://pennypresses.net/home/map.php</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49366597">https://news.ycombinator.com/item?id=49366597</a></p>
-<p>Points: 23</p>
-<p># Comments: 11</p>
-
-🔗 **Read more:** [https://pennypresses.net/home/map.php](https://pennypresses.net/home/map.php)
-
----
-
-### 3. XWayland 26.1-rc1 Released Two Years After the Last Release
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://lists.x.org/archives/xorg/2026-August/062280.html">https://lists.x.org/archives/xorg/2026-August/062280.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49366474">https://news.ycombinator.com/item?id=49366474</a></p>
-<p>Points: 23</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://lists.x.org/archives/xorg/2026-August/062280.html](https://lists.x.org/archives/xorg/2026-August/062280.html)
-
----
-
-### 4. Prince Harry and Meghan to return to UK
+### 4. Prince Harry and Meghan moving back to UK
 
 **Source:** BBC
 
@@ -97,7 +97,20 @@ Initial findings from an RAIB investigation show an "irregularity" at the site n
 
 ---
 
-### 7. Israeli strike on Gaza City police headquarters kills women’s police chief
+### 7. “I get along with him very well.”
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+US President Donald Trump praised his relationship with North Korea’s leader Kim Jong Un.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/19/i-get-along-with-him-very-well?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/19/i-get-along-with-him-very-well?traffic_source=rss)
+
+---
+
+### 8. Israeli strike on Gaza City police headquarters kills women’s police chief
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ An Israeli strike on Gaza City’s police headquarters has killed the women’s 
 
 ---
 
-### 8. Displaced Lebanese watch southern Lebanon’s ‘pilot zones’ from afar
+### 9. Displaced Lebanese watch southern Lebanon’s ‘pilot zones’ from afar
 
 **Source:** Al Jazeera
 
@@ -121,19 +134,6 @@ An Israeli strike on Gaza City’s police headquarters has killed the women’s 
 Al Jazeera’s Ali Hashem watched Israeli attacks near his home town.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/19/displaced-lebanese-watch-southern-lebanons-pilot-zones-from-afar-2?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/19/displaced-lebanese-watch-southern-lebanons-pilot-zones-from-afar-2?traffic_source=rss)
-
----
-
-### 9. Israel orders inquiry into killing of 6-year-old Hind Rajab in Gaza
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The Israeli military announced criminal investigations into the killings of six-year-old Hind Rajab.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/19/israel-orders-inquiry-into-killing-of-6-year-old-hind-rajab-in-gaza?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/19/israel-orders-inquiry-into-killing-of-6-year-old-hind-rajab-in-gaza?traffic_source=rss)
 
 ---
 

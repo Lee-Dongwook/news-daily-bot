@@ -1,32 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-20 00:01:25
+**Last Update:** 2026-08-20 00:20:27
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Pixel 11 Pro Fold feels like the end of an era
+### 1. Pressed Penny Machine Map
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review">https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49366264">https://news.ycombinator.com/item?id=49366264</a></p>
-<p>Points: 19</p>
-<p># Comments: 30</p>
+<p>Article URL: <a href="https://pennypresses.net/home/map.php">https://pennypresses.net/home/map.php</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49366597">https://news.ycombinator.com/item?id=49366597</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review](https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review)
+🔗 **Read more:** [https://pennypresses.net/home/map.php](https://pennypresses.net/home/map.php)
 
 ---
 
-### 2. From Quantum Relative Entropy to the Semiclassical Einstein Equations
+### 2. XWayland 26.1-rc1 Released Two Years After the Last Release
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://lists.x.org/archives/xorg/2026-August/062280.html">https://lists.x.org/archives/xorg/2026-August/062280.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49366474">https://news.ycombinator.com/item?id=49366474</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://lists.x.org/archives/xorg/2026-August/062280.html](https://lists.x.org/archives/xorg/2026-August/062280.html)
+
+---
+
+### 3. From Quantum Relative Entropy to the Semiclassical Einstein Equations
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://arxiv.org/abs/2510.24491">https://arxiv.org/abs/2510.24491</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49366115">https://news.ycombinator.com/item?id=49366115</a></p>
-<p>Points: 9</p>
+<p>Points: 10</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://arxiv.org/abs/2510.24491](https://arxiv.org/abs/2510.24491)
-
----
-
-### 3. Ramp Launches a Model Router
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://router.com">https://router.com</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49366067">https://news.ycombinator.com/item?id=49366067</a></p>
-<p>Points: 25</p>
-<p># Comments: 6</p>
-
-🔗 **Read more:** [https://router.com](https://router.com)
 
 ---
 
@@ -97,7 +97,20 @@ Warnings for northern England, eastern Scotland and Northern Ireland will come i
 
 ---
 
-### 7. Seven people, mostly foreign tourists, killed in helicopter crash in Kenya
+### 7. What’s behind Israel’s latest attack on Syria?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+US envoy warns Israel&#039;s strike could have sparked direct confrontation with Turkish forces.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/8/19/whats-behind-israels-latest-attack-on-syria?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/8/19/whats-behind-israels-latest-attack-on-syria?traffic_source=rss)
+
+---
+
+### 8. Seven people, mostly foreign tourists, killed in helicopter crash in Kenya
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Ecuador&#039;s intelligence chief Michele Sensi-Contugi and NBCUniversal journal
 
 ---
 
-### 8. 582 skeletons, including children discovered in Sri Lanka mass grave
+### 9. 582 skeletons, including children discovered in Sri Lanka mass grave
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Ecuador&#039;s intelligence chief Michele Sensi-Contugi and NBCUniversal journal
 A Sri Lankan mass grave excavation has uncovered 582 skeletons, including babies and children.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/19/582-skeletons-including-children-discovered-in-sri-lanka-mass-grave?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/19/582-skeletons-including-children-discovered-in-sri-lanka-mass-grave?traffic_source=rss)
-
----
-
-### 9. Protests in Kyiv back ex-defence minister Fedorov’s call for elections
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Ukrainians in Kyiv held a protest in support of ousted defence Minister Mykailo Fedorov.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/19/19-08-reported-audreymacalpine-kyiv-ua?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/19/19-08-reported-audreymacalpine-kyiv-ua?traffic_source=rss)
 
 ---
 

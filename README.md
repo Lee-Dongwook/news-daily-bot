@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-19 06:30:06
+**Last Update:** 2026-08-19 06:52:25
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco">https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49355825">https://news.ycombinator.com/item?id=49355825</a></p>
-<p>Points: 7</p>
-<p># Comments: 0</p>
+<p>Points: 20</p>
+<p># Comments: 2</p>
 
 🔗 **Read more:** [https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco](https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://openlogi.org/en">https://openlogi.org/en</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49355606">https://news.ycombinator.com/item?id=49355606</a></p>
-<p>Points: 9</p>
-<p># Comments: 1</p>
+<p>Points: 26</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://openlogi.org/en](https://openlogi.org/en)
 
@@ -97,7 +97,20 @@ Rough sleepers in England will be offered housing, in a move likened to the “E
 
 ---
 
-### 7. US refineries taking in half of Venezuela’s oil output, official says
+### 7. US, Canada reach trade deal to avert steep tariffs, Trump says
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Trump announces pause on 50 percent duty on Canadian exports shortly before midnight deadline.
+
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/19/us-canada-reach-trade-deal-to-avert-steep-tariffs-trump-says?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/19/us-canada-reach-trade-deal-to-avert-steep-tariffs-trump-says?traffic_source=rss)
+
+---
+
+### 8. US refineries taking in half of Venezuela’s oil output, official says
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ US official says Venezuela is sending 500,000 of its 1.25 million barrels per da
 
 ---
 
-### 8. How Ebola became the deadliest outbreak in DR Congo’s history
+### 9. How Ebola became the deadliest outbreak in DR Congo’s history
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ US official says Venezuela is sending 500,000 of its 1.25 million barrels per da
 Conflict, delayed detection, and mistrust are complicating efforts to contain the virus in eastern DR Congo.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/how-ebola-became-the-deadliest-outbreak-in-dr-congos-history?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/how-ebola-became-the-deadliest-outbreak-in-dr-congos-history?traffic_source=rss)
-
----
-
-### 9. US ambassador to Israel calls settler violence ‘terror’
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-US Ambassador to Israel Mike Huckabee says Israeli settler violence in the occupied West Bank
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/19/us-ambassador-to-israel-calls-settler-violence?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/19/us-ambassador-to-israel-calls-settler-violence?traffic_source=rss)
 
 ---
 

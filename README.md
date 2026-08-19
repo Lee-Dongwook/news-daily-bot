@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-20 00:57:59
+**Last Update:** 2026-08-20 01:16:52
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://inco.ai/blog/dflash2/">https://inco.ai/blog/dflash2/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49366792">https://news.ycombinator.com/item?id=49366792</a></p>
-<p>Points: 14</p>
-<p># Comments: 2</p>
+<p>Points: 21</p>
+<p># Comments: 3</p>
 
 🔗 **Read more:** [https://inco.ai/blog/dflash2/](https://inco.ai/blog/dflash2/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://pennypresses.net/home/map.php">https://pennypresses.net/home/map.php</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49366597">https://news.ycombinator.com/item?id=49366597</a></p>
-<p>Points: 19</p>
-<p># Comments: 6</p>
+<p>Points: 23</p>
+<p># Comments: 11</p>
 
 🔗 **Read more:** [https://pennypresses.net/home/map.php](https://pennypresses.net/home/map.php)
 
@@ -51,27 +51,14 @@
 **Description:**
 <p>Article URL: <a href="https://lists.x.org/archives/xorg/2026-August/062280.html">https://lists.x.org/archives/xorg/2026-August/062280.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49366474">https://news.ycombinator.com/item?id=49366474</a></p>
-<p>Points: 14</p>
+<p>Points: 23</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://lists.x.org/archives/xorg/2026-August/062280.html](https://lists.x.org/archives/xorg/2026-August/062280.html)
 
 ---
 
-### 4. Couple and teenage daughter who died in water off Shoreham named by police
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Police say the family travelled from their home in London and went into the sea for a swim.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvgvr336z2po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvgvr336z2po?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Prince Harry and Meghan to return to UK
+### 4. Prince Harry and Meghan to return to UK
 
 **Source:** BBC
 
@@ -81,6 +68,19 @@ Police say the family travelled from their home in London and went into the sea 
 The couple's children, Prince Archie, 7, and Princess Lilibet, 5, are enrolled to start at a school in September.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c62ey03z9d1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c62ey03z9d1o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Couple and teenage daughter who died in water off Shoreham named by police
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Police say the family travelled from their home in London and went into the sea for a swim.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvgvr336z2po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvgvr336z2po?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +97,43 @@ Initial findings from an RAIB investigation show an "irregularity" at the site n
 
 ---
 
-### 7. USS Lincoln woes highlight US Navy limits in prolonged Iran war: Experts
+### 7. Israeli strike on Gaza City police headquarters kills women’s police chief
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Reports of dire conditions underscore supply challenges, questions of US plans going forward, experts say.
+An Israeli strike on Gaza City’s police headquarters has killed the women’s police chief and several officers.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/uss-lincoln-woes-highlight-us-navy-limits-in-prolonged-iran-war-experts?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/uss-lincoln-woes-highlight-us-navy-limits-in-prolonged-iran-war-experts?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/19/israeli-strike-on-gaza-city-police-headquarters-kills-womens-police-chief?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/19/israeli-strike-on-gaza-city-police-headquarters-kills-womens-police-chief?traffic_source=rss)
 
 ---
 
-### 8. Spain plans transfer of 500 migrant children from Ceuta to mainland
+### 8. Displaced Lebanese watch southern Lebanon’s ‘pilot zones’ from afar
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ceuta leaders want children returned to Morocco, but Madrid says deporting them is &#039;outrageous&#039;.
+“You can&#039;t do anything. Just stand here and watch.”
+Al Jazeera’s Ali Hashem watched Israeli attacks near his home town.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/spain-plans-transfer-of-500-migrant-children-from-ceuta-to-mainland?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/spain-plans-transfer-of-500-migrant-children-from-ceuta-to-mainland?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/19/displaced-lebanese-watch-southern-lebanons-pilot-zones-from-afar-2?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/19/displaced-lebanese-watch-southern-lebanons-pilot-zones-from-afar-2?traffic_source=rss)
 
 ---
 
-### 9. Moderna, Merck unveil mRNA-based cancer vaccine that cuts spread
+### 9. Israel orders inquiry into killing of 6-year-old Hind Rajab in Gaza
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Moderna&#039;s mRNA vaccine Intismeran shows promise, reducing melanoma recurrence and spread in late-stage trials.
+The Israeli military announced criminal investigations into the killings of six-year-old Hind Rajab.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/moderna-merck-unveil-mrna-based-cancer-vaccine-that-cuts-spread?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/moderna-merck-unveil-mrna-based-cancer-vaccine-that-cuts-spread?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/19/israel-orders-inquiry-into-killing-of-6-year-old-hind-rajab-in-gaza?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/19/israel-orders-inquiry-into-killing-of-6-year-old-hind-rajab-in-gaza?traffic_source=rss)
 
 ---
 

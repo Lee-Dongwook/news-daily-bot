@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-19 18:28:55
+**Last Update:** 2026-08-19 19:04:35
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Moderna reports first positive Phase 3 for mRNA neoantigen therapy in melanoma
+### 1. The science behind Pixel Watch's insulin resistance feature
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.empirical.health/blog/wearable-insulin-resistance/">https://www.empirical.health/blog/wearable-insulin-resistance/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49362512">https://news.ycombinator.com/item?id=49362512</a></p>
+<p>Points: 5</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://www.empirical.health/blog/wearable-insulin-resistance/](https://www.empirical.health/blog/wearable-insulin-resistance/)
+
+---
+
+### 2. Moderna reports first positive Phase 3 for mRNA neoantigen therapy in melanoma
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://twitter.com/NoubarAfeyan/status/2090050162441752787">https://twitter.com/NoubarAfeyan/status/2090050162441752787</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49361395">https://news.ycombinator.com/item?id=49361395</a></p>
-<p>Points: 96</p>
-<p># Comments: 22</p>
+<p>Points: 164</p>
+<p># Comments: 47</p>
 
 🔗 **Read more:** [https://twitter.com/NoubarAfeyan/status/2090050162441752787](https://twitter.com/NoubarAfeyan/status/2090050162441752787)
 
 ---
 
-### 2. PostgreSQL for Everything
+### 3. PostgreSQL for Everything
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.raphaelbauer.com:443/posts/postgresql-everything/">https://www.raphaelbauer.com:443/posts/postgresql-everything/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49361279">https://news.ycombinator.com/item?id=49361279</a></p>
-<p>Points: 71</p>
-<p># Comments: 55</p>
+<p>Points: 106</p>
+<p># Comments: 76</p>
 
 🔗 **Read more:** [https://www.raphaelbauer.com:443/posts/postgresql-everything/](https://www.raphaelbauer.com:443/posts/postgresql-everything/)
-
----
-
-### 3. Geolocating a random island using geometry and CUDA programming
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://yassa9.github.io/osint/gralhix-004/">https://yassa9.github.io/osint/gralhix-004/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49360545">https://news.ycombinator.com/item?id=49360545</a></p>
-<p>Points: 134</p>
-<p># Comments: 33</p>
-
-🔗 **Read more:** [https://yassa9.github.io/osint/gralhix-004/](https://yassa9.github.io/osint/gralhix-004/)
 
 ---
 
@@ -84,20 +84,33 @@ Warnings for northern England, eastern Scotland and Northern Ireland will come i
 
 ---
 
-### 6. Israel confirms it opened fire on vehicle carrying five-year-old Hind Rajab in Gaza
+### 6. Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-She initially survived the attack but her body was recovered days later in Gaza City in 2024.
+The five-year old Gaza girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Israel numbers Palestinian detainee foreheads: What we know
+### 7. Palestinian refugee and two relatives drown off English coast
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+A girl is taken to hospital in critical condition in what PM Burnham calls a &#039;terrible family tragedy&#039;.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/three-people-from-palestinian-british-family-drown-off-uks-sussex-coast?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/three-people-from-palestinian-british-family-drown-off-uks-sussex-coast?traffic_source=rss)
+
+---
+
+### 8. Israel numbers Palestinian detainee foreheads: What we know
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Palestinian news outlets reported a man with the number ‘44’ written on his 
 
 ---
 
-### 8. Second Ukrainian national arrested over 2022 Nord Stream pipeline blast
+### 9. Second Ukrainian national arrested over 2022 Nord Stream pipeline blast
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Palestinian news outlets reported a man with the number ‘44’ written on his 
 The suspect was arrested in Croatia a year after another, an ex-army officer, was held and transferred to Germany.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/second-ukrainian-national-arrested-over-2022-nord-stream-pipeline-blast?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/second-ukrainian-national-arrested-over-2022-nord-stream-pipeline-blast?traffic_source=rss)
-
----
-
-### 9. Premier League 2026-27 form guide: Title race, prediction, players to watch
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Will Arsenal repeat, could Man Utd win, what about Liverpool? Breaking down the top clubs’ chances for 2026-27 season.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/19/premier-league-2026-27-form-guide-title-race-prediction-players-to-watch?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/19/premier-league-2026-27-form-guide-title-race-prediction-players-to-watch?traffic_source=rss)
 
 ---
 

@@ -1,64 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-20 08:10:06
+**Last Update:** 2026-08-20 08:30:02
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Turns are Better than Radians
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.computerenhance.com/p/turns-are-better-than-radians">https://www.computerenhance.com/p/turns-are-better-than-radians</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49369408">https://news.ycombinator.com/item?id=49369408</a></p>
-<p>Points: 54</p>
-<p># Comments: 32</p>
-
-🔗 **Read more:** [https://www.computerenhance.com/p/turns-are-better-than-radians](https://www.computerenhance.com/p/turns-are-better-than-radians)
-
----
-
-### 2. Universality of Gradient Descent Neural Network Training
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://arxiv.org/abs/2007.13664">https://arxiv.org/abs/2007.13664</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49368828">https://news.ycombinator.com/item?id=49368828</a></p>
-<p>Points: 14</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://arxiv.org/abs/2007.13664](https://arxiv.org/abs/2007.13664)
-
----
-
-### 3. Feature Request: Support AGENTS.md
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/anthropics/claude-code/issues/6235">https://github.com/anthropics/claude-code/issues/6235</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49367350">https://news.ycombinator.com/item?id=49367350</a></p>
-<p>Points: 164</p>
-<p># Comments: 89</p>
-
-🔗 **Read more:** [https://github.com/anthropics/claude-code/issues/6235](https://github.com/anthropics/claude-code/issues/6235)
-
----
-
-### 4. Prince Harry and Meghan moving back to UK later this month
+### 1. Prince Harry and Meghan moving back to UK later this month
 
 **Source:** BBC
 
@@ -71,7 +23,7 @@ The couple's children, Prince Archie, 7, and Princess Lilibet, 5, are enrolled t
 
 ---
 
-### 5. Harry and Meghan are experts in surprise - but is their UK return forever?
+### 2. Harry and Meghan are experts in surprise - but is their UK return forever?
 
 **Source:** BBC
 
@@ -84,7 +36,7 @@ The sudden decision to return leaves lots of questions for the Duke and Duchess 
 
 ---
 
-### 6. Students wait for GCSE and BTec grades as app launches for 750 schools in England
+### 3. Students wait for GCSE and BTec grades as app launches for 750 schools in England
 
 **Source:** BBC
 
@@ -97,20 +49,33 @@ Some pupils in England will be able to see their grades on their phones from 11:
 
 ---
 
-### 7. Russian forces kill 3 in Ukraine as Zelenskyy faces pressure over elections
+### 4. Trump vows ‘economic warfare’ on countries helping Iran
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-At least 14 of the 20 people wounded in the strike on Kyiv have been hospitalised, officials say.
+US President Donald Trump has threatened ‘economic D-Day’ on any countries that help or do business with Iran.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/20/trump-vows-economic-warfare-on-countries-helping-iran?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/20/trump-vows-economic-warfare-on-countries-helping-iran?traffic_source=rss)
+
+---
+
+### 5. Russian forces kill 6 in Ukraine as Zelenskyy faces pressure over elections
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Russian ballistic missile attacks hit at least three districts in Kyiv, collapsing buildings and causing fires.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/russian-strike-kills-3-in-ukraine-as-zelenskyy-faces-pressure-at-home?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/russian-strike-kills-3-in-ukraine-as-zelenskyy-faces-pressure-at-home?traffic_source=rss)
 
 ---
 
-### 8. Fears grow in Amazon village as Brazilian drug gangs push into Bolivia
+### 6. Fears grow in Amazon village as Brazilian drug gangs push into Bolivia
 
 **Source:** Al Jazeera
 
@@ -123,20 +88,7 @@ Fears are growing in a remote Bolivian village as Brazilian drug gangs fight for
 
 ---
 
-### 9. Alarm in South Korea as Iran dispute with Trump shakes a 72-year alliance
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Trump&#039;s order to scale back military drills rattles Seoul, reviving doubts over US security guarantees.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/alarm-in-south-korea-as-iran-dispute-with-trump-shakes-a-72-year-alliance?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/alarm-in-south-korea-as-iran-dispute-with-trump-shakes-a-72-year-alliance?traffic_source=rss)
-
----
-
-### 10. Tropical Storm Saudel
+### 7. Tropical Storm Saudel
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Severe Storms
 
 ---
 
-### 11. Wildfire Picture Rock, Lake, Oregon
+### 8. Wildfire Picture Rock, Lake, Oregon
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Wildfire CATO 2, Chaves, New Mexico
+### 9. Wildfire CATO 2, Chaves, New Mexico
 
 **Source:** NASA
 

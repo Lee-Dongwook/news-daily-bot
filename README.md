@@ -1,32 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-20 16:54:33
+**Last Update:** 2026-08-20 17:20:05
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, Al Jazeera, BBC
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Netherlands lists Israel as a threat to its national security for the first time
+### 1. Malicious Rust Crate Arrayref Runs a Build-Time Payload
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.trtworld.com/article/911b7ff6c075">https://www.trtworld.com/article/911b7ff6c075</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49374031">https://news.ycombinator.com/item?id=49374031</a></p>
-<p>Points: 9</p>
+<p>Article URL: <a href="https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/">https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49374269">https://news.ycombinator.com/item?id=49374269</a></p>
+<p>Points: 16</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.trtworld.com/article/911b7ff6c075](https://www.trtworld.com/article/911b7ff6c075)
+🔗 **Read more:** [https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/](https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/)
 
 ---
 
-### 2. Browser De-Slop
+### 2. Canonical Backs New Project to Translate Large C Codebases into Safe Rust
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://linuxiac.com/canonical-backs-new-project-to-translate-large-c-codebases-into-safe-rust/">https://linuxiac.com/canonical-backs-new-project-to-translate-large-c-codebases-into-safe-rust/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49374162">https://news.ycombinator.com/item?id=49374162</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://linuxiac.com/canonical-backs-new-project-to-translate-large-c-codebases-into-safe-rust/](https://linuxiac.com/canonical-backs-new-project-to-translate-large-c-codebases-into-safe-rust/)
+
+---
+
+### 3. Browser De-Slop
 
 **Source:** Hacker News
 
@@ -35,27 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.sacredheartsc.com/blog/browser-de-slop/">https://www.sacredheartsc.com/blog/browser-de-slop/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49373616">https://news.ycombinator.com/item?id=49373616</a></p>
-<p>Points: 14</p>
-<p># Comments: 3</p>
+<p>Points: 23</p>
+<p># Comments: 13</p>
 
 🔗 **Read more:** [https://www.sacredheartsc.com/blog/browser-de-slop/](https://www.sacredheartsc.com/blog/browser-de-slop/)
-
----
-
-### 3. Show HN: I trained a 125M model to autocomplete piano on-device
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>I trained a 125M-parameter transformer to autocomplete piano performances in real time (~108 notes/sec on an iPhone 15).<p>The idea is basically GitHub Copilot or Tabnine, except instead of prompting it with code, you prompt it by playing a few notes on a MIDI piano. The model then continues what you played, entirely on-device.<p>The app is free if anyone wants to try it. Happy to answer questions about the model, training, Core ML, or the many things that didn't work.</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49373456">https://news.ycombinator.com/item?id=49373456</a></p>
-<p>Points: 50</p>
-<p># Comments: 9</p>
-
-🔗 **Read more:** [https://simedw.com/2026/08/20/midi-autocomplete/](https://simedw.com/2026/08/20/midi-autocomplete/)
 
 ---
 
@@ -98,42 +97,42 @@ Jo Boydell had been criticised for the company's handling of issues with its saf
 
 ---
 
-### 7. FIFA’s Infantino under threat of no-confidence vote by regional bodies
+### 7. Why a Trump envoy’s Kashmir visit has led to US-Pakistan spat
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-UEFA, AFC and CONCACAF understood to be considering no-confidence vote against FIFA&#039;s President Gianni Infantino.
+Pakistan says the comments contradict Washington’s position, but experts see them as a diplomatic misstep.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/20/fifas-infantino-under-threat-of-no-confidence-vote-by-regional-bodies?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/20/fifas-infantino-under-threat-of-no-confidence-vote-by-regional-bodies?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/why-a-trump-envoys-kashmir-visit-has-led-to-us-pakistan-spat?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/why-a-trump-envoys-kashmir-visit-has-led-to-us-pakistan-spat?traffic_source=rss)
 
 ---
 
-### 8. Alarms blare in South Korea during annual air raid defence drill
+### 8. US debt hits $40 trillion: Who does Washington owe and why does it matter?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-South Korea has held a nationwide drill simulating an air raid to coincide with joint military exercises with the US.
+Heavy borrowing, increased spending and tax cuts by Democratic and Republican administrations have long raised concern.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/20/alarms-blare-in-south-korea-during-annual-air-raid-defence-drill?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/20/alarms-blare-in-south-korea-during-annual-air-raid-defence-drill?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/20/us-debt-hits-40-trillion-who-does-washington-owe-and-why-does-it-matter?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/20/us-debt-hits-40-trillion-who-does-washington-owe-and-why-does-it-matter?traffic_source=rss)
 
 ---
 
-### 9. Bangladesh’s government under pressure as youth demand jobs
+### 9. War on Iran: Trump announces a new campaign to isolate Iran economically
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Six months into Prime Minister Tariq Rahman’s term, Bangladesh faces an energy crisis and rising prices.
+US President Donald Trump has announced a new campaign to isolate Iran and punish its trading partners.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/20/20-08-reported-tanvir-chowdhury-bangladesh-bn?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/20/20-08-reported-tanvir-chowdhury-bangladesh-bn?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/20/war-on-iran-trump-announces-a-new-campaign-to-isolate-iran-economically?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/20/war-on-iran-trump-announces-a-new-campaign-to-isolate-iran-economically?traffic_source=rss)
 
 ---
 

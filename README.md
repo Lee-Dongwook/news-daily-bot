@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-20 16:24:34
+**Last Update:** 2026-08-20 16:54:33
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Browser De-Slop
+### 1. Netherlands lists Israel as a threat to its national security for the first time
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.trtworld.com/article/911b7ff6c075">https://www.trtworld.com/article/911b7ff6c075</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49374031">https://news.ycombinator.com/item?id=49374031</a></p>
+<p>Points: 9</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.trtworld.com/article/911b7ff6c075](https://www.trtworld.com/article/911b7ff6c075)
+
+---
+
+### 2. Browser De-Slop
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.sacredheartsc.com/blog/browser-de-slop/">https://www.sacredheartsc.com/blog/browser-de-slop/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49373616">https://news.ycombinator.com/item?id=49373616</a></p>
-<p>Points: 7</p>
-<p># Comments: 1</p>
+<p>Points: 14</p>
+<p># Comments: 3</p>
 
 🔗 **Read more:** [https://www.sacredheartsc.com/blog/browser-de-slop/](https://www.sacredheartsc.com/blog/browser-de-slop/)
 
 ---
 
-### 2. Show HN: I trained a 125M model to autocomplete piano on-device
+### 3. Show HN: I trained a 125M model to autocomplete piano on-device
 
 **Source:** Hacker News
 
@@ -36,26 +52,10 @@
 <p>I trained a 125M-parameter transformer to autocomplete piano performances in real time (~108 notes/sec on an iPhone 15).<p>The idea is basically GitHub Copilot or Tabnine, except instead of prompting it with code, you prompt it by playing a few notes on a MIDI piano. The model then continues what you played, entirely on-device.<p>The app is free if anyone wants to try it. Happy to answer questions about the model, training, Core ML, or the many things that didn't work.</p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49373456">https://news.ycombinator.com/item?id=49373456</a></p>
-<p>Points: 20</p>
-<p># Comments: 6</p>
+<p>Points: 50</p>
+<p># Comments: 9</p>
 
 🔗 **Read more:** [https://simedw.com/2026/08/20/midi-autocomplete/](https://simedw.com/2026/08/20/midi-autocomplete/)
-
----
-
-### 3. Proof of Human (YC S23) Is Hiring a Member of Technical Staff
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.ycombinator.com/companies/proof-of-human/jobs/ZTZHEbb-member-of-technical-staff">https://www.ycombinator.com/companies/proof-of-human/jobs/ZTZHEbb-member-of-technical-staff</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49373423">https://news.ycombinator.com/item?id=49373423</a></p>
-<p>Points: 0</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://www.ycombinator.com/companies/proof-of-human/jobs/ZTZHEbb-member-of-technical-staff](https://www.ycombinator.com/companies/proof-of-human/jobs/ZTZHEbb-member-of-technical-staff)
 
 ---
 
@@ -72,16 +72,16 @@ The prime minister also wishes the Duke and Duchess well after it emerged they a
 
 ---
 
-### 5. Harry and Meghan are experts in surprise - but why are they returning to UK now?
+### 5. Why are Harry and Meghan returning to the UK?
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The sudden decision to return leaves lots of questions for the Duke and Duchess of Sussex and Royal Family.
+BBC culture correspondent Noor Nanji looks at why the move raises questions over security detail, royal duties Harry's relationship with King Charles and Prince William.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqjxn9j410vo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqjxn9j410vo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cp8eg084n3eo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cp8eg084n3eo?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -98,7 +98,33 @@ Jo Boydell had been criticised for the company's handling of issues with its saf
 
 ---
 
-### 7. Bangladesh’s government under pressure as youth demand jobs
+### 7. FIFA’s Infantino under threat of no-confidence vote by regional bodies
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+UEFA, AFC and CONCACAF understood to be considering no-confidence vote against FIFA&#039;s President Gianni Infantino.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/20/fifas-infantino-under-threat-of-no-confidence-vote-by-regional-bodies?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/20/fifas-infantino-under-threat-of-no-confidence-vote-by-regional-bodies?traffic_source=rss)
+
+---
+
+### 8. Alarms blare in South Korea during annual air raid defence drill
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+South Korea has held a nationwide drill simulating an air raid to coincide with joint military exercises with the US.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/20/alarms-blare-in-south-korea-during-annual-air-raid-defence-drill?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/20/alarms-blare-in-south-korea-during-annual-air-raid-defence-drill?traffic_source=rss)
+
+---
+
+### 9. Bangladesh’s government under pressure as youth demand jobs
 
 **Source:** Al Jazeera
 
@@ -108,32 +134,6 @@ Jo Boydell had been criticised for the company's handling of issues with its saf
 Six months into Prime Minister Tariq Rahman’s term, Bangladesh faces an energy crisis and rising prices.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/20/20-08-reported-tanvir-chowdhury-bangladesh-bn?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/20/20-08-reported-tanvir-chowdhury-bangladesh-bn?traffic_source=rss)
-
----
-
-### 8. Who was Hind Rajab and why is Israel investigating her killing?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-After two years of denial, Israel admits firing on the 5-year-old&#039;s car. But her family and others don&#039;t expect justice.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/who-was-hind-rajab-and-why-is-israel-investigating-her-killing?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/who-was-hind-rajab-and-why-is-israel-investigating-her-killing?traffic_source=rss)
-
----
-
-### 9. Israel is betting on Islamophobia to save its standing in the West
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Netanyahu’s government is using anti-Muslim fear to rally a Western right increasingly receptive to its message.
-
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/20/israel-is-betting-on-islamophobia-to-save-its-standing-in-the-west?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/20/israel-is-betting-on-islamophobia-to-save-its-standing-in-the-west?traffic_source=rss)
 
 ---
 

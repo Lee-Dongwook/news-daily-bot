@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-20 17:20:05
+**Last Update:** 2026-08-20 17:36:07
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Malicious Rust Crate Arrayref Runs a Build-Time Payload
+### 1. DiffusionGemma Technical Report
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://arxiv.org/abs/2608.00146">https://arxiv.org/abs/2608.00146</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49374287">https://news.ycombinator.com/item?id=49374287</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://arxiv.org/abs/2608.00146](https://arxiv.org/abs/2608.00146)
+
+---
+
+### 2. Malicious Rust Crate Arrayref Runs a Build-Time Payload
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/">https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49374269">https://news.ycombinator.com/item?id=49374269</a></p>
-<p>Points: 16</p>
-<p># Comments: 0</p>
+<p>Points: 37</p>
+<p># Comments: 5</p>
 
 🔗 **Read more:** [https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/](https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/)
 
 ---
 
-### 2. Canonical Backs New Project to Translate Large C Codebases into Safe Rust
+### 3. Canonical Backs New Project to Translate Large C Codebases into Safe Rust
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://linuxiac.com/canonical-backs-new-project-to-translate-large-c-codebases-into-safe-rust/">https://linuxiac.com/canonical-backs-new-project-to-translate-large-c-codebases-into-safe-rust/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49374162">https://news.ycombinator.com/item?id=49374162</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
+<p>Points: 10</p>
+<p># Comments: 2</p>
 
 🔗 **Read more:** [https://linuxiac.com/canonical-backs-new-project-to-translate-large-c-codebases-into-safe-rust/](https://linuxiac.com/canonical-backs-new-project-to-translate-large-c-codebases-into-safe-rust/)
-
----
-
-### 3. Browser De-Slop
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.sacredheartsc.com/blog/browser-de-slop/">https://www.sacredheartsc.com/blog/browser-de-slop/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49373616">https://news.ycombinator.com/item?id=49373616</a></p>
-<p>Points: 23</p>
-<p># Comments: 13</p>
-
-🔗 **Read more:** [https://www.sacredheartsc.com/blog/browser-de-slop/](https://www.sacredheartsc.com/blog/browser-de-slop/)
 
 ---
 
@@ -97,7 +97,33 @@ Jo Boydell had been criticised for the company's handling of issues with its saf
 
 ---
 
-### 7. Why a Trump envoy’s Kashmir visit has led to US-Pakistan spat
+### 7. Funeral for 50 Palestinians recovered from Gaza rubble
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+A funeral has been held in Gaza for 50 Palestinians whose bodies were recently recovered from the rubble.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/20/funeral-for-50-palestinians-recovered-from-gaza-rubble?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/20/funeral-for-50-palestinians-recovered-from-gaza-rubble?traffic_source=rss)
+
+---
+
+### 8. Ex-defence chief’s call for wartime election raises pressure on Zelenskyy
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Fedorov, a popular figure, is challenging Zelenskyy but holding a vote under Russia&#039;s bombs is near impossible.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/ukraines-ex-defence-chief-calls-for-presidential-vote?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/ukraines-ex-defence-chief-calls-for-presidential-vote?traffic_source=rss)
+
+---
+
+### 9. Why a Trump envoy’s Kashmir visit has led to US-Pakistan spat
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Jo Boydell had been criticised for the company's handling of issues with its saf
 Pakistan says the comments contradict Washington’s position, but experts see them as a diplomatic misstep.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/why-a-trump-envoys-kashmir-visit-has-led-to-us-pakistan-spat?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/why-a-trump-envoys-kashmir-visit-has-led-to-us-pakistan-spat?traffic_source=rss)
-
----
-
-### 8. US debt hits $40 trillion: Who does Washington owe and why does it matter?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Heavy borrowing, increased spending and tax cuts by Democratic and Republican administrations have long raised concern.
-
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/20/us-debt-hits-40-trillion-who-does-washington-owe-and-why-does-it-matter?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/20/us-debt-hits-40-trillion-who-does-washington-owe-and-why-does-it-matter?traffic_source=rss)
-
----
-
-### 9. War on Iran: Trump announces a new campaign to isolate Iran economically
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-US President Donald Trump has announced a new campaign to isolate Iran and punish its trading partners.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/20/war-on-iran-trump-announces-a-new-campaign-to-isolate-iran-economically?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/20/war-on-iran-trump-announces-a-new-campaign-to-isolate-iran-economically?traffic_source=rss)
 
 ---
 

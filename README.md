@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-20 22:12:55
+**Last Update:** 2026-08-20 22:38:09
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Bitflash: A Tor-native revival of Bitcoin 0.1.0, mined on CPUs with RandomX
+### 1. Scientific study reveals TikTok videos deactivate key cognitive brain regions
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://bitflash.network/">https://bitflash.network/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49378036">https://news.ycombinator.com/item?id=49378036</a></p>
+<p>Article URL: <a href="https://www.rathbiotaclan.com/tiktok-videos-deactivate-key-cognitive-brain-regions/">https://www.rathbiotaclan.com/tiktok-videos-deactivate-key-cognitive-brain-regions/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49378630">https://news.ycombinator.com/item?id=49378630</a></p>
+<p>Points: 8</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.rathbiotaclan.com/tiktok-videos-deactivate-key-cognitive-brain-regions/](https://www.rathbiotaclan.com/tiktok-videos-deactivate-key-cognitive-brain-regions/)
+
+---
+
+### 2. TrueForge – The open-source agent harness
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/truefoundry/trueforge">https://github.com/truefoundry/trueforge</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49378419">https://news.ycombinator.com/item?id=49378419</a></p>
 <p>Points: 4</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://bitflash.network/](https://bitflash.network/)
+🔗 **Read more:** [https://github.com/truefoundry/trueforge](https://github.com/truefoundry/trueforge)
 
 ---
 
-### 2. Optimizing things in the USSR (2016)
+### 3. What Is Reasoning
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://chris-said.io/2016/05/11/optimizing-things-in-the-ussr/">https://chris-said.io/2016/05/11/optimizing-things-in-the-ussr/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49377923">https://news.ycombinator.com/item?id=49377923</a></p>
-<p>Points: 7</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://lucumr.pocoo.org/2026/8/19/what-is-reasoning/">https://lucumr.pocoo.org/2026/8/19/what-is-reasoning/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49378334">https://news.ycombinator.com/item?id=49378334</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://chris-said.io/2016/05/11/optimizing-things-in-the-ussr/](https://chris-said.io/2016/05/11/optimizing-things-in-the-ussr/)
-
----
-
-### 3. I should have loved biology
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://jsomers.net/i-should-have-loved-biology/">https://jsomers.net/i-should-have-loved-biology/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49377853">https://news.ycombinator.com/item?id=49377853</a></p>
-<p>Points: 16</p>
-<p># Comments: 5</p>
-
-🔗 **Read more:** [https://jsomers.net/i-should-have-loved-biology/](https://jsomers.net/i-should-have-loved-biology/)
+🔗 **Read more:** [https://lucumr.pocoo.org/2026/8/19/what-is-reasoning/](https://lucumr.pocoo.org/2026/8/19/what-is-reasoning/)
 
 ---
 
@@ -97,42 +97,42 @@ Resits are up, the gap between boys and girls has shrunk and England's regional 
 
 ---
 
-### 7. First group of US deportees, out of an expected 1,200, arrive in Liberia
+### 7. Thai schools hold shooter drills after deadly attack
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Liberia is part of a growing list of partners under US President Donald Trump to accept third-country deportations.
+Schools across Thailand are carrying out active shooter drills to save lives and spread awareness.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/first-group-of-us-deportees-out-of-an-expected-1200-arrive-in-liberia?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/first-group-of-us-deportees-out-of-an-expected-1200-arrive-in-liberia?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/20/thai-schools-hold-shooter-drills-after-deadly-attack?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/20/thai-schools-hold-shooter-drills-after-deadly-attack?traffic_source=rss)
 
 ---
 
-### 8. The road to el-Obeid, Sudan’s besieged city sheltering thousands
+### 8. Ahmad Hassoun, Assad’s ‘barrel bomb mufti’, faces Damascus court verdict
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Al Jazeera’s AlMigdad Alruhaid travelled along one of the main supply roads to Sudan’s besieged city of el-Obeid.
+Who is Ahmad Hassoun, the &#039;barrel bomb mufti&#039; close to the inner circle of the al-Assad regime?
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/20/the-road-to-el-obeid-sudans-besieged-city-sheltering-thousands?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/20/the-road-to-el-obeid-sudans-besieged-city-sheltering-thousands?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/ahmad-badreddine-hassoun-assads-barrel-bomb-mufti-faces-court-verdict?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/ahmad-badreddine-hassoun-assads-barrel-bomb-mufti-faces-court-verdict?traffic_source=rss)
 
 ---
 
-### 9. Russian paramilitaries in Mali kill nine, including children: HRW
+### 9. FBI raids ex-US Representative Swalwell’s home amid sexual misconduct probe
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Human Rights Watch alleges that the killings by Africa Corps troops took place in the presence of Malian soldiers.
+Swalwell, a vocal Trump critic, resigned from Congress and dropped out of California governor&#039;s race amid allegations.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/russian-paramilitaries-in-mali-kill-nine-including-children-hrw?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/russian-paramilitaries-in-mali-kill-nine-including-children-hrw?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/fbi-raids-ex-us-representative-swalwells-home-amid-sexual-misconduct-probe?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/fbi-raids-ex-us-representative-swalwells-home-amid-sexual-misconduct-probe?traffic_source=rss)
 
 ---
 

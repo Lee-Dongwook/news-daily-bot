@@ -1,16 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-21 12:13:37
+**Last Update:** 2026-08-21 12:34:48
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. El Niño warming set to be 'strongest in living memory', warns Met Office
+### 1. Emacs 31.1 will release on 8/24
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/emacs-mirror/emacs/blob/062dcd2aead00c3b47c14ff5b6c40313f7a775f5/etc/HISTORY">https://github.com/emacs-mirror/emacs/blob/062dcd2aead00c3b47c14ff5b6c40313f7a775f5/etc/HISTORY</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49385296">https://news.ycombinator.com/item?id=49385296</a></p>
+<p>Points: 10</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://github.com/emacs-mirror/emacs/blob/062dcd2aead00c3b47c14ff5b6c40313f7a775f5/etc/HISTORY](https://github.com/emacs-mirror/emacs/blob/062dcd2aead00c3b47c14ff5b6c40313f7a775f5/etc/HISTORY)
+
+---
+
+### 2. The Lost Treasure of Sid Meier's Pirates
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/">https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49384896">https://news.ycombinator.com/item?id=49384896</a></p>
+<p>Points: 50</p>
+<p># Comments: 13</p>
+
+🔗 **Read more:** [https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/](https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/)
+
+---
+
+### 3. We Rebuilt the Linux MicroVM Stack on Apple Silicon
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://encore.dev/blog/firecracker-apple-silicon">https://encore.dev/blog/firecracker-apple-silicon</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49384716">https://news.ycombinator.com/item?id=49384716</a></p>
+<p>Points: 47</p>
+<p># Comments: 10</p>
+
+🔗 **Read more:** [https://encore.dev/blog/firecracker-apple-silicon](https://encore.dev/blog/firecracker-apple-silicon)
+
+---
+
+### 4. El Niño warming set to be 'strongest in living memory', warns Met Office
 
 **Source:** BBC
 
@@ -23,7 +71,7 @@ Scientists say the growing El Niño weather pattern is an "unprecedented event" 
 
 ---
 
-### 2. Meghan could return to acting once back in UK
+### 5. Meghan could return to acting once back in UK
 
 **Source:** BBC
 
@@ -36,7 +84,7 @@ Sources close to the Sussexes have not denied reports that Meghan has been offer
 
 ---
 
-### 3. Will Harry's return heal deep-rooted rift with William?
+### 6. Will Harry's return heal deep-rooted rift with William?
 
 **Source:** BBC
 
@@ -49,7 +97,33 @@ The Prince of Wales remains in no mood to forgive and forget. The hurt he feels 
 
 ---
 
-### 4. Bangladesh expect ‘harder’ Australia challenge in second Test, says coach
+### 7. Australia charges man for passing Ukrainian military intel to Russia
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Police allege Australian-Russian citizen joined Ukrainian military seeking to send information to Russian intelligence.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/21/australia-charges-man-for-passing-ukrainian-military-intel-to-russia?traffic_source=rss](https://www.aljazeera.com/news/2026/8/21/australia-charges-man-for-passing-ukrainian-military-intel-to-russia?traffic_source=rss)
+
+---
+
+### 8. Sudan’s displacement crisis deepens as violence escalates
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Sudan’s displacement crisis deepens as violence escalates
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/21/sudans-displacement-crisis-deepens-as-violence-escalates?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/21/sudans-displacement-crisis-deepens-as-violence-escalates?traffic_source=rss)
+
+---
+
+### 9. Bangladesh expect ‘harder’ Australia challenge in second Test, says coach
 
 **Source:** Al Jazeera
 
@@ -62,33 +136,7 @@ After a first Test win in Australia in the series opener, Bangladesh expect a ba
 
 ---
 
-### 5. Israeli settlers set fire to Palestinian home while family asleep
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Israeli settlers set fire to a Palestinian home while a mother and her children were sleeping inside.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/21/israeli-settlers-set-fire-to-palestinian-home-while-family-asleep?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/21/israeli-settlers-set-fire-to-palestinian-home-while-family-asleep?traffic_source=rss)
-
----
-
-### 6. Europe, Canada condemn Israeli plans for new West Bank settlement
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The &#039;unacceptable&#039; E1 plan carries &#039;legal and reputational consequences&#039; for those participating, European nations warn.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/21/europe-canada-condemn-israeli-plans-for-new-west-bank-settlement?traffic_source=rss](https://www.aljazeera.com/news/2026/8/21/europe-canada-condemn-israeli-plans-for-new-west-bank-settlement?traffic_source=rss)
-
----
-
-### 7. Prescribed Fire RX Tom Green 7105, Tom Green, Texas
+### 10. Prescribed Fire RX Tom Green 7105, Tom Green, Texas
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Wildfires
 
 ---
 
-### 8. Wildfire Windmill, Stillwater, Montana
+### 11. Wildfire Windmill, Stillwater, Montana
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Wildfires
 
 ---
 
-### 9. Wildfire North Heglar, Cassia, Idaho
+### 12. Wildfire North Heglar, Cassia, Idaho
 
 **Source:** NASA
 

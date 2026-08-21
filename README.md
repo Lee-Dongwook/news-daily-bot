@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-22 02:56:30
+**Last Update:** 2026-08-22 03:14:27
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
@@ -30,30 +30,14 @@
 Bubs.co</p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49394827">https://news.ycombinator.com/item?id=49394827</a></p>
-<p>Points: 4</p>
+<p>Points: 6</p>
 <p># Comments: 1</p>
 
 🔗 **Read more:** [https://ozbrain.com](https://ozbrain.com)
 
 ---
 
-### 2. I own 28,000 books – here's what I've learned
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.shelvd.org/blog/28000-books">https://www.shelvd.org/blog/28000-books</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49394759">https://news.ycombinator.com/item?id=49394759</a></p>
-<p>Points: 20</p>
-<p># Comments: 3</p>
-
-🔗 **Read more:** [https://www.shelvd.org/blog/28000-books](https://www.shelvd.org/blog/28000-books)
-
----
-
-### 3. Three important steps in my maturation process
+### 2. Three important steps in my maturation process
 
 **Source:** Hacker News
 
@@ -62,10 +46,26 @@ Bubs.co</p>
 **Description:**
 <p>Article URL: <a href="https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/">https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49394496">https://news.ycombinator.com/item?id=49394496</a></p>
-<p>Points: 3</p>
+<p>Points: 4</p>
 <p># Comments: 1</p>
 
 🔗 **Read more:** [https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/](https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/)
+
+---
+
+### 3. 'Ghost Job' Ads Are Getting So Bad That Lawmakers Want to Ban Them
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.wsj.com/lifestyle/careers/ghost-job-ads-are-getting-so-bad-that-lawmakers-want-to-ban-them-2580bc3e">https://www.wsj.com/lifestyle/careers/ghost-job-ads-are-getting-so-bad-that-lawmakers-want-to-ban-them-2580bc3e</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49394373">https://news.ycombinator.com/item?id=49394373</a></p>
+<p>Points: 26</p>
+<p># Comments: 7</p>
+
+🔗 **Read more:** [https://www.wsj.com/lifestyle/careers/ghost-job-ads-are-getting-so-bad-that-lawmakers-want-to-ban-them-2580bc3e](https://www.wsj.com/lifestyle/careers/ghost-job-ads-are-getting-so-bad-that-lawmakers-want-to-ban-them-2580bc3e)
 
 ---
 
@@ -108,7 +108,33 @@ Students like Jessica say they worry about missing out on student life, but feel
 
 ---
 
-### 7. US Vice President JD Vance holds midterm election rally in Ohio hometown
+### 7. US debt tops $40 trillion, Americans left with the bill
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The US national debt has officially surpassed $40 trillion for the first time in history, and it’s growing fast.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/21/us-debt-tops-40-trillion-americans-left-with-the-bill-3?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/21/us-debt-tops-40-trillion-americans-left-with-the-bill-3?traffic_source=rss)
+
+---
+
+### 8. Pakistan’s Imran Khan back to prison after evaluation at hospital
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Pakistan’s former Prime Minister Imran Khan was sent back to prison after being transferred for a medical evaluation.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/21/pakistans-imran-khan-back-to-prison-after-evaluation-at-hospital?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/21/pakistans-imran-khan-back-to-prison-after-evaluation-at-hospital?traffic_source=rss)
+
+---
+
+### 9. US Vice President JD Vance holds midterm election rally in Ohio hometown
 
 **Source:** Al Jazeera
 
@@ -118,32 +144,6 @@ Students like Jessica say they worry about missing out on student life, but feel
 The vice president&#039;s speech hinged heavily on economic themes, as voter confidence slips for Republican policies.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/21/us-vice-president-jd-vance-holds-midterm-election-rally-in-ohio-hometown?traffic_source=rss](https://www.aljazeera.com/news/2026/8/21/us-vice-president-jd-vance-holds-midterm-election-rally-in-ohio-hometown?traffic_source=rss)
-
----
-
-### 8. TikTok settles with US Justice Department for $400m over child privacy laws
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-TikTok and the US government settled to resolve allegations that the app violated children&#039;s online privacy laws.
-
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/21/tiktok-settles-with-us-justice-department-for-400m-over-child-privacy-laws?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/21/tiktok-settles-with-us-justice-department-for-400m-over-child-privacy-laws?traffic_source=rss)
-
----
-
-### 9. Mexico Governor Ruben Rocha returns to office despite US criminal charges
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The governor, who leads the state of Sinaloa, has been accused by the Trump administration of partnering with a cartel.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/21/mexico-governor-ruben-rocha-returns-to-office-despite-us-criminal-charges?traffic_source=rss](https://www.aljazeera.com/news/2026/8/21/mexico-governor-ruben-rocha-returns-to-office-despite-us-criminal-charges?traffic_source=rss)
 
 ---
 

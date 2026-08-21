@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-21 14:59:30
+**Last Update:** 2026-08-21 15:18:34
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
@@ -19,14 +19,30 @@
 **Description:**
 <p>Article URL: <a href="https://api-docs.deepseek.com/guides/vision/">https://api-docs.deepseek.com/guides/vision/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49386163">https://news.ycombinator.com/item?id=49386163</a></p>
-<p>Points: 66</p>
-<p># Comments: 5</p>
+<p>Points: 110</p>
+<p># Comments: 19</p>
 
 🔗 **Read more:** [https://api-docs.deepseek.com/guides/vision/](https://api-docs.deepseek.com/guides/vision/)
 
 ---
 
-### 2. Small, native web tricks worth remembering
+### 2. AI companies destroy physical books – let's scan rare books before it's too late
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://annas-archive.pk/blog/physical-destruction.html">https://annas-archive.pk/blog/physical-destruction.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49385994">https://news.ycombinator.com/item?id=49385994</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://annas-archive.pk/blog/physical-destruction.html](https://annas-archive.pk/blog/physical-destruction.html)
+
+---
+
+### 3. Small, native web tricks worth remembering
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://htmlcat.net/">https://htmlcat.net/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49385860">https://news.ycombinator.com/item?id=49385860</a></p>
-<p>Points: 35</p>
-<p># Comments: 10</p>
+<p>Points: 54</p>
+<p># Comments: 14</p>
 
 🔗 **Read more:** [https://htmlcat.net/](https://htmlcat.net/)
-
----
-
-### 3. Emacs 31.1 will release on 8/24
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/emacs-mirror/emacs/blob/062dcd2aead00c3b47c14ff5b6c40313f7a775f5/etc/HISTORY">https://github.com/emacs-mirror/emacs/blob/062dcd2aead00c3b47c14ff5b6c40313f7a775f5/etc/HISTORY</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49385296">https://news.ycombinator.com/item?id=49385296</a></p>
-<p>Points: 41</p>
-<p># Comments: 10</p>
-
-🔗 **Read more:** [https://github.com/emacs-mirror/emacs/blob/062dcd2aead00c3b47c14ff5b6c40313f7a775f5/etc/HISTORY](https://github.com/emacs-mirror/emacs/blob/062dcd2aead00c3b47c14ff5b6c40313f7a775f5/etc/HISTORY)
 
 ---
 

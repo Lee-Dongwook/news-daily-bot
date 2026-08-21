@@ -1,64 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-21 11:32:29
+**Last Update:** 2026-08-21 12:13:37
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: Argentic – An L402 Lightning toll booth for AI scraping agents
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://Argentic.network">https://Argentic.network</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49384477">https://news.ycombinator.com/item?id=49384477</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://Argentic.network](https://Argentic.network)
-
----
-
-### 2. The Religious Experience of Philip K. Dick by R. Crumb (1986)
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/">https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49384224">https://news.ycombinator.com/item?id=49384224</a></p>
-<p>Points: 20</p>
-<p># Comments: 8</p>
-
-🔗 **Read more:** [https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/](https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/)
-
----
-
-### 3. Stop Making TUIs
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/">https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49384210">https://news.ycombinator.com/item?id=49384210</a></p>
-<p>Points: 26</p>
-<p># Comments: 24</p>
-
-🔗 **Read more:** [https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/](https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/)
-
----
-
-### 4. El Niño warming set to be 'strongest in living memory', warns Met Office
+### 1. El Niño warming set to be 'strongest in living memory', warns Met Office
 
 **Source:** BBC
 
@@ -71,7 +23,7 @@ Scientists say the growing El Niño weather pattern is an "unprecedented event" 
 
 ---
 
-### 5. Meghan could return to acting once back in UK
+### 2. Meghan could return to acting once back in UK
 
 **Source:** BBC
 
@@ -84,7 +36,7 @@ Sources close to the Sussexes have not denied reports that Meghan has been offer
 
 ---
 
-### 6. Will Harry's return heal deep-rooted rift with William?
+### 3. Will Harry's return heal deep-rooted rift with William?
 
 **Source:** BBC
 
@@ -97,46 +49,46 @@ The Prince of Wales remains in no mood to forgive and forget. The hurt he feels 
 
 ---
 
-### 7. Australian Hussey open to Ashes Test role as England make approach
+### 4. Bangladesh expect ‘harder’ Australia challenge in second Test, says coach
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ex-Australia batter Hussey said he was informally approached by Stephen Flemming, England&#039;s new red-ball coach.
+After a first Test win in Australia in the series opener, Bangladesh expect a backlash in second match in Mackay.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/21/mike-hussey-england-test-batting-coach-stephen-fleming-ashes-australia?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/21/mike-hussey-england-test-batting-coach-stephen-fleming-ashes-australia?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/21/australia-bangladesh-cricket-second-test-mackay-simmons-cummins-renshaw?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/21/australia-bangladesh-cricket-second-test-mackay-simmons-cummins-renshaw?traffic_source=rss)
 
 ---
 
-### 8. Dr TikTok: Mental health moves from consulting rooms to social media
+### 5. Israeli settlers set fire to Palestinian home while family asleep
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Social media fosters empathy and awareness, but cannot replace evidence-based treatment or formal psychological care.
+Israeli settlers set fire to a Palestinian home while a mother and her children were sleeping inside.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/21/dr-tiktok-mental-health-moves-from-consulting-rooms-to-social-media?traffic_source=rss](https://www.aljazeera.com/features/2026/8/21/dr-tiktok-mental-health-moves-from-consulting-rooms-to-social-media?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/21/israeli-settlers-set-fire-to-palestinian-home-while-family-asleep?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/21/israeli-settlers-set-fire-to-palestinian-home-while-family-asleep?traffic_source=rss)
 
 ---
 
-### 9. ‘Very unusual’: UK Palestine activists could be sentenced as terrorists
+### 6. Europe, Canada condemn Israeli plans for new West Bank settlement
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Court to rule on whether five activists accused of vandalising a Barclays bank will face terrorism sentencing.
+The &#039;unacceptable&#039; E1 plan carries &#039;legal and reputational consequences&#039; for those participating, European nations warn.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/21/very-unusual-uk-palestine-activists-could-be-sentenced-as-terrorists?traffic_source=rss](https://www.aljazeera.com/news/2026/8/21/very-unusual-uk-palestine-activists-could-be-sentenced-as-terrorists?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/21/europe-canada-condemn-israeli-plans-for-new-west-bank-settlement?traffic_source=rss](https://www.aljazeera.com/news/2026/8/21/europe-canada-condemn-israeli-plans-for-new-west-bank-settlement?traffic_source=rss)
 
 ---
 
-### 10. Prescribed Fire RX Tom Green 7105, Tom Green, Texas
+### 7. Prescribed Fire RX Tom Green 7105, Tom Green, Texas
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Wildfires
 
 ---
 
-### 11. Wildfire Windmill, Stillwater, Montana
+### 8. Wildfire Windmill, Stillwater, Montana
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Wildfire North Heglar, Cassia, Idaho
+### 9. Wildfire North Heglar, Cassia, Idaho
 
 **Source:** NASA
 

@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-21 10:44:53
+**Last Update:** 2026-08-21 11:15:25
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. The Religious Experience of Philip K. Dick by R. Crumb (1986)
+### 1. Show HN: Argentic – An L402 Lightning toll booth for AI scraping agents
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://Argentic.network">https://Argentic.network</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49384477">https://news.ycombinator.com/item?id=49384477</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://Argentic.network](https://Argentic.network)
+
+---
+
+### 2. The Religious Experience of Philip K. Dick by R. Crumb (1986)
 
 **Source:** Hacker News
 
@@ -19,42 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/">https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49384224">https://news.ycombinator.com/item?id=49384224</a></p>
-<p>Points: 16</p>
-<p># Comments: 4</p>
+<p>Points: 20</p>
+<p># Comments: 8</p>
 
 🔗 **Read more:** [https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/](https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/)
 
 ---
 
-### 2. Japan tried to build an operating system for the world, the US intervened
+### 3. Stop Making TUIs
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/">https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49384180">https://news.ycombinator.com/item?id=49384180</a></p>
-<p>Points: 45</p>
-<p># Comments: 12</p>
+<p>Article URL: <a href="https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/">https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49384210">https://news.ycombinator.com/item?id=49384210</a></p>
+<p>Points: 26</p>
+<p># Comments: 24</p>
 
-🔗 **Read more:** [https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/](https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/)
-
----
-
-### 3. Codex on AWS bedrock bug causing 10x charges
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/openai/codex/issues/37674">https://github.com/openai/codex/issues/37674</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49383326">https://news.ycombinator.com/item?id=49383326</a></p>
-<p>Points: 101</p>
-<p># Comments: 31</p>
-
-🔗 **Read more:** [https://github.com/openai/codex/issues/37674](https://github.com/openai/codex/issues/37674)
+🔗 **Read more:** [https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/](https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/)
 
 ---
 
@@ -71,20 +71,7 @@ Scientists say the growing El Niño weather pattern is an "unprecedented event" 
 
 ---
 
-### 5. Will Harry's return heal deep-rooted rift with William?
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The Prince of Wales remains in no mood to forgive and forget. The hurt he feels lingers.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/clyx410xxyko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/clyx410xxyko?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Meghan could return to acting once back in UK
+### 5. Meghan could return to acting once back in UK
 
 **Source:** BBC
 
@@ -97,7 +84,33 @@ Sources close to the Sussexes have not denied reports that Meghan has been offer
 
 ---
 
-### 7. ‘Very unusual’: UK Palestine activists could be sentenced as terrorists
+### 6. Will Harry's return heal deep-rooted rift with William?
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The Prince of Wales remains in no mood to forgive and forget. The hurt he feels lingers.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/clyx410xxyko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/clyx410xxyko?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 7. Dr TikTok: Mental health moves from consulting rooms to social media
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Social media fosters empathy and awareness, but cannot replace evidence-based treatment or formal psychological care.
+
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/21/dr-tiktok-mental-health-moves-from-consulting-rooms-to-social-media?traffic_source=rss](https://www.aljazeera.com/features/2026/8/21/dr-tiktok-mental-health-moves-from-consulting-rooms-to-social-media?traffic_source=rss)
+
+---
+
+### 8. ‘Very unusual’: UK Palestine activists could be sentenced as terrorists
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Court to rule on whether five activists accused of vandalising a Barclays bank w
 
 ---
 
-### 8. Dozens of migrants land on Spanish coast surprising beachgoers
+### 9. Dozens of migrants land on Spanish coast surprising beachgoers
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Court to rule on whether five activists accused of vandalising a Barclays bank w
 Footage circulating on social media shows dozens of migrants arriving by boat on Spain’s southeastern coast.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/21/dozens-of-migrants-land-on-spanish-coast-surprising-beachgoers?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/21/dozens-of-migrants-land-on-spanish-coast-surprising-beachgoers?traffic_source=rss)
-
----
-
-### 9. Hong Kong Tiananmen activists found guilty of national security charges
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Activist group says the &#039;twisted&#039; Hong Kong judicial system had long ago decided that the pair were guilty.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/21/hong-kong-tiananmen-activists-found-guilty-of-national-security-charges?traffic_source=rss](https://www.aljazeera.com/news/2026/8/21/hong-kong-tiananmen-activists-found-guilty-of-national-security-charges?traffic_source=rss)
 
 ---
 

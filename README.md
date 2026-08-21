@@ -1,16 +1,49 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-21 19:06:25
+**Last Update:** 2026-08-21 19:24:50
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. c100
+### 1. The B-right/V R2 Operating System
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="http://tronweb.super-nova.co.jp/b-right-vr2intro.html">http://tronweb.super-nova.co.jp/b-right-vr2intro.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49389491">https://news.ycombinator.com/item?id=49389491</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [http://tronweb.super-nova.co.jp/b-right-vr2intro.html](http://tronweb.super-nova.co.jp/b-right-vr2intro.html)
+
+---
+
+### 2. Show HN: A desktop fly drawn to the scent of vibecode
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>It is a fork of <a href="https://github.com/DenisSergeevitch/desktop-fly" rel="nofollow">https://github.com/DenisSergeevitch/desktop-fly</a>, but with an important update.<p>Now the fly can pick up the scent of the codebase with its neurons and fly straight to the source code of your B2B AI SaaS startup. It has learned to scan its surroundings for agent markers: AGENTS.md, CLAUDE.md, .cursor/rules, .kiro/steering, and forty others. Anything on the screen that points to these markers becomes a source of the scent - an editor window with an open project, a line in Finder, or a desktop icon. An open project reeks the strongest, while a closed icon or nested folders give off a fainter odor.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49389466">https://news.ycombinator.com/item?id=49389466</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://github.com/kulikov0/desktop-vibe-fly](https://github.com/kulikov0/desktop-vibe-fly)
+
+---
+
+### 3. c100
 
 **Source:** Hacker News
 
@@ -19,42 +52,10 @@
 **Description:**
 <p>Article URL: <a href="https://caligra.com/c100/">https://caligra.com/c100/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49389392">https://news.ycombinator.com/item?id=49389392</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
+<p>Points: 20</p>
+<p># Comments: 11</p>
 
 🔗 **Read more:** [https://caligra.com/c100/](https://caligra.com/c100/)
-
----
-
-### 2. Claudette: Make Claude Stop Talking Like a BuzzFeed Article
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/adnanakil/nobuzz/blob/main/README.md">https://github.com/adnanakil/nobuzz/blob/main/README.md</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49388752">https://news.ycombinator.com/item?id=49388752</a></p>
-<p>Points: 33</p>
-<p># Comments: 19</p>
-
-🔗 **Read more:** [https://github.com/adnanakil/nobuzz/blob/main/README.md](https://github.com/adnanakil/nobuzz/blob/main/README.md)
-
----
-
-### 3. What We Lost When Search Stopped Making Us Think
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://blog.8ball.space/what-we-lost-when-search/">https://blog.8ball.space/what-we-lost-when-search/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49388446">https://news.ycombinator.com/item?id=49388446</a></p>
-<p>Points: 30</p>
-<p># Comments: 13</p>
-
-🔗 **Read more:** [https://blog.8ball.space/what-we-lost-when-search/](https://blog.8ball.space/what-we-lost-when-search/)
 
 ---
 
@@ -71,16 +72,16 @@ The seven claimants, who include Sir Elton John and Liz Hurley, have to pay the 
 
 ---
 
-### 5. El Niño warming set to be 'strongest in living memory', warns Met Office
+### 5. Watch: How 'strongest' El Niño could affect world weather
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Scientists say the "unprecedented event" will likely push up global temperatures in 2027 and put the UK at risk of a wetter, stormier autumn.
+The powerful natural climate phenomenon, that is developing over the Pacific Ocean, is likely to be the strongest in living memory, the Met Office has warned.
 
-🔗 **Read more:** [https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/crl7ge7j3zwo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/crl7ge7j3zwo?at_medium=RSS&at_campaign=rss)
 
 ---
 

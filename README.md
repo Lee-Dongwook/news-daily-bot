@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-21 03:16:28
+**Last Update:** 2026-08-21 04:57:05
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Detecting scraper bots through scroll behaviour
+### 1. There's no such thing as a small software team anymore
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://niki.cat/detecting-scraper-bots-through-scroll-behaviour">https://niki.cat/detecting-scraper-bots-through-scroll-behaviour</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49381311">https://news.ycombinator.com/item?id=49381311</a></p>
-<p>Points: 7</p>
-<p># Comments: 3</p>
-
-🔗 **Read more:** [https://niki.cat/detecting-scraper-bots-through-scroll-behaviour](https://niki.cat/detecting-scraper-bots-through-scroll-behaviour)
-
----
-
-### 2. Scientists Release Biggest 2D Map of the Universe
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/">https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49380671">https://news.ycombinator.com/item?id=49380671</a></p>
+<p>Article URL: <a href="https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/">https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49382152">https://news.ycombinator.com/item?id=49382152</a></p>
 <p>Points: 8</p>
-<p># Comments: 2</p>
+<p># Comments: 7</p>
 
-🔗 **Read more:** [https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/](https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/)
+🔗 **Read more:** [https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/](https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/)
 
 ---
 
-### 3. Code as an Artifact
+### 2. Copyright does not protect AI-generated content in EU
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://pradeeproark.com/posts/code-as-an-artifact-means-to-an-end/">https://pradeeproark.com/posts/code-as-an-artifact-means-to-an-end/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49380482">https://news.ycombinator.com/item?id=49380482</a></p>
-<p>Points: 18</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://mathstodon.xyz/@maxpool/117128107757895678">https://mathstodon.xyz/@maxpool/117128107757895678</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49382041">https://news.ycombinator.com/item?id=49382041</a></p>
+<p>Points: 46</p>
+<p># Comments: 46</p>
 
-🔗 **Read more:** [https://pradeeproark.com/posts/code-as-an-artifact-means-to-an-end/](https://pradeeproark.com/posts/code-as-an-artifact-means-to-an-end/)
+🔗 **Read more:** [https://mathstodon.xyz/@maxpool/117128107757895678](https://mathstodon.xyz/@maxpool/117128107757895678)
+
+---
+
+### 3. Stealth Model
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://openrouter.ai/stealth/ox-alpha">https://openrouter.ai/stealth/ox-alpha</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49381896">https://news.ycombinator.com/item?id=49381896</a></p>
+<p>Points: 16</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://openrouter.ai/stealth/ox-alpha](https://openrouter.ai/stealth/ox-alpha)
 
 ---
 
@@ -84,55 +84,55 @@ The brothers have had a fractured relationship for a number of years.
 
 ---
 
-### 6. Five key takeaways from GCSE results day 2026
+### 6. El Niño weather event set to be 'strongest in living memory', warns Met Office
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Resits are up, the gap between boys and girls has shrunk and England's regional divide has widened.
+Scientists say the growing El Niño weather pattern is an "unprecedented event" and means 2027 is likely to be the world's hottest year on record.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2583xew8zo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2583xew8zo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Houthis and government trade attacks as Yemen slides back to full-scale war
+### 7. Taliban release two detained UN staff members in Afghanistan
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Gov&#039;t forces carried out 81 attacks in the last 24 hours as Houthis claim to have hit two targets in Saudi Arabia.
+The two men, detained in the western city of Herat on August 9, were released on Thursday morning.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/houthis-and-government-trade-attacks-as-yemen-slides-back-to-full-scale-war?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/houthis-and-government-trade-attacks-as-yemen-slides-back-to-full-scale-war?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/21/taliban-release-two-detained-un-staff-members-in-afghanistan?traffic_source=rss](https://www.aljazeera.com/news/2026/8/21/taliban-release-two-detained-un-staff-members-in-afghanistan?traffic_source=rss)
 
 ---
 
-### 8. US charges woman for allegedly plotting attack on New York State Capitol
+### 8. US deports nearly 2,300 Mexicans to Guatemala over Mexico’s objections
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The suspect, Jessica Bowie, 35, was arrested on charges of providing material support for &#039;terrorism&#039;.
+The Trump administration has ramped up deportations to third countries in an apparent bid to deter immigration.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/us-charges-woman-for-allegedly-plotting-attack-on-new-york-state-capitol?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/us-charges-woman-for-allegedly-plotting-attack-on-new-york-state-capitol?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/21/us-deports-nearly-2300-mexicans-to-guatemala-over-mexicos-objections?traffic_source=rss](https://www.aljazeera.com/news/2026/8/21/us-deports-nearly-2300-mexicans-to-guatemala-over-mexicos-objections?traffic_source=rss)
 
 ---
 
-### 9. The cost of rebuilding family homes in war-ravaged Syria
+### 9. Iran war live: US vows toughest Iran sanctions, urges China support
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-What does rebuilding look like for families after war? Al Jazeera’s Hannah Raslan reports from Syria.
+US Treasury Secretary Bessent says new economic measures will &#039;collapse&#039; Iranian government.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/20/the-cost-of-rebuilding-family-homes-in-war-ravaged-syria?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/20/the-cost-of-rebuilding-family-homes-in-war-ravaged-syria?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/8/21/iran-war-live-us-vows-toughest-iran-sanctions-urges-china-support?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/8/21/iran-war-live-us-vows-toughest-iran-sanctions-urges-china-support?traffic_source=rss)
 
 ---
 

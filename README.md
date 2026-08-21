@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-21 18:08:01
+**Last Update:** 2026-08-21 18:30:00
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Kagi added a setting for removing paywalled links from search results
+### 1. Claudette: Make Claude Stop Talking Like a BuzzFeed Article
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://kagi.com/changelog#11296">https://kagi.com/changelog#11296</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49388154">https://news.ycombinator.com/item?id=49388154</a></p>
-<p>Points: 80</p>
-<p># Comments: 20</p>
-
-🔗 **Read more:** [https://kagi.com/changelog#11296](https://kagi.com/changelog#11296)
-
----
-
-### 2. Kodak's "Pre-Invented" Lunar Orbiter Camera; Or, the Fate of SAMOS Readout
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://invertingvision.com/2026/08/10/kodaks-pre-invented-lunar-orbiter-camera-or-the-fate-of-samos-readout/">https://invertingvision.com/2026/08/10/kodaks-pre-invented-lunar-orbiter-camera-or-the-fate-of-samos-readout/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49388095">https://news.ycombinator.com/item?id=49388095</a></p>
-<p>Points: 7</p>
+<p>Article URL: <a href="https://github.com/adnanakil/nobuzz/blob/main/README.md">https://github.com/adnanakil/nobuzz/blob/main/README.md</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49388752">https://news.ycombinator.com/item?id=49388752</a></p>
+<p>Points: 3</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://invertingvision.com/2026/08/10/kodaks-pre-invented-lunar-orbiter-camera-or-the-fate-of-samos-readout/](https://invertingvision.com/2026/08/10/kodaks-pre-invented-lunar-orbiter-camera-or-the-fate-of-samos-readout/)
+🔗 **Read more:** [https://github.com/adnanakil/nobuzz/blob/main/README.md](https://github.com/adnanakil/nobuzz/blob/main/README.md)
 
 ---
 
-### 3. Rama 0.4: System proxy and PAC support
+### 2. What We Lost When Search Stopped Making Us Think
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://plabayo.tech/blog/rama-0-4">https://plabayo.tech/blog/rama-0-4</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49388064">https://news.ycombinator.com/item?id=49388064</a></p>
-<p>Points: 5</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://blog.8ball.space/what-we-lost-when-search/">https://blog.8ball.space/what-we-lost-when-search/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49388446">https://news.ycombinator.com/item?id=49388446</a></p>
+<p>Points: 13</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://plabayo.tech/blog/rama-0-4](https://plabayo.tech/blog/rama-0-4)
+🔗 **Read more:** [https://blog.8ball.space/what-we-lost-when-search/](https://blog.8ball.space/what-we-lost-when-search/)
+
+---
+
+### 3. Olympian Jenny Simpson Says Her Running Career Is Over After Cardiac Arrest
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.runnersworld.com/news/a73487839/jenny-simpson-running-cardiac-event-update/">https://www.runnersworld.com/news/a73487839/jenny-simpson-running-cardiac-event-update/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49388288">https://news.ycombinator.com/item?id=49388288</a></p>
+<p>Points: 12</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://www.runnersworld.com/news/a73487839/jenny-simpson-running-cardiac-event-update/](https://www.runnersworld.com/news/a73487839/jenny-simpson-running-cardiac-event-update/)
 
 ---
 
@@ -97,7 +97,33 @@ The advice also applies to the over-65s and others with underlying medical condi
 
 ---
 
-### 7. Djibouti Football Federation accused of misusing funds from FIFA
+### 7. Fury says fight with Joshua looks unlikely with venue yet to be agreed
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The all-British, much anticipated boxing showdown between Fury and Joshua was scheduled for November.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/21/tyson-fury-anthony-joshua-fight-boxing-venue-date-unlikely-hearn?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/21/tyson-fury-anthony-joshua-fight-boxing-venue-date-unlikely-hearn?traffic_source=rss)
+
+---
+
+### 8. Manchester City’s Maresca admits he needs time as Bournemouth visit in EPL
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Enzo Maresca replaced Pep Guardiola between seasons but says Man City may need patience before more trophies arrive.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/21/manchester-citys-maresca-admits-he-needs-time-after-big-changes?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/21/manchester-citys-maresca-admits-he-needs-time-after-big-changes?traffic_source=rss)
+
+---
+
+### 9. Djibouti Football Federation accused of misusing funds from FIFA
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ The advice also applies to the over-65s and others with underlying medical condi
 FIFA and CAF provides more than $1m a year to Djibouti&#039;s federation, which faces corruption allegations over misuse.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/21/djibouti-football-federation-accused-misusing-funds-fifa?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/21/djibouti-football-federation-accused-misusing-funds-fifa?traffic_source=rss)
-
----
-
-### 8. War on Iran: The US could focus on economically isolating Iran
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The US Treasury Secretary, has indicated a change in US strategy towards Iran, focusing on economic isolation.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/21/war-on-iran-the-us-could-focus-on-economically-isolating-iran?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/21/war-on-iran-the-us-could-focus-on-economically-isolating-iran?traffic_source=rss)
-
----
-
-### 9. Several people injured in sword attack at school in Sweden
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-One person has been taken into custody after the attack at a high school in Fagersta, local authorities said.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/21/several-people-injured-in-sword-attack-at-swedish-school?traffic_source=rss](https://www.aljazeera.com/news/2026/8/21/several-people-injured-in-sword-attack-at-swedish-school?traffic_source=rss)
 
 ---
 

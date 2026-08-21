@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-21 06:35:46
+**Last Update:** 2026-08-21 06:57:24
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Artificial Intelligence Policy
+### 1. AI companies destroy physical books – let's scan rare books before it's too late
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://annas-archive.gl/blog/physical-destruction.html">https://annas-archive.gl/blog/physical-destruction.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49383026">https://news.ycombinator.com/item?id=49383026</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://annas-archive.gl/blog/physical-destruction.html](https://annas-archive.gl/blog/physical-destruction.html)
+
+---
+
+### 2. Orbital Construction Pioneers
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://orbitalconstructionpioneers.com/">https://orbitalconstructionpioneers.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49382809">https://news.ycombinator.com/item?id=49382809</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://orbitalconstructionpioneers.com/](https://orbitalconstructionpioneers.com/)
+
+---
+
+### 3. Artificial Intelligence Policy
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.law.berkeley.edu/academics/registrar/academic-rules/artificial-intelligence-policy/">https://www.law.berkeley.edu/academics/registrar/academic-rules/artificial-intelligence-policy/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49382614">https://news.ycombinator.com/item?id=49382614</a></p>
-<p>Points: 21</p>
-<p># Comments: 10</p>
+<p>Points: 22</p>
+<p># Comments: 12</p>
 
 🔗 **Read more:** [https://www.law.berkeley.edu/academics/registrar/academic-rules/artificial-intelligence-policy/](https://www.law.berkeley.edu/academics/registrar/academic-rules/artificial-intelligence-policy/)
-
----
-
-### 2. There's no such thing as a small software team anymore
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/">https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49382152">https://news.ycombinator.com/item?id=49382152</a></p>
-<p>Points: 30</p>
-<p># Comments: 47</p>
-
-🔗 **Read more:** [https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/](https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/)
-
----
-
-### 3. Copyright does not protect AI-generated content in EU
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://mathstodon.xyz/@maxpool/117128107757895678">https://mathstodon.xyz/@maxpool/117128107757895678</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49382041">https://news.ycombinator.com/item?id=49382041</a></p>
-<p>Points: 143</p>
-<p># Comments: 132</p>
-
-🔗 **Read more:** [https://mathstodon.xyz/@maxpool/117128107757895678](https://mathstodon.xyz/@maxpool/117128107757895678)
 
 ---
 
@@ -84,7 +84,7 @@ Sources close to the Sussexes have not denied reports that Meghan has been offer
 
 ---
 
-### 6. What happened to Meghan and Harry's American dream?
+### 6. What happened to Harry and Meghan's American dream?
 
 **Source:** BBC
 
@@ -97,7 +97,20 @@ Harry and Meghan enjoyed some showbusiness success, but their Hollywood reign pr
 
 ---
 
-### 7. After GERD, can Egypt shape Ethiopia’s next Nile dams?
+### 7. Pakistan’s Imran Khan moved to hospital after Supreme Court order
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Pakistan’s former Prime Minister Imran Khan has been moved to a private hospital for medical treatment.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/21/pakistans-imran-khan-moved-to-hospital-after-supreme-court-order?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/21/pakistans-imran-khan-moved-to-hospital-after-supreme-court-order?traffic_source=rss)
+
+---
+
+### 8. After GERD, can Egypt shape Ethiopia’s next Nile dams?
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Three projects mark a new test for Egypt after it failed to prevent construction
 
 ---
 
-### 8. Brazil launches AI supercomputer push while balancing US and Chinese tech
+### 9. Brazil launches AI supercomputer push while balancing US and Chinese tech
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Three projects mark a new test for Egypt after it failed to prevent construction
 The government has announced investments of about 2.3 billion reais ($444.2m) to bolster its AI ecosystem.
 
 🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/21/brazil-launches-ai-supercomputer-push-while-balancing-us-and-chinese-tech?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/21/brazil-launches-ai-supercomputer-push-while-balancing-us-and-chinese-tech?traffic_source=rss)
-
----
-
-### 9. Panama Canal to limit shipping ahead of extreme weather during El Nino
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The El Nino weather phenomenon is expected to increase the likelihood of drought and excess heat across the region.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/21/panama-canal-to-limit-shipping-ahead-of-extreme-weather-during-el-nino?traffic_source=rss](https://www.aljazeera.com/news/2026/8/21/panama-canal-to-limit-shipping-ahead-of-extreme-weather-during-el-nino?traffic_source=rss)
 
 ---
 

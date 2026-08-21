@@ -1,61 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-21 19:24:50
+**Last Update:** 2026-08-21 20:07:37
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. The B-right/V R2 Operating System
+### 1. Omacom Foundation Launches with $8M
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="http://tronweb.super-nova.co.jp/b-right-vr2intro.html">http://tronweb.super-nova.co.jp/b-right-vr2intro.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49389491">https://news.ycombinator.com/item?id=49389491</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://omarchy.org/news/2026/08/omacom-foundation-launches-with-8-million/">https://omarchy.org/news/2026/08/omacom-foundation-launches-with-8-million/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49390132">https://news.ycombinator.com/item?id=49390132</a></p>
+<p>Points: 35</p>
+<p># Comments: 15</p>
 
-🔗 **Read more:** [http://tronweb.super-nova.co.jp/b-right-vr2intro.html](http://tronweb.super-nova.co.jp/b-right-vr2intro.html)
+🔗 **Read more:** [https://omarchy.org/news/2026/08/omacom-foundation-launches-with-8-million/](https://omarchy.org/news/2026/08/omacom-foundation-launches-with-8-million/)
 
 ---
 
-### 2. Show HN: A desktop fly drawn to the scent of vibecode
+### 2. I Just Want to Search
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>It is a fork of <a href="https://github.com/DenisSergeevitch/desktop-fly" rel="nofollow">https://github.com/DenisSergeevitch/desktop-fly</a>, but with an important update.<p>Now the fly can pick up the scent of the codebase with its neurons and fly straight to the source code of your B2B AI SaaS startup. It has learned to scan its surroundings for agent markers: AGENTS.md, CLAUDE.md, .cursor/rules, .kiro/steering, and forty others. Anything on the screen that points to these markers becomes a source of the scent - an editor window with an open project, a line in Finder, or a desktop icon. An open project reeks the strongest, while a closed icon or nested folders give off a fainter odor.</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49389466">https://news.ycombinator.com/item?id=49389466</a></p>
-<p>Points: 3</p>
+<p>Article URL: <a href="https://www.0xsid.com/blog/just-want-to-search">https://www.0xsid.com/blog/just-want-to-search</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49390099">https://news.ycombinator.com/item?id=49390099</a></p>
+<p>Points: 5</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://github.com/kulikov0/desktop-vibe-fly](https://github.com/kulikov0/desktop-vibe-fly)
+🔗 **Read more:** [https://www.0xsid.com/blog/just-want-to-search](https://www.0xsid.com/blog/just-want-to-search)
 
 ---
 
-### 3. c100
+### 3. How We Made a Text-to-Speech Model Respond in Sub-50 ms
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://caligra.com/c100/">https://caligra.com/c100/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49389392">https://news.ycombinator.com/item?id=49389392</a></p>
-<p>Points: 20</p>
-<p># Comments: 11</p>
+<p>Article URL: <a href="https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/">https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49389952">https://news.ycombinator.com/item?id=49389952</a></p>
+<p>Points: 10</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://caligra.com/c100/](https://caligra.com/c100/)
+🔗 **Read more:** [https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/](https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/)
 
 ---
 
@@ -72,7 +71,7 @@ The seven claimants, who include Sir Elton John and Liz Hurley, have to pay the 
 
 ---
 
-### 5. Watch: How 'strongest' El Niño could affect world weather
+### 5. Watch: How 'strongest' El Niño could affect weather around the world
 
 **Source:** BBC
 
@@ -98,42 +97,42 @@ The advice also applies to the over-65s and others with underlying medical condi
 
 ---
 
-### 7. Russian expert warns of impending social crisis as Ukraine death toll rises
+### 7. What to know about the Freedom 250 Grand Prix, Trump’s capital car race
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Putin&#039;s forces continue to bring horror to Ukrainian civilians as Kyiv destroys key sections of Russian infrastructure.
+The president says the 147-lap race will be an event &#039;like no other&#039; as drivers zip through Washington, DC.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/21/russian-expert-warns-of-impending-social-crisis-as-ukraine-death-toll-rises?traffic_source=rss](https://www.aljazeera.com/news/2026/8/21/russian-expert-warns-of-impending-social-crisis-as-ukraine-death-toll-rises?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/21/what-to-know-about-the-freedom-250-grand-prix-trumps-capital-car-race?traffic_source=rss](https://www.aljazeera.com/news/2026/8/21/what-to-know-about-the-freedom-250-grand-prix-trumps-capital-car-race?traffic_source=rss)
 
 ---
 
-### 8. Iraq’s solar villages show how to build an energy transition that lasts
+### 8. England thrash Pakistan by an innings and 103 runs in first Test
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Decentralised power can give communities the means to sustain themselves rather than wait for change to come from above.
+Joe Root&#039;s return as England captain results in a thumping win inside three days against Pakistan in first Test.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/21/iraqs-solar-villages-show-how-to-build-an-energy-transition-that-lasts?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/21/iraqs-solar-villages-show-how-to-build-an-energy-transition-that-lasts?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/21/england-thrash-pakistan-by-an-innings-and-103-runs-in-first-test?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/21/england-thrash-pakistan-by-an-innings-and-103-runs-in-first-test?traffic_source=rss)
 
 ---
 
-### 9. Fury says fight with Joshua looks unlikely with venue yet to be agreed
+### 9. Arsenal vs Coventry LIVE: Premier League
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The all-British, much anticipated boxing showdown between Fury and Joshua was scheduled for November.
+Follow updates from the opening match of the season - including the build-up, analysis and live text commentary.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/21/tyson-fury-anthony-joshua-fight-boxing-venue-date-unlikely-hearn?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/21/tyson-fury-anthony-joshua-fight-boxing-venue-date-unlikely-hearn?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/liveblog/2026/8/21/arsenal-vs-coventry-live-premier-league?traffic_source=rss](https://www.aljazeera.com/sports/liveblog/2026/8/21/arsenal-vs-coventry-live-premier-league?traffic_source=rss)
 
 ---
 

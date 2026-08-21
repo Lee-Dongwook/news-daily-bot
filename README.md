@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-21 14:03:20
+**Last Update:** 2026-08-21 14:24:31
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, Al Jazeera, BBC
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://htmlcat.net/">https://htmlcat.net/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49385860">https://news.ycombinator.com/item?id=49385860</a></p>
-<p>Points: 16</p>
-<p># Comments: 1</p>
+<p>Points: 22</p>
+<p># Comments: 6</p>
 
 🔗 **Read more:** [https://htmlcat.net/](https://htmlcat.net/)
 
@@ -35,26 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/emacs-mirror/emacs/blob/062dcd2aead00c3b47c14ff5b6c40313f7a775f5/etc/HISTORY">https://github.com/emacs-mirror/emacs/blob/062dcd2aead00c3b47c14ff5b6c40313f7a775f5/etc/HISTORY</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49385296">https://news.ycombinator.com/item?id=49385296</a></p>
-<p>Points: 29</p>
+<p>Points: 32</p>
 <p># Comments: 7</p>
 
 🔗 **Read more:** [https://github.com/emacs-mirror/emacs/blob/062dcd2aead00c3b47c14ff5b6c40313f7a775f5/etc/HISTORY](https://github.com/emacs-mirror/emacs/blob/062dcd2aead00c3b47c14ff5b6c40313f7a775f5/etc/HISTORY)
 
 ---
 
-### 3. Better Batteries
+### 3. The Lost Treasure of Sid Meier's Pirates
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://matklad.github.io/2026/08/20/better-batteries.html">https://matklad.github.io/2026/08/20/better-batteries.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49385068">https://news.ycombinator.com/item?id=49385068</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/">https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49384896">https://news.ycombinator.com/item?id=49384896</a></p>
+<p>Points: 97</p>
+<p># Comments: 37</p>
 
-🔗 **Read more:** [https://matklad.github.io/2026/08/20/better-batteries.html](https://matklad.github.io/2026/08/20/better-batteries.html)
+🔗 **Read more:** [https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/](https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/)
 
 ---
 

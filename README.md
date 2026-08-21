@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-21 11:15:25
+**Last Update:** 2026-08-21 11:32:29
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
@@ -97,7 +97,20 @@ The Prince of Wales remains in no mood to forgive and forget. The hurt he feels 
 
 ---
 
-### 7. Dr TikTok: Mental health moves from consulting rooms to social media
+### 7. Australian Hussey open to Ashes Test role as England make approach
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Ex-Australia batter Hussey said he was informally approached by Stephen Flemming, England&#039;s new red-ball coach.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/21/mike-hussey-england-test-batting-coach-stephen-fleming-ashes-australia?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/21/mike-hussey-england-test-batting-coach-stephen-fleming-ashes-australia?traffic_source=rss)
+
+---
+
+### 8. Dr TikTok: Mental health moves from consulting rooms to social media
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Social media fosters empathy and awareness, but cannot replace evidence-based tr
 
 ---
 
-### 8. ‘Very unusual’: UK Palestine activists could be sentenced as terrorists
+### 9. ‘Very unusual’: UK Palestine activists could be sentenced as terrorists
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Social media fosters empathy and awareness, but cannot replace evidence-based tr
 Court to rule on whether five activists accused of vandalising a Barclays bank will face terrorism sentencing.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/21/very-unusual-uk-palestine-activists-could-be-sentenced-as-terrorists?traffic_source=rss](https://www.aljazeera.com/news/2026/8/21/very-unusual-uk-palestine-activists-could-be-sentenced-as-terrorists?traffic_source=rss)
-
----
-
-### 9. Dozens of migrants land on Spanish coast surprising beachgoers
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Footage circulating on social media shows dozens of migrants arriving by boat on Spain’s southeastern coast.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/21/dozens-of-migrants-land-on-spanish-coast-surprising-beachgoers?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/21/dozens-of-migrants-land-on-spanish-coast-surprising-beachgoers?traffic_source=rss)
 
 ---
 

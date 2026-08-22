@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-22 03:14:27
+**Last Update:** 2026-08-22 04:52:43
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: OzBrain, a shared brain for knowledge between agents and your team
+### 1. HN: The Good Parts (2016)
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://danluu.com/hn-comments/">https://danluu.com/hn-comments/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49395171">https://news.ycombinator.com/item?id=49395171</a></p>
+<p>Points: 11</p>
+<p># Comments: 6</p>
+
+🔗 **Read more:** [https://danluu.com/hn-comments/](https://danluu.com/hn-comments/)
+
+---
+
+### 2. Show HN: OzBrain, a shared brain for knowledge between agents and your team
 
 **Source:** Hacker News
 
@@ -30,14 +46,14 @@
 Bubs.co</p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49394827">https://news.ycombinator.com/item?id=49394827</a></p>
-<p>Points: 6</p>
-<p># Comments: 1</p>
+<p>Points: 31</p>
+<p># Comments: 10</p>
 
 🔗 **Read more:** [https://ozbrain.com](https://ozbrain.com)
 
 ---
 
-### 2. Three important steps in my maturation process
+### 3. Three important steps in my maturation process
 
 **Source:** Hacker News
 
@@ -46,26 +62,10 @@ Bubs.co</p>
 **Description:**
 <p>Article URL: <a href="https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/">https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49394496">https://news.ycombinator.com/item?id=49394496</a></p>
-<p>Points: 4</p>
-<p># Comments: 1</p>
+<p>Points: 40</p>
+<p># Comments: 8</p>
 
 🔗 **Read more:** [https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/](https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/)
-
----
-
-### 3. 'Ghost Job' Ads Are Getting So Bad That Lawmakers Want to Ban Them
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.wsj.com/lifestyle/careers/ghost-job-ads-are-getting-so-bad-that-lawmakers-want-to-ban-them-2580bc3e">https://www.wsj.com/lifestyle/careers/ghost-job-ads-are-getting-so-bad-that-lawmakers-want-to-ban-them-2580bc3e</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49394373">https://news.ycombinator.com/item?id=49394373</a></p>
-<p>Points: 26</p>
-<p># Comments: 7</p>
-
-🔗 **Read more:** [https://www.wsj.com/lifestyle/careers/ghost-job-ads-are-getting-so-bad-that-lawmakers-want-to-ban-them-2580bc3e](https://www.wsj.com/lifestyle/careers/ghost-job-ads-are-getting-so-bad-that-lawmakers-want-to-ban-them-2580bc3e)
 
 ---
 
@@ -108,42 +108,42 @@ Students like Jessica say they worry about missing out on student life, but feel
 
 ---
 
-### 7. US debt tops $40 trillion, Americans left with the bill
+### 7. Iranian president says time to end war with US from ‘position of strength’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The US national debt has officially surpassed $40 trillion for the first time in history, and it’s growing fast.
+Omani and Iranian foreign ministers hold a call as Washington prepares economic sanctions.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/21/us-debt-tops-40-trillion-americans-left-with-the-bill-3?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/21/us-debt-tops-40-trillion-americans-left-with-the-bill-3?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/iranian-president-says-time-to-end-war-with-us-from-position-of?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/iranian-president-says-time-to-end-war-with-us-from-position-of?traffic_source=rss)
 
 ---
 
-### 8. Pakistan’s Imran Khan back to prison after evaluation at hospital
+### 8. California lawmaker overcomes pro-Israel spending to win special election
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Pakistan’s former Prime Minister Imran Khan was sent back to prison after being transferred for a medical evaluation.
+Victory for state Senator Aisha Wahab marks the latest example of a progressive overcoming millions in outside spending.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/21/pakistans-imran-khan-back-to-prison-after-evaluation-at-hospital?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/21/pakistans-imran-khan-back-to-prison-after-evaluation-at-hospital?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/california-lawmaker-overcomes-pro-israel-spending-to-win-special-election?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/california-lawmaker-overcomes-pro-israel-spending-to-win-special-election?traffic_source=rss)
 
 ---
 
-### 9. US Vice President JD Vance holds midterm election rally in Ohio hometown
+### 9. Guyana’s Rodrigues Birkett leads informal poll in race to be next UN leader
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The vice president&#039;s speech hinged heavily on economic themes, as voter confidence slips for Republican policies.
+Guyanese diplomat emerges narrowly ahead as the council works towards consensus before Guterres departs.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/21/us-vice-president-jd-vance-holds-midterm-election-rally-in-ohio-hometown?traffic_source=rss](https://www.aljazeera.com/news/2026/8/21/us-vice-president-jd-vance-holds-midterm-election-rally-in-ohio-hometown?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/guyanas-rodrigues-birkett-leads-informal-poll-in-race-to-be-next-un-leader?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/guyanas-rodrigues-birkett-leads-informal-poll-in-race-to-be-next-un-leader?traffic_source=rss)
 
 ---
 

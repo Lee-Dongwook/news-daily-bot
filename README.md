@@ -1,28 +1,28 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-22 19:12:15
+**Last Update:** 2026-08-22 19:57:27
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Digging the grave of my skills: Hollywood creatives training AI to do their jobs
+### 1. ElevenLabs, TwelveLabs, ThirteenLabs
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs">https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49399941">https://news.ycombinator.com/item?id=49399941</a></p>
-<p>Points: 27</p>
-<p># Comments: 27</p>
+<p>Article URL: <a href="https://quantumi.sh/public/labs.html">https://quantumi.sh/public/labs.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49400408">https://news.ycombinator.com/item?id=49400408</a></p>
+<p>Points: 53</p>
+<p># Comments: 11</p>
 
-🔗 **Read more:** [https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs](https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs)
+🔗 **Read more:** [https://quantumi.sh/public/labs.html](https://quantumi.sh/public/labs.html)
 
 ---
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/">https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49399898">https://news.ycombinator.com/item?id=49399898</a></p>
-<p>Points: 23</p>
-<p># Comments: 2</p>
+<p>Points: 34</p>
+<p># Comments: 5</p>
 
 🔗 **Read more:** [https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/](https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/)
 
@@ -51,23 +51,23 @@
 **Description:**
 <p>Article URL: <a href="https://blog.modelcontextprotocol.io/posts/mcp-roadmap/">https://blog.modelcontextprotocol.io/posts/mcp-roadmap/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49399591">https://news.ycombinator.com/item?id=49399591</a></p>
-<p>Points: 60</p>
-<p># Comments: 47</p>
+<p>Points: 83</p>
+<p># Comments: 63</p>
 
 🔗 **Read more:** [https://blog.modelcontextprotocol.io/posts/mcp-roadmap/](https://blog.modelcontextprotocol.io/posts/mcp-roadmap/)
 
 ---
 
-### 4. Canada says it will match US tariffs 'dollar for dollar' as trade talks break down
+### 4. Canadian PM calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-A new 50% levy on $20bn of Canadian imports comes into force after a last-minute breakdown in trade talks.
+In a speech on Saturday morning, Prime Minister Mark Carney said Canada walked away from the negotiation table to protect its sovereignty.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +97,42 @@ The Passivhaus standard is growing in popularity as UK homeowners adapt to hotte
 
 ---
 
-### 7. Israeli drone strike on ‘civilian vehicle’ injures several in Syria
+### 7. How is the pro-Israel lobby influencing US elections?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Syria condemns attack in southwest as a &#039;flagrant violation of sovereignty&#039; and a &#039;blatant breach of international law&#039;.
+As the 2026 US midterms approach, millions of dollars are pouring into races involving candidates who challenge Israel.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/israeli-drone-strike-on-civilian-vehicle-causes-injuries-in-syria?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/israeli-drone-strike-on-civilian-vehicle-causes-injuries-in-syria?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/22/how-is-the-pro-israel-lobby-influencing-us-midterm-elections?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/22/how-is-the-pro-israel-lobby-influencing-us-midterm-elections?traffic_source=rss)
 
 ---
 
-### 8. What did war with the US reveal about Iran’s weapons capabilities?
+### 8. Elche vs Barcelona: La Liga – prediction, team news, lineups
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Iran says production is ongoing, but details will not be revealed during war conditions.
+Barcelona start their season at Elche in La Liga on Sunday but will do so without their new signing, Rodri.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/what-did-war-with-the-us-reveal-about-irans-weapons-capabilities?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/what-did-war-with-the-us-reveal-about-irans-weapons-capabilities?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/22/elche-vs-barcelona-la-liga-prediction-team-news-lineups?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/22/elche-vs-barcelona-la-liga-prediction-team-news-lineups?traffic_source=rss)
 
 ---
 
-### 9. Man Utd humiliated at Hull to open Premier League account
+### 9. Walk-In “Human Fridges” are Japan’s newest heatwave weapon
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Manchester United lose 2-0 at newly promoted Hull City to open their Premier League campaign.
+Designed to stop heatstroke in its tracks, the &quot;Do Hiemon Box&quot; delivers rapid, targeted cooling during extreme weather.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/22/man-utd-slump-to-opening-day-premier-league-defeat-at-hull-city?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/22/man-utd-slump-to-opening-day-premier-league-defeat-at-hull-city?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/22/walk-in-human-fridges-are-japans-newest-heatwave-weapon?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/22/walk-in-human-fridges-are-japans-newest-heatwave-weapon?traffic_source=rss)
 
 ---
 

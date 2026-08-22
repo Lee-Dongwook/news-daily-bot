@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-22 12:03:08
+**Last Update:** 2026-08-22 12:23:58
 
 **Total News:** 12
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.bbc.com/news/articles/cvgvyy4x2mvo">https://www.bbc.com/news/articles/cvgvyy4x2mvo</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49397074">https://news.ycombinator.com/item?id=49397074</a></p>
-<p>Points: 51</p>
-<p># Comments: 15</p>
+<p>Points: 67</p>
+<p># Comments: 26</p>
 
 🔗 **Read more:** [https://www.bbc.com/news/articles/cvgvyy4x2mvo](https://www.bbc.com/news/articles/cvgvyy4x2mvo)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://danluu.com/perf-opt/">https://danluu.com/perf-opt/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49395628">https://news.ycombinator.com/item?id=49395628</a></p>
-<p>Points: 360</p>
-<p># Comments: 259</p>
+<p>Points: 372</p>
+<p># Comments: 270</p>
 
 🔗 **Read more:** [https://danluu.com/perf-opt/](https://danluu.com/perf-opt/)
 
@@ -52,7 +52,7 @@
 <p>Article URL: <a href="https://grapheneos.social/@GrapheneOS/117136278553665985">https://grapheneos.social/@GrapheneOS/117136278553665985</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49395605">https://news.ycombinator.com/item?id=49395605</a></p>
 <p>Points: 107</p>
-<p># Comments: 35</p>
+<p># Comments: 36</p>
 
 🔗 **Read more:** [https://grapheneos.social/@GrapheneOS/117136278553665985](https://grapheneos.social/@GrapheneOS/117136278553665985)
 
@@ -97,7 +97,20 @@ The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDa
 
 ---
 
-### 7. How will Trump’s tariffs affect Canada’s economy?
+### 7. Nakashima pounds Fritz, Bejlek beats Keys in Cincinnati upsets
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Frances Tiafoe and Brandon Nakashima set up one all-American men&#039;s semifinal, Coco Gauff and Jessica Pegula also win.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/22/nakashima-pounds-fritz-bejlek-beats-keys-in-cincinnati-upsets?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/22/nakashima-pounds-fritz-bejlek-beats-keys-in-cincinnati-upsets?traffic_source=rss)
+
+---
+
+### 8. How will Trump’s tariffs affect Canada’s economy?
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ US imposes 50% tariffs on key Canadian sectors after talks collapse, but unlikel
 
 ---
 
-### 8. Panama Canal to reduce shipping as ‘extreme’ El Nino approaches
+### 9. Panama Canal to reduce shipping as ‘extreme’ El Nino approaches
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ US imposes 50% tariffs on key Canadian sectors after talks collapse, but unlikel
 Panama Canal will cut daily transits from 40 to 32 vessels by September 15, risking slower shipping and higher costs.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/22/panama-canal-to-reduce-shipping-as-extreme-el-nino-approaches?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/22/panama-canal-to-reduce-shipping-as-extreme-el-nino-approaches?traffic_source=rss)
-
----
-
-### 9. Lionel Messi fined for striking opponent in Inter Miami MLS game
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-MLS fine Inter Miami&#039;s Lionel Messi and Ian Fray for separate incidents in match against Philadelphia Union.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/22/messi-fined-for-striking-opponent-in-inter-miami-mls-game?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/22/messi-fined-for-striking-opponent-in-inter-miami-mls-game?traffic_source=rss)
 
 ---
 

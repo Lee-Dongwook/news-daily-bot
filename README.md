@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-22 22:54:24
+**Last Update:** 2026-08-22 23:12:24
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. hdiutil is deprecated in macOS 27 Golden Gate
+### 1. NetBSD and My Life (2005)
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html">https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49402781">https://news.ycombinator.com/item?id=49402781</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html](https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html)
+
+---
+
+### 2. hdiutil is deprecated in macOS 27 Golden Gate
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://lapcatsoftware.com/articles/2026/8/7.html">https://lapcatsoftware.com/articles/2026/8/7.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49402741">https://news.ycombinator.com/item?id=49402741</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
+<p>Points: 26</p>
+<p># Comments: 1</p>
 
 🔗 **Read more:** [https://lapcatsoftware.com/articles/2026/8/7.html](https://lapcatsoftware.com/articles/2026/8/7.html)
 
 ---
 
-### 2. Scrap
+### 3. Scrap
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://twitter.com/moxie/status/2091218652133732491">https://twitter.com/moxie/status/2091218652133732491</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49402189">https://news.ycombinator.com/item?id=49402189</a></p>
-<p>Points: 30</p>
-<p># Comments: 3</p>
+<p>Points: 51</p>
+<p># Comments: 9</p>
 
 🔗 **Read more:** [https://twitter.com/moxie/status/2091218652133732491](https://twitter.com/moxie/status/2091218652133732491)
-
----
-
-### 3. Belgian car salesman becomes prince after DNA test proves royal parentage
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl">https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49401621">https://news.ycombinator.com/item?id=49401621</a></p>
-<p>Points: 57</p>
-<p># Comments: 37</p>
-
-🔗 **Read more:** [https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl](https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl)
 
 ---
 
@@ -97,42 +97,42 @@ Canada's prime minister said he was "reluctantly" announcing retaliatory tariffs
 
 ---
 
-### 7. Carney: Canada will enact retaliatory US tariffs starting September 8
+### 7. More than 200,000 newly displaced in Sudan’s Kordofan region
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The prime minister spoke hours after the US imposed 50 percent tariffs on nearly $20bn worth of Canadian goods.
+Intensified fighting in Sudan has displaced at least 200,000 people in the Kordofan region since late last year.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/carney-canada-will-enact-retaliatory-us-tariffs-starting-september-8?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/carney-canada-will-enact-retaliatory-us-tariffs-starting-september-8?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/22/more-than-200000-newly-displaced-in-sudans-kordofan-region?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/22/more-than-200000-newly-displaced-in-sudans-kordofan-region?traffic_source=rss)
 
 ---
 
-### 8. Israel, Turkiye and the new regional reordering
+### 8. Israeli strikes kill two and injure others as Gaza attacks continue
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-In Syria, Israel is not only at odds with Turkiye but also with the regional and international consensus.
+Israeli drone attack targeted a family in the central city of Deir el-Balah, killing one person and wounding others.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/22/israel-turkiye-and-the-new-regional-reordering?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/22/israel-turkiye-and-the-new-regional-reordering?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/israeli-strikes-kill-two-and-injure-others-as-gaza-attacks-continue?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/israeli-strikes-kill-two-and-injure-others-as-gaza-attacks-continue?traffic_source=rss)
 
 ---
 
-### 9. Swedish police identify 17-year-old girl as victim in school sword attack
+### 9. Putin warns Ukraine has opened ‘Pandora’s box’, rejects peace proposals
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Brinell School&#039;s principal says 18-year-old suspected of carrying out Friday&#039;s deadly sword attack was a student there.
+In an interview with the Russian channel Vesti, Vladimir Putin threatened Ukraine&#039;s &#039;most vulnerable&#039; economic sectors.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/swedish-police-identify-17-year-old-girl-as-victim-in-school-sword-attack?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/swedish-police-identify-17-year-old-girl-as-victim-in-school-sword-attack?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-putin-ukraine-talks-clip?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-putin-ukraine-talks-clip?traffic_source=rss)
 
 ---
 

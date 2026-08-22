@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-22 23:12:24
+**Last Update:** 2026-08-22 23:56:03
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html">https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49402781">https://news.ycombinator.com/item?id=49402781</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
+<p>Points: 33</p>
+<p># Comments: 3</p>
 
 🔗 **Read more:** [https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html](https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html)
 
@@ -35,26 +35,27 @@
 **Description:**
 <p>Article URL: <a href="https://lapcatsoftware.com/articles/2026/8/7.html">https://lapcatsoftware.com/articles/2026/8/7.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49402741">https://news.ycombinator.com/item?id=49402741</a></p>
-<p>Points: 26</p>
-<p># Comments: 1</p>
+<p>Points: 69</p>
+<p># Comments: 17</p>
 
 🔗 **Read more:** [https://lapcatsoftware.com/articles/2026/8/7.html](https://lapcatsoftware.com/articles/2026/8/7.html)
 
 ---
 
-### 3. Scrap
+### 3. Show HN: Make your logo extra bright on HDR screens
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://twitter.com/moxie/status/2091218652133732491">https://twitter.com/moxie/status/2091218652133732491</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49402189">https://news.ycombinator.com/item?id=49402189</a></p>
-<p>Points: 51</p>
-<p># Comments: 9</p>
+<p>Certain logos started standing out to me on LinkedIn as brighter/whiter than everything else around them.<p>I dug in and found out this is accomplished by adding a gain-map to an existing JPEG, visible only on HDR screens like a newer MacBook Pro. LinkedIn is the only social network I've found that isn't stripping them out, but of course you serve them up on your own site.<p>I worked with Claude Code to turn it into a little browser-based utility (no registration) and hope you find it useful!</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49402521">https://news.ycombinator.com/item?id=49402521</a></p>
+<p>Points: 12</p>
+<p># Comments: 8</p>
 
-🔗 **Read more:** [https://twitter.com/moxie/status/2091218652133732491](https://twitter.com/moxie/status/2091218652133732491)
+🔗 **Read more:** [https://www.soverybright.com/](https://www.soverybright.com/)
 
 ---
 
@@ -97,7 +98,20 @@ Canada's prime minister said he was "reluctantly" announcing retaliatory tariffs
 
 ---
 
-### 7. More than 200,000 newly displaced in Sudan’s Kordofan region
+### 7. Why is Israel building new illegal settlements?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Israel opens construction bids for new illegal housing units in the occupied West Bank.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/8/22/why-is-israel-building-new-illegal-settlements?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/8/22/why-is-israel-building-new-illegal-settlements?traffic_source=rss)
+
+---
+
+### 8. More than 200,000 newly displaced in Sudan’s Kordofan region
 
 **Source:** Al Jazeera
 
@@ -110,7 +124,7 @@ Intensified fighting in Sudan has displaced at least 200,000 people in the Kordo
 
 ---
 
-### 8. Israeli strikes kill two and injure others as Gaza attacks continue
+### 9. Israeli strikes kill two and injure others as Gaza attacks continue
 
 **Source:** Al Jazeera
 
@@ -120,19 +134,6 @@ Intensified fighting in Sudan has displaced at least 200,000 people in the Kordo
 Israeli drone attack targeted a family in the central city of Deir el-Balah, killing one person and wounding others.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/israeli-strikes-kill-two-and-injure-others-as-gaza-attacks-continue?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/israeli-strikes-kill-two-and-injure-others-as-gaza-attacks-continue?traffic_source=rss)
-
----
-
-### 9. Putin warns Ukraine has opened ‘Pandora’s box’, rejects peace proposals
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-In an interview with the Russian channel Vesti, Vladimir Putin threatened Ukraine&#039;s &#039;most vulnerable&#039; economic sectors.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-putin-ukraine-talks-clip?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-putin-ukraine-talks-clip?traffic_source=rss)
 
 ---
 

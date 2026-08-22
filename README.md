@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-22 22:04:32
+**Last Update:** 2026-08-22 22:24:25
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl">https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49401621">https://news.ycombinator.com/item?id=49401621</a></p>
-<p>Points: 38</p>
-<p># Comments: 23</p>
+<p>Points: 46</p>
+<p># Comments: 24</p>
 
 🔗 **Read more:** [https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl](https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl)
 
@@ -51,14 +51,14 @@
 **Description:**
 <p>Article URL: <a href="https://quantumi.sh/public/labs.html">https://quantumi.sh/public/labs.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49400408">https://news.ycombinator.com/item?id=49400408</a></p>
-<p>Points: 132</p>
-<p># Comments: 54</p>
+<p>Points: 146</p>
+<p># Comments: 61</p>
 
 🔗 **Read more:** [https://quantumi.sh/public/labs.html](https://quantumi.sh/public/labs.html)
 
 ---
 
-### 4. Video appears to show police chase minutes before fatal crash
+### 4. Video appears to show police chase minutes before fatal A66 crash
 
 **Source:** BBC
 
@@ -97,7 +97,33 @@ Four people are still missing after Friday's attack which killed 16 and left 130
 
 ---
 
-### 7. Armed men kidnap dozens in attacks on Nigerian villages
+### 7. Israel, Turkiye and the new regional reordering
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+In Syria, Israel is not only at odds with Turkiye but also with the regional and international consensus.
+
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/22/israel-turkiye-and-the-new-regional-reordering?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/22/israel-turkiye-and-the-new-regional-reordering?traffic_source=rss)
+
+---
+
+### 8. Swedish police identify 17-year-old girl as victim in school sword attack
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Brinell School&#039;s principal says 18-year-old suspected of carrying out Friday&#039;s deadly sword attack was a student there.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/swedish-police-identify-17-year-old-girl-as-victim-in-school-sword-attack?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/swedish-police-identify-17-year-old-girl-as-victim-in-school-sword-attack?traffic_source=rss)
+
+---
+
+### 9. Armed men kidnap dozens in attacks on Nigerian villages
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Four people are still missing after Friday's attack which killed 16 and left 130
 Police say three villages and a mosque were attacked, and worshippers kidnapped in central Niger State.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/armed-men-kidnap-dozens-in-attacks-on-nigerian-villages?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/armed-men-kidnap-dozens-in-attacks-on-nigerian-villages?traffic_source=rss)
-
----
-
-### 8. Israel’s Chief Rabbi says Palestinians are not a people and have no rights
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Israel’s Chief Rabbi denied Palestinians are a people, claimed Gaza for Jews and called for its destruction and return.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-israel-rabbi-palestinians-clip?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-israel-rabbi-palestinians-clip?traffic_source=rss)
-
----
-
-### 9. Trump seeks to block the BBC’s attempt to subpoena Ivanka Trump, Trump Jr
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-While lawyers for the US president argue the subpoenas are &#039;cynical&#039;, the BBC says they could help shine light on case.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/trump-seeks-to-block-the-bbcs-attempt-to-subpoena-ivanka-trump-trump-jr?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/trump-seeks-to-block-the-bbcs-attempt-to-subpoena-ivanka-trump-trump-jr?traffic_source=rss)
 
 ---
 

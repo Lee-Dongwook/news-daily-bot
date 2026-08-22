@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-22 11:04:06
+**Last Update:** 2026-08-22 11:21:39
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.bbc.com/news/articles/cvgvyy4x2mvo">https://www.bbc.com/news/articles/cvgvyy4x2mvo</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49397074">https://news.ycombinator.com/item?id=49397074</a></p>
-<p>Points: 24</p>
-<p># Comments: 3</p>
+<p>Points: 34</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://www.bbc.com/news/articles/cvgvyy4x2mvo](https://www.bbc.com/news/articles/cvgvyy4x2mvo)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://danluu.com/perf-opt/">https://danluu.com/perf-opt/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49395628">https://news.ycombinator.com/item?id=49395628</a></p>
-<p>Points: 330</p>
-<p># Comments: 236</p>
+<p>Points: 344</p>
+<p># Comments: 249</p>
 
 🔗 **Read more:** [https://danluu.com/perf-opt/](https://danluu.com/perf-opt/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://grapheneos.social/@GrapheneOS/117136278553665985">https://grapheneos.social/@GrapheneOS/117136278553665985</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49395605">https://news.ycombinator.com/item?id=49395605</a></p>
-<p>Points: 99</p>
-<p># Comments: 32</p>
+<p>Points: 102</p>
+<p># Comments: 33</p>
 
 🔗 **Read more:** [https://grapheneos.social/@GrapheneOS/117136278553665985](https://grapheneos.social/@GrapheneOS/117136278553665985)
 
@@ -97,7 +97,33 @@ Saja El-Khawas is the fourth person to die after her family got into difficulty 
 
 ---
 
-### 7. China’s new moon mission could unlock secret of lunar ice: Why that matters
+### 7. World Bank projects war-hit Lebanon’s economy to contract by 6.4 percent
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Conflict with Israel derails Lebanon&#039;s economic recovery as inflation and consumer prices rise, the global lender says.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/world-bank-projects-war-hit-lebanons-economy-to-contract-by-6-4-percent?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/world-bank-projects-war-hit-lebanons-economy-to-contract-by-6-4-percent?traffic_source=rss)
+
+---
+
+### 8. Somalia child hunger crisis deepens after aid cuts, UNICEF says
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The drought-stricken country has recorded a 32 percent jump in the number of children treated for severe malnutrition.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/somalia-child-hunger-crisis-deepens-after-aid-cuts-unicef-says?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/somalia-child-hunger-crisis-deepens-after-aid-cuts-unicef-says?traffic_source=rss)
+
+---
+
+### 9. China’s new moon mission could unlock secret of lunar ice: Why that matters
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Saja El-Khawas is the fourth person to die after her family got into difficulty 
 The Chang&#039;e-7 seeks to find out more about the water trapped within the moon&#039;s shadowed craters.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/chinas-new-moon-mission-could-unlock-secret-of-lunar-ice-why-that-matters?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/chinas-new-moon-mission-could-unlock-secret-of-lunar-ice-why-that-matters?traffic_source=rss)
-
----
-
-### 8. ‘It was a tsunami’: Floods leave death trail in India’s Assam
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-From father searching for his daughter&#039;s body to man who drowned trying to save a friend, floods take devastating toll.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/it-was-a-tsunami-floods-leave-death-trail-in-indias-assam?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/it-was-a-tsunami-floods-leave-death-trail-in-indias-assam?traffic_source=rss)
-
----
-
-### 9. Inundated Philippine communities seek answers over flood control funds
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Al Jazeera’s Jamela Alindogan reports from Northern Philippines where inundated communities are demanding answers.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/22/inundated-philippine-communities-seek-answers-over-flood-control-funds?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/22/inundated-philippine-communities-seek-answers-over-flood-control-funds?traffic_source=rss)
 
 ---
 

@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-22 13:18:21
+**Last Update:** 2026-08-22 13:56:31
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://danluu.com/perf-opt/">https://danluu.com/perf-opt/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49395628">https://news.ycombinator.com/item?id=49395628</a></p>
-<p>Points: 402</p>
-<p># Comments: 291</p>
+<p>Points: 415</p>
+<p># Comments: 301</p>
 
 🔗 **Read more:** [https://danluu.com/perf-opt/](https://danluu.com/perf-opt/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://grapheneos.social/@GrapheneOS/117136278553665985">https://grapheneos.social/@GrapheneOS/117136278553665985</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49395605">https://news.ycombinator.com/item?id=49395605</a></p>
-<p>Points: 112</p>
-<p># Comments: 39</p>
+<p>Points: 113</p>
+<p># Comments: 42</p>
 
 🔗 **Read more:** [https://grapheneos.social/@GrapheneOS/117136278553665985](https://grapheneos.social/@GrapheneOS/117136278553665985)
 
@@ -51,21 +51,21 @@
 **Description:**
 <p>Article URL: <a href="https://danluu.com/hn-comments/">https://danluu.com/hn-comments/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49395171">https://news.ycombinator.com/item?id=49395171</a></p>
-<p>Points: 50</p>
-<p># Comments: 8</p>
+<p>Points: 51</p>
+<p># Comments: 9</p>
 
 🔗 **Read more:** [https://danluu.com/hn-comments/](https://danluu.com/hn-comments/)
 
 ---
 
-### 4. Multiple deaths after crash between police vehicle and car
+### 4. Multiple deaths after police vehicle and car crash during pursuit
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-"A number of patients died at the scene", ambulance officials say, after the collision near Middlesbrough.
+"A number of patients died at the scene" after the collision near Middlesbrough, ambulance officials say, as the police watchdog opens an investigation.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx272ly3g00o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx272ly3g00o?at_medium=RSS&at_campaign=rss)
 
@@ -97,7 +97,20 @@ The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDa
 
 ---
 
-### 7. Iran says new US sanctions violate sovereignty of other states
+### 7. Former world champion boxer Zolani Tete shot and killed in South Africa
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Zolani Tete, who held WBF flyweight and WBO bantamweight world titles, killed at his home in Eastern Cape, South Africa.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/22/former-world-champion-boxer-zolani-tete-shot-and-killed-in-south-africa?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/22/former-world-champion-boxer-zolani-tete-shot-and-killed-in-south-africa?traffic_source=rss)
+
+---
+
+### 8. Iran says new US sanctions violate sovereignty of other states
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Foreign Ministry spokesman Esmaeil Baghaei slams Trump&#039;s latest threat as a
 
 ---
 
-### 8. Australia bite back as 18 wickets fall on day one of second Bangladesh Test
+### 9. Australia bite back as 18 wickets fall on day one of second Bangladesh Test
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Foreign Ministry spokesman Esmaeil Baghaei slams Trump&#039;s latest threat as a
 Left-armers star in wicket bonanza as Australia take 101-run lead over Bangladesh on first day of the second Test.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/22/australia-bite-back-as-18-wickets-fall-on-day-one-of-second-bangladesh-test?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/22/australia-bite-back-as-18-wickets-fall-on-day-one-of-second-bangladesh-test?traffic_source=rss)
-
----
-
-### 9. Nakashima pounds Fritz, Bejlek beats Keys in Cincinnati upsets
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Frances Tiafoe and Brandon Nakashima set up one all-American men&#039;s semifinal, Coco Gauff and Jessica Pegula also win.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/22/nakashima-pounds-fritz-bejlek-beats-keys-in-cincinnati-upsets?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/22/nakashima-pounds-fritz-bejlek-beats-keys-in-cincinnati-upsets?traffic_source=rss)
 
 ---
 

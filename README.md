@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-22 11:21:39
+**Last Update:** 2026-08-22 12:03:08
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.bbc.com/news/articles/cvgvyy4x2mvo">https://www.bbc.com/news/articles/cvgvyy4x2mvo</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49397074">https://news.ycombinator.com/item?id=49397074</a></p>
-<p>Points: 34</p>
-<p># Comments: 4</p>
+<p>Points: 51</p>
+<p># Comments: 15</p>
 
 🔗 **Read more:** [https://www.bbc.com/news/articles/cvgvyy4x2mvo](https://www.bbc.com/news/articles/cvgvyy4x2mvo)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://danluu.com/perf-opt/">https://danluu.com/perf-opt/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49395628">https://news.ycombinator.com/item?id=49395628</a></p>
-<p>Points: 344</p>
-<p># Comments: 249</p>
+<p>Points: 360</p>
+<p># Comments: 259</p>
 
 🔗 **Read more:** [https://danluu.com/perf-opt/](https://danluu.com/perf-opt/)
 
@@ -51,14 +51,27 @@
 **Description:**
 <p>Article URL: <a href="https://grapheneos.social/@GrapheneOS/117136278553665985">https://grapheneos.social/@GrapheneOS/117136278553665985</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49395605">https://news.ycombinator.com/item?id=49395605</a></p>
-<p>Points: 102</p>
-<p># Comments: 33</p>
+<p>Points: 107</p>
+<p># Comments: 35</p>
 
 🔗 **Read more:** [https://grapheneos.social/@GrapheneOS/117136278553665985](https://grapheneos.social/@GrapheneOS/117136278553665985)
 
 ---
 
-### 4. Canada says it will match US tariffs 'dollar for dollar' as trade talks break down
+### 4. Multiple deaths after collision between police vehicle and car
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Police say they are working to identify the victims and contact their families after the crash on Teesside.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx272ly3g00o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx272ly3g00o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Canada says it will match US tariffs 'dollar for dollar' as trade talks break down
 
 **Source:** BBC
 
@@ -71,7 +84,7 @@ A new 50% levy on $20bn of Canadian imports comes into force after a last-minute
 
 ---
 
-### 5. TikTok to pay $400m to US in one of largest child privacy settlements
+### 6. TikTok to pay $400m to US in one of largest child privacy settlements
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDa
 
 ---
 
-### 6. Girl, 6, dies days after Shoreham sea tragedy killed three family members
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Saja El-Khawas is the fourth person to die after her family got into difficulty in water off West Sussex.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c629y0kx8gyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c629y0kx8gyo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. World Bank projects war-hit Lebanon’s economy to contract by 6.4 percent
+### 7. How will Trump’s tariffs affect Canada’s economy?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Conflict with Israel derails Lebanon&#039;s economic recovery as inflation and consumer prices rise, the global lender says.
+US imposes 50% tariffs on key Canadian sectors after talks collapse, but unlikely to cripple Canada&#039;s economy.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/world-bank-projects-war-hit-lebanons-economy-to-contract-by-6-4-percent?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/world-bank-projects-war-hit-lebanons-economy-to-contract-by-6-4-percent?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/22/how-will-trumps-tariffs-affect-canadas-economy?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/22/how-will-trumps-tariffs-affect-canadas-economy?traffic_source=rss)
 
 ---
 
-### 8. Somalia child hunger crisis deepens after aid cuts, UNICEF says
+### 8. Panama Canal to reduce shipping as ‘extreme’ El Nino approaches
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The drought-stricken country has recorded a 32 percent jump in the number of children treated for severe malnutrition.
+Panama Canal will cut daily transits from 40 to 32 vessels by September 15, risking slower shipping and higher costs.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/somalia-child-hunger-crisis-deepens-after-aid-cuts-unicef-says?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/somalia-child-hunger-crisis-deepens-after-aid-cuts-unicef-says?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/22/panama-canal-to-reduce-shipping-as-extreme-el-nino-approaches?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/22/panama-canal-to-reduce-shipping-as-extreme-el-nino-approaches?traffic_source=rss)
 
 ---
 
-### 9. China’s new moon mission could unlock secret of lunar ice: Why that matters
+### 9. Lionel Messi fined for striking opponent in Inter Miami MLS game
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The Chang&#039;e-7 seeks to find out more about the water trapped within the moon&#039;s shadowed craters.
+MLS fine Inter Miami&#039;s Lionel Messi and Ian Fray for separate incidents in match against Philadelphia Union.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/chinas-new-moon-mission-could-unlock-secret-of-lunar-ice-why-that-matters?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/chinas-new-moon-mission-could-unlock-secret-of-lunar-ice-why-that-matters?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/22/messi-fined-for-striking-opponent-in-inter-miami-mls-game?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/22/messi-fined-for-striking-opponent-in-inter-miami-mls-game?traffic_source=rss)
 
 ---
 

@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-22 08:26:08
+**Last Update:** 2026-08-22 09:00:20
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Early Humans Likely Ate Carbs and Sugary Foods
+### 1. 4 in 10 travellers visit tourist sites to capture social media content
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.tuigroup.com/en/newsroom/news/travel-in-the-age-of-scrolling-tui-musement-research-reveals-4-in-10-travellers-visit-tourist-sites-to-capture-social-media-content">https://www.tuigroup.com/en/newsroom/news/travel-in-the-age-of-scrolling-tui-musement-research-reveals-4-in-10-travellers-visit-tourist-sites-to-capture-social-media-content</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49396620">https://news.ycombinator.com/item?id=49396620</a></p>
+<p>Points: 22</p>
+<p># Comments: 17</p>
+
+🔗 **Read more:** [https://www.tuigroup.com/en/newsroom/news/travel-in-the-age-of-scrolling-tui-musement-research-reveals-4-in-10-travellers-visit-tourist-sites-to-capture-social-media-content](https://www.tuigroup.com/en/newsroom/news/travel-in-the-age-of-scrolling-tui-musement-research-reveals-4-in-10-travellers-visit-tourist-sites-to-capture-social-media-content)
+
+---
+
+### 2. Early Humans Likely Ate Carbs and Sugary Foods
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.history.com/articles/early-human-ancestors-diet-sugar-carbs">https://www.history.com/articles/early-human-ancestors-diet-sugar-carbs</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49396086">https://news.ycombinator.com/item?id=49396086</a></p>
-<p>Points: 17</p>
-<p># Comments: 26</p>
+<p>Points: 27</p>
+<p># Comments: 39</p>
 
 🔗 **Read more:** [https://www.history.com/articles/early-human-ancestors-diet-sugar-carbs](https://www.history.com/articles/early-human-ancestors-diet-sugar-carbs)
 
 ---
 
-### 2. There's no reason for software to be slow anymore
+### 3. There's no reason for software to be slow anymore
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://danluu.com/perf-opt/">https://danluu.com/perf-opt/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49395628">https://news.ycombinator.com/item?id=49395628</a></p>
-<p>Points: 182</p>
-<p># Comments: 144</p>
+<p>Points: 218</p>
+<p># Comments: 166</p>
 
 🔗 **Read more:** [https://danluu.com/perf-opt/](https://danluu.com/perf-opt/)
-
----
-
-### 3. Initial focus for our partnership with Motorola is a regular non-folding device
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://grapheneos.social/@GrapheneOS/117136278553665985">https://grapheneos.social/@GrapheneOS/117136278553665985</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49395605">https://news.ycombinator.com/item?id=49395605</a></p>
-<p>Points: 43</p>
-<p># Comments: 14</p>
-
-🔗 **Read more:** [https://grapheneos.social/@GrapheneOS/117136278553665985](https://grapheneos.social/@GrapheneOS/117136278553665985)
 
 ---
 
@@ -97,7 +97,20 @@ The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDa
 
 ---
 
-### 7. Palestinian teen shot and killed in West Bank attack, UN responds
+### 7. Inundated Philippine communities seek answers over flood control funds
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Al Jazeera’s Jamela Alindogan reports from Northern Philippines where inundated communities are demanding answers.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/22/inundated-philippine-communities-seek-answers-over-flood-control-funds?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/22/inundated-philippine-communities-seek-answers-over-flood-control-funds?traffic_source=rss)
+
+---
+
+### 8. Palestinian teen shot and killed in West Bank attack, UN responds
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ A 17-year-old Palestinian was killed and another person critically injured in a 
 
 ---
 
-### 8. Nigeria and the Sahel: A growing security divide
+### 9. Nigeria and the Sahel: A growing security divide
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ A 17-year-old Palestinian was killed and another person critically injured in a 
 A widening diplomatic rift is complicating efforts to confront a shared cross-border security threat.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/nigeria-and-the-sahel-a-growing-security-divide?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/nigeria-and-the-sahel-a-growing-security-divide?traffic_source=rss)
-
----
-
-### 9. At least 13 Tunisians missing as migrant boat headed for Italy capsizes
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Thousands of people have died since 2014 trying to cross the Mediterranean Sea and reach Europe.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/at-least-13-tunisians-missing-as-migrant-boat-headed-for-italy-capsizes?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/at-least-13-tunisians-missing-as-migrant-boat-headed-for-italy-capsizes?traffic_source=rss)
 
 ---
 

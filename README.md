@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-22 08:05:28
+**Last Update:** 2026-08-22 08:26:08
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.history.com/articles/early-human-ancestors-diet-sugar-carbs">https://www.history.com/articles/early-human-ancestors-diet-sugar-carbs</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49396086">https://news.ycombinator.com/item?id=49396086</a></p>
-<p>Points: 14</p>
-<p># Comments: 24</p>
+<p>Points: 17</p>
+<p># Comments: 26</p>
 
 🔗 **Read more:** [https://www.history.com/articles/early-human-ancestors-diet-sugar-carbs](https://www.history.com/articles/early-human-ancestors-diet-sugar-carbs)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://danluu.com/perf-opt/">https://danluu.com/perf-opt/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49395628">https://news.ycombinator.com/item?id=49395628</a></p>
-<p>Points: 171</p>
-<p># Comments: 139</p>
+<p>Points: 182</p>
+<p># Comments: 144</p>
 
 🔗 **Read more:** [https://danluu.com/perf-opt/](https://danluu.com/perf-opt/)
 
@@ -51,7 +51,7 @@
 **Description:**
 <p>Article URL: <a href="https://grapheneos.social/@GrapheneOS/117136278553665985">https://grapheneos.social/@GrapheneOS/117136278553665985</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49395605">https://news.ycombinator.com/item?id=49395605</a></p>
-<p>Points: 40</p>
+<p>Points: 43</p>
 <p># Comments: 14</p>
 
 🔗 **Read more:** [https://grapheneos.social/@GrapheneOS/117136278553665985](https://grapheneos.social/@GrapheneOS/117136278553665985)
@@ -97,42 +97,42 @@ The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDa
 
 ---
 
-### 7. US judge strikes down Trump immigrant visa ban affecting 75 countries
+### 7. Palestinian teen shot and killed in West Bank attack, UN responds
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A federal judge in Manhattan ruled against the State Department&#039;s suspension of immigrant visas.
+A 17-year-old Palestinian was killed and another person critically injured in a settler attack in the occupied West Bank
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/us-judge-strikes-down-trump-immigrant-visa-ban-affecting-75-countries?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/us-judge-strikes-down-trump-immigrant-visa-ban-affecting-75-countries?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/22/palestinian-teen-shot-and-killed-in-west-bank-attack-un-responds?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/22/palestinian-teen-shot-and-killed-in-west-bank-attack-un-responds?traffic_source=rss)
 
 ---
 
-### 8. Peru rescues people trapped by landslides on highway for nearly a week
+### 8. Nigeria and the Sahel: A growing security divide
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Peru rescues people trapped by landslides on highway for nearly a week.
+A widening diplomatic rift is complicating efforts to confront a shared cross-border security threat.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/22/peru-rescues-people-trapped-by-landslides-on-highway-for-nearly-a-week?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/22/peru-rescues-people-trapped-by-landslides-on-highway-for-nearly-a-week?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/nigeria-and-the-sahel-a-growing-security-divide?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/nigeria-and-the-sahel-a-growing-security-divide?traffic_source=rss)
 
 ---
 
-### 9. Palestinian-British girl, 6, dies days after family drowned off UK coast
+### 9. At least 13 Tunisians missing as migrant boat headed for Italy capsizes
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Saja el-Khawas&#039;s death follows that of her mother, father and sister on Tuesday, all of whom drowned.
+Thousands of people have died since 2014 trying to cross the Mediterranean Sea and reach Europe.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/palestinian-british-girl-6-dies-days-after-family-drowned-off-uk-coast?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/palestinian-british-girl-6-dies-days-after-family-drowned-off-uk-coast?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/at-least-13-tunisians-missing-as-migrant-boat-headed-for-italy-capsizes?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/at-least-13-tunisians-missing-as-migrant-boat-headed-for-italy-capsizes?traffic_source=rss)
 
 ---
 

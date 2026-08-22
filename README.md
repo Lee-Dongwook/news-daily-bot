@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-22 20:15:51
+**Last Update:** 2026-08-22 20:53:03
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. ElevenLabs, TwelveLabs, ThirteenLabs
+### 1. Belgian car salesman becomes prince after DNA test proves royal parentage
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://quantumi.sh/public/labs.html">https://quantumi.sh/public/labs.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49400408">https://news.ycombinator.com/item?id=49400408</a></p>
-<p>Points: 67</p>
-<p># Comments: 19</p>
+<p>Article URL: <a href="https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl">https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49401621">https://news.ycombinator.com/item?id=49401621</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://quantumi.sh/public/labs.html](https://quantumi.sh/public/labs.html)
+🔗 **Read more:** [https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl](https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl)
 
 ---
 
-### 2. A Friendly Introduction to Racket
+### 2. Htmx live is cool. Datastar is fast. This cow is raw and strong
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/">https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49399898">https://news.ycombinator.com/item?id=49399898</a></p>
-<p>Points: 40</p>
-<p># Comments: 8</p>
+<p>Article URL: <a href="https://stario.dev/ox">https://stario.dev/ox</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49401567">https://news.ycombinator.com/item?id=49401567</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/](https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/)
+🔗 **Read more:** [https://stario.dev/ox](https://stario.dev/ox)
 
 ---
 
-### 3. The New MCP Roadmap
+### 3. Anthropic IPO filing will show AI backlash as a risk factor, sources say
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.modelcontextprotocol.io/posts/mcp-roadmap/">https://blog.modelcontextprotocol.io/posts/mcp-roadmap/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49399591">https://news.ycombinator.com/item?id=49399591</a></p>
-<p>Points: 91</p>
-<p># Comments: 68</p>
+<p>Article URL: <a href="https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html">https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49401229">https://news.ycombinator.com/item?id=49401229</a></p>
+<p>Points: 19</p>
+<p># Comments: 15</p>
 
-🔗 **Read more:** [https://blog.modelcontextprotocol.io/posts/mcp-roadmap/](https://blog.modelcontextprotocol.io/posts/mcp-roadmap/)
+🔗 **Read more:** [https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html](https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html)
 
 ---
 
@@ -97,7 +97,33 @@ The Passivhaus standard is growing in popularity as UK homeowners adapt to hotte
 
 ---
 
-### 7. Espanyol vs Real Madrid LIVE: La Liga
+### 7. South Korea sending first container ship through Arctic route
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+PanStar Acro, bound for Europe via Arctic, is testing whether a route opened by melting sea ice is commercially viable.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/south-korea-sending-first-container-ship-through-arctic-route?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/south-korea-sending-first-container-ship-through-arctic-route?traffic_source=rss)
+
+---
+
+### 8. Sanctioned by EU, Israeli settler steals and kills Palestinian donkey
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+A donkey belonging to a Palestinian farmer was reportedly stolen and dragged to death by Israeli settlers.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/22/22-08-clip-palestinian-donkey-killed-by-setllers-ps?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/22/22-08-clip-palestinian-donkey-killed-by-setllers-ps?traffic_source=rss)
+
+---
+
+### 9. Espanyol vs Real Madrid LIVE: La Liga
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ The Passivhaus standard is growing in popularity as UK homeowners adapt to hotte
 Follow updates as Jose Mourinho returns to lead Madrid - including the build-up, analysis and live text commentary.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/liveblog/2026/8/22/espanyol-vs-real-madrid-live-la-liga?traffic_source=rss](https://www.aljazeera.com/sports/liveblog/2026/8/22/espanyol-vs-real-madrid-live-la-liga?traffic_source=rss)
-
----
-
-### 8. How is the pro-Israel lobby influencing US elections?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-As the 2026 US midterms approach, millions of dollars are pouring into races involving candidates who challenge Israel.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/22/how-is-the-pro-israel-lobby-influencing-us-midterm-elections?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/22/how-is-the-pro-israel-lobby-influencing-us-midterm-elections?traffic_source=rss)
-
----
-
-### 9. Elche vs Barcelona: La Liga – prediction, team news, lineups
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Barcelona start their season at Elche in La Liga on Sunday but will do so without their new signing, Rodri.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/22/elche-vs-barcelona-la-liga-prediction-team-news-lineups?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/22/elche-vs-barcelona-la-liga-prediction-team-news-lineups?traffic_source=rss)
 
 ---
 

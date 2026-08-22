@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-22 07:31:49
+**Last Update:** 2026-08-22 08:05:28
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.history.com/articles/early-human-ancestors-diet-sugar-carbs">https://www.history.com/articles/early-human-ancestors-diet-sugar-carbs</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49396086">https://news.ycombinator.com/item?id=49396086</a></p>
-<p>Points: 7</p>
-<p># Comments: 1</p>
+<p>Points: 14</p>
+<p># Comments: 24</p>
 
 🔗 **Read more:** [https://www.history.com/articles/early-human-ancestors-diet-sugar-carbs](https://www.history.com/articles/early-human-ancestors-diet-sugar-carbs)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://danluu.com/perf-opt/">https://danluu.com/perf-opt/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49395628">https://news.ycombinator.com/item?id=49395628</a></p>
-<p>Points: 123</p>
-<p># Comments: 120</p>
+<p>Points: 171</p>
+<p># Comments: 139</p>
 
 🔗 **Read more:** [https://danluu.com/perf-opt/](https://danluu.com/perf-opt/)
 
@@ -51,14 +51,27 @@
 **Description:**
 <p>Article URL: <a href="https://grapheneos.social/@GrapheneOS/117136278553665985">https://grapheneos.social/@GrapheneOS/117136278553665985</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49395605">https://news.ycombinator.com/item?id=49395605</a></p>
-<p>Points: 29</p>
-<p># Comments: 9</p>
+<p>Points: 40</p>
+<p># Comments: 14</p>
 
 🔗 **Read more:** [https://grapheneos.social/@GrapheneOS/117136278553665985](https://grapheneos.social/@GrapheneOS/117136278553665985)
 
 ---
 
-### 4. Girl, 6, dies days after Shoreham sea tragedy killed three family members
+### 4. Canada says it will match US tariffs 'dollar for dollar' as trade talks break down
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+New 50% levy on $20bn of Canadian imports comes into force after last minute breakdown in trade talks.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Girl, 6, dies days after Shoreham sea tragedy killed three family members
 
 **Source:** BBC
 
@@ -71,7 +84,7 @@ Saja El-Khawas is the fourth person to die after her family got into difficulty 
 
 ---
 
-### 5. TikTok to pay $400m to US in one of largest child privacy settlements
+### 6. TikTok to pay $400m to US in one of largest child privacy settlements
 
 **Source:** BBC
 
@@ -81,19 +94,6 @@ Saja El-Khawas is the fourth person to die after her family got into difficulty 
 The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected "vast amounts of data" on millions of users under the age of 13.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. More students planning to live at home for university over 'insane' living costs
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Students like Jessica say they worry about missing out on student life, but feel they have no choice but to stay at home.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c70gy180e8lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c70gy180e8lo?at_medium=RSS&at_campaign=rss)
 
 ---
 

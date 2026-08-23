@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-23 19:59:07
+**Last Update:** 2026-08-23 20:17:53
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
@@ -97,7 +97,20 @@ Customers say the disruption to virtually all UK CrossCountry services is the "w
 
 ---
 
-### 7. Can Nigeria cash in on Iran war?
+### 7. French President Macron to host Saudi Crown Prince MBS in Paris for talks
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Energy, regional conflicts, and bilateral cooperation to dominate Emmanuel Macron and Mohammed bin Salman&#039;s discussions.
+
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/23/french-president-macron-to-host-saudi-crown-prince-mbs-in-paris-for-talks?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/23/french-president-macron-to-host-saudi-crown-prince-mbs-in-paris-for-talks?traffic_source=rss)
+
+---
+
+### 8. Can Nigeria cash in on Iran war?
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Ekperikpe Ekpo says the US-Israel war on Iran has pushed Nigeria to expand its g
 
 ---
 
-### 8. Canada, US and tit-for-tat tariffs: How will they impact their economies?
+### 9. Canada, US and tit-for-tat tariffs: How will they impact their economies?
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Ekperikpe Ekpo says the US-Israel war on Iran has pushed Nigeria to expand its g
 Both countries will suffer from the trade war with steeper tariffs raising business costs and consumer prices.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/23/canada-us-and-tit-for-tat-tariffs-how-will-it-impact-their-economies?traffic_source=rss](https://www.aljazeera.com/news/2026/8/23/canada-us-and-tit-for-tat-tariffs-how-will-it-impact-their-economies?traffic_source=rss)
-
----
-
-### 9. Gaza families search for children missing after years of war
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Families in Gaza continue searching for children and relatives missing in the war.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/23/gaza-families-search-for-children-missing-after-years-of-war?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/23/gaza-families-search-for-children-missing-after-years-of-war?traffic_source=rss)
 
 ---
 

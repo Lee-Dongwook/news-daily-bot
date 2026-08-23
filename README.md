@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-23 14:52:53
+**Last Update:** 2026-08-23 15:11:46
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. The Sloppification of Peptides
+### 1. 'AI refuser' quit her dream job, and hopes others follow
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.smh.com.au/technology/this-ai-refuser-quit-her-dream-job-and-hopes-others-follow-20260818-p60pdu.html">https://www.smh.com.au/technology/this-ai-refuser-quit-her-dream-job-and-hopes-others-follow-20260818-p60pdu.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49407785">https://news.ycombinator.com/item?id=49407785</a></p>
+<p>Points: 10</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://www.smh.com.au/technology/this-ai-refuser-quit-her-dream-job-and-hopes-others-follow-20260818-p60pdu.html](https://www.smh.com.au/technology/this-ai-refuser-quit-her-dream-job-and-hopes-others-follow-20260818-p60pdu.html)
+
+---
+
+### 2. The Sloppification of Peptides
 
 **Source:** Hacker News
 
@@ -19,42 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://henryaj.substack.com/p/the-sloppification-of-peptides">https://henryaj.substack.com/p/the-sloppification-of-peptides</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49407341">https://news.ycombinator.com/item?id=49407341</a></p>
-<p>Points: 29</p>
-<p># Comments: 0</p>
+<p>Points: 35</p>
+<p># Comments: 7</p>
 
 🔗 **Read more:** [https://henryaj.substack.com/p/the-sloppification-of-peptides](https://henryaj.substack.com/p/the-sloppification-of-peptides)
 
 ---
 
-### 2. Doomscrolling at work wastes time, but the real cost is what happens after
+### 3. Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://stories.tamu.edu/news/2026/08/13/doomscrolling-at-work-wastes-time-but-the-real-cost-is-what-happens-after/">https://stories.tamu.edu/news/2026/08/13/doomscrolling-at-work-wastes-time-but-the-real-cost-is-what-happens-after/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49407305">https://news.ycombinator.com/item?id=49407305</a></p>
-<p>Points: 15</p>
-<p># Comments: 8</p>
+<p>Article URL: <a href="https://skylens.yantraai.app/">https://skylens.yantraai.app/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49407309">https://news.ycombinator.com/item?id=49407309</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://stories.tamu.edu/news/2026/08/13/doomscrolling-at-work-wastes-time-but-the-real-cost-is-what-happens-after/](https://stories.tamu.edu/news/2026/08/13/doomscrolling-at-work-wastes-time-but-the-real-cost-is-what-happens-after/)
-
----
-
-### 3. Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/">https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49406539">https://news.ycombinator.com/item?id=49406539</a></p>
-<p>Points: 119</p>
-<p># Comments: 90</p>
-
-🔗 **Read more:** [https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/](https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/)
+🔗 **Read more:** [https://skylens.yantraai.app/](https://skylens.yantraai.app/)
 
 ---
 

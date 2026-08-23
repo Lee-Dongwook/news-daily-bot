@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-23 16:15:35
+**Last Update:** 2026-08-23 16:37:46
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
@@ -19,14 +19,30 @@
 **Description:**
 <p>Article URL: <a href="https://www.bbc.com/news/articles/cvg92y1wzn8o">https://www.bbc.com/news/articles/cvg92y1wzn8o</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49407576">https://news.ycombinator.com/item?id=49407576</a></p>
-<p>Points: 20</p>
-<p># Comments: 5</p>
+<p>Points: 44</p>
+<p># Comments: 21</p>
 
 🔗 **Read more:** [https://www.bbc.com/news/articles/cvg92y1wzn8o](https://www.bbc.com/news/articles/cvg92y1wzn8o)
 
 ---
 
-### 2. I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes
+### 2. Iranian hackers shut down UK power plant for 4 days
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/">https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49407509">https://news.ycombinator.com/item?id=49407509</a></p>
+<p>Points: 16</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/](https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/)
+
+---
+
+### 3. I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/">https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49407507">https://news.ycombinator.com/item?id=49407507</a></p>
-<p>Points: 51</p>
-<p># Comments: 14</p>
+<p>Points: 81</p>
+<p># Comments: 31</p>
 
 🔗 **Read more:** [https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/](https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/)
-
----
-
-### 3. The Sloppification of Peptides
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://henryaj.substack.com/p/the-sloppification-of-peptides">https://henryaj.substack.com/p/the-sloppification-of-peptides</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49407341">https://news.ycombinator.com/item?id=49407341</a></p>
-<p>Points: 47</p>
-<p># Comments: 17</p>
-
-🔗 **Read more:** [https://henryaj.substack.com/p/the-sloppification-of-peptides](https://henryaj.substack.com/p/the-sloppification-of-peptides)
 
 ---
 
@@ -84,20 +84,33 @@ Housing minister Matthew Pennycook said the change was "essential" for helping m
 
 ---
 
-### 6. Zelensky has 'questions to answer' about corruption in his government, sacked minister tells BBC
+### 6. Zelensky should be asked what he knew about government corruption, sacked minister tells BBC
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The sacked former defence minister has also called for elections to be held in Ukraine.
+The former defence minister has also called for wartime elections to be held in Ukraine.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. DR Congo miners risk Ebola to make a living
+### 7. Zelenskyy says wartime elections could ‘destroy’ Ukraine
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The embattled Ukrainian president slams Mykhailo Fedorov&#039;s idea as a &#039;tsunami&#039; that would &#039;split&#039; the country.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/23/zelenskyy-says-wartime-elections-could-destroy-ukraine?traffic_source=rss](https://www.aljazeera.com/news/2026/8/23/zelenskyy-says-wartime-elections-could-destroy-ukraine?traffic_source=rss)
+
+---
+
+### 8. DR Congo miners risk Ebola to make a living
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ DR Congo miners risk Ebola to make a living
 
 ---
 
-### 8. Real Madrid’s Mourinho condemns bullying of Vinicius after La Liga win
+### 9. Real Madrid’s Mourinho condemns bullying of Vinicius after La Liga win
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ DR Congo miners risk Ebola to make a living
 Real Madrid coach Jose Mourinho has criticised the bullying of Vinicius Junior by opponents and fans.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/23/real-madrids-mourinho-condemns-bullying-of-vinicius-after-la-liga-win?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/23/real-madrids-mourinho-condemns-bullying-of-vinicius-after-la-liga-win?traffic_source=rss)
-
----
-
-### 9. US Senate nominee Abdul El-Sayed rebuts criticism from JD Vance
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-El-Sayed has hit back at JD Vance, saying his identity and religion aren’t causing the Trump administration’s problems.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/23/us-senate-nominee-abdul-el-sayed-rebuts-criticism-from-jd-vance?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/23/us-senate-nominee-abdul-el-sayed-rebuts-criticism-from-jd-vance?traffic_source=rss)
 
 ---
 

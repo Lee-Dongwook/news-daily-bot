@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-23 18:55:16
+**Last Update:** 2026-08-23 19:13:12
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/">https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49409200">https://news.ycombinator.com/item?id=49409200</a></p>
-<p>Points: 15</p>
-<p># Comments: 1</p>
+<p>Points: 21</p>
+<p># Comments: 2</p>
 
 🔗 **Read more:** [https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/](https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/">https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49409184">https://news.ycombinator.com/item?id=49409184</a></p>
-<p>Points: 4</p>
-<p># Comments: 2</p>
+<p>Points: 5</p>
+<p># Comments: 3</p>
 
 🔗 **Read more:** [https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/](https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://earendil.com/posts/what-is-a-harness/">https://earendil.com/posts/what-is-a-harness/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49409092">https://news.ycombinator.com/item?id=49409092</a></p>
-<p>Points: 19</p>
-<p># Comments: 6</p>
+<p>Points: 27</p>
+<p># Comments: 15</p>
 
 🔗 **Read more:** [https://earendil.com/posts/what-is-a-harness/](https://earendil.com/posts/what-is-a-harness/)
 

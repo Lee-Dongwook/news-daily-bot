@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-24 00:14:51
+**Last Update:** 2026-08-24 00:54:13
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
@@ -58,14 +58,14 @@
 
 ---
 
-### 4. 'Pain of losing him is beyond words': Families of two police officers killed in crash pay tribute
+### 4. Families of two police officers killed in crash say they were heroes
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Tom Clough and Matthew Blades died along with five others when a car crashed into their vehicle.
+PC Matthew Blades and PC Tom Clough died after a car, whose five occupants were also killed, collided with their vehicle.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c4gvgy3de37o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c4gvgy3de37o?at_medium=RSS&at_campaign=rss)
 

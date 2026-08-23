@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-23 17:56:26
+**Last Update:** 2026-08-23 18:15:49
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, Al Jazeera, BBC
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/">https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49408889">https://news.ycombinator.com/item?id=49408889</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Points: 13</p>
+<p># Comments: 2</p>
 
 🔗 **Read more:** [https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/](https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes">https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49408858">https://news.ycombinator.com/item?id=49408858</a></p>
-<p>Points: 7</p>
-<p># Comments: 0</p>
+<p>Points: 19</p>
+<p># Comments: 1</p>
 
 🔗 **Read more:** [https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes](https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://securelist.com/android-head-unit-malware/121106/">https://securelist.com/android-head-unit-malware/121106/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49408550">https://news.ycombinator.com/item?id=49408550</a></p>
-<p>Points: 66</p>
-<p># Comments: 19</p>
+<p>Points: 74</p>
+<p># Comments: 25</p>
 
 🔗 **Read more:** [https://securelist.com/android-head-unit-malware/121106/](https://securelist.com/android-head-unit-malware/121106/)
 
@@ -97,7 +97,20 @@ Mykhailo Fedorov has also called for wartime elections to be held in Ukraine.
 
 ---
 
-### 7. Nordic nations ‘have lost confidence in Infantino’, demand FIFA reforms
+### 7. PM Tarique Rahman’s trip stalled: What it means for Bangladesh-India ties
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+India and Bangladesh have not been able to move past the contentious question of Sheikh Hasina, living in New Delhi.
+
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/23/pm-tarique-rahmans-trip-stalled-what-it-means-for-bangladesh-india-ties?traffic_source=rss](https://www.aljazeera.com/features/2026/8/23/pm-tarique-rahmans-trip-stalled-what-it-means-for-bangladesh-india-ties?traffic_source=rss)
+
+---
+
+### 8. Nordic nations ‘have lost confidence in Infantino’, demand FIFA reforms
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Denmark, Finland, Iceland, Norway, Sweden and the Faroe Islands back calls for I
 
 ---
 
-### 8. The Suez Crisis stopped the British Empire. Will Hormuz defeat the US?
+### 9. The Suez Crisis stopped the British Empire. Will Hormuz defeat the US?
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Denmark, Finland, Iceland, Norway, Sweden and the Faroe Islands back calls for I
 In the latest episode of Al Jazeera’s new podcast, Deja Vu looks at how oil, shipping and war shape the Gulf.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/deja-vu-2/2026/8/23/the-suez-crisis-stopped-the-british-empire-will-hormuz-defeat-the-us?traffic_source=rss](https://www.aljazeera.com/video/deja-vu-2/2026/8/23/the-suez-crisis-stopped-the-british-empire-will-hormuz-defeat-the-us?traffic_source=rss)
-
----
-
-### 9. Chelsea preview: Five key talking points for 2026-27 Premier League season
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Chelsea have had their worst Premier League run in 30 years. Can new manager Xabi Alonso succeed and is Cole Palmer key?
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/23/chelsea-preview-five-key-talking-points-for-2026-27-premier-league-season?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/23/chelsea-preview-five-key-talking-points-for-2026-27-premier-league-season?traffic_source=rss)
 
 ---
 

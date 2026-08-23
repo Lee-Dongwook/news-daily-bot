@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-24 00:54:13
+**Last Update:** 2026-08-24 01:11:50
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
@@ -97,42 +97,42 @@ CrossCountry says its "key priority" is now restoring as close to a normal servi
 
 ---
 
-### 7. Is Israel about to split the occupied West Bank in half?
+### 7. Will Donald Trump’s new sanctions against Iran work?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israel is moving forward with its ‘E1’ plan. What is it and why could it threaten the future of a Palestinian state?
+The US president says he will impose &#039;crushing measures&#039; on Tehran.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/23/occupied-west-bank-division-ps?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/23/occupied-west-bank-division-ps?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/8/23/will-donald-trumps-new-sanctions-against-iran-work?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/8/23/will-donald-trumps-new-sanctions-against-iran-work?traffic_source=rss)
 
 ---
 
-### 8. Severe winds toss four aircraft across Italian airport tarmac
+### 8. Serbia requests international assistance to battle wildfires
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Winds reaching around 120 km/h swept through Forlì in Italy’s Emilia-Romagna region, overturning four light aircraft.
+Serbia requested assistance from the European Union and Russia to help bring intense wildfires under control.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/23/severe-winds-toss-four-aircraft-across-italian-airport-tarmac?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/23/severe-winds-toss-four-aircraft-across-italian-airport-tarmac?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/23/serbia-requests-international-assistance-to-battle-wildfires?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/23/serbia-requests-international-assistance-to-battle-wildfires?traffic_source=rss)
 
 ---
 
-### 9. Photos: IndyCars speed past Washington landmarks as part of Freedom 250
+### 9. US envoy Tom Barrack retracts comment that Syria’s Golan is occupied
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Race cars take over central Washington, DC, as the Trump-created Freedom 250 Grand Prix debuts.
+Ambassador to Turkiye says US policy of recognising Israel&#039;s claimed sovereignty over Syrian territory is &#039;unchanged&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/8/23/photos-indycars-speed-past-washington-landmarks-ahead-of-freedom-250?traffic_source=rss](https://www.aljazeera.com/gallery/2026/8/23/photos-indycars-speed-past-washington-landmarks-ahead-of-freedom-250?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/23/us-envoy-tom-barrack-retracts-comment-that-syrias-golan-is-occupied?traffic_source=rss](https://www.aljazeera.com/news/2026/8/23/us-envoy-tom-barrack-retracts-comment-that-syrias-golan-is-occupied?traffic_source=rss)
 
 ---
 

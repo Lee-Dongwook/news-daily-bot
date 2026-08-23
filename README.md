@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-23 12:03:22
+**Last Update:** 2026-08-23 12:24:38
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/">https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49406539">https://news.ycombinator.com/item?id=49406539</a></p>
-<p>Points: 74</p>
-<p># Comments: 52</p>
+<p>Points: 83</p>
+<p># Comments: 66</p>
 
 🔗 **Read more:** [https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/](https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://malisper.me/jit-compiling-code-in-5-us/">https://malisper.me/jit-compiling-code-in-5-us/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49406387">https://news.ycombinator.com/item?id=49406387</a></p>
-<p>Points: 44</p>
-<p># Comments: 5</p>
+<p>Points: 49</p>
+<p># Comments: 8</p>
 
 🔗 **Read more:** [https://malisper.me/jit-compiling-code-in-5-us/](https://malisper.me/jit-compiling-code-in-5-us/)
 
@@ -51,27 +51,14 @@
 **Description:**
 <p>Article URL: <a href="http://www.os2museum.com/wp/the-end-of-an-athlon/">http://www.os2museum.com/wp/the-end-of-an-athlon/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49406333">https://news.ycombinator.com/item?id=49406333</a></p>
-<p>Points: 63</p>
-<p># Comments: 13</p>
+<p>Points: 69</p>
+<p># Comments: 16</p>
 
 🔗 **Read more:** [http://www.os2museum.com/wp/the-end-of-an-athlon/](http://www.os2museum.com/wp/the-end-of-an-athlon/)
 
 ---
 
-### 4. Mayors to get powers to overrule local councils on planning decisions
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Housing minister Matthew Pennycook said the change was "essential" for helping mayors "effectively deliver new homes".
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cy8m0gxexl4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cy8m0gxexl4o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Trump says Canada wants 'benefits' of being US state after trade talks collapse
+### 4. Trump says Canada wants 'benefits' of being US state after trade talks collapse
 
 **Source:** BBC
 
@@ -84,55 +71,68 @@ Canada's PM said he was "reluctantly" announcing retaliatory tariffs and accused
 
 ---
 
-### 6. Plan to restrict serious offenders to certain areas to start in October
+### 5. Mayors to get powers to overrule local councils on planning decisions
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Serious violent and sexual offenders may be confined to areas of just a few miles after leaving prison on probation.
+Housing minister Matthew Pennycook said the change was "essential" for helping mayors "effectively deliver new homes".
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cy8e8jx0x5wo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cy8e8jx0x5wo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cy8m0gxexl4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cy8m0gxexl4o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. DR Congo, M23 rebels agree on roadmap for peace talks
+### 6. Zelensky has 'questions to answer' about corruption in his government, sacked minister tells BBC
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The sacked former defence minister has also called for elections to be held in Ukraine.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 7. Flooding across Caracas, Venezuela, after heavy rains
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Roadmap follows a week of talks in Switzerland aimed at making progress on a framework agreement they signed last year.
+Flooding across Caracas, Venezuela, after heavy rains
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/23/flooding-across-caracas-venezuela-after-heavy-rains?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/23/flooding-across-caracas-venezuela-after-heavy-rains?traffic_source=rss)
+
+---
+
+### 8. Photos: Russia celebrates National Flag Day amid war and tensions with the West
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Participants in St Petersburg honour Russia’s tricolour with patriotic events and ribbon distributions across the city.
+
+🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/8/23/photos-russia-celebrates-national-flag-day-amid-war-and-tensions-with-the-west?traffic_source=rss](https://www.aljazeera.com/gallery/2026/8/23/photos-russia-celebrates-national-flag-day-amid-war-and-tensions-with-the-west?traffic_source=rss)
+
+---
+
+### 9. DR Congo, M23 rebels agree on roadmap for peace talks
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Roadmap sets out steps, timelines for talks to end fighting that has killed thousands and displaced millions.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/23/dr-congo-m23-rebels-agree-on-roadmap-for-peace-talks?traffic_source=rss](https://www.aljazeera.com/news/2026/8/23/dr-congo-m23-rebels-agree-on-roadmap-for-peace-talks?traffic_source=rss)
-
----
-
-### 8. Kazakhstan holds parliamentary election expected to cement president’s grip
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Only state-approved parties loyal to President Tokayev permitted to take part amid a sweeping constitutional overhaul.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/23/kazakhstan-holds-parliamentary-election-expected-to-cement-presidents-grip?traffic_source=rss](https://www.aljazeera.com/news/2026/8/23/kazakhstan-holds-parliamentary-election-expected-to-cement-presidents-grip?traffic_source=rss)
-
----
-
-### 9. Infantino defies FIFA vice president, makes appearance in the Caribbean
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-FIFA boss turns up at event after CONCACAF chief Montagliani asked him to reconsider amid the body’s governance crisis.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/23/infantino-defies-fifa-makes-rare-appearance-at-youth-event-amid-furor?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/23/infantino-defies-fifa-makes-rare-appearance-at-youth-event-amid-furor?traffic_source=rss)
 
 ---
 

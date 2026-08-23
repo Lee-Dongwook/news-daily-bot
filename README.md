@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-23 19:13:12
+**Last Update:** 2026-08-23 19:59:07
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
@@ -97,42 +97,42 @@ Customers say the disruption to virtually all UK CrossCountry services is the "w
 
 ---
 
-### 7. PM Tarique Rahman’s trip stalled: What it means for Bangladesh-India ties
+### 7. Can Nigeria cash in on Iran war?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-India and Bangladesh have not been able to move past the contentious question of Sheikh Hasina, living in New Delhi.
+Ekperikpe Ekpo says the US-Israel war on Iran has pushed Nigeria to expand its gas production.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/23/pm-tarique-rahmans-trip-stalled-what-it-means-for-bangladesh-india-ties?traffic_source=rss](https://www.aljazeera.com/features/2026/8/23/pm-tarique-rahmans-trip-stalled-what-it-means-for-bangladesh-india-ties?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/23/can-nigeria-cash-in-on-iran-war?traffic_source=rss](https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/23/can-nigeria-cash-in-on-iran-war?traffic_source=rss)
 
 ---
 
-### 8. Nordic nations ‘have lost confidence in Infantino’, demand FIFA reforms
+### 8. Canada, US and tit-for-tat tariffs: How will they impact their economies?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Denmark, Finland, Iceland, Norway, Sweden and the Faroe Islands back calls for Infantino&#039;s resignation amid FIFA crisis.
+Both countries will suffer from the trade war with steeper tariffs raising business costs and consumer prices.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/23/nordic-nations-have-lost-confidence-in-infantino-demand-fifa-reforms?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/23/nordic-nations-have-lost-confidence-in-infantino-demand-fifa-reforms?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/23/canada-us-and-tit-for-tat-tariffs-how-will-it-impact-their-economies?traffic_source=rss](https://www.aljazeera.com/news/2026/8/23/canada-us-and-tit-for-tat-tariffs-how-will-it-impact-their-economies?traffic_source=rss)
 
 ---
 
-### 9. The Suez Crisis stopped the British Empire. Will Hormuz defeat the US?
+### 9. Gaza families search for children missing after years of war
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-In the latest episode of Al Jazeera’s new podcast, Deja Vu looks at how oil, shipping and war shape the Gulf.
+Families in Gaza continue searching for children and relatives missing in the war.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/deja-vu-2/2026/8/23/the-suez-crisis-stopped-the-british-empire-will-hormuz-defeat-the-us?traffic_source=rss](https://www.aljazeera.com/video/deja-vu-2/2026/8/23/the-suez-crisis-stopped-the-british-empire-will-hormuz-defeat-the-us?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/23/gaza-families-search-for-children-missing-after-years-of-war?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/23/gaza-families-search-for-children-missing-after-years-of-war?traffic_source=rss)
 
 ---
 

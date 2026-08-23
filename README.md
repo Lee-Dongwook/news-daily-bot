@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-23 22:03:18
+**Last Update:** 2026-08-23 22:23:46
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
@@ -97,7 +97,20 @@ Canada's PM said he was "reluctantly" announcing retaliatory tariffs and accused
 
 ---
 
-### 7. Trump has ‘run out of options’ in Iran war: Stephen Walt
+### 7. Video: Thousands of families flee fighting in Sudan’s North Kordofan State
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Mothers and their children are in dire need of food and safety in Sudan’s conflict-stricken Kordofan State.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/23/video-thousands-of-families-flee-fighting-in-sudans-north-kordofan-state?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/23/video-thousands-of-families-flee-fighting-in-sudans-north-kordofan-state?traffic_source=rss)
+
+---
+
+### 8. Trump has ‘run out of options’ in Iran war: Stephen Walt
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Political scientist Stephen Walt says Trump promised to make US stronger, but ma
 
 ---
 
-### 8. Tunisia sees protests after migrant boat sinking kills eight
+### 9. Tunisia sees protests after migrant boat sinking kills eight
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Political scientist Stephen Walt says Trump promised to make US stronger, but ma
 A migrant boat carrying 15 Tunisians sank off the country&#039;s southeastern coast while heading to Italy, killing eight.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/23/tunisia-sees-protests-after-migrant-boat-sinking-kills-eight?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/23/tunisia-sees-protests-after-migrant-boat-sinking-kills-eight?traffic_source=rss)
-
----
-
-### 9. Thousands displaced as wildfire threatens homes in US state of Nevada
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-A state of emergency is declared in the US state of Nevada as rampant wildfire spurs evacuations.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/23/thousands-displaced-as-wildfire-threatens-homes-in-us-state-of-nevada?traffic_source=rss](https://www.aljazeera.com/news/2026/8/23/thousands-displaced-as-wildfire-threatens-homes-in-us-state-of-nevada?traffic_source=rss)
 
 ---
 

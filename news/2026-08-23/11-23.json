@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-08-23T11:23:26+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Police officers killed in wrong-way crash mourned in 'unimaginable loss'",
+            "description": "PC Matthew Blades, PC Tom Clough and five young people were killed when a car drove the wrong way on the A66 and struck the police vehicle.",
+            "url": "https://www.bbc.co.uk/news/articles/cdj0j8enpzyo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 23 Aug 2026 07:24:25 GMT",
+            "fetched": "2026-08-23T11:23:26+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Mayors to get powers to overrule local councils on planning decisions",
+            "description": "Housing minister Matthew Pennycook said the change was \"essential\" for helping mayors \"effectively deliver new homes\".",
+            "url": "https://www.bbc.co.uk/news/articles/cy8m0gxexl4o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 23 Aug 2026 03:10:51 GMT",
+            "fetched": "2026-08-23T11:23:26+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
+            "description": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
+            "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 23 Aug 2026 05:46:43 GMT",
+            "fetched": "2026-08-23T11:23:26+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Infantino defies FIFA vice president, makes appearance in the Caribbean",
+            "description": "FIFA boss turns up at event after CONCACAF chief Montagliani asked him to reconsider amid the body’s governance crisis.",
+            "url": "https://www.aljazeera.com/sports/2026/8/23/infantino-defies-fifa-makes-rare-appearance-at-youth-event-amid-furor?traffic_source=rss",
+            "published": "Sun, 23 Aug 2026 07:22:37 +0000",
+            "fetched": "2026-08-23T11:23:26+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Serena Williams teams up with Carlos Alcaraz in US Open mixed doubles",
+            "description": "The 23-time Grand Slam champion will not be playing singles, but could team up with her older sister Venus for doubles.",
+            "url": "https://www.aljazeera.com/sports/2026/8/23/serena-williams-teams-up-with-carlos-alcaraz-in-us-open-mixed-doubles?traffic_source=rss",
+            "published": "Sun, 23 Aug 2026 06:59:51 +0000",
+            "fetched": "2026-08-23T11:23:26+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Starc takes 10 as Australia hand Bangladesh innings defeat in second Test",
+            "description": "Australia bounce back after losing first Test, bowling out the visitors for 64 and 95 to win by an innings and 51 runs.",
+            "url": "https://www.aljazeera.com/sports/2026/8/23/starc-takes-10-as-australia-hand-bangladesh-innings-defeat-in-second-test?traffic_source=rss",
+            "published": "Sun, 23 Aug 2026 06:48:34 +0000",
+            "fetched": "2026-08-23T11:23:26+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire RX Tom Green 7105, Tom Green, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22927",
+            "published": "2026-08-20T09:26:00Z",
+            "fetched": "2026-08-23T11:23:26+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Windmill, Stillwater, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22931",
+            "published": "2026-08-19T18:05:00Z",
+            "fetched": "2026-08-23T11:23:26+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire North Heglar, Cassia, Idaho",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22929",
+            "published": "2026-08-19T17:25:00Z",
+            "fetched": "2026-08-23T11:23:26+03:30"
+        }
+    ]
+}

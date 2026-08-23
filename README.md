@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-23 05:05:44
+**Last Update:** 2026-08-23 05:37:17
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. US Military newspaper editor voices censorship fears after being fired
+### 1. Software Engineering in the Agentic Era
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns/">https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49405117">https://news.ycombinator.com/item?id=49405117</a></p>
+<p>Points: 8</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns/](https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns/)
+
+---
+
+### 2. US Military newspaper editor voices censorship fears after being fired
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.bbc.com/news/articles/cm2g23ng8p4o">https://www.bbc.com/news/articles/cm2g23ng8p4o</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49405110">https://news.ycombinator.com/item?id=49405110</a></p>
-<p>Points: 18</p>
-<p># Comments: 3</p>
+<p>Points: 40</p>
+<p># Comments: 14</p>
 
 🔗 **Read more:** [https://www.bbc.com/news/articles/cm2g23ng8p4o](https://www.bbc.com/news/articles/cm2g23ng8p4o)
 
 ---
 
-### 2. NanoGPT Speedrun Frontier
+### 3. NanoGPT Speedrun Frontier
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.primeintellect.ai/research/nanogpt-speedrun">https://www.primeintellect.ai/research/nanogpt-speedrun</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49404380">https://news.ycombinator.com/item?id=49404380</a></p>
-<p>Points: 44</p>
-<p># Comments: 12</p>
+<p>Points: 45</p>
+<p># Comments: 13</p>
 
 🔗 **Read more:** [https://www.primeintellect.ai/research/nanogpt-speedrun](https://www.primeintellect.ai/research/nanogpt-speedrun)
-
----
-
-### 3. NetBSD and my life (2005)
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html">https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49402781">https://news.ycombinator.com/item?id=49402781</a></p>
-<p>Points: 94</p>
-<p># Comments: 24</p>
-
-🔗 **Read more:** [https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html](https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html)
 
 ---
 

@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-23 05:37:17
+**Last Update:** 2026-08-23 06:35:10
 
 **Total News:** 12
 
@@ -10,39 +10,7 @@
 
 ## 📰 Latest News
 
-### 1. Software Engineering in the Agentic Era
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns/">https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49405117">https://news.ycombinator.com/item?id=49405117</a></p>
-<p>Points: 8</p>
-<p># Comments: 4</p>
-
-🔗 **Read more:** [https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns/](https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns/)
-
----
-
-### 2. US Military newspaper editor voices censorship fears after being fired
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.bbc.com/news/articles/cm2g23ng8p4o">https://www.bbc.com/news/articles/cm2g23ng8p4o</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49405110">https://news.ycombinator.com/item?id=49405110</a></p>
-<p>Points: 40</p>
-<p># Comments: 14</p>
-
-🔗 **Read more:** [https://www.bbc.com/news/articles/cm2g23ng8p4o](https://www.bbc.com/news/articles/cm2g23ng8p4o)
-
----
-
-### 3. NanoGPT Speedrun Frontier
+### 1. NanoGPT Speedrun Frontier
 
 **Source:** Hacker News
 
@@ -51,10 +19,42 @@
 **Description:**
 <p>Article URL: <a href="https://www.primeintellect.ai/research/nanogpt-speedrun">https://www.primeintellect.ai/research/nanogpt-speedrun</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49404380">https://news.ycombinator.com/item?id=49404380</a></p>
-<p>Points: 45</p>
-<p># Comments: 13</p>
+<p>Points: 54</p>
+<p># Comments: 18</p>
 
 🔗 **Read more:** [https://www.primeintellect.ai/research/nanogpt-speedrun](https://www.primeintellect.ai/research/nanogpt-speedrun)
+
+---
+
+### 2. NetBSD and my life (2005)
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html">https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49402781">https://news.ycombinator.com/item?id=49402781</a></p>
+<p>Points: 101</p>
+<p># Comments: 25</p>
+
+🔗 **Read more:** [https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html](https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html)
+
+---
+
+### 3. hdiutil is deprecated in macOS 27 Golden Gate
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://lapcatsoftware.com/articles/2026/8/7.html">https://lapcatsoftware.com/articles/2026/8/7.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49402741">https://news.ycombinator.com/item?id=49402741</a></p>
+<p>Points: 168</p>
+<p># Comments: 70</p>
+
+🔗 **Read more:** [https://lapcatsoftware.com/articles/2026/8/7.html](https://lapcatsoftware.com/articles/2026/8/7.html)
 
 ---
 
@@ -97,7 +97,33 @@ Industry body Energy UK says the current support for households most in need doe
 
 ---
 
-### 7. Iran war live: Tehran warns neighbours against joining US economic war
+### 7. Canada to hit US with retaliatory tariffs as trade war escalates
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Mark Carney says Canada will impose tariffs starting September 8 on imports of US steel, electronics and other products.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/23/canada-to-hit-us-with-retaliatory-tariffs-as-trade-war-escalates?traffic_source=rss](https://www.aljazeera.com/news/2026/8/23/canada-to-hit-us-with-retaliatory-tariffs-as-trade-war-escalates?traffic_source=rss)
+
+---
+
+### 8. Thousands flee Sudan’s Kordofan fighting for relative safety of El Obeid
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Thousands flee Sudan’s Kordofan fighting for relative safety of El Obeid.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/23/thousands-flee-sudans-kordofan-fighting-for-relative-safety-of-el-obeid?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/23/thousands-flee-sudans-kordofan-fighting-for-relative-safety-of-el-obeid?traffic_source=rss)
+
+---
+
+### 9. Iran war live: Tehran warns neighbours against joining US economic war
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Industry body Energy UK says the current support for households most in need doe
 Official says any state joining US would be considered an enemy and Tehran would target their interests in retaliation.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/8/23/iran-war-live-tehran-warns-neighbours-against-joining-us-economic-war?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/8/23/iran-war-live-tehran-warns-neighbours-against-joining-us-economic-war?traffic_source=rss)
-
----
-
-### 8. Iran threatens countries that join US ‘economic D-Day’
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Iran warns that countries joining the US economic war against Iran will face ‘tit-for-tat’ action.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/22/iran-threatens-countries-that-join-us-economic-d?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/22/iran-threatens-countries-that-join-us-economic-d?traffic_source=rss)
-
----
-
-### 9. Iran warns nearby nations against joining US ‘economic war’ efforts
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The warning comes as US President Donald Trump threatens to isolate Iran economically to weaken its government.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/iran-warns-nearby-nations-against-joining-us-economic-war-efforts?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/iran-warns-nearby-nations-against-joining-us-economic-war-efforts?traffic_source=rss)
 
 ---
 

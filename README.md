@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-23 08:10:02
+**Last Update:** 2026-08-23 08:28:28
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. MartyPC is a cross-platform emulator of early PCs written in Rust
+### 1. Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://martypc.net/">https://martypc.net/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49405816">https://news.ycombinator.com/item?id=49405816</a></p>
+<p>Article URL: <a href="https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html">https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49406069">https://news.ycombinator.com/item?id=49406069</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html](https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html)
+
+---
+
+### 2. The Covid-19 scandal is still unfolding
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.economist.com/united-states/2026/08/20/the-real-covid-19-scandal-is-still-unfolding">https://www.economist.com/united-states/2026/08/20/the-real-covid-19-scandal-is-still-unfolding</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49406021">https://news.ycombinator.com/item?id=49406021</a></p>
 <p>Points: 8</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://martypc.net/](https://martypc.net/)
+🔗 **Read more:** [https://www.economist.com/united-states/2026/08/20/the-real-covid-19-scandal-is-still-unfolding](https://www.economist.com/united-states/2026/08/20/the-real-covid-19-scandal-is-still-unfolding)
 
 ---
 
-### 2. I Dream of Quieter Computing
+### 3. Microsoft Blames Windows Gaming Issues on RGB Lighting Devices
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://henry.codes/writing/i-dream-of-quieter-computing/">https://henry.codes/writing/i-dream-of-quieter-computing/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49405682">https://news.ycombinator.com/item?id=49405682</a></p>
-<p>Points: 6</p>
+<p>Article URL: <a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-windows-gaming-issues-on-rgb-lighting-devices/">https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-windows-gaming-issues-on-rgb-lighting-devices/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49405895">https://news.ycombinator.com/item?id=49405895</a></p>
+<p>Points: 8</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://henry.codes/writing/i-dream-of-quieter-computing/](https://henry.codes/writing/i-dream-of-quieter-computing/)
-
----
-
-### 3. The Art and Beauty of Blade Runner
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://nappertime.com/the-art-of-and-beauty-of-blade-runner/">https://nappertime.com/the-art-of-and-beauty-of-blade-runner/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49405331">https://news.ycombinator.com/item?id=49405331</a></p>
-<p>Points: 17</p>
-<p># Comments: 5</p>
-
-🔗 **Read more:** [https://nappertime.com/the-art-of-and-beauty-of-blade-runner/](https://nappertime.com/the-art-of-and-beauty-of-blade-runner/)
+🔗 **Read more:** [https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-windows-gaming-issues-on-rgb-lighting-devices/](https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-windows-gaming-issues-on-rgb-lighting-devices/)
 
 ---
 
@@ -133,45 +133,6 @@ Solar-powered telemedicine is helping rural Chadians overcome distance and limit
 A Chinese humanoid robot ran 100m in 9.39 seconds, beating Usain Bolt’s 9.58 second world record.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/23/chinese-robot-beats-usain-bolts-100m-world-record-at-humanoid-games?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/23/chinese-robot-beats-usain-bolts-100m-world-record-at-humanoid-games?traffic_source=rss)
-
----
-
-### 10. Prescribed Fire RX Tom Green 7105, Tom Green, Texas
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22927](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22927)
-
----
-
-### 11. Wildfire Windmill, Stillwater, Montana
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22931](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22931)
-
----
-
-### 12. Wildfire North Heglar, Cassia, Idaho
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22929](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22929)
 
 ---
 

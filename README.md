@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-23 09:21:45
+**Last Update:** 2026-08-23 10:15:52
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has
+### 1. The End of an Athlon
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="http://www.os2museum.com/wp/the-end-of-an-athlon/">http://www.os2museum.com/wp/the-end-of-an-athlon/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49406333">https://news.ycombinator.com/item?id=49406333</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [http://www.os2museum.com/wp/the-end-of-an-athlon/](http://www.os2museum.com/wp/the-end-of-an-athlon/)
+
+---
+
+### 2. Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html">https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49406069">https://news.ycombinator.com/item?id=49406069</a></p>
-<p>Points: 11</p>
-<p># Comments: 2</p>
+<p>Points: 18</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html](https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html)
 
 ---
 
-### 2. The Golden Rule for Becoming a Better Writer
+### 3. The Golden Rule for Becoming a Better Writer
 
 **Source:** Hacker News
 
@@ -35,30 +51,27 @@
 **Description:**
 <p>Article URL: <a href="https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/">https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49405870">https://news.ycombinator.com/item?id=49405870</a></p>
-<p>Points: 27</p>
-<p># Comments: 7</p>
+<p>Points: 41</p>
+<p># Comments: 17</p>
 
 🔗 **Read more:** [https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/](https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/)
 
 ---
 
-### 3. MartyPC is a cross-platform emulator of early PCs written in Rust
+### 4. Police officers killed in wrong-way crash mourned in 'unimaginable loss'
 
-**Source:** Hacker News
+**Source:** BBC
 
-**Category:** technology
+**Category:** world
 
 **Description:**
-<p>Article URL: <a href="https://martypc.net/">https://martypc.net/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49405816">https://news.ycombinator.com/item?id=49405816</a></p>
-<p>Points: 57</p>
-<p># Comments: 4</p>
+PC Matthew Blades, PC Tom Clough and five young people were killed when a car drove the wrong way on the A66 and struck the police vehicle.
 
-🔗 **Read more:** [https://martypc.net/](https://martypc.net/)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cdj0j8enpzyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cdj0j8enpzyo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. Mayors to get powers to overrule local councils on planning decisions
+### 5. Mayors to get powers to overrule local councils on planning decisions
 
 **Source:** BBC
 
@@ -71,33 +84,46 @@ Housing minister Matthew Pennycook said the change was "essential" for helping m
 
 ---
 
-### 5. Two police officers among seven killed in wrong-way car crash
+### 6. Trump says Canada wants 'benefits' of being US state as Carney says countries in trade war
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-PC Matthew Blades and PC Tom Clough died after a car driving the wrong way down the A66 near Middlesbrough collided with a police vehicle.
+Canada's prime minister said he was "reluctantly" announcing retaliatory tariffs as he accused the US of starting a trade war.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx272ly3g00o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx272ly3g00o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Struggling households need more help with bills, energy industry says
+### 7. Pegula dethrones Swiatek to book Cincinnati final against Gauff
 
-**Source:** BBC
+**Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Industry body Energy UK says the current support for households most in need does not go far enough.
+The women’s all-American final will be followed by a men&#039;s title clash between Frances Tiafoe and Arthur Fils of France.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm2g5x7l4mko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm2g5x7l4mko?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/23/pegula-dethrones-swiatek-to-book-cincinnati-final-against-gauff?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/23/pegula-dethrones-swiatek-to-book-cincinnati-final-against-gauff?traffic_source=rss)
 
 ---
 
-### 7. Ex-Colombian president: Restoring Israeli ties applauds Gaza genocide
+### 8. Kazakhstan parliamentary elections begin: What’s at stake?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The Central Asian country heads to the polls on August 23.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/23/kazakhstan-parliamentary-elections-begin-whats-at-stake?traffic_source=rss](https://www.aljazeera.com/news/2026/8/23/kazakhstan-parliamentary-elections-begin-whats-at-stake?traffic_source=rss)
+
+---
+
+### 9. Ex-Colombian president: Restoring Israeli ties applauds Gaza genocide
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Industry body Energy UK says the current support for households most in need doe
 Ex-Colombian President, Gustavo Petro, says restoring ties with Israel amounts to applauding the Gaza genocide.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/23/ex-colombian-president-restoring-israeli-ties-applauds-gaza-genocide?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/23/ex-colombian-president-restoring-israeli-ties-applauds-gaza-genocide?traffic_source=rss)
-
----
-
-### 8. ‘You just can’t trust Trump’: Canadian premiers fire back in trade war
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Provincial premiers have joined Canada’s Prime Minister Mark Carney, firing back after US President imposed tariffs.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/23/you-just-cant-trust-trump-canadian-premiers-fire-back-in-trade-war?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/23/you-just-cant-trust-trump-canadian-premiers-fire-back-in-trade-war?traffic_source=rss)
-
----
-
-### 9. In rural Chad, solar kiosks bring healthcare closer
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Solar-powered telemedicine is helping rural Chadians overcome distance and limited access to doctors.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/23/in-rural-chad-solar-kiosks-bring-healthcare-closer?traffic_source=rss](https://www.aljazeera.com/news/2026/8/23/in-rural-chad-solar-kiosks-bring-healthcare-closer?traffic_source=rss)
 
 ---
 

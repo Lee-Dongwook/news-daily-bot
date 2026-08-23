@@ -1,16 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-23 07:37:24
+**Last Update:** 2026-08-23 08:10:02
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Mayors to get powers to overrule local councils on planning decisions
+### 1. MartyPC is a cross-platform emulator of early PCs written in Rust
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://martypc.net/">https://martypc.net/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49405816">https://news.ycombinator.com/item?id=49405816</a></p>
+<p>Points: 8</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://martypc.net/](https://martypc.net/)
+
+---
+
+### 2. I Dream of Quieter Computing
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://henry.codes/writing/i-dream-of-quieter-computing/">https://henry.codes/writing/i-dream-of-quieter-computing/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49405682">https://news.ycombinator.com/item?id=49405682</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://henry.codes/writing/i-dream-of-quieter-computing/](https://henry.codes/writing/i-dream-of-quieter-computing/)
+
+---
+
+### 3. The Art and Beauty of Blade Runner
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://nappertime.com/the-art-of-and-beauty-of-blade-runner/">https://nappertime.com/the-art-of-and-beauty-of-blade-runner/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49405331">https://news.ycombinator.com/item?id=49405331</a></p>
+<p>Points: 17</p>
+<p># Comments: 5</p>
+
+🔗 **Read more:** [https://nappertime.com/the-art-of-and-beauty-of-blade-runner/](https://nappertime.com/the-art-of-and-beauty-of-blade-runner/)
+
+---
+
+### 4. Mayors to get powers to overrule local councils on planning decisions
 
 **Source:** BBC
 
@@ -23,7 +71,7 @@ Housing minister Matthew Pennycook said the change was "essential" for helping m
 
 ---
 
-### 2. Two police officers among seven killed in wrong-way car crash
+### 5. Two police officers among seven killed in wrong-way car crash
 
 **Source:** BBC
 
@@ -36,7 +84,7 @@ PC Matthew Blades and PC Tom Clough died after a car driving the wrong way down 
 
 ---
 
-### 3. Struggling households need more help with bills, energy industry says
+### 6. Struggling households need more help with bills, energy industry says
 
 **Source:** BBC
 
@@ -49,7 +97,7 @@ Industry body Energy UK says the current support for households most in need doe
 
 ---
 
-### 4. ‘You just can’t trust Trump’: Canadian premiers fire back in trade war
+### 7. ‘You just can’t trust Trump’: Canadian premiers fire back in trade war
 
 **Source:** Al Jazeera
 
@@ -62,7 +110,7 @@ Provincial premiers have joined Canada’s Prime Minister Mark Carney, firing ba
 
 ---
 
-### 5. In rural Chad, solar kiosks bring healthcare closer
+### 8. In rural Chad, solar kiosks bring healthcare closer
 
 **Source:** Al Jazeera
 
@@ -75,7 +123,7 @@ Solar-powered telemedicine is helping rural Chadians overcome distance and limit
 
 ---
 
-### 6. Chinese robot beats Usain Bolt’s 100m world record at humanoid games
+### 9. Chinese robot beats Usain Bolt’s 100m world record at humanoid games
 
 **Source:** Al Jazeera
 
@@ -88,7 +136,7 @@ A Chinese humanoid robot ran 100m in 9.39 seconds, beating Usain Bolt’s 9.58 s
 
 ---
 
-### 7. Prescribed Fire RX Tom Green 7105, Tom Green, Texas
+### 10. Prescribed Fire RX Tom Green 7105, Tom Green, Texas
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Wildfires
 
 ---
 
-### 8. Wildfire Windmill, Stillwater, Montana
+### 11. Wildfire Windmill, Stillwater, Montana
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Wildfires
 
 ---
 
-### 9. Wildfire North Heglar, Cassia, Idaho
+### 12. Wildfire North Heglar, Cassia, Idaho
 
 **Source:** NASA
 

@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-23 09:01:50
+**Last Update:** 2026-08-23 09:21:45
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
@@ -19,7 +19,7 @@
 **Description:**
 <p>Article URL: <a href="https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html">https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49406069">https://news.ycombinator.com/item?id=49406069</a></p>
-<p>Points: 10</p>
+<p>Points: 11</p>
 <p># Comments: 2</p>
 
 🔗 **Read more:** [https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html](https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html)
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/">https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49405870">https://news.ycombinator.com/item?id=49405870</a></p>
-<p>Points: 16</p>
-<p># Comments: 2</p>
+<p>Points: 27</p>
+<p># Comments: 7</p>
 
 🔗 **Read more:** [https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/](https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://martypc.net/">https://martypc.net/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49405816">https://news.ycombinator.com/item?id=49405816</a></p>
-<p>Points: 43</p>
-<p># Comments: 2</p>
+<p>Points: 57</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://martypc.net/](https://martypc.net/)
 
@@ -97,7 +97,20 @@ Industry body Energy UK says the current support for households most in need doe
 
 ---
 
-### 7. ‘You just can’t trust Trump’: Canadian premiers fire back in trade war
+### 7. Ex-Colombian president: Restoring Israeli ties applauds Gaza genocide
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Ex-Colombian President, Gustavo Petro, says restoring ties with Israel amounts to applauding the Gaza genocide.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/23/ex-colombian-president-restoring-israeli-ties-applauds-gaza-genocide?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/23/ex-colombian-president-restoring-israeli-ties-applauds-gaza-genocide?traffic_source=rss)
+
+---
+
+### 8. ‘You just can’t trust Trump’: Canadian premiers fire back in trade war
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Provincial premiers have joined Canada’s Prime Minister Mark Carney, firing ba
 
 ---
 
-### 8. In rural Chad, solar kiosks bring healthcare closer
+### 9. In rural Chad, solar kiosks bring healthcare closer
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Provincial premiers have joined Canada’s Prime Minister Mark Carney, firing ba
 Solar-powered telemedicine is helping rural Chadians overcome distance and limited access to doctors.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/23/in-rural-chad-solar-kiosks-bring-healthcare-closer?traffic_source=rss](https://www.aljazeera.com/news/2026/8/23/in-rural-chad-solar-kiosks-bring-healthcare-closer?traffic_source=rss)
-
----
-
-### 9. Chinese robot beats Usain Bolt’s 100m world record at humanoid games
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-A Chinese humanoid robot ran 100m in 9.39 seconds, beating Usain Bolt’s 9.58 second world record.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/23/chinese-robot-beats-usain-bolts-100m-world-record-at-humanoid-games?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/23/chinese-robot-beats-usain-bolts-100m-world-record-at-humanoid-games?traffic_source=rss)
 
 ---
 

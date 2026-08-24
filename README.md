@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-24 08:19:26
+**Last Update:** 2026-08-24 08:37:47
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
@@ -84,7 +84,7 @@ Nearly 600 practices in England have withdrawn from NHS dentistry over the last 
 
 ---
 
-### 6. Burnham to visit Kyiv on first foreign trip and reaffirm UK support for Ukraine
+### 6. Burnham visits Kyiv to reaffirm UK support for Ukraine
 
 **Source:** BBC
 

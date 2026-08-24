@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-24 13:21:15
+**Last Update:** 2026-08-24 13:37:59
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
@@ -58,7 +58,7 @@
 
 ---
 
-### 4. UK urges social media firms to remove dangerous driving videos
+### 4. Social media firms should remove dangerous driving videos, minister says
 
 **Source:** BBC
 
@@ -97,7 +97,33 @@ Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and 
 
 ---
 
-### 7. Give Imran Khan proper medical care, cricket legends urge Pakistani gov’t
+### 7. Dozens of coordinated arson attacks carried out across Thailand
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Dozens of coordinated arson attacks carried out across Thailand
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/24/dozens-of-coordinated-arson-attacks-carried-out-across-thailand?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/24/dozens-of-coordinated-arson-attacks-carried-out-across-thailand?traffic_source=rss)
+
+---
+
+### 8. Macron and MBS attend Esports World Cup closing ceremony
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Saudi Arabia, which founded the event, is spending billions to become a global gaming and esports power.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/24/macron-and-mbs-attend-esports-world-cup-closing-ceremony?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/24/macron-and-mbs-attend-esports-world-cup-closing-ceremony?traffic_source=rss)
+
+---
+
+### 9. Give Imran Khan proper medical care, cricket legends urge Pakistani gov’t
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and 
 Twenty-one cricket captains request PM Sharif&#039;s government to ensure Khan is given timely and independent medical care.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/24/give-imran-khan-proper-medical-care-cricket-legends-urge-pakistani-govt?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/24/give-imran-khan-proper-medical-care-cricket-legends-urge-pakistani-govt?traffic_source=rss)
-
----
-
-### 8. Transfer target Julian Alvarez booed by fans in Atletico Madrid win
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Argentinian striker was targeted by fans while warming up and jeered again after coming on in the 66th minute.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/24/transfer-target-julian-alvarez-booed-by-fans-in-atletico-madrid-win?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/24/transfer-target-julian-alvarez-booed-by-fans-in-atletico-madrid-win?traffic_source=rss)
-
----
-
-### 9. Seville, Jefferson-Wooden roar to 100m wins at Silesia Diamond League
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Brazil&#039;s Alison Dos Santos beats world record holder Karsten Warholm in a thrilling 400m hurdles final at the meet.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/24/seville-jefferson-wooden-roar-to-100m-wins-at-silesia-diamond-league?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/24/seville-jefferson-wooden-roar-to-100m-wins-at-silesia-diamond-league?traffic_source=rss)
 
 ---
 

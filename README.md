@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-24 17:39:50
+**Last Update:** 2026-08-24 18:15:16
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
@@ -58,20 +58,7 @@
 
 ---
 
-### 4. Sharing dangerous driving videos is 'truly reprehensible', PM says
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-His comments come as the government urged TikTok and other social media firms to remove wrong-way driving videos.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ce308l1w5q5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ce308l1w5q5o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. UK missiles offer may help Ukraine - but they are not what Zelensky needs most
+### 4. UK missiles offer may help Ukraine - but they are not what Zelensky needs most
 
 **Source:** BBC
 
@@ -84,7 +71,7 @@ UK Prime Minister Andy Burnham is handing over blueprints so Kyiv can build its 
 
 ---
 
-### 6. Divorce, smartphones and control - BBC sees how Taliban run Afghanistan
+### 5. Divorce, smartphones and control - BBC sees how Taliban run Afghanistan
 
 **Source:** BBC
 
@@ -97,7 +84,33 @@ Five years after the Taliban’s return, the BBC follows senior figures as the g
 
 ---
 
-### 7. Rain and flooding from Typhoon Narra hits China and Vietnam
+### 6. Snooker champion Graeme Dott guilty of child sex abuse
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The former world champion was found guilty of lewd and libidinous behaviour towards a girl and boy.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c0lr80rk0dno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c0lr80rk0dno?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 7. Algeria’s schools put Shakespeare before Molière in break from France
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Algerian primary schools will begin teaching English before French for the first time, signalling a drift from France.
+
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/24/algerias-schools-put-shakespeare-before-molire-in-break-from-france?traffic_source=rss](https://www.aljazeera.com/features/2026/8/24/algerias-schools-put-shakespeare-before-molire-in-break-from-france?traffic_source=rss)
+
+---
+
+### 8. Rain and flooding from Typhoon Narra hits China and Vietnam
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Rain and flooding from Typhoon Narra hits China and Vietnam
 
 ---
 
-### 8. ‘Barrel bomb mufti’ sentenced to life in Syria
+### 9. ‘Barrel bomb mufti’ sentenced to life in Syria
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Rain and flooding from Typhoon Narra hits China and Vietnam
 ‘Barrel bomb mufti’ sentenced to life in Syria
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/24/barrel-bomb-mufti-sentenced-to-life-in-syria?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/24/barrel-bomb-mufti-sentenced-to-life-in-syria?traffic_source=rss)
-
----
-
-### 9. Saudi Arabia’s MBS visits Macron in France: What to expect
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Saudi crown prince and French president are set to sign several agreements on health, transport and energy.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/saudi-arabias-mbs-visits-macron-in-france-what-to-expect?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/saudi-arabias-mbs-visits-macron-in-france-what-to-expect?traffic_source=rss)
 
 ---
 

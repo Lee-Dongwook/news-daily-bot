@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-24 12:40:14
+**Last Update:** 2026-08-24 13:21:15
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
@@ -58,7 +58,20 @@
 
 ---
 
-### 4. Divorce, smartphones and control - BBC sees how Taliban run Afghanistan
+### 4. UK urges social media firms to remove dangerous driving videos
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Defence minister Luke Pollard says "there's no place" for social media trend showing people driving the wrong way down roads.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ce308l1w5q5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ce308l1w5q5o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Divorce, smartphones and control - BBC sees how Taliban run Afghanistan
 
 **Source:** BBC
 
@@ -71,7 +84,7 @@ Five years after the Taliban’s return, the BBC follows senior figures as the g
 
 ---
 
-### 5. Nearly three million Teslas recalled in China over hidden door handles
+### 6. Tesla recalls nearly three million cars in China over hidden door handles
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and 
 
 ---
 
-### 6. 'It's not Alton Towers' - rows break out over queuing at Wales' highest mountain
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-There has been disagreement between queuers and others skipping the line to reach the top of Yr Wyddfa.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c1714xg2vr9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c1714xg2vr9o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. E1 settlement: Why Netanyahu, Israel’s right might not mind global outrage
+### 7. Give Imran Khan proper medical care, cricket legends urge Pakistani gov’t
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The settlement threatens Palestinian statehood. But it could help Israel&#039;s PM, other far-right leaders before elections.
+Twenty-one cricket captains request PM Sharif&#039;s government to ensure Khan is given timely and independent medical care.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/e1-settlement-why-netanyahu-israels-right-might-not-mind-global-outrage?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/e1-settlement-why-netanyahu-israels-right-might-not-mind-global-outrage?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/24/give-imran-khan-proper-medical-care-cricket-legends-urge-pakistani-govt?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/24/give-imran-khan-proper-medical-care-cricket-legends-urge-pakistani-govt?traffic_source=rss)
 
 ---
 
-### 8. Kazakhstan’s newly formed pro-government party wins parliamentary election
+### 8. Transfer target Julian Alvarez booed by fans in Atletico Madrid win
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The victory of Adilet, founded earlier this year, is likely to consolidate the power of President Kassym-Jomart Tokayev.
+Argentinian striker was targeted by fans while warming up and jeered again after coming on in the 66th minute.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/kazakhstans-newly-formed-pro-government-party-wins-parliamentary-election?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/kazakhstans-newly-formed-pro-government-party-wins-parliamentary-election?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/24/transfer-target-julian-alvarez-booed-by-fans-in-atletico-madrid-win?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/24/transfer-target-julian-alvarez-booed-by-fans-in-atletico-madrid-win?traffic_source=rss)
 
 ---
 
-### 9. ‘Barrel bomb mufti’ Ahmad Hassoun handed life sentence in Syria trial
+### 9. Seville, Jefferson-Wooden roar to 100m wins at Silesia Diamond League
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The religious figure faced various charges, including inciting violence and providing legitimacy to the al-Assad regime.
+Brazil&#039;s Alison Dos Santos beats world record holder Karsten Warholm in a thrilling 400m hurdles final at the meet.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/hold-ahmad-hassoun-assads-barrel-bomb-mufti-faces-death-penalty?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/hold-ahmad-hassoun-assads-barrel-bomb-mufti-faces-death-penalty?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/24/seville-jefferson-wooden-roar-to-100m-wins-at-silesia-diamond-league?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/24/seville-jefferson-wooden-roar-to-100m-wins-at-silesia-diamond-league?traffic_source=rss)
 
 ---
 

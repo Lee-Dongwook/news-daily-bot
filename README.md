@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-24 18:36:49
+**Last Update:** 2026-08-24 19:11:45
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
@@ -84,59 +84,59 @@ UK Prime Minister Andy Burnham is handing over blueprints so Kyiv can build its 
 
 ---
 
-### 6. Divorce, smartphones and control - BBC sees how Taliban run Afghanistan
+### 6. Snooker champion Graeme Dott guilty of child sex abuse
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Five years after the Taliban’s return, the BBC follows senior figures as the group reshapes the country.
+The former world champion was found guilty of lewd and libidinous behaviour towards a girl and boy.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckgvk9p2n7ko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckgvk9p2n7ko?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c0lr80rk0dno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c0lr80rk0dno?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Houses set on fire as fresh violence erupts in India’s Manipur
+### 7. UK to help Ukraine build Storm Shadow long-range missiles: Why it matters
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Several houses were set ablaze in India’s Manipur state, followed by gunfire between two groups.
+The UK&#039;s willingness to share classified missile-production knowledge sets a potentially important precedent.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/24/houses-set-on-fire-as-fresh-violence-erupts-in-indias-manipur?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/24/houses-set-on-fire-as-fresh-violence-erupts-in-indias-manipur?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/uk-to-help-ukraine-build-storm-shadow-long-range-missiles-why-it-matters?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/uk-to-help-ukraine-build-storm-shadow-long-range-missiles-why-it-matters?traffic_source=rss)
 
 ---
 
-### 8. Algeria’s schools put Shakespeare before Molière in break from France
+### 8. Samuel Eto’o urges support for embattled FIFA President Gianni Infantino
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Algerian primary schools will begin teaching English before French for the first time, signalling a drift from France.
+Former star striker, now head of Cameroon&#039;s FA, backs Infantino despite mounting pressure on him to resign.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/24/algerias-schools-put-shakespeare-before-molire-in-break-from-france?traffic_source=rss](https://www.aljazeera.com/features/2026/8/24/algerias-schools-put-shakespeare-before-molire-in-break-from-france?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/24/samuel-etoo-urges-support-for-embattled-fifa-president-gianni-infantino?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/24/samuel-etoo-urges-support-for-embattled-fifa-president-gianni-infantino?traffic_source=rss)
 
 ---
 
-### 9. Rain and flooding from Typhoon Narra hits China and Vietnam
+### 9. Why Israeli settler attacks on Palestinians in West Bank are pogroms
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Rain and flooding from Typhoon Narra hits China and Vietnam
+Waves of settler attacks, aided by Israel&#039;s military, increasingly fit the definition of a pogrom.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/24/rain-and-flooding-from-typhoon-narra-hits-china-and-vietnam?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/24/rain-and-flooding-from-typhoon-narra-hits-china-and-vietnam?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/24/why-israeli-settler-attacks-on-palestinians-in-west-bank-are-pogroms?traffic_source=rss](https://www.aljazeera.com/features/2026/8/24/why-israeli-settler-attacks-on-palestinians-in-west-bank-are-pogroms?traffic_source=rss)
 
 ---
 
-### 10. Prescribed Fire RX Tom Green 7105, Tom Green, Texas
+### 10. Wildfire Old Deer, Carson, Texas
 
 **Source:** NASA
 
@@ -145,11 +145,11 @@ Rain and flooding from Typhoon Narra hits China and Vietnam
 **Description:**
 Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22927](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22927)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23209](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23209)
 
 ---
 
-### 11. Wildfire Windmill, Stillwater, Montana
+### 11. Wildfire 22, Miami-Dade, Florida
 
 **Source:** NASA
 
@@ -158,11 +158,11 @@ Natural event: Wildfires
 **Description:**
 Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22931](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22931)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23225](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23225)
 
 ---
 
-### 12. Wildfire North Heglar, Cassia, Idaho
+### 12. Wildfire Rustler, Motley, Texas
 
 **Source:** NASA
 
@@ -171,7 +171,7 @@ Natural event: Wildfires
 **Description:**
 Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22929](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22929)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23215](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23215)
 
 ---
 

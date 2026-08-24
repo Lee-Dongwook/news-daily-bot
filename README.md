@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-24 19:31:24
+**Last Update:** 2026-08-24 20:10:27
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
@@ -97,42 +97,42 @@ The former world champion was found guilty of lewd and libidinous behaviour towa
 
 ---
 
-### 7. Trump slams Canada with new 50 percent auto tariffs for 2027
+### 7. Nathan Cofnas on whether he feels responsible for Jason Arday’s death
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Trump said tariffs on Canadian auto and steel will double to 50 percent from January 1.
+Nathan Cofnas, who accused Cambridge professor Jason Arday of plagiarism, has addressed Arday’s death.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/24/trump-slams-canada-with-new-50-percent-auto-tariffs-for-2027?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/24/trump-slams-canada-with-new-50-percent-auto-tariffs-for-2027?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/24/nathan-cofnas-on-whether-he-feels-responsible-for-jason-ardays-death?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/24/nathan-cofnas-on-whether-he-feels-responsible-for-jason-ardays-death?traffic_source=rss)
 
 ---
 
-### 8. Are humanoid robots the future of warfare?
+### 8. England drop fast bowler Bryden Carse amid investigation into club incident
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Humanoid robots are breaking world records in sports, and are increasingly being developed and tested for military use.
+The 31-year-old Durham bowler will not play against Pakistan in the upcoming second Test match.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/24/are-humanoid-robots-the-future-of-warfare?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/24/are-humanoid-robots-the-future-of-warfare?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/24/england-drop-fast-bowler-bryden-carse-amid-investigation-into-club-incident?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/24/england-drop-fast-bowler-bryden-carse-amid-investigation-into-club-incident?traffic_source=rss)
 
 ---
 
-### 9. Video: Russia launches rocket into space with military satellite
+### 9. What to expect as Iran braces for new US economic measures amid war
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Russia says it has launched a military satellite into space on the back of a Soyuz-2.1 rocket from Arkhangelsk.
+Tehran may count on links with China and others to weather the storm, but average Iranian people will bear the brunt.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/24/video-russia-launches-rocket-into-space-with-military-satellite?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/24/video-russia-launches-rocket-into-space-with-military-satellite?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/24/what-to-expect-as-iran-braces-for-new-us-economic-measures-amid-war?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/24/what-to-expect-as-iran-braces-for-new-us-economic-measures-amid-war?traffic_source=rss)
 
 ---
 

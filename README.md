@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-24 16:25:34
+**Last Update:** 2026-08-24 16:58:04
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
@@ -71,7 +71,20 @@ His comments come as the government urged TikTok and other social media firms to
 
 ---
 
-### 5. Divorce, smartphones and control - BBC sees how Taliban run Afghanistan
+### 5. UK missiles offer may help Ukraine - but they are not what Zelensky needs most
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+UK Prime Minister Andy Burnham is handing over blueprints so Kyiv can build its own long-range missiles.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cy8zxqn57z3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cy8zxqn57z3o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Divorce, smartphones and control - BBC sees how Taliban run Afghanistan
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ Five years after the Taliban’s return, the BBC follows senior figures as the g
 
 ---
 
-### 6. Graduate job vacancies drop by almost 50% in a year, survey suggests
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Job site Adzuna said the number of graduate vacancies was the lowest since 2016
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crerd8l3pw5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crerd8l3pw5o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. South Korea says US cancelled upcoming joint marine exercises over Iran war
+### 7. ‘Barrel bomb mufti’ sentenced to life in Syria
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The cancellation follows Trump&#039;s surprise order last week to scale back a separate annual joint military drill.
+‘Barrel bomb mufti’ sentenced to life in Syria
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/south-korea-says-us-cancelled-upcoming-joint-marine-exercises-over-iran-war?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/south-korea-says-us-cancelled-upcoming-joint-marine-exercises-over-iran-war?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/24/barrel-bomb-mufti-sentenced-to-life-in-syria?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/24/barrel-bomb-mufti-sentenced-to-life-in-syria?traffic_source=rss)
 
 ---
 
-### 8. Activists occupy UK aircraft parts factory over Israel links
+### 8. Saudi Arabia’s MBS visits Macron in France: What to expect
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Pro-Palestine activists from the ‘People Against Genocide’ group occupied a Martin-Baker factory in the UK.
+Saudi crown prince and French president are set to sign several agreements on health, transport and energy.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/24/activists-occupy-uk-aircraft-parts-factory-over-israel-links?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/24/activists-occupy-uk-aircraft-parts-factory-over-israel-links?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/saudi-arabias-mbs-visits-macron-in-france-what-to-expect?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/saudi-arabias-mbs-visits-macron-in-france-what-to-expect?traffic_source=rss)
 
 ---
 
-### 9. Former NBA player Enes Kanter ejected after confrontation with WNBA’s Cloud
+### 9. Four arrested over fatal shooting of South African boxer Zolani Tete
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Kanter was ejected from the Indiana-Chicago WNBA game after he was confronted by Sky guard Natasha Cloud on court.
+Tete, who won world WBF flyweight and WBO bantamweight titles, was killed outside his home in Eastern Cape last week.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/24/former-nba-player-enes-kanter-ejected-after-confrontation-with-wnbas-cloud?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/24/former-nba-player-enes-kanter-ejected-after-confrontation-with-wnbas-cloud?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/24/four-arrested-over-fatal-shooting-of-south-african-boxer-zolani-tete?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/24/four-arrested-over-fatal-shooting-of-south-african-boxer-zolani-tete?traffic_source=rss)
 
 ---
 

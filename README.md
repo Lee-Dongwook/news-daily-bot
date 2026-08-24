@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-24 19:11:45
+**Last Update:** 2026-08-24 19:31:24
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
@@ -71,16 +71,16 @@ It comes after Moscow warned of "consequences" over the reported use of British 
 
 ---
 
-### 5. UK missiles offer may help Ukraine - but they are not what Zelensky needs most
+### 5. Is UK's Storm Shadow missile a game changer for Ukraine?
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-UK Prime Minister Andy Burnham is handing over blueprints so Kyiv can build its own long-range missiles.
+Correspondent Joe Inwood breaks down the weapons technology that could make a difference in the Russia-Ukraine war.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cy8zxqn57z3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cy8zxqn57z3o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cx2znjly4dno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cx2znjly4dno?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +97,42 @@ The former world champion was found guilty of lewd and libidinous behaviour towa
 
 ---
 
-### 7. UK to help Ukraine build Storm Shadow long-range missiles: Why it matters
+### 7. Trump slams Canada with new 50 percent auto tariffs for 2027
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The UK&#039;s willingness to share classified missile-production knowledge sets a potentially important precedent.
+Trump said tariffs on Canadian auto and steel will double to 50 percent from January 1.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/uk-to-help-ukraine-build-storm-shadow-long-range-missiles-why-it-matters?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/uk-to-help-ukraine-build-storm-shadow-long-range-missiles-why-it-matters?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/24/trump-slams-canada-with-new-50-percent-auto-tariffs-for-2027?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/24/trump-slams-canada-with-new-50-percent-auto-tariffs-for-2027?traffic_source=rss)
 
 ---
 
-### 8. Samuel Eto’o urges support for embattled FIFA President Gianni Infantino
+### 8. Are humanoid robots the future of warfare?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Former star striker, now head of Cameroon&#039;s FA, backs Infantino despite mounting pressure on him to resign.
+Humanoid robots are breaking world records in sports, and are increasingly being developed and tested for military use.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/24/samuel-etoo-urges-support-for-embattled-fifa-president-gianni-infantino?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/24/samuel-etoo-urges-support-for-embattled-fifa-president-gianni-infantino?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/24/are-humanoid-robots-the-future-of-warfare?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/24/are-humanoid-robots-the-future-of-warfare?traffic_source=rss)
 
 ---
 
-### 9. Why Israeli settler attacks on Palestinians in West Bank are pogroms
+### 9. Video: Russia launches rocket into space with military satellite
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Waves of settler attacks, aided by Israel&#039;s military, increasingly fit the definition of a pogrom.
+Russia says it has launched a military satellite into space on the back of a Soyuz-2.1 rocket from Arkhangelsk.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/24/why-israeli-settler-attacks-on-palestinians-in-west-bank-are-pogroms?traffic_source=rss](https://www.aljazeera.com/features/2026/8/24/why-israeli-settler-attacks-on-palestinians-in-west-bank-are-pogroms?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/24/video-russia-launches-rocket-into-space-with-military-satellite?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/24/video-russia-launches-rocket-into-space-with-military-satellite?traffic_source=rss)
 
 ---
 

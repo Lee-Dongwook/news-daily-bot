@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-24 10:34:08
+**Last Update:** 2026-08-24 11:04:01
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
@@ -97,42 +97,42 @@ Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and 
 
 ---
 
-### 7. Pakistan’s army chief Munir returns to Iran: Can he break US war deadlock?
+### 7. How much more are you spending on petrol since the war in Iran began?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Pakistan says it can offer a channel between Tehran and Washington, but analysts differ over how much influence it has.
+At least 145 countries have reported increases in petrol prices since the attacks on Iran by the US and Israel began.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/pakistans-army-chief-munir-returns-to-iran-can-he-break-us-war-deadlock?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/pakistans-army-chief-munir-returns-to-iran-can-he-break-us-war-deadlock?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/how-much-more-are-you-spending-on-petrol-since-the-war-in-iran-began?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/how-much-more-are-you-spending-on-petrol-since-the-war-in-iran-began?traffic_source=rss)
 
 ---
 
-### 8. Salah scores two goals, has two disallowed in first start for Trabzonspor
+### 8. EU, Russian aircraft help Serbia battle wildfires
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Salah started his first game for the Turkish Super Lig side, whom he joined on a free transfer earlier this month.
+EU crews and a Russian aircraft help Serbia fight major wildfires as extreme heat fuels fires across the Balkans.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/24/salah-scores-two-goals-has-two-disallowed-in-first-start-for-trabzonspor?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/24/salah-scores-two-goals-has-two-disallowed-in-first-start-for-trabzonspor?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/eu-russian-aircraft-help-serbia-battle-wildfires?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/eu-russian-aircraft-help-serbia-battle-wildfires?traffic_source=rss)
 
 ---
 
-### 9. Ceferin won’t challenge Infantino for FIFA presidency but tells him to quit
+### 9. The right to health in Gaza is now a privilege
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-European football chief doesn&#039;t want to lose credibility over FIFA job but says Infantino will face a challenger.
+The devastated healthcare system cannot reach Gaza’s most vulnerable – those who live in displacement camps
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/24/ceferin-wont-challenge-infantino-for-fifa-presidency-but-tells-him-to-quit?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/24/ceferin-wont-challenge-infantino-for-fifa-presidency-but-tells-him-to-quit?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/24/the-right-to-health-in-gaza-is-now-a-privilege?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/24/the-right-to-health-in-gaza-is-now-a-privilege?traffic_source=rss)
 
 ---
 

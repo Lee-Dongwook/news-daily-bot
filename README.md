@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-24 13:37:59
+**Last Update:** 2026-08-24 14:09:50
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
@@ -97,42 +97,42 @@ Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and 
 
 ---
 
-### 7. Dozens of coordinated arson attacks carried out across Thailand
+### 7. US threatens toughest sanctions yet against Iran: What we know
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Dozens of coordinated arson attacks carried out across Thailand
+Tehran has threatened to retaliate against any country that joins new US economic measures.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/24/dozens-of-coordinated-arson-attacks-carried-out-across-thailand?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/24/dozens-of-coordinated-arson-attacks-carried-out-across-thailand?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/us-threatens-toughest-sanctions-yet-against-iran-what-we-know?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/us-threatens-toughest-sanctions-yet-against-iran-what-we-know?traffic_source=rss)
 
 ---
 
-### 8. Macron and MBS attend Esports World Cup closing ceremony
+### 8. Ukraine’s offensive against Russia causes petrol panic across Central Asia
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Saudi Arabia, which founded the event, is spending billions to become a global gaming and esports power.
+War-induced shortages set off cross-border fuel runs and deepen energy problems for Russia&#039;s allies.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/24/macron-and-mbs-attend-esports-world-cup-closing-ceremony?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/24/macron-and-mbs-attend-esports-world-cup-closing-ceremony?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/ukraines-offensive-against-russia-causes-petrol-panic-across-central-asia?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/ukraines-offensive-against-russia-causes-petrol-panic-across-central-asia?traffic_source=rss)
 
 ---
 
-### 9. Give Imran Khan proper medical care, cricket legends urge Pakistani gov’t
+### 9. US military says strike on alleged drug-smuggling boat kills two
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Twenty-one cricket captains request PM Sharif&#039;s government to ensure Khan is given timely and independent medical care.
+US Southern Command says Sunday&#039;s strike targeted vessel operating along established narco-trafficking routes.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/24/give-imran-khan-proper-medical-care-cricket-legends-urge-pakistani-govt?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/24/give-imran-khan-proper-medical-care-cricket-legends-urge-pakistani-govt?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/us-military-says-strike-on-alleged-drug-smuggling-boat-kills-two?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/us-military-says-strike-on-alleged-drug-smuggling-boat-kills-two?traffic_source=rss)
 
 ---
 

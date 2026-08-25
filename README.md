@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-25 09:04:16
+**Last Update:** 2026-08-25 09:24:07
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
@@ -20,8 +20,8 @@
 <p>It's a macOS menu bar app that reads the text of your focused window every few seconds through the Accessibility API. No screenshots, no video, or OCR. It writes plain markdown, one file per day, into a folder you choose.<p>Point Claude Code (or anything with file access) at the folder and ask "what did I work on Tuesday?" or have it build memory about your projects. The folder contains an AGENTS.md explaining the format to the model.<p>Thought it might be useful for someone so chucked it up on GitHub</p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49429095">https://news.ycombinator.com/item?id=49429095</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
+<p>Points: 6</p>
+<p># Comments: 1</p>
 
 🔗 **Read more:** [https://github.com/dragthelake/ambient-context](https://github.com/dragthelake/ambient-context)
 
@@ -36,8 +36,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents">https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49428882">https://news.ycombinator.com/item?id=49428882</a></p>
-<p>Points: 19</p>
-<p># Comments: 6</p>
+<p>Points: 23</p>
+<p># Comments: 7</p>
 
 🔗 **Read more:** [https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents](https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents)
 
@@ -52,8 +52,8 @@
 **Description:**
 <p>Article URL: <a href="https://chipsandcheese.com/p/sifives-first-server-platform">https://chipsandcheese.com/p/sifives-first-server-platform</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49428638">https://news.ycombinator.com/item?id=49428638</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Points: 7</p>
+<p># Comments: 1</p>
 
 🔗 **Read more:** [https://chipsandcheese.com/p/sifives-first-server-platform](https://chipsandcheese.com/p/sifives-first-server-platform)
 
@@ -72,7 +72,7 @@ The US calls its latest sanctions on Iran an "economic D-Day", but Tehran says i
 
 ---
 
-### 5. More than 70,000 social and affordable homes to be built across England
+### 5. More than 70,000 social and affordable homes to be built across England over 10 years
 
 **Source:** BBC
 

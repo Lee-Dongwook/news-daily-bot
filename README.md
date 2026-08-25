@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-25 07:35:46
+**Last Update:** 2026-08-25 08:11:28
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Ask HN: Good large format (>20 inches) touchscreen E-Paper display options?
+### 1. Headlong: A Microharness for Persistent Agents
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents">https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49428882">https://news.ycombinator.com/item?id=49428882</a></p>
+<p>Points: 7</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents](https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents)
+
+---
+
+### 2. Ask HN: Good large format (>20 inches) touchscreen E-Paper display options?
 
 **Source:** Hacker News
 
@@ -20,14 +36,14 @@
 <p>Looking for options that might work for a low power touchscreen for a calendar project.</p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49428842">https://news.ycombinator.com/item?id=49428842</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
+<p>Points: 8</p>
+<p># Comments: 2</p>
 
 🔗 **Read more:** [https://news.ycombinator.com/item?id=49428842](https://news.ycombinator.com/item?id=49428842)
 
 ---
 
-### 2. Thomson Reuters Launches Its Own Frontier Model
+### 3. Thomson Reuters Launches Its Own Frontier Model
 
 **Source:** Hacker News
 
@@ -36,30 +52,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model">https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49428318">https://news.ycombinator.com/item?id=49428318</a></p>
-<p>Points: 41</p>
-<p># Comments: 10</p>
+<p>Points: 46</p>
+<p># Comments: 12</p>
 
 🔗 **Read more:** [https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model](https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model)
 
 ---
 
-### 3. How Universities Should Prepare Founders
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://paulgraham.com/prepare.html">https://paulgraham.com/prepare.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49428121">https://news.ycombinator.com/item?id=49428121</a></p>
-<p>Points: 45</p>
-<p># Comments: 46</p>
-
-🔗 **Read more:** [https://paulgraham.com/prepare.html](https://paulgraham.com/prepare.html)
-
----
-
-### 4. More than 70,000 social and affordable homes to be built across England as part of £39bn plan
+### 4. More than 70,000 social and affordable homes to be built across England
 
 **Source:** BBC
 
@@ -72,68 +72,68 @@ Funding has been granted to Greater Manchester, the West Midlands and West Yorks
 
 ---
 
-### 5. Organised crime arrests as police investigate A66 crash that killed two officers
+### 5. Iran says it is ready for what US calls 'greatest financial offensive ever'
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Nine men and three women are arrested as police investigate the lead-up to the crash that killed seven people.
+The US calls its latest sanctions on Iran an "economic D-Day", but Tehran says it has a plan to counter them.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c36d6975dzno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c36d6975dzno?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. How the deadly A66 crash unfolded leaving seven dead
+### 6. Lockerbie bombing trial postponed days before it was due to start
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-At 03:30 BST on Saturday, two police officers were killed when a Volkswagen Passat collided with their marked car on the A66 motorway.
+The trial of a Libyan man is delayed for a third time, after new evidence on the 37-year-old case came to light three days ago.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cvgyx7yzejpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cvgyx7yzejpo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Israel’s Netanyahu claims Iran tried to kill one of his sons
+### 7. Syrian president thanks nation for getting off US state terror list
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Netanyahu&#039;s claim comes after US and Israel killed Iran&#039;s supreme leader and four members of his family in Tehran.
+Syrian president Ahmed al-Sharaa thanks his nation for getting off US state terror list.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/israels-netanyahu-claims-iran-tried-to-kill-one-of-his-sons?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/israels-netanyahu-claims-iran-tried-to-kill-one-of-his-sons?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/25/syrian-president-thanks-nation-for-getting-off-us-state-terror-list?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/25/syrian-president-thanks-nation-for-getting-off-us-state-terror-list?traffic_source=rss)
 
 ---
 
-### 8. Amnesty says India used lethal weapons on ‘Cockroach’ protesters
+### 8. France, Saudi Arabia agree on $7bn theme park project near Paris
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Amnesty says India used lethal weapons on ‘Cockroach’ protesters.
+Theme park project is among a raft of deals spanning energy, defence, AI and tourism signed during MBS&#039;s visit to Paris.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/25/amnesty-says-india-used-lethal-weapons-on-cockroach-protesters?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/25/amnesty-says-india-used-lethal-weapons-on-cockroach-protesters?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/france-saudi-arabia-agree-on-7bn-theme-park-project-near-paris?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/france-saudi-arabia-agree-on-7bn-theme-park-project-near-paris?traffic_source=rss)
 
 ---
 
-### 9. Muslims celebrate Prophet Muhammad’s birthday
+### 9. Rare tornado near Carcassonne in France causes damage and injuries
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Muslims in Iraq, Libya and Morocco gathered for Mawlid al-Nabi, marking Prophet Muhammad’s birthday
+Footage shows a rare tornado making its way through southern France.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/25/muslims-celebrate-prophet-muhammads-birthday?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/25/muslims-celebrate-prophet-muhammads-birthday?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/25/rare-tornado-near-carcassonne-in-france-causes-damage-and-injuries?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/25/rare-tornado-near-carcassonne-in-france-causes-damage-and-injuries?traffic_source=rss)
 
 ---
 

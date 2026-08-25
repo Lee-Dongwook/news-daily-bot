@@ -1,28 +1,28 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-25 13:08:14
+**Last Update:** 2026-08-25 13:28:08
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. 'Never seen this level of objection': Scotland pushes back against datacentres
+### 1. Ox Alpha – A mysterious new AI model
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.theguardian.com/uk-news/2026/aug/25/never-seen-this-level-of-objection-scotland-pushes-back-against-datacentre-boom">https://www.theguardian.com/uk-news/2026/aug/25/never-seen-this-level-of-objection-scotland-pushes-back-against-datacentre-boom</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49430286">https://news.ycombinator.com/item?id=49430286</a></p>
-<p>Points: 12</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://oxalpha.com">https://oxalpha.com</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49431119">https://news.ycombinator.com/item?id=49431119</a></p>
+<p>Points: 4</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.theguardian.com/uk-news/2026/aug/25/never-seen-this-level-of-objection-scotland-pushes-back-against-datacentre-boom](https://www.theguardian.com/uk-news/2026/aug/25/never-seen-this-level-of-objection-scotland-pushes-back-against-datacentre-boom)
+🔗 **Read more:** [https://oxalpha.com](https://oxalpha.com)
 
 ---
 
@@ -36,7 +36,7 @@
 <p>It's a macOS menu bar app that reads the text of your focused window every few seconds through the Accessibility API. No screenshots, no video, or OCR. It writes plain markdown, one file per day, into a folder you choose.<p>Point Claude Code (or anything with file access) at the folder and ask "what did I work on Tuesday?" or have it build memory about your projects. The folder contains an AGENTS.md explaining the format to the model.<p>Thought it might be useful for someone so chucked it up on GitHub</p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49429095">https://news.ycombinator.com/item?id=49429095</a></p>
-<p>Points: 44</p>
+<p>Points: 46</p>
 <p># Comments: 16</p>
 
 🔗 **Read more:** [https://github.com/dragthelake/ambient-context](https://github.com/dragthelake/ambient-context)
@@ -98,42 +98,42 @@ The trial of a Libyan man is delayed for a third time, after new evidence on the
 
 ---
 
-### 7. ‘Enough is enough’: Kenya nurses strike over pay and working conditions
+### 7. What would justice look like if there were no Rohingya left in Myanmar?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Shiru Kihara, a nurse in Kenya, explains why she and thousands of other nurses are on strike demanding fair pay.
+Nine years after the 2017 atrocities, Rohingya are still being forced to flee because the genocide has never stopped.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/25/enough-is-enough-kenya-nurses-strike-over-pay-and-working-conditions?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/25/enough-is-enough-kenya-nurses-strike-over-pay-and-working-conditions?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/25/what-would-justice-look-like-if-there-were-no-rohingya-left-in-myanmar?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/25/what-would-justice-look-like-if-there-were-no-rohingya-left-in-myanmar?traffic_source=rss)
 
 ---
 
-### 8. Nvidia, Supermicro employees charged over export of AI servers to China
+### 8. Roadblocks and burning tyres in Libya protests over power cuts
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Taiwanese authorities indict nine people over alleged chip smuggling scheme.
+Roadblocks and burning tyres in Libya protests over power cuts
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/25/nvidia-supermicro-employees-charged-over-export-of-ai-servers-to-china?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/25/nvidia-supermicro-employees-charged-over-export-of-ai-servers-to-china?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/25/roadblocks-and-burning-tyres-in-libya-protests-over-power-cuts?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/25/roadblocks-and-burning-tyres-in-libya-protests-over-power-cuts?traffic_source=rss)
 
 ---
 
-### 9. Pakistan says significant progress made in talks on Iran-US war
+### 9. Indonesia battles haze as wildfires rage across South Sumatra forests
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The talks were held during a daylong diplomatic mission to Tehran by Pakistan’s army chief and interior minister.
+Indonesia deploys prayers and emergency measures to combat South Sumatra&#039;s raging wildfires and hazardous haze.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/pakistan-says-significant-progress-made-in-talks-on-iran-us-war?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/pakistan-says-significant-progress-made-in-talks-on-iran-us-war?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/8/25/indonesia-battles-haze-as-wildfires-rage-across-south-sumatra-forests?traffic_source=rss](https://www.aljazeera.com/gallery/2026/8/25/indonesia-battles-haze-as-wildfires-rage-across-south-sumatra-forests?traffic_source=rss)
 
 ---
 

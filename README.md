@@ -1,33 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-25 04:54:17
+**Last Update:** 2026-08-25 05:27:20
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, Al Jazeera, BBC
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Iran Is Using Foreign Criminals to Attack Its Critics Overseas
+### 1. How Universities Should Prepare Founders
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p><a href="https://archive.ph/YwVNE" rel="nofollow">https://archive.ph/YwVNE</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49427046">https://news.ycombinator.com/item?id=49427046</a></p>
-<p>Points: 18</p>
-<p># Comments: 8</p>
+<p>Article URL: <a href="https://paulgraham.com/prepare.html">https://paulgraham.com/prepare.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49428121">https://news.ycombinator.com/item?id=49428121</a></p>
+<p>Points: 7</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.newyorker.com/news/letter-from-the-uk/iran-is-using-foreign-criminals-to-attack-its-critics-overseas](https://www.newyorker.com/news/letter-from-the-uk/iran-is-using-foreign-criminals-to-attack-its-critics-overseas)
+🔗 **Read more:** [https://paulgraham.com/prepare.html](https://paulgraham.com/prepare.html)
 
 ---
 
-### 2. Bookshelf – Self-hosted eBook library that runs on object storage
+### 2. What languages are agent skills written in?
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://plicara.ai/research/agent-skill-languages/">https://plicara.ai/research/agent-skill-languages/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49427825">https://news.ycombinator.com/item?id=49427825</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://plicara.ai/research/agent-skill-languages/](https://plicara.ai/research/agent-skill-languages/)
+
+---
+
+### 3. Bookshelf – Self-hosted eBook library that runs on object storage
 
 **Source:** Hacker News
 
@@ -36,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/murerkinn/bookshelf">https://github.com/murerkinn/bookshelf</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49427001">https://news.ycombinator.com/item?id=49427001</a></p>
-<p>Points: 24</p>
-<p># Comments: 4</p>
+<p>Points: 33</p>
+<p># Comments: 11</p>
 
 🔗 **Read more:** [https://github.com/murerkinn/bookshelf](https://github.com/murerkinn/bookshelf)
-
----
-
-### 3. iCloud+ Hide My Email addresses will remain on icloud.com
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://developer.apple.com/news/?id=1ptvdtcm">https://developer.apple.com/news/?id=1ptvdtcm</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49426564">https://news.ycombinator.com/item?id=49426564</a></p>
-<p>Points: 195</p>
-<p># Comments: 41</p>
-
-🔗 **Read more:** [https://developer.apple.com/news/?id=1ptvdtcm](https://developer.apple.com/news/?id=1ptvdtcm)
 
 ---
 

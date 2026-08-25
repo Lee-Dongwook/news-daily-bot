@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-25 14:05:50
+**Last Update:** 2026-08-25 14:26:46
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, Al Jazeera, BBC
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.bbc.com/news/articles/c4g36yze692o">https://www.bbc.com/news/articles/c4g36yze692o</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49431364">https://news.ycombinator.com/item?id=49431364</a></p>
-<p>Points: 45</p>
-<p># Comments: 28</p>
+<p>Points: 79</p>
+<p># Comments: 76</p>
 
 🔗 **Read more:** [https://www.bbc.com/news/articles/c4g36yze692o](https://www.bbc.com/news/articles/c4g36yze692o)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://link.springer.com/article/10.1007/s12519-026-01046-1">https://link.springer.com/article/10.1007/s12519-026-01046-1</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49431024">https://news.ycombinator.com/item?id=49431024</a></p>
-<p>Points: 17</p>
-<p># Comments: 8</p>
+<p>Points: 24</p>
+<p># Comments: 12</p>
 
 🔗 **Read more:** [https://link.springer.com/article/10.1007/s12519-026-01046-1](https://link.springer.com/article/10.1007/s12519-026-01046-1)
 
@@ -52,7 +52,7 @@
 <p>It's a macOS menu bar app that reads the text of your focused window every few seconds through the Accessibility API. No screenshots, no video, or OCR. It writes plain markdown, one file per day, into a folder you choose.<p>Point Claude Code (or anything with file access) at the folder and ask "what did I work on Tuesday?" or have it build memory about your projects. The folder contains an AGENTS.md explaining the format to the model.<p>Thought it might be useful for someone so chucked it up on GitHub</p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49429095">https://news.ycombinator.com/item?id=49429095</a></p>
-<p>Points: 51</p>
+<p>Points: 53</p>
 <p># Comments: 18</p>
 
 🔗 **Read more:** [https://github.com/dragthelake/ambient-context](https://github.com/dragthelake/ambient-context)
@@ -72,16 +72,16 @@ The US calls its latest sanctions on Iran an "economic D-Day", but Tehran says i
 
 ---
 
-### 5. More than 70,000 social and affordable homes to be built across England over 10 years
+### 5. Man dies in crash after police pursuit
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Funding has been granted to Greater Manchester, the West Midlands and West Yorkshire as well as £6bn for London.
+A woman is also seriously injured and remains in hospital in critical condition.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cnvly73jrrdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cnvly73jrrdo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cly7ne4xegmo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cly7ne4xegmo?at_medium=RSS&at_campaign=rss)
 
 ---
 

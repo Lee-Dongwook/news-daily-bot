@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-25 16:55:54
+**Last Update:** 2026-08-25 17:23:03
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Apple Introduces New Mac Studio with M5 Max and M5 Ultra
+### 1. The state of AI in 2026: On the road to ROI
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai">https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49433759">https://news.ycombinator.com/item?id=49433759</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai)
+
+---
+
+### 2. US data centers tripled annual water consumption to 17B gallons
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://forgeeks.net/us-data-centers-water-use-17-billion-gallons/">https://forgeeks.net/us-data-centers-water-use-17-billion-gallons/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49433372">https://news.ycombinator.com/item?id=49433372</a></p>
+<p>Points: 13</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://forgeeks.net/us-data-centers-water-use-17-billion-gallons/](https://forgeeks.net/us-data-centers-water-use-17-billion-gallons/)
+
+---
+
+### 3. Apple Introduces New Mac Studio with M5 Max and M5 Ultra
 
 **Source:** Hacker News
 
@@ -19,46 +51,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/">https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49433316">https://news.ycombinator.com/item?id=49433316</a></p>
-<p>Points: 44</p>
-<p># Comments: 22</p>
+<p>Points: 91</p>
+<p># Comments: 57</p>
 
 🔗 **Read more:** [https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/](https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/)
 
 ---
 
-### 2. Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/">https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49433292">https://news.ycombinator.com/item?id=49433292</a></p>
-<p>Points: 82</p>
-<p># Comments: 29</p>
-
-🔗 **Read more:** [https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/](https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/)
-
----
-
-### 3. France's tax agency got hacked (in French)
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.cybernetica.fr/piratage-des-impots-comment-en-est-on-arrive-la/">https://www.cybernetica.fr/piratage-des-impots-comment-en-est-on-arrive-la/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49433064">https://news.ycombinator.com/item?id=49433064</a></p>
-<p>Points: 34</p>
-<p># Comments: 13</p>
-
-🔗 **Read more:** [https://www.cybernetica.fr/piratage-des-impots-comment-en-est-on-arrive-la/](https://www.cybernetica.fr/piratage-des-impots-comment-en-est-on-arrive-la/)
-
----
-
-### 4. Five more arrests in wrong-way crash investigation
+### 4. Five more arrests in fatal A66 crash investigation
 
 **Source:** BBC
 
@@ -97,42 +97,42 @@ The US says new sanctions are an "economic D-Day", but Tehran's leaders have sur
 
 ---
 
-### 7. ‘We can’t breathe’: Indonesians battle wildfire haze
+### 7. How Israel’s Netanyahu weaponises religion in his war rhetoric
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Wildfires are raging across Indonesia, affecting at least 10 provinces and blanketing communities in hazardous haze.
+Israeli prime minister has used ancient religious texts to validate pre-emptive warfare and bypass international law.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/25/we-cant-breathe-indonesians-battle-wildfire-haze?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/25/we-cant-breathe-indonesians-battle-wildfire-haze?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/how-israels-netanyahu-weaponises-religion-in-his-war-rhetoric?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/how-israels-netanyahu-weaponises-religion-in-his-war-rhetoric?traffic_source=rss)
 
 ---
 
-### 8. Israeli forces raid UNRWA training centre in occupied East Jerusalem
+### 8. Popcorn and cartoons: A Gaza cinema gives girls a brief escape from war
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The forces raided and seized the Qalandiya Training Centre, a key facility operated by the UNRWA.
+A group of displaced girls in Gaza finds moments of joy, safety, and self-expression at a weekly movie screening.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/israeli-forces-raid-unrwa-training-centre-in-occupied-east-jerusalem?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/israeli-forces-raid-unrwa-training-centre-in-occupied-east-jerusalem?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/25/popcorn-and-cartoons-a-gaza-cinema-gives-girls-a-brief-escape-from-war?traffic_source=rss](https://www.aljazeera.com/features/2026/8/25/popcorn-and-cartoons-a-gaza-cinema-gives-girls-a-brief-escape-from-war?traffic_source=rss)
 
 ---
 
-### 9. What to expect in elections in South Carolina, Georgia and Oklahoma
+### 9. Gaza child breaks down in tears after an Israeli threat over kites
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-These special and run-off elections will continue setting the stage for November&#039;s midterm elections.
+Gaza child breaks down in tears after an Israeli threat over kites
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/what-to-expect-in-elections-in-south-carolina-georgia-and-oklahoma?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/what-to-expect-in-elections-in-south-carolina-georgia-and-oklahoma?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/25/gaza-child-breaks-down-in-tears-after-an-israeli-threat-over-kites?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/25/gaza-child-breaks-down-in-tears-after-an-israeli-threat-over-kites?traffic_source=rss)
 
 ---
 

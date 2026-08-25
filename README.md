@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-25 22:12:42
+**Last Update:** 2026-08-25 22:35:56
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Dolly Parton has died
+### 1. Pgbot: A 5.9 MB read-only Postgres tool for humans and agents
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://pgbot.dev/">https://pgbot.dev/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49438492">https://news.ycombinator.com/item?id=49438492</a></p>
+<p>Points: 11</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://pgbot.dev/](https://pgbot.dev/)
+
+---
+
+### 2. Dolly Parton has died
 
 **Source:** Hacker News
 
@@ -20,14 +36,14 @@
 <p><a href="https://www.cnn.com/2026/08/25/entertainment/dolly-parton-death" rel="nofollow">https://www.cnn.com/2026/08/25/entertainment/dolly-parton-de...</a><p><a href="https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-dead.html" rel="nofollow">https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-d...</a>, <a href="https://archive.ph/w4vsE" rel="nofollow">https://archive.ph/w4vsE</a><p><a href="https://www.hollywoodreporter.com/music/music-news/dolly-parton-dead-country-music-1236680877/" rel="nofollow">https://www.hollywoodreporter.com/music/music-news/dolly-par...</a></p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49438052">https://news.ycombinator.com/item?id=49438052</a></p>
-<p>Points: 236</p>
-<p># Comments: 28</p>
+<p>Points: 357</p>
+<p># Comments: 45</p>
 
 🔗 **Read more:** [https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead](https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead)
 
 ---
 
-### 2. Firefox 157 will include JPEG XL by default on all platforms
+### 3. Firefox 157 will include JPEG XL by default on all platforms
 
 **Source:** Hacker News
 
@@ -36,26 +52,10 @@
 **Description:**
 <p>Article URL: <a href="https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1">https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49437946">https://news.ycombinator.com/item?id=49437946</a></p>
-<p>Points: 32</p>
-<p># Comments: 2</p>
+<p>Points: 53</p>
+<p># Comments: 7</p>
 
 🔗 **Read more:** [https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1](https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1)
-
----
-
-### 3. Clara (YC P26) is hiring a growth engineer to bring AI doctors to market
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer">https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49437566">https://news.ycombinator.com/item?id=49437566</a></p>
-<p>Points: 0</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer](https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer)
 
 ---
 
@@ -98,7 +98,33 @@ Flight tracking data confirms an American military aircraft travelled to Russia 
 
 ---
 
-### 7. Syria ‘shakes off’ past with removal from US ‘terror’ list, says al-Sharaa
+### 7. Video: Israeli forces raid UN training centre and raise Israeli flag
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Itamar Ben-Gvir celebrated after Israeli forces raided a UN-operated facility in occupied East Jerusalem.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/25/video-israeli-forces-raid-un-training-centre-and-raise-israeli-flag?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/25/video-israeli-forces-raid-un-training-centre-and-raise-israeli-flag?traffic_source=rss)
+
+---
+
+### 8. Syria’s economy poised for improvement after US sanctions removal
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Removal of US sanctions offers Syria a chance to fully rejoin the global financial system after years of isolation.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/syrias-economy-poised-for-improvement-after-us-sanctions-removal?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/syrias-economy-poised-for-improvement-after-us-sanctions-removal?traffic_source=rss)
+
+---
+
+### 9. Syria ‘shakes off’ past with removal from US ‘terror’ list, says al-Sharaa
 
 **Source:** Al Jazeera
 
@@ -108,32 +134,6 @@ Flight tracking data confirms an American military aircraft travelled to Russia 
 Removal of decades-old designation offers major sanctions relief for Syria, aiming to boost post-war reconstruction.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/syriashakes-offpast-with-removal-from-us-terror-list-says-al-sharaa?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/syriashakes-offpast-with-removal-from-us-terror-list-says-al-sharaa?traffic_source=rss)
-
----
-
-### 8. Kremlin denies planned talks with US envoys amid reports CIA head in Russia
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Washington reportedly alerted Ukraine to refrain from strikes until delegation leaves Moscow, US media reports.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/kremlin-denies-planned-talks-with-us-envoys-amid-reports-cia-head-in-russia?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/kremlin-denies-planned-talks-with-us-envoys-amid-reports-cia-head-in-russia?traffic_source=rss)
-
----
-
-### 9. Fatah, Dahlan bloc hold reconciliation talks ahead of Palestinian elections
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Fatah and Dahlan&#039;s Democratic Reform hold talks in Alamein as fears grow over a potential opposition coalition.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/fatah-dahlan-bloc-hold-reconciliation-talks-ahead-of-palestinian-elections?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/fatah-dahlan-bloc-hold-reconciliation-talks-ahead-of-palestinian-elections?traffic_source=rss)
 
 ---
 

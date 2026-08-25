@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-25 19:35:52
+**Last Update:** 2026-08-25 20:10:17
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. How much of HN is AI?
+### 1. Why iPhone App Blockers Are Harder to Build Than They Look
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://usefella.com/blog/how-iphone-app-blockers-work/">https://usefella.com/blog/how-iphone-app-blockers-work/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49436556">https://news.ycombinator.com/item?id=49436556</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://usefella.com/blog/how-iphone-app-blockers-work/](https://usefella.com/blog/how-iphone-app-blockers-work/)
+
+---
+
+### 2. Anthropic Sees over $30T in Potential Revenue
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.wsj.com/tech/ai/anthropic-expected-to-tell-investors-it-sees-over-30-trillion-in-potential-revenue-a611efea">https://www.wsj.com/tech/ai/anthropic-expected-to-tell-investors-it-sees-over-30-trillion-in-potential-revenue-a611efea</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49436536">https://news.ycombinator.com/item?id=49436536</a></p>
+<p>Points: 5</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://www.wsj.com/tech/ai/anthropic-expected-to-tell-investors-it-sees-over-30-trillion-in-potential-revenue-a611efea](https://www.wsj.com/tech/ai/anthropic-expected-to-tell-investors-it-sees-over-30-trillion-in-potential-revenue-a611efea)
+
+---
+
+### 3. How much of HN is AI?
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://blog.coredump.cx/p/how-much-of-hn-is-ai">https://blog.coredump.cx/p/how-much-of-hn-is-ai</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49435728">https://news.ycombinator.com/item?id=49435728</a></p>
-<p>Points: 79</p>
-<p># Comments: 37</p>
+<p>Points: 134</p>
+<p># Comments: 90</p>
 
 🔗 **Read more:** [https://blog.coredump.cx/p/how-much-of-hn-is-ai](https://blog.coredump.cx/p/how-much-of-hn-is-ai)
-
----
-
-### 2. Beyond Good and Evil: Nietzsche and the Great War
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.historytoday.com/archive/feature/beyond-good-and-evil-nietzsche-and-great-war">https://www.historytoday.com/archive/feature/beyond-good-and-evil-nietzsche-and-great-war</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49435495">https://news.ycombinator.com/item?id=49435495</a></p>
-<p>Points: 6</p>
-<p># Comments: 4</p>
-
-🔗 **Read more:** [https://www.historytoday.com/archive/feature/beyond-good-and-evil-nietzsche-and-great-war](https://www.historytoday.com/archive/feature/beyond-good-and-evil-nietzsche-and-great-war)
-
----
-
-### 3. AI is hitting entry-level jobs hardest, Stanford study finds
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/">https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49435147">https://news.ycombinator.com/item?id=49435147</a></p>
-<p>Points: 18</p>
-<p># Comments: 4</p>
-
-🔗 **Read more:** [https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/](https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/)
 
 ---
 
@@ -97,7 +97,20 @@ Iran is no stranger to US sanctions and has developed deep economic ties with se
 
 ---
 
-### 7. Nevada wildfire contained to 27 percent as thousands still displaced
+### 7. Students clash with police in India in a new protest over exam leaks
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Hundreds of students clashed with police on Tuesday in India’s Bihar state over alleged paper leaks in an exam.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/25/students-clash-with-police-in-india-in-a-new-protest-over-exam-leaks?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/25/students-clash-with-police-in-india-in-a-new-protest-over-exam-leaks?traffic_source=rss)
+
+---
+
+### 8. Nevada wildfire contained to 27 percent as thousands still displaced
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ The third wildfire in two weeks devastates neighbourhoods across Reno, home to m
 
 ---
 
-### 8. Chinese robot Tiangong clocks sub-9-second 100 metres in Beijing
+### 9. Chinese robot Tiangong clocks sub-9-second 100 metres in Beijing
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ The third wildfire in two weeks devastates neighbourhoods across Reno, home to m
 Chinese robot seven-tenths of a ⁠second faster than the 9.58-second men&#039;s world record set by ​Usain Bolt in 100m.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/25/chinese-robot-tiangong-clocks-sub-9-second-100-metres-in-beijing?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/25/chinese-robot-tiangong-clocks-sub-9-second-100-metres-in-beijing?traffic_source=rss)
-
----
-
-### 9. Infantino’s presidency under threat: FIFA elections, challengers, dates
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Amid waning support and growing criticism, the FIFA chief looks to hold onto his powerful position in world football.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/25/infantinos-presidency-under-threat-fifa-elections-challengers-dates?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/25/infantinos-presidency-under-threat-fifa-elections-challengers-dates?traffic_source=rss)
 
 ---
 

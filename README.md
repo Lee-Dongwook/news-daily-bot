@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-26 01:01:03
+**Last Update:** 2026-08-26 01:19:37
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
@@ -19,7 +19,7 @@
 **Description:**
 <p>Article URL: <a href="https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability">https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49440410">https://news.ycombinator.com/item?id=49440410</a></p>
-<p>Points: 4</p>
+<p>Points: 7</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability](https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability)
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html">https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49439499">https://news.ycombinator.com/item?id=49439499</a></p>
-<p>Points: 7</p>
-<p># Comments: 2</p>
+<p>Points: 15</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html](https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar">https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49439017">https://news.ycombinator.com/item?id=49439017</a></p>
-<p>Points: 112</p>
-<p># Comments: 70</p>
+<p>Points: 127</p>
+<p># Comments: 84</p>
 
 🔗 **Read more:** [https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar](https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar)
 
@@ -97,7 +97,33 @@ Flight tracking data confirms an American military aircraft travelled to Russia 
 
 ---
 
-### 7. US soldier who called for Trump impeachment facing military charges
+### 7. Who was the ‘Queen of Country’ Dolly Parton?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+‘Queen of Country’ has died at 80 in Nashville, her family and representatives announced.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/25/who-was-the-queen-of-country-dolly-parton?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/25/who-was-the-queen-of-country-dolly-parton?traffic_source=rss)
+
+---
+
+### 8. Seven killed in Gaza as Israeli strike ‘destroys’ aid supply warehouse
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Health Ministry warns of &#039;complete collapse of the basic necessities of life&#039; in Gaza as Israel&#039;s attacks continue.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/seven-killed-in-gaza-as-israeli-strike-destroys-aid-supply-warehouse?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/seven-killed-in-gaza-as-israeli-strike-destroys-aid-supply-warehouse?traffic_source=rss)
+
+---
+
+### 9. US soldier who called for Trump impeachment facing military charges
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Flight tracking data confirms an American military aircraft travelled to Russia 
 Major Jason Watson faces charges under rarely-used military law prohibiting criticism of the US president.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/us-soldier-who-called-for-trump-impeachment-facing-military-charges?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/us-soldier-who-called-for-trump-impeachment-facing-military-charges?traffic_source=rss)
-
----
-
-### 8. US lawmakers urge Trump team to free of American student held by Israel
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Congress members call on Marco Rubio to &#039;use every tool&#039; at his disposal to secure release of 20-year-old Sama Safi.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/us-lawmakers-urge-trump-team-to-free-of-american-student-held-by-israel?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/us-lawmakers-urge-trump-team-to-free-of-american-student-held-by-israel?traffic_source=rss)
-
----
-
-### 9. Syrian Democratic Forces announce their dissolution
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The Kurdish-led Syrian Democratic Forces will dissolve as an independent military force under an agreement with Damascus
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/25/syrian-democratic-forces-announce-their-dissolution?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/25/syrian-democratic-forces-announce-their-dissolution?traffic_source=rss)
 
 ---
 

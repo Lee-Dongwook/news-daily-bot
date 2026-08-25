@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-25 21:03:55
+**Last Update:** 2026-08-25 21:21:52
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Water Behind the Watts: The Hidden Risk of Powering Data Centers
+### 1. Clara (YC P26) Is Hiring a Growth Engineer to Bring AI Doctors to Market
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.ceres.org/resources/reports/water-behind-the-watts-the-hidden-risk-of-powering-data-centers">https://www.ceres.org/resources/reports/water-behind-the-watts-the-hidden-risk-of-powering-data-centers</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49437152">https://news.ycombinator.com/item?id=49437152</a></p>
-<p>Points: 3</p>
+<p>Article URL: <a href="https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer">https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49437566">https://news.ycombinator.com/item?id=49437566</a></p>
+<p>Points: 0</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.ceres.org/resources/reports/water-behind-the-watts-the-hidden-risk-of-powering-data-centers](https://www.ceres.org/resources/reports/water-behind-the-watts-the-hidden-risk-of-powering-data-centers)
+🔗 **Read more:** [https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer](https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer)
 
 ---
 
-### 2. My Friend Aaron
+### 2. Run OpenBSD on DigitalOcean for $4/month
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://rorz.io/writing/my-friend-aaron">https://rorz.io/writing/my-friend-aaron</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49437069">https://news.ycombinator.com/item?id=49437069</a></p>
-<p>Points: 5</p>
+<p>Article URL: <a href="https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/">https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49437483">https://news.ycombinator.com/item?id=49437483</a></p>
+<p>Points: 4</p>
 <p># Comments: 1</p>
 
-🔗 **Read more:** [https://rorz.io/writing/my-friend-aaron](https://rorz.io/writing/my-friend-aaron)
+🔗 **Read more:** [https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/](https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/)
 
 ---
 
-### 3. Tooltips Need a Delay, and Then They Need to Skip It
+### 3. Lightweight system monitor for Linux VPS written in Go
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/">https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49436786">https://news.ycombinator.com/item?id=49436786</a></p>
-<p>Points: 3</p>
+<p>Article URL: <a href="https://github.com/leodeim/vpsmon">https://github.com/leodeim/vpsmon</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49437361">https://news.ycombinator.com/item?id=49437361</a></p>
+<p>Points: 6</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/](https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/)
+🔗 **Read more:** [https://github.com/leodeim/vpsmon](https://github.com/leodeim/vpsmon)
 
 ---
 

@@ -1,32 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-25 13:28:08
+**Last Update:** 2026-08-25 14:05:50
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Ox Alpha – A mysterious new AI model
+### 1. Why some US restaurants are banning tips
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://oxalpha.com">https://oxalpha.com</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49431119">https://news.ycombinator.com/item?id=49431119</a></p>
-<p>Points: 4</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://www.bbc.com/news/articles/c4g36yze692o">https://www.bbc.com/news/articles/c4g36yze692o</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49431364">https://news.ycombinator.com/item?id=49431364</a></p>
+<p>Points: 45</p>
+<p># Comments: 28</p>
 
-🔗 **Read more:** [https://oxalpha.com](https://oxalpha.com)
+🔗 **Read more:** [https://www.bbc.com/news/articles/c4g36yze692o](https://www.bbc.com/news/articles/c4g36yze692o)
 
 ---
 
-### 2. Show HN: Screen memory without screenshots, just text to Markdown
+### 2. Screen viewing time from age 1 to 8 years and subsequent academic performance
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://link.springer.com/article/10.1007/s12519-026-01046-1">https://link.springer.com/article/10.1007/s12519-026-01046-1</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49431024">https://news.ycombinator.com/item?id=49431024</a></p>
+<p>Points: 17</p>
+<p># Comments: 8</p>
+
+🔗 **Read more:** [https://link.springer.com/article/10.1007/s12519-026-01046-1](https://link.springer.com/article/10.1007/s12519-026-01046-1)
+
+---
+
+### 3. Show HN: Screen memory without screenshots, just text to Markdown
 
 **Source:** Hacker News
 
@@ -36,26 +52,10 @@
 <p>It's a macOS menu bar app that reads the text of your focused window every few seconds through the Accessibility API. No screenshots, no video, or OCR. It writes plain markdown, one file per day, into a folder you choose.<p>Point Claude Code (or anything with file access) at the folder and ask "what did I work on Tuesday?" or have it build memory about your projects. The folder contains an AGENTS.md explaining the format to the model.<p>Thought it might be useful for someone so chucked it up on GitHub</p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49429095">https://news.ycombinator.com/item?id=49429095</a></p>
-<p>Points: 46</p>
-<p># Comments: 16</p>
+<p>Points: 51</p>
+<p># Comments: 18</p>
 
 🔗 **Read more:** [https://github.com/dragthelake/ambient-context](https://github.com/dragthelake/ambient-context)
-
----
-
-### 3. Volcanoes that made history
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://knowablemagazine.org/content/article/physical-world/2026/volcanoes-that-made-history">https://knowablemagazine.org/content/article/physical-world/2026/volcanoes-that-made-history</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49428972">https://news.ycombinator.com/item?id=49428972</a></p>
-<p>Points: 7</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://knowablemagazine.org/content/article/physical-world/2026/volcanoes-that-made-history](https://knowablemagazine.org/content/article/physical-world/2026/volcanoes-that-made-history)
 
 ---
 
@@ -85,20 +85,46 @@ Funding has been granted to Greater Manchester, the West Midlands and West Yorks
 
 ---
 
-### 6. Lockerbie bombing trial postponed days before it was due to start
+### 6. Yellow weather warnings issued as thunderstorms and flooding forecast
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The trial of a Libyan man is delayed for a third time, after new evidence on the 37-year-old case came to light three days ago.
+The Met Office has issued a yellow weather warning as heavy showers and thunderstorms are forecast to move northwards across the UK on Wednesday.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/weather/articles/c770lyg4318o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/weather/articles/c770lyg4318o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. What would justice look like if there were no Rohingya left in Myanmar?
+### 7. Can Pakistan’s Asim Munir convince Iran military chiefs to return to talks?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Pakistan says progress was made in Tehran, but Iran’s security establishment remains wary of Washington.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/can-pakistans-asim-munir-convince-iran-military-chiefs-to-return-to-talks?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/can-pakistans-asim-munir-convince-iran-military-chiefs-to-return-to-talks?traffic_source=rss)
+
+---
+
+### 8. Palestinian artist Sliman Mansour, giant of resistance art, dies aged 79
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Sliman Mansour&#039;s art captured the essence of Palestine, blending ancient traditions with modern themes of resistance.
+
+🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/8/25/palestinian-artist-sliman-mansour-giant-of-resistance-art-dies-aged-79?traffic_source=rss](https://www.aljazeera.com/gallery/2026/8/25/palestinian-artist-sliman-mansour-giant-of-resistance-art-dies-aged-79?traffic_source=rss)
+
+---
+
+### 9. What would justice look like if there were no Rohingya left in Myanmar?
 
 **Source:** Al Jazeera
 
@@ -108,32 +134,6 @@ The trial of a Libyan man is delayed for a third time, after new evidence on the
 Nine years after the 2017 atrocities, Rohingya are still being forced to flee because the genocide has never stopped.
 
 🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/25/what-would-justice-look-like-if-there-were-no-rohingya-left-in-myanmar?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/25/what-would-justice-look-like-if-there-were-no-rohingya-left-in-myanmar?traffic_source=rss)
-
----
-
-### 8. Roadblocks and burning tyres in Libya protests over power cuts
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Roadblocks and burning tyres in Libya protests over power cuts
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/25/roadblocks-and-burning-tyres-in-libya-protests-over-power-cuts?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/25/roadblocks-and-burning-tyres-in-libya-protests-over-power-cuts?traffic_source=rss)
-
----
-
-### 9. Indonesia battles haze as wildfires rage across South Sumatra forests
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Indonesia deploys prayers and emergency measures to combat South Sumatra&#039;s raging wildfires and hazardous haze.
-
-🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/8/25/indonesia-battles-haze-as-wildfires-rage-across-south-sumatra-forests?traffic_source=rss](https://www.aljazeera.com/gallery/2026/8/25/indonesia-battles-haze-as-wildfires-rage-across-south-sumatra-forests?traffic_source=rss)
 
 ---
 

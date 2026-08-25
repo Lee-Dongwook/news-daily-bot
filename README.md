@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-25 10:22:41
+**Last Update:** 2026-08-25 10:47:06
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
@@ -20,14 +20,30 @@
 <p>It's a macOS menu bar app that reads the text of your focused window every few seconds through the Accessibility API. No screenshots, no video, or OCR. It writes plain markdown, one file per day, into a folder you choose.<p>Point Claude Code (or anything with file access) at the folder and ask "what did I work on Tuesday?" or have it build memory about your projects. The folder contains an AGENTS.md explaining the format to the model.<p>Thought it might be useful for someone so chucked it up on GitHub</p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49429095">https://news.ycombinator.com/item?id=49429095</a></p>
-<p>Points: 21</p>
-<p># Comments: 9</p>
+<p>Points: 27</p>
+<p># Comments: 10</p>
 
 🔗 **Read more:** [https://github.com/dragthelake/ambient-context](https://github.com/dragthelake/ambient-context)
 
 ---
 
-### 2. Headlong: A Microharness for Persistent Agents
+### 2. Volcanoes that made history
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://knowablemagazine.org/content/article/physical-world/2026/volcanoes-that-made-history">https://knowablemagazine.org/content/article/physical-world/2026/volcanoes-that-made-history</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49428972">https://news.ycombinator.com/item?id=49428972</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://knowablemagazine.org/content/article/physical-world/2026/volcanoes-that-made-history](https://knowablemagazine.org/content/article/physical-world/2026/volcanoes-that-made-history)
+
+---
+
+### 3. Headlong: A Microharness for Persistent Agents
 
 **Source:** Hacker News
 
@@ -36,26 +52,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents">https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49428882">https://news.ycombinator.com/item?id=49428882</a></p>
-<p>Points: 32</p>
-<p># Comments: 10</p>
+<p>Points: 39</p>
+<p># Comments: 13</p>
 
 🔗 **Read more:** [https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents](https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents)
-
----
-
-### 3. SiFive's First Server Platform
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://chipsandcheese.com/p/sifives-first-server-platform">https://chipsandcheese.com/p/sifives-first-server-platform</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49428638">https://news.ycombinator.com/item?id=49428638</a></p>
-<p>Points: 15</p>
-<p># Comments: 4</p>
-
-🔗 **Read more:** [https://chipsandcheese.com/p/sifives-first-server-platform](https://chipsandcheese.com/p/sifives-first-server-platform)
 
 ---
 
@@ -66,7 +66,7 @@
 **Category:** world
 
 **Description:**
-The US calls its latest sanctions on Iran an "economic D-Day", but Tehran says it has a plan to counter them.
+The US calls its latest sanctions on Iran an "economic D-Day", but Tehran says it has a plan to address them.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss)
 
@@ -98,7 +98,33 @@ The trial of a Libyan man is delayed for a third time, after new evidence on the
 
 ---
 
-### 7. Angel Reese breaks WNBA record with 26 rebounds in Dream’s win over Sparks
+### 7. The Iran war is bringing cyberwarfare into critical infrastructure
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Recent attacks in the UK and the US demonstrate critical vulnerabilities that governments need to urgently address.
+
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/25/the-iran-war-is-bringing-cyberwarfare-into-critical-infrastructure?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/25/the-iran-war-is-bringing-cyberwarfare-into-critical-infrastructure?traffic_source=rss)
+
+---
+
+### 8. Fulham vs Chelsea: Alonso starts new era with thrilling 3–2 win
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Joao Pedro, Morgan Rogers and Cole Palmer on target as Chelsea open scoring within 31 seconds of the match in London.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/25/fulham-vs-chelsea-alonso-starts-new-era-with-thrilling-3-2?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/25/fulham-vs-chelsea-alonso-starts-new-era-with-thrilling-3-2?traffic_source=rss)
+
+---
+
+### 9. Angel Reese breaks WNBA record with 26 rebounds in Dream’s win over Sparks
 
 **Source:** Al Jazeera
 
@@ -108,32 +134,6 @@ The trial of a Libyan man is delayed for a third time, after new evidence on the
 Reese broke Chamique Holdsclaw&#039;s record of 24 rebounds and added 11 points for her 27th double-double of the season.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/25/angel-reese-breaks-wnba-record-with-26-rebounds-in-dreams-win-over-sparks?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/25/angel-reese-breaks-wnba-record-with-26-rebounds-in-dreams-win-over-sparks?traffic_source=rss)
-
----
-
-### 8. Libya factions draft initial election pact amid lingering mistrust
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Libyan factions sign an initial an election pact, but divided institutions and deep legal gaps threaten its execution.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/libya-factions-draft-initial-election-pact-despite-lingering-mistrust?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/libya-factions-draft-initial-election-pact-despite-lingering-mistrust?traffic_source=rss)
-
----
-
-### 9. Australia’s music charts ban AI-made songs amid backlash over Madonna cover
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Tracks that use AI in a &#039;supporting role&#039; will still be eligible for inclusion in the official charts.
-
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/25/australias-music-charts-ban-ai-made-songs-amid-backlash-over-madonna-cover?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/25/australias-music-charts-ban-ai-made-songs-amid-backlash-over-madonna-cover?traffic_source=rss)
 
 ---
 

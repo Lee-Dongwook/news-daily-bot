@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-27 02:23:19
+**Last Update:** 2026-08-27 03:18:59
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html">https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49456929">https://news.ycombinator.com/item?id=49456929</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
+<p>Points: 23</p>
+<p># Comments: 11</p>
 
 🔗 **Read more:** [https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html](https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html)
 
@@ -35,39 +35,39 @@
 **Description:**
 <p>Article URL: <a href="https://www.clerky.com/blog/clerky-is-joining-stripe">https://www.clerky.com/blog/clerky-is-joining-stripe</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49455956">https://news.ycombinator.com/item?id=49455956</a></p>
-<p>Points: 13</p>
-<p># Comments: 1</p>
+<p>Points: 24</p>
+<p># Comments: 6</p>
 
 🔗 **Read more:** [https://www.clerky.com/blog/clerky-is-joining-stripe](https://www.clerky.com/blog/clerky-is-joining-stripe)
 
 ---
 
-### 3. What will be left for us to work on
+### 3. mold: A Parallel Linker
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://ICML.cc/virtual/2026/invited-talk/67274">https://ICML.cc/virtual/2026/invited-talk/67274</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49455613">https://news.ycombinator.com/item?id=49455613</a></p>
-<p>Points: 24</p>
-<p># Comments: 23</p>
+<p>Article URL: <a href="https://arxiv.org/abs/2608.23228">https://arxiv.org/abs/2608.23228</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49455530">https://news.ycombinator.com/item?id=49455530</a></p>
+<p>Points: 48</p>
+<p># Comments: 8</p>
 
-🔗 **Read more:** [https://ICML.cc/virtual/2026/invited-talk/67274](https://ICML.cc/virtual/2026/invited-talk/67274)
+🔗 **Read more:** [https://arxiv.org/abs/2608.23228](https://arxiv.org/abs/2608.23228)
 
 ---
 
-### 4. Video shows scale of flash flood hitting Nepal-Tibet border
+### 4. BBC visits hospital in Kathmandu as families wait for news
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-This video has been edited by the BBC with white flashes, due to the distressing content.
+More than 150 people have been killed after a massive flash flood on the Nepal-Tibet border, as hundreds still missing.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c62jmlgev3po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c62jmlgev3po?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c62mr6p1dydo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c62mr6p1dydo?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +97,42 @@ Two men have been arrested on suspicion of murder over the fire in Middlesboroug
 
 ---
 
-### 7. Mbappe hat-trick fires Real Madrid to 4-1 win against Sociedad
+### 7. Spain’s tomato food fight leaves thousands covered in pulp
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Kylian Mbappe hat-trick powers Real Madrid past Real Sociedad in La Liga on Jose Mourinho&#039;s Bernabeu return.
+Thousands of people pelt each other with tomatoes as Spain’s famous ‘La Tomatina’ festival gets underway.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/26/mbappe-hat-trick-fires-real-madrid-to-4-1-win-against-sociedad?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/26/mbappe-hat-trick-fires-real-madrid-to-4-1-win-against-sociedad?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/26/spains-tomato-food-fight-leaves-thousands-covered-in-pulp?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/26/spains-tomato-food-fight-leaves-thousands-covered-in-pulp?traffic_source=rss)
 
 ---
 
-### 8. Meta agrees to $17B settlement in landmark child-safety case
+### 8. Barcelona vs Athletic Club: La Liga – prediction, teams, lineups
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Meta has agreed to pay up to $17.1 billion in a landmark settlement with US states
+Lamine Yamal and Raphinha will seek to add to Barcelona&#039;s five-star La Liga opener when Athletic arrive from Bilbao.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/26/meta-agrees-to-17b-settlement-in-landmark-child-safety-case?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/26/meta-agrees-to-17b-settlement-in-landmark-child-safety-case?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/26/barcelona-vs-athletic-club-la-liga-prediction-teams-lineups?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/26/barcelona-vs-athletic-club-la-liga-prediction-teams-lineups?traffic_source=rss)
 
 ---
 
-### 9. Video: Survivors recount moment flash floods hit Nepal
+### 9. US judge declines Minnesota’s effort to force Texas to extradite ICE agent
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Survivors of the flash flooding in Nepal have been describing the moment their homes swept away in the landslide.
+ICE agent Christian Castro faces criminal charges for shooting a Minnesota man in the leg during an immigration raid.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/26/video-survivors-recount-moment-flash-floods-hit-nepal?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/26/video-survivors-recount-moment-flash-floods-hit-nepal?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/26/us-judge-declines-minnesotas-effort-to-force-texas-to-extradite-ice-agent?traffic_source=rss](https://www.aljazeera.com/news/2026/8/26/us-judge-declines-minnesotas-effort-to-force-texas-to-extradite-ice-agent?traffic_source=rss)
 
 ---
 

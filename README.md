@@ -1,73 +1,73 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-26 12:37:51
+**Last Update:** 2026-08-26 13:15:11
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. The End of Programming
+### 1. Show HN: Banking Access Index – 19 US banking providers, 8 countries, CC-BY
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://pauldix.com/the-end-of-programming">https://pauldix.com/the-end-of-programming</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49445717">https://news.ycombinator.com/item?id=49445717</a></p>
-<p>Points: 18</p>
-<p># Comments: 5</p>
+<p>Article URL: <a href="https://www.globalsolo.global/data/banking-access-index">https://www.globalsolo.global/data/banking-access-index</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49445908">https://news.ycombinator.com/item?id=49445908</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://pauldix.com/the-end-of-programming](https://pauldix.com/the-end-of-programming)
+🔗 **Read more:** [https://www.globalsolo.global/data/banking-access-index](https://www.globalsolo.global/data/banking-access-index)
 
 ---
 
-### 2. Show HN: Buslens – where can I get to by bus? (UK)
+### 2. Value Classes Still Need Compiler Sympathy
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://rupertlinacre.com/buslens/">https://rupertlinacre.com/buslens/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49445286">https://news.ycombinator.com/item?id=49445286</a></p>
-<p>Points: 5</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://johan-sjolen.github.io/post/compiler-sympathy/compiler-sympathy/">https://johan-sjolen.github.io/post/compiler-sympathy/compiler-sympathy/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49445884">https://news.ycombinator.com/item?id=49445884</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://rupertlinacre.com/buslens/](https://rupertlinacre.com/buslens/)
+🔗 **Read more:** [https://johan-sjolen.github.io/post/compiler-sympathy/compiler-sympathy/](https://johan-sjolen.github.io/post/compiler-sympathy/compiler-sympathy/)
 
 ---
 
-### 3. Disrupting a new covert influence campaign from Russia
+### 3. Oldinsurancemaps.net is now a Charter Project
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/">https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49445252">https://news.ycombinator.com/item?id=49445252</a></p>
-<p>Points: 35</p>
-<p># Comments: 14</p>
+<p>Article URL: <a href="https://openstreetmap.us/news/2026/08/oim-charter-project/">https://openstreetmap.us/news/2026/08/oim-charter-project/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49445873">https://news.ycombinator.com/item?id=49445873</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/](https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/)
+🔗 **Read more:** [https://openstreetmap.us/news/2026/08/oim-charter-project/](https://openstreetmap.us/news/2026/08/oim-charter-project/)
 
 ---
 
-### 4. The life of an iconic country singer
+### 4. 'If you want the rainbow, you gotta put up with the rain': The singer's wit and wisdom
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Iconic country musician Dolly Parton has died at the age of 80, the singer's team announced on social media.
+The much-loved country singer-songwriter in her own words, following her death aged 80.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c7831ld8e73o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c7831ld8e73o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c39mlxl9d37o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c39mlxl9d37o?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +97,42 @@ Chloe Moffat died last year, after she was told of allegations she had shared se
 
 ---
 
-### 7. Trump’s Korean gambit exposes a shifting East Asian order
+### 7. Bodo return to Champions League, Azerbaijan’s Sabah deny Israeli Beer-Sheva
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Growing doubts about the US security umbrella are forcing new strategic calculations across the region.
+Scottish champions Celtic thumped by LASK as Sabah knock out Hapoel Beer-Sheva with a late goal in the qualifying round.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/26/trumps-korean-gambit-exposes-a-shifting-east-asian-order?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/26/trumps-korean-gambit-exposes-a-shifting-east-asian-order?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/26/bodo-return-to-champions-league-azerbaijans-sabah-deny-israeli-beer-sheva?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/26/bodo-return-to-champions-league-azerbaijans-sabah-deny-israeli-beer-sheva?traffic_source=rss)
 
 ---
 
-### 8. Brighton & Hove Albion sign Algerian left-back Jaouen Hadjam
+### 8. US immigration agents arrested more than 49,500 people in July
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The 23-year-old joins from Swiss champions Young Boys on a five-year deal, making him the third Algerian in the league.
+The number of arrests last month showed a rise of roughly 15 percent over June&#039;s count.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/26/brighton-hove-albion-sign-algerian-left-back-jaouen-hadjam?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/26/brighton-hove-albion-sign-algerian-left-back-jaouen-hadjam?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/26/us-immigration-agents-arrested-more-than-49500-people-in-july?traffic_source=rss](https://www.aljazeera.com/news/2026/8/26/us-immigration-agents-arrested-more-than-49500-people-in-july?traffic_source=rss)
 
 ---
 
-### 9. US Army Black Hawk helicopter crashes in Colorado
+### 9. Haiti gang raid death toll rises to 47 as more than 50 kidnapped, says UN
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A US Army Black Hawk helicopter crashed after an unplanned landing in Colorado.
+UN chief Guterres said the attack underscores &#039;the alarming security situation in Haiti&#039; due to gangs.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/26/us-army-black-hawk-helicopter-crashes-in-colorado?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/26/us-army-black-hawk-helicopter-crashes-in-colorado?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/26/at-least-47-killed-50-kidnapped-in-grisly-gang-raid-in-haiti-says-un?traffic_source=rss](https://www.aljazeera.com/news/2026/8/26/at-least-47-killed-50-kidnapped-in-grisly-gang-raid-in-haiti-says-un?traffic_source=rss)
 
 ---
 

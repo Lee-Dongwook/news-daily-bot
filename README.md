@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-26 10:24:28
+**Last Update:** 2026-08-26 10:46:33
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
@@ -19,14 +19,30 @@
 **Description:**
 <p>Article URL: <a href="https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding">https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49444514">https://news.ycombinator.com/item?id=49444514</a></p>
-<p>Points: 15</p>
-<p># Comments: 12</p>
+<p>Points: 47</p>
+<p># Comments: 53</p>
 
 🔗 **Read more:** [https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding](https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding)
 
 ---
 
-### 2. Agentic Context Management: Memory and Cost as Architecture Problems
+### 2. Secret Cold War IBM Supercomputer Was Built for One Job
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm">https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49444232">https://news.ycombinator.com/item?id=49444232</a></p>
+<p>Points: 10</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm](https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm)
+
+---
+
+### 3. Agentic Context Management: Memory and Cost as Architecture Problems
 
 **Source:** Hacker News
 
@@ -35,39 +51,23 @@
 **Description:**
 <p>Article URL: <a href="https://arxiv.org/abs/2607.21503">https://arxiv.org/abs/2607.21503</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49443523">https://news.ycombinator.com/item?id=49443523</a></p>
-<p>Points: 21</p>
-<p># Comments: 12</p>
+<p>Points: 26</p>
+<p># Comments: 13</p>
 
 🔗 **Read more:** [https://arxiv.org/abs/2607.21503](https://arxiv.org/abs/2607.21503)
 
 ---
 
-### 3. Queryable Executables
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://fzakaria.com/2026/08/24/actually-queryable-executables">https://fzakaria.com/2026/08/24/actually-queryable-executables</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49442589">https://news.ycombinator.com/item?id=49442589</a></p>
-<p>Points: 100</p>
-<p># Comments: 15</p>
-
-🔗 **Read more:** [https://fzakaria.com/2026/08/24/actually-queryable-executables](https://fzakaria.com/2026/08/24/actually-queryable-executables)
-
----
-
-### 4. How Dolly Parton told her life story through six iconic songs
+### 4. The life of an iconic country singer
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-A legendary singer-songwriter, her music covered themes around love, loss, female empowerment and spirituality.
+Iconic country musician Dolly Parton has died at the age of 80, the singer's team announced on social media.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cpqpjv0j0eeo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cpqpjv0j0eeo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c7831ld8e73o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c7831ld8e73o?at_medium=RSS&at_campaign=rss)
 
 ---
 

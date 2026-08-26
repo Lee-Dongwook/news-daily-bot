@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-26 17:29:15
+**Last Update:** 2026-08-26 18:24:38
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Meta reaches $16.68B settlement over social media harms to children
+### 1. Twitter Viewer – View Twitter Without Account
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://twitterwebviewer.com/">https://twitterwebviewer.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49449576">https://news.ycombinator.com/item?id=49449576</a></p>
+<p>Points: 18</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://twitterwebviewer.com/](https://twitterwebviewer.com/)
+
+---
+
+### 2. GLM-5.3-Flash
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://z.ai/blog/glm-5.3-flash">https://z.ai/blog/glm-5.3-flash</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49449507">https://news.ycombinator.com/item?id=49449507</a></p>
+<p>Points: 146</p>
+<p># Comments: 40</p>
+
+🔗 **Read more:** [https://z.ai/blog/glm-5.3-flash](https://z.ai/blog/glm-5.3-flash)
+
+---
+
+### 3. Meta reaches $16.68B settlement over social media harms to children
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.reuters.com/world/us/meta-settles-with-us-states-over-social-media-harms-2026-08-26/">https://www.reuters.com/world/us/meta-settles-with-us-states-over-social-media-harms-2026-08-26/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49448819">https://news.ycombinator.com/item?id=49448819</a></p>
-<p>Points: 41</p>
-<p># Comments: 14</p>
+<p>Points: 173</p>
+<p># Comments: 121</p>
 
 🔗 **Read more:** [https://www.reuters.com/world/us/meta-settles-with-us-states-over-social-media-harms-2026-08-26/](https://www.reuters.com/world/us/meta-settles-with-us-states-over-social-media-harms-2026-08-26/)
-
----
-
-### 2. AWS Acquires DuckDB
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws">https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49448321">https://news.ycombinator.com/item?id=49448321</a></p>
-<p>Points: 253</p>
-<p># Comments: 54</p>
-
-🔗 **Read more:** [https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws](https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws)
-
----
-
-### 3. Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://qwen.ai/blog?id=qwen3.8-flash-next">https://qwen.ai/blog?id=qwen3.8-flash-next</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49448210">https://news.ycombinator.com/item?id=49448210</a></p>
-<p>Points: 128</p>
-<p># Comments: 36</p>
-
-🔗 **Read more:** [https://qwen.ai/blog?id=qwen3.8-flash-next](https://qwen.ai/blog?id=qwen3.8-flash-next)
 
 ---
 
@@ -97,42 +97,42 @@ Prince Harry, Meghan, and their two children are believed to have flown into the
 
 ---
 
-### 7. Locked inside: Grief and anger as Pakistan hospital fire kills 14 newborns
+### 7. Meta agrees to settlement, platform changes in youth addiction case
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A nursery for critical infants — supposedly the safest place in Islamabad&#039;s PIMS hospital — turned into a deathtrap.
+Meta settles $16.68bn lawsuit over child addiction claims, agreeing to major changes in Facebook and Instagram features.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/26/locked-inside-grief-and-anger-as-pakistan-hospital-fire-kills-14-newborns?traffic_source=rss](https://www.aljazeera.com/news/2026/8/26/locked-inside-grief-and-anger-as-pakistan-hospital-fire-kills-14-newborns?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/26/meta-agrees-to-settlement-platform-changes-in-youth-addiction-case?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/26/meta-agrees-to-settlement-platform-changes-in-youth-addiction-case?traffic_source=rss)
 
 ---
 
-### 8. Callaway apologises after golf ad slammed for depicting domestic violence
+### 8. Trump tells Al Jazeera “not in a hurry” for Iran to return to talks
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The advert, which was released online last week before being pulled, prompted calls for a boycott of Callaway products.
+&quot;I have no time schedule,&quot; Trump says when asked when he expects Iran to return to the negotiating table.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/26/callaway-apologises-after-golf-ad-slammed-for-depicting-domestic-violence?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/26/callaway-apologises-after-golf-ad-slammed-for-depicting-domestic-violence?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/26/trump-tells-al-jazeera-not-in-a-hurry-for-iran-to-return-to-talks?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/26/trump-tells-al-jazeera-not-in-a-hurry-for-iran-to-return-to-talks?traffic_source=rss)
 
 ---
 
-### 9. A teacher’s slap, student’s death revive India’s corporal punishment debate
+### 9. Bodies of missing people found in Korea becomes national scandal
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Teja&#039;s death raises question India has not fully answered: why more than a decade after ban is hitting children routine?
+A police officer has been arrested after the bodies of four missing people were found on Jeju Island in South Korea.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/26/a-teachers-slap-students-death-revive-indias-corporal-punishment-debate?traffic_source=rss](https://www.aljazeera.com/news/2026/8/26/a-teachers-slap-students-death-revive-indias-corporal-punishment-debate?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/26/bodies-of-missing-people-found-in-korea-becomes-national-scandal?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/26/bodies-of-missing-people-found-in-korea-becomes-national-scandal?traffic_source=rss)
 
 ---
 

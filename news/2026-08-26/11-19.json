@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-26T11:19:44+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "More than half of adults in U.S. say they lack basic statistical understanding",
+            "description": "<p>Article URL: <a href=\"https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding\">https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49444514\">https://news.ycombinator.com/item?id=49444514</a></p>\n<p>Points: 63</p>\n<p># Comments: 86</p>",
+            "url": "https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding",
+            "published": "Wed, 26 Aug 2026 05:49:20 +0000",
+            "fetched": "2026-08-26T11:19:44+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Harvest (IBM 7950): Supercomputer for cryptanalysis at the NSA in the Cold War",
+            "description": "<p>Article URL: <a href=\"https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm\">https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49444232\">https://news.ycombinator.com/item?id=49444232</a></p>\n<p>Points: 19</p>\n<p># Comments: 4</p>",
+            "url": "https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm",
+            "published": "Wed, 26 Aug 2026 05:09:07 +0000",
+            "fetched": "2026-08-26T11:19:44+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Agentic Context Management: Memory and Cost as Architecture Problems",
+            "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2607.21503\">https://arxiv.org/abs/2607.21503</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49443523\">https://news.ycombinator.com/item?id=49443523</a></p>\n<p>Points: 38</p>\n<p># Comments: 14</p>",
+            "url": "https://arxiv.org/abs/2607.21503",
+            "published": "Wed, 26 Aug 2026 02:35:25 +0000",
+            "fetched": "2026-08-26T11:19:44+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "The life of an iconic country singer",
+            "description": "Iconic country musician Dolly Parton has died at the age of 80, the singer's team announced on social media.",
+            "url": "https://www.bbc.co.uk/news/videos/c7831ld8e73o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 25 Aug 2026 18:27:22 GMT",
+            "fetched": "2026-08-26T11:19:44+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Household energy bills to hit three-year high as Ofgem announces 4% rise from October",
+            "description": "A household using a typical amount of gas and electricity will pay £60 a year more, regulator Ofgem says.",
+            "url": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 26 Aug 2026 07:48:50 GMT",
+            "fetched": "2026-08-26T11:19:44+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "NHS failing child sexual abuse victims in adulthood, say psychiatrists",
+            "description": "There have been decades of mistreatment and mismanagement of those who seek help later in life, say experts in a new, damning report.",
+            "url": "https://www.bbc.co.uk/news/articles/c0kl40d3011o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 26 Aug 2026 04:07:48 GMT",
+            "fetched": "2026-08-26T11:19:44+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "UN rejects Israel’s threat to expel Gaza residents over kite-flying",
+            "description": "UN rights office spokesperson slams Israeli threat of forced evacuations from Gaza communities over kite flying.",
+            "url": "https://www.aljazeera.com/news/2026/8/26/un-rejects-israels-threat-to-expel-gaza-residents-over-kite-flying?traffic_source=rss",
+            "published": "Wed, 26 Aug 2026 07:43:36 +0000",
+            "fetched": "2026-08-26T11:19:44+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Palestinian boy shot during Israeli raid on UNRWA centre",
+            "description": "Video shows the moment a Palestinian boy was shot during an Israeli raid on a UN facility in occupied East Jerusalem.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/palestinian-boy-shot-during-israeli-raid-on-unrwa-centre?traffic_source=rss",
+            "published": "Wed, 26 Aug 2026 07:41:02 +0000",
+            "fetched": "2026-08-26T11:19:44+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "The RSF’s defeat will not end Sudan’s war but merely fragment it",
+            "description": "Sudanese army&#039;s battlefield gains rely on an armed coalition it may struggle to control once the common enemy is gone.",
+            "url": "https://www.aljazeera.com/opinions/2026/8/26/the-rsfs-defeat-will-not-end-sudans-war-but-merely-fragment-it?traffic_source=rss",
+            "published": "Wed, 26 Aug 2026 07:26:45 +0000",
+            "fetched": "2026-08-26T11:19:44+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Julio",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23286",
+            "published": "2026-08-25T06:00:00Z",
+            "fetched": "2026-08-26T11:19:44+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Old Deer, Carson, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23209",
+            "published": "2026-08-23T20:38:00Z",
+            "fetched": "2026-08-26T11:19:44+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire 22, Miami-Dade, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23225",
+            "published": "2026-08-23T16:30:00Z",
+            "fetched": "2026-08-26T11:19:44+03:30"
+        }
+    ]
+}

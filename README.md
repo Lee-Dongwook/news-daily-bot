@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-26 23:48:59
+**Last Update:** 2026-08-27 02:23:19
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Serve Markdown to AI Agents with Accept Headers
+### 1. Worst-case glacial lake flood scenarios in a transboundary Himalayan basin 2022
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://acceptmarkdown.com/">https://acceptmarkdown.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49454764">https://news.ycombinator.com/item?id=49454764</a></p>
+<p>Article URL: <a href="https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html">https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49456929">https://news.ycombinator.com/item?id=49456929</a></p>
 <p>Points: 3</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://acceptmarkdown.com/](https://acceptmarkdown.com/)
+🔗 **Read more:** [https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html](https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html)
 
 ---
 
-### 2. The risks of AI are real but manageable (2023)
+### 2. Clerky Is Joining Stripe
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/the-risks-of-ai-are-real-but-manageable">https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/the-risks-of-ai-are-real-but-manageable</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49454742">https://news.ycombinator.com/item?id=49454742</a></p>
-<p>Points: 6</p>
+<p>Article URL: <a href="https://www.clerky.com/blog/clerky-is-joining-stripe">https://www.clerky.com/blog/clerky-is-joining-stripe</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49455956">https://news.ycombinator.com/item?id=49455956</a></p>
+<p>Points: 13</p>
 <p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/the-risks-of-ai-are-real-but-manageable](https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/the-risks-of-ai-are-real-but-manageable)
+🔗 **Read more:** [https://www.clerky.com/blog/clerky-is-joining-stripe](https://www.clerky.com/blog/clerky-is-joining-stripe)
 
 ---
 
-### 3. GitHub Outage Tracker: Is GitHub Cooked?
+### 3. What will be left for us to work on
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://isgithubcooked.com/">https://isgithubcooked.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49454728">https://news.ycombinator.com/item?id=49454728</a></p>
-<p>Points: 15</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://ICML.cc/virtual/2026/invited-talk/67274">https://ICML.cc/virtual/2026/invited-talk/67274</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49455613">https://news.ycombinator.com/item?id=49455613</a></p>
+<p>Points: 24</p>
+<p># Comments: 23</p>
 
-🔗 **Read more:** [https://isgithubcooked.com/](https://isgithubcooked.com/)
+🔗 **Read more:** [https://ICML.cc/virtual/2026/invited-talk/67274](https://ICML.cc/virtual/2026/invited-talk/67274)
 
 ---
 
@@ -84,55 +84,55 @@ The deal has been reached during a California federal court trial over claims br
 
 ---
 
-### 6. Rocky Horror star Tim Curry dies at 80
+### 6. Woman who died in fire with niece, 7, was 'beautiful soul', mother tells BBC
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Curry was best known for playing the outlandish Frank-N-Furter in cult film The Rocky Horror Picture Show.
+Two men have been arrested on suspicion of murder over the fire in Middlesborough, police say.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5yd92gkk7vo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5yd92gkk7vo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cgmrglpj8rlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cgmrglpj8rlo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Video: Ukrainian drones target Wildberries e-commerce hub in Russia
+### 7. Mbappe hat-trick fires Real Madrid to 4-1 win against Sociedad
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ukrainian drones have again targeted the Russian online shopping giant Wildberries.
+Kylian Mbappe hat-trick powers Real Madrid past Real Sociedad in La Liga on Jose Mourinho&#039;s Bernabeu return.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/26/video-ukrainian-drones-target-wildberries-e-commerce-hub-in-russia?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/26/video-ukrainian-drones-target-wildberries-e-commerce-hub-in-russia?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/26/mbappe-hat-trick-fires-real-madrid-to-4-1-win-against-sociedad?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/26/mbappe-hat-trick-fires-real-madrid-to-4-1-win-against-sociedad?traffic_source=rss)
 
 ---
 
-### 8. Israel-Hamas truce failure ‘point of no return,’ envoy warns
+### 8. Meta agrees to $17B settlement in landmark child-safety case
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Hamas has pledged to hand over its weapons as part of the US plan for Gaza, which Israeli PM Netanyahu has rejected.
+Meta has agreed to pay up to $17.1 billion in a landmark settlement with US states
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/26/israel-hamas-truce-failure-point-of-no-return-envoy-warns?traffic_source=rss](https://www.aljazeera.com/news/2026/8/26/israel-hamas-truce-failure-point-of-no-return-envoy-warns?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/26/meta-agrees-to-17b-settlement-in-landmark-child-safety-case?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/26/meta-agrees-to-17b-settlement-in-landmark-child-safety-case?traffic_source=rss)
 
 ---
 
-### 9. UNRWA chief condemns Israeli seizure of East Jerusalem facility
+### 9. Video: Survivors recount moment flash floods hit Nepal
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Christian Saunders tells Al Jazeera raid part of campaign to weaken agency and eliminate Palestinian rights.
+Survivors of the flash flooding in Nepal have been describing the moment their homes swept away in the landslide.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/26/unrwa-chief-condemns-israeli-seizure-of-east-jerusalem-facility?traffic_source=rss](https://www.aljazeera.com/news/2026/8/26/unrwa-chief-condemns-israeli-seizure-of-east-jerusalem-facility?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/26/video-survivors-recount-moment-flash-floods-hit-nepal?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/26/video-survivors-recount-moment-flash-floods-hit-nepal?traffic_source=rss)
 
 ---
 

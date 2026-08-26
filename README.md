@@ -1,16 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-26 15:02:44
+**Last Update:** 2026-08-26 15:22:47
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Murder probe as two people dead in house fire in Middlesbrough
+### 1. U.S. gov't moves to suppress pushback on data centers
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.tomshardware.com/tech-industry/data-centers/u-s-govt-moves-to-suppress-pushback-on-data-centers-by-removing-requirements-for-public-input-on-pollution-epa-change-would-allow-air-pollution-permits-without-publicizing-them">https://www.tomshardware.com/tech-industry/data-centers/u-s-govt-moves-to-suppress-pushback-on-data-centers-by-removing-requirements-for-public-input-on-pollution-epa-change-would-allow-air-pollution-permits-without-publicizing-them</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49446748">https://news.ycombinator.com/item?id=49446748</a></p>
+<p>Points: 53</p>
+<p># Comments: 37</p>
+
+🔗 **Read more:** [https://www.tomshardware.com/tech-industry/data-centers/u-s-govt-moves-to-suppress-pushback-on-data-centers-by-removing-requirements-for-public-input-on-pollution-epa-change-would-allow-air-pollution-permits-without-publicizing-them](https://www.tomshardware.com/tech-industry/data-centers/u-s-govt-moves-to-suppress-pushback-on-data-centers-by-removing-requirements-for-public-input-on-pollution-epa-change-would-allow-air-pollution-permits-without-publicizing-them)
+
+---
+
+### 2. It's Not the End of Programming
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://mathstodon.xyz/@abuseofnotation/117161292083848755">https://mathstodon.xyz/@abuseofnotation/117161292083848755</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49446597">https://news.ycombinator.com/item?id=49446597</a></p>
+<p>Points: 21</p>
+<p># Comments: 14</p>
+
+🔗 **Read more:** [https://mathstodon.xyz/@abuseofnotation/117161292083848755](https://mathstodon.xyz/@abuseofnotation/117161292083848755)
+
+---
+
+### 3. Beyond Recall and the Illusion of Competence
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://var0.xyz/posts/beyond-recall-and-the-illusion-of-competence.html">https://var0.xyz/posts/beyond-recall-and-the-illusion-of-competence.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49446442">https://news.ycombinator.com/item?id=49446442</a></p>
+<p>Points: 11</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://var0.xyz/posts/beyond-recall-and-the-illusion-of-competence.html](https://var0.xyz/posts/beyond-recall-and-the-illusion-of-competence.html)
+
+---
+
+### 4. Murder probe as two people dead in house fire in Middlesbrough
 
 **Source:** BBC
 
@@ -23,7 +71,7 @@ Cleveland Police says it "cannot rule out any links to wider organised crime" af
 
 ---
 
-### 2. Prince Harry and Meghan due to arrive in UK today
+### 5. Prince Harry and Meghan to arrive in UK today
 
 **Source:** BBC
 
@@ -36,7 +84,7 @@ Prince Harry, Meghan, and their two children are believed to be flying into the 
 
 ---
 
-### 3. From 'dirt poor' to philanthropic superstar - the life of Dolly Parton
+### 6. From 'dirt poor' to philanthropic superstar - the life of Dolly Parton
 
 **Source:** BBC
 
@@ -49,46 +97,46 @@ Iconic country musician Dolly Parton has died at the age of 80, the singer's tea
 
 ---
 
-### 4. Manchester City sign teenage Moroccan football star Ayyoub Bouaddi
+### 7. Why India is sharing missile secrets with its private sector
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Sought-after midfielder Bouaddi joins the Premier League club from Lille on a five-year deal worth $117 million.
+New policy allows India’s private sector to produce advanced weaponry, supporting its goal of military self-sufficiency.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/26/manchester-city-sign-teenage-moroccan-football-star-ayyoub-bouaddi?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/26/manchester-city-sign-teenage-moroccan-football-star-ayyoub-bouaddi?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/26/why-india-is-sharing-missile-secrets-with-its-private-sector?traffic_source=rss](https://www.aljazeera.com/news/2026/8/26/why-india-is-sharing-missile-secrets-with-its-private-sector?traffic_source=rss)
 
 ---
 
-### 5. Infantino has no future at FIFA, says European Leagues chief
+### 8. Mother and daughter detained by ICE in hospital after car crash
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Claudius Schaefer insists the influence of the FIFA president has &#039;grown from year to year&#039;.
+Mother and daughter detained by ICE in hospital after car crash
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/26/infantino-has-no-future-at-fifa-says-european-leagues-chief?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/26/infantino-has-no-future-at-fifa-says-european-leagues-chief?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/26/mother-and-daughter-detained-by-ice-in-hospital-after-car-crash?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/26/mother-and-daughter-detained-by-ice-in-hospital-after-car-crash?traffic_source=rss)
 
 ---
 
-### 6. China’s Xi to visit Kyrgyzstan, Egypt
+### 9. Photos: Thousands join Spain’s La Tomatina festival for epic tomato battle
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The Chinese president will attend the SCO summit in Bishkek, before travelling to Egypt.
+Over 20,000 participants hurled 165 tonnes of tomatoes in Buñol&#039;s streets during Spain&#039;s famed La Tomatina festival.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/26/chinas-xi-to-visit-kyrgyzstan-egypt?traffic_source=rss](https://www.aljazeera.com/news/2026/8/26/chinas-xi-to-visit-kyrgyzstan-egypt?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/8/26/photos-thousands-join-spains-la-tomatina-festival-for-epic-tomato-battle?traffic_source=rss](https://www.aljazeera.com/gallery/2026/8/26/photos-thousands-join-spains-la-tomatina-festival-for-epic-tomato-battle?traffic_source=rss)
 
 ---
 
-### 7. Tropical Storm Julio
+### 10. Tropical Storm Julio
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Severe Storms
 
 ---
 
-### 8. Wildfire Old Deer, Carson, Texas
+### 11. Wildfire Old Deer, Carson, Texas
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Wildfires
 
 ---
 
-### 9. Wildfire 22, Miami-Dade, Florida
+### 12. Wildfire 22, Miami-Dade, Florida
 
 **Source:** NASA
 

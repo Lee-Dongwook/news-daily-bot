@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-26 17:01:15
+**Last Update:** 2026-08-26 17:29:15
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. AWS Acquires DuckDB
+### 1. Meta reaches $16.68B settlement over social media harms to children
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.reuters.com/world/us/meta-settles-with-us-states-over-social-media-harms-2026-08-26/">https://www.reuters.com/world/us/meta-settles-with-us-states-over-social-media-harms-2026-08-26/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49448819">https://news.ycombinator.com/item?id=49448819</a></p>
+<p>Points: 41</p>
+<p># Comments: 14</p>
+
+🔗 **Read more:** [https://www.reuters.com/world/us/meta-settles-with-us-states-over-social-media-harms-2026-08-26/](https://www.reuters.com/world/us/meta-settles-with-us-states-over-social-media-harms-2026-08-26/)
+
+---
+
+### 2. AWS Acquires DuckDB
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws">https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49448321">https://news.ycombinator.com/item?id=49448321</a></p>
-<p>Points: 154</p>
-<p># Comments: 29</p>
+<p>Points: 253</p>
+<p># Comments: 54</p>
 
 🔗 **Read more:** [https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws](https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws)
 
 ---
 
-### 2. Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency
+### 3. Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://qwen.ai/blog?id=qwen3.8-flash-next">https://qwen.ai/blog?id=qwen3.8-flash-next</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49448210">https://news.ycombinator.com/item?id=49448210</a></p>
-<p>Points: 57</p>
-<p># Comments: 15</p>
+<p>Points: 128</p>
+<p># Comments: 36</p>
 
 🔗 **Read more:** [https://qwen.ai/blog?id=qwen3.8-flash-next](https://qwen.ai/blog?id=qwen3.8-flash-next)
-
----
-
-### 3. A curmudgeon tries a language server
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://entropicthoughts.com/curmudgeon-tries-language-server">https://entropicthoughts.com/curmudgeon-tries-language-server</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49448150">https://news.ycombinator.com/item?id=49448150</a></p>
-<p>Points: 10</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://entropicthoughts.com/curmudgeon-tries-language-server](https://entropicthoughts.com/curmudgeon-tries-language-server)
 
 ---
 
@@ -97,42 +97,42 @@ Prince Harry, Meghan, and their two children are believed to have flown into the
 
 ---
 
-### 7. Deadly flash floods sweep through northern Nepal
+### 7. Locked inside: Grief and anger as Pakistan hospital fire kills 14 newborns
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Flash floods have swept through northern Nepal, killing at least eight people and washing away homes.
+A nursery for critical infants — supposedly the safest place in Islamabad&#039;s PIMS hospital — turned into a deathtrap.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/26/deadly-flash-floods-sweep-through-northern-nepal?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/26/deadly-flash-floods-sweep-through-northern-nepal?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/26/locked-inside-grief-and-anger-as-pakistan-hospital-fire-kills-14-newborns?traffic_source=rss](https://www.aljazeera.com/news/2026/8/26/locked-inside-grief-and-anger-as-pakistan-hospital-fire-kills-14-newborns?traffic_source=rss)
 
 ---
 
-### 8. CCTV captures terrifying mudslide engulfing Nepal-China border
+### 8. Callaway apologises after golf ad slammed for depicting domestic violence
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-CCTV footage shows people fleeing seconds before a massive mudslide engulfs a crossing on the Nepal-China border.
+The advert, which was released online last week before being pulled, prompted calls for a boycott of Callaway products.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/26/cctv-captures-terrifying-mudslide-engulfing-nepal-china-border?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/26/cctv-captures-terrifying-mudslide-engulfing-nepal-china-border?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/26/callaway-apologises-after-golf-ad-slammed-for-depicting-domestic-violence?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/26/callaway-apologises-after-golf-ad-slammed-for-depicting-domestic-violence?traffic_source=rss)
 
 ---
 
-### 9. When is the Champions League draw, which teams are in, and what are the dates?
+### 9. A teacher’s slap, student’s death revive India’s corporal punishment debate
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Thirty-six teams will learn their fate in a draw for the group phase, which will be followed by knockout rounds.
+Teja&#039;s death raises question India has not fully answered: why more than a decade after ban is hitting children routine?
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/26/when-is-the-champions-league-draw-which-teams-are-in-and-what-are-the-dates?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/26/when-is-the-champions-league-draw-which-teams-are-in-and-what-are-the-dates?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/26/a-teachers-slap-students-death-revive-indias-corporal-punishment-debate?traffic_source=rss](https://www.aljazeera.com/news/2026/8/26/a-teachers-slap-students-death-revive-indias-corporal-punishment-debate?traffic_source=rss)
 
 ---
 

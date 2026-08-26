@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-26 16:27:49
+**Last Update:** 2026-08-26 17:01:15
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. X sends in the lawyers to shut down open source project
+### 1. AWS Acquires DuckDB
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.theregister.com/legal/2026/08/26/nitter-no-more-x-sends-in-the-lawyers-to-shut-down-open-source-project/5292548">https://www.theregister.com/legal/2026/08/26/nitter-no-more-x-sends-in-the-lawyers-to-shut-down-open-source-project/5292548</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49447772">https://news.ycombinator.com/item?id=49447772</a></p>
-<p>Points: 12</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws">https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49448321">https://news.ycombinator.com/item?id=49448321</a></p>
+<p>Points: 154</p>
+<p># Comments: 29</p>
 
-🔗 **Read more:** [https://www.theregister.com/legal/2026/08/26/nitter-no-more-x-sends-in-the-lawyers-to-shut-down-open-source-project/5292548](https://www.theregister.com/legal/2026/08/26/nitter-no-more-x-sends-in-the-lawyers-to-shut-down-open-source-project/5292548)
+🔗 **Read more:** [https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws](https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws)
 
 ---
 
-### 2. Omarchy is full of security holes
+### 2. Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.happyfellow.dev/merchants-of-insecurity/">https://blog.happyfellow.dev/merchants-of-insecurity/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49447682">https://news.ycombinator.com/item?id=49447682</a></p>
-<p>Points: 127</p>
-<p># Comments: 99</p>
+<p>Article URL: <a href="https://qwen.ai/blog?id=qwen3.8-flash-next">https://qwen.ai/blog?id=qwen3.8-flash-next</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49448210">https://news.ycombinator.com/item?id=49448210</a></p>
+<p>Points: 57</p>
+<p># Comments: 15</p>
 
-🔗 **Read more:** [https://blog.happyfellow.dev/merchants-of-insecurity/](https://blog.happyfellow.dev/merchants-of-insecurity/)
+🔗 **Read more:** [https://qwen.ai/blog?id=qwen3.8-flash-next](https://qwen.ai/blog?id=qwen3.8-flash-next)
 
 ---
 
-### 3. Proliferate (YC S25) Is Hiring
+### 3. A curmudgeon tries a language server
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.ycombinator.com/companies/proliferate/jobs/OgpCKYJ-founding-product-engineer">https://www.ycombinator.com/companies/proliferate/jobs/OgpCKYJ-founding-product-engineer</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49447480">https://news.ycombinator.com/item?id=49447480</a></p>
-<p>Points: 0</p>
+<p>Article URL: <a href="https://entropicthoughts.com/curmudgeon-tries-language-server">https://entropicthoughts.com/curmudgeon-tries-language-server</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49448150">https://news.ycombinator.com/item?id=49448150</a></p>
+<p>Points: 10</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.ycombinator.com/companies/proliferate/jobs/OgpCKYJ-founding-product-engineer](https://www.ycombinator.com/companies/proliferate/jobs/OgpCKYJ-founding-product-engineer)
+🔗 **Read more:** [https://entropicthoughts.com/curmudgeon-tries-language-server](https://entropicthoughts.com/curmudgeon-tries-language-server)
 
 ---
 
@@ -84,7 +84,7 @@ Cleveland Police says it "cannot rule out any links to wider organised crime" af
 
 ---
 
-### 6. Prince Harry and Meghan land in UK
+### 6. Prince Harry and Meghan land in UK days after announcing move
 
 **Source:** BBC
 
@@ -97,7 +97,33 @@ Prince Harry, Meghan, and their two children are believed to have flown into the
 
 ---
 
-### 7. When is the Champions League draw, which teams are in, and what are the dates?
+### 7. Deadly flash floods sweep through northern Nepal
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Flash floods have swept through northern Nepal, killing at least eight people and washing away homes.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/26/deadly-flash-floods-sweep-through-northern-nepal?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/26/deadly-flash-floods-sweep-through-northern-nepal?traffic_source=rss)
+
+---
+
+### 8. CCTV captures terrifying mudslide engulfing Nepal-China border
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+CCTV footage shows people fleeing seconds before a massive mudslide engulfs a crossing on the Nepal-China border.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/26/cctv-captures-terrifying-mudslide-engulfing-nepal-china-border?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/26/cctv-captures-terrifying-mudslide-engulfing-nepal-china-border?traffic_source=rss)
+
+---
+
+### 9. When is the Champions League draw, which teams are in, and what are the dates?
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Prince Harry, Meghan, and their two children are believed to have flown into the
 Thirty-six teams will learn their fate in a draw for the group phase, which will be followed by knockout rounds.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/26/when-is-the-champions-league-draw-which-teams-are-in-and-what-are-the-dates?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/26/when-is-the-champions-league-draw-which-teams-are-in-and-what-are-the-dates?traffic_source=rss)
-
----
-
-### 8. Photos: Avalanche floods kill eight, hundreds missing in Nepal’s Himalayas
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Flash floods devastate Nepal&#039;s Himalayas, washing away villages and infrastructure along the Bhotekoshi river.
-
-🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/8/26/photos-avalanche-floods-kill-eight-hundreds-missing-in-nepals-himalayas?traffic_source=rss](https://www.aljazeera.com/gallery/2026/8/26/photos-avalanche-floods-kill-eight-hundreds-missing-in-nepals-himalayas?traffic_source=rss)
-
----
-
-### 9. England footballer Sterling charged with dangerous driving after collision
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Raheem Sterling has also been accused of possession ​of nitrous oxide and will appear in court on September 15.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/26/england-footballer-sterling-charged-with-dangerous-driving-after-collision?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/26/england-footballer-sterling-charged-with-dangerous-driving-after-collision?traffic_source=rss)
 
 ---
 

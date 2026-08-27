@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-27 03:18:59
+**Last Update:** 2026-08-27 07:53:53
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Worst-case glacial lake flood scenarios in a transboundary Himalayan basin 2022
+### 1. Humanity has the debate about AI consciousness backwards
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html">https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49456929">https://news.ycombinator.com/item?id=49456929</a></p>
-<p>Points: 23</p>
-<p># Comments: 11</p>
+<p>Article URL: <a href="https://economist.com/by-invitation/2026/08/20/humanity-has-the-debate-about-ai-consciousness-backwards">https://economist.com/by-invitation/2026/08/20/humanity-has-the-debate-about-ai-consciousness-backwards</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49458875">https://news.ycombinator.com/item?id=49458875</a></p>
+<p>Points: 11</p>
+<p># Comments: 9</p>
 
-🔗 **Read more:** [https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html](https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html)
+🔗 **Read more:** [https://economist.com/by-invitation/2026/08/20/humanity-has-the-debate-about-ai-consciousness-backwards](https://economist.com/by-invitation/2026/08/20/humanity-has-the-debate-about-ai-consciousness-backwards)
 
 ---
 
-### 2. Clerky Is Joining Stripe
+### 2. Kusama Yayoi Dies at 97
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.clerky.com/blog/clerky-is-joining-stripe">https://www.clerky.com/blog/clerky-is-joining-stripe</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49455956">https://news.ycombinator.com/item?id=49455956</a></p>
-<p>Points: 24</p>
+<p>Article URL: <a href="https://news.jp/i/1465528042000662661">https://news.jp/i/1465528042000662661</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49458709">https://news.ycombinator.com/item?id=49458709</a></p>
+<p>Points: 65</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://news.jp/i/1465528042000662661](https://news.jp/i/1465528042000662661)
+
+---
+
+### 3. Getting video models to learn better, faster
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.linum.ai/field-notes/data-filtering-gen-video">https://www.linum.ai/field-notes/data-filtering-gen-video</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49458502">https://news.ycombinator.com/item?id=49458502</a></p>
+<p>Points: 13</p>
 <p># Comments: 6</p>
 
-🔗 **Read more:** [https://www.clerky.com/blog/clerky-is-joining-stripe](https://www.clerky.com/blog/clerky-is-joining-stripe)
-
----
-
-### 3. mold: A Parallel Linker
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://arxiv.org/abs/2608.23228">https://arxiv.org/abs/2608.23228</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49455530">https://news.ycombinator.com/item?id=49455530</a></p>
-<p>Points: 48</p>
-<p># Comments: 8</p>
-
-🔗 **Read more:** [https://arxiv.org/abs/2608.23228](https://arxiv.org/abs/2608.23228)
+🔗 **Read more:** [https://www.linum.ai/field-notes/data-filtering-gen-video](https://www.linum.ai/field-notes/data-filtering-gen-video)
 
 ---
 
@@ -71,20 +71,7 @@ More than 150 people have been killed after a massive flash flood on the Nepal-T
 
 ---
 
-### 5. Meta to pay up to $18bn to settle claims its platforms harm children
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The deal has been reached during a California federal court trial over claims brought by US states.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cd68q3wynnqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cd68q3wynnqo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Woman who died in fire with niece, 7, was 'beautiful soul', mother tells BBC
+### 5. Woman who died in fire with niece, 7, was 'beautiful soul', mother tells BBC
 
 **Source:** BBC
 
@@ -97,81 +84,55 @@ Two men have been arrested on suspicion of murder over the fire in Middlesboroug
 
 ---
 
-### 7. Spain’s tomato food fight leaves thousands covered in pulp
+### 6. New thunderstorm warnings for parts of UK as rain set to continue
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The Met Office has issued fresh thunderstorm warnings for Thursday with the potential for England and Wales to see flash flooding as the unsettled weather continues.
+
+🔗 **Read more:** [https://www.bbc.co.uk/weather/articles/cvgydkpdn99o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/weather/articles/cvgydkpdn99o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 7. Fury and grief as parents of Pakistan infant fire victims demand answers
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Thousands of people pelt each other with tomatoes as Spain’s famous ‘La Tomatina’ festival gets underway.
+Funerals have begun for the 14 babies who were killed in a fire at Islamabad’s Institute of Medical Sciences.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/26/spains-tomato-food-fight-leaves-thousands-covered-in-pulp?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/26/spains-tomato-food-fight-leaves-thousands-covered-in-pulp?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/27/fury-and-grief-as-parents-of-pakistan-infant-fire-victims-demand-answers?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/27/fury-and-grief-as-parents-of-pakistan-infant-fire-victims-demand-answers?traffic_source=rss)
 
 ---
 
-### 8. Barcelona vs Athletic Club: La Liga – prediction, teams, lineups
+### 8. Qatar’s prime minister to visit Tehran, seeking to revive US-Iran talks
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Lamine Yamal and Raphinha will seek to add to Barcelona&#039;s five-star La Liga opener when Athletic arrive from Bilbao.
+Sheikh Mohammed&#039;s visit comes as US-Israel war on Iran nears its sixth month with no diplomatic breakthrough in sight.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/26/barcelona-vs-athletic-club-la-liga-prediction-teams-lineups?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/26/barcelona-vs-athletic-club-la-liga-prediction-teams-lineups?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/27/qatars-prime-minister-to-visit-tehran-seeking-to-revive-us-iran-talks?traffic_source=rss](https://www.aljazeera.com/news/2026/8/27/qatars-prime-minister-to-visit-tehran-seeking-to-revive-us-iran-talks?traffic_source=rss)
 
 ---
 
-### 9. US judge declines Minnesota’s effort to force Texas to extradite ICE agent
+### 9. Palestinians mourn ‘Camel of Hardship’ artist Sliman Mansour
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-ICE agent Christian Castro faces criminal charges for shooting a Minnesota man in the leg during an immigration raid.
+Palestinians have mourned prominent artist Sliman Mansour at a public funeral in the occupied West Bank.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/26/us-judge-declines-minnesotas-effort-to-force-texas-to-extradite-ice-agent?traffic_source=rss](https://www.aljazeera.com/news/2026/8/26/us-judge-declines-minnesotas-effort-to-force-texas-to-extradite-ice-agent?traffic_source=rss)
-
----
-
-### 10. Tropical Storm Julio
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23286](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23286)
-
----
-
-### 11. Wildfire Old Deer, Carson, Texas
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23209](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23209)
-
----
-
-### 12. Wildfire 22, Miami-Dade, Florida
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23225](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23225)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/27/palestinians-mourn-camel-of-hardship-artist-sliman-mansour?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/27/palestinians-mourn-camel-of-hardship-artist-sliman-mansour?traffic_source=rss)
 
 ---
 

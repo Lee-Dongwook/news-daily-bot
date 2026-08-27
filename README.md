@@ -1,138 +1,178 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-27 07:53:53
+**Last Update:** 2026-08-27 13:32:30
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Humanity has the debate about AI consciousness backwards
+### 1. The Dutch are filling gas wells with cement
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://economist.com/by-invitation/2026/08/20/humanity-has-the-debate-about-ai-consciousness-backwards">https://economist.com/by-invitation/2026/08/20/humanity-has-the-debate-about-ai-consciousness-backwards</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49458875">https://news.ycombinator.com/item?id=49458875</a></p>
-<p>Points: 11</p>
-<p># Comments: 9</p>
+<p>Article URL: <a href="https://www.siliconcontinent.com/p/the-dutch-are-filling-gas-wells-with">https://www.siliconcontinent.com/p/the-dutch-are-filling-gas-wells-with</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49461608">https://news.ycombinator.com/item?id=49461608</a></p>
+<p>Points: 25</p>
+<p># Comments: 26</p>
 
-🔗 **Read more:** [https://economist.com/by-invitation/2026/08/20/humanity-has-the-debate-about-ai-consciousness-backwards](https://economist.com/by-invitation/2026/08/20/humanity-has-the-debate-about-ai-consciousness-backwards)
+🔗 **Read more:** [https://www.siliconcontinent.com/p/the-dutch-are-filling-gas-wells-with](https://www.siliconcontinent.com/p/the-dutch-are-filling-gas-wells-with)
 
 ---
 
-### 2. Kusama Yayoi Dies at 97
+### 2. Kusama Yayoi has died
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://news.jp/i/1465528042000662661">https://news.jp/i/1465528042000662661</a></p>
+<p><a href="https://archive.ph/axjMF" rel="nofollow">https://archive.ph/axjMF</a><p><a href="https://yayoi-kusama.jp/en/news4518/" rel="nofollow">https://yayoi-kusama.jp/en/news4518/</a></p>
+<hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49458709">https://news.ycombinator.com/item?id=49458709</a></p>
-<p>Points: 65</p>
-<p># Comments: 4</p>
+<p>Points: 177</p>
+<p># Comments: 13</p>
 
-🔗 **Read more:** [https://news.jp/i/1465528042000662661](https://news.jp/i/1465528042000662661)
+🔗 **Read more:** [https://www.nytimes.com/2026/08/26/arts/yayoi-kusama-dead.html](https://www.nytimes.com/2026/08/26/arts/yayoi-kusama-dead.html)
 
 ---
 
-### 3. Getting video models to learn better, faster
+### 3. Laion Big Video Dataset
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.linum.ai/field-notes/data-filtering-gen-video">https://www.linum.ai/field-notes/data-filtering-gen-video</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49458502">https://news.ycombinator.com/item?id=49458502</a></p>
-<p>Points: 13</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://projects.laion.ai/bvd/">https://projects.laion.ai/bvd/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49458478">https://news.ycombinator.com/item?id=49458478</a></p>
+<p>Points: 64</p>
+<p># Comments: 17</p>
 
-🔗 **Read more:** [https://www.linum.ai/field-notes/data-filtering-gen-video](https://www.linum.ai/field-notes/data-filtering-gen-video)
+🔗 **Read more:** [https://projects.laion.ai/bvd/](https://projects.laion.ai/bvd/)
 
 ---
 
-### 4. BBC visits hospital in Kathmandu as families wait for news
+### 4. Watch: Rescue teams pull survivors from thick mud
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-More than 150 people have been killed after a massive flash flood on the Nepal-Tibet border, as hundreds still missing.
+At least 160 people have been killed along the Nepal-Tibet border as rescuers struggle to reach the disaster zone.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c62mr6p1dydo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c62mr6p1dydo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cq63431rgljo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cq63431rgljo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Woman who died in fire with niece, 7, was 'beautiful soul', mother tells BBC
+### 5. Two teenagers, 13 and 14, among 33 UK nationals missing in disaster
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Two men have been arrested on suspicion of murder over the fire in Middlesborough, police say.
+Nepali police says 270 bodies have been recovered, while over 800 are still missing in total, according to authorities.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cgmrglpj8rlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cgmrglpj8rlo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cnvlde5075no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cnvlde5075no?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. New thunderstorm warnings for parts of UK as rain set to continue
+### 6. Residents need to feel safe after deadly crash and fire near Middlesbrough, council leader says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The Met Office has issued fresh thunderstorm warnings for Thursday with the potential for England and Wales to see flash flooding as the unsettled weather continues.
+Teesside MPs and a council leader say communities need to feel safe after the incidents over the past week.
 
-🔗 **Read more:** [https://www.bbc.co.uk/weather/articles/cvgydkpdn99o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/weather/articles/cvgydkpdn99o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckgvnjpv1l0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckgvnjpv1l0o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Fury and grief as parents of Pakistan infant fire victims demand answers
+### 7. How far will the US-Canada trade war go?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Funerals have begun for the 14 babies who were killed in a fire at Islamabad’s Institute of Medical Sciences.
+Canada and the US risk a full-scale trade war after a breakdown in talks.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/27/fury-and-grief-as-parents-of-pakistan-infant-fire-victims-demand-answers?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/27/fury-and-grief-as-parents-of-pakistan-infant-fire-victims-demand-answers?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/counting-the-cost/2026/8/27/how-far-will-the-us-canada-trade-war-go?traffic_source=rss](https://www.aljazeera.com/video/counting-the-cost/2026/8/27/how-far-will-the-us-canada-trade-war-go?traffic_source=rss)
 
 ---
 
-### 8. Qatar’s prime minister to visit Tehran, seeking to revive US-Iran talks
+### 8. Trump crosses Lake Ontario on map, renames it ‘Lake America’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Sheikh Mohammed&#039;s visit comes as US-Israel war on Iran nears its sixth month with no diplomatic breakthrough in sight.
+US President Donald Trump posted a video of him crossing out Lake Ontario on a map and writing ‘Lake America’ instead.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/27/qatars-prime-minister-to-visit-tehran-seeking-to-revive-us-iran-talks?traffic_source=rss](https://www.aljazeera.com/news/2026/8/27/qatars-prime-minister-to-visit-tehran-seeking-to-revive-us-iran-talks?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/27/trump-crosses-lake-ontario-on-map-renames-it-lake-america?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/27/trump-crosses-lake-ontario-on-map-renames-it-lake-america?traffic_source=rss)
 
 ---
 
-### 9. Palestinians mourn ‘Camel of Hardship’ artist Sliman Mansour
+### 9. How a 95 percent drop in Hormuz traffic changed global shipping
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Palestinians have mourned prominent artist Sliman Mansour at a public funeral in the occupied West Bank.
+A crisis in one narrow passage has disrupted an industry that carries about 80 percent of the world’s trade.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/27/palestinians-mourn-camel-of-hardship-artist-sliman-mansour?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/27/palestinians-mourn-camel-of-hardship-artist-sliman-mansour?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/27/how-a-95-percent-drop-in-hormuz-traffic-changed-global-shipping?traffic_source=rss](https://www.aljazeera.com/news/2026/8/27/how-a-95-percent-drop-in-hormuz-traffic-changed-global-shipping?traffic_source=rss)
+
+---
+
+### 10. Tropical Storm Julio
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23286](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23286)
+
+---
+
+### 11. Wildfire Old Deer, Carson, Texas
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23209](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23209)
+
+---
+
+### 12. Wildfire 22, Miami-Dade, Florida
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23225](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23225)
 
 ---
 

@@ -1,142 +1,94 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-28 09:00:12
+**Last Update:** 2026-08-28 17:37:13
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Please stop flooding our projects with AI slop to furnish your CV
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://neilalexander.dev/2026/06/30/flooding-contributions">https://neilalexander.dev/2026/06/30/flooding-contributions</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49474143">https://news.ycombinator.com/item?id=49474143</a></p>
-<p>Points: 56</p>
-<p># Comments: 19</p>
-
-🔗 **Read more:** [https://neilalexander.dev/2026/06/30/flooding-contributions](https://neilalexander.dev/2026/06/30/flooding-contributions)
-
----
-
-### 2. GoGoGrandparent (YC S16) is hiring back end engineers
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer">https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49474060">https://news.ycombinator.com/item?id=49474060</a></p>
-<p>Points: 0</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer](https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer)
-
----
-
-### 3. Bootstrappable Builds: How and Why
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://lwn.net/Articles/1088279/">https://lwn.net/Articles/1088279/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49473868">https://news.ycombinator.com/item?id=49473868</a></p>
-<p>Points: 17</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://lwn.net/Articles/1088279/](https://lwn.net/Articles/1088279/)
-
----
-
-### 4. Watch: Tracing the deadly path of the Nepal-Tibet flash flood
+### 1. Watch: Why rescuers fear new barrier lake could cause another Nepal-Tibet flood
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-BBC Verify traces the path of the destructive Nepal-Tibet flash flood using verified video.
+Laura Bicker explains how a lake which formed after the recent landslide near the Nepal-Tibet border is raising fears of a second flood.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cp80m87pez3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cp80m87pez3o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cj06j16vpr5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cj06j16vpr5o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Extra 200 police drafted in to aid force investigating wrong-way crash and fire deaths
+### 2. Disorder at balloon release for man who died in A66 car crash 'put lives at risk', MP says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Cleveland Police confirms it has support from six local forces and the National Crime Agency.
+Footage shows cars being set on fire during an event for one of the young men who died in A66 crash.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckgvnjpv1l0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckgvnjpv1l0o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cdj43zkjweyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cdj43zkjweyo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Clean-up of illegal waste supersite costs taxpayers £6m
+### 3. Four plead guilty to arson attack on Jewish community ambulances
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The bill for clearing the dump in Oxfordshire has been covered by taxpayers.
+Four vehicles run by a charity were set alight in Golders Green, north-west London, causing explosions in March.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvgyx45zzwgo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvgyx45zzwgo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c1j4rkywx3lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c1j4rkywx3lo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Algeria residents mourn neighbours lost in wildfire aftermath
+### 4. UK has billions in contracts with firms tied to illegal Israeli settlements
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Residents of Algeria’s northeastern Jijel province are inspecting the aftermath of wildfires.
+Al Jazeera investigation reveals UK public money flowing to companies linked to Israeli settlements in occupied land.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/28/algeria-residents-mourn-neighbours-lost-in-wildfire-aftermath?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/28/algeria-residents-mourn-neighbours-lost-in-wildfire-aftermath?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/28/uk-has-billions-in-contracts-with-firms-tied-to-illegal-israeli-settlements?traffic_source=rss](https://www.aljazeera.com/news/2026/8/28/uk-has-billions-in-contracts-with-firms-tied-to-illegal-israeli-settlements?traffic_source=rss)
 
 ---
 
-### 8. DRC begins vaccinating front-line healthcare workers against Ebola
+### 5. Europa League draw: Bournemouth, Sunderland get glamour ties with AC Milan
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Trials for a vaccine for the Bundibugyo strain are ongoing as DRC authorities try to control the Ebola outbreak.
+Teams playing in UEFA&#039;s Europa League and Conference League find out their opponents as league phase draws made.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/28/drc-begins-vaccinating-front-line-healthcare-workers-against-ebola?traffic_source=rss](https://www.aljazeera.com/news/2026/8/28/drc-begins-vaccinating-front-line-healthcare-workers-against-ebola?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/28/europa-league-draw-bournemouth-sunderland-get-glamour-ties-with-ac-milan?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/28/europa-league-draw-bournemouth-sunderland-get-glamour-ties-with-ac-milan?traffic_source=rss)
 
 ---
 
-### 9. Nepal’s mudslide wiped out areas of eastern China, army helps search
+### 6. Qatar pledges support for efforts to end Libya’s political division
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-China has dispatched hundreds of military personnel to the border town of Gyirong in Tibet, after a deadly mudslide.
+Qatari minister meets army chief amid efforts to bridge longstanding political divisions in Libya.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/28/nepals-mudslide-wiped-out-areas-of-eastern-china-army-helps-search?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/28/nepals-mudslide-wiped-out-areas-of-eastern-china-army-helps-search?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/28/qatar-pledges-support-for-efforts-to-end-libyas-political-division?traffic_source=rss](https://www.aljazeera.com/news/2026/8/28/qatar-pledges-support-for-efforts-to-end-libyas-political-division?traffic_source=rss)
 
 ---
 
-### 10. Wildfire Calico, Humboldt, Nevada
+### 7. Wildfire Calico, Humboldt, Nevada
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Wildfires
 
 ---
 
-### 11. Wildfire McConnell, Humboldt, Nevada
+### 8. Wildfire McConnell, Humboldt, Nevada
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Wildfire LAUGHLIN, Colfax, New Mexico
+### 9. Wildfire LAUGHLIN, Colfax, New Mexico
 
 **Source:** NASA
 

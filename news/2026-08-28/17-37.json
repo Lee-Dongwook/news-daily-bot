@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-08-28T17:37:13+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Why rescuers fear new barrier lake could cause another Nepal-Tibet flood",
+            "description": "Laura Bicker explains how a lake which formed after the recent landslide near the Nepal-Tibet border is raising fears of a second flood.",
+            "url": "https://www.bbc.co.uk/news/videos/cj06j16vpr5o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 28 Aug 2026 10:35:06 GMT",
+            "fetched": "2026-08-28T17:37:13+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Disorder at balloon release for man who died in A66 car crash 'put lives at risk', MP says",
+            "description": "Footage shows cars being set on fire during an event for one of the young men who died in A66 crash.",
+            "url": "https://www.bbc.co.uk/news/articles/cdj43zkjweyo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 28 Aug 2026 13:33:29 GMT",
+            "fetched": "2026-08-28T17:37:13+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Four plead guilty to arson attack on Jewish community ambulances",
+            "description": "Four vehicles run by a charity were set alight in Golders Green, north-west London, causing explosions in March.",
+            "url": "https://www.bbc.co.uk/news/articles/c1j4rkywx3lo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 28 Aug 2026 13:53:51 GMT",
+            "fetched": "2026-08-28T17:37:13+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "UK has billions in contracts with firms tied to illegal Israeli settlements",
+            "description": "Al Jazeera investigation reveals UK public money flowing to companies linked to Israeli settlements in occupied land.",
+            "url": "https://www.aljazeera.com/news/2026/8/28/uk-has-billions-in-contracts-with-firms-tied-to-illegal-israeli-settlements?traffic_source=rss",
+            "published": "Fri, 28 Aug 2026 13:40:04 +0000",
+            "fetched": "2026-08-28T17:37:13+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Europa League draw: Bournemouth, Sunderland get glamour ties with AC Milan",
+            "description": "Teams playing in UEFA&#039;s Europa League and Conference League find out their opponents as league phase draws made.",
+            "url": "https://www.aljazeera.com/sports/2026/8/28/europa-league-draw-bournemouth-sunderland-get-glamour-ties-with-ac-milan?traffic_source=rss",
+            "published": "Fri, 28 Aug 2026 13:33:25 +0000",
+            "fetched": "2026-08-28T17:37:13+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Qatar pledges support for efforts to end Libya’s political division",
+            "description": "Qatari minister meets army chief amid efforts to bridge longstanding political divisions in Libya.",
+            "url": "https://www.aljazeera.com/news/2026/8/28/qatar-pledges-support-for-efforts-to-end-libyas-political-division?traffic_source=rss",
+            "published": "Fri, 28 Aug 2026 13:18:37 +0000",
+            "fetched": "2026-08-28T17:37:13+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Calico, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23453",
+            "published": "2026-08-26T17:29:00Z",
+            "fetched": "2026-08-28T17:37:13+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire McConnell, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23455",
+            "published": "2026-08-25T20:43:00Z",
+            "fetched": "2026-08-28T17:37:13+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire LAUGHLIN, Colfax, New Mexico",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23466",
+            "published": "2026-08-25T18:35:00Z",
+            "fetched": "2026-08-28T17:37:13+03:30"
+        }
+    ]
+}

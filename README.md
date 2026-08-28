@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-28 22:21:47
+**Last Update:** 2026-08-29 03:24:55
 
 **Total News:** 12
 
@@ -10,64 +10,64 @@
 
 ## 📰 Latest News
 
-### 1. Secrets of the Atomic City
+### 1. Boot a Virtual iPhone via Apple's Virtualization.framework
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://longreads.com/2026/08/06/radiation-paducah-atavist/">https://longreads.com/2026/08/06/radiation-paducah-atavist/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49481672">https://news.ycombinator.com/item?id=49481672</a></p>
-<p>Points: 12</p>
+<p>Article URL: <a href="https://github.com/Lakr233/vphone-cli">https://github.com/Lakr233/vphone-cli</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49485267">https://news.ycombinator.com/item?id=49485267</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://github.com/Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli)
+
+---
+
+### 2. Identifying fake cosmetics using AI
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html">https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49484925">https://news.ycombinator.com/item?id=49484925</a></p>
+<p>Points: 7</p>
 <p># Comments: 3</p>
 
-🔗 **Read more:** [https://longreads.com/2026/08/06/radiation-paducah-atavist/](https://longreads.com/2026/08/06/radiation-paducah-atavist/)
+🔗 **Read more:** [https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html](https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html)
 
 ---
 
-### 2. Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment
+### 3. Stopping the smart TV from being used against you
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://arxiv.org/abs/2608.23691">https://arxiv.org/abs/2608.23691</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49481455">https://news.ycombinator.com/item?id=49481455</a></p>
-<p>Points: 14</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.s-config.com/stopping-a-smart-tv-from-being-used-against-you/">https://www.s-config.com/stopping-a-smart-tv-from-being-used-against-you/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49483816">https://news.ycombinator.com/item?id=49483816</a></p>
+<p>Points: 130</p>
+<p># Comments: 102</p>
 
-🔗 **Read more:** [https://arxiv.org/abs/2608.23691](https://arxiv.org/abs/2608.23691)
-
----
-
-### 3. Attimet (YC F24) Is Hiring Members of Technical Staff – Engineering and Research
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.ycombinator.com/companies/attimet/jobs/6btZFDg-member-of-technical-staff-engineering">https://www.ycombinator.com/companies/attimet/jobs/6btZFDg-member-of-technical-staff-engineering</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49481423">https://news.ycombinator.com/item?id=49481423</a></p>
-<p>Points: 0</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://www.ycombinator.com/companies/attimet/jobs/6btZFDg-member-of-technical-staff-engineering](https://www.ycombinator.com/companies/attimet/jobs/6btZFDg-member-of-technical-staff-engineering)
+🔗 **Read more:** [https://www.s-config.com/stopping-a-smart-tv-from-being-used-against-you/](https://www.s-config.com/stopping-a-smart-tv-from-being-used-against-you/)
 
 ---
 
-### 4. Videos show people survive floodwaters on balcony in Nepal
+### 4. 97-year-old woman rescued after Nepali floods looked like 'a warrior'
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-BBC Verify has located several videos from disaster-struck areas of the Trishuli river after deadly floods swept through.
+A 97-year-old woman, Guna Maya Bohara, survived the flash floods and was rescued using an excavator.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cx2z81kmeggo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cx2z81kmeggo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cj64kgrpgjdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cj64kgrpgjdo?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -84,55 +84,55 @@ Among those reported missing after deadly floods are a 13-year-old girl and 14-y
 
 ---
 
-### 6. Norway's 'grandfather': King Harald remembered as son Haakon takes the throne
+### 6. Man dies and at least six injured after sign falls at Christian festival
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Norwegians paid their respects to the late King Harld after his death on Friday morning.
+A 41-year-old man died at the Big Church Festival near Steyning in West Sussex, police say.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c05rzd115y5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c05rzd115y5o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwyz52x45jxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwyz52x45jxo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Israeli strike kills three Palestinians in West Bank’s Jenin
+### 7. Far-right UK provocateur Milo Yiannopoulos detained by ICE in US
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israel&#039;s prime minister and defence minister praise the attack as Hamas calls for Israeli &#039;crimes&#039; to stop.
+A Trump administration official says the controversial commentator overstayed his visit in the US and will be removed.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/28/israeli-strike-kills-three-palestinians-in-west-banks-jenin?traffic_source=rss](https://www.aljazeera.com/news/2026/8/28/israeli-strike-kills-three-palestinians-in-west-banks-jenin?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/28/far-right-uk-provocateur-milo-yiannopoulos-detained-by-ice-in-us?traffic_source=rss](https://www.aljazeera.com/news/2026/8/28/far-right-uk-provocateur-milo-yiannopoulos-detained-by-ice-in-us?traffic_source=rss)
 
 ---
 
-### 8. ‘Terrorist connection’ alleged in Trump’s Scotland golf course damage case
+### 8. Walmart settles US government’s opioid lawsuit
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Seven people have been charged in connection with damage to Donald Trump’s Turnberry golf resort in Scotland in 2025.
+The Justice Department and Walmart confirmed the settlement without disclosing terms.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/28/28-08-sv-trump-golf-course-terror-charges-fm?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/28/28-08-sv-trump-golf-course-terror-charges-fm?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/28/walmart-settles-us-governments-opioid-lawsuit?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/28/walmart-settles-us-governments-opioid-lawsuit?traffic_source=rss)
 
 ---
 
-### 9. US judge denies injunction against Trump’s new birthright citizenship order
+### 9. Thousands take part in March on Washington to promote voting rights
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The rejection is a temporary setback for immigrant rights advocates, who have been instructed to revise their petition.
+Protest draws crowds to Washington, DC amid Trump&#039;s threats of interference, voting restrictions in midterm elections.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/28/us-judge-denies-injunction-against-trumps-new-birthright-citizenship-order?traffic_source=rss](https://www.aljazeera.com/news/2026/8/28/us-judge-denies-injunction-against-trumps-new-birthright-citizenship-order?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/8/28/thousands-take-part-in-march-on-washington-to-promote-voting-rights?traffic_source=rss](https://www.aljazeera.com/gallery/2026/8/28/thousands-take-part-in-march-on-washington-to-promote-voting-rights?traffic_source=rss)
 
 ---
 

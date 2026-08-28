@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-29T03:24:55+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
+            "description": "<p>Article URL: <a href=\"https://github.com/Lakr233/vphone-cli\">https://github.com/Lakr233/vphone-cli</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49485267\">https://news.ycombinator.com/item?id=49485267</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://github.com/Lakr233/vphone-cli",
+            "published": "Fri, 28 Aug 2026 23:02:21 +0000",
+            "fetched": "2026-08-29T03:24:55+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Identifying fake cosmetics using AI",
+            "description": "<p>Article URL: <a href=\"https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html\">https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49484925\">https://news.ycombinator.com/item?id=49484925</a></p>\n<p>Points: 7</p>\n<p># Comments: 3</p>",
+            "url": "https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html",
+            "published": "Fri, 28 Aug 2026 22:18:27 +0000",
+            "fetched": "2026-08-29T03:24:55+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Stopping the smart TV from being used against you",
+            "description": "<p>Article URL: <a href=\"https://www.s-config.com/stopping-a-smart-tv-from-being-used-against-you/\">https://www.s-config.com/stopping-a-smart-tv-from-being-used-against-you/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49483816\">https://news.ycombinator.com/item?id=49483816</a></p>\n<p>Points: 130</p>\n<p># Comments: 102</p>",
+            "url": "https://www.s-config.com/stopping-a-smart-tv-from-being-used-against-you/",
+            "published": "Fri, 28 Aug 2026 20:27:57 +0000",
+            "fetched": "2026-08-29T03:24:55+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "97-year-old woman rescued after Nepali floods looked like 'a warrior'",
+            "description": "A 97-year-old woman, Guna Maya Bohara, survived the flash floods and was rescued using an excavator.",
+            "url": "https://www.bbc.co.uk/news/videos/cj64kgrpgjdo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 28 Aug 2026 21:17:54 GMT",
+            "fetched": "2026-08-29T03:24:55+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "What we know about the 33 British nationals missing in Nepal",
+            "description": "Among those reported missing after deadly floods are a 13-year-old girl and 14-year-old boy.",
+            "url": "https://www.bbc.co.uk/news/articles/c93v70w79gxo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 28 Aug 2026 19:21:57 GMT",
+            "fetched": "2026-08-29T03:24:55+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Man dies and at least six injured after sign falls at Christian festival",
+            "description": "A 41-year-old man died at the Big Church Festival near Steyning in West Sussex, police say.",
+            "url": "https://www.bbc.co.uk/news/articles/cwyz52x45jxo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 28 Aug 2026 21:41:12 GMT",
+            "fetched": "2026-08-29T03:24:55+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Far-right UK provocateur Milo Yiannopoulos detained by ICE in US",
+            "description": "A Trump administration official says the controversial commentator overstayed his visit in the US and will be removed.",
+            "url": "https://www.aljazeera.com/news/2026/8/28/far-right-uk-provocateur-milo-yiannopoulos-detained-by-ice-in-us?traffic_source=rss",
+            "published": "Fri, 28 Aug 2026 23:04:29 +0000",
+            "fetched": "2026-08-29T03:24:55+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Walmart settles US government’s opioid lawsuit",
+            "description": "The Justice Department and Walmart confirmed the settlement without disclosing terms.",
+            "url": "https://www.aljazeera.com/economy/2026/8/28/walmart-settles-us-governments-opioid-lawsuit?traffic_source=rss",
+            "published": "Fri, 28 Aug 2026 22:59:41 +0000",
+            "fetched": "2026-08-29T03:24:55+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Thousands take part in March on Washington to promote voting rights",
+            "description": "Protest draws crowds to Washington, DC amid Trump&#039;s threats of interference, voting restrictions in midterm elections.",
+            "url": "https://www.aljazeera.com/gallery/2026/8/28/thousands-take-part-in-march-on-washington-to-promote-voting-rights?traffic_source=rss",
+            "published": "Fri, 28 Aug 2026 22:59:19 +0000",
+            "fetched": "2026-08-29T03:24:55+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Calico, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23453",
+            "published": "2026-08-26T17:29:00Z",
+            "fetched": "2026-08-29T03:24:55+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire McConnell, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23455",
+            "published": "2026-08-25T20:43:00Z",
+            "fetched": "2026-08-29T03:24:55+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire LAUGHLIN, Colfax, New Mexico",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23466",
+            "published": "2026-08-25T18:35:00Z",
+            "fetched": "2026-08-29T03:24:55+03:30"
+        }
+    ]
+}

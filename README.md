@@ -1,61 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-28 04:51:31
+**Last Update:** 2026-08-28 09:00:12
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Terminal-Bench-Science: Evaluating AI agents on scientific research workflows
+### 1. Please stop flooding our projects with AI slop to furnish your CV
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.terminal-bench-science.ai/announcement">https://www.terminal-bench-science.ai/announcement</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49472820">https://news.ycombinator.com/item?id=49472820</a></p>
-<p>Points: 13</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://neilalexander.dev/2026/06/30/flooding-contributions">https://neilalexander.dev/2026/06/30/flooding-contributions</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49474143">https://news.ycombinator.com/item?id=49474143</a></p>
+<p>Points: 56</p>
+<p># Comments: 19</p>
 
-🔗 **Read more:** [https://www.terminal-bench-science.ai/announcement](https://www.terminal-bench-science.ai/announcement)
+🔗 **Read more:** [https://neilalexander.dev/2026/06/30/flooding-contributions](https://neilalexander.dev/2026/06/30/flooding-contributions)
 
 ---
 
-### 2. Select * from Internet.blogposts
+### 2. GoGoGrandparent (YC S16) is hiring back end engineers
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://pfrazee.leaflet.pub/3mu3p2smmis22">https://pfrazee.leaflet.pub/3mu3p2smmis22</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49472161">https://news.ycombinator.com/item?id=49472161</a></p>
-<p>Points: 31</p>
-<p># Comments: 8</p>
+<p>Article URL: <a href="https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer">https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49474060">https://news.ycombinator.com/item?id=49474060</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://pfrazee.leaflet.pub/3mu3p2smmis22](https://pfrazee.leaflet.pub/3mu3p2smmis22)
+🔗 **Read more:** [https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer](https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer)
 
 ---
 
-### 3. Doctors are finally learning to manage antidepressant withdrawal
+### 3. Bootstrappable Builds: How and Why
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p><a href="https://web.archive.org/web/20260826205502/https://www.newscientist.com/article/2584861-antidepressant-withdrawal-symptoms-are-prompting-a-radical-rethink-of-how-we-treat-depression/" rel="nofollow">https://web.archive.org/web/20260826205502/https://www.newsc...</a><p><a href="https://archive.ph/zahjc" rel="nofollow">https://archive.ph/zahjc</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49472090">https://news.ycombinator.com/item?id=49472090</a></p>
-<p>Points: 59</p>
-<p># Comments: 62</p>
+<p>Article URL: <a href="https://lwn.net/Articles/1088279/">https://lwn.net/Articles/1088279/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49473868">https://news.ycombinator.com/item?id=49473868</a></p>
+<p>Points: 17</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://www.newscientist.com/article/2584861-antidepressant-withdrawal-symptoms-are-prompting-a-radical-rethink-of-how-we-treat-depression/](https://www.newscientist.com/article/2584861-antidepressant-withdrawal-symptoms-are-prompting-a-radical-rethink-of-how-we-treat-depression/)
+🔗 **Read more:** [https://lwn.net/Articles/1088279/](https://lwn.net/Articles/1088279/)
 
 ---
 
@@ -72,68 +71,68 @@ BBC Verify traces the path of the destructive Nepal-Tibet flash flood using veri
 
 ---
 
-### 5. Uefa preparing criminal legal action against Infantino
+### 5. Extra 200 police drafted in to aid force investigating wrong-way crash and fire deaths
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Uefa is pursuing criminal proceedings against Fifa president Gianni Infantino over the scrapped plan to sell off stakes in the World Cup.
+Cleveland Police confirms it has support from six local forces and the National Crime Agency.
 
-🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/cx2zl5kwlxjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/cx2zl5kwlxjo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckgvnjpv1l0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckgvnjpv1l0o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Allan Little: I met dangerously fanatical Mladić early in Bosnian war
+### 6. Clean-up of illegal waste supersite costs taxpayers £6m
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-BBC special correspondent Allan Little met the "Butcher of Bosnia" in the early months of the Bosnian war.
+The bill for clearing the dump in Oxfordshire has been covered by taxpayers.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cgl744j0ww1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cgl744j0ww1o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvgyx45zzwgo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvgyx45zzwgo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. US aid cuts threaten Ghana’s child immunisation gains
+### 7. Algeria residents mourn neighbours lost in wildfire aftermath
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ghana faces a $78.2m health funding shortfall as aid cuts put immunisation gains at risk.
+Residents of Algeria’s northeastern Jijel province are inspecting the aftermath of wildfires.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/28/us-aid-cuts-threaten-ghanas-child-immunisation-gains?traffic_source=rss](https://www.aljazeera.com/news/2026/8/28/us-aid-cuts-threaten-ghanas-child-immunisation-gains?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/28/algeria-residents-mourn-neighbours-lost-in-wildfire-aftermath?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/28/algeria-residents-mourn-neighbours-lost-in-wildfire-aftermath?traffic_source=rss)
 
 ---
 
-### 8. Iran war live: Tehran prepares conditions to open Strait of Hormuz
+### 8. DRC begins vaccinating front-line healthcare workers against Ebola
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Iran says it is preparing to draft conditions to open the Strait of Hormuz following mediator requests.
+Trials for a vaccine for the Bundibugyo strain are ongoing as DRC authorities try to control the Ebola outbreak.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/8/28/iran-war-live-tehran-prepares-conditions-to-open-strait-of-hormuz?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/8/28/iran-war-live-tehran-prepares-conditions-to-open-strait-of-hormuz?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/28/drc-begins-vaccinating-front-line-healthcare-workers-against-ebola?traffic_source=rss](https://www.aljazeera.com/news/2026/8/28/drc-begins-vaccinating-front-line-healthcare-workers-against-ebola?traffic_source=rss)
 
 ---
 
-### 9. US charges 81 in Puerto Rico gang case, as Trump cartel crackdown continues
+### 9. Nepal’s mudslide wiped out areas of eastern China, army helps search
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The arrests are part of a federal task force initiative targeting criminal gangs and transnational organisations.
+China has dispatched hundreds of military personnel to the border town of Gyirong in Tibet, after a deadly mudslide.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/27/us-charges-81-in-puerto-rico-gang-case-as-trump-cartel-crackdown-continues?traffic_source=rss](https://www.aljazeera.com/news/2026/8/27/us-charges-81-in-puerto-rico-gang-case-as-trump-cartel-crackdown-continues?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/28/nepals-mudslide-wiped-out-areas-of-eastern-china-army-helps-search?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/28/nepals-mudslide-wiped-out-areas-of-eastern-china-army-helps-search?traffic_source=rss)
 
 ---
 

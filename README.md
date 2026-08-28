@@ -1,94 +1,142 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-28 17:37:13
+**Last Update:** 2026-08-28 22:21:47
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Watch: Why rescuers fear new barrier lake could cause another Nepal-Tibet flood
+### 1. Secrets of the Atomic City
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://longreads.com/2026/08/06/radiation-paducah-atavist/">https://longreads.com/2026/08/06/radiation-paducah-atavist/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49481672">https://news.ycombinator.com/item?id=49481672</a></p>
+<p>Points: 12</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://longreads.com/2026/08/06/radiation-paducah-atavist/](https://longreads.com/2026/08/06/radiation-paducah-atavist/)
+
+---
+
+### 2. Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://arxiv.org/abs/2608.23691">https://arxiv.org/abs/2608.23691</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49481455">https://news.ycombinator.com/item?id=49481455</a></p>
+<p>Points: 14</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://arxiv.org/abs/2608.23691](https://arxiv.org/abs/2608.23691)
+
+---
+
+### 3. Attimet (YC F24) Is Hiring Members of Technical Staff – Engineering and Research
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.ycombinator.com/companies/attimet/jobs/6btZFDg-member-of-technical-staff-engineering">https://www.ycombinator.com/companies/attimet/jobs/6btZFDg-member-of-technical-staff-engineering</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49481423">https://news.ycombinator.com/item?id=49481423</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.ycombinator.com/companies/attimet/jobs/6btZFDg-member-of-technical-staff-engineering](https://www.ycombinator.com/companies/attimet/jobs/6btZFDg-member-of-technical-staff-engineering)
+
+---
+
+### 4. Videos show people survive floodwaters on balcony in Nepal
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Laura Bicker explains how a lake which formed after the recent landslide near the Nepal-Tibet border is raising fears of a second flood.
+BBC Verify has located several videos from disaster-struck areas of the Trishuli river after deadly floods swept through.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cj06j16vpr5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cj06j16vpr5o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cx2z81kmeggo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cx2z81kmeggo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 2. Disorder at balloon release for man who died in A66 car crash 'put lives at risk', MP says
+### 5. What we know about the 33 British nationals missing in Nepal
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Footage shows cars being set on fire during an event for one of the young men who died in A66 crash.
+Among those reported missing after deadly floods are a 13-year-old girl and 14-year-old boy.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cdj43zkjweyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cdj43zkjweyo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c93v70w79gxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c93v70w79gxo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 3. Four plead guilty to arson attack on Jewish community ambulances
+### 6. Norway's 'grandfather': King Harald remembered as son Haakon takes the throne
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Four vehicles run by a charity were set alight in Golders Green, north-west London, causing explosions in March.
+Norwegians paid their respects to the late King Harld after his death on Friday morning.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c1j4rkywx3lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c1j4rkywx3lo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c05rzd115y5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c05rzd115y5o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. UK has billions in contracts with firms tied to illegal Israeli settlements
+### 7. Israeli strike kills three Palestinians in West Bank’s Jenin
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Al Jazeera investigation reveals UK public money flowing to companies linked to Israeli settlements in occupied land.
+Israel&#039;s prime minister and defence minister praise the attack as Hamas calls for Israeli &#039;crimes&#039; to stop.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/28/uk-has-billions-in-contracts-with-firms-tied-to-illegal-israeli-settlements?traffic_source=rss](https://www.aljazeera.com/news/2026/8/28/uk-has-billions-in-contracts-with-firms-tied-to-illegal-israeli-settlements?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/28/israeli-strike-kills-three-palestinians-in-west-banks-jenin?traffic_source=rss](https://www.aljazeera.com/news/2026/8/28/israeli-strike-kills-three-palestinians-in-west-banks-jenin?traffic_source=rss)
 
 ---
 
-### 5. Europa League draw: Bournemouth, Sunderland get glamour ties with AC Milan
+### 8. ‘Terrorist connection’ alleged in Trump’s Scotland golf course damage case
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Teams playing in UEFA&#039;s Europa League and Conference League find out their opponents as league phase draws made.
+Seven people have been charged in connection with damage to Donald Trump’s Turnberry golf resort in Scotland in 2025.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/28/europa-league-draw-bournemouth-sunderland-get-glamour-ties-with-ac-milan?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/28/europa-league-draw-bournemouth-sunderland-get-glamour-ties-with-ac-milan?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/28/28-08-sv-trump-golf-course-terror-charges-fm?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/28/28-08-sv-trump-golf-course-terror-charges-fm?traffic_source=rss)
 
 ---
 
-### 6. Qatar pledges support for efforts to end Libya’s political division
+### 9. US judge denies injunction against Trump’s new birthright citizenship order
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Qatari minister meets army chief amid efforts to bridge longstanding political divisions in Libya.
+The rejection is a temporary setback for immigrant rights advocates, who have been instructed to revise their petition.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/28/qatar-pledges-support-for-efforts-to-end-libyas-political-division?traffic_source=rss](https://www.aljazeera.com/news/2026/8/28/qatar-pledges-support-for-efforts-to-end-libyas-political-division?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/28/us-judge-denies-injunction-against-trumps-new-birthright-citizenship-order?traffic_source=rss](https://www.aljazeera.com/news/2026/8/28/us-judge-denies-injunction-against-trumps-new-birthright-citizenship-order?traffic_source=rss)
 
 ---
 
-### 7. Wildfire Calico, Humboldt, Nevada
+### 10. Wildfire Calico, Humboldt, Nevada
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Wildfires
 
 ---
 
-### 8. Wildfire McConnell, Humboldt, Nevada
+### 11. Wildfire McConnell, Humboldt, Nevada
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Wildfires
 
 ---
 
-### 9. Wildfire LAUGHLIN, Colfax, New Mexico
+### 12. Wildfire LAUGHLIN, Colfax, New Mexico
 
 **Source:** NASA
 

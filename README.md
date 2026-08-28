@@ -1,60 +1,61 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-28 00:07:08
+**Last Update:** 2026-08-28 04:51:31
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Silicon Valley is in denial in face of widespread backlash
+### 1. Terminal-Bench-Science: Evaluating AI agents on scientific research workflows
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.bloodinthemachine.com/p/with-the-backlash-to-data-centers">https://www.bloodinthemachine.com/p/with-the-backlash-to-data-centers</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49470380">https://news.ycombinator.com/item?id=49470380</a></p>
-<p>Points: 14</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.terminal-bench-science.ai/announcement">https://www.terminal-bench-science.ai/announcement</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49472820">https://news.ycombinator.com/item?id=49472820</a></p>
+<p>Points: 13</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://www.bloodinthemachine.com/p/with-the-backlash-to-data-centers](https://www.bloodinthemachine.com/p/with-the-backlash-to-data-centers)
+🔗 **Read more:** [https://www.terminal-bench-science.ai/announcement](https://www.terminal-bench-science.ai/announcement)
 
 ---
 
-### 2. Nvidia Starts Pac as AI Chip Maker Builds DC Influence Force
+### 2. Select * from Internet.blogposts
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://news.bgov.com/bloomberg-government-news/nvidia-starts-a-pac-as-ai-chip-maker-buids-influence-force-in-dc">https://news.bgov.com/bloomberg-government-news/nvidia-starts-a-pac-as-ai-chip-maker-buids-influence-force-in-dc</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49469249">https://news.ycombinator.com/item?id=49469249</a></p>
-<p>Points: 56</p>
-<p># Comments: 21</p>
+<p>Article URL: <a href="https://pfrazee.leaflet.pub/3mu3p2smmis22">https://pfrazee.leaflet.pub/3mu3p2smmis22</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49472161">https://news.ycombinator.com/item?id=49472161</a></p>
+<p>Points: 31</p>
+<p># Comments: 8</p>
 
-🔗 **Read more:** [https://news.bgov.com/bloomberg-government-news/nvidia-starts-a-pac-as-ai-chip-maker-buids-influence-force-in-dc](https://news.bgov.com/bloomberg-government-news/nvidia-starts-a-pac-as-ai-chip-maker-buids-influence-force-in-dc)
+🔗 **Read more:** [https://pfrazee.leaflet.pub/3mu3p2smmis22](https://pfrazee.leaflet.pub/3mu3p2smmis22)
 
 ---
 
-### 3. Autism mutations drive neurodevelopmental pathology
+### 3. Doctors are finally learning to manage antidepressant withdrawal
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.science.org/doi/10.1126/science.ady4523">https://www.science.org/doi/10.1126/science.ady4523</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49469098">https://news.ycombinator.com/item?id=49469098</a></p>
-<p>Points: 44</p>
-<p># Comments: 37</p>
+<p><a href="https://web.archive.org/web/20260826205502/https://www.newscientist.com/article/2584861-antidepressant-withdrawal-symptoms-are-prompting-a-radical-rethink-of-how-we-treat-depression/" rel="nofollow">https://web.archive.org/web/20260826205502/https://www.newsc...</a><p><a href="https://archive.ph/zahjc" rel="nofollow">https://archive.ph/zahjc</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49472090">https://news.ycombinator.com/item?id=49472090</a></p>
+<p>Points: 59</p>
+<p># Comments: 62</p>
 
-🔗 **Read more:** [https://www.science.org/doi/10.1126/science.ady4523](https://www.science.org/doi/10.1126/science.ady4523)
+🔗 **Read more:** [https://www.newscientist.com/article/2584861-antidepressant-withdrawal-symptoms-are-prompting-a-radical-rethink-of-how-we-treat-depression/](https://www.newscientist.com/article/2584861-antidepressant-withdrawal-symptoms-are-prompting-a-radical-rethink-of-how-we-treat-depression/)
 
 ---
 
@@ -84,72 +85,59 @@ Uefa is pursuing criminal proceedings against Fifa president Gianni Infantino ov
 
 ---
 
-### 6. The monstrous crimes of Ratko Mladic, the 'Butcher of Bosnia'
+### 6. Allan Little: I met dangerously fanatical Mladić early in Bosnian war
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The Bosnian Serb commander led a campaign of ethnic cleansing during the Bosnian conflict.
+BBC special correspondent Allan Little met the "Butcher of Bosnia" in the early months of the Bosnian war.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c2q05wzlx5xo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c2q05wzlx5xo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cgl744j0ww1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cgl744j0ww1o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Belugas and dolphins rescued from Canada’s Marineland arrive in Spain
+### 7. US aid cuts threaten Ghana’s child immunisation gains
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Two belugas and four dolphins from Canada’s Marineland were relocated to an aquarium in Spain.
+Ghana faces a $78.2m health funding shortfall as aid cuts put immunisation gains at risk.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/27/belugas-and-dolphins-rescued-from-canadas-marineland-arrive-in-spain?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/27/belugas-and-dolphins-rescued-from-canadas-marineland-arrive-in-spain?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/28/us-aid-cuts-threaten-ghanas-child-immunisation-gains?traffic_source=rss](https://www.aljazeera.com/news/2026/8/28/us-aid-cuts-threaten-ghanas-child-immunisation-gains?traffic_source=rss)
 
 ---
 
-### 8. Al Jazeera reporter witnesses wildfire smoke toll on kids inside Indonesia
+### 8. Iran war live: Tehran prepares conditions to open Strait of Hormuz
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Al Jazeera’s Jessica Washington reports from an Indonesian clinic treating children struggling to breathe amid wildfires
+Iran says it is preparing to draft conditions to open the Strait of Hormuz following mediator requests.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/27/08-27-26-jess-wt-kalimantan-fires-reported?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/27/08-27-26-jess-wt-kalimantan-fires-reported?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/8/28/iran-war-live-tehran-prepares-conditions-to-open-strait-of-hormuz?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/8/28/iran-war-live-tehran-prepares-conditions-to-open-strait-of-hormuz?traffic_source=rss)
 
 ---
 
-### 9. Trump executive order bans some foreign equipment in US energy grid
+### 9. US charges 81 in Puerto Rico gang case, as Trump cartel crackdown continues
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Order declares a national emergency over an &#039;unusual and extraordinary foreign threat&#039; to the grid.
+The arrests are part of a federal task force initiative targeting criminal gangs and transnational organisations.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/27/trump-executive-order-bans-some-foreign-equipment-in-us-energy-grid?traffic_source=rss](https://www.aljazeera.com/news/2026/8/27/trump-executive-order-bans-some-foreign-equipment-in-us-energy-grid?traffic_source=rss)
-
----
-
-### 10. Tropical Storm Julio
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23286](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23286)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/27/us-charges-81-in-puerto-rico-gang-case-as-trump-cartel-crackdown-continues?traffic_source=rss](https://www.aljazeera.com/news/2026/8/27/us-charges-81-in-puerto-rico-gang-case-as-trump-cartel-crackdown-continues?traffic_source=rss)
 
 ---
 
-### 11. Wildfire Old Deer, Carson, Texas
+### 10. Wildfire Calico, Humboldt, Nevada
 
 **Source:** NASA
 
@@ -158,11 +146,11 @@ Natural event: Severe Storms
 **Description:**
 Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23209](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23209)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23453](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23453)
 
 ---
 
-### 12. Wildfire 22, Miami-Dade, Florida
+### 11. Wildfire McConnell, Humboldt, Nevada
 
 **Source:** NASA
 
@@ -171,7 +159,20 @@ Natural event: Wildfires
 **Description:**
 Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23225](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23225)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23455](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23455)
+
+---
+
+### 12. Wildfire LAUGHLIN, Colfax, New Mexico
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23466](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23466)
 
 ---
 

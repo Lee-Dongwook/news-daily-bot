@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-29T16:32:37+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Iceland votes on whether to restart talks on joining EU",
+            "description": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cn45vdxyvvlo\">https://www.bbc.com/news/articles/cn45vdxyvvlo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49489057\">https://news.ycombinator.com/item?id=49489057</a></p>\n<p>Points: 97</p>\n<p># Comments: 107</p>",
+            "url": "https://www.bbc.com/news/articles/cn45vdxyvvlo",
+            "published": "Sat, 29 Aug 2026 11:39:38 +0000",
+            "fetched": "2026-08-29T16:32:37+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Samsung's Processing-in-Memory (PIM)",
+            "description": "<p>Article URL: <a href=\"https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing\">https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49487341\">https://news.ycombinator.com/item?id=49487341</a></p>\n<p>Points: 138</p>\n<p># Comments: 46</p>",
+            "url": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
+            "published": "Sat, 29 Aug 2026 06:06:51 +0000",
+            "fetched": "2026-08-29T16:32:37+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "TurboKV: Insanely fast Rust key-value store",
+            "description": "<p>Article URL: <a href=\"https://github.com/kingroryg/turbokv\">https://github.com/kingroryg/turbokv</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49486334\">https://news.ycombinator.com/item?id=49486334</a></p>\n<p>Points: 127</p>\n<p># Comments: 58</p>",
+            "url": "https://github.com/kingroryg/turbokv",
+            "published": "Sat, 29 Aug 2026 02:23:37 +0000",
+            "fetched": "2026-08-29T16:32:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Christian festival 'devastated' as man dies after sign falls",
+            "description": "Police say at least six other people were also injured in the incident at the Big Church Festival.",
+            "url": "https://www.bbc.co.uk/news/articles/c158939pz4do?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 29 Aug 2026 12:35:09 GMT",
+            "fetched": "2026-08-29T16:32:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+            "description": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
+            "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 29 Aug 2026 12:55:39 GMT",
+            "fetched": "2026-08-29T16:32:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham's summer tour is over - now he has to prove himself in Parliament",
+            "description": "The imminent return of Parliament will put the new prime minister under real scrutiny, with MPs finally getting a chance to grill him.",
+            "url": "https://www.bbc.co.uk/news/articles/cvgy48r1nr4o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 29 Aug 2026 10:31:18 GMT",
+            "fetched": "2026-08-29T16:32:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Formula One champion Lando Norris extends McLaren contract until 2030",
+            "description": "Last season, 26-year-old Norris delivered McLaren&#039;s first drivers&#039; title since Lewis Hamilton won it in 2008.",
+            "url": "https://www.aljazeera.com/sports/2026/8/29/formula-one-champion-lando-norris-extends-mclaren-contract-until-2030?traffic_source=rss",
+            "published": "Sat, 29 Aug 2026 12:34:03 +0000",
+            "fetched": "2026-08-29T16:32:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Zimbabwe minibus carrying church members crashes, killing at least 27",
+            "description": "The crash occurred when a truck overtook another vehicle and struck the minibus, police say.",
+            "url": "https://www.aljazeera.com/news/2026/8/29/zimbabwe-minibus-carrying-church-members-crashes-killing-at-least-27?traffic_source=rss",
+            "published": "Sat, 29 Aug 2026 12:02:57 +0000",
+            "fetched": "2026-08-29T16:32:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Can “super coral” and cooling the sea, save reefs from climate change?",
+            "description": "101 East investigates whether Palau may hold the key to saving the world’s coral reefs from climate-driven destruction.",
+            "url": "https://www.aljazeera.com/video/101-east/2026/8/29/can-super-coral-and-cooling-the-sea-save-reefs-from-climate-change?traffic_source=rss",
+            "published": "Sat, 29 Aug 2026 11:30:00 +0000",
+            "fetched": "2026-08-29T16:32:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Calico, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23453",
+            "published": "2026-08-26T17:29:00Z",
+            "fetched": "2026-08-29T16:32:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire McConnell, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23455",
+            "published": "2026-08-25T20:43:00Z",
+            "fetched": "2026-08-29T16:32:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire LAUGHLIN, Colfax, New Mexico",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23466",
+            "published": "2026-08-25T18:35:00Z",
+            "fetched": "2026-08-29T16:32:37+03:30"
+        }
+    ]
+}

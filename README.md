@@ -1,48 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-29 12:42:19
+**Last Update:** 2026-08-29 16:32:37
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Autistici/inventati: Manifesto – who we are and what do we want (2002)
+### 1. Iceland votes on whether to restart talks on joining EU
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.inventati.org/who/manifesto">https://www.inventati.org/who/manifesto</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49487786">https://news.ycombinator.com/item?id=49487786</a></p>
-<p>Points: 45</p>
-<p># Comments: 20</p>
+<p>Article URL: <a href="https://www.bbc.com/news/articles/cn45vdxyvvlo">https://www.bbc.com/news/articles/cn45vdxyvvlo</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49489057">https://news.ycombinator.com/item?id=49489057</a></p>
+<p>Points: 97</p>
+<p># Comments: 107</p>
 
-🔗 **Read more:** [https://www.inventati.org/who/manifesto](https://www.inventati.org/who/manifesto)
-
----
-
-### 2. e is a customizable self-aware Emacs-like editor written in Chez Scheme
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/paveluv/e">https://github.com/paveluv/e</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49487506">https://news.ycombinator.com/item?id=49487506</a></p>
-<p>Points: 16</p>
-<p># Comments: 11</p>
-
-🔗 **Read more:** [https://github.com/paveluv/e](https://github.com/paveluv/e)
+🔗 **Read more:** [https://www.bbc.com/news/articles/cn45vdxyvvlo](https://www.bbc.com/news/articles/cn45vdxyvvlo)
 
 ---
 
-### 3. Samsung's Processing-in-Memory (PIM)
+### 2. Samsung's Processing-in-Memory (PIM)
 
 **Source:** Hacker News
 
@@ -51,40 +35,30 @@
 **Description:**
 <p>Article URL: <a href="https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing">https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49487341">https://news.ycombinator.com/item?id=49487341</a></p>
-<p>Points: 61</p>
-<p># Comments: 11</p>
+<p>Points: 138</p>
+<p># Comments: 46</p>
 
 🔗 **Read more:** [https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing](https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing)
 
 ---
 
-### 4. 97-year-old woman rescued after Nepali floods looked like 'a warrior'
+### 3. TurboKV: Insanely fast Rust key-value store
 
-**Source:** BBC
+**Source:** Hacker News
 
-**Category:** world
+**Category:** technology
 
 **Description:**
-A 97-year-old woman, Guna Maya Bohara, survived the flash floods and was rescued using an excavator.
+<p>Article URL: <a href="https://github.com/kingroryg/turbokv">https://github.com/kingroryg/turbokv</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49486334">https://news.ycombinator.com/item?id=49486334</a></p>
+<p>Points: 127</p>
+<p># Comments: 58</p>
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cj64kgrpgjdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cj64kgrpgjdo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://github.com/kingroryg/turbokv](https://github.com/kingroryg/turbokv)
 
 ---
 
-### 5. Footage of Tibet floods isn't being shown in China - and we know little about victims there
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Christian festival 'devastated' as man dies after sign falls
+### 4. Christian festival 'devastated' as man dies after sign falls
 
 **Source:** BBC
 
@@ -97,42 +71,68 @@ Police say at least six other people were also injured in the incident at the Bi
 
 ---
 
-### 7. LIVE: Liverpool vs Nottingham Forest – Premier League
+### 5. At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-Live text updates from our commentary stream coverage as Florian Wirtz and Dominik Szoboszlai try to inspire the Reds.
+An investigation has begun into the storage of weapons for Ukraine's military near a residential area.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/liveblog/2026/8/29/live-liverpool-vs-nottingham-forest-premier-league?traffic_source=rss](https://www.aljazeera.com/sports/liveblog/2026/8/29/live-liverpool-vs-nottingham-forest-premier-league?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. Aston Villa sign Chelsea striker Nicolas Jackson for reported club record
+### 6. Burnham's summer tour is over - now he has to prove himself in Parliament
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-Jackson arrives as a replacement for Ollie Watkins, whose move to Saudi Arabian side Al Hilal is being finalised.
+The imminent return of Parliament will put the new prime minister under real scrutiny, with MPs finally getting a chance to grill him.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/29/aston-villa-sign-chelsea-striker-nicolas-jackson-for-reported-club-record?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/29/aston-villa-sign-chelsea-striker-nicolas-jackson-for-reported-club-record?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvgy48r1nr4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvgy48r1nr4o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 9. India and Pakistan are united in spending citizen lives like pocket change
+### 7. Formula One champion Lando Norris extends McLaren contract until 2030
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Recent hospital fires expose how little decades of national achievement mean when basic public safety still fails.
+Last season, 26-year-old Norris delivered McLaren&#039;s first drivers&#039; title since Lewis Hamilton won it in 2008.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/29/india-and-pakistan-are-united-in-spending-citizen-lives-like-pocket-change?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/29/india-and-pakistan-are-united-in-spending-citizen-lives-like-pocket-change?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/29/formula-one-champion-lando-norris-extends-mclaren-contract-until-2030?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/29/formula-one-champion-lando-norris-extends-mclaren-contract-until-2030?traffic_source=rss)
+
+---
+
+### 8. Zimbabwe minibus carrying church members crashes, killing at least 27
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The crash occurred when a truck overtook another vehicle and struck the minibus, police say.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/29/zimbabwe-minibus-carrying-church-members-crashes-killing-at-least-27?traffic_source=rss](https://www.aljazeera.com/news/2026/8/29/zimbabwe-minibus-carrying-church-members-crashes-killing-at-least-27?traffic_source=rss)
+
+---
+
+### 9. Can “super coral” and cooling the sea, save reefs from climate change?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+101 East investigates whether Palau may hold the key to saving the world’s coral reefs from climate-driven destruction.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/101-east/2026/8/29/can-super-coral-and-cooling-the-sea-save-reefs-from-climate-change?traffic_source=rss](https://www.aljazeera.com/video/101-east/2026/8/29/can-super-coral-and-cooling-the-sea-save-reefs-from-climate-change?traffic_source=rss)
 
 ---
 

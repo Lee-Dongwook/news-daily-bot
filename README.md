@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-29 09:49:19
+**Last Update:** 2026-08-29 12:42:19
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. TurboKV: Insanely fast Rust key-value store
+### 1. Autistici/inventati: Manifesto – who we are and what do we want (2002)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/kingroryg/turbokv">https://github.com/kingroryg/turbokv</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49486334">https://news.ycombinator.com/item?id=49486334</a></p>
-<p>Points: 60</p>
+<p>Article URL: <a href="https://www.inventati.org/who/manifesto">https://www.inventati.org/who/manifesto</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49487786">https://news.ycombinator.com/item?id=49487786</a></p>
+<p>Points: 45</p>
 <p># Comments: 20</p>
 
-🔗 **Read more:** [https://github.com/kingroryg/turbokv](https://github.com/kingroryg/turbokv)
+🔗 **Read more:** [https://www.inventati.org/who/manifesto](https://www.inventati.org/who/manifesto)
 
 ---
 
-### 2. Kumander Linux – A Linux Distro with a Windows 7 Desktop
+### 2. e is a customizable self-aware Emacs-like editor written in Chez Scheme
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.kumander.org/">https://www.kumander.org/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49486176">https://news.ycombinator.com/item?id=49486176</a></p>
-<p>Points: 34</p>
+<p>Article URL: <a href="https://github.com/paveluv/e">https://github.com/paveluv/e</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49487506">https://news.ycombinator.com/item?id=49487506</a></p>
+<p>Points: 16</p>
 <p># Comments: 11</p>
 
-🔗 **Read more:** [https://www.kumander.org/](https://www.kumander.org/)
+🔗 **Read more:** [https://github.com/paveluv/e](https://github.com/paveluv/e)
 
 ---
 
-### 3. Our decision on Cursor following its acquisition by SpaceX
+### 3. Samsung's Processing-in-Memory (PIM)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/">https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49486172">https://news.ycombinator.com/item?id=49486172</a></p>
-<p>Points: 344</p>
-<p># Comments: 135</p>
+<p>Article URL: <a href="https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing">https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49487341">https://news.ycombinator.com/item?id=49487341</a></p>
+<p>Points: 61</p>
+<p># Comments: 11</p>
 
-🔗 **Read more:** [https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/](https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/)
+🔗 **Read more:** [https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing](https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing)
 
 ---
 
@@ -84,55 +84,55 @@ Some of the most dramatic footage from the deadly flash flooding is hidden from 
 
 ---
 
-### 6. Man dies and at least six injured after sign falls at Christian festival
+### 6. Christian festival 'devastated' as man dies after sign falls
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-A 41-year-old man died at the Christian event near Steyning in West Sussex, police say.
+Police say at least six other people were also injured in the incident at the Big Church Festival.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwyz52x45jxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwyz52x45jxo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c158939pz4do?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c158939pz4do?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Bernie Sanders, AOC join marchers in Washington to ‘defend the vote’
+### 7. LIVE: Liverpool vs Nottingham Forest – Premier League
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Thousands of people marched on Washington DC, invoking Martin Luther King Jr.’s legacy on the 63rd anniversary.
+Live text updates from our commentary stream coverage as Florian Wirtz and Dominik Szoboszlai try to inspire the Reds.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/29/bernie-sanders-aoc-join-marchers-in-washington-to-defend-the?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/29/bernie-sanders-aoc-join-marchers-in-washington-to-defend-the?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/liveblog/2026/8/29/live-liverpool-vs-nottingham-forest-premier-league?traffic_source=rss](https://www.aljazeera.com/sports/liveblog/2026/8/29/live-liverpool-vs-nottingham-forest-premier-league?traffic_source=rss)
 
 ---
 
-### 8. Iceland heads to the polls in knife-edge vote on restarting EU talks
+### 8. Aston Villa sign Chelsea striker Nicolas Jackson for reported club record
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Amid economic and security challenges, Iceland is holding a referendum more than a decade after pausing accession talks.
+Jackson arrives as a replacement for Ollie Watkins, whose move to Saudi Arabian side Al Hilal is being finalised.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/29/why-is-iceland-considering-joining-the-eu?traffic_source=rss](https://www.aljazeera.com/news/2026/8/29/why-is-iceland-considering-joining-the-eu?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/29/aston-villa-sign-chelsea-striker-nicolas-jackson-for-reported-club-record?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/29/aston-villa-sign-chelsea-striker-nicolas-jackson-for-reported-club-record?traffic_source=rss)
 
 ---
 
-### 9. What’s in the US-Venezuela ‘biggest oil deal in world history?’
+### 9. India and Pakistan are united in spending citizen lives like pocket change
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US President Donald Trump has claimed the US and Venezuela have reached the ‘biggest oil deal in world history’.
+Recent hospital fires expose how little decades of national achievement mean when basic public safety still fails.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/29/whats-in-the-us-venezuela-biggest-oil-deal-in-world-history?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/29/whats-in-the-us-venezuela-biggest-oil-deal-in-world-history?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/29/india-and-pakistan-are-united-in-spending-citizen-lives-like-pocket-change?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/29/india-and-pakistan-are-united-in-spending-citizen-lives-like-pocket-change?traffic_source=rss)
 
 ---
 

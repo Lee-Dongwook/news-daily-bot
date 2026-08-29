@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-29 16:32:37
+**Last Update:** 2026-08-29 18:05:25
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Iceland votes on whether to restart talks on joining EU
+### 1. Debian votes to allow "responsible use of generative AI"
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://lwn.net/Articles/1091231/">https://lwn.net/Articles/1091231/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49489982">https://news.ycombinator.com/item?id=49489982</a></p>
+<p>Points: 26</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://lwn.net/Articles/1091231/](https://lwn.net/Articles/1091231/)
+
+---
+
+### 2. I'm teaching an introductory 12 week course on Quantum Oracle Engineering
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://shukla.io/quantum-oracle-engineering/">https://shukla.io/quantum-oracle-engineering/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49489864">https://news.ycombinator.com/item?id=49489864</a></p>
+<p>Points: 7</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://shukla.io/quantum-oracle-engineering/](https://shukla.io/quantum-oracle-engineering/)
+
+---
+
+### 3. Iceland votes on whether to restart talks on joining EU
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.bbc.com/news/articles/cn45vdxyvvlo">https://www.bbc.com/news/articles/cn45vdxyvvlo</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49489057">https://news.ycombinator.com/item?id=49489057</a></p>
-<p>Points: 97</p>
-<p># Comments: 107</p>
+<p>Points: 218</p>
+<p># Comments: 252</p>
 
 🔗 **Read more:** [https://www.bbc.com/news/articles/cn45vdxyvvlo](https://www.bbc.com/news/articles/cn45vdxyvvlo)
-
----
-
-### 2. Samsung's Processing-in-Memory (PIM)
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing">https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49487341">https://news.ycombinator.com/item?id=49487341</a></p>
-<p>Points: 138</p>
-<p># Comments: 46</p>
-
-🔗 **Read more:** [https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing](https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing)
-
----
-
-### 3. TurboKV: Insanely fast Rust key-value store
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/kingroryg/turbokv">https://github.com/kingroryg/turbokv</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49486334">https://news.ycombinator.com/item?id=49486334</a></p>
-<p>Points: 127</p>
-<p># Comments: 58</p>
-
-🔗 **Read more:** [https://github.com/kingroryg/turbokv](https://github.com/kingroryg/turbokv)
 
 ---
 
@@ -97,42 +97,42 @@ The imminent return of Parliament will put the new prime minister under real scr
 
 ---
 
-### 7. Formula One champion Lando Norris extends McLaren contract until 2030
+### 7. People stranded for days on dilapidated Nigerian highway
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Last season, 26-year-old Norris delivered McLaren&#039;s first drivers&#039; title since Lewis Hamilton won it in 2008.
+Al Jazeera asked people on the Benin-Agbor-Asaba road how they view this infrastructure crisis.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/29/formula-one-champion-lando-norris-extends-mclaren-contract-until-2030?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/29/formula-one-champion-lando-norris-extends-mclaren-contract-until-2030?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/29/people-stranded-for-days-on-dilapidated-nigerian-highway?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/29/people-stranded-for-days-on-dilapidated-nigerian-highway?traffic_source=rss)
 
 ---
 
-### 8. Zimbabwe minibus carrying church members crashes, killing at least 27
+### 8. Korea divided: A sister’s long wait and a defector’s bid to save his mother
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The crash occurred when a truck overtook another vehicle and struck the minibus, police say.
+An elderly South Korean waits to see a brother in the North one last time, while a North Korean defector risks it all.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/29/zimbabwe-minibus-carrying-church-members-crashes-killing-at-least-27?traffic_source=rss](https://www.aljazeera.com/news/2026/8/29/zimbabwe-minibus-carrying-church-members-crashes-killing-at-least-27?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/longform/2026/8/29/korea-divided-a-sisters-long-wait-and-a-defectors-bid-to-save-his-mother?traffic_source=rss](https://www.aljazeera.com/features/longform/2026/8/29/korea-divided-a-sisters-long-wait-and-a-defectors-bid-to-save-his-mother?traffic_source=rss)
 
 ---
 
-### 9. Can “super coral” and cooling the sea, save reefs from climate change?
+### 9. Mladic died a happy man. He won
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-101 East investigates whether Palau may hold the key to saving the world’s coral reefs from climate-driven destruction.
+He fought for fascism to triumph. And it did.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/101-east/2026/8/29/can-super-coral-and-cooling-the-sea-save-reefs-from-climate-change?traffic_source=rss](https://www.aljazeera.com/video/101-east/2026/8/29/can-super-coral-and-cooling-the-sea-save-reefs-from-climate-change?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/29/mladic-died-a-happy-man-he-won?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/29/mladic-died-a-happy-man-he-won?traffic_source=rss)
 
 ---
 

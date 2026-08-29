@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-29T09:49:19+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "TurboKV: Insanely fast Rust key-value store",
+            "description": "<p>Article URL: <a href=\"https://github.com/kingroryg/turbokv\">https://github.com/kingroryg/turbokv</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49486334\">https://news.ycombinator.com/item?id=49486334</a></p>\n<p>Points: 60</p>\n<p># Comments: 20</p>",
+            "url": "https://github.com/kingroryg/turbokv",
+            "published": "Sat, 29 Aug 2026 02:23:37 +0000",
+            "fetched": "2026-08-29T09:49:19+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Kumander Linux – A Linux Distro with a Windows 7 Desktop",
+            "description": "<p>Article URL: <a href=\"https://www.kumander.org/\">https://www.kumander.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49486176\">https://news.ycombinator.com/item?id=49486176</a></p>\n<p>Points: 34</p>\n<p># Comments: 11</p>",
+            "url": "https://www.kumander.org/",
+            "published": "Sat, 29 Aug 2026 01:48:15 +0000",
+            "fetched": "2026-08-29T09:49:19+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Our decision on Cursor following its acquisition by SpaceX",
+            "description": "<p>Article URL: <a href=\"https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/\">https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49486172\">https://news.ycombinator.com/item?id=49486172</a></p>\n<p>Points: 344</p>\n<p># Comments: 135</p>",
+            "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
+            "published": "Sat, 29 Aug 2026 01:47:53 +0000",
+            "fetched": "2026-08-29T09:49:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "97-year-old woman rescued after Nepali floods looked like 'a warrior'",
+            "description": "A 97-year-old woman, Guna Maya Bohara, survived the flash floods and was rescued using an excavator.",
+            "url": "https://www.bbc.co.uk/news/videos/cj64kgrpgjdo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 28 Aug 2026 21:17:54 GMT",
+            "fetched": "2026-08-29T09:49:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
+            "description": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
+            "url": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 29 Aug 2026 03:54:11 GMT",
+            "fetched": "2026-08-29T09:49:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Man dies and at least six injured after sign falls at Christian festival",
+            "description": "A 41-year-old man died at the Christian event near Steyning in West Sussex, police say.",
+            "url": "https://www.bbc.co.uk/news/articles/cwyz52x45jxo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 29 Aug 2026 05:29:27 GMT",
+            "fetched": "2026-08-29T09:49:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Bernie Sanders, AOC join marchers in Washington to ‘defend the vote’",
+            "description": "Thousands of people marched on Washington DC, invoking Martin Luther King Jr.’s legacy on the 63rd anniversary.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/bernie-sanders-aoc-join-marchers-in-washington-to-defend-the?traffic_source=rss",
+            "published": "Sat, 29 Aug 2026 05:27:25 +0000",
+            "fetched": "2026-08-29T09:49:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iceland heads to the polls in knife-edge vote on restarting EU talks",
+            "description": "Amid economic and security challenges, Iceland is holding a referendum more than a decade after pausing accession talks.",
+            "url": "https://www.aljazeera.com/news/2026/8/29/why-is-iceland-considering-joining-the-eu?traffic_source=rss",
+            "published": "Sat, 29 Aug 2026 05:18:46 +0000",
+            "fetched": "2026-08-29T09:49:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "What’s in the US-Venezuela ‘biggest oil deal in world history?’",
+            "description": "US President Donald Trump has claimed the US and Venezuela have reached the ‘biggest oil deal in world history’.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/whats-in-the-us-venezuela-biggest-oil-deal-in-world-history?traffic_source=rss",
+            "published": "Sat, 29 Aug 2026 04:16:01 +0000",
+            "fetched": "2026-08-29T09:49:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Calico, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23453",
+            "published": "2026-08-26T17:29:00Z",
+            "fetched": "2026-08-29T09:49:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire McConnell, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23455",
+            "published": "2026-08-25T20:43:00Z",
+            "fetched": "2026-08-29T09:49:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire LAUGHLIN, Colfax, New Mexico",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23466",
+            "published": "2026-08-25T18:35:00Z",
+            "fetched": "2026-08-29T09:49:19+03:30"
+        }
+    ]
+}

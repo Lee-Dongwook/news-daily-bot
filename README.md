@@ -1,77 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-29 18:05:25
+**Last Update:** 2026-08-29 21:04:23
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Debian votes to allow "responsible use of generative AI"
+### 1. Nancy Grace Roman Space Telescope
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://lwn.net/Articles/1091231/">https://lwn.net/Articles/1091231/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49489982">https://news.ycombinator.com/item?id=49489982</a></p>
-<p>Points: 26</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://science.nasa.gov/mission/roman-space-telescope/">https://science.nasa.gov/mission/roman-space-telescope/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49490870">https://news.ycombinator.com/item?id=49490870</a></p>
+<p>Points: 42</p>
+<p># Comments: 8</p>
 
-🔗 **Read more:** [https://lwn.net/Articles/1091231/](https://lwn.net/Articles/1091231/)
+🔗 **Read more:** [https://science.nasa.gov/mission/roman-space-telescope/](https://science.nasa.gov/mission/roman-space-telescope/)
 
 ---
 
-### 2. I'm teaching an introductory 12 week course on Quantum Oracle Engineering
+### 2. Quantifying Colour
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://shukla.io/quantum-oracle-engineering/">https://shukla.io/quantum-oracle-engineering/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49489864">https://news.ycombinator.com/item?id=49489864</a></p>
-<p>Points: 7</p>
+<p>Article URL: <a href="https://ekunazanu.foo/lab/quantifying-colour/">https://ekunazanu.foo/lab/quantifying-colour/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49490832">https://news.ycombinator.com/item?id=49490832</a></p>
+<p>Points: 13</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://shukla.io/quantum-oracle-engineering/](https://shukla.io/quantum-oracle-engineering/)
+🔗 **Read more:** [https://ekunazanu.foo/lab/quantifying-colour/](https://ekunazanu.foo/lab/quantifying-colour/)
 
 ---
 
-### 3. Iceland votes on whether to restart talks on joining EU
+### 3. Parsing the Infamous Japanese Postal CSV
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.bbc.com/news/articles/cn45vdxyvvlo">https://www.bbc.com/news/articles/cn45vdxyvvlo</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49489057">https://news.ycombinator.com/item?id=49489057</a></p>
-<p>Points: 218</p>
-<p># Comments: 252</p>
+<p>Article URL: <a href="https://www.dampfkraft.com/posuto.html">https://www.dampfkraft.com/posuto.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49490826">https://news.ycombinator.com/item?id=49490826</a></p>
+<p>Points: 23</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.bbc.com/news/articles/cn45vdxyvvlo](https://www.bbc.com/news/articles/cn45vdxyvvlo)
-
----
-
-### 4. Christian festival 'devastated' as man dies after sign falls
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Police say at least six other people were also injured in the incident at the Big Church Festival.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c158939pz4do?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c158939pz4do?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.dampfkraft.com/posuto.html](https://www.dampfkraft.com/posuto.html)
 
 ---
 
-### 5. At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot
+### 4. At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot
 
 **Source:** BBC
 
@@ -84,55 +71,68 @@ An investigation has begun into the storage of weapons for Ukraine's military ne
 
 ---
 
-### 6. Burnham's summer tour is over - now he has to prove himself in Parliament
+### 5. Christian festival 'devastated' as man dies after sign falls
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The imminent return of Parliament will put the new prime minister under real scrutiny, with MPs finally getting a chance to grill him.
+Police say at least six other people were also injured in the incident at the Big Church Festival.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvgy48r1nr4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvgy48r1nr4o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c158939pz4do?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c158939pz4do?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. People stranded for days on dilapidated Nigerian highway
+### 6. Cleverly quits shadow cabinet to run for London mayor
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The capital is not set to vote on a new mayor until 2028.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5ye8p8xpg4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5ye8p8xpg4o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 7. Israeli army arrests six Palestinians after settler violence in West Bank
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Al Jazeera asked people on the Benin-Agbor-Asaba road how they view this infrastructure crisis.
+Israeli settlers stormed Qusra in the occupied West Bank, attacking Palestinian residents and damaging homes.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/29/people-stranded-for-days-on-dilapidated-nigerian-highway?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/29/people-stranded-for-days-on-dilapidated-nigerian-highway?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/29/israeli-army-arrests-six-palestinians-after-settler-violence-in-west-bank?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/29/israeli-army-arrests-six-palestinians-after-settler-violence-in-west-bank?traffic_source=rss)
 
 ---
 
-### 8. Korea divided: A sister’s long wait and a defector’s bid to save his mother
+### 8. Niger military says it is regaining control after attempted mutiny
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-An elderly South Korean waits to see a brother in the North one last time, while a North Korean defector risks it all.
+Niger’s military says it is regaining control after a mutiny in Niamey after gun fire was heard in the capital.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/longform/2026/8/29/korea-divided-a-sisters-long-wait-and-a-defectors-bid-to-save-his-mother?traffic_source=rss](https://www.aljazeera.com/features/longform/2026/8/29/korea-divided-a-sisters-long-wait-and-a-defectors-bid-to-save-his-mother?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/29/08-29-26-niger-mutiny-sv?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/29/08-29-26-niger-mutiny-sv?traffic_source=rss)
 
 ---
 
-### 9. Mladic died a happy man. He won
+### 9. Russian strike on a munitions depot triggers deadly blasts near Kyiv
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-He fought for fascism to triumph. And it did.
+Russian strike on an arms depot near Kyiv sparked fires and explosions, killing at least 38 people and wounding dozens.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/29/mladic-died-a-happy-man-he-won?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/29/mladic-died-a-happy-man-he-won?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/29/29-08-sv-russia-strikes-arms-depot-kyiv-fm?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/29/29-08-sv-russia-strikes-arms-depot-kyiv-fm?traffic_source=rss)
 
 ---
 

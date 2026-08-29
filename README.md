@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-30 01:19:56
+**Last Update:** 2026-08-30 02:35:40
 
 **Total News:** 12
 
@@ -10,19 +10,19 @@
 
 ## 📰 Latest News
 
-### 1. What we want is a hunter gatherer lifestyle with space age tools
+### 1. $44M Solar-Powered EV Production Deal Struck
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.strangeloopcanon.com/p/what-we-want-is-a-hunter-gatherer">https://www.strangeloopcanon.com/p/what-we-want-is-a-hunter-gatherer</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49493244">https://news.ycombinator.com/item?id=49493244</a></p>
-<p>Points: 10</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://frequal.com/aptera/ProductionDealAug2026.html">https://frequal.com/aptera/ProductionDealAug2026.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49493563">https://news.ycombinator.com/item?id=49493563</a></p>
+<p>Points: 22</p>
+<p># Comments: 36</p>
 
-🔗 **Read more:** [https://www.strangeloopcanon.com/p/what-we-want-is-a-hunter-gatherer](https://www.strangeloopcanon.com/p/what-we-want-is-a-hunter-gatherer)
+🔗 **Read more:** [https://frequal.com/aptera/ProductionDealAug2026.html](https://frequal.com/aptera/ProductionDealAug2026.html)
 
 ---
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/">https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49492632">https://news.ycombinator.com/item?id=49492632</a></p>
-<p>Points: 69</p>
-<p># Comments: 25</p>
+<p>Points: 123</p>
+<p># Comments: 75</p>
 
 🔗 **Read more:** [https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/](https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://coldtake.dev/blog/domain-driven-agents">https://coldtake.dev/blog/domain-driven-agents</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49492584">https://news.ycombinator.com/item?id=49492584</a></p>
-<p>Points: 17</p>
-<p># Comments: 1</p>
+<p>Points: 25</p>
+<p># Comments: 2</p>
 
 🔗 **Read more:** [https://coldtake.dev/blog/domain-driven-agents](https://coldtake.dev/blog/domain-driven-agents)
 
@@ -97,7 +97,20 @@ Haakon VIII pays emotional tribute to his late father, Harald V, before outlinin
 
 ---
 
-### 7. Anger mounts in Nepal over the government’s response to flash flood
+### 7. What’s behind the US deal to seize control of Venezuelan oil reserves?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Few details have emerged about deal between Washington and Caracas, criticised as takeover of Venezuela&#039;s resources.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/29/whats-behind-the-us-deal-to-seize-control-of-venezuelan-oil-reserves?traffic_source=rss](https://www.aljazeera.com/news/2026/8/29/whats-behind-the-us-deal-to-seize-control-of-venezuelan-oil-reserves?traffic_source=rss)
+
+---
+
+### 8. Anger mounts in Nepal over the government’s response to flash flood
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Anger grows in Nepal as flood survivors accuse the government of delays in deliv
 
 ---
 
-### 8. Iceland votes in a tight race on whether to resume talks to join the EU
+### 9. Iceland votes in a tight race on whether to resume talks to join the EU
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Anger grows in Nepal as flood survivors accuse the government of delays in deliv
 Iceland’s Prime Minister, Kristrún Frostadóttir, cast her vote on Saturday as the country held a referendum.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/29/iceland-votes-in-a-tight-race-on-whether-to-resume-talks-to-join-the-eu?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/29/iceland-votes-in-a-tight-race-on-whether-to-resume-talks-to-join-the-eu?traffic_source=rss)
-
----
-
-### 9. Norway’s new king pays tribute to his late father as the country mourns
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-King Haakon VIII says King Harald represented Norway with &#039;pride and joy&#039;, promises to listen to Norwegians as monarch.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/29/norways-new-king-pays-tribute-to-his-late-father-as-the-country-mourns?traffic_source=rss](https://www.aljazeera.com/news/2026/8/29/norways-new-king-pays-tribute-to-his-late-father-as-the-country-mourns?traffic_source=rss)
 
 ---
 

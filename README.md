@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-29 03:24:55
+**Last Update:** 2026-08-29 05:49:22
 
 **Total News:** 12
 
@@ -10,51 +10,51 @@
 
 ## 📰 Latest News
 
-### 1. Boot a Virtual iPhone via Apple's Virtualization.framework
+### 1. Our decision on Cursor following its acquisition by SpaceX
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/Lakr233/vphone-cli">https://github.com/Lakr233/vphone-cli</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49485267">https://news.ycombinator.com/item?id=49485267</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/">https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49486172">https://news.ycombinator.com/item?id=49486172</a></p>
+<p>Points: 23</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://github.com/Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli)
+🔗 **Read more:** [https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/](https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/)
 
 ---
 
-### 2. Identifying fake cosmetics using AI
+### 2. StemDeck, a free, open-source and local AI stem separator
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html">https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49484925">https://news.ycombinator.com/item?id=49484925</a></p>
-<p>Points: 7</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://github.com/stemdeckapp/stemdeck">https://github.com/stemdeckapp/stemdeck</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49486081">https://news.ycombinator.com/item?id=49486081</a></p>
+<p>Points: 12</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html](https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html)
+🔗 **Read more:** [https://github.com/stemdeckapp/stemdeck](https://github.com/stemdeckapp/stemdeck)
 
 ---
 
-### 3. Stopping the smart TV from being used against you
+### 3. Does the Sumerian King List Align with Paleoclimate Events?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.s-config.com/stopping-a-smart-tv-from-being-used-against-you/">https://www.s-config.com/stopping-a-smart-tv-from-being-used-against-you/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49483816">https://news.ycombinator.com/item?id=49483816</a></p>
-<p>Points: 130</p>
-<p># Comments: 102</p>
+<p>Article URL: <a href="https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/">https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49485532">https://news.ycombinator.com/item?id=49485532</a></p>
+<p>Points: 49</p>
+<p># Comments: 14</p>
 
-🔗 **Read more:** [https://www.s-config.com/stopping-a-smart-tv-from-being-used-against-you/](https://www.s-config.com/stopping-a-smart-tv-from-being-used-against-you/)
+🔗 **Read more:** [https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/](https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/)
 
 ---
 
@@ -71,16 +71,16 @@ A 97-year-old woman, Guna Maya Bohara, survived the flash floods and was rescued
 
 ---
 
-### 5. What we know about the 33 British nationals missing in Nepal
+### 5. Footage of Tibet floods isn't being shown in China - and we know little about victims there
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Among those reported missing after deadly floods are a 13-year-old girl and 14-year-old boy.
+Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c93v70w79gxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c93v70w79gxo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +97,42 @@ A 41-year-old man died at the Big Church Festival near Steyning in West Sussex, 
 
 ---
 
-### 7. Far-right UK provocateur Milo Yiannopoulos detained by ICE in US
+### 7. Tuareg rebels free more Malian soldiers in prisoner swap, sources say
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A Trump administration official says the controversial commentator overstayed his visit in the US and will be removed.
+Tuareg rebels have freed about 60 Malian soldiers in exchange for one of their own leaders, security sources said.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/28/far-right-uk-provocateur-milo-yiannopoulos-detained-by-ice-in-us?traffic_source=rss](https://www.aljazeera.com/news/2026/8/28/far-right-uk-provocateur-milo-yiannopoulos-detained-by-ice-in-us?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/29/tuareg-rebels-free-more-malian-soldiers-in-prisoner-swap-sources-say?traffic_source=rss](https://www.aljazeera.com/news/2026/8/29/tuareg-rebels-free-more-malian-soldiers-in-prisoner-swap-sources-say?traffic_source=rss)
 
 ---
 
-### 8. Walmart settles US government’s opioid lawsuit
+### 8. Gunfire, blasts heard in several areas of Niger capital Niamey
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The Justice Department and Walmart confirmed the settlement without disclosing terms.
+Shots were heard around the city&#039;s Diori Hamani International Airport, and near the presidential palace.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/28/walmart-settles-us-governments-opioid-lawsuit?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/28/walmart-settles-us-governments-opioid-lawsuit?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/29/gunfire-blasts-heard-in-several-areas-of-niger-capital-niamey?traffic_source=rss](https://www.aljazeera.com/news/2026/8/29/gunfire-blasts-heard-in-several-areas-of-niger-capital-niamey?traffic_source=rss)
 
 ---
 
-### 9. Thousands take part in March on Washington to promote voting rights
+### 9. Board of Peace’s Mladenov warns Gaza could be ‘gone for good’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Protest draws crowds to Washington, DC amid Trump&#039;s threats of interference, voting restrictions in midterm elections.
+Top envoy for the US-led Board of Peace says Gaza is at risk of being ‘gone for good’ without reconstruction.
 
-🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/8/28/thousands-take-part-in-march-on-washington-to-promote-voting-rights?traffic_source=rss](https://www.aljazeera.com/gallery/2026/8/28/thousands-take-part-in-march-on-washington-to-promote-voting-rights?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/29/board-of-peaces-mladenov-warns-gaza-could-be-gone-for?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/29/board-of-peaces-mladenov-warns-gaza-could-be-gone-for?traffic_source=rss)
 
 ---
 

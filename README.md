@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-30 00:09:23
+**Last Update:** 2026-08-30 01:19:56
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Tencent Releases and Open-Sources Tencent Hy4 Preview
+### 1. What we want is a hunter gatherer lifestyle with space age tools
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.strangeloopcanon.com/p/what-we-want-is-a-hunter-gatherer">https://www.strangeloopcanon.com/p/what-we-want-is-a-hunter-gatherer</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49493244">https://news.ycombinator.com/item?id=49493244</a></p>
+<p>Points: 10</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://www.strangeloopcanon.com/p/what-we-want-is-a-hunter-gatherer](https://www.strangeloopcanon.com/p/what-we-want-is-a-hunter-gatherer)
+
+---
+
+### 2. Tencent Releases and Open-Sources Tencent Hy4 Preview
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/">https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49492632">https://news.ycombinator.com/item?id=49492632</a></p>
-<p>Points: 18</p>
-<p># Comments: 2</p>
+<p>Points: 69</p>
+<p># Comments: 25</p>
 
 🔗 **Read more:** [https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/](https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/)
 
 ---
 
-### 2. Domain-Driven Agents
+### 3. Domain-Driven Agents
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://coldtake.dev/blog/domain-driven-agents">https://coldtake.dev/blog/domain-driven-agents</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49492584">https://news.ycombinator.com/item?id=49492584</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
+<p>Points: 17</p>
+<p># Comments: 1</p>
 
 🔗 **Read more:** [https://coldtake.dev/blog/domain-driven-agents](https://coldtake.dev/blog/domain-driven-agents)
-
----
-
-### 3. The elementary school pickup incident and the road ahead
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://shitposting.ai/pickup-incident/">https://shitposting.ai/pickup-incident/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49492554">https://news.ycombinator.com/item?id=49492554</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://shitposting.ai/pickup-incident/](https://shitposting.ai/pickup-incident/)
 
 ---
 
@@ -97,42 +97,42 @@ Haakon VIII pays emotional tribute to his late father, Harald V, before outlinin
 
 ---
 
-### 7. Gaza runs out of cancer medicines, as Israeli strikes continue
+### 7. Anger mounts in Nepal over the government’s response to flash flood
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Officials at Gaza’s Al-Aqsa Martyrs Hospital say cancer medicines have completely run out, as Israeli strikes continue.
+Anger grows in Nepal as flood survivors accuse the government of delays in delivering aid and finding missing relatives.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/29/29-08-sv-gaza-hospitals-targetting-fm?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/29/29-08-sv-gaza-hospitals-targetting-fm?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/29/anger-mounts-in-nepal-over-the-governments-response-to-flash-flood?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/29/anger-mounts-in-nepal-over-the-governments-response-to-flash-flood?traffic_source=rss)
 
 ---
 
-### 8. Algeria wildfire death toll expected to rise as survivors say nothing left
+### 8. Iceland votes in a tight race on whether to resume talks to join the EU
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Algeria says at least 12 people have been killed in wildfires sweeping the northeast, with the toll expected to rise.
+Iceland’s Prime Minister, Kristrún Frostadóttir, cast her vote on Saturday as the country held a referendum.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/29/08-29-26-algeria-wildfires-sv?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/29/08-29-26-algeria-wildfires-sv?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/29/iceland-votes-in-a-tight-race-on-whether-to-resume-talks-to-join-the-eu?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/29/iceland-votes-in-a-tight-race-on-whether-to-resume-talks-to-join-the-eu?traffic_source=rss)
 
 ---
 
-### 9. Can international diplomacy find a way forward in Libya?
+### 9. Norway’s new king pays tribute to his late father as the country mourns
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Efforts intensify to break political impasse in a divided country.
+King Haakon VIII says King Harald represented Norway with &#039;pride and joy&#039;, promises to listen to Norwegians as monarch.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/8/29/can-international-diplomacy-find-a-way-forward-in-libya?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/8/29/can-international-diplomacy-find-a-way-forward-in-libya?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/29/norways-new-king-pays-tribute-to-his-late-father-as-the-country-mourns?traffic_source=rss](https://www.aljazeera.com/news/2026/8/29/norways-new-king-pays-tribute-to-his-late-father-as-the-country-mourns?traffic_source=rss)
 
 ---
 

@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-30 18:43:56
+**Last Update:** 2026-08-30 20:20:31
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Europe's summer drought is so extreme that desertification is a growing threat
+### 1. Coordination Headwind: How Organizations Are Like Slime Molds
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fish/">https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fish/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49498978">https://news.ycombinator.com/item?id=49498978</a></p>
-<p>Points: 23</p>
+<p>Article URL: <a href="https://komoroske.com/slime-mold/">https://komoroske.com/slime-mold/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49499891">https://news.ycombinator.com/item?id=49499891</a></p>
+<p>Points: 9</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://komoroske.com/slime-mold/](https://komoroske.com/slime-mold/)
+
+---
+
+### 2. Haiku R1/beta6 has been released
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6">https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49499867">https://news.ycombinator.com/item?id=49499867</a></p>
+<p>Points: 43</p>
 <p># Comments: 7</p>
 
-🔗 **Read more:** [https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fish/](https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fish/)
+🔗 **Read more:** [https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6](https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6)
 
 ---
 
-### 2. Zoom activated my mic and played "recording in progress" at 4AM
+### 3. Omarchy: Any User Process Can Escalate to Root
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://imgur.com/a/0NQ0rFk">https://imgur.com/a/0NQ0rFk</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49498296">https://news.ycombinator.com/item?id=49498296</a></p>
-<p>Points: 23</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://0xcc.io/posts/omarchy-root-creds/">https://0xcc.io/posts/omarchy-root-creds/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49499854">https://news.ycombinator.com/item?id=49499854</a></p>
+<p>Points: 49</p>
+<p># Comments: 23</p>
 
-🔗 **Read more:** [https://imgur.com/a/0NQ0rFk](https://imgur.com/a/0NQ0rFk)
-
----
-
-### 3. No AI Fridays
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://noaifridays.com/">https://noaifridays.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49498095">https://news.ycombinator.com/item?id=49498095</a></p>
-<p>Points: 103</p>
-<p># Comments: 37</p>
-
-🔗 **Read more:** [https://noaifridays.com/](https://noaifridays.com/)
+🔗 **Read more:** [https://0xcc.io/posts/omarchy-root-creds/](https://0xcc.io/posts/omarchy-root-creds/)
 
 ---
 
@@ -97,42 +97,42 @@ A 27-year-old German man was arrested immediately after the incident in Rosenhei
 
 ---
 
-### 7. Why did Australia give visas to Israeli soldiers but not Bassem Youssef?
+### 7. Israeli soldiers participate in Sydney Marathon despite protests
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The Australian government is under pressure to explain why it allowed dozens of Israeli soldiers into the country.
+Protesters waved Palestinian flags and criticised the Australian government for issuing visas to 40 Israeli soldiers.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/30/30-08-sydney-marathon-israeli-soldiers-idf-fm?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/30/30-08-sydney-marathon-israeli-soldiers-idf-fm?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/30/israeli-soldiers-participate-in-sydney-marathon-despite-protests?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/30/israeli-soldiers-participate-in-sydney-marathon-despite-protests?traffic_source=rss)
 
 ---
 
-### 8. How does your name taste? The strange science of synaesthesia
+### 8. What’s behind Netanyahu’s condemnation of this weekend’s settler pogroms?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Experiencing names as tastes - a form of synaesthesia - reveals how differently people perceive the same world.
+Israel&#039;s rhetorical outrage masks a calculated, well-funded campaign to permanently erase Palestinian statehood.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/longform/2026/8/30/how-does-your-name-taste-the-strange-science-of-synaesthesia?traffic_source=rss](https://www.aljazeera.com/features/longform/2026/8/30/how-does-your-name-taste-the-strange-science-of-synaesthesia?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/30/whats-behind-netanyahus-condemnation-of-this-weekends-settler-pogroms?traffic_source=rss](https://www.aljazeera.com/news/2026/8/30/whats-behind-netanyahus-condemnation-of-this-weekends-settler-pogroms?traffic_source=rss)
 
 ---
 
-### 9. Iceland votes to reject EU accession talks: What happens next?
+### 9. Educated? Skilled? Ambitious? Traffickers are looking for you
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The referendum result halts Iceland&#039;s bid to reopen EU membership talks, with 52.5 percent voting against the proposal.
+Young jobseekers are being recruited into scam compounds. Urgent action is needed to disrupt these trafficking schemes.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/30/iceland-votes-to-reject-eu-accession-talks-what-happens-next?traffic_source=rss](https://www.aljazeera.com/news/2026/8/30/iceland-votes-to-reject-eu-accession-talks-what-happens-next?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/30/educated-skilled-ambitious-traffickers-are-looking-for-you?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/30/educated-skilled-ambitious-traffickers-are-looking-for-you?traffic_source=rss)
 
 ---
 

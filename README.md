@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-30 02:35:40
+**Last Update:** 2026-08-30 03:58:27
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. $44M Solar-Powered EV Production Deal Struck
+### 1. Highest-ever ocean temperature measured as powerful El Niño forms
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://frequal.com/aptera/ProductionDealAug2026.html">https://frequal.com/aptera/ProductionDealAug2026.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49493563">https://news.ycombinator.com/item?id=49493563</a></p>
-<p>Points: 22</p>
-<p># Comments: 36</p>
+<p>Article URL: <a href="https://www.latimes.com/environment/story/2026-08-26/highest-ever-ocean-temperature-measured-as-powerful-el-nino-forms">https://www.latimes.com/environment/story/2026-08-26/highest-ever-ocean-temperature-measured-as-powerful-el-nino-forms</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49494231">https://news.ycombinator.com/item?id=49494231</a></p>
+<p>Points: 28</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://frequal.com/aptera/ProductionDealAug2026.html](https://frequal.com/aptera/ProductionDealAug2026.html)
+🔗 **Read more:** [https://www.latimes.com/environment/story/2026-08-26/highest-ever-ocean-temperature-measured-as-powerful-el-nino-forms](https://www.latimes.com/environment/story/2026-08-26/highest-ever-ocean-temperature-measured-as-powerful-el-nino-forms)
 
 ---
 
-### 2. Tencent Releases and Open-Sources Tencent Hy4 Preview
+### 2. Lawmakers added $1 to car insurance policies. That money paid for Flock cameras
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/">https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49492632">https://news.ycombinator.com/item?id=49492632</a></p>
-<p>Points: 123</p>
-<p># Comments: 75</p>
+<p>Article URL: <a href="https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/">https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49494182">https://news.ycombinator.com/item?id=49494182</a></p>
+<p>Points: 19</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/](https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/)
+🔗 **Read more:** [https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/](https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/)
 
 ---
 
-### 3. Domain-Driven Agents
+### 3. I co-founded Burning Man. The festival has lost its soul
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://coldtake.dev/blog/domain-driven-agents">https://coldtake.dev/blog/domain-driven-agents</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49492584">https://news.ycombinator.com/item?id=49492584</a></p>
-<p>Points: 25</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://sfstandard.com/2026/08/29/burning-man-lost-its-soul-founder/">https://sfstandard.com/2026/08/29/burning-man-lost-its-soul-founder/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49494151">https://news.ycombinator.com/item?id=49494151</a></p>
+<p>Points: 56</p>
+<p># Comments: 35</p>
 
-🔗 **Read more:** [https://coldtake.dev/blog/domain-driven-agents](https://coldtake.dev/blog/domain-driven-agents)
+🔗 **Read more:** [https://sfstandard.com/2026/08/29/burning-man-lost-its-soul-founder/](https://sfstandard.com/2026/08/29/burning-man-lost-its-soul-founder/)
 
 ---
 
@@ -97,42 +97,42 @@ Haakon VIII pays emotional tribute to his late father, Harald V, before outlinin
 
 ---
 
-### 7. What’s behind the US deal to seize control of Venezuelan oil reserves?
+### 7. Turkiye, Somalia forces frees cargo vessel hijacked by pirates
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Few details have emerged about deal between Washington and Caracas, criticised as takeover of Venezuela&#039;s resources.
+Somali authorities say 14 pirates were killed in the 10-day operation to free a Cameroon-flagged cargo vessel.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/29/whats-behind-the-us-deal-to-seize-control-of-venezuelan-oil-reserves?traffic_source=rss](https://www.aljazeera.com/news/2026/8/29/whats-behind-the-us-deal-to-seize-control-of-venezuelan-oil-reserves?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/30/turkiye-somalia-forces-frees-cargo-vessel-hijacked-by-pirates?traffic_source=rss](https://www.aljazeera.com/news/2026/8/30/turkiye-somalia-forces-frees-cargo-vessel-hijacked-by-pirates?traffic_source=rss)
 
 ---
 
-### 8. Anger mounts in Nepal over the government’s response to flash flood
+### 8. Online anti-Muslim backlash collides with different reality in South Africa
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Anger grows in Nepal as flood survivors accuse the government of delays in delivering aid and finding missing relatives.
+Online anti-Muslim rhetoric is growing, but life on the ground tells a more complicated story.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/29/anger-mounts-in-nepal-over-the-governments-response-to-flash-flood?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/29/anger-mounts-in-nepal-over-the-governments-response-to-flash-flood?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/30/online-anti-muslim-backlash-collides-with-different-reality-in-south-africa?traffic_source=rss](https://www.aljazeera.com/news/2026/8/30/online-anti-muslim-backlash-collides-with-different-reality-in-south-africa?traffic_source=rss)
 
 ---
 
-### 9. Iceland votes in a tight race on whether to resume talks to join the EU
+### 9. Iran war live: Tehran stands firm over US sanctions; settlers besiege Qusra
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Iceland’s Prime Minister, Kristrún Frostadóttir, cast her vote on Saturday as the country held a referendum.
+Iran says it will rely equally on diplomacy and defence to protect its interests.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/29/iceland-votes-in-a-tight-race-on-whether-to-resume-talks-to-join-the-eu?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/29/iceland-votes-in-a-tight-race-on-whether-to-resume-talks-to-join-the-eu?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/8/30/iran-war-live-iran-pledges-to-stand-firm-against-unjust-us-sanctions?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/8/30/iran-war-live-iran-pledges-to-stand-firm-against-unjust-us-sanctions?traffic_source=rss)
 
 ---
 

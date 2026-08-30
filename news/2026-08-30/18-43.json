@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-30T18:43:56+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Europe's summer drought is so extreme that desertification is a growing threat",
+            "description": "<p>Article URL: <a href=\"https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fish/\">https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fish/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49498978\">https://news.ycombinator.com/item?id=49498978</a></p>\n<p>Points: 23</p>\n<p># Comments: 7</p>",
+            "url": "https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fish/",
+            "published": "Sun, 30 Aug 2026 14:29:25 +0000",
+            "fetched": "2026-08-30T18:43:56+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Zoom activated my mic and played \"recording in progress\" at 4AM",
+            "description": "<p>Article URL: <a href=\"https://imgur.com/a/0NQ0rFk\">https://imgur.com/a/0NQ0rFk</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49498296\">https://news.ycombinator.com/item?id=49498296</a></p>\n<p>Points: 23</p>\n<p># Comments: 3</p>",
+            "url": "https://imgur.com/a/0NQ0rFk",
+            "published": "Sun, 30 Aug 2026 13:04:36 +0000",
+            "fetched": "2026-08-30T18:43:56+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "No AI Fridays",
+            "description": "<p>Article URL: <a href=\"https://noaifridays.com/\">https://noaifridays.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49498095\">https://news.ycombinator.com/item?id=49498095</a></p>\n<p>Points: 103</p>\n<p># Comments: 37</p>",
+            "url": "https://noaifridays.com/",
+            "published": "Sun, 30 Aug 2026 12:31:05 +0000",
+            "fetched": "2026-08-30T18:43:56+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "PC Harper's killers to stay in jail as PM announces changes to early release scheme",
+            "description": "Andy Burnham tells BBC Breakfast anyone convicted of manslaughter will be excluded from the early release scheme in the Sentencing Act.",
+            "url": "https://www.bbc.co.uk/news/articles/crr4wd81pdpo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 30 Aug 2026 08:59:58 GMT",
+            "fetched": "2026-08-30T18:43:56+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Police release one of two men arrested over fatal house fire",
+            "description": "Police continue to question a 23-year-old man over the fire in which a girl, 7, and her aunt died.",
+            "url": "https://www.bbc.co.uk/news/articles/c207r26qxwzo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 30 Aug 2026 14:34:20 GMT",
+            "fetched": "2026-08-30T18:43:56+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "British woman killed in stabbing at German railway station",
+            "description": "A 27-year-old German man was arrested immediately after the incident in Rosenheim, Bavaria.",
+            "url": "https://www.bbc.co.uk/news/articles/cx2zy118q7ko?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 30 Aug 2026 15:00:48 GMT",
+            "fetched": "2026-08-30T18:43:56+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why did Australia give visas to Israeli soldiers but not Bassem Youssef?",
+            "description": "The Australian government is under pressure to explain why it allowed dozens of Israeli soldiers into the country.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/30-08-sydney-marathon-israeli-soldiers-idf-fm?traffic_source=rss",
+            "published": "Sun, 30 Aug 2026 14:50:22 +0000",
+            "fetched": "2026-08-30T18:43:56+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "How does your name taste? The strange science of synaesthesia",
+            "description": "Experiencing names as tastes - a form of synaesthesia - reveals how differently people perceive the same world.",
+            "url": "https://www.aljazeera.com/features/longform/2026/8/30/how-does-your-name-taste-the-strange-science-of-synaesthesia?traffic_source=rss",
+            "published": "Sun, 30 Aug 2026 14:14:06 +0000",
+            "fetched": "2026-08-30T18:43:56+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iceland votes to reject EU accession talks: What happens next?",
+            "description": "The referendum result halts Iceland&#039;s bid to reopen EU membership talks, with 52.5 percent voting against the proposal.",
+            "url": "https://www.aljazeera.com/news/2026/8/30/iceland-votes-to-reject-eu-accession-talks-what-happens-next?traffic_source=rss",
+            "published": "Sun, 30 Aug 2026 13:37:54 +0000",
+            "fetched": "2026-08-30T18:43:56+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Calico, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23453",
+            "published": "2026-08-26T17:29:00Z",
+            "fetched": "2026-08-30T18:43:56+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire McConnell, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23455",
+            "published": "2026-08-25T20:43:00Z",
+            "fetched": "2026-08-30T18:43:56+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire LAUGHLIN, Colfax, New Mexico",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23466",
+            "published": "2026-08-25T18:35:00Z",
+            "fetched": "2026-08-30T18:43:56+03:30"
+        }
+    ]
+}

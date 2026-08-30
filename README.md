@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-30 15:33:16
+**Last Update:** 2026-08-30 18:43:56
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Fair Work Commission condemns 'plain wrong' AI legal advice
+### 1. Europe's summer drought is so extreme that desertification is a growing threat
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766">https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49497357">https://news.ycombinator.com/item?id=49497357</a></p>
-<p>Points: 20</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fish/">https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fish/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49498978">https://news.ycombinator.com/item?id=49498978</a></p>
+<p>Points: 23</p>
+<p># Comments: 7</p>
 
-🔗 **Read more:** [https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766](https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766)
+🔗 **Read more:** [https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fish/](https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fish/)
 
 ---
 
-### 2. Spark: Sparklines in your shell
+### 2. Zoom activated my mic and played "recording in progress" at 4AM
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://git.zx2c4.com/spark/about/">https://git.zx2c4.com/spark/about/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49497265">https://news.ycombinator.com/item?id=49497265</a></p>
-<p>Points: 20</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://imgur.com/a/0NQ0rFk">https://imgur.com/a/0NQ0rFk</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49498296">https://news.ycombinator.com/item?id=49498296</a></p>
+<p>Points: 23</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://git.zx2c4.com/spark/about/](https://git.zx2c4.com/spark/about/)
+🔗 **Read more:** [https://imgur.com/a/0NQ0rFk](https://imgur.com/a/0NQ0rFk)
 
 ---
 
-### 3. Nvidia's AI advantage is moving beyond the GPU
+### 3. No AI Fridays
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/">https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49497235">https://news.ycombinator.com/item?id=49497235</a></p>
-<p>Points: 10</p>
-<p># Comments: 5</p>
+<p>Article URL: <a href="https://noaifridays.com/">https://noaifridays.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49498095">https://news.ycombinator.com/item?id=49498095</a></p>
+<p>Points: 103</p>
+<p># Comments: 37</p>
 
-🔗 **Read more:** [https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/](https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/)
+🔗 **Read more:** [https://noaifridays.com/](https://noaifridays.com/)
 
 ---
 
@@ -71,16 +71,16 @@ Andy Burnham tells BBC Breakfast anyone convicted of manslaughter will be exclud
 
 ---
 
-### 5. Burnham gets the early prison release changes he wanted - but at what cost?
+### 5. Police release one of two men arrested over fatal house fire
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The prime minister says he will keep hundreds more criminals behind bars but doing so requires complex changes.
+Police continue to question a 23-year-old man over the fire in which a girl, 7, and her aunt died.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cdx5zw4e2x9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cdx5zw4e2x9o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c207r26qxwzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c207r26qxwzo?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +97,42 @@ A 27-year-old German man was arrested immediately after the incident in Rosenhei
 
 ---
 
-### 7. Six months on, what did the strikes on Iran achieve?
+### 7. Why did Australia give visas to Israeli soldiers but not Bassem Youssef?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The US-Israeli bombing of Iran became a fight for the Strait of Hormuz. AJLabs counts the cost of the war.
+The Australian government is under pressure to explain why it allowed dozens of Israeli soldiers into the country.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/by-the-numbers-3/2026/8/30/six-months-on-what-did-the-strikes-on-iran-achieve?traffic_source=rss](https://www.aljazeera.com/video/by-the-numbers-3/2026/8/30/six-months-on-what-did-the-strikes-on-iran-achieve?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/30/30-08-sydney-marathon-israeli-soldiers-idf-fm?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/30/30-08-sydney-marathon-israeli-soldiers-idf-fm?traffic_source=rss)
 
 ---
 
-### 8. Protesters in Argentina urge tech billionaire Peter Thiel to leave
+### 8. How does your name taste? The strange science of synaesthesia
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Dozens of protesters in Argentina have demonstrated against Palantir co-founder Peter Thiel, outside his new mansion.
+Experiencing names as tastes - a form of synaesthesia - reveals how differently people perceive the same world.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/30/protesters-in-argentina-urge-tech-billionaire-peter-thiel-to-leave?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/30/protesters-in-argentina-urge-tech-billionaire-peter-thiel-to-leave?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/longform/2026/8/30/how-does-your-name-taste-the-strange-science-of-synaesthesia?traffic_source=rss](https://www.aljazeera.com/features/longform/2026/8/30/how-does-your-name-taste-the-strange-science-of-synaesthesia?traffic_source=rss)
 
 ---
 
-### 9. Iran’s Khamenei calls for Gulf unity as Hormuz tensions persist
+### 9. Iceland votes to reject EU accession talks: What happens next?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Khamenei urges Gulf rulers to confront their &#039;real enemy&#039; as Iran keeps Hormuz restricted amid stalled diplomacy.
+The referendum result halts Iceland&#039;s bid to reopen EU membership talks, with 52.5 percent voting against the proposal.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/30/irans-khamenei-calls-for-gulf-unity-as-hormuz-tensions-persist?traffic_source=rss](https://www.aljazeera.com/news/2026/8/30/irans-khamenei-calls-for-gulf-unity-as-hormuz-tensions-persist?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/30/iceland-votes-to-reject-eu-accession-talks-what-happens-next?traffic_source=rss](https://www.aljazeera.com/news/2026/8/30/iceland-votes-to-reject-eu-accession-talks-what-happens-next?traffic_source=rss)
 
 ---
 

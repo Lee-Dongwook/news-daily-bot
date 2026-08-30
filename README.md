@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-30 22:39:35
+**Last Update:** 2026-08-30 23:24:16
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/KodeMunkie/sm750hdmifb">https://github.com/KodeMunkie/sm750hdmifb</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49501611">https://news.ycombinator.com/item?id=49501611</a></p>
-<p>Points: 3</p>
-<p># Comments: 1</p>
+<p>Points: 12</p>
+<p># Comments: 3</p>
 
 🔗 **Read more:** [https://github.com/KodeMunkie/sm750hdmifb](https://github.com/KodeMunkie/sm750hdmifb)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://openrun.dev/blog/litestream/">https://openrun.dev/blog/litestream/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49501147">https://news.ycombinator.com/item?id=49501147</a></p>
-<p>Points: 10</p>
-<p># Comments: 4</p>
+<p>Points: 19</p>
+<p># Comments: 9</p>
 
 🔗 **Read more:** [https://openrun.dev/blog/litestream/](https://openrun.dev/blog/litestream/)
 
@@ -97,7 +97,33 @@ The US space agency's telescope is starting a multi-year mission to create a new
 
 ---
 
-### 7. ‘Do you miss Mogadishu?’ Inside Sweden’s far-right campaign
+### 7. Israeli settler rabbi says Palestinians should leave the occupied West Bank
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Video shows an Israeli settler rabbi telling peace activists that non-Jews in Israel have no national rights.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/30/israeli-settler-rabbi-says-palestinians-should-leave-the-occupied-west-bank?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/30/israeli-settler-rabbi-says-palestinians-should-leave-the-occupied-west-bank?traffic_source=rss)
+
+---
+
+### 8. Former Israeli soldiers pose as Pro-Palestinian supporters in the US
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Former Israeli soldiers posed as pro-Palestinian supporters in New York City to deceive people into engaging with them.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/30/former-israeli-soldiers-pose-as-pro-palestinian-supporters-in-the-us?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/30/former-israeli-soldiers-pose-as-pro-palestinian-supporters-in-the-us?traffic_source=rss)
+
+---
+
+### 9. ‘Do you miss Mogadishu?’ Inside Sweden’s far-right campaign
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ The US space agency's telescope is starting a multi-year mission to create a new
 How a far-right party with neo-Nazi roots bought every ad surface in Sweden&#039;s biggest train station.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/30/do-you-miss-mogadishu-inside-swedens-far-right-campaign?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/30/do-you-miss-mogadishu-inside-swedens-far-right-campaign?traffic_source=rss)
-
----
-
-### 8. Photos: Devastation from the Nepal-China floods
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-More than 3,000 people missing after glacier collapse unleashes destruction in Himalayas.
-
-🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/8/30/in-pictures-devastation-from-the-nepal-china-floods?traffic_source=rss](https://www.aljazeera.com/gallery/2026/8/30/in-pictures-devastation-from-the-nepal-china-floods?traffic_source=rss)
-
----
-
-### 9. Fernandes hat-trick fires Man Utd in seven-goal thriller with Ipswich
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Bruno Fernandes&#039;s hat-trick inspires Manchester United&#039;s comeback 5-2 win against Ipswich Town in the Premier League.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/30/fernandes-hat-trick-fires-man-utd-in-seven-goal-thriller-with-ipswich?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/30/fernandes-hat-trick-fires-man-utd-in-seven-goal-thriller-with-ipswich?traffic_source=rss)
 
 ---
 

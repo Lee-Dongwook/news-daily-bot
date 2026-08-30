@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-30 07:58:52
+**Last Update:** 2026-08-30 09:08:57
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Algorithmic Rent-Pricing Litigation Expands Under New State and Local Laws
+### 1. California lawmakers unanimously pass Linux exemption from age-verification law
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt">https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49495372">https://news.ycombinator.com/item?id=49495372</a></p>
+<p>Points: 17</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt](https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt)
+
+---
+
+### 2. Algorithmic Rent-Pricing Litigation Expands Under New State and Local Laws
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws">https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49495127">https://news.ycombinator.com/item?id=49495127</a></p>
-<p>Points: 20</p>
-<p># Comments: 9</p>
+<p>Points: 43</p>
+<p># Comments: 17</p>
 
 🔗 **Read more:** [https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws](https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws)
 
 ---
 
-### 2. FreeCORE TrueNAS Core – Continued
+### 3. FreeCORE TrueNAS Core – Continued
 
 **Source:** Hacker News
 
@@ -35,30 +51,40 @@
 **Description:**
 <p>Article URL: <a href="https://freecore.org/">https://freecore.org/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49494856">https://news.ycombinator.com/item?id=49494856</a></p>
-<p>Points: 50</p>
-<p># Comments: 27</p>
+<p>Points: 59</p>
+<p># Comments: 40</p>
 
 🔗 **Read more:** [https://freecore.org/](https://freecore.org/)
 
 ---
 
-### 3. Benjamin Franklin's Alter Egos Gave Him the Most Freedom
+### 4. PC Harper's killers to stay in jail as PM announces changes to early release scheme
 
-**Source:** Hacker News
+**Source:** BBC
 
-**Category:** technology
+**Category:** world
 
 **Description:**
-<p>Article URL: <a href="https://www.smithsonianmag.com/history/among-all-great-things-benjamin-franklin-invented-discovered-alter-egos-gave-him-most-freedom-180988824/">https://www.smithsonianmag.com/history/among-all-great-things-benjamin-franklin-invented-discovered-alter-egos-gave-him-most-freedom-180988824/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49494751">https://news.ycombinator.com/item?id=49494751</a></p>
-<p>Points: 15</p>
-<p># Comments: 2</p>
+Andy Burnham tells BBC Breakfast anyone convicted of manslaughter will be excluded from the early release scheme in the Sentencing Act.
 
-🔗 **Read more:** [https://www.smithsonianmag.com/history/among-all-great-things-benjamin-franklin-invented-discovered-alter-egos-gave-him-most-freedom-180988824/](https://www.smithsonianmag.com/history/among-all-great-things-benjamin-franklin-invented-discovered-alter-egos-gave-him-most-freedom-180988824/)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crr4wd81pdpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crr4wd81pdpo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. Iceland EU referendum on a knife edge as counting continues
+### 5. WhatsApp group chat used to send millions in cash, funding crime and extremism
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The WhatsApp money launderers arranged cash transfers in the UK and around the world with no paper trail.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Iceland EU referendum on a knife edge as counting continues
 
 **Source:** BBC
 
@@ -71,68 +97,42 @@ A vote on whether to resume membership talks with the European Union is too clos
 
 ---
 
-### 5. At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-An investigation has begun into the storage of weapons for Ukraine's military near a residential area.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Cleverly quits shadow cabinet to run for London mayor
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The capital is not set to vote on a new mayor until 2028.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5ye8p8xpg4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5ye8p8xpg4o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Sudanese repair roads by hand in Darfur to improve emergency access
+### 7. Mapping the Iran war’s strikes on Gulf energy – and what comes next for oil
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Residents of Golo in Sudan’s central Darfur are clearing and repairing a rugged road by hand to help emergency vehicles.
+US energy companies have reaped billions from rising oil price, but their assets in the region remain at risk.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/30/sudanese-repair-roads-by-hand-in-darfur-to-improve-emergency-access?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/30/sudanese-repair-roads-by-hand-in-darfur-to-improve-emergency-access?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/30/mapping-the-iran-wars-strikes-on-gulf-energy-and-what-comes-next-for-oil?traffic_source=rss](https://www.aljazeera.com/news/2026/8/30/mapping-the-iran-wars-strikes-on-gulf-energy-and-what-comes-next-for-oil?traffic_source=rss)
 
 ---
 
-### 8. Venezuela says it retains ‘sovereignty’ following US oil deal
+### 8. US police officer pulls hair, throws punches during arrest in Arkansas
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Under the deal, $19 from every barrel of oil sold to the US will flow to Caracas, interim President Rodriguez says.
+Footage shows an Arkansas state patrol officer pulling a passenger by his hair and punching him during an arrest.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/30/venezuela-says-it-retains-sovereignty-following-us-oil-deal?traffic_source=rss](https://www.aljazeera.com/news/2026/8/30/venezuela-says-it-retains-sovereignty-following-us-oil-deal?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/30/us-police-officer-pulls-hair-throws-punches-during-arrest-in-arkansas?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/30/us-police-officer-pulls-hair-throws-punches-during-arrest-in-arkansas?traffic_source=rss)
 
 ---
 
-### 9. US deports relative of Afghans who aided military to Africa
+### 9. Protests as India’s Hindu nationalists take centre stage in New York
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Afghan national granted protection in the US is one of dozens of people deported to war-torn Central African Republic.
+Demonstrators rallied against a celebration in New York City that was hosting Mohan Bhagwat, chief of the RSS.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/30/us-deports-relative-of-afghans-who-aided-military-to-africa?traffic_source=rss](https://www.aljazeera.com/news/2026/8/30/us-deports-relative-of-afghans-who-aided-military-to-africa?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/30/protests-as-indias-hindu-nationalists-take-centre-stage-in-new-york?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/30/protests-as-indias-hindu-nationalists-take-centre-stage-in-new-york?traffic_source=rss)
 
 ---
 

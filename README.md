@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-30 09:08:57
+**Last Update:** 2026-08-30 13:51:25
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. California lawmakers unanimously pass Linux exemption from age-verification law
+### 1. Brits would quite like their private messages to stay private
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt">https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49495372">https://news.ycombinator.com/item?id=49495372</a></p>
-<p>Points: 17</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994">https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49497063">https://news.ycombinator.com/item?id=49497063</a></p>
+<p>Points: 38</p>
+<p># Comments: 10</p>
 
-🔗 **Read more:** [https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt](https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt)
+🔗 **Read more:** [https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994](https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994)
 
 ---
 
-### 2. Algorithmic Rent-Pricing Litigation Expands Under New State and Local Laws
+### 2. Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws">https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49495127">https://news.ycombinator.com/item?id=49495127</a></p>
-<p>Points: 43</p>
-<p># Comments: 17</p>
+<p>Article URL: <a href="https://www.qubes-os.org/news/2026/08/29/qsb-118/">https://www.qubes-os.org/news/2026/08/29/qsb-118/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49496918">https://news.ycombinator.com/item?id=49496918</a></p>
+<p>Points: 22</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws](https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws)
+🔗 **Read more:** [https://www.qubes-os.org/news/2026/08/29/qsb-118/](https://www.qubes-os.org/news/2026/08/29/qsb-118/)
 
 ---
 
-### 3. FreeCORE TrueNAS Core – Continued
+### 3. Longest Straight Line Paths on Water or Land on the Earth (2018)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://freecore.org/">https://freecore.org/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49494856">https://news.ycombinator.com/item?id=49494856</a></p>
-<p>Points: 59</p>
-<p># Comments: 40</p>
+<p>Article URL: <a href="https://arxiv.org/abs/1804.07389">https://arxiv.org/abs/1804.07389</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49496782">https://news.ycombinator.com/item?id=49496782</a></p>
+<p>Points: 41</p>
+<p># Comments: 10</p>
 
-🔗 **Read more:** [https://freecore.org/](https://freecore.org/)
+🔗 **Read more:** [https://arxiv.org/abs/1804.07389](https://arxiv.org/abs/1804.07389)
 
 ---
 
@@ -71,68 +71,68 @@ Andy Burnham tells BBC Breakfast anyone convicted of manslaughter will be exclud
 
 ---
 
-### 5. WhatsApp group chat used to send millions in cash, funding crime and extremism
+### 5. Burnham gets the early prison release changes he wanted - but at what cost?
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The WhatsApp money launderers arranged cash transfers in the UK and around the world with no paper trail.
+The prime minister says he will keep hundreds more criminals behind bars but doing so requires complex changes.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cdx5zw4e2x9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cdx5zw4e2x9o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Iceland EU referendum on a knife edge as counting continues
+### 6. Church names pastor killed by falling sign at Christian festival
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-A vote on whether to resume membership talks with the European Union is too close to call.
+Robert Guanco, 41, was a pastor at Jesus the Living Water Church in Eastbourne, East Sussex.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/clyk7rz1pllo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/clyk7rz1pllo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Mapping the Iran war’s strikes on Gulf energy – and what comes next for oil
+### 7. LIVE: Chelsea vs Brighton – Premier League
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US energy companies have reaped billions from rising oil price, but their assets in the region remain at risk.
+Follow updates from the Premier League clash - including the build-up, analysis and live text commentary of the game.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/30/mapping-the-iran-wars-strikes-on-gulf-energy-and-what-comes-next-for-oil?traffic_source=rss](https://www.aljazeera.com/news/2026/8/30/mapping-the-iran-wars-strikes-on-gulf-energy-and-what-comes-next-for-oil?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/liveblog/2026/8/30/live-chelsea-vs-brighton-premier-league?traffic_source=rss](https://www.aljazeera.com/sports/liveblog/2026/8/30/live-chelsea-vs-brighton-premier-league?traffic_source=rss)
 
 ---
 
-### 8. US police officer pulls hair, throws punches during arrest in Arkansas
+### 8. Photos: Nepal issues alerts as region’s flash flood death toll reaches 750
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Footage shows an Arkansas state patrol officer pulling a passenger by his hair and punching him during an arrest.
+Nepal warns of more flooding as the death toll rises to 750, with more than 3,000 people still missing in the region.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/30/us-police-officer-pulls-hair-throws-punches-during-arrest-in-arkansas?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/30/us-police-officer-pulls-hair-throws-punches-during-arrest-in-arkansas?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/8/30/photos-nepal-issues-fresh-flood-alerts-as-regional-death-toll-hits-750?traffic_source=rss](https://www.aljazeera.com/gallery/2026/8/30/photos-nepal-issues-fresh-flood-alerts-as-regional-death-toll-hits-750?traffic_source=rss)
 
 ---
 
-### 9. Protests as India’s Hindu nationalists take centre stage in New York
+### 9. Israel says Netanyahu’s son ‘urgently evacuated’ from the US after threat
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Demonstrators rallied against a celebration in New York City that was hosting Mohan Bhagwat, chief of the RSS.
+Right-wing activist and podcaster Yair Netanyahu lived in the US for several years before his hasty departure.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/30/protests-as-indias-hindu-nationalists-take-centre-stage-in-new-york?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/30/protests-as-indias-hindu-nationalists-take-centre-stage-in-new-york?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/30/israel-says-netanyahus-son-urgently-evacuated-from-the-us-after-threat?traffic_source=rss](https://www.aljazeera.com/news/2026/8/30/israel-says-netanyahus-son-urgently-evacuated-from-the-us-after-threat?traffic_source=rss)
 
 ---
 

@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-30 13:51:25
+**Last Update:** 2026-08-30 15:33:16
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Brits would quite like their private messages to stay private
+### 1. Fair Work Commission condemns 'plain wrong' AI legal advice
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994">https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49497063">https://news.ycombinator.com/item?id=49497063</a></p>
-<p>Points: 38</p>
-<p># Comments: 10</p>
+<p>Article URL: <a href="https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766">https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49497357">https://news.ycombinator.com/item?id=49497357</a></p>
+<p>Points: 20</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994](https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994)
+🔗 **Read more:** [https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766](https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766)
 
 ---
 
-### 2. Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel
+### 2. Spark: Sparklines in your shell
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.qubes-os.org/news/2026/08/29/qsb-118/">https://www.qubes-os.org/news/2026/08/29/qsb-118/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49496918">https://news.ycombinator.com/item?id=49496918</a></p>
-<p>Points: 22</p>
+<p>Article URL: <a href="https://git.zx2c4.com/spark/about/">https://git.zx2c4.com/spark/about/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49497265">https://news.ycombinator.com/item?id=49497265</a></p>
+<p>Points: 20</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://git.zx2c4.com/spark/about/](https://git.zx2c4.com/spark/about/)
+
+---
+
+### 3. Nvidia's AI advantage is moving beyond the GPU
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/">https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49497235">https://news.ycombinator.com/item?id=49497235</a></p>
+<p>Points: 10</p>
 <p># Comments: 5</p>
 
-🔗 **Read more:** [https://www.qubes-os.org/news/2026/08/29/qsb-118/](https://www.qubes-os.org/news/2026/08/29/qsb-118/)
-
----
-
-### 3. Longest Straight Line Paths on Water or Land on the Earth (2018)
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://arxiv.org/abs/1804.07389">https://arxiv.org/abs/1804.07389</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49496782">https://news.ycombinator.com/item?id=49496782</a></p>
-<p>Points: 41</p>
-<p># Comments: 10</p>
-
-🔗 **Read more:** [https://arxiv.org/abs/1804.07389](https://arxiv.org/abs/1804.07389)
+🔗 **Read more:** [https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/](https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/)
 
 ---
 
@@ -84,55 +84,55 @@ The prime minister says he will keep hundreds more criminals behind bars but doi
 
 ---
 
-### 6. Church names pastor killed by falling sign at Christian festival
+### 6. British woman killed in stabbing at German railway station
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Robert Guanco, 41, was a pastor at Jesus the Living Water Church in Eastbourne, East Sussex.
+A 27-year-old German man was arrested immediately after the incident in Rosenheim, Bavaria.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/clyk7rz1pllo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/clyk7rz1pllo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2zy118q7ko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2zy118q7ko?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. LIVE: Chelsea vs Brighton – Premier League
+### 7. Six months on, what did the strikes on Iran achieve?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Follow updates from the Premier League clash - including the build-up, analysis and live text commentary of the game.
+The US-Israeli bombing of Iran became a fight for the Strait of Hormuz. AJLabs counts the cost of the war.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/liveblog/2026/8/30/live-chelsea-vs-brighton-premier-league?traffic_source=rss](https://www.aljazeera.com/sports/liveblog/2026/8/30/live-chelsea-vs-brighton-premier-league?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/by-the-numbers-3/2026/8/30/six-months-on-what-did-the-strikes-on-iran-achieve?traffic_source=rss](https://www.aljazeera.com/video/by-the-numbers-3/2026/8/30/six-months-on-what-did-the-strikes-on-iran-achieve?traffic_source=rss)
 
 ---
 
-### 8. Photos: Nepal issues alerts as region’s flash flood death toll reaches 750
+### 8. Protesters in Argentina urge tech billionaire Peter Thiel to leave
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Nepal warns of more flooding as the death toll rises to 750, with more than 3,000 people still missing in the region.
+Dozens of protesters in Argentina have demonstrated against Palantir co-founder Peter Thiel, outside his new mansion.
 
-🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/8/30/photos-nepal-issues-fresh-flood-alerts-as-regional-death-toll-hits-750?traffic_source=rss](https://www.aljazeera.com/gallery/2026/8/30/photos-nepal-issues-fresh-flood-alerts-as-regional-death-toll-hits-750?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/30/protesters-in-argentina-urge-tech-billionaire-peter-thiel-to-leave?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/30/protesters-in-argentina-urge-tech-billionaire-peter-thiel-to-leave?traffic_source=rss)
 
 ---
 
-### 9. Israel says Netanyahu’s son ‘urgently evacuated’ from the US after threat
+### 9. Iran’s Khamenei calls for Gulf unity as Hormuz tensions persist
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Right-wing activist and podcaster Yair Netanyahu lived in the US for several years before his hasty departure.
+Khamenei urges Gulf rulers to confront their &#039;real enemy&#039; as Iran keeps Hormuz restricted amid stalled diplomacy.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/30/israel-says-netanyahus-son-urgently-evacuated-from-the-us-after-threat?traffic_source=rss](https://www.aljazeera.com/news/2026/8/30/israel-says-netanyahus-son-urgently-evacuated-from-the-us-after-threat?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/30/irans-khamenei-calls-for-gulf-unity-as-hormuz-tensions-persist?traffic_source=rss](https://www.aljazeera.com/news/2026/8/30/irans-khamenei-calls-for-gulf-unity-as-hormuz-tensions-persist?traffic_source=rss)
 
 ---
 

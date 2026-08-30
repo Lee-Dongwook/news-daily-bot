@@ -1,64 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-30 03:58:27
+**Last Update:** 2026-08-30 07:58:52
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Highest-ever ocean temperature measured as powerful El Niño forms
+### 1. Algorithmic Rent-Pricing Litigation Expands Under New State and Local Laws
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.latimes.com/environment/story/2026-08-26/highest-ever-ocean-temperature-measured-as-powerful-el-nino-forms">https://www.latimes.com/environment/story/2026-08-26/highest-ever-ocean-temperature-measured-as-powerful-el-nino-forms</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49494231">https://news.ycombinator.com/item?id=49494231</a></p>
-<p>Points: 28</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws">https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49495127">https://news.ycombinator.com/item?id=49495127</a></p>
+<p>Points: 20</p>
+<p># Comments: 9</p>
 
-🔗 **Read more:** [https://www.latimes.com/environment/story/2026-08-26/highest-ever-ocean-temperature-measured-as-powerful-el-nino-forms](https://www.latimes.com/environment/story/2026-08-26/highest-ever-ocean-temperature-measured-as-powerful-el-nino-forms)
+🔗 **Read more:** [https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws](https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws)
 
 ---
 
-### 2. Lawmakers added $1 to car insurance policies. That money paid for Flock cameras
+### 2. FreeCORE TrueNAS Core – Continued
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/">https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49494182">https://news.ycombinator.com/item?id=49494182</a></p>
-<p>Points: 19</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://freecore.org/">https://freecore.org/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49494856">https://news.ycombinator.com/item?id=49494856</a></p>
+<p>Points: 50</p>
+<p># Comments: 27</p>
 
-🔗 **Read more:** [https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/](https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/)
+🔗 **Read more:** [https://freecore.org/](https://freecore.org/)
 
 ---
 
-### 3. I co-founded Burning Man. The festival has lost its soul
+### 3. Benjamin Franklin's Alter Egos Gave Him the Most Freedom
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://sfstandard.com/2026/08/29/burning-man-lost-its-soul-founder/">https://sfstandard.com/2026/08/29/burning-man-lost-its-soul-founder/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49494151">https://news.ycombinator.com/item?id=49494151</a></p>
-<p>Points: 56</p>
-<p># Comments: 35</p>
+<p>Article URL: <a href="https://www.smithsonianmag.com/history/among-all-great-things-benjamin-franklin-invented-discovered-alter-egos-gave-him-most-freedom-180988824/">https://www.smithsonianmag.com/history/among-all-great-things-benjamin-franklin-invented-discovered-alter-egos-gave-him-most-freedom-180988824/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49494751">https://news.ycombinator.com/item?id=49494751</a></p>
+<p>Points: 15</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://sfstandard.com/2026/08/29/burning-man-lost-its-soul-founder/](https://sfstandard.com/2026/08/29/burning-man-lost-its-soul-founder/)
+🔗 **Read more:** [https://www.smithsonianmag.com/history/among-all-great-things-benjamin-franklin-invented-discovered-alter-egos-gave-him-most-freedom-180988824/](https://www.smithsonianmag.com/history/among-all-great-things-benjamin-franklin-invented-discovered-alter-egos-gave-him-most-freedom-180988824/)
 
 ---
 
-### 4. At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot
+### 4. Iceland EU referendum on a knife edge as counting continues
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+A vote on whether to resume membership talks with the European Union is too close to call.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot
 
 **Source:** BBC
 
@@ -71,7 +84,7 @@ An investigation has begun into the storage of weapons for Ukraine's military ne
 
 ---
 
-### 5. Cleverly quits shadow cabinet to run for London mayor
+### 6. Cleverly quits shadow cabinet to run for London mayor
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ The capital is not set to vote on a new mayor until 2028.
 
 ---
 
-### 6. Norway's new king remembers 'my dear father' in first speech
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Haakon VIII pays emotional tribute to his late father, Harald V, before outlining how he wishes to reign.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvgy79wmv4jo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvgy79wmv4jo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Turkiye, Somalia forces frees cargo vessel hijacked by pirates
+### 7. Sudanese repair roads by hand in Darfur to improve emergency access
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Somali authorities say 14 pirates were killed in the 10-day operation to free a Cameroon-flagged cargo vessel.
+Residents of Golo in Sudan’s central Darfur are clearing and repairing a rugged road by hand to help emergency vehicles.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/30/turkiye-somalia-forces-frees-cargo-vessel-hijacked-by-pirates?traffic_source=rss](https://www.aljazeera.com/news/2026/8/30/turkiye-somalia-forces-frees-cargo-vessel-hijacked-by-pirates?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/30/sudanese-repair-roads-by-hand-in-darfur-to-improve-emergency-access?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/30/sudanese-repair-roads-by-hand-in-darfur-to-improve-emergency-access?traffic_source=rss)
 
 ---
 
-### 8. Online anti-Muslim backlash collides with different reality in South Africa
+### 8. Venezuela says it retains ‘sovereignty’ following US oil deal
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Online anti-Muslim rhetoric is growing, but life on the ground tells a more complicated story.
+Under the deal, $19 from every barrel of oil sold to the US will flow to Caracas, interim President Rodriguez says.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/30/online-anti-muslim-backlash-collides-with-different-reality-in-south-africa?traffic_source=rss](https://www.aljazeera.com/news/2026/8/30/online-anti-muslim-backlash-collides-with-different-reality-in-south-africa?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/30/venezuela-says-it-retains-sovereignty-following-us-oil-deal?traffic_source=rss](https://www.aljazeera.com/news/2026/8/30/venezuela-says-it-retains-sovereignty-following-us-oil-deal?traffic_source=rss)
 
 ---
 
-### 9. Iran war live: Tehran stands firm over US sanctions; settlers besiege Qusra
+### 9. US deports relative of Afghans who aided military to Africa
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Iran says it will rely equally on diplomacy and defence to protect its interests.
+Afghan national granted protection in the US is one of dozens of people deported to war-torn Central African Republic.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/8/30/iran-war-live-iran-pledges-to-stand-firm-against-unjust-us-sanctions?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/8/30/iran-war-live-iran-pledges-to-stand-firm-against-unjust-us-sanctions?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/30/us-deports-relative-of-afghans-who-aided-military-to-africa?traffic_source=rss](https://www.aljazeera.com/news/2026/8/30/us-deports-relative-of-afghans-who-aided-military-to-africa?traffic_source=rss)
 
 ---
 

@@ -1,65 +1,61 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-31 20:22:01
+**Last Update:** 2026-09-01 00:24:05
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. ravynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source
+### 1. A walkable ASCII cyberpunk city in one HTML file [video]
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://ravynos.com/">https://ravynos.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49511534">https://news.ycombinator.com/item?id=49511534</a></p>
-<p>Points: 9</p>
-<p># Comments: 1</p>
+<p><i>ASCII City: Traffic and Detail Update</i> - <a href="https://www.youtube.com/watch?v=DSRooHo_HSI" rel="nofollow">https://www.youtube.com/watch?v=DSRooHo_HSI</a><p><i>ASCII City Update: Interiors, Elevation and Skyscrapers</i> - <a href="https://www.youtube.com/watch?v=UCKEDWowc0o" rel="nofollow">https://www.youtube.com/watch?v=UCKEDWowc0o</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49512975">https://news.ycombinator.com/item?id=49512975</a></p>
+<p>Points: 104</p>
+<p># Comments: 21</p>
 
-🔗 **Read more:** [https://ravynos.com/](https://ravynos.com/)
+🔗 **Read more:** [https://www.youtube.com/watch?v=3YtygAx_C6A](https://www.youtube.com/watch?v=3YtygAx_C6A)
 
 ---
 
-### 2. Launch HN: Almanac (YC S26) – AI that knows your company
+### 2. Weave (YC W25) is hiring ML, AI, product, & design engineers
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Hi HN, I'm Kushagra, one of three founders of Almanac, a Hermes with a brain that knows everything about your company.<p>We started our journey with setting up Hermes for our company, thinking it must be easy. We wanted an agent that would know every context about our company, so we could ask questions and get context-appropriate responses to.<p>This started a very annoying and difficult journey. Setting up Hermes, getting it to talk right, building OAuth apps for every connector myself, then feeding it context myself, and ultimately struggling with Hermes's default memory. At the same time, we saw our YC batchmates struggling with the same problem, and we saw an opportunity.<p>So we built Almanac. This is how it works. You sign up, you get a Hermes agent straight out of the box. You have a one-click connect to any account (Gmail, Calendar, Granola, PostHog, etc). You have personal accounts (only accessible by you) and also shared accounts (accessible by everyone in the company). The consequence being I can never see my cofounders' accounts.<p>The “brain” of this agent is wikis. We pull in information from your connected sources, and start organizing this information in two wikis. A personal one, for you, which understands who you are, what your preferences are, the people in your life, and the things going on in your life. The second wiki is a company wiki, which includes what the company is, what you’re working on, what the roadmap is, and what the blockers of the company are. Your agent ultimately has access to these two wikis and the original accounts, which invoke the feeling of “it just knows you.”<p>Here’s a demo: <a href="https://www.youtube.com/watch?v=ajXP5PHuK18" rel="nofollow">https://www.youtube.com/watch?v=ajXP5PHuK18</a><p>We're three cofounders, Rohan, Kushagra, and Divit, and we've been friends for 11 years, since studying for the IIT-JEE. We all did Electrical Engineering (Rohan at IIT Delhi, me at IIT Kharagpur, Divit at BITS Pilani, Hyderabad), and Rohan and I later went to Harvard, where this pre-compilation layer became our capstone thesis. We have built multiple products around the idea of a pre-compiled knowledge layer.<p>Our main differentiating point is the way we approach memory and context in general. Most AI assistant tools treat memory as an afterthought. We have worked on wikis for AI for more than a year now, building products for Harvard and NASA. The one thing we have learnt is that one needs to spend a lot more compute upfront, in the pre-compilation of this knowledge base, to get it right.<p>Having this pre-compiled knowledge base enables a lot of interesting ideas. First is a proactive agent. Since I have compiled what’s going on in both my company and my current life, Almanac can start completing tasks on its own. Concretely, we run a background worker which takes a look at tasks that could be completed, pings the main agent, who then pings me, suggesting which tasks it could automate. As a result, I wake up to proactive notifications which look like “I already prepared a draft of your fundraising pitch deck, want to take a look?”<p>Second, long-horizon tasks. In our wikis, we maintain a section on ongoing projects, so Almanac can pick a task back up days later without losing the thread. Most agents are session-bound: they run once, finish, and forget. But a lot of real work isn't one shot; it plays out over hours and days with people in the loop. The clearest example is anything that involves waiting on a human, like scheduling a meeting, following up on a sales thread, or chasing a document. Almanac can send an email on your behalf, and because it's always on and remembers the project, it notices the reply four hours later and drafts the right follow-up in context.<p>Since launching, we've seen a lot of use cases for Almanac. One person runs her dog-rescue operation through it: finding available fosters, tracking pickups, and sending reminders for consent forms. Another researches Polymarket strategies with Almanac, where its memory holds what past strategies were, proposes new ones, and compares them against what went right or wrong last time. Another builds marketing campaigns on it without having to re-explain the business and the whole campaign every single time.<p>Regarding privacy and security, Almanac only accesses accounts you explicitly connect. Your OAuth credentials are held by our connection provider, not in Almanac’s database. We only store the wiki and the source behind its citations. So an email used as a citation may be retained as Markdown.<p>We’re live: <a href="https://usealmanac.com">https://usealmanac.com</a>. We have a 7-day trial on all of our plans. Happy to hear if people have done similar setups, and what new features they’d like in Almanac. If you’re a company that wants to get an agent that actually gets tasks done, I would love to talk: <a href="https://cal.com/team/almanac/demo" rel="nofollow">https://cal.com/team/almanac/demo</a>.</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49511007">https://news.ycombinator.com/item?id=49511007</a></p>
-<p>Points: 11</p>
-<p># Comments: 10</p>
+<p>Article URL: <a href="https://jobs.ashbyhq.com/workweave">https://jobs.ashbyhq.com/workweave</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49512895">https://news.ycombinator.com/item?id=49512895</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://usealmanac.com/](https://usealmanac.com/)
+🔗 **Read more:** [https://jobs.ashbyhq.com/workweave](https://jobs.ashbyhq.com/workweave)
 
 ---
 
-### 3. Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines
+### 3. 'Stunning' percolation proof solves decades-old puzzle about phase transitions
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Hi HN, we’re Brandon and Kingston, the founders of Hebbian Robotics. We built HFlow (<a href="https://github.com/Hebbian-Robotics/hflow" rel="nofollow">https://github.com/Hebbian-Robotics/hflow</a>), an SDK that turns multimodal recordings from robots and human operators into standardized, quality-checked episodes and queryable dataset manifests. A recording can contain synchronized video, joint states, actions, timestamps, and metadata, and HFlow processes those streams together.<p>Here’s a demo of HFlow in action: <a href="https://www.youtube.com/watch?v=xni0GwV-xAw" rel="nofollow">https://www.youtube.com/watch?v=xni0GwV-xAw</a><p>Robotics data pipelines often begin as scripts: one transcodes video, another checks timestamps, another adds labels, and another copies selected recordings into a training set. This works until the corpus grows. Then it becomes difficult to know which code ran, why an episode was excluded, or whether a dataset can be reproduced. The first pain is usually quality control because frozen cameras, missing topics, timestamp drift, and duplicate recordings can quietly enter training data.<p>Brandon first encountered this while training embodied AI models for two-arm industrial cleaning robots. Kingston had run into related problems while building high-throughput infrastructure at Jane Street. Later, while speaking with robotics data providers, we kept seeing teams rebuild similar processing and quality-control infrastructure. We learnt that processing robotics data is itself one of the bottlenecks to improving robotics models.<p>An HFlow pipeline consists of transformations, checks, labels, and enrichments. The SDK exposes them as plain Python functions that receive an episode and return measurements, artifacts, or transformed data. During development, the functions can run in-process. For scheduled corpus processing, HFlow packages the same registered steps as Airflow 3 DAGs, where teams can inspect task status, logs, retries, and reruns.<p>HFlow currently accepts one MCAP file per episode. MCAP (<a href="https://mcap.dev/" rel="nofollow">https://mcap.dev/</a>) is an open container format by Foxglove for timestamped multimodal recordings, similar in purpose to a ROS bag. It lets video, robot state, actions, and other sensor streams remain synchronized in one file. We use it because HFlow needs to process these streams together, and because the resulting recordings remain compatible with Foxglove and Rerun. HFlow writes a canonical MCAP with in-band H.264 video, grouped camera and state chunks, and provenance describing how the output was produced. Each step has an explicit behavior version, and catalog records connect its measurements and artifacts to the source episode and pipeline run.<p>Quality checks store reusable evidence rather than imposing one universal definition of good data. Some failures, including black frames, frozen video, missing topics, timestamp drift, and impossible joint movements, can be measured deterministically without training a model. Others might be detected using VLMs and other models like MediaPipe Hands. But their meaning depends on the task. A smooth trajectory might indicate a successful demonstration in one setting and a stalled robot in another.<p>HFlow writes measurements, metadata, version stamps, and artifact locations to an append-only Parquet catalog. Teams query it with DuckDB SQL and produce a version-pinned manifest without opening the recordings again. Critical checks can quarantine an episode, but HFlow does not delete data. This separates the evidence from the policy used to assemble a particular dataset.<p>We did not want to replace the tools robotics teams already use. HFlow connects MCAP for synchronized recordings, Airflow for scheduled execution, Parquet for catalog data, and DuckDB for curation. Compared with a general workflow orchestrator, it adds contracts for robotics episodes, processing provenance, quality evidence, quarantine, and dataset manifests. Compared with a training dataset format, it operates earlier and stops at curated episodes plus a manifest.<p>Here are three examples of teams that would use HFlow:
-1. A data vendor or marketplace collecting egocentric recordings. They could use HFlow to detect black or frozen video, duplicate recordings, hand-object interaction, and other quality metrics before delivering the data, while retaining evidence of which checks ran on every episode.
-2. A robotics team collecting teleoperated demonstrations for its own models. They could use HFlow to standardize recordings, add labels and enrichments, and produce a reproducible training manifest.
-3. A team operating robots in the field. It could process incoming logs, quarantine incomplete or corrupted episodes, and query the catalog for particular robot versions, environments, or failure conditions.<p>The project is pre-v1, but the core lifecycle works end to end. You can try it without an account, Docker, or robot hardware by cloning the repository and following the quickstart.<p>HFlow is free under the Apache-2.0 license. The open source deployment is currently a single-tenant workspace, and we have not built the hosted, multi-tenant control plane yet. We are considering making money through managed workspaces and enterprise support for teams that do not want to operate the runtime themselves.<p>Because this processing layer is software and data, people can contribute without owning a robot. We would especially like feedback from people who have built pipelines for robotics, video, or other sensor-heavy systems. We are curious where our data model is wrong, which integrations are missing, and what would fail first on your workloads.</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49510632">https://news.ycombinator.com/item?id=49510632</a></p>
-<p>Points: 16</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://www.quantamagazine.org/stunning-percolation-proof-solves-decades-old-puzzle-about-phase-transitions-20260831/">https://www.quantamagazine.org/stunning-percolation-proof-solves-decades-old-puzzle-about-phase-transitions-20260831/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49512311">https://news.ycombinator.com/item?id=49512311</a></p>
+<p>Points: 27</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://github.com/Hebbian-Robotics/hflow](https://github.com/Hebbian-Robotics/hflow)
+🔗 **Read more:** [https://www.quantamagazine.org/stunning-percolation-proof-solves-decades-old-puzzle-about-phase-transitions-20260831/](https://www.quantamagazine.org/stunning-percolation-proof-solves-decades-old-puzzle-about-phase-transitions-20260831/)
 
 ---
 
@@ -76,20 +72,20 @@ Conservative leader Kemi Badenoch is shaking up her top team ahead of the party'
 
 ---
 
-### 5. Once a village, now barren land - BBC in the valley devastated by floods
+### 5. Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The BBC reports from Sano Barkhu, a village overlooking the town of Syfrubesi, which was destroyed by the Nepal flooding.
+Rescuers have resorted to explosives as they struggle to reach trapped workers, as the flooding death toll reaches 939.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c0m3197yxzmo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c0m3197yxzmo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Messi retires from Argentina duty with 'nothing left to give'
+### 6. Messi retires from international football with 'nothing left to give'
 
 **Source:** BBC
 
@@ -102,42 +98,42 @@ Argentina great Lionel Messi announces his retirement from international footbal
 
 ---
 
-### 7. Over 6,000 Ebola cases confirmed in DRC as death toll nears 3,000
+### 7. ‘Nothing is usable’: Nepal residents return to flood-ravaged homes
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Outbreak in the DRC &#039;the fastest-spreading Ebola epidemic ever recorded,&#039; as country struggles to contain infections.
+Residents in Nepal are returning to flood-ravaged homes, sifting through mud and debris to salvage whatever they can.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/31/over-6000-ebola-cases-confirmed-in-drc-as-death-toll-nears-3000?traffic_source=rss](https://www.aljazeera.com/news/2026/8/31/over-6000-ebola-cases-confirmed-in-drc-as-death-toll-nears-3000?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/31/nothing-is-usable-nepal-residents-return-to-flood-ravaged-homes?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/31/nothing-is-usable-nepal-residents-return-to-flood-ravaged-homes?traffic_source=rss)
 
 ---
 
-### 8. India rejects Hague court order to restore Indus waters pact with Pakistan
+### 8. How will the Mecca agreement become an operational framework?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-New Delhi says the Permanent Court of Arbitration has no jurisdiction over its sovereign choice.
+Officials from Turkiye, Saudi Arabia and Pakistan meet to discuss implementing the pact.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/31/india-rejects-hague-court-order-to-restore-indus-waters-pact-with-pakistan?traffic_source=rss](https://www.aljazeera.com/news/2026/8/31/india-rejects-hague-court-order-to-restore-indus-waters-pact-with-pakistan?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/8/31/how-will-the-mecca-agreement-become-an-operational-framework?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/8/31/how-will-the-mecca-agreement-become-an-operational-framework?traffic_source=rss)
 
 ---
 
-### 9. LIVE: Aston Villa vs Arsenal – Premier League
+### 9. Ukrainians mourn community leader killed in Russian strike on Myla
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-As Villa host Arsenal, follow updates, including the build-up, analysis and live text commentary, of the game.
+Ukrainians gathered to mourn Taras Didych, who was killed while rushing to help after a Russian strike.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/liveblog/2026/8/31/live-aston-villa-vs-arsenal-premier-league?traffic_source=rss](https://www.aljazeera.com/sports/liveblog/2026/8/31/live-aston-villa-vs-arsenal-premier-league?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/31/ukrainians-mourn-community-leader-killed-in-russian-strike-on-myla?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/31/ukrainians-mourn-community-leader-killed-in-russian-strike-on-myla?traffic_source=rss)
 
 ---
 

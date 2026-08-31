@@ -1,16 +1,49 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-31 18:43:23
+**Last Update:** 2026-08-31 20:22:01
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines
+### 1. ravynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://ravynos.com/">https://ravynos.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49511534">https://news.ycombinator.com/item?id=49511534</a></p>
+<p>Points: 9</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://ravynos.com/](https://ravynos.com/)
+
+---
+
+### 2. Launch HN: Almanac (YC S26) – AI that knows your company
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Hi HN, I'm Kushagra, one of three founders of Almanac, a Hermes with a brain that knows everything about your company.<p>We started our journey with setting up Hermes for our company, thinking it must be easy. We wanted an agent that would know every context about our company, so we could ask questions and get context-appropriate responses to.<p>This started a very annoying and difficult journey. Setting up Hermes, getting it to talk right, building OAuth apps for every connector myself, then feeding it context myself, and ultimately struggling with Hermes's default memory. At the same time, we saw our YC batchmates struggling with the same problem, and we saw an opportunity.<p>So we built Almanac. This is how it works. You sign up, you get a Hermes agent straight out of the box. You have a one-click connect to any account (Gmail, Calendar, Granola, PostHog, etc). You have personal accounts (only accessible by you) and also shared accounts (accessible by everyone in the company). The consequence being I can never see my cofounders' accounts.<p>The “brain” of this agent is wikis. We pull in information from your connected sources, and start organizing this information in two wikis. A personal one, for you, which understands who you are, what your preferences are, the people in your life, and the things going on in your life. The second wiki is a company wiki, which includes what the company is, what you’re working on, what the roadmap is, and what the blockers of the company are. Your agent ultimately has access to these two wikis and the original accounts, which invoke the feeling of “it just knows you.”<p>Here’s a demo: <a href="https://www.youtube.com/watch?v=ajXP5PHuK18" rel="nofollow">https://www.youtube.com/watch?v=ajXP5PHuK18</a><p>We're three cofounders, Rohan, Kushagra, and Divit, and we've been friends for 11 years, since studying for the IIT-JEE. We all did Electrical Engineering (Rohan at IIT Delhi, me at IIT Kharagpur, Divit at BITS Pilani, Hyderabad), and Rohan and I later went to Harvard, where this pre-compilation layer became our capstone thesis. We have built multiple products around the idea of a pre-compiled knowledge layer.<p>Our main differentiating point is the way we approach memory and context in general. Most AI assistant tools treat memory as an afterthought. We have worked on wikis for AI for more than a year now, building products for Harvard and NASA. The one thing we have learnt is that one needs to spend a lot more compute upfront, in the pre-compilation of this knowledge base, to get it right.<p>Having this pre-compiled knowledge base enables a lot of interesting ideas. First is a proactive agent. Since I have compiled what’s going on in both my company and my current life, Almanac can start completing tasks on its own. Concretely, we run a background worker which takes a look at tasks that could be completed, pings the main agent, who then pings me, suggesting which tasks it could automate. As a result, I wake up to proactive notifications which look like “I already prepared a draft of your fundraising pitch deck, want to take a look?”<p>Second, long-horizon tasks. In our wikis, we maintain a section on ongoing projects, so Almanac can pick a task back up days later without losing the thread. Most agents are session-bound: they run once, finish, and forget. But a lot of real work isn't one shot; it plays out over hours and days with people in the loop. The clearest example is anything that involves waiting on a human, like scheduling a meeting, following up on a sales thread, or chasing a document. Almanac can send an email on your behalf, and because it's always on and remembers the project, it notices the reply four hours later and drafts the right follow-up in context.<p>Since launching, we've seen a lot of use cases for Almanac. One person runs her dog-rescue operation through it: finding available fosters, tracking pickups, and sending reminders for consent forms. Another researches Polymarket strategies with Almanac, where its memory holds what past strategies were, proposes new ones, and compares them against what went right or wrong last time. Another builds marketing campaigns on it without having to re-explain the business and the whole campaign every single time.<p>Regarding privacy and security, Almanac only accesses accounts you explicitly connect. Your OAuth credentials are held by our connection provider, not in Almanac’s database. We only store the wiki and the source behind its citations. So an email used as a citation may be retained as Markdown.<p>We’re live: <a href="https://usealmanac.com">https://usealmanac.com</a>. We have a 7-day trial on all of our plans. Happy to hear if people have done similar setups, and what new features they’d like in Almanac. If you’re a company that wants to get an agent that actually gets tasks done, I would love to talk: <a href="https://cal.com/team/almanac/demo" rel="nofollow">https://cal.com/team/almanac/demo</a>.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49511007">https://news.ycombinator.com/item?id=49511007</a></p>
+<p>Points: 11</p>
+<p># Comments: 10</p>
+
+🔗 **Read more:** [https://usealmanac.com/](https://usealmanac.com/)
+
+---
+
+### 3. Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines
 
 **Source:** Hacker News
 
@@ -23,46 +56,14 @@
 3. A team operating robots in the field. It could process incoming logs, quarantine incomplete or corrupted episodes, and query the catalog for particular robot versions, environments, or failure conditions.<p>The project is pre-v1, but the core lifecycle works end to end. You can try it without an account, Docker, or robot hardware by cloning the repository and following the quickstart.<p>HFlow is free under the Apache-2.0 license. The open source deployment is currently a single-tenant workspace, and we have not built the hosted, multi-tenant control plane yet. We are considering making money through managed workspaces and enterprise support for teams that do not want to operate the runtime themselves.<p>Because this processing layer is software and data, people can contribute without owning a robot. We would especially like feedback from people who have built pipelines for robotics, video, or other sensor-heavy systems. We are curious where our data model is wrong, which integrations are missing, and what would fail first on your workloads.</p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49510632">https://news.ycombinator.com/item?id=49510632</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
+<p>Points: 16</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://github.com/Hebbian-Robotics/hflow](https://github.com/Hebbian-Robotics/hflow)
 
 ---
 
-### 2. Agentic Trust Controls
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://trustcontrols.ai/">https://trustcontrols.ai/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49510612">https://news.ycombinator.com/item?id=49510612</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://trustcontrols.ai/](https://trustcontrols.ai/)
-
----
-
-### 3. Apache Iggy, a message streaming platform in Rust, graduates to an Apache TLP
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://iggy.apache.org/blogs/2026/08/24/apache-iggy-top-level-project-tlp-graduation/">https://iggy.apache.org/blogs/2026/08/24/apache-iggy-top-level-project-tlp-graduation/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49510540">https://news.ycombinator.com/item?id=49510540</a></p>
-<p>Points: 10</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://iggy.apache.org/blogs/2026/08/24/apache-iggy-top-level-project-tlp-graduation/](https://iggy.apache.org/blogs/2026/08/24/apache-iggy-top-level-project-tlp-graduation/)
-
----
-
-### 4. Sir Mel Stride and Priti Patel replaced in major Tory reshuffle
+### 4. Mel Stride and Priti Patel replaced in major Tory reshuffle
 
 **Source:** BBC
 
@@ -88,55 +89,55 @@ The BBC reports from Sano Barkhu, a village overlooking the town of Syfrubesi, w
 
 ---
 
-### 6. Dolly Parton laid to rest alongside husband in Nashville
+### 6. Messi retires from Argentina duty with 'nothing left to give'
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-A private family funeral is held for the singer who died on Tuesday at the age of 80.
+Argentina great Lionel Messi announces his retirement from international football, saying it was a decision that "hurt" but he understands "the time has come".
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cew95ke74l7o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cew95ke74l7o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/ceq89y38elro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/ceq89y38elro?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Is Trump testing the limits of US power?
+### 7. Over 6,000 Ebola cases confirmed in DRC as death toll nears 3,000
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-With weeks to go before US midterm elections, are President Trump&#039;s policies helping or hurting his Republican Party?
+Outbreak in the DRC &#039;the fastest-spreading Ebola epidemic ever recorded,&#039; as country struggles to contain infections.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/the-bottom-line/2026/8/31/is-trump-testing-the-limits-of-us-power?traffic_source=rss](https://www.aljazeera.com/video/the-bottom-line/2026/8/31/is-trump-testing-the-limits-of-us-power?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/31/over-6000-ebola-cases-confirmed-in-drc-as-death-toll-nears-3000?traffic_source=rss](https://www.aljazeera.com/news/2026/8/31/over-6000-ebola-cases-confirmed-in-drc-as-death-toll-nears-3000?traffic_source=rss)
 
 ---
 
-### 8. Why has Greece signed a $3.5bn missile deal with Israel?
+### 8. India rejects Hague court order to restore Indus waters pact with Pakistan
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Analysts say Greece is concerned about threats posed by the US-Israel war on Iran and Turkiye&#039;s growing capabilities.
+New Delhi says the Permanent Court of Arbitration has no jurisdiction over its sovereign choice.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/31/why-has-greece-signed-a-3-5bn-missile-deal-with-israel?traffic_source=rss](https://www.aljazeera.com/news/2026/8/31/why-has-greece-signed-a-3-5bn-missile-deal-with-israel?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/31/india-rejects-hague-court-order-to-restore-indus-waters-pact-with-pakistan?traffic_source=rss](https://www.aljazeera.com/news/2026/8/31/india-rejects-hague-court-order-to-restore-indus-waters-pact-with-pakistan?traffic_source=rss)
 
 ---
 
-### 9. Jason Arday mural displayed at London’s Notting Hill Carnival
+### 9. LIVE: Aston Villa vs Arsenal – Premier League
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A mural commemorating late Cambridge professor Jason Arday is displayed at London’s Notting Hill Carnival.
+As Villa host Arsenal, follow updates, including the build-up, analysis and live text commentary, of the game.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/31/jason-arday-mural-displayed-at-londons-notting-hill-carnival?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/31/jason-arday-mural-displayed-at-londons-notting-hill-carnival?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/liveblog/2026/8/31/live-aston-villa-vs-arsenal-premier-league?traffic_source=rss](https://www.aljazeera.com/sports/liveblog/2026/8/31/live-aston-villa-vs-arsenal-premier-league?traffic_source=rss)
 
 ---
 

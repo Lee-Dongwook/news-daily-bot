@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-01 00:24:05
+**Last Update:** 2026-09-01 01:17:46
 
 **Total News:** 12
 
@@ -10,7 +10,38 @@
 
 ## 📰 Latest News
 
-### 1. A walkable ASCII cyberpunk city in one HTML file [video]
+### 1. Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://webiterate.dev/google-removed-extensions-ublock-origin-108/">https://webiterate.dev/google-removed-extensions-ublock-origin-108/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49514878">https://news.ycombinator.com/item?id=49514878</a></p>
+<p>Points: 22</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://webiterate.dev/google-removed-extensions-ublock-origin-108/](https://webiterate.dev/google-removed-extensions-ublock-origin-108/)
+
+---
+
+### 2. Autonomous (YC F25) Is Hiring Engineers
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49514781">https://news.ycombinator.com/item?id=49514781</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://news.ycombinator.com/item?id=49514781](https://news.ycombinator.com/item?id=49514781)
+
+---
+
+### 3. A walkable ASCII cyberpunk city in one HTML file [video]
 
 **Source:** Hacker News
 
@@ -20,42 +51,10 @@
 <p><i>ASCII City: Traffic and Detail Update</i> - <a href="https://www.youtube.com/watch?v=DSRooHo_HSI" rel="nofollow">https://www.youtube.com/watch?v=DSRooHo_HSI</a><p><i>ASCII City Update: Interiors, Elevation and Skyscrapers</i> - <a href="https://www.youtube.com/watch?v=UCKEDWowc0o" rel="nofollow">https://www.youtube.com/watch?v=UCKEDWowc0o</a></p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49512975">https://news.ycombinator.com/item?id=49512975</a></p>
-<p>Points: 104</p>
-<p># Comments: 21</p>
+<p>Points: 132</p>
+<p># Comments: 24</p>
 
 🔗 **Read more:** [https://www.youtube.com/watch?v=3YtygAx_C6A](https://www.youtube.com/watch?v=3YtygAx_C6A)
-
----
-
-### 2. Weave (YC W25) is hiring ML, AI, product, & design engineers
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://jobs.ashbyhq.com/workweave">https://jobs.ashbyhq.com/workweave</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49512895">https://news.ycombinator.com/item?id=49512895</a></p>
-<p>Points: 0</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://jobs.ashbyhq.com/workweave](https://jobs.ashbyhq.com/workweave)
-
----
-
-### 3. 'Stunning' percolation proof solves decades-old puzzle about phase transitions
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.quantamagazine.org/stunning-percolation-proof-solves-decades-old-puzzle-about-phase-transitions-20260831/">https://www.quantamagazine.org/stunning-percolation-proof-solves-decades-old-puzzle-about-phase-transitions-20260831/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49512311">https://news.ycombinator.com/item?id=49512311</a></p>
-<p>Points: 27</p>
-<p># Comments: 3</p>
-
-🔗 **Read more:** [https://www.quantamagazine.org/stunning-percolation-proof-solves-decades-old-puzzle-about-phase-transitions-20260831/](https://www.quantamagazine.org/stunning-percolation-proof-solves-decades-old-puzzle-about-phase-transitions-20260831/)
 
 ---
 
@@ -98,42 +97,42 @@ Argentina great Lionel Messi announces his retirement from international footbal
 
 ---
 
-### 7. ‘Nothing is usable’: Nepal residents return to flood-ravaged homes
+### 7. Putin and Xi affirm strategic alliance amid ‘unpredictable’ world
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Residents in Nepal are returning to flood-ravaged homes, sifting through mud and debris to salvage whatever they can.
+The Russian and Chinese leaders met on the sidelines of the SCO summit.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/31/nothing-is-usable-nepal-residents-return-to-flood-ravaged-homes?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/31/nothing-is-usable-nepal-residents-return-to-flood-ravaged-homes?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/31/putin-and-xi-affirm-strategic-alliance-amid-unpredictable-world?traffic_source=rss](https://www.aljazeera.com/news/2026/8/31/putin-and-xi-affirm-strategic-alliance-amid-unpredictable-world?traffic_source=rss)
 
 ---
 
-### 8. How will the Mecca agreement become an operational framework?
+### 8. Argentinian footballer Lionel Messi announces his retirement
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Officials from Turkiye, Saudi Arabia and Pakistan meet to discuss implementing the pact.
+Argentinian footballer Lionel Messi announces his retirement
 
-🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/8/31/how-will-the-mecca-agreement-become-an-operational-framework?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/8/31/how-will-the-mecca-agreement-become-an-operational-framework?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/31/argentinian-footballer-lionel-messi-announces-his-retirement?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/31/argentinian-footballer-lionel-messi-announces-his-retirement?traffic_source=rss)
 
 ---
 
-### 9. Ukrainians mourn community leader killed in Russian strike on Myla
+### 9. Israeli outposts expand as Palestinian homes are demolished
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ukrainians gathered to mourn Taras Didych, who was killed while rushing to help after a Russian strike.
+Israeli forces demolish Palestinian homes in Nablus, while in Hebron settlers cleared land for a new outpost.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/31/ukrainians-mourn-community-leader-killed-in-russian-strike-on-myla?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/31/ukrainians-mourn-community-leader-killed-in-russian-strike-on-myla?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/31/israeli-outposts-expand-as-palestinian-homes-are-demolished?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/31/israeli-outposts-expand-as-palestinian-homes-are-demolished?traffic_source=rss)
 
 ---
 

@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-31 04:55:12
+**Last Update:** 2026-08-31 10:38:19
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Yen weakens past ¥160 per dollar, eroding intervention gains
+### 1. A 12TB Steam "teraleak" spills more than a decade of lost PC gaming history
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.japantimes.co.jp/business/2026/08/29/markets/yen-160-dollar-intervention/">https://www.japantimes.co.jp/business/2026/08/29/markets/yen-160-dollar-intervention/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49504352">https://news.ycombinator.com/item?id=49504352</a></p>
-<p>Points: 20</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/">https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49506182">https://news.ycombinator.com/item?id=49506182</a></p>
+<p>Points: 13</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.japantimes.co.jp/business/2026/08/29/markets/yen-160-dollar-intervention/](https://www.japantimes.co.jp/business/2026/08/29/markets/yen-160-dollar-intervention/)
+🔗 **Read more:** [https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/](https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/)
 
 ---
 
-### 2. “I just chose words carefully”
+### 2. OpenClaw 2.0, Accidentally
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://unsung.aresluna.org/i-just-chose-words-carefully/">https://unsung.aresluna.org/i-just-chose-words-carefully/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49503601">https://news.ycombinator.com/item?id=49503601</a></p>
-<p>Points: 239</p>
-<p># Comments: 61</p>
+<p>Article URL: <a href="https://openclaw.ai/blog/openclaw-2-accidentally">https://openclaw.ai/blog/openclaw-2-accidentally</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49505310">https://news.ycombinator.com/item?id=49505310</a></p>
+<p>Points: 61</p>
+<p># Comments: 50</p>
 
-🔗 **Read more:** [https://unsung.aresluna.org/i-just-chose-words-carefully/](https://unsung.aresluna.org/i-just-chose-words-carefully/)
+🔗 **Read more:** [https://openclaw.ai/blog/openclaw-2-accidentally](https://openclaw.ai/blog/openclaw-2-accidentally)
 
 ---
 
-### 3. Continuous Diffusion Language Models (CDLM's)
+### 3. P99 0 ms* autocomplete for 240M domain names
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://sander.ai/2026/08/24/continuous-dlms.html">https://sander.ai/2026/08/24/continuous-dlms.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49502611">https://news.ycombinator.com/item?id=49502611</a></p>
-<p>Points: 52</p>
-<p># Comments: 15</p>
+<p>Article URL: <a href="https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names">https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49505219">https://news.ycombinator.com/item?id=49505219</a></p>
+<p>Points: 65</p>
+<p># Comments: 29</p>
 
-🔗 **Read more:** [https://sander.ai/2026/08/24/continuous-dlms.html](https://sander.ai/2026/08/24/continuous-dlms.html)
+🔗 **Read more:** [https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names](https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names)
 
 ---
 
@@ -71,7 +71,20 @@ PM Andy Burnham on Sunday announced changes to the next early release scheme - s
 
 ---
 
-### 5. Patel to be replaced by Tugendhat as shadow foreign secretary
+### 5. US and Iran trade strikes for first time in weeks
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Iran says the attack on Larak Island, the first known US strikes since late July, killed two people and injured two others.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Patel to be replaced by Tugendhat as shadow foreign secretary
 
 **Source:** BBC
 
@@ -84,94 +97,81 @@ Kemi Badenoch is expected to carry out a wider reshuffle of her front bench team
 
 ---
 
-### 6. Eight killed and others missing after ferry capsizes off northern Cyprus
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-A search and rescue operation is under way after a ferry carrying nearly 270 people turns over after leaving port.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. What are the implications of the US-Venezuela oil deal?
+### 7. FIFA president Infantino ‘must go’, says former UEFA boss Platini
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Opposition in Venezuela as interim leader insists the deal with Washington will help with the country&#039;s recovery.
+In a scathing interview, French great Michel Platini accuses Infantino of always loving &#039;money and power&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/8/31/what-are-the-implications-of-the-us-venezuela-oil-deal?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/8/31/what-are-the-implications-of-the-us-venezuela-oil-deal?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/31/fifa-president-infantino-must-go-says-former-uefa-boss-platini?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/31/fifa-president-infantino-must-go-says-former-uefa-boss-platini?traffic_source=rss)
 
 ---
 
-### 8. Dozens evacuated and about 15 missing after Grand Canyon flash flood
+### 8. Aston Villa vs Arsenal: Premier League – prediction, team news, lineups
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-More than 60 people have been evacuated after flooding swept large boulders and other debris into the Colorado River.
+Declan Rice continues to star for Arsenal, who may add Julian Alvarez to ranks, but hosts Villa are sore from sales.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/31/dozens-evacuated-and-about-15-missing-after-grand-canyon-flash-flood?traffic_source=rss](https://www.aljazeera.com/news/2026/8/31/dozens-evacuated-and-about-15-missing-after-grand-canyon-flash-flood?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/31/aston-villa-vs-arsenal-premier-league-prediction-team-news-lineups?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/31/aston-villa-vs-arsenal-premier-league-prediction-team-news-lineups?traffic_source=rss)
 
 ---
 
-### 9. Flash flooding in Grand Canyon leaves more than 20 people missing
+### 9. Tennis great Djokovic exits US Open in first round amid tears and pain
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A search is under way for more than 20 people who may be missing after flash floods tore through Arizona’s Grand Canyon.
+Novak Djokovic&#039;s pursuit of a 25th Grand Slam ends in a five-set defeat to unseeded Argentinian player Mariano Navone.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/31/08-31-26-arizona-flash-floods-sv?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/31/08-31-26-arizona-flash-floods-sv?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/31/tennis-great-djokovic-exits-us-open-in-first-round-amid-tears-and-pain?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/31/tennis-great-djokovic-exits-us-open-in-first-round-amid-tears-and-pain?traffic_source=rss)
 
 ---
 
-### 10. Iceberg A76C
+### 10. Hurricane Karina
 
 **Source:** NASA
 
 **Category:** nature
 
 **Description:**
-Natural event: Sea and Lake Ice
+Natural event: Severe Storms
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_5359](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_5359)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23611](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23611)
 
 ---
 
-### 11. Iceberg C39
+### 11. Tropical Storm Lowell
 
 **Source:** NASA
 
 **Category:** nature
 
 **Description:**
-Natural event: Sea and Lake Ice
+Natural event: Severe Storms
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6051](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6051)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23612](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23612)
 
 ---
 
-### 12. Iceberg A81
+### 12. Tropical Storm Bang-Lang
 
 **Source:** NASA
 
 **Category:** nature
 
 **Description:**
-Natural event: Sea and Lake Ice
+Natural event: Severe Storms
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6320](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6320)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23613](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23613)
 
 ---
 

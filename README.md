@@ -1,138 +1,142 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-31 11:50:16
+**Last Update:** 2026-08-31 18:43:23
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Meta Security Researcher's AI Agent Accidentally Deleted Her Emails
+### 1. Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://au.pcmag.com/ai/116091/meta-security-researchers-ai-agent-accidentally-deleted-her-emails">https://au.pcmag.com/ai/116091/meta-security-researchers-ai-agent-accidentally-deleted-her-emails</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49506655">https://news.ycombinator.com/item?id=49506655</a></p>
-<p>Points: 12</p>
-<p># Comments: 4</p>
+<p>Hi HN, we’re Brandon and Kingston, the founders of Hebbian Robotics. We built HFlow (<a href="https://github.com/Hebbian-Robotics/hflow" rel="nofollow">https://github.com/Hebbian-Robotics/hflow</a>), an SDK that turns multimodal recordings from robots and human operators into standardized, quality-checked episodes and queryable dataset manifests. A recording can contain synchronized video, joint states, actions, timestamps, and metadata, and HFlow processes those streams together.<p>Here’s a demo of HFlow in action: <a href="https://www.youtube.com/watch?v=xni0GwV-xAw" rel="nofollow">https://www.youtube.com/watch?v=xni0GwV-xAw</a><p>Robotics data pipelines often begin as scripts: one transcodes video, another checks timestamps, another adds labels, and another copies selected recordings into a training set. This works until the corpus grows. Then it becomes difficult to know which code ran, why an episode was excluded, or whether a dataset can be reproduced. The first pain is usually quality control because frozen cameras, missing topics, timestamp drift, and duplicate recordings can quietly enter training data.<p>Brandon first encountered this while training embodied AI models for two-arm industrial cleaning robots. Kingston had run into related problems while building high-throughput infrastructure at Jane Street. Later, while speaking with robotics data providers, we kept seeing teams rebuild similar processing and quality-control infrastructure. We learnt that processing robotics data is itself one of the bottlenecks to improving robotics models.<p>An HFlow pipeline consists of transformations, checks, labels, and enrichments. The SDK exposes them as plain Python functions that receive an episode and return measurements, artifacts, or transformed data. During development, the functions can run in-process. For scheduled corpus processing, HFlow packages the same registered steps as Airflow 3 DAGs, where teams can inspect task status, logs, retries, and reruns.<p>HFlow currently accepts one MCAP file per episode. MCAP (<a href="https://mcap.dev/" rel="nofollow">https://mcap.dev/</a>) is an open container format by Foxglove for timestamped multimodal recordings, similar in purpose to a ROS bag. It lets video, robot state, actions, and other sensor streams remain synchronized in one file. We use it because HFlow needs to process these streams together, and because the resulting recordings remain compatible with Foxglove and Rerun. HFlow writes a canonical MCAP with in-band H.264 video, grouped camera and state chunks, and provenance describing how the output was produced. Each step has an explicit behavior version, and catalog records connect its measurements and artifacts to the source episode and pipeline run.<p>Quality checks store reusable evidence rather than imposing one universal definition of good data. Some failures, including black frames, frozen video, missing topics, timestamp drift, and impossible joint movements, can be measured deterministically without training a model. Others might be detected using VLMs and other models like MediaPipe Hands. But their meaning depends on the task. A smooth trajectory might indicate a successful demonstration in one setting and a stalled robot in another.<p>HFlow writes measurements, metadata, version stamps, and artifact locations to an append-only Parquet catalog. Teams query it with DuckDB SQL and produce a version-pinned manifest without opening the recordings again. Critical checks can quarantine an episode, but HFlow does not delete data. This separates the evidence from the policy used to assemble a particular dataset.<p>We did not want to replace the tools robotics teams already use. HFlow connects MCAP for synchronized recordings, Airflow for scheduled execution, Parquet for catalog data, and DuckDB for curation. Compared with a general workflow orchestrator, it adds contracts for robotics episodes, processing provenance, quality evidence, quarantine, and dataset manifests. Compared with a training dataset format, it operates earlier and stops at curated episodes plus a manifest.<p>Here are three examples of teams that would use HFlow:
+1. A data vendor or marketplace collecting egocentric recordings. They could use HFlow to detect black or frozen video, duplicate recordings, hand-object interaction, and other quality metrics before delivering the data, while retaining evidence of which checks ran on every episode.
+2. A robotics team collecting teleoperated demonstrations for its own models. They could use HFlow to standardize recordings, add labels and enrichments, and produce a reproducible training manifest.
+3. A team operating robots in the field. It could process incoming logs, quarantine incomplete or corrupted episodes, and query the catalog for particular robot versions, environments, or failure conditions.<p>The project is pre-v1, but the core lifecycle works end to end. You can try it without an account, Docker, or robot hardware by cloning the repository and following the quickstart.<p>HFlow is free under the Apache-2.0 license. The open source deployment is currently a single-tenant workspace, and we have not built the hosted, multi-tenant control plane yet. We are considering making money through managed workspaces and enterprise support for teams that do not want to operate the runtime themselves.<p>Because this processing layer is software and data, people can contribute without owning a robot. We would especially like feedback from people who have built pipelines for robotics, video, or other sensor-heavy systems. We are curious where our data model is wrong, which integrations are missing, and what would fail first on your workloads.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49510632">https://news.ycombinator.com/item?id=49510632</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://au.pcmag.com/ai/116091/meta-security-researchers-ai-agent-accidentally-deleted-her-emails](https://au.pcmag.com/ai/116091/meta-security-researchers-ai-agent-accidentally-deleted-her-emails)
+🔗 **Read more:** [https://github.com/Hebbian-Robotics/hflow](https://github.com/Hebbian-Robotics/hflow)
 
 ---
 
-### 2. A 12TB Steam "teraleak" spills more than a decade of lost PC gaming history
+### 2. Agentic Trust Controls
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/">https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49506182">https://news.ycombinator.com/item?id=49506182</a></p>
-<p>Points: 59</p>
-<p># Comments: 7</p>
+<p>Article URL: <a href="https://trustcontrols.ai/">https://trustcontrols.ai/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49510612">https://news.ycombinator.com/item?id=49510612</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/](https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/)
+🔗 **Read more:** [https://trustcontrols.ai/](https://trustcontrols.ai/)
 
 ---
 
-### 3. OpenClaw 2.0, Accidentally
+### 3. Apache Iggy, a message streaming platform in Rust, graduates to an Apache TLP
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://openclaw.ai/blog/openclaw-2-accidentally">https://openclaw.ai/blog/openclaw-2-accidentally</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49505310">https://news.ycombinator.com/item?id=49505310</a></p>
-<p>Points: 77</p>
-<p># Comments: 75</p>
+<p>Article URL: <a href="https://iggy.apache.org/blogs/2026/08/24/apache-iggy-top-level-project-tlp-graduation/">https://iggy.apache.org/blogs/2026/08/24/apache-iggy-top-level-project-tlp-graduation/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49510540">https://news.ycombinator.com/item?id=49510540</a></p>
+<p>Points: 10</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://openclaw.ai/blog/openclaw-2-accidentally](https://openclaw.ai/blog/openclaw-2-accidentally)
+🔗 **Read more:** [https://iggy.apache.org/blogs/2026/08/24/apache-iggy-top-level-project-tlp-graduation/](https://iggy.apache.org/blogs/2026/08/24/apache-iggy-top-level-project-tlp-graduation/)
 
 ---
 
-### 4. Early release scheme could still see dangerous criminals released, Conservatives warn
+### 4. Sir Mel Stride and Priti Patel replaced in major Tory reshuffle
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Dangerous criminals could still be freed under the prime minister's early release scheme, shadow justice secretary Nick Timothy has told the BBC.
+Conservative leader Kemi Badenoch is shaking up her top team ahead of the party's conference in October.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckgwxx0dg05o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckgwxx0dg05o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cp8026xlm35o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cp8026xlm35o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. US and Iran trade strikes for first time in weeks
+### 5. Once a village, now barren land - BBC in the valley devastated by floods
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Iran says the attack on Larak Island, the first known US strikes since late July, killed two people and injured two others.
+The BBC reports from Sano Barkhu, a village overlooking the town of Syfrubesi, which was destroyed by the Nepal flooding.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c0m3197yxzmo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c0m3197yxzmo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Patel to be replaced by Tugendhat as shadow foreign secretary
+### 6. Dolly Parton laid to rest alongside husband in Nashville
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Kemi Badenoch is expected to carry out a wider reshuffle of her front bench team following high-profile departures.
+A private family funeral is held for the singer who died on Tuesday at the age of 80.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cn5d7ry053eo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cn5d7ry053eo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cew95ke74l7o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cew95ke74l7o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Why the 2022 Nord Stream bombings muddle Berlin-Kyiv ties
+### 7. Is Trump testing the limits of US power?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The blasts strain ties with Ukraine and have exposed the risks of relying on Russian gas, analysts say.
+With weeks to go before US midterm elections, are President Trump&#039;s policies helping or hurting his Republican Party?
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/31/why-the-2022-nord-stream-bombings-muddle-berlin-kyiv-ties?traffic_source=rss](https://www.aljazeera.com/news/2026/8/31/why-the-2022-nord-stream-bombings-muddle-berlin-kyiv-ties?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/the-bottom-line/2026/8/31/is-trump-testing-the-limits-of-us-power?traffic_source=rss](https://www.aljazeera.com/video/the-bottom-line/2026/8/31/is-trump-testing-the-limits-of-us-power?traffic_source=rss)
 
 ---
 
-### 8. ‘An act of resistance’: Raja Shehadeh’s Palestinian diaries find a new home
+### 8. Why has Greece signed a $3.5bn missile deal with Israel?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Al Jazeera interviews the leading writer and lawyer, 75, in Edinburgh, where his daily documentation is being archived.
+Analysts say Greece is concerned about threats posed by the US-Israel war on Iran and Turkiye&#039;s growing capabilities.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/31/an-act-of-resistance-raja-shehadehs-palestinian-diaries-find-a-new-home?traffic_source=rss](https://www.aljazeera.com/news/2026/8/31/an-act-of-resistance-raja-shehadehs-palestinian-diaries-find-a-new-home?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/31/why-has-greece-signed-a-3-5bn-missile-deal-with-israel?traffic_source=rss](https://www.aljazeera.com/news/2026/8/31/why-has-greece-signed-a-3-5bn-missile-deal-with-israel?traffic_source=rss)
 
 ---
 
-### 9. Nepal races to rescue trapped workers, as flood death toll surpasses 900
+### 9. Jason Arday mural displayed at London’s Notting Hill Carnival
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Nepal officials say rescuers focusing on reaching workers in hydropower project tunnels in flood-stricken region.
+A mural commemorating late Cambridge professor Jason Arday is displayed at London’s Notting Hill Carnival.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/31/nepal-races-to-rescue-hydropower-workers-as-flood-death-toll-reaches-903?traffic_source=rss](https://www.aljazeera.com/news/2026/8/31/nepal-races-to-rescue-hydropower-workers-as-flood-death-toll-reaches-903?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/31/jason-arday-mural-displayed-at-londons-notting-hill-carnival?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/31/jason-arday-mural-displayed-at-londons-notting-hill-carnival?traffic_source=rss)
 
 ---
 

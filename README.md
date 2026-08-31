@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-31 04:42:19
+**Last Update:** 2026-08-31 04:55:12
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.japantimes.co.jp/business/2026/08/29/markets/yen-160-dollar-intervention/">https://www.japantimes.co.jp/business/2026/08/29/markets/yen-160-dollar-intervention/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49504352">https://news.ycombinator.com/item?id=49504352</a></p>
-<p>Points: 7</p>
-<p># Comments: 0</p>
+<p>Points: 20</p>
+<p># Comments: 6</p>
 
 🔗 **Read more:** [https://www.japantimes.co.jp/business/2026/08/29/markets/yen-160-dollar-intervention/](https://www.japantimes.co.jp/business/2026/08/29/markets/yen-160-dollar-intervention/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://unsung.aresluna.org/i-just-chose-words-carefully/">https://unsung.aresluna.org/i-just-chose-words-carefully/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49503601">https://news.ycombinator.com/item?id=49503601</a></p>
-<p>Points: 217</p>
-<p># Comments: 51</p>
+<p>Points: 239</p>
+<p># Comments: 61</p>
 
 🔗 **Read more:** [https://unsung.aresluna.org/i-just-chose-words-carefully/](https://unsung.aresluna.org/i-just-chose-words-carefully/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://sander.ai/2026/08/24/continuous-dlms.html">https://sander.ai/2026/08/24/continuous-dlms.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49502611">https://news.ycombinator.com/item?id=49502611</a></p>
-<p>Points: 49</p>
-<p># Comments: 14</p>
+<p>Points: 52</p>
+<p># Comments: 15</p>
 
 🔗 **Read more:** [https://sander.ai/2026/08/24/continuous-dlms.html](https://sander.ai/2026/08/24/continuous-dlms.html)
 
@@ -97,7 +97,20 @@ A search and rescue operation is under way after a ferry carrying nearly 270 peo
 
 ---
 
-### 7. Dozens evacuated and about 15 missing after Grand Canyon flash flood
+### 7. What are the implications of the US-Venezuela oil deal?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Opposition in Venezuela as interim leader insists the deal with Washington will help with the country&#039;s recovery.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/8/31/what-are-the-implications-of-the-us-venezuela-oil-deal?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/8/31/what-are-the-implications-of-the-us-venezuela-oil-deal?traffic_source=rss)
+
+---
+
+### 8. Dozens evacuated and about 15 missing after Grand Canyon flash flood
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ More than 60 people have been evacuated after flooding swept large boulders and 
 
 ---
 
-### 8. Flash flooding in Grand Canyon leaves more than 20 people missing
+### 9. Flash flooding in Grand Canyon leaves more than 20 people missing
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ More than 60 people have been evacuated after flooding swept large boulders and 
 A search is under way for more than 20 people who may be missing after flash floods tore through Arizona’s Grand Canyon.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/31/08-31-26-arizona-flash-floods-sv?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/31/08-31-26-arizona-flash-floods-sv?traffic_source=rss)
-
----
-
-### 9. Iran war live: IRGC attacks US bases in Jordan after US bombs Larak Island
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-US Central Command says its forces bombed two rocket launchers of the IRGC on Larak Island.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/8/31/iran-war-live-irgc-attacks-us-bases-in-jordan-after-us-bombs-larak-island?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/8/31/iran-war-live-irgc-attacks-us-bases-in-jordan-after-us-bombs-larak-island?traffic_source=rss)
 
 ---
 

@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-02T00:16:11+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Apple reveals 'shocking evidence' from ex-employee's MacBook in OpenAI suit",
+            "description": "<p>Article URL: <a href=\"https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/\">https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49527573\">https://news.ycombinator.com/item?id=49527573</a></p>\n<p>Points: 16</p>\n<p># Comments: 1</p>",
+            "url": "https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/",
+            "published": "Tue, 01 Sep 2026 20:19:11 +0000",
+            "fetched": "2026-09-02T00:16:11+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
+            "description": "<p>Article URL: <a href=\"https://simonwillison.net/2026/Sep/1/codex-libreoffice/\">https://simonwillison.net/2026/Sep/1/codex-libreoffice/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49527396\">https://news.ycombinator.com/item?id=49527396</a></p>\n<p>Points: 47</p>\n<p># Comments: 25</p>",
+            "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
+            "published": "Tue, 01 Sep 2026 20:07:57 +0000",
+            "fetched": "2026-09-02T00:16:11+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Refurbishing a Tektronix TDS7104 Oscilloscope",
+            "description": "<p>Article URL: <a href=\"https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html\">https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49527232\">https://news.ycombinator.com/item?id=49527232</a></p>\n<p>Points: 16</p>\n<p># Comments: 5</p>",
+            "url": "https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html",
+            "published": "Tue, 01 Sep 2026 19:55:47 +0000",
+            "fetched": "2026-09-02T00:16:11+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham promises more devolution and public control of essential services",
+            "description": "Tory leader Kemi Badenoch said Burnham was offering \"more government control, more taxes and more politicians\", as he addressed MPs for the first time as PM.",
+            "url": "https://www.bbc.co.uk/news/articles/cx2z528rdp6o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 01 Sep 2026 19:18:30 GMT",
+            "fetched": "2026-09-02T00:16:11+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK long-term borrowing costs highest since 1998 ahead of October Budget",
+            "description": "Higher borrowing costs have piled fresh pressure on Andy Burnham ahead of his first Budget.",
+            "url": "https://www.bbc.co.uk/news/articles/c8d39vq779no?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 01 Sep 2026 16:36:42 GMT",
+            "fetched": "2026-09-02T00:16:11+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Keir Starmer announces he is standing down as MP",
+            "description": "The move will trigger a by-election to replace the former prime minister in his London constituency.",
+            "url": "https://www.bbc.co.uk/news/articles/cvgy4258kgyo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 01 Sep 2026 17:04:29 GMT",
+            "fetched": "2026-09-02T00:16:11+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "What’s driven the defence deal between Israel and Greece?",
+            "description": "Two countries sign $3.5bn weapons agreement.",
+            "url": "https://www.aljazeera.com/video/inside-story/2026/9/1/whats-driven-the-defence-deal-between-israel-and-greece?traffic_source=rss",
+            "published": "Tue, 01 Sep 2026 20:35:14 +0000",
+            "fetched": "2026-09-02T00:16:11+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Canada’s Carney says US must ‘start being serious’ to resolve trade dispute",
+            "description": "Carney and Trump continue to trade barbs amid ongoing threats against Canadian sovereignty and economic disputes.",
+            "url": "https://www.aljazeera.com/news/2026/9/1/canadas-carney-says-us-must-start-being-serious-to-resolve-trade-dispute?traffic_source=rss",
+            "published": "Tue, 01 Sep 2026 20:08:25 +0000",
+            "fetched": "2026-09-02T00:16:11+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Guinea-Bissau referendum nods to expansion of presidential powers",
+            "description": "The National Electoral Commission says 70 percent of voters cast their ballots in favour of the changes.",
+            "url": "https://www.aljazeera.com/news/2026/9/1/guinea-bissau-referendum-nods-to-expansion-of-presidential-powers?traffic_source=rss",
+            "published": "Tue, 01 Sep 2026 19:59:30 +0000",
+            "fetched": "2026-09-02T00:16:11+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Ruggs, Morrow, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23656",
+            "published": "2026-08-31T15:38:00Z",
+            "fetched": "2026-09-02T00:16:11+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Harris, Throckmorton, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23658",
+            "published": "2026-08-31T14:22:00Z",
+            "fetched": "2026-09-02T00:16:11+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire SOUTH RAILROAD, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23685",
+            "published": "2026-08-30T09:40:00Z",
+            "fetched": "2026-09-02T00:16:11+03:30"
+        }
+    ]
+}

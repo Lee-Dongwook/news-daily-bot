@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-01 23:29:34
+**Last Update:** 2026-09-02 00:16:11
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. What's the Scam?
+### 1. Apple reveals 'shocking evidence' from ex-employee's MacBook in OpenAI suit
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.schneier.com/blog/archives/2026/09/whats-the-scam.html">https://www.schneier.com/blog/archives/2026/09/whats-the-scam.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49526244">https://news.ycombinator.com/item?id=49526244</a></p>
-<p>Points: 14</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/">https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49527573">https://news.ycombinator.com/item?id=49527573</a></p>
+<p>Points: 16</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.schneier.com/blog/archives/2026/09/whats-the-scam.html](https://www.schneier.com/blog/archives/2026/09/whats-the-scam.html)
+🔗 **Read more:** [https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/](https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/)
 
 ---
 
-### 2. How accurate have Ed Zitron's AI skeptic predictions been?
+### 2. The ChatGPT/Codex app bundles a full copy of LibreOffice
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://danluu.com/zitron/">https://danluu.com/zitron/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49526069">https://news.ycombinator.com/item?id=49526069</a></p>
-<p>Points: 20</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://simonwillison.net/2026/Sep/1/codex-libreoffice/">https://simonwillison.net/2026/Sep/1/codex-libreoffice/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49527396">https://news.ycombinator.com/item?id=49527396</a></p>
+<p>Points: 47</p>
+<p># Comments: 25</p>
 
-🔗 **Read more:** [https://danluu.com/zitron/](https://danluu.com/zitron/)
+🔗 **Read more:** [https://simonwillison.net/2026/Sep/1/codex-libreoffice/](https://simonwillison.net/2026/Sep/1/codex-libreoffice/)
 
 ---
 
-### 3. There Is No AI
+### 3. Refurbishing a Tektronix TDS7104 Oscilloscope
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://wadler.blogspot.com/2026/08/there-is-no-ai.html">https://wadler.blogspot.com/2026/08/there-is-no-ai.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49525791">https://news.ycombinator.com/item?id=49525791</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html">https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49527232">https://news.ycombinator.com/item?id=49527232</a></p>
+<p>Points: 16</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://wadler.blogspot.com/2026/08/there-is-no-ai.html](https://wadler.blogspot.com/2026/08/there-is-no-ai.html)
+🔗 **Read more:** [https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html](https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html)
 
 ---
 
@@ -97,42 +97,42 @@ The move will trigger a by-election to replace the former prime minister in his 
 
 ---
 
-### 7. China’s Xi makes his first visit to Egypt in a decade
+### 7. What’s driven the defence deal between Israel and Greece?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Chinese President Xi Jinping arrived in Cairo and was greeted by Egyptian President Abdel Fattah el-Sisi.
+Two countries sign $3.5bn weapons agreement.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/1/chinas-xi-makes-his-first-visit-to-egypt-in-a-decade?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/1/chinas-xi-makes-his-first-visit-to-egypt-in-a-decade?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/9/1/whats-driven-the-defence-deal-between-israel-and-greece?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/9/1/whats-driven-the-defence-deal-between-israel-and-greece?traffic_source=rss)
 
 ---
 
-### 8. Israel’s multiple wars see finance, defence ministries clash over spending
+### 8. Canada’s Carney says US must ‘start being serious’ to resolve trade dispute
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Spiraling costs of Israel&#039;s conflicts deepen rift between finance and defense ministries ahead of budget decisions.
+Carney and Trump continue to trade barbs amid ongoing threats against Canadian sovereignty and economic disputes.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/1/israels-multiple-wars-see-finance-defence-ministries-clash-over-spending?traffic_source=rss](https://www.aljazeera.com/news/2026/9/1/israels-multiple-wars-see-finance-defence-ministries-clash-over-spending?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/1/canadas-carney-says-us-must-start-being-serious-to-resolve-trade-dispute?traffic_source=rss](https://www.aljazeera.com/news/2026/9/1/canadas-carney-says-us-must-start-being-serious-to-resolve-trade-dispute?traffic_source=rss)
 
 ---
 
-### 9. Hakainde Hichilema returns as Zambia’s president following disputed vote
+### 9. Guinea-Bissau referendum nods to expansion of presidential powers
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Incumbent is inaugurated with his main rival in last month&#039;s election jailed and the courts shuttered.
+The National Electoral Commission says 70 percent of voters cast their ballots in favour of the changes.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/1/hakainde-hichilema-returns-as-zambias-president-following-disputed-vote?traffic_source=rss](https://www.aljazeera.com/news/2026/9/1/hakainde-hichilema-returns-as-zambias-president-following-disputed-vote?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/1/guinea-bissau-referendum-nods-to-expansion-of-presidential-powers?traffic_source=rss](https://www.aljazeera.com/news/2026/9/1/guinea-bissau-referendum-nods-to-expansion-of-presidential-powers?traffic_source=rss)
 
 ---
 

@@ -1,32 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-01 15:20:24
+**Last Update:** 2026-09-01 16:45:27
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Lake Ontario ("Lake America")
+### 1. EFF to Courts: Don't Rewrite Copyright over AI Hype
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://community.openstreetmap.org/t/lake-ontario-lake-america/146975">https://community.openstreetmap.org/t/lake-ontario-lake-america/146975</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49520270">https://news.ycombinator.com/item?id=49520270</a></p>
-<p>Points: 17</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype">https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49521315">https://news.ycombinator.com/item?id=49521315</a></p>
+<p>Points: 7</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://community.openstreetmap.org/t/lake-ontario-lake-america/146975](https://community.openstreetmap.org/t/lake-ontario-lake-america/146975)
+🔗 **Read more:** [https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype](https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype)
 
 ---
 
-### 2. AnkiDroid: Google Play no longer allowing Open Collective donation link
+### 2. Tim Cook Sold Out Steve Jobs
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.anildash.com/2025/09/09/how-tim-cook-sold-out-steve-jobs/">https://www.anildash.com/2025/09/09/how-tim-cook-sold-out-steve-jobs/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49520896">https://news.ycombinator.com/item?id=49520896</a></p>
+<p>Points: 82</p>
+<p># Comments: 69</p>
+
+🔗 **Read more:** [https://www.anildash.com/2025/09/09/how-tim-cook-sold-out-steve-jobs/](https://www.anildash.com/2025/09/09/how-tim-cook-sold-out-steve-jobs/)
+
+---
+
+### 3. AnkiDroid: Google Play no longer allowing Open Collective donation link
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/ankidroid/Anki-Android/issues/21656">https://github.com/ankidroid/Anki-Android/issues/21656</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49520022">https://news.ycombinator.com/item?id=49520022</a></p>
-<p>Points: 178</p>
-<p># Comments: 23</p>
+<p>Points: 301</p>
+<p># Comments: 51</p>
 
 🔗 **Read more:** [https://github.com/ankidroid/Anki-Android/issues/21656](https://github.com/ankidroid/Anki-Android/issues/21656)
-
----
-
-### 3. 44% on ARC-AGI-1 in 67 cents
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://mvakde.github.io/blog/44-on-arc-1/">https://mvakde.github.io/blog/44-on-arc-1/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49519939">https://news.ycombinator.com/item?id=49519939</a></p>
-<p>Points: 79</p>
-<p># Comments: 28</p>
-
-🔗 **Read more:** [https://mvakde.github.io/blog/44-on-arc-1/](https://mvakde.github.io/blog/44-on-arc-1/)
 
 ---
 
@@ -71,16 +71,16 @@ The former prime minister said he would now turn his focus to international affa
 
 ---
 
-### 5. Laundry rooms to be turned into cells to tackle prison overcrowding
+### 5. Summer 2026 was UK's hottest on record, Met Office says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The government says £110m has been fast-tracked from existing budgets to speed up the building of new cells.
+Met Office figures show that the previous record, set in 2025, has been broken after an unprecedented summer of persistent heat.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ce8x543ddzjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ce8x543ddzjo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/weather/articles/c99dypl3jgmo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/weather/articles/c99dypl3jgmo?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +97,42 @@ As of August, the number forced to return this year from Pakistan and Iran had r
 
 ---
 
-### 7. Abroad and at odds: How the war has divided Iranians in the diaspora
+### 7. Qatar planning to host Formula One, MotoGP despite Middle East conflict
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Many Iranians in the diaspora remain caught in the paradox of opposing  the war and the government in Tehran.
+The Qatar Grand Prix and MotoGP races scheduled for November are expected to go ahead, local organisers say.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/1/abroad-and-at-odds-how-the-war-has-divided-iranians-in-the-diaspora?traffic_source=rss](https://www.aljazeera.com/news/2026/9/1/abroad-and-at-odds-how-the-war-has-divided-iranians-in-the-diaspora?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/1/qatar-planning-to-host-formula-one-motogp-despite-middle-east-conflict?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/1/qatar-planning-to-host-formula-one-motogp-despite-middle-east-conflict?traffic_source=rss)
 
 ---
 
-### 8. Transfer deadline day live: Premier League, La Liga news and done deals
+### 8. Iran urges US to honour commitments under MoU
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Live updates and news on all signings for Man United, Arsenal, Man City, Liverpool, Barcelona, Real Madrid and others.
+Tehran calls for Washington to respect terms of MoU after attacks send tensions soaring in the Strait of Hormuz.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/liveblog/2026/9/1/transfer-deadline-day-2026-live-updates-barcola-alvarez-gakpo?traffic_source=rss](https://www.aljazeera.com/sports/liveblog/2026/9/1/transfer-deadline-day-2026-live-updates-barcola-alvarez-gakpo?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/1/iran-urges-us-to-honour-commitments-under-mou?traffic_source=rss](https://www.aljazeera.com/news/2026/9/1/iran-urges-us-to-honour-commitments-under-mou?traffic_source=rss)
 
 ---
 
-### 9. Israeli attacks on Gaza kill at least four, including children
+### 9. What to know about the US primary election in Massachusetts
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-At least three killed and several wounded in an Israeli air attack in the al-Kateeba district west of Gaza City.
+Competitive House races and a Senate showdown will put US Democrats’ progressive-moderate divide to the test.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/1/israeli-attacks-on-gaza-kill-at-least-four-including-children?traffic_source=rss](https://www.aljazeera.com/news/2026/9/1/israeli-attacks-on-gaza-kill-at-least-four-including-children?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/1/what-to-know-about-the-us-primary-election-in-massachusetts?traffic_source=rss](https://www.aljazeera.com/news/2026/9/1/what-to-know-about-the-us-primary-election-in-massachusetts?traffic_source=rss)
 
 ---
 

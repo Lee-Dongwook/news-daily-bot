@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-09-01T10:58:57+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Ex-gang boss guilty of orchestrating 1996 murder of rapper Tupac Shakur",
+            "description": "Duane \"Keffe D\" Davis was convicted over the drive-by shooting of the rap superstar 30 years ago.",
+            "url": "https://www.bbc.co.uk/news/articles/c24j5192j7jo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 01 Sep 2026 07:02:58 GMT",
+            "fetched": "2026-09-01T10:58:57+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Man charged with murder after fire in which woman and girl died",
+            "description": "A girl, 7, and her aunt died in the blaze in Grangetown, near Middlesbrough, on Wednesday.",
+            "url": "https://www.bbc.co.uk/news/articles/ckg0yyg7m9mo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 01 Sep 2026 04:21:49 GMT",
+            "fetched": "2026-09-01T10:58:57+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban",
+            "description": "As of August, the number forced to return this year from Pakistan and Iran had reached another million.",
+            "url": "https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 01 Sep 2026 05:00:34 GMT",
+            "fetched": "2026-09-01T10:58:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Palestine weekly: Israel’s rightwing campaigns on anti-Palestinian abuses",
+            "description": "Israeli ministers escalate campaign rhetoric with AI ads as Gaza strikes widen ahead of tight October election.",
+            "url": "https://www.aljazeera.com/features/2026/9/1/palestine-weekly-israels-rightwing-campaigns-on-anti-palestinian-abuses?traffic_source=rss",
+            "published": "Tue, 01 Sep 2026 07:02:25 +0000",
+            "fetched": "2026-09-01T10:58:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Teen faces life over livestream of San Diego mosque attack",
+            "description": "A 17-year-old girl has been indicted in North Carolina on murder and conspiracy charges",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/teen-faces-life-over-livestream-of-san-diego-mosque-attack?traffic_source=rss",
+            "published": "Tue, 01 Sep 2026 06:39:07 +0000",
+            "fetched": "2026-09-01T10:58:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US Open: Alcaraz wins on return, aggressive Sabalenka advances",
+            "description": "Defending champions ease to straight set wins in the first round, with Alcaraz making a return after 139 days.",
+            "url": "https://www.aljazeera.com/sports/2026/9/1/us-open-2026-results-carlos-alcaraz-aryna-sabalenka-tennis?traffic_source=rss",
+            "published": "Tue, 01 Sep 2026 06:36:25 +0000",
+            "fetched": "2026-09-01T10:58:57+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Ruggs, Morrow, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23656",
+            "published": "2026-08-31T15:38:00Z",
+            "fetched": "2026-09-01T10:58:57+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Harris, Throckmorton, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23658",
+            "published": "2026-08-31T14:22:00Z",
+            "fetched": "2026-09-01T10:58:57+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire SOUTH RAILROAD, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23685",
+            "published": "2026-08-30T09:40:00Z",
+            "fetched": "2026-09-01T10:58:57+03:30"
+        }
+    ]
+}

@@ -1,64 +1,29 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-01 09:51:08
+**Last Update:** 2026-09-01 10:58:57
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. AI Can Make You Suck Faster Too
+### 1. Ex-gang boss guilty of orchestrating 1996 murder of rapper Tupac Shakur
 
-**Source:** Hacker News
+**Source:** BBC
 
-**Category:** technology
+**Category:** world
 
 **Description:**
-<p>Article URL: <a href="https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too">https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49518316">https://news.ycombinator.com/item?id=49518316</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+Duane "Keffe D" Davis was convicted over the drive-by shooting of the rap superstar 30 years ago.
 
-🔗 **Read more:** [https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too](https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c24j5192j7jo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c24j5192j7jo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 2. Vermell – Minimal, dependency-free C++ web framework using epoll
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/vermellcc/vermell">https://github.com/vermellcc/vermell</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49518121">https://news.ycombinator.com/item?id=49518121</a></p>
-<p>Points: 13</p>
-<p># Comments: 4</p>
-
-🔗 **Read more:** [https://github.com/vermellcc/vermell](https://github.com/vermellcc/vermell)
-
----
-
-### 3. Restroom Archive
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://restroomarchive.com">https://restroomarchive.com</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49517624">https://news.ycombinator.com/item?id=49517624</a></p>
-<p>Points: 66</p>
-<p># Comments: 6</p>
-
-🔗 **Read more:** [https://restroomarchive.com](https://restroomarchive.com)
-
----
-
-### 4. Man charged after woman and her niece died in fire
+### 2. Man charged with murder after fire in which woman and girl died
 
 **Source:** BBC
 
@@ -71,20 +36,7 @@ A girl, 7, and her aunt died in the blaze in Grangetown, near Middlesbrough, on 
 
 ---
 
-### 5. Ex-gang boss found guilty in 1996 murder of rapper Tupac Shakur
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Duane "Keffe D" Davis's conviction ends decades of mystery as to who was behind the rapper's death.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c24j5192j7jo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c24j5192j7jo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. 'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban
+### 3. 'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban
 
 **Source:** BBC
 
@@ -97,46 +49,46 @@ As of August, the number forced to return this year from Pakistan and Iran had r
 
 ---
 
-### 7. Ex-gang leader ‘Keffe D’ found guilty of killing rap legend Tupac Shakur
+### 4. Palestine weekly: Israel’s rightwing campaigns on anti-Palestinian abuses
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Jury finds Duane &quot;Keffe D&quot; Davis, 63, guilty of murdering the chart-topping artist in the 1996 shooting.
+Israeli ministers escalate campaign rhetoric with AI ads as Gaza strikes widen ahead of tight October election.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/1/ex-gang-leader-keffe-d-found-guilty-of-killing-rap-legend-tupac-shakur?traffic_source=rss](https://www.aljazeera.com/news/2026/9/1/ex-gang-leader-keffe-d-found-guilty-of-killing-rap-legend-tupac-shakur?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/9/1/palestine-weekly-israels-rightwing-campaigns-on-anti-palestinian-abuses?traffic_source=rss](https://www.aljazeera.com/features/2026/9/1/palestine-weekly-israels-rightwing-campaigns-on-anti-palestinian-abuses?traffic_source=rss)
 
 ---
 
-### 8. Oil prices climb as US, Iranian attacks stoke fears of escalation
+### 5. Teen faces life over livestream of San Diego mosque attack
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-After peaking at $94.40 a barrel on August 21, Brent has been trading in the range of $86-$91 since the MoU lapsed.
+A 17-year-old girl has been indicted in North Carolina on murder and conspiracy charges
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/1/oil-prices-climb-as-us-iranian-attacks-stoke-fears-of-escalation?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/1/oil-prices-climb-as-us-iranian-attacks-stoke-fears-of-escalation?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/1/teen-faces-life-over-livestream-of-san-diego-mosque-attack?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/1/teen-faces-life-over-livestream-of-san-diego-mosque-attack?traffic_source=rss)
 
 ---
 
-### 9. Israeli forces raze West Bank homes as EU weighs ban on settlement goods
+### 6. US Open: Alcaraz wins on return, aggressive Sabalenka advances
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Pogroms in the occupied West Bank continue, with Israeli forces demolishing homes and settlers attacking residents.
+Defending champions ease to straight set wins in the first round, with Alcaraz making a return after 139 days.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/1/israeli-forces-raze-west-bank-homes-as-eu-weighs-ban-on-settlement-goods?traffic_source=rss](https://www.aljazeera.com/news/2026/9/1/israeli-forces-raze-west-bank-homes-as-eu-weighs-ban-on-settlement-goods?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/1/us-open-2026-results-carlos-alcaraz-aryna-sabalenka-tennis?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/1/us-open-2026-results-carlos-alcaraz-aryna-sabalenka-tennis?traffic_source=rss)
 
 ---
 
-### 10. Wildfire Ruggs, Morrow, Oregon
+### 7. Wildfire Ruggs, Morrow, Oregon
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Wildfires
 
 ---
 
-### 11. Wildfire Harris, Throckmorton, Texas
+### 8. Wildfire Harris, Throckmorton, Texas
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Wildfire SOUTH RAILROAD, Comanche, Oklahoma
+### 9. Wildfire SOUTH RAILROAD, Comanche, Oklahoma
 
 **Source:** NASA
 

@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-01 01:17:46
+**Last Update:** 2026-09-01 04:11:20
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO
+### 1. Evidence of Fraud in an Influential Study About Procrastination
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://webiterate.dev/google-removed-extensions-ublock-origin-108/">https://webiterate.dev/google-removed-extensions-ublock-origin-108/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49514878">https://news.ycombinator.com/item?id=49514878</a></p>
-<p>Points: 22</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://datacolada.org/138">https://datacolada.org/138</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49516199">https://news.ycombinator.com/item?id=49516199</a></p>
+<p>Points: 29</p>
+<p># Comments: 6</p>
 
-🔗 **Read more:** [https://webiterate.dev/google-removed-extensions-ublock-origin-108/](https://webiterate.dev/google-removed-extensions-ublock-origin-108/)
+🔗 **Read more:** [https://datacolada.org/138](https://datacolada.org/138)
 
 ---
 
-### 2. Autonomous (YC F25) Is Hiring Engineers
+### 2. Run macOS Software on Linux
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49514781">https://news.ycombinator.com/item?id=49514781</a></p>
-<p>Points: 0</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.darlinghq.org/">https://www.darlinghq.org/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49515830">https://news.ycombinator.com/item?id=49515830</a></p>
+<p>Points: 56</p>
+<p># Comments: 13</p>
 
-🔗 **Read more:** [https://news.ycombinator.com/item?id=49514781](https://news.ycombinator.com/item?id=49514781)
+🔗 **Read more:** [https://www.darlinghq.org/](https://www.darlinghq.org/)
 
 ---
 
-### 3. A walkable ASCII cyberpunk city in one HTML file [video]
+### 3. Develop Cross-Platform CLI and GUI Tools with Tcl/Tk
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p><i>ASCII City: Traffic and Detail Update</i> - <a href="https://www.youtube.com/watch?v=DSRooHo_HSI" rel="nofollow">https://www.youtube.com/watch?v=DSRooHo_HSI</a><p><i>ASCII City Update: Interiors, Elevation and Skyscrapers</i> - <a href="https://www.youtube.com/watch?v=UCKEDWowc0o" rel="nofollow">https://www.youtube.com/watch?v=UCKEDWowc0o</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49512975">https://news.ycombinator.com/item?id=49512975</a></p>
-<p>Points: 132</p>
-<p># Comments: 24</p>
+<p>Article URL: <a href="https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide">https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49515662">https://news.ycombinator.com/item?id=49515662</a></p>
+<p>Points: 23</p>
+<p># Comments: 11</p>
 
-🔗 **Read more:** [https://www.youtube.com/watch?v=3YtygAx_C6A](https://www.youtube.com/watch?v=3YtygAx_C6A)
+🔗 **Read more:** [https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide](https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide)
 
 ---
 
@@ -97,42 +97,42 @@ Argentina great Lionel Messi announces his retirement from international footbal
 
 ---
 
-### 7. Putin and Xi affirm strategic alliance amid ‘unpredictable’ world
+### 7. Five years after Saied’s power grab, Tunisia’s old grievances resurface
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The Russian and Chinese leaders met on the sidelines of the SCO summit.
+Economic grievances persist while space for dissent has narrowed under President Kais Saied.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/31/putin-and-xi-affirm-strategic-alliance-amid-unpredictable-world?traffic_source=rss](https://www.aljazeera.com/news/2026/8/31/putin-and-xi-affirm-strategic-alliance-amid-unpredictable-world?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/1/five-years-after-saieds-power-grab-tunisias-old-grievances-resurface?traffic_source=rss](https://www.aljazeera.com/news/2026/9/1/five-years-after-saieds-power-grab-tunisias-old-grievances-resurface?traffic_source=rss)
 
 ---
 
-### 8. Argentinian footballer Lionel Messi announces his retirement
+### 8. Iran war live: Trump vows to strike Iran ‘hard’ after first clash in month
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Argentinian footballer Lionel Messi announces his retirement
+President Donald Trump says the US will respond to Iranian strikes on its personnel in Jordan.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/31/argentinian-footballer-lionel-messi-announces-his-retirement?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/31/argentinian-footballer-lionel-messi-announces-his-retirement?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/9/1/iran-war-live-trump-vows-to-hit-iran-following-first-clash-in-a-month?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/9/1/iran-war-live-trump-vows-to-hit-iran-following-first-clash-in-a-month?traffic_source=rss)
 
 ---
 
-### 9. Israeli outposts expand as Palestinian homes are demolished
+### 9. US Army Secretary Daniel Driscoll submits resignation, media reports say
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli forces demolish Palestinian homes in Nablus, while in Hebron settlers cleared land for a new outpost.
+Driscoll&#039;s resignation follows months of tensions with Defense Secretary Pete Hegseth, US media reports say.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/31/israeli-outposts-expand-as-palestinian-homes-are-demolished?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/31/israeli-outposts-expand-as-palestinian-homes-are-demolished?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/31/us-army-secretary-daniel-driscoll-submits-resignation-media-reports-say?traffic_source=rss](https://www.aljazeera.com/news/2026/8/31/us-army-secretary-daniel-driscoll-submits-resignation-media-reports-say?traffic_source=rss)
 
 ---
 

@@ -1,177 +1,177 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-01 04:34:48
+**Last Update:** 2026-09-01 09:51:08
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Evidence of Fraud in an Influential Study About Procrastination
+### 1. AI Can Make You Suck Faster Too
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://datacolada.org/138">https://datacolada.org/138</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49516199">https://news.ycombinator.com/item?id=49516199</a></p>
-<p>Points: 29</p>
+<p>Article URL: <a href="https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too">https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49518316">https://news.ycombinator.com/item?id=49518316</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too](https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too)
+
+---
+
+### 2. Vermell – Minimal, dependency-free C++ web framework using epoll
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/vermellcc/vermell">https://github.com/vermellcc/vermell</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49518121">https://news.ycombinator.com/item?id=49518121</a></p>
+<p>Points: 13</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://github.com/vermellcc/vermell](https://github.com/vermellcc/vermell)
+
+---
+
+### 3. Restroom Archive
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://restroomarchive.com">https://restroomarchive.com</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49517624">https://news.ycombinator.com/item?id=49517624</a></p>
+<p>Points: 66</p>
 <p># Comments: 6</p>
 
-🔗 **Read more:** [https://datacolada.org/138](https://datacolada.org/138)
+🔗 **Read more:** [https://restroomarchive.com](https://restroomarchive.com)
 
 ---
 
-### 2. Run macOS Software on Linux
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.darlinghq.org/">https://www.darlinghq.org/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49515830">https://news.ycombinator.com/item?id=49515830</a></p>
-<p>Points: 56</p>
-<p># Comments: 13</p>
-
-🔗 **Read more:** [https://www.darlinghq.org/](https://www.darlinghq.org/)
-
----
-
-### 3. Develop Cross-Platform CLI and GUI Tools with Tcl/Tk
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide">https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49515662">https://news.ycombinator.com/item?id=49515662</a></p>
-<p>Points: 23</p>
-<p># Comments: 11</p>
-
-🔗 **Read more:** [https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide](https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide)
-
----
-
-### 4. Mel Stride and Priti Patel replaced in major Tory reshuffle
+### 4. Man charged after woman and her niece died in fire
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Conservative leader Kemi Badenoch is shaking up her top team ahead of the party's conference in October.
+A girl, 7, and her aunt died in the blaze in Grangetown, near Middlesbrough, on Wednesday.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cp8026xlm35o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cp8026xlm35o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckg0yyg7m9mo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckg0yyg7m9mo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously
+### 5. Ex-gang boss found guilty in 1996 murder of rapper Tupac Shakur
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Rescuers have resorted to explosives as they struggle to reach trapped workers, as the flooding death toll reaches 939.
+Duane "Keffe D" Davis's conviction ends decades of mystery as to who was behind the rapper's death.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c24j5192j7jo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c24j5192j7jo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Messi retires from international football with 'nothing left to give'
+### 6. 'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Argentina great Lionel Messi announces his retirement from international football, saying it was a decision that "hurt" but he understands "the time has come".
+As of August, the number forced to return this year from Pakistan and Iran had reached another million.
 
-🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/ceq89y38elro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/ceq89y38elro?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Five years after Saied’s power grab, Tunisia’s old grievances resurface
+### 7. Ex-gang leader ‘Keffe D’ found guilty of killing rap legend Tupac Shakur
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Economic grievances persist while space for dissent has narrowed under President Kais Saied.
+Jury finds Duane &quot;Keffe D&quot; Davis, 63, guilty of murdering the chart-topping artist in the 1996 shooting.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/1/five-years-after-saieds-power-grab-tunisias-old-grievances-resurface?traffic_source=rss](https://www.aljazeera.com/news/2026/9/1/five-years-after-saieds-power-grab-tunisias-old-grievances-resurface?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/1/ex-gang-leader-keffe-d-found-guilty-of-killing-rap-legend-tupac-shakur?traffic_source=rss](https://www.aljazeera.com/news/2026/9/1/ex-gang-leader-keffe-d-found-guilty-of-killing-rap-legend-tupac-shakur?traffic_source=rss)
 
 ---
 
-### 8. Iran war live: Trump vows to strike Iran ‘hard’ after first clash in month
+### 8. Oil prices climb as US, Iranian attacks stoke fears of escalation
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-President Donald Trump says the US will respond to Iranian strikes on its personnel in Jordan.
+After peaking at $94.40 a barrel on August 21, Brent has been trading in the range of $86-$91 since the MoU lapsed.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/9/1/iran-war-live-trump-vows-to-hit-iran-following-first-clash-in-a-month?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/9/1/iran-war-live-trump-vows-to-hit-iran-following-first-clash-in-a-month?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/1/oil-prices-climb-as-us-iranian-attacks-stoke-fears-of-escalation?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/1/oil-prices-climb-as-us-iranian-attacks-stoke-fears-of-escalation?traffic_source=rss)
 
 ---
 
-### 9. US Army Secretary Daniel Driscoll submits resignation, media reports say
+### 9. Israeli forces raze West Bank homes as EU weighs ban on settlement goods
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Driscoll&#039;s resignation follows months of tensions with Defense Secretary Pete Hegseth, US media reports say.
+Pogroms in the occupied West Bank continue, with Israeli forces demolishing homes and settlers attacking residents.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/31/us-army-secretary-daniel-driscoll-submits-resignation-media-reports-say?traffic_source=rss](https://www.aljazeera.com/news/2026/8/31/us-army-secretary-daniel-driscoll-submits-resignation-media-reports-say?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/1/israeli-forces-raze-west-bank-homes-as-eu-weighs-ban-on-settlement-goods?traffic_source=rss](https://www.aljazeera.com/news/2026/9/1/israeli-forces-raze-west-bank-homes-as-eu-weighs-ban-on-settlement-goods?traffic_source=rss)
 
 ---
 
-### 10. Hurricane Karina
+### 10. Wildfire Ruggs, Morrow, Oregon
 
 **Source:** NASA
 
 **Category:** nature
 
 **Description:**
-Natural event: Severe Storms
+Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23611](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23611)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23656](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23656)
 
 ---
 
-### 11. Tropical Storm Lowell
+### 11. Wildfire Harris, Throckmorton, Texas
 
 **Source:** NASA
 
 **Category:** nature
 
 **Description:**
-Natural event: Severe Storms
+Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23612](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23612)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23658](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23658)
 
 ---
 
-### 12. Tropical Storm Bang-Lang
+### 12. Wildfire SOUTH RAILROAD, Comanche, Oklahoma
 
 **Source:** NASA
 
 **Category:** nature
 
 **Description:**
-Natural event: Severe Storms
+Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23613](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23613)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23685](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23685)
 
 ---
 

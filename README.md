@@ -1,64 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-02 20:12:40
+**Last Update:** 2026-09-02 21:13:30
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, Al Jazeera, BBC
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: FrontierHarness Eval – 9 harness, same model, cost per pass varies 17x
+### 1. ChatGPT ad targeting is garbage
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://frontierharness.org">https://frontierharness.org</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49538490">https://news.ycombinator.com/item?id=49538490</a></p>
-<p>Points: 11</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://successfulsoftware.net/2026/09/02/chatgpt-ad-targeting-is-garbage/">https://successfulsoftware.net/2026/09/02/chatgpt-ad-targeting-is-garbage/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49539233">https://news.ycombinator.com/item?id=49539233</a></p>
+<p>Points: 3</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://frontierharness.org](https://frontierharness.org)
+🔗 **Read more:** [https://successfulsoftware.net/2026/09/02/chatgpt-ad-targeting-is-garbage/](https://successfulsoftware.net/2026/09/02/chatgpt-ad-targeting-is-garbage/)
 
 ---
 
-### 2. Saving money on Google Photos with Immich: Your own personal photo storage
+### 2. Black Hole Museum: A New Idea for the Los Alamos Community (2025)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.markpitblado.me/blog/saving-on-google-photos-with-immich-your-own-personal-photo-storage/">https://www.markpitblado.me/blog/saving-on-google-photos-with-immich-your-own-personal-photo-storage/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49538375">https://news.ycombinator.com/item?id=49538375</a></p>
-<p>Points: 21</p>
-<p># Comments: 13</p>
+<p>Article URL: <a href="https://losalamosreporter.com/2025/06/29/black-hole-museum-a-new-idea-for-the-los-alamos-community/">https://losalamosreporter.com/2025/06/29/black-hole-museum-a-new-idea-for-the-los-alamos-community/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49539214">https://news.ycombinator.com/item?id=49539214</a></p>
+<p>Points: 3</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.markpitblado.me/blog/saving-on-google-photos-with-immich-your-own-personal-photo-storage/](https://www.markpitblado.me/blog/saving-on-google-photos-with-immich-your-own-personal-photo-storage/)
+🔗 **Read more:** [https://losalamosreporter.com/2025/06/29/black-hole-museum-a-new-idea-for-the-los-alamos-community/](https://losalamosreporter.com/2025/06/29/black-hole-museum-a-new-idea-for-the-los-alamos-community/)
 
 ---
 
-### 3. Gemini 3.8 Flash and 3.8 Flash Cyber
+### 3. Mushroom hunting with LLMs: what can go wrong?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/">https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49538007">https://news.ycombinator.com/item?id=49538007</a></p>
-<p>Points: 51</p>
-<p># Comments: 9</p>
+<p>Article URL: <a href="https://quesma.com/blog/mushroom-llm-vision/">https://quesma.com/blog/mushroom-llm-vision/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49539152">https://news.ycombinator.com/item?id=49539152</a></p>
+<p>Points: 12</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/](https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/)
+🔗 **Read more:** [https://quesma.com/blog/mushroom-llm-vision/](https://quesma.com/blog/mushroom-llm-vision/)
 
 ---
 
-### 4. Burnham's PMQs debut shows the challenge of delivering new style of politics
+### 4. Burnham pressed on economy at first PMQs as UK borrowing costs rise
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Burnham said he had already cut taxes, including VAT on energy bills and hospitality business rates.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cn9wv7pene2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cn9wv7pene2o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. PMQs shows the challenge Burnham has in delivering new style of politics
 
 **Source:** BBC
 
@@ -71,68 +84,55 @@ Burnham's exchanges with Kemi Badenoch slipped into familiar territory of tradin
 
 ---
 
-### 5. Farage tells BBC 'we live in a complainants' society' after questions over Reform funding
+### 6. Woman charged with juror intimidation in Lindsay Clancy trial
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The Reform UK leader said a "whole ecosystem" didn't want "new kids on the block succeeding".
+Dawn Light is accused of taking photos of jurors outside the Plymouth courthouse, a practice prohibited by the court.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cd6857j2v1qo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cd6857j2v1qo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Watch: What we know about reported strike on Iran wedding celebrations
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-BBC Verify looks at footage showing the aftermath of a strike on a building in southern Iran.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c0lr1krdxxwo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c0lr1krdxxwo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwyze4593zwo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwyze4593zwo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. WHO chief warns Ebola response must ramp up to stem DRC outbreak
+### 7. Brazilian activist demands Tunisia release Sumud Flotilla organisers
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Number of people killed in the Democratic Republic of Congo from disease exceeds 3,000 amid response funding gap.
+Activists say four organisers of flotilla that sought to break Gaza blockade have been held in Tunisia since March.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/2/who-chief-warns-ebola-response-must-ramp-up-to-stem-drc-outbreak?traffic_source=rss](https://www.aljazeera.com/news/2026/9/2/who-chief-warns-ebola-response-must-ramp-up-to-stem-drc-outbreak?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/2/brazilian-activist-demands-tunisia-release-sumud-flotilla-organisers?traffic_source=rss](https://www.aljazeera.com/news/2026/9/2/brazilian-activist-demands-tunisia-release-sumud-flotilla-organisers?traffic_source=rss)
 
 ---
 
-### 8. Dismissal of ex-US soldier Bergdahl’s conviction was invalid, court rules
+### 8. US oil giant Chevron to expand Venezuela operations
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Appeals panel says only military tribunals may assess court-martial convictions in blow to former Afghan war prisoner.
+Chevron, the only US oil firm with major presence in Venezuela, said it has got extra acreage and will double output.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/2/dismissal-of-ex-us-soldier-bergdahls-conviction-was-invalid-court-rules?traffic_source=rss](https://www.aljazeera.com/news/2026/9/2/dismissal-of-ex-us-soldier-bergdahls-conviction-was-invalid-court-rules?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/2/us-oil-giant-chevron-to-expand-venezuela-operations?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/2/us-oil-giant-chevron-to-expand-venezuela-operations?traffic_source=rss)
 
 ---
 
-### 9. Israeli PM Netanyahu in Gaza, ‘we are not withdrawing’
+### 9. Uber lays off 3,300 employees in largest cuts since the pandemic
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli Prime Minister Benjamin Netanyahu has said Israel does not plan to withdraw from Gaza
+The layoffs aim to streamline management layers and simplify team structures, says Uber’s CEO Dara Khosrowshahi.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/2/israeli-pm-netanyahu-in-gaza-we-are-not?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/2/israeli-pm-netanyahu-in-gaza-we-are-not?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/2/uber-lays-off-3300-employees-in-largest-cuts-since-the-pandemic?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/2/uber-lays-off-3300-employees-in-largest-cuts-since-the-pandemic?traffic_source=rss)
 
 ---
 

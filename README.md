@@ -1,71 +1,71 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-02 23:24:30
+**Last Update:** 2026-09-03 00:15:09
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. The Post-AI Internet Doesn't Look Great
+### 1. Altair Basic Interpreter Source Code (1975) [pdf]
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.jordangoodman.xyz/the-post-ai-internet-doesnt-look-great/">https://www.jordangoodman.xyz/the-post-ai-internet-doesnt-look-great/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49541331">https://news.ycombinator.com/item?id=49541331</a></p>
+<p>Article URL: <a href="https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf">https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49541754">https://news.ycombinator.com/item?id=49541754</a></p>
 <p>Points: 4</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.jordangoodman.xyz/the-post-ai-internet-doesnt-look-great/](https://www.jordangoodman.xyz/the-post-ai-internet-doesnt-look-great/)
+🔗 **Read more:** [https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf](https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf)
 
 ---
 
-### 2. Muse Spark 1.3
+### 2. I wanna live an NPC life
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://developer.meta.com/ai/models/muse-spark/">https://developer.meta.com/ai/models/muse-spark/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49541256">https://news.ycombinator.com/item?id=49541256</a></p>
-<p>Points: 48</p>
-<p># Comments: 11</p>
+<p>Article URL: <a href="https://signalundefied.bearblog.dev/i-wanna-live-an-npc-life/">https://signalundefied.bearblog.dev/i-wanna-live-an-npc-life/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49541519">https://news.ycombinator.com/item?id=49541519</a></p>
+<p>Points: 28</p>
+<p># Comments: 16</p>
 
-🔗 **Read more:** [https://developer.meta.com/ai/models/muse-spark/](https://developer.meta.com/ai/models/muse-spark/)
+🔗 **Read more:** [https://signalundefied.bearblog.dev/i-wanna-live-an-npc-life/](https://signalundefied.bearblog.dev/i-wanna-live-an-npc-life/)
 
 ---
 
-### 3. Introducing Muse Spark 1.3
+### 3. AI Agents and the Refactoring That Never Happens
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://research.meta.ai/blog/introducing-muse-spark-1-3">https://research.meta.ai/blog/introducing-muse-spark-1-3</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49541149">https://news.ycombinator.com/item?id=49541149</a></p>
-<p>Points: 22</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://www.rosenfeld.page/articles/programming/2026_09_02_ai_agents_and_the_refactoring_that_never_happens/">https://www.rosenfeld.page/articles/programming/2026_09_02_ai_agents_and_the_refactoring_that_never_happens/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49541496">https://news.ycombinator.com/item?id=49541496</a></p>
+<p>Points: 11</p>
+<p># Comments: 13</p>
 
-🔗 **Read more:** [https://research.meta.ai/blog/introducing-muse-spark-1-3](https://research.meta.ai/blog/introducing-muse-spark-1-3)
+🔗 **Read more:** [https://www.rosenfeld.page/articles/programming/2026_09_02_ai_agents_and_the_refactoring_that_never_happens/](https://www.rosenfeld.page/articles/programming/2026_09_02_ai_agents_and_the_refactoring_that_never_happens/)
 
 ---
 
-### 4. Burnham pressed on economy at first PMQs as UK borrowing costs rise
+### 4. Burnham pressed on economy at first PMQs as borrowing costs surge
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Burnham said he had already cut taxes, including VAT on energy bills and hospitality business rates.
+The PM said his government would be "grounded in fiscal responsibility" as he faced Kemi Badenoch at Prime Minister's Questions for the first time.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cn9wv7pene2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cn9wv7pene2o?at_medium=RSS&at_campaign=rss)
 
@@ -97,42 +97,42 @@ The 70m (230ft) tapestry, which tells the story of the Norman Conquest and the B
 
 ---
 
-### 7. Dreams shattered: Gaza amputees struggle under blockade and rubble
+### 7. Trump suggests renaming Strait of Hormuz as Trump Strait amid Iran war
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Young amputees in Gaza face harsh realities, awaiting prosthetics and battling mobility hurdles.
+Despite renewed fighting with Iran and near daily attacks on ships, Trump says Strait of Hormuz is &#039;under USA control&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/9/2/dreams-shattered-gaza-amputees-struggle-under-blockade-and-rubble?traffic_source=rss](https://www.aljazeera.com/features/2026/9/2/dreams-shattered-gaza-amputees-struggle-under-blockade-and-rubble?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/2/trump-suggests-renaming-strait-of-hormuz-as-trump-strait-amid-iran?traffic_source=rss](https://www.aljazeera.com/news/2026/9/2/trump-suggests-renaming-strait-of-hormuz-as-trump-strait-amid-iran?traffic_source=rss)
 
 ---
 
-### 8. Saudi Arabia condemns deadly Iranian attack on tanker in Strait of Hormuz
+### 8. What you need to know: US launches coin featuring Trump’s face
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Regional neighbours condemn attack this week that killed two crew members from the Philippines.
+The coin marks the first time in nearly 200 years that a living person has been featured on the country&#039;s currency.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/2/saudi-arabia-condemns-deadly-iranian-attack-on-tanker-in-strait-of-hormuz?traffic_source=rss](https://www.aljazeera.com/news/2026/9/2/saudi-arabia-condemns-deadly-iranian-attack-on-tanker-in-strait-of-hormuz?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/2/what-you-need-to-know-us-launches-coin-featuring-trumps-face?traffic_source=rss](https://www.aljazeera.com/news/2026/9/2/what-you-need-to-know-us-launches-coin-featuring-trumps-face?traffic_source=rss)
 
 ---
 
-### 9. US says it will use regional body to isolate Nicaragua
+### 9. Israeli protesters call for an end to settler violence
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Move comes after Nicaragua&#039;s lawmakers change constitution to ban most political opposition.
+Israeli protesters gathered in Jerusalem on Wednesday to condemn violence by Jewish settlers in the occupied West Bank.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/2/us-says-it-will-use-regional-body-to-isolate-nicaragua?traffic_source=rss](https://www.aljazeera.com/news/2026/9/2/us-says-it-will-use-regional-body-to-isolate-nicaragua?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/2/israeli-protesters-call-for-an-end-to-settler-violence?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/2/israeli-protesters-call-for-an-end-to-settler-violence?traffic_source=rss)
 
 ---
 

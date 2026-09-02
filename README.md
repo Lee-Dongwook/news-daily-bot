@@ -1,64 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-02 16:54:07
+**Last Update:** 2026-09-02 20:12:40
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. HomeOS – A self-hosted family dashboard for a kitchen touchscreen
+### 1. Show HN: FrontierHarness Eval – 9 harness, same model, cost per pass varies 17x
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/danialkhilji/HomeOS">https://github.com/danialkhilji/HomeOS</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49535594">https://news.ycombinator.com/item?id=49535594</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://frontierharness.org">https://frontierharness.org</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49538490">https://news.ycombinator.com/item?id=49538490</a></p>
+<p>Points: 11</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://github.com/danialkhilji/HomeOS](https://github.com/danialkhilji/HomeOS)
+🔗 **Read more:** [https://frontierharness.org](https://frontierharness.org)
 
 ---
 
-### 2. Dutch central bank moves share of gold from U.S., Canada to London
+### 2. Saving money on Google Photos with Immich: Your own personal photo storage
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://nltimes.nl/2026/09/02/dutch-central-bank-moves-share-gold-us-canada-london-cites-instability">https://nltimes.nl/2026/09/02/dutch-central-bank-moves-share-gold-us-canada-london-cites-instability</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49535526">https://news.ycombinator.com/item?id=49535526</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.markpitblado.me/blog/saving-on-google-photos-with-immich-your-own-personal-photo-storage/">https://www.markpitblado.me/blog/saving-on-google-photos-with-immich-your-own-personal-photo-storage/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49538375">https://news.ycombinator.com/item?id=49538375</a></p>
+<p>Points: 21</p>
+<p># Comments: 13</p>
 
-🔗 **Read more:** [https://nltimes.nl/2026/09/02/dutch-central-bank-moves-share-gold-us-canada-london-cites-instability](https://nltimes.nl/2026/09/02/dutch-central-bank-moves-share-gold-us-canada-london-cites-instability)
+🔗 **Read more:** [https://www.markpitblado.me/blog/saving-on-google-photos-with-immich-your-own-personal-photo-storage/](https://www.markpitblado.me/blog/saving-on-google-photos-with-immich-your-own-personal-photo-storage/)
 
 ---
 
-### 3. Ending my elixir exploratory writing
+### 3. Gemini 3.8 Flash and 3.8 Flash Cyber
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://lucassifoni.info/blog/the-end-of-this-elixir-log/">https://lucassifoni.info/blog/the-end-of-this-elixir-log/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49534921">https://news.ycombinator.com/item?id=49534921</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/">https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49538007">https://news.ycombinator.com/item?id=49538007</a></p>
+<p>Points: 51</p>
+<p># Comments: 9</p>
 
-🔗 **Read more:** [https://lucassifoni.info/blog/the-end-of-this-elixir-log/](https://lucassifoni.info/blog/the-end-of-this-elixir-log/)
+🔗 **Read more:** [https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/](https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/)
 
 ---
 
-### 4. Farage tells BBC 'we live in a complainants' society' after questions over Reform funding
+### 4. Burnham's PMQs debut shows the challenge of delivering new style of politics
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Burnham's exchanges with Kemi Badenoch slipped into familiar territory of trading barbs, writes Alex Forsyth.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c0m3wpk7rdjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c0m3wpk7rdjo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Farage tells BBC 'we live in a complainants' society' after questions over Reform funding
 
 **Source:** BBC
 
@@ -71,107 +84,94 @@ The Reform UK leader said a "whole ecosystem" didn't want "new kids on the block
 
 ---
 
-### 5. Four in court over murder of baby stabbed to death
+### 6. Watch: What we know about reported strike on Iran wedding celebrations
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Four people, aged between 19 and 38, appear in court charged with murdering the newborn.
+BBC Verify looks at footage showing the aftermath of a strike on a building in southern Iran.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cn458wx1w0eo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cn458wx1w0eo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Rosenberg: Putin's veiled threat to UK part of Russia's campaign against West
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The Russian president wants to keep Britain guessing - and stressing - over Moscow's real intentions.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c62j50n131mo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c62j50n131mo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c0lr1krdxxwo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c0lr1krdxxwo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Bodies excavated from worst flood-hit district near Nepal-China border
+### 7. WHO chief warns Ebola response must ramp up to stem DRC outbreak
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Bodies are being excavated from the mud in Nepal&#039;s Rusawa district, which was devastated by the glacial flood.
+Number of people killed in the Democratic Republic of Congo from disease exceeds 3,000 amid response funding gap.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/2/bodies-excavated-from-worst-flood-hit-district-near-nepal-china-border?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/2/bodies-excavated-from-worst-flood-hit-district-near-nepal-china-border?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/2/who-chief-warns-ebola-response-must-ramp-up-to-stem-drc-outbreak?traffic_source=rss](https://www.aljazeera.com/news/2026/9/2/who-chief-warns-ebola-response-must-ramp-up-to-stem-drc-outbreak?traffic_source=rss)
 
 ---
 
-### 8. What is Iran’s Castle Breaker missile, used against US bases?
+### 8. Dismissal of ex-US soldier Bergdahl’s conviction was invalid, court rules
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Kheibar Shekan, Iran&#039;s medium-range missile, is said to play a pivotal role in escalating US-Israel tensions.
+Appeals panel says only military tribunals may assess court-martial convictions in blow to former Afghan war prisoner.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/2/what-is-irans-castle-breaker-missile-used-against-us-bases?traffic_source=rss](https://www.aljazeera.com/news/2026/9/2/what-is-irans-castle-breaker-missile-used-against-us-bases?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/2/dismissal-of-ex-us-soldier-bergdahls-conviction-was-invalid-court-rules?traffic_source=rss](https://www.aljazeera.com/news/2026/9/2/dismissal-of-ex-us-soldier-bergdahls-conviction-was-invalid-court-rules?traffic_source=rss)
 
 ---
 
-### 9. Palestinian landowners confront bulldozers using their hands
+### 9. Israeli PM Netanyahu in Gaza, ‘we are not withdrawing’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Palestinian landowners confront bulldozers using their hands
+Israeli Prime Minister Benjamin Netanyahu has said Israel does not plan to withdraw from Gaza
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/2/palestinian-landowners-confront-bulldozers-using-their-hands?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/2/palestinian-landowners-confront-bulldozers-using-their-hands?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/2/israeli-pm-netanyahu-in-gaza-we-are-not?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/2/israeli-pm-netanyahu-in-gaza-we-are-not?traffic_source=rss)
 
 ---
 
-### 10. Wildfire Ruggs, Morrow, Oregon
+### 10. Tropical Storm Marie
 
 **Source:** NASA
 
 **Category:** nature
 
 **Description:**
-Natural event: Wildfires
+Natural event: Severe Storms
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23656](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23656)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23800](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23800)
 
 ---
 
-### 11. Wildfire Harris, Throckmorton, Texas
+### 11. Tropical Storm Edouard
 
 **Source:** NASA
 
 **Category:** nature
 
 **Description:**
-Natural event: Wildfires
+Natural event: Severe Storms
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23658](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23658)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23739](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23739)
 
 ---
 
-### 12. Wildfire SOUTH RAILROAD, Comanche, Oklahoma
+### 12. Tropical Storm Krovanh
 
 **Source:** NASA
 
 **Category:** nature
 
 **Description:**
-Natural event: Wildfires
+Natural event: Severe Storms
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23685](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23685)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23738](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23738)
 
 ---
 

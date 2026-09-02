@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-03 00:15:09
+**Last Update:** 2026-09-03 02:12:43
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Altair Basic Interpreter Source Code (1975) [pdf]
+### 1. Uber shuts operations in Nigeria and Uganda with immediate effect
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf">https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49541754">https://news.ycombinator.com/item?id=49541754</a></p>
-<p>Points: 4</p>
+<p>Article URL: <a href="https://www.bbc.com/news/articles/c86xpv8l9y9o">https://www.bbc.com/news/articles/c86xpv8l9y9o</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49543007">https://news.ycombinator.com/item?id=49543007</a></p>
+<p>Points: 5</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf](https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf)
+🔗 **Read more:** [https://www.bbc.com/news/articles/c86xpv8l9y9o](https://www.bbc.com/news/articles/c86xpv8l9y9o)
 
 ---
 
-### 2. I wanna live an NPC life
+### 2. Nango (YC W23) is hiring across eng, product and GTM (SF and remote)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://signalundefied.bearblog.dev/i-wanna-live-an-npc-life/">https://signalundefied.bearblog.dev/i-wanna-live-an-npc-life/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49541519">https://news.ycombinator.com/item?id=49541519</a></p>
-<p>Points: 28</p>
-<p># Comments: 16</p>
+<p>Article URL: <a href="https://nango.dev/careers">https://nango.dev/careers</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49542486">https://news.ycombinator.com/item?id=49542486</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://signalundefied.bearblog.dev/i-wanna-live-an-npc-life/](https://signalundefied.bearblog.dev/i-wanna-live-an-npc-life/)
+🔗 **Read more:** [https://nango.dev/careers](https://nango.dev/careers)
 
 ---
 
-### 3. AI Agents and the Refactoring That Never Happens
+### 3. Mamdani Bans AI in NYC Schools
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.rosenfeld.page/articles/programming/2026_09_02_ai_agents_and_the_refactoring_that_never_happens/">https://www.rosenfeld.page/articles/programming/2026_09_02_ai_agents_and_the_refactoring_that_never_happens/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49541496">https://news.ycombinator.com/item?id=49541496</a></p>
-<p>Points: 11</p>
-<p># Comments: 13</p>
+<p>Article URL: <a href="https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html">https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49542443">https://news.ycombinator.com/item?id=49542443</a></p>
+<p>Points: 87</p>
+<p># Comments: 45</p>
 
-🔗 **Read more:** [https://www.rosenfeld.page/articles/programming/2026_09_02_ai_agents_and_the_refactoring_that_never_happens/](https://www.rosenfeld.page/articles/programming/2026_09_02_ai_agents_and_the_refactoring_that_never_happens/)
+🔗 **Read more:** [https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html](https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html)
 
 ---
 
@@ -71,7 +71,20 @@ The PM said his government would be "grounded in fiscal responsibility" as he fa
 
 ---
 
-### 5. King hails 'unprecedented' Bayeux Tapestry exhibition in London
+### 5. Faisal Islam: Why bond market wildfire is keeping world leaders up at night
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Huge AI spending plans and the ongoing war in Iran are driving up borrowing costs around the world.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c0rez9zegj5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c0rez9zegj5o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. King hails 'unprecedented' Bayeux Tapestry exhibition in London
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ British and French leaders will be at the British Museum to see the exhibition o
 
 ---
 
-### 6. What famous scenes are in the epic Bayeux Tapestry?
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The 70m (230ft) tapestry, which tells the story of the Norman Conquest and the Battle of Hastings in 1066, will be on display the British Museum.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/ce8xyjd65e1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/ce8xyjd65e1o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Trump suggests renaming Strait of Hormuz as Trump Strait amid Iran war
+### 7. OpenAI faces new lawsuits over Tumbler Ridge mass shooting tragedy
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Despite renewed fighting with Iran and near daily attacks on ships, Trump says Strait of Hormuz is &#039;under USA control&#039;.
+Multiple new cases have been filed against OpenAI, alleging ChatGPT played a role in the Tumbler Ridge mass shooting.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/2/trump-suggests-renaming-strait-of-hormuz-as-trump-strait-amid-iran?traffic_source=rss](https://www.aljazeera.com/news/2026/9/2/trump-suggests-renaming-strait-of-hormuz-as-trump-strait-amid-iran?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/2/openai-faces-new-lawsuits-over-tumbler-ridge-mass-shooting-tragedy?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/2/openai-faces-new-lawsuits-over-tumbler-ridge-mass-shooting-tragedy?traffic_source=rss)
 
 ---
 
-### 8. What you need to know: US launches coin featuring Trump’s face
+### 8. Republican senator calls on Trump to fire Secretary of Defence Hegseth
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The coin marks the first time in nearly 200 years that a living person has been featured on the country&#039;s currency.
+Senator Thom Tillis accuses Pentagon chief of &#039;inept mismanagement&#039; as US military is strained by war on Iran.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/2/what-you-need-to-know-us-launches-coin-featuring-trumps-face?traffic_source=rss](https://www.aljazeera.com/news/2026/9/2/what-you-need-to-know-us-launches-coin-featuring-trumps-face?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/2/republican-senator-calls-on-trump-to-fire-secretary-of-defence-hegseth?traffic_source=rss](https://www.aljazeera.com/news/2026/9/2/republican-senator-calls-on-trump-to-fire-secretary-of-defence-hegseth?traffic_source=rss)
 
 ---
 
-### 9. Israeli protesters call for an end to settler violence
+### 9. Israeli PM says Israel is working to overthrow Iran’s government
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli protesters gathered in Jerusalem on Wednesday to condemn violence by Jewish settlers in the occupied West Bank.
+Israeli Prime Minister Benjamin Netanyahu said on Wednesday that his country is working to overthrow Iran’s government.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/2/israeli-protesters-call-for-an-end-to-settler-violence?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/2/israeli-protesters-call-for-an-end-to-settler-violence?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/2/israeli-pm-says-israel-is-working-to-overthrow-irans-government?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/2/israeli-pm-says-israel-is-working-to-overthrow-irans-government?traffic_source=rss)
 
 ---
 

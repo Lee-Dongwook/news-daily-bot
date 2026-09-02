@@ -1,77 +1,29 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-02 07:08:09
+**Last Update:** 2026-09-02 09:30:34
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. The efficient frontier of LLM inference
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/">https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49529898">https://news.ycombinator.com/item?id=49529898</a></p>
-<p>Points: 58</p>
-<p># Comments: 9</p>
-
-🔗 **Read more:** [https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/](https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/)
-
----
-
-### 2. FBI Probes Service Selling 153M+ Drivers Licenses
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/">https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49529621">https://news.ycombinator.com/item?id=49529621</a></p>
-<p>Points: 48</p>
-<p># Comments: 8</p>
-
-🔗 **Read more:** [https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/](https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/)
-
----
-
-### 3. My local model setup on an M4 Pro Mac Mini
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://lws.io/blog/my-local-model-setup/">https://lws.io/blog/my-local-model-setup/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49529132">https://news.ycombinator.com/item?id=49529132</a></p>
-<p>Points: 93</p>
-<p># Comments: 40</p>
-
-🔗 **Read more:** [https://lws.io/blog/my-local-model-setup/](https://lws.io/blog/my-local-model-setup/)
-
----
-
-### 4. Iran retaliates after US strikes kill four at wedding party, state media reports
+### 1. Iran attacks US bases in Middle East after reports US strike killed five at wedding party
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Iran has launched attacks on US military bases in Iraq and Jordan, according to local state media and the Jordanian Armed Forces.
+The Iranian Red Crescent says a child was among those killed when shrapnel from a US strike hit a home. The US military says it is aware of the reports and it never targets civilians.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Charlie Kirk murder suspect pleads not guilty as judge clears way for death penalty trial
+### 2. Charlie Kirk murder suspect pleads not guilty as judge clears way for death penalty trial
 
 **Source:** BBC
 
@@ -84,59 +36,59 @@ The  23-year-old is charged with aggravated murder, a capital offence in Utah, a
 
 ---
 
-### 6. Burnham promises more devolution and public control of essential services
+### 3. Chris Mason: Will Burnham find PMQs as 'nail biting' and 'nerve wracking' as Blair did?
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Tory leader Kemi Badenoch said Burnham was offering "more government control, more taxes and more politicians", as he addressed MPs for the first time as PM.
+Curiously, the questions at lunchtime may well feel like a minor extension of what he faced on Tuesday, the BBC's political editor writes.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2z528rdp6o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2z528rdp6o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c7507z4enq6o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c7507z4enq6o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Apple changes name of Lake Ontario to ‘Lake America’ in maps app
+### 4. Palestinian artist Saint Levant delays tour amid US visa complications
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The change marks the second US-based tech giant to comply with President Donald Trump&#039;s controversial order.
+Visa cancellations or delays have forced international artists to rethink US tours under President Donald Trump.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/2/apple-changes-name-of-lake-ontario-to-lake-america-in-maps-app?traffic_source=rss](https://www.aljazeera.com/news/2026/9/2/apple-changes-name-of-lake-ontario-to-lake-america-in-maps-app?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/2/palestinian-artist-saint-levant-delays-tour-amid-us-visa-complications?traffic_source=rss](https://www.aljazeera.com/news/2026/9/2/palestinian-artist-saint-levant-delays-tour-amid-us-visa-complications?traffic_source=rss)
 
 ---
 
-### 8. Honduran court drops case against ex-President Hernandez after Trump pardon
+### 5. Syria’s restrained approach to Israel carries risks
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Juan Orlando Hernandez had been accused of money laundering and fraud as part of a government corruption scheme.
+Damascus&#039;s restraint could encourage more Israeli encroachment and lose the trust of the Syrian public.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/2/honduran-court-drops-case-against-ex-president-hernandez-after-trump-pardon?traffic_source=rss](https://www.aljazeera.com/news/2026/9/2/honduran-court-drops-case-against-ex-president-hernandez-after-trump-pardon?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/9/2/syrias-restrained-approach-to-israel-carries-risks?traffic_source=rss](https://www.aljazeera.com/opinions/2026/9/2/syrias-restrained-approach-to-israel-carries-risks?traffic_source=rss)
 
 ---
 
-### 9. Top US lawmaker Mike Johnson says lying is part of some Iranians’ religion
+### 6. Hong Kong activist Joshua Wong pleads guilty in national security case
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The Republican House speaker defends the US-Israel war on Iran and praises Trump&#039;s &#039;steady hands at the wheel&#039;.
+Pro-democracy activist faces life sentence in second case under Beijing&#039;s national security law.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/2/top-us-lawmaker-mike-johnson-says-lying-is-part-of-some-iranians-religion?traffic_source=rss](https://www.aljazeera.com/news/2026/9/2/top-us-lawmaker-mike-johnson-says-lying-is-part-of-some-iranians-religion?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/2/hong-kong-activist-joshua-wong-pleads-guilty-in-national-security-case?traffic_source=rss](https://www.aljazeera.com/news/2026/9/2/hong-kong-activist-joshua-wong-pleads-guilty-in-national-security-case?traffic_source=rss)
 
 ---
 
-### 10. Wildfire Ruggs, Morrow, Oregon
+### 7. Wildfire Ruggs, Morrow, Oregon
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Wildfires
 
 ---
 
-### 11. Wildfire Harris, Throckmorton, Texas
+### 8. Wildfire Harris, Throckmorton, Texas
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Wildfire SOUTH RAILROAD, Comanche, Oklahoma
+### 9. Wildfire SOUTH RAILROAD, Comanche, Oklahoma
 
 **Source:** NASA
 

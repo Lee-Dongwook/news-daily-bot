@@ -1,90 +1,90 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-02 12:04:36
+**Last Update:** 2026-09-02 15:01:20
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. The Emergent Symbolic Structure of Artificial Neural Networks
+### 1. Sweden pauses Denmark power cable over EU grid rules
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://arxiv.org/abs/2608.29530">https://arxiv.org/abs/2608.29530</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49531651">https://news.ycombinator.com/item?id=49531651</a></p>
-<p>Points: 109</p>
-<p># Comments: 33</p>
+<p>Article URL: <a href="https://www.nordiskpost.com/2026/05/08/sweden-power-cable-dispute-freezes-link-to-denmark/">https://www.nordiskpost.com/2026/05/08/sweden-power-cable-dispute-freezes-link-to-denmark/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49533809">https://news.ycombinator.com/item?id=49533809</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://arxiv.org/abs/2608.29530](https://arxiv.org/abs/2608.29530)
+🔗 **Read more:** [https://www.nordiskpost.com/2026/05/08/sweden-power-cable-dispute-freezes-link-to-denmark/](https://www.nordiskpost.com/2026/05/08/sweden-power-cable-dispute-freezes-link-to-denmark/)
 
 ---
 
-### 2. WebFPGA
+### 2. Telli (YC F24) is hiring engineers and designers [Berlin, on-site]
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://webfpga.io/">https://webfpga.io/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49531525">https://news.ycombinator.com/item?id=49531525</a></p>
-<p>Points: 60</p>
-<p># Comments: 28</p>
+<p>Article URL: <a href="https://careers.telli.com/">https://careers.telli.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49533557">https://news.ycombinator.com/item?id=49533557</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://webfpga.io/](https://webfpga.io/)
+🔗 **Read more:** [https://careers.telli.com/](https://careers.telli.com/)
 
 ---
 
-### 3. True Rate of Unemployment
+### 3. Commodore 64 released September 1, 1982
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.lisep.org/tru">https://www.lisep.org/tru</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49530989">https://news.ycombinator.com/item?id=49530989</a></p>
-<p>Points: 203</p>
-<p># Comments: 159</p>
+<p>Article URL: <a href="https://dfarq.homeip.net/commodore-64-released-september-1-1982/">https://dfarq.homeip.net/commodore-64-released-september-1-1982/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49533497">https://news.ycombinator.com/item?id=49533497</a></p>
+<p>Points: 98</p>
+<p># Comments: 23</p>
 
-🔗 **Read more:** [https://www.lisep.org/tru](https://www.lisep.org/tru)
+🔗 **Read more:** [https://dfarq.homeip.net/commodore-64-released-september-1-1982/](https://dfarq.homeip.net/commodore-64-released-september-1-1982/)
 
 ---
 
-### 4. Chris Mason: Will Burnham find PMQs as 'nail biting' and 'nerve wracking' as Blair did?
+### 4. Four charged with murder after baby stabbed to death
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Curiously, the questions at lunchtime may well feel like a minor extension of what he faced on Tuesday, the BBC's political editor writes.
+Police say four people, aged between 19 and 38, are due in court on Wednesday charged with murder.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c7507z4enq6o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c7507z4enq6o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cn458wx1w0eo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cn458wx1w0eo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Charlie Kirk murder suspect pleads not guilty as judge clears way for death penalty trial
+### 5. Watch: What we know about reported strike on Iran wedding celebrations
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The  23-year-old is charged with aggravated murder, a capital offence in Utah, and six other counts.
+BBC Verify looks at footage showing the aftermath of a strike on a building in southern Iran.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cj4jn9q7evpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cj4jn9q7evpo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c0lr1krdxxwo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c0lr1krdxxwo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. BBC travels inside occupied Lebanon as officials say Israel expanding positions
+### 6. BBC gains rare access to occupied Lebanon as officials say Israel expanding positions
 
 **Source:** BBC
 
@@ -97,42 +97,42 @@ A BBC team joined a humanitarian mission of the UN peacekeeping force, which say
 
 ---
 
-### 7. Cricketers to get best rooms at Asian Games 2026, says Japanese official
+### 7. Nigerian anticorruption agency sacks 40 staff over misconduct allegations
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Cricket is a minor sport in Japan, but it will provide the best accommodation to participating teams, the official says.
+Nigerian media outlets have reported that five of the dismissed staff are facing prosecution.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/2/cricketers-to-get-best-rooms-at-asian-games-2026-says-japanese-official?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/2/cricketers-to-get-best-rooms-at-asian-games-2026-says-japanese-official?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/2/nigerian-anticorruption-agency-sacks-40-staff-over-misconduct-allegations?traffic_source=rss](https://www.aljazeera.com/news/2026/9/2/nigerian-anticorruption-agency-sacks-40-staff-over-misconduct-allegations?traffic_source=rss)
 
 ---
 
-### 8. At least 16 dead, 28 injured, in Egypt bus crash
+### 8. What do we know about the fatal US bombing of a wedding in Iran’s Sirik?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Bus crashes on Dahab-Nuweiba road on the eastern coast of the Sinai Peninsula, an area popular with tourists.
+A residential building and a telecom tower were struck overnight, as Iran and the US launched more strikes over Hormuz.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/2/at-least-16-dead-28-injured-in-egypt-bus-crash?traffic_source=rss](https://www.aljazeera.com/news/2026/9/2/at-least-16-dead-28-injured-in-egypt-bus-crash?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/2/what-do-we-know-about-the-fatal-us-bombing-of-a-wedding-in-irans-sirik?traffic_source=rss](https://www.aljazeera.com/news/2026/9/2/what-do-we-know-about-the-fatal-us-bombing-of-a-wedding-in-irans-sirik?traffic_source=rss)
 
 ---
 
-### 9. Israeli forces, settlers attack two West Bank mosques
+### 9. Messi retirement and FIFA ban leave Paredes uncertain of Argentina future
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli forces fire tear gas into one mosque after settlers set fire to and vandalise another.
+Leandro ‌Paredes&#039;s 10-match ban, alongside Lionel Messi&#039;s Argentina retirement, leave former to ponder future.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/2/israeli-forces-settlers-attack-two-west-bank-mosques?traffic_source=rss](https://www.aljazeera.com/news/2026/9/2/israeli-forces-settlers-attack-two-west-bank-mosques?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/2/paredes-says-ban-by-fifa-messi-retirement-make-argentina-future-uncertain?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/2/paredes-says-ban-by-fifa-messi-retirement-make-argentina-future-uncertain?traffic_source=rss)
 
 ---
 

@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-02T16:54:07+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "HomeOS – A self-hosted family dashboard for a kitchen touchscreen",
+            "description": "<p>Article URL: <a href=\"https://github.com/danialkhilji/HomeOS\">https://github.com/danialkhilji/HomeOS</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49535594\">https://news.ycombinator.com/item?id=49535594</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+            "url": "https://github.com/danialkhilji/HomeOS",
+            "published": "Wed, 02 Sep 2026 13:04:23 +0000",
+            "fetched": "2026-09-02T16:54:07+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Dutch central bank moves share of gold from U.S., Canada to London",
+            "description": "<p>Article URL: <a href=\"https://nltimes.nl/2026/09/02/dutch-central-bank-moves-share-gold-us-canada-london-cites-instability\">https://nltimes.nl/2026/09/02/dutch-central-bank-moves-share-gold-us-canada-london-cites-instability</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49535526\">https://news.ycombinator.com/item?id=49535526</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://nltimes.nl/2026/09/02/dutch-central-bank-moves-share-gold-us-canada-london-cites-instability",
+            "published": "Wed, 02 Sep 2026 12:55:40 +0000",
+            "fetched": "2026-09-02T16:54:07+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Ending my elixir exploratory writing",
+            "description": "<p>Article URL: <a href=\"https://lucassifoni.info/blog/the-end-of-this-elixir-log/\">https://lucassifoni.info/blog/the-end-of-this-elixir-log/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49534921\">https://news.ycombinator.com/item?id=49534921</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+            "url": "https://lucassifoni.info/blog/the-end-of-this-elixir-log/",
+            "published": "Wed, 02 Sep 2026 11:52:48 +0000",
+            "fetched": "2026-09-02T16:54:07+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Farage tells BBC 'we live in a complainants' society' after questions over Reform funding",
+            "description": "The Reform UK leader said a \"whole ecosystem\" didn't want \"new kids on the block succeeding\".",
+            "url": "https://www.bbc.co.uk/news/articles/cd6857j2v1qo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 02 Sep 2026 13:18:28 GMT",
+            "fetched": "2026-09-02T16:54:07+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Four in court over murder of baby stabbed to death",
+            "description": "Four people, aged between 19 and 38, appear in court charged with murdering the newborn.",
+            "url": "https://www.bbc.co.uk/news/articles/cn458wx1w0eo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 02 Sep 2026 13:02:08 GMT",
+            "fetched": "2026-09-02T16:54:07+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Rosenberg: Putin's veiled threat to UK part of Russia's campaign against West",
+            "description": "The Russian president wants to keep Britain guessing - and stressing - over Moscow's real intentions.",
+            "url": "https://www.bbc.co.uk/news/articles/c62j50n131mo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 02 Sep 2026 11:47:11 GMT",
+            "fetched": "2026-09-02T16:54:07+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Bodies excavated from worst flood-hit district near Nepal-China border",
+            "description": "Bodies are being excavated from the mud in Nepal&#039;s Rusawa district, which was devastated by the glacial flood.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/bodies-excavated-from-worst-flood-hit-district-near-nepal-china-border?traffic_source=rss",
+            "published": "Wed, 02 Sep 2026 12:53:27 +0000",
+            "fetched": "2026-09-02T16:54:07+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "What is Iran’s Castle Breaker missile, used against US bases?",
+            "description": "Kheibar Shekan, Iran&#039;s medium-range missile, is said to play a pivotal role in escalating US-Israel tensions.",
+            "url": "https://www.aljazeera.com/news/2026/9/2/what-is-irans-castle-breaker-missile-used-against-us-bases?traffic_source=rss",
+            "published": "Wed, 02 Sep 2026 12:38:39 +0000",
+            "fetched": "2026-09-02T16:54:07+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Palestinian landowners confront bulldozers using their hands",
+            "description": "Palestinian landowners confront bulldozers using their hands",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/palestinian-landowners-confront-bulldozers-using-their-hands?traffic_source=rss",
+            "published": "Wed, 02 Sep 2026 12:14:45 +0000",
+            "fetched": "2026-09-02T16:54:07+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Ruggs, Morrow, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23656",
+            "published": "2026-08-31T15:38:00Z",
+            "fetched": "2026-09-02T16:54:07+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Harris, Throckmorton, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23658",
+            "published": "2026-08-31T14:22:00Z",
+            "fetched": "2026-09-02T16:54:07+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire SOUTH RAILROAD, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23685",
+            "published": "2026-08-30T09:40:00Z",
+            "fetched": "2026-09-02T16:54:07+03:30"
+        }
+    ]
+}

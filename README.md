@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-02 15:01:20
+**Last Update:** 2026-09-02 16:54:07
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Sweden pauses Denmark power cable over EU grid rules
+### 1. HomeOS – A self-hosted family dashboard for a kitchen touchscreen
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.nordiskpost.com/2026/05/08/sweden-power-cable-dispute-freezes-link-to-denmark/">https://www.nordiskpost.com/2026/05/08/sweden-power-cable-dispute-freezes-link-to-denmark/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49533809">https://news.ycombinator.com/item?id=49533809</a></p>
+<p>Article URL: <a href="https://github.com/danialkhilji/HomeOS">https://github.com/danialkhilji/HomeOS</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49535594">https://news.ycombinator.com/item?id=49535594</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://github.com/danialkhilji/HomeOS](https://github.com/danialkhilji/HomeOS)
+
+---
+
+### 2. Dutch central bank moves share of gold from U.S., Canada to London
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://nltimes.nl/2026/09/02/dutch-central-bank-moves-share-gold-us-canada-london-cites-instability">https://nltimes.nl/2026/09/02/dutch-central-bank-moves-share-gold-us-canada-london-cites-instability</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49535526">https://news.ycombinator.com/item?id=49535526</a></p>
 <p>Points: 4</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.nordiskpost.com/2026/05/08/sweden-power-cable-dispute-freezes-link-to-denmark/](https://www.nordiskpost.com/2026/05/08/sweden-power-cable-dispute-freezes-link-to-denmark/)
+🔗 **Read more:** [https://nltimes.nl/2026/09/02/dutch-central-bank-moves-share-gold-us-canada-london-cites-instability](https://nltimes.nl/2026/09/02/dutch-central-bank-moves-share-gold-us-canada-london-cites-instability)
 
 ---
 
-### 2. Telli (YC F24) is hiring engineers and designers [Berlin, on-site]
+### 3. Ending my elixir exploratory writing
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://careers.telli.com/">https://careers.telli.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49533557">https://news.ycombinator.com/item?id=49533557</a></p>
-<p>Points: 0</p>
+<p>Article URL: <a href="https://lucassifoni.info/blog/the-end-of-this-elixir-log/">https://lucassifoni.info/blog/the-end-of-this-elixir-log/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49534921">https://news.ycombinator.com/item?id=49534921</a></p>
+<p>Points: 5</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://careers.telli.com/](https://careers.telli.com/)
+🔗 **Read more:** [https://lucassifoni.info/blog/the-end-of-this-elixir-log/](https://lucassifoni.info/blog/the-end-of-this-elixir-log/)
 
 ---
 
-### 3. Commodore 64 released September 1, 1982
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://dfarq.homeip.net/commodore-64-released-september-1-1982/">https://dfarq.homeip.net/commodore-64-released-september-1-1982/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49533497">https://news.ycombinator.com/item?id=49533497</a></p>
-<p>Points: 98</p>
-<p># Comments: 23</p>
-
-🔗 **Read more:** [https://dfarq.homeip.net/commodore-64-released-september-1-1982/](https://dfarq.homeip.net/commodore-64-released-september-1-1982/)
-
----
-
-### 4. Four charged with murder after baby stabbed to death
+### 4. Farage tells BBC 'we live in a complainants' society' after questions over Reform funding
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Police say four people, aged between 19 and 38, are due in court on Wednesday charged with murder.
+The Reform UK leader said a "whole ecosystem" didn't want "new kids on the block succeeding".
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cd6857j2v1qo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cd6857j2v1qo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Four in court over murder of baby stabbed to death
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Four people, aged between 19 and 38, appear in court charged with murdering the newborn.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cn458wx1w0eo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cn458wx1w0eo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Watch: What we know about reported strike on Iran wedding celebrations
+### 6. Rosenberg: Putin's veiled threat to UK part of Russia's campaign against West
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-BBC Verify looks at footage showing the aftermath of a strike on a building in southern Iran.
+The Russian president wants to keep Britain guessing - and stressing - over Moscow's real intentions.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c0lr1krdxxwo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c0lr1krdxxwo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. BBC gains rare access to occupied Lebanon as officials say Israel expanding positions
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-A BBC team joined a humanitarian mission of the UN peacekeeping force, which says Israeli troops are fortifying positions and continuing demolitions.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cge41d19gq9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cge41d19gq9o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c62j50n131mo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c62j50n131mo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Nigerian anticorruption agency sacks 40 staff over misconduct allegations
+### 7. Bodies excavated from worst flood-hit district near Nepal-China border
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Nigerian media outlets have reported that five of the dismissed staff are facing prosecution.
+Bodies are being excavated from the mud in Nepal&#039;s Rusawa district, which was devastated by the glacial flood.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/2/nigerian-anticorruption-agency-sacks-40-staff-over-misconduct-allegations?traffic_source=rss](https://www.aljazeera.com/news/2026/9/2/nigerian-anticorruption-agency-sacks-40-staff-over-misconduct-allegations?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/2/bodies-excavated-from-worst-flood-hit-district-near-nepal-china-border?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/2/bodies-excavated-from-worst-flood-hit-district-near-nepal-china-border?traffic_source=rss)
 
 ---
 
-### 8. What do we know about the fatal US bombing of a wedding in Iran’s Sirik?
+### 8. What is Iran’s Castle Breaker missile, used against US bases?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A residential building and a telecom tower were struck overnight, as Iran and the US launched more strikes over Hormuz.
+Kheibar Shekan, Iran&#039;s medium-range missile, is said to play a pivotal role in escalating US-Israel tensions.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/2/what-do-we-know-about-the-fatal-us-bombing-of-a-wedding-in-irans-sirik?traffic_source=rss](https://www.aljazeera.com/news/2026/9/2/what-do-we-know-about-the-fatal-us-bombing-of-a-wedding-in-irans-sirik?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/2/what-is-irans-castle-breaker-missile-used-against-us-bases?traffic_source=rss](https://www.aljazeera.com/news/2026/9/2/what-is-irans-castle-breaker-missile-used-against-us-bases?traffic_source=rss)
 
 ---
 
-### 9. Messi retirement and FIFA ban leave Paredes uncertain of Argentina future
+### 9. Palestinian landowners confront bulldozers using their hands
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Leandro ‌Paredes&#039;s 10-match ban, alongside Lionel Messi&#039;s Argentina retirement, leave former to ponder future.
+Palestinian landowners confront bulldozers using their hands
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/2/paredes-says-ban-by-fifa-messi-retirement-make-argentina-future-uncertain?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/2/paredes-says-ban-by-fifa-messi-retirement-make-argentina-future-uncertain?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/2/palestinian-landowners-confront-bulldozers-using-their-hands?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/2/palestinian-landowners-confront-bulldozers-using-their-hands?traffic_source=rss)
 
 ---
 

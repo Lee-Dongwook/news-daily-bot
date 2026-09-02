@@ -1,16 +1,49 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-03 02:12:43
+**Last Update:** 2026-09-03 02:37:03
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Uber shuts operations in Nigeria and Uganda with immediate effect
+### 1. Show HN: Every AI agrees with you. This writes your startup's obituary instead
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://theyfell.com/">https://theyfell.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49543617">https://news.ycombinator.com/item?id=49543617</a></p>
+<p>Points: 5</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://theyfell.com/](https://theyfell.com/)
+
+---
+
+### 2. Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Hi HN,<p>I’m Lloyd, one of two founders of RonanRx. We are building a vertically integrated pharmaceutical company with software for prescribing, telehealth, compounding, manufacturing, and delivery. We are starting with GLP-1s and peptides.<p>The path to RonanRx is fairly unconventional. During the pandemic, I built one of the largest mask manufacturing factories in the US. We could make a million masks in a day. We converted raw polypropylene pellets into finished pallets of masks.<p>I had a background in software from my YC W10 company, so we took a software approach to building our factory. We used machine learning and computer vision to optimize production. We also vertically integrated almost everything. It worked. We built an efficient manufacturing operation and grew the business to 50 million dollars in revenue. Then people actually stopped caring about masks. Fair enough.<p>Around the same time, I decided to try and lose the weight I had gained while building the factory. I ate nothing but chicken for six months. While this diet got some results, I plateaued. My doctor suggested tirzepatide, a GLP-1 medication.<p>For me, losing weight was only the beginning. "Food noise" was gone. I showed less interest in other compulsive behavior. I stopped scrolling Instagram and quit biting my nails. But that was just the beginning. I was born with a congenital heart defect called aortic stenosis. My whole life doctors told me I'd need open heart surgery in my 40s (I am 45 now). After just 18 months using tirzepatide, my cardiologist’s began to think (and still thinks) my surgery could be pushed back until I am 70 or 80.<p>This was all happening when I was deciding what to work on next. I wanted to keep working on manufacturing. I didn't want to build another product that could be replicated by a frontier model. Pharmaceutical manufacturing was the best combination of digital, physical, biological, and regulatory infrastructure I could find. The thing that bothered me was how disconnected all of the pieces were: telehealth, EHR, prescriptions, dispensing software, production, shipping. No one company has it all.<p>GLP-1s come in a handful of predefined doses, but patients obviously aren't standardized: they respond differently, lose weight at different rates, experience different side effects, and may need very different doses. Compounding pharmacies can fill customized prescriptions, but they are not built like software companies. Workflows are manual, fragmented, and disconnected from the patient’s data. It's our goal to connect those pieces with RonanRx.<p>Patients either come to us directly or are referred by a physician. Once a patient is in our system, we collect medical records, current meds, labs, and data from wearables. Our software follows the prescription through drug formulation, compounding, quality testing, and drug dispensing and distribution.<p>The most interesting feature is the feedback loop. As the patient is undergoing treatment, their response becomes data that can be used by their doctor to modify the treatment. We keep the doctor in the feedback loop.<p>We make money by selling drugs we manufacture. Because people can buy directly from us, their price is usually 3x-10x more affordable. We can do this because we start at the molecule and own the entire stack from manufacturing through prescribing, dispensing, and delivery, instead of paying a chain of middlemen at every step.<p>We are beginning with GLP-1s and peptides since this was where I personally experienced the issue; however, we are more interested in the potential of patient-specific pharmaceutical manufacturing.<p>We would love your feedback, especially if you have built pharmacy, manufacturing, clinical infrastructure, EHRs, or any other regulated software. There are a lot of assumptions in this model that should be tested.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49543530">https://news.ycombinator.com/item?id=49543530</a></p>
+<p>Points: 6</p>
+<p># Comments: 5</p>
+
+🔗 **Read more:** [https://ronanrx.com/](https://ronanrx.com/)
+
+---
+
+### 3. Uber shuts operations in Nigeria and Uganda with immediate effect
 
 **Source:** Hacker News
 
@@ -19,42 +52,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.bbc.com/news/articles/c86xpv8l9y9o">https://www.bbc.com/news/articles/c86xpv8l9y9o</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49543007">https://news.ycombinator.com/item?id=49543007</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
+<p>Points: 27</p>
+<p># Comments: 6</p>
 
 🔗 **Read more:** [https://www.bbc.com/news/articles/c86xpv8l9y9o](https://www.bbc.com/news/articles/c86xpv8l9y9o)
-
----
-
-### 2. Nango (YC W23) is hiring across eng, product and GTM (SF and remote)
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://nango.dev/careers">https://nango.dev/careers</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49542486">https://news.ycombinator.com/item?id=49542486</a></p>
-<p>Points: 0</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://nango.dev/careers](https://nango.dev/careers)
-
----
-
-### 3. Mamdani Bans AI in NYC Schools
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html">https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49542443">https://news.ycombinator.com/item?id=49542443</a></p>
-<p>Points: 87</p>
-<p># Comments: 45</p>
-
-🔗 **Read more:** [https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html](https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html)
 
 ---
 

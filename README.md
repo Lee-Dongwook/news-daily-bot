@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-02 02:37:51
+**Last Update:** 2026-09-02 04:38:46
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. My local model setup on an M4 Pro Mac Mini
+### 1. The efficient frontier of LLM inference
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/">https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49529898">https://news.ycombinator.com/item?id=49529898</a></p>
+<p>Points: 17</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/](https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/)
+
+---
+
+### 2. Improving our alignment and security efforts
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.anthropic.com/news/improving-alignment-security-efforts">https://www.anthropic.com/news/improving-alignment-security-efforts</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49529567">https://news.ycombinator.com/item?id=49529567</a></p>
+<p>Points: 10</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://www.anthropic.com/news/improving-alignment-security-efforts](https://www.anthropic.com/news/improving-alignment-security-efforts)
+
+---
+
+### 3. My local model setup on an M4 Pro Mac Mini
 
 **Source:** Hacker News
 
@@ -19,47 +51,40 @@
 **Description:**
 <p>Article URL: <a href="https://lws.io/blog/my-local-model-setup/">https://lws.io/blog/my-local-model-setup/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49529132">https://news.ycombinator.com/item?id=49529132</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
+<p>Points: 44</p>
+<p># Comments: 15</p>
 
 🔗 **Read more:** [https://lws.io/blog/my-local-model-setup/](https://lws.io/blog/my-local-model-setup/)
 
 ---
 
-### 2. Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos
+### 4. Iran retaliates after US strikes kills four at wedding party, state media reports
 
-**Source:** Hacker News
+**Source:** BBC
 
-**Category:** technology
+**Category:** world
 
 **Description:**
-<p>I'm the developer. I built this because AI-generated conspiracy videos were getting out of control in my own YouTube feed. Weedout is a $1.99 Safari extension for macOS that removes videos YouTube labels “Made with AI” from feed, search, related videos, playlists and Shorts. It uses YouTube's label rather than AI detection, runs locally, and does not catch unlabeled videos.<p>Source for developers who want to fork or build: <a href="https://github.com/masteranza/weedout-for-youtube" rel="nofollow">https://github.com/masteranza/weedout-for-youtube</a><p>Pull requests are not accepted; the repository is for independent forks.</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49528895">https://news.ycombinator.com/item?id=49528895</a></p>
-<p>Points: 24</p>
-<p># Comments: 6</p>
+Iranian news agencies said retaliatory missile and drone attacks on US targets had begun.
 
-🔗 **Read more:** [https://masteranza.github.io/weedout/](https://masteranza.github.io/weedout/)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 3. Fluorescent lamps (don't) have ears
+### 5. Charlie Kirk murder suspect pleads not guilty as judge clears way for death penalty trial
 
-**Source:** Hacker News
+**Source:** BBC
 
-**Category:** technology
+**Category:** world
 
 **Description:**
-<p>Article URL: <a href="https://blog.coredump.cx/p/fluorescent-lamps-dont-have-ears">https://blog.coredump.cx/p/fluorescent-lamps-dont-have-ears</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49528366">https://news.ycombinator.com/item?id=49528366</a></p>
-<p>Points: 13</p>
-<p># Comments: 3</p>
+Tyler Robinson is charged with aggravated murder, a capital offence in Utah, and six other counts.
 
-🔗 **Read more:** [https://blog.coredump.cx/p/fluorescent-lamps-dont-have-ears](https://blog.coredump.cx/p/fluorescent-lamps-dont-have-ears)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cj4jn9q7evpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cj4jn9q7evpo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. Burnham promises more devolution and public control of essential services
+### 6. Burnham promises more devolution and public control of essential services
 
 **Source:** BBC
 
@@ -72,33 +97,33 @@ Tory leader Kemi Badenoch said Burnham was offering "more government control, mo
 
 ---
 
-### 5. UK long-term borrowing costs highest since 1998 ahead of October Budget
+### 7. Moment US strikes on Iranian port city hit wedding party
 
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Higher borrowing costs have piled fresh pressure on Andy Burnham ahead of his first Budget.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c8d39vq779no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c8d39vq779no?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Keir Starmer announces he is standing down as MP
-
-**Source:** BBC
+**Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The move will trigger a by-election to replace the former prime minister in his London constituency.
+Iran says a series of US strikes near the southern Iranian port city of Sirik has killed at least four people.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvgy4258kgyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvgy4258kgyo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/2/moment-us-strikes-on-iranian-port-city-hit-wedding-party?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/2/moment-us-strikes-on-iranian-port-city-hit-wedding-party?traffic_source=rss)
 
 ---
 
-### 7. Fernandez transfers to Man City from Chelsea in joint British record fee
+### 8. Iran war live: US bombs Iran, Tehran retaliates on Gulf neighbours, Jordan
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Tehran pledges &#039;severe punishment&#039; and retaliation against Washington following a new wave of US attacks.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/9/2/iran-war-live-us-bombs-iran-tehran-retaliates-on-gulf-neighbours-jordan?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/9/2/iran-war-live-us-bombs-iran-tehran-retaliates-on-gulf-neighbours-jordan?traffic_source=rss)
+
+---
+
+### 9. Fernandez transfers to Man City from Chelsea in joint British record fee
 
 **Source:** Al Jazeera
 
@@ -108,32 +133,6 @@ The move will trigger a by-election to replace the former prime minister in his 
 Argentina international Enzo Fernandez signs for Manchester City in a deal from Chelsea worth £125 million ($169m).
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/1/fernandez-transfers-to-man-city-from-chelsea-in-joint-british-record-fee?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/1/fernandez-transfers-to-man-city-from-chelsea-in-joint-british-record-fee?traffic_source=rss)
-
----
-
-### 8. Cisco accused of fostering a hostile workplace for Muslim and Arab employees
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Cisco employees allege harassment after internal activism against technology sales to the Israeli military.
-
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/1/cisco-accused-of-fostering-a-hostile-workplace-for-muslim-and-arab-employees?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/1/cisco-accused-of-fostering-a-hostile-workplace-for-muslim-and-arab-employees?traffic_source=rss)
-
----
-
-### 9. US House passes funding bill to avert government shutdown ahead of midterms
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The temporary measure gives Congress until December to fully fund the federal government for fiscal year 2027.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/1/us-house-passes-funding-bill-to-avert-government-shutdown-ahead-of-midterms?traffic_source=rss](https://www.aljazeera.com/news/2026/9/1/us-house-passes-funding-bill-to-avert-government-shutdown-ahead-of-midterms?traffic_source=rss)
 
 ---
 

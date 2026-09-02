@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-02 04:38:46
+**Last Update:** 2026-09-02 07:08:09
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
@@ -19,26 +19,26 @@
 **Description:**
 <p>Article URL: <a href="https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/">https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49529898">https://news.ycombinator.com/item?id=49529898</a></p>
-<p>Points: 17</p>
-<p># Comments: 2</p>
+<p>Points: 58</p>
+<p># Comments: 9</p>
 
 🔗 **Read more:** [https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/](https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/)
 
 ---
 
-### 2. Improving our alignment and security efforts
+### 2. FBI Probes Service Selling 153M+ Drivers Licenses
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.anthropic.com/news/improving-alignment-security-efforts">https://www.anthropic.com/news/improving-alignment-security-efforts</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49529567">https://news.ycombinator.com/item?id=49529567</a></p>
-<p>Points: 10</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/">https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49529621">https://news.ycombinator.com/item?id=49529621</a></p>
+<p>Points: 48</p>
+<p># Comments: 8</p>
 
-🔗 **Read more:** [https://www.anthropic.com/news/improving-alignment-security-efforts](https://www.anthropic.com/news/improving-alignment-security-efforts)
+🔗 **Read more:** [https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/](https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/)
 
 ---
 
@@ -51,21 +51,21 @@
 **Description:**
 <p>Article URL: <a href="https://lws.io/blog/my-local-model-setup/">https://lws.io/blog/my-local-model-setup/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49529132">https://news.ycombinator.com/item?id=49529132</a></p>
-<p>Points: 44</p>
-<p># Comments: 15</p>
+<p>Points: 93</p>
+<p># Comments: 40</p>
 
 🔗 **Read more:** [https://lws.io/blog/my-local-model-setup/](https://lws.io/blog/my-local-model-setup/)
 
 ---
 
-### 4. Iran retaliates after US strikes kills four at wedding party, state media reports
+### 4. Iran retaliates after US strikes kill four at wedding party, state media reports
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Iranian news agencies said retaliatory missile and drone attacks on US targets had begun.
+Iran has launched attacks on US military bases in Iraq and Jordan, according to local state media and the Jordanian Armed Forces.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss)
 
@@ -78,7 +78,7 @@ Iranian news agencies said retaliatory missile and drone attacks on US targets h
 **Category:** world
 
 **Description:**
-Tyler Robinson is charged with aggravated murder, a capital offence in Utah, and six other counts.
+The  23-year-old is charged with aggravated murder, a capital offence in Utah, and six other counts.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cj4jn9q7evpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cj4jn9q7evpo?at_medium=RSS&at_campaign=rss)
 
@@ -97,42 +97,42 @@ Tory leader Kemi Badenoch said Burnham was offering "more government control, mo
 
 ---
 
-### 7. Moment US strikes on Iranian port city hit wedding party
+### 7. Apple changes name of Lake Ontario to ‘Lake America’ in maps app
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Iran says a series of US strikes near the southern Iranian port city of Sirik has killed at least four people.
+The change marks the second US-based tech giant to comply with President Donald Trump&#039;s controversial order.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/2/moment-us-strikes-on-iranian-port-city-hit-wedding-party?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/2/moment-us-strikes-on-iranian-port-city-hit-wedding-party?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/2/apple-changes-name-of-lake-ontario-to-lake-america-in-maps-app?traffic_source=rss](https://www.aljazeera.com/news/2026/9/2/apple-changes-name-of-lake-ontario-to-lake-america-in-maps-app?traffic_source=rss)
 
 ---
 
-### 8. Iran war live: US bombs Iran, Tehran retaliates on Gulf neighbours, Jordan
+### 8. Honduran court drops case against ex-President Hernandez after Trump pardon
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Tehran pledges &#039;severe punishment&#039; and retaliation against Washington following a new wave of US attacks.
+Juan Orlando Hernandez had been accused of money laundering and fraud as part of a government corruption scheme.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/9/2/iran-war-live-us-bombs-iran-tehran-retaliates-on-gulf-neighbours-jordan?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/9/2/iran-war-live-us-bombs-iran-tehran-retaliates-on-gulf-neighbours-jordan?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/2/honduran-court-drops-case-against-ex-president-hernandez-after-trump-pardon?traffic_source=rss](https://www.aljazeera.com/news/2026/9/2/honduran-court-drops-case-against-ex-president-hernandez-after-trump-pardon?traffic_source=rss)
 
 ---
 
-### 9. Fernandez transfers to Man City from Chelsea in joint British record fee
+### 9. Top US lawmaker Mike Johnson says lying is part of some Iranians’ religion
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Argentina international Enzo Fernandez signs for Manchester City in a deal from Chelsea worth £125 million ($169m).
+The Republican House speaker defends the US-Israel war on Iran and praises Trump&#039;s &#039;steady hands at the wheel&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/1/fernandez-transfers-to-man-city-from-chelsea-in-joint-british-record-fee?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/1/fernandez-transfers-to-man-city-from-chelsea-in-joint-british-record-fee?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/2/top-us-lawmaker-mike-johnson-says-lying-is-part-of-some-iranians-religion?traffic_source=rss](https://www.aljazeera.com/news/2026/9/2/top-us-lawmaker-mike-johnson-says-lying-is-part-of-some-iranians-religion?traffic_source=rss)
 
 ---
 

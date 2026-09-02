@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-02T07:08:09+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The efficient frontier of LLM inference",
+            "description": "<p>Article URL: <a href=\"https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/\">https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49529898\">https://news.ycombinator.com/item?id=49529898</a></p>\n<p>Points: 58</p>\n<p># Comments: 9</p>",
+            "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
+            "published": "Tue, 01 Sep 2026 23:48:05 +0000",
+            "fetched": "2026-09-02T07:08:09+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
+            "description": "<p>Article URL: <a href=\"https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/\">https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49529621\">https://news.ycombinator.com/item?id=49529621</a></p>\n<p>Points: 48</p>\n<p># Comments: 8</p>",
+            "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
+            "published": "Tue, 01 Sep 2026 23:17:43 +0000",
+            "fetched": "2026-09-02T07:08:09+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "My local model setup on an M4 Pro Mac Mini",
+            "description": "<p>Article URL: <a href=\"https://lws.io/blog/my-local-model-setup/\">https://lws.io/blog/my-local-model-setup/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49529132\">https://news.ycombinator.com/item?id=49529132</a></p>\n<p>Points: 93</p>\n<p># Comments: 40</p>",
+            "url": "https://lws.io/blog/my-local-model-setup/",
+            "published": "Tue, 01 Sep 2026 22:30:52 +0000",
+            "fetched": "2026-09-02T07:08:09+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Iran retaliates after US strikes kill four at wedding party, state media reports",
+            "description": "Iran has launched attacks on US military bases in Iraq and Jordan, according to local state media and the Jordanian Armed Forces.",
+            "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 02 Sep 2026 03:19:44 GMT",
+            "fetched": "2026-09-02T07:08:09+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Charlie Kirk murder suspect pleads not guilty as judge clears way for death penalty trial",
+            "description": "The  23-year-old is charged with aggravated murder, a capital offence in Utah, and six other counts.",
+            "url": "https://www.bbc.co.uk/news/articles/cj4jn9q7evpo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 02 Sep 2026 01:59:10 GMT",
+            "fetched": "2026-09-02T07:08:09+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham promises more devolution and public control of essential services",
+            "description": "Tory leader Kemi Badenoch said Burnham was offering \"more government control, more taxes and more politicians\", as he addressed MPs for the first time as PM.",
+            "url": "https://www.bbc.co.uk/news/articles/cx2z528rdp6o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 01 Sep 2026 21:48:44 GMT",
+            "fetched": "2026-09-02T07:08:09+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Apple changes name of Lake Ontario to ‘Lake America’ in maps app",
+            "description": "The change marks the second US-based tech giant to comply with President Donald Trump&#039;s controversial order.",
+            "url": "https://www.aljazeera.com/news/2026/9/2/apple-changes-name-of-lake-ontario-to-lake-america-in-maps-app?traffic_source=rss",
+            "published": "Wed, 02 Sep 2026 03:22:41 +0000",
+            "fetched": "2026-09-02T07:08:09+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Honduran court drops case against ex-President Hernandez after Trump pardon",
+            "description": "Juan Orlando Hernandez had been accused of money laundering and fraud as part of a government corruption scheme.",
+            "url": "https://www.aljazeera.com/news/2026/9/2/honduran-court-drops-case-against-ex-president-hernandez-after-trump-pardon?traffic_source=rss",
+            "published": "Wed, 02 Sep 2026 02:34:52 +0000",
+            "fetched": "2026-09-02T07:08:09+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Top US lawmaker Mike Johnson says lying is part of some Iranians’ religion",
+            "description": "The Republican House speaker defends the US-Israel war on Iran and praises Trump&#039;s &#039;steady hands at the wheel&#039;.",
+            "url": "https://www.aljazeera.com/news/2026/9/2/top-us-lawmaker-mike-johnson-says-lying-is-part-of-some-iranians-religion?traffic_source=rss",
+            "published": "Wed, 02 Sep 2026 02:20:45 +0000",
+            "fetched": "2026-09-02T07:08:09+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Ruggs, Morrow, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23656",
+            "published": "2026-08-31T15:38:00Z",
+            "fetched": "2026-09-02T07:08:09+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Harris, Throckmorton, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23658",
+            "published": "2026-08-31T14:22:00Z",
+            "fetched": "2026-09-02T07:08:09+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire SOUTH RAILROAD, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23685",
+            "published": "2026-08-30T09:40:00Z",
+            "fetched": "2026-09-02T07:08:09+03:30"
+        }
+    ]
+}

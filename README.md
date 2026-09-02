@@ -1,42 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-02 09:30:34
+**Last Update:** 2026-09-02 12:04:36
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Iran attacks US bases in Middle East after reports US strike killed five at wedding party
+### 1. The Emergent Symbolic Structure of Artificial Neural Networks
 
-**Source:** BBC
+**Source:** Hacker News
 
-**Category:** world
+**Category:** technology
 
 **Description:**
-The Iranian Red Crescent says a child was among those killed when shrapnel from a US strike hit a home. The US military says it is aware of the reports and it never targets civilians.
+<p>Article URL: <a href="https://arxiv.org/abs/2608.29530">https://arxiv.org/abs/2608.29530</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49531651">https://news.ycombinator.com/item?id=49531651</a></p>
+<p>Points: 109</p>
+<p># Comments: 33</p>
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://arxiv.org/abs/2608.29530](https://arxiv.org/abs/2608.29530)
 
 ---
 
-### 2. Charlie Kirk murder suspect pleads not guilty as judge clears way for death penalty trial
+### 2. WebFPGA
 
-**Source:** BBC
+**Source:** Hacker News
 
-**Category:** world
+**Category:** technology
 
 **Description:**
-The  23-year-old is charged with aggravated murder, a capital offence in Utah, and six other counts.
+<p>Article URL: <a href="https://webfpga.io/">https://webfpga.io/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49531525">https://news.ycombinator.com/item?id=49531525</a></p>
+<p>Points: 60</p>
+<p># Comments: 28</p>
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cj4jn9q7evpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cj4jn9q7evpo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://webfpga.io/](https://webfpga.io/)
 
 ---
 
-### 3. Chris Mason: Will Burnham find PMQs as 'nail biting' and 'nerve wracking' as Blair did?
+### 3. True Rate of Unemployment
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.lisep.org/tru">https://www.lisep.org/tru</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49530989">https://news.ycombinator.com/item?id=49530989</a></p>
+<p>Points: 203</p>
+<p># Comments: 159</p>
+
+🔗 **Read more:** [https://www.lisep.org/tru](https://www.lisep.org/tru)
+
+---
+
+### 4. Chris Mason: Will Burnham find PMQs as 'nail biting' and 'nerve wracking' as Blair did?
 
 **Source:** BBC
 
@@ -49,46 +71,72 @@ Curiously, the questions at lunchtime may well feel like a minor extension of wh
 
 ---
 
-### 4. Palestinian artist Saint Levant delays tour amid US visa complications
+### 5. Charlie Kirk murder suspect pleads not guilty as judge clears way for death penalty trial
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The  23-year-old is charged with aggravated murder, a capital offence in Utah, and six other counts.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cj4jn9q7evpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cj4jn9q7evpo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. BBC travels inside occupied Lebanon as officials say Israel expanding positions
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+A BBC team joined a humanitarian mission of the UN peacekeeping force, which says Israeli troops are fortifying positions and continuing demolitions.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cge41d19gq9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cge41d19gq9o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 7. Cricketers to get best rooms at Asian Games 2026, says Japanese official
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Visa cancellations or delays have forced international artists to rethink US tours under President Donald Trump.
+Cricket is a minor sport in Japan, but it will provide the best accommodation to participating teams, the official says.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/2/palestinian-artist-saint-levant-delays-tour-amid-us-visa-complications?traffic_source=rss](https://www.aljazeera.com/news/2026/9/2/palestinian-artist-saint-levant-delays-tour-amid-us-visa-complications?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/2/cricketers-to-get-best-rooms-at-asian-games-2026-says-japanese-official?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/2/cricketers-to-get-best-rooms-at-asian-games-2026-says-japanese-official?traffic_source=rss)
 
 ---
 
-### 5. Syria’s restrained approach to Israel carries risks
+### 8. At least 16 dead, 28 injured, in Egypt bus crash
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Damascus&#039;s restraint could encourage more Israeli encroachment and lose the trust of the Syrian public.
+Bus crashes on Dahab-Nuweiba road on the eastern coast of the Sinai Peninsula, an area popular with tourists.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/9/2/syrias-restrained-approach-to-israel-carries-risks?traffic_source=rss](https://www.aljazeera.com/opinions/2026/9/2/syrias-restrained-approach-to-israel-carries-risks?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/2/at-least-16-dead-28-injured-in-egypt-bus-crash?traffic_source=rss](https://www.aljazeera.com/news/2026/9/2/at-least-16-dead-28-injured-in-egypt-bus-crash?traffic_source=rss)
 
 ---
 
-### 6. Hong Kong activist Joshua Wong pleads guilty in national security case
+### 9. Israeli forces, settlers attack two West Bank mosques
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Pro-democracy activist faces life sentence in second case under Beijing&#039;s national security law.
+Israeli forces fire tear gas into one mosque after settlers set fire to and vandalise another.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/2/hong-kong-activist-joshua-wong-pleads-guilty-in-national-security-case?traffic_source=rss](https://www.aljazeera.com/news/2026/9/2/hong-kong-activist-joshua-wong-pleads-guilty-in-national-security-case?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/2/israeli-forces-settlers-attack-two-west-bank-mosques?traffic_source=rss](https://www.aljazeera.com/news/2026/9/2/israeli-forces-settlers-attack-two-west-bank-mosques?traffic_source=rss)
 
 ---
 
-### 7. Wildfire Ruggs, Morrow, Oregon
+### 10. Wildfire Ruggs, Morrow, Oregon
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Wildfires
 
 ---
 
-### 8. Wildfire Harris, Throckmorton, Texas
+### 11. Wildfire Harris, Throckmorton, Texas
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Wildfires
 
 ---
 
-### 9. Wildfire SOUTH RAILROAD, Comanche, Oklahoma
+### 12. Wildfire SOUTH RAILROAD, Comanche, Oklahoma
 
 **Source:** NASA
 

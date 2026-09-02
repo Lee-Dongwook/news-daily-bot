@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-02T12:04:36+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Emergent Symbolic Structure of Artificial Neural Networks",
+            "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2608.29530\">https://arxiv.org/abs/2608.29530</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49531651\">https://news.ycombinator.com/item?id=49531651</a></p>\n<p>Points: 109</p>\n<p># Comments: 33</p>",
+            "url": "https://arxiv.org/abs/2608.29530",
+            "published": "Wed, 02 Sep 2026 04:15:56 +0000",
+            "fetched": "2026-09-02T12:04:36+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "WebFPGA",
+            "description": "<p>Article URL: <a href=\"https://webfpga.io/\">https://webfpga.io/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49531525\">https://news.ycombinator.com/item?id=49531525</a></p>\n<p>Points: 60</p>\n<p># Comments: 28</p>",
+            "url": "https://webfpga.io/",
+            "published": "Wed, 02 Sep 2026 03:54:58 +0000",
+            "fetched": "2026-09-02T12:04:36+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "True Rate of Unemployment",
+            "description": "<p>Article URL: <a href=\"https://www.lisep.org/tru\">https://www.lisep.org/tru</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49530989\">https://news.ycombinator.com/item?id=49530989</a></p>\n<p>Points: 203</p>\n<p># Comments: 159</p>",
+            "url": "https://www.lisep.org/tru",
+            "published": "Wed, 02 Sep 2026 02:21:10 +0000",
+            "fetched": "2026-09-02T12:04:36+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Chris Mason: Will Burnham find PMQs as 'nail biting' and 'nerve wracking' as Blair did?",
+            "description": "Curiously, the questions at lunchtime may well feel like a minor extension of what he faced on Tuesday, the BBC's political editor writes.",
+            "url": "https://www.bbc.co.uk/news/articles/c7507z4enq6o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 02 Sep 2026 04:49:23 GMT",
+            "fetched": "2026-09-02T12:04:36+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Charlie Kirk murder suspect pleads not guilty as judge clears way for death penalty trial",
+            "description": "The  23-year-old is charged with aggravated murder, a capital offence in Utah, and six other counts.",
+            "url": "https://www.bbc.co.uk/news/articles/cj4jn9q7evpo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 02 Sep 2026 01:59:10 GMT",
+            "fetched": "2026-09-02T12:04:36+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "BBC travels inside occupied Lebanon as officials say Israel expanding positions",
+            "description": "A BBC team joined a humanitarian mission of the UN peacekeeping force, which says Israeli troops are fortifying positions and continuing demolitions.",
+            "url": "https://www.bbc.co.uk/news/articles/cge41d19gq9o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 02 Sep 2026 05:03:09 GMT",
+            "fetched": "2026-09-02T12:04:36+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Cricketers to get best rooms at Asian Games 2026, says Japanese official",
+            "description": "Cricket is a minor sport in Japan, but it will provide the best accommodation to participating teams, the official says.",
+            "url": "https://www.aljazeera.com/sports/2026/9/2/cricketers-to-get-best-rooms-at-asian-games-2026-says-japanese-official?traffic_source=rss",
+            "published": "Wed, 02 Sep 2026 08:17:20 +0000",
+            "fetched": "2026-09-02T12:04:36+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "At least 16 dead, 28 injured, in Egypt bus crash",
+            "description": "Bus crashes on Dahab-Nuweiba road on the eastern coast of the Sinai Peninsula, an area popular with tourists.",
+            "url": "https://www.aljazeera.com/news/2026/9/2/at-least-16-dead-28-injured-in-egypt-bus-crash?traffic_source=rss",
+            "published": "Wed, 02 Sep 2026 08:15:02 +0000",
+            "fetched": "2026-09-02T12:04:36+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli forces, settlers attack two West Bank mosques",
+            "description": "Israeli forces fire tear gas into one mosque after settlers set fire to and vandalise another.",
+            "url": "https://www.aljazeera.com/news/2026/9/2/israeli-forces-settlers-attack-two-west-bank-mosques?traffic_source=rss",
+            "published": "Wed, 02 Sep 2026 07:40:20 +0000",
+            "fetched": "2026-09-02T12:04:36+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Ruggs, Morrow, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23656",
+            "published": "2026-08-31T15:38:00Z",
+            "fetched": "2026-09-02T12:04:36+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Harris, Throckmorton, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23658",
+            "published": "2026-08-31T14:22:00Z",
+            "fetched": "2026-09-02T12:04:36+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire SOUTH RAILROAD, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23685",
+            "published": "2026-08-30T09:40:00Z",
+            "fetched": "2026-09-02T12:04:36+03:30"
+        }
+    ]
+}

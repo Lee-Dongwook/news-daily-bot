@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-02 21:13:30
+**Last Update:** 2026-09-02 23:24:30
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. ChatGPT ad targeting is garbage
+### 1. The Post-AI Internet Doesn't Look Great
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://successfulsoftware.net/2026/09/02/chatgpt-ad-targeting-is-garbage/">https://successfulsoftware.net/2026/09/02/chatgpt-ad-targeting-is-garbage/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49539233">https://news.ycombinator.com/item?id=49539233</a></p>
-<p>Points: 3</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://www.jordangoodman.xyz/the-post-ai-internet-doesnt-look-great/">https://www.jordangoodman.xyz/the-post-ai-internet-doesnt-look-great/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49541331">https://news.ycombinator.com/item?id=49541331</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://successfulsoftware.net/2026/09/02/chatgpt-ad-targeting-is-garbage/](https://successfulsoftware.net/2026/09/02/chatgpt-ad-targeting-is-garbage/)
+🔗 **Read more:** [https://www.jordangoodman.xyz/the-post-ai-internet-doesnt-look-great/](https://www.jordangoodman.xyz/the-post-ai-internet-doesnt-look-great/)
 
 ---
 
-### 2. Black Hole Museum: A New Idea for the Los Alamos Community (2025)
+### 2. Muse Spark 1.3
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://losalamosreporter.com/2025/06/29/black-hole-museum-a-new-idea-for-the-los-alamos-community/">https://losalamosreporter.com/2025/06/29/black-hole-museum-a-new-idea-for-the-los-alamos-community/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49539214">https://news.ycombinator.com/item?id=49539214</a></p>
-<p>Points: 3</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://developer.meta.com/ai/models/muse-spark/">https://developer.meta.com/ai/models/muse-spark/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49541256">https://news.ycombinator.com/item?id=49541256</a></p>
+<p>Points: 48</p>
+<p># Comments: 11</p>
 
-🔗 **Read more:** [https://losalamosreporter.com/2025/06/29/black-hole-museum-a-new-idea-for-the-los-alamos-community/](https://losalamosreporter.com/2025/06/29/black-hole-museum-a-new-idea-for-the-los-alamos-community/)
+🔗 **Read more:** [https://developer.meta.com/ai/models/muse-spark/](https://developer.meta.com/ai/models/muse-spark/)
 
 ---
 
-### 3. Mushroom hunting with LLMs: what can go wrong?
+### 3. Introducing Muse Spark 1.3
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://quesma.com/blog/mushroom-llm-vision/">https://quesma.com/blog/mushroom-llm-vision/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49539152">https://news.ycombinator.com/item?id=49539152</a></p>
-<p>Points: 12</p>
+<p>Article URL: <a href="https://research.meta.ai/blog/introducing-muse-spark-1-3">https://research.meta.ai/blog/introducing-muse-spark-1-3</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49541149">https://news.ycombinator.com/item?id=49541149</a></p>
+<p>Points: 22</p>
 <p># Comments: 4</p>
 
-🔗 **Read more:** [https://quesma.com/blog/mushroom-llm-vision/](https://quesma.com/blog/mushroom-llm-vision/)
+🔗 **Read more:** [https://research.meta.ai/blog/introducing-muse-spark-1-3](https://research.meta.ai/blog/introducing-muse-spark-1-3)
 
 ---
 
@@ -71,68 +71,68 @@ Burnham said he had already cut taxes, including VAT on energy bills and hospita
 
 ---
 
-### 5. PMQs shows the challenge Burnham has in delivering new style of politics
+### 5. King hails 'unprecedented' Bayeux Tapestry exhibition in London
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Burnham's exchanges with Kemi Badenoch slipped into familiar territory of trading barbs, writes Alex Forsyth.
+British and French leaders will be at the British Museum to see the exhibition of the historic Bayeux Tapestry.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c0m3wpk7rdjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c0m3wpk7rdjo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cy7zx6k404go?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cy7zx6k404go?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Woman charged with juror intimidation in Lindsay Clancy trial
+### 6. What famous scenes are in the epic Bayeux Tapestry?
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Dawn Light is accused of taking photos of jurors outside the Plymouth courthouse, a practice prohibited by the court.
+The 70m (230ft) tapestry, which tells the story of the Norman Conquest and the Battle of Hastings in 1066, will be on display the British Museum.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwyze4593zwo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwyze4593zwo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/ce8xyjd65e1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/ce8xyjd65e1o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Brazilian activist demands Tunisia release Sumud Flotilla organisers
+### 7. Dreams shattered: Gaza amputees struggle under blockade and rubble
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Activists say four organisers of flotilla that sought to break Gaza blockade have been held in Tunisia since March.
+Young amputees in Gaza face harsh realities, awaiting prosthetics and battling mobility hurdles.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/2/brazilian-activist-demands-tunisia-release-sumud-flotilla-organisers?traffic_source=rss](https://www.aljazeera.com/news/2026/9/2/brazilian-activist-demands-tunisia-release-sumud-flotilla-organisers?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/9/2/dreams-shattered-gaza-amputees-struggle-under-blockade-and-rubble?traffic_source=rss](https://www.aljazeera.com/features/2026/9/2/dreams-shattered-gaza-amputees-struggle-under-blockade-and-rubble?traffic_source=rss)
 
 ---
 
-### 8. US oil giant Chevron to expand Venezuela operations
+### 8. Saudi Arabia condemns deadly Iranian attack on tanker in Strait of Hormuz
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Chevron, the only US oil firm with major presence in Venezuela, said it has got extra acreage and will double output.
+Regional neighbours condemn attack this week that killed two crew members from the Philippines.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/2/us-oil-giant-chevron-to-expand-venezuela-operations?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/2/us-oil-giant-chevron-to-expand-venezuela-operations?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/2/saudi-arabia-condemns-deadly-iranian-attack-on-tanker-in-strait-of-hormuz?traffic_source=rss](https://www.aljazeera.com/news/2026/9/2/saudi-arabia-condemns-deadly-iranian-attack-on-tanker-in-strait-of-hormuz?traffic_source=rss)
 
 ---
 
-### 9. Uber lays off 3,300 employees in largest cuts since the pandemic
+### 9. US says it will use regional body to isolate Nicaragua
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The layoffs aim to streamline management layers and simplify team structures, says Uber’s CEO Dara Khosrowshahi.
+Move comes after Nicaragua&#039;s lawmakers change constitution to ban most political opposition.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/2/uber-lays-off-3300-employees-in-largest-cuts-since-the-pandemic?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/2/uber-lays-off-3300-employees-in-largest-cuts-since-the-pandemic?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/2/us-says-it-will-use-regional-body-to-isolate-nicaragua?traffic_source=rss](https://www.aljazeera.com/news/2026/9/2/us-says-it-will-use-regional-body-to-isolate-nicaragua?traffic_source=rss)
 
 ---
 

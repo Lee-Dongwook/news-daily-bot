@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-03 22:17:45
+**Last Update:** 2026-09-04 00:12:48
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Qwen 3.8 27B available on Cerebras at 1500 tok/SEC
+### 1. GPT-6 Astra makes major gains in the Artificial Analysis Coding Agent Index
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://inference-docs.cerebras.ai/models/overview">https://inference-docs.cerebras.ai/models/overview</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49554520">https://news.ycombinator.com/item?id=49554520</a></p>
-<p>Points: 29</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://artificialanalysis.ai/articles/benchmarking-gpt-6-astra">https://artificialanalysis.ai/articles/benchmarking-gpt-6-astra</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49556147">https://news.ycombinator.com/item?id=49556147</a></p>
+<p>Points: 9</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://inference-docs.cerebras.ai/models/overview](https://inference-docs.cerebras.ai/models/overview)
+🔗 **Read more:** [https://artificialanalysis.ai/articles/benchmarking-gpt-6-astra](https://artificialanalysis.ai/articles/benchmarking-gpt-6-astra)
 
 ---
 
-### 2. OpenAI begins rolling out GPT-6 Astra
+### 2. OpenAI's GPT-6 Astra on ARC-AGI-3
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html">https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49554273">https://news.ycombinator.com/item?id=49554273</a></p>
-<p>Points: 9</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://arcprize.org/blog/astra">https://arcprize.org/blog/astra</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49555691">https://news.ycombinator.com/item?id=49555691</a></p>
+<p>Points: 33</p>
+<p># Comments: 15</p>
 
-🔗 **Read more:** [https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html](https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html)
+🔗 **Read more:** [https://arcprize.org/blog/astra](https://arcprize.org/blog/astra)
 
 ---
 
-### 3. The Double Matthew Walker Knot by Fable 5.1
+### 3. The death of San Francisco's Market Street
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://claude.ai/public/artifacts/06fd26a5-403c-47c8-af49-dcf6c35ec55c">https://claude.ai/public/artifacts/06fd26a5-403c-47c8-af49-dcf6c35ec55c</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49554154">https://news.ycombinator.com/item?id=49554154</a></p>
-<p>Points: 9</p>
-<p># Comments: 5</p>
+<p>Article URL: <a href="https://www.noahpinion.blog/p/the-death-of-market-street">https://www.noahpinion.blog/p/the-death-of-market-street</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49555478">https://news.ycombinator.com/item?id=49555478</a></p>
+<p>Points: 13</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://claude.ai/public/artifacts/06fd26a5-403c-47c8-af49-dcf6c35ec55c](https://claude.ai/public/artifacts/06fd26a5-403c-47c8-af49-dcf6c35ec55c)
+🔗 **Read more:** [https://www.noahpinion.blog/p/the-death-of-market-street](https://www.noahpinion.blog/p/the-death-of-market-street)
 
 ---
 
@@ -71,68 +71,68 @@ The leaders also discussed Ukraine and "the UK's drive to get closer to Europe",
 
 ---
 
-### 5. Channel smuggling gangs resort to 'mega-dinghies' as crackdown limits small boat supply
+### 5. Schools to close early for A66 crash funeral amid safety concerns
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Once-rival criminal groups are being forced to work together because of a shortage of small boats, a BBC investigation has found.
+The funeral of one of five young men killed in the crash with a police car is due to take place.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ce3rn93de9eo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ce3rn93de9eo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c2kwv0dypnwo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c2kwv0dypnwo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Badenoch accuses Burnham of kicking defence spending into the long grass
+### 6. Fifa accuses Uefa of 'smear campaign' against Infantino
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Andy Burnham has committed to reaching the Nato target of 3.5% spending by 2035, but not 3% by 2030.
+The governing bodies have traded blows since Fifa president Gianni Infantino's scrapped plan to sell off stakes in the World Cup to private investors.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crk3xdv0z71o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crk3xdv0z71o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/c8e3p780n3do?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/c8e3p780n3do?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Stranded survivors in Nepal cross raging Trishuli River using zip line
+### 7. Train crashes into truck at railway crossing in Gdansk, Poland
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Survivors in relief camps in Nepal are struggling to get basic commodities like food and medicine
+CCTV footage shows the moment a train collided with a truck at a railway crossing in northern Poland.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/3/stranded-survivors-in-nepal-cross-raging-trishuli-river-using-zip-line?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/3/stranded-survivors-in-nepal-cross-raging-trishuli-river-using-zip-line?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/3/train-crashes-into-truck-at-railway-crossing-in-gdansk-poland?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/3/train-crashes-into-truck-at-railway-crossing-in-gdansk-poland?traffic_source=rss)
 
 ---
 
-### 8. Israel releases Lebanese civilian, says five prisoners will be freed
+### 8. Funeral held for child killed in US strike on Iranian wedding
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The prisoner, identified as Malek Ghazi, is the first Lebanese citizen held by Israel to be set free since talks began.
+Mourners carried the coffin of a child killed in a US strike on a wedding in Kuhestak, along the Strait of Hormuz.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/3/israel-releases-lebanese-civilian-says-five-more-will-be-freed?traffic_source=rss](https://www.aljazeera.com/news/2026/9/3/israel-releases-lebanese-civilian-says-five-more-will-be-freed?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/3/09-03-iran-child-funeral-minisv?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/3/09-03-iran-child-funeral-minisv?traffic_source=rss)
 
 ---
 
-### 9. Gaza farmers restore seed bank to preserve local crops
+### 9. Leaders of Thailand and Singapore perform Beatles song, “Let It Be”
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Farmers are rebuilding a seed bank destroyed during Israel’s war on Gaza to preserve local crop varieties
+Thai Prime Minister Anutin Charnvirakul and Singapore’s Prime Minister Lawrence Wong performed the Beatles song.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/3/gaza-farmers-restore-seed-bank-to-preserve-local-crops?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/3/gaza-farmers-restore-seed-bank-to-preserve-local-crops?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/3/leaders-of-thailand-and-singapore-perform-beatles-song-let-it?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/3/leaders-of-thailand-and-singapore-perform-beatles-song-let-it?traffic_source=rss)
 
 ---
 

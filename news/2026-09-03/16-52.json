@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-03T16:52:33+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Nvidia to Acquire Hugging Face",
+            "description": "<p>Article URL: <a href=\"https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/\">https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49548952\">https://news.ycombinator.com/item?id=49548952</a></p>\n<p>Points: 25</p>\n<p># Comments: 4</p>",
+            "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/",
+            "published": "Thu, 03 Sep 2026 12:10:33 +0000",
+            "fetched": "2026-09-03T16:52:33+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "9 Mothers (YC P26) Is Hiring in Austin, TX",
+            "description": "<p>Article URL: <a href=\"https://9mothers.com/careers\">https://9mothers.com/careers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49548864\">https://news.ycombinator.com/item?id=49548864</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+            "url": "https://9mothers.com/careers",
+            "published": "Thu, 03 Sep 2026 12:00:52 +0000",
+            "fetched": "2026-09-03T16:52:33+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "A dark horse enters China's AI race: StartLux",
+            "description": "<p>Article URL: <a href=\"https://chinaonchina.com/article/chen-dawei-returns-enters-the-large-model-sector\">https://chinaonchina.com/article/chen-dawei-returns-enters-the-large-model-sector</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49548530\">https://news.ycombinator.com/item?id=49548530</a></p>\n<p>Points: 24</p>\n<p># Comments: 8</p>",
+            "url": "https://chinaonchina.com/article/chen-dawei-returns-enters-the-large-model-sector",
+            "published": "Thu, 03 Sep 2026 11:12:57 +0000",
+            "fetched": "2026-09-03T16:52:33+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Andy Burnham praises UK-EU ties in meeting with Emmanuel Macron",
+            "description": "The pair are discussing small boats, defence and Ukraine in Burnham's first bilateral talks in Downing Street.",
+            "url": "https://www.bbc.co.uk/news/articles/c62ezg7gkzwo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 03 Sep 2026 13:00:54 GMT",
+            "fetched": "2026-09-03T16:52:33+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Channel smuggling gangs resort to 'mega-dinghies' as crackdown limits small boat supply",
+            "description": "Once-rival criminal groups are being forced to work together because of a shortage of small boats, a BBC investigation has found.",
+            "url": "https://www.bbc.co.uk/news/articles/ce3rn93de9eo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 03 Sep 2026 05:00:04 GMT",
+            "fetched": "2026-09-03T16:52:33+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: BBC witnesses 'taxi boat' picking up migrants multiple times in a day",
+            "description": "A BBC investigation has found smuggling gangs are running low on small boats, forcing rival gangs to work together and load more migrants on larger boats.",
+            "url": "https://www.bbc.co.uk/news/videos/cz9znq5g7qko?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 03 Sep 2026 06:21:09 GMT",
+            "fetched": "2026-09-03T16:52:33+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘Can I take the door?’ woman pleads at Syrian prison exhibit",
+            "description": "A Syrian woman spotted her missing brother’s name on a prison cell door at an exhibition in Damascus.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/can-i-take-the-door-woman-pleads-at-syrian-prison-exhibit?traffic_source=rss",
+            "published": "Thu, 03 Sep 2026 13:02:59 +0000",
+            "fetched": "2026-09-03T16:52:33+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Benzema, Pogba, Sancho and Sterling: What now for football’s free agents?",
+            "description": "Ex-Real Madrid and Manchester United stars, Karim Benzema, Paul Pogba and Jadon Sancho among post-deadline free agents.",
+            "url": "https://www.aljazeera.com/sports/2026/9/3/benzema-pogba-sancho-and-sterling-what-now-for-footballs-free-agents?traffic_source=rss",
+            "published": "Thu, 03 Sep 2026 12:52:54 +0000",
+            "fetched": "2026-09-03T16:52:33+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "UEFA opens disciplinary case against Fenerbahce’s Guendouzi and Greenwood",
+            "description": "Guendouzi and Greenwood made provocative gestures towards the Lyon ‌supporters after their Champions League playoff.",
+            "url": "https://www.aljazeera.com/sports/2026/9/3/uefa-opens-disciplinary-case-against-fenerbahces-guendouzi-and-greenwood?traffic_source=rss",
+            "published": "Thu, 03 Sep 2026 12:38:40 +0000",
+            "fetched": "2026-09-03T16:52:33+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Marie",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23800",
+            "published": "2026-09-01T06:00:00Z",
+            "fetched": "2026-09-03T16:52:33+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Edouard",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23739",
+            "published": "2026-09-01T03:00:00Z",
+            "fetched": "2026-09-03T16:52:33+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Krovanh",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23738",
+            "published": "2026-09-01T00:00:00Z",
+            "fetched": "2026-09-03T16:52:33+03:30"
+        }
+    ]
+}

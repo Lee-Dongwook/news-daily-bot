@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-03 07:07:44
+**Last Update:** 2026-09-03 09:28:58
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
@@ -20,8 +20,8 @@
 <p>Hi HN,<p>I’m Lloyd, one of two founders of RonanRx (<a href="https://ronanrx.com/">https://ronanrx.com/</a>). We are building a vertically integrated pharmaceutical company with software for prescribing, telehealth, compounding, manufacturing, and delivery. We are starting with GLP-1s and peptides.<p>The path to RonanRx is fairly unconventional. During the pandemic, I built one of the largest mask manufacturing factories in the US. We could make a million masks in a day. We converted raw polypropylene pellets into finished pallets of masks.<p>I had a background in software from my YC W10 company, so we took a software approach to building our factory. We used machine learning and computer vision to optimize production. We also vertically integrated almost everything. It worked. We built an efficient manufacturing operation and grew the business to 50 million dollars in revenue. Then people actually stopped caring about masks. Fair enough.<p>Around the same time, I decided to try and lose the weight I had gained while building the factory. I ate nothing but chicken for six months. While this diet got some results, I plateaued. My doctor suggested tirzepatide, a GLP-1 medication.<p>For me, losing weight was only the beginning. "Food noise" was gone. I showed less interest in other compulsive behavior. I stopped scrolling Instagram and quit biting my nails. But that was just the beginning. I was born with a congenital heart defect called aortic stenosis. My whole life doctors told me I'd need open heart surgery in my 40s (I am 45 now). After just 18 months using tirzepatide, my cardiologist’s began to think (and still thinks) my surgery could be pushed back until I am 70 or 80.<p>This was all happening when I was deciding what to work on next. I wanted to keep working on manufacturing. I didn't want to build another product that could be replicated by a frontier model. Pharmaceutical manufacturing was the best combination of digital, physical, biological, and regulatory infrastructure I could find. The thing that bothered me was how disconnected all of the pieces were: telehealth, EHR, prescriptions, dispensing software, production, shipping. No one company has it all.<p>GLP-1s come in a handful of predefined doses, but patients obviously aren't standardized: they respond differently, lose weight at different rates, experience different side effects, and may need very different doses. Compounding pharmacies can fill customized prescriptions, but they are not built like software companies. Workflows are manual, fragmented, and disconnected from the patient’s data. It's our goal to connect those pieces with RonanRx.<p>Patients either come to us directly or are referred by a physician. Once a patient is in our system, we collect medical records, current meds, labs, and data from wearables. Our software follows the prescription through drug formulation, compounding, quality testing, and drug dispensing and distribution.<p>The most interesting feature is the feedback loop. As the patient is undergoing treatment, their response becomes data that can be used by their doctor to modify the treatment. We keep the doctor in the feedback loop.<p>We make money by selling drugs we manufacture. Because people can buy directly from us, their price is usually 3x-10x more affordable. We can do this because we start at the molecule and own the entire stack from manufacturing through prescribing, dispensing, and delivery, instead of paying a chain of middlemen at every step.<p>We are beginning with GLP-1s and peptides since this was where I personally experienced the issue; however, we are more interested in the potential of patient-specific pharmaceutical manufacturing.<p>We would love your feedback, especially if you have built pharmacy, manufacturing, clinical infrastructure, EHRs, or any other regulated software. There are a lot of assumptions in this model that should be tested.</p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49543530">https://news.ycombinator.com/item?id=49543530</a></p>
-<p>Points: 33</p>
-<p># Comments: 42</p>
+<p>Points: 45</p>
+<p># Comments: 54</p>
 
 🔗 **Read more:** [https://news.ycombinator.com/item?id=49543530](https://news.ycombinator.com/item?id=49543530)
 
@@ -36,39 +36,39 @@
 **Description:**
 <p>Article URL: <a href="https://secondthoughts.ai/p/14-reasons-robotics-is-hard">https://secondthoughts.ai/p/14-reasons-robotics-is-hard</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49543191">https://news.ycombinator.com/item?id=49543191</a></p>
-<p>Points: 56</p>
-<p># Comments: 20</p>
+<p>Points: 70</p>
+<p># Comments: 30</p>
 
 🔗 **Read more:** [https://secondthoughts.ai/p/14-reasons-robotics-is-hard](https://secondthoughts.ai/p/14-reasons-robotics-is-hard)
 
 ---
 
-### 3. Uber shuts operations in Nigeria and Uganda with immediate effect
+### 3. Nango (YC W23) is hiring across eng, product and GTM (SF and remote)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.bbc.com/news/articles/c86xpv8l9y9o">https://www.bbc.com/news/articles/c86xpv8l9y9o</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49543007">https://news.ycombinator.com/item?id=49543007</a></p>
-<p>Points: 112</p>
-<p># Comments: 76</p>
+<p>Article URL: <a href="https://nango.dev/careers">https://nango.dev/careers</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49542486">https://news.ycombinator.com/item?id=49542486</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.bbc.com/news/articles/c86xpv8l9y9o](https://www.bbc.com/news/articles/c86xpv8l9y9o)
+🔗 **Read more:** [https://nango.dev/careers](https://nango.dev/careers)
 
 ---
 
-### 4. Burnham pressed on economy at first PMQs as borrowing costs surge
+### 4. Channel smuggling gangs resort to 'mega-dinghies' as crackdown limits small boat supply
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The PM said his government would be "grounded in fiscal responsibility" as he faced Kemi Badenoch at Prime Minister's Questions for the first time.
+Once-rival criminal groups are being forced to work together because of a shortage of small boats, a BBC investigation has found.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cn9wv7pene2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cn9wv7pene2o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ce3rn93de9eo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ce3rn93de9eo?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -85,59 +85,59 @@ British and French leaders will be at the British Museum to see the exhibition o
 
 ---
 
-### 6. The overlooked factor driving the childhood obesity crisis
+### 6. Uber launches UK's first robotaxis with a driver - here's what it's like to ride in one
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-At a specialist childhood obesity clinic, almost all of the children are not in school. Why?
+The ride-hailing app has launched 15 self-driving taxis, but they will have safety drivers inside.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c70de1ny92wo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c70de1ny92wo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ce9e838jzpzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ce9e838jzpzo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Tens of thousands rally across Spain over Ceuta migrant crisis
+### 7. Floodwaters sweep cars away in eastern China
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Tens of thousands rallied across Spain protesting the government&#039;s handling of the Ceuta migrant crisis.
+Torrential rain triggered severe flooding across parts of eastern China, rushing down streets and sweeping away vehicles
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/3/aje-onl-nf_mass-protests-across-spain-020926?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/3/aje-onl-nf_mass-protests-across-spain-020926?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/3/floodwaters-sweep-cars-away-in-eastern-china?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/3/floodwaters-sweep-cars-away-in-eastern-china?traffic_source=rss)
 
 ---
 
-### 8. Maltese tycoon acquitted of killing journalist Daphne Caruana Galizia
+### 8. Powerful storm hits Canada’s Toronto, cutting power to tens of thousands
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The last man prosecuted over the 2017 killing of Maltese journalist Daphne Caruana Galizia has been acquitted.
+Thunderstorm also causes severe flooding and forces flight cancellations at Pearson airport.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/3/maltese-tycoon-acquitted-of-killing-journalist-daphne-caruana-galizia?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/3/maltese-tycoon-acquitted-of-killing-journalist-daphne-caruana-galizia?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/3/powerful-storm-hits-canadas-toronto-cutting-power-to-tens-of-thousands?traffic_source=rss](https://www.aljazeera.com/news/2026/9/3/powerful-storm-hits-canadas-toronto-cutting-power-to-tens-of-thousands?traffic_source=rss)
 
 ---
 
-### 9. US forces board and destroy alleged cartel boat in eastern Pacific
+### 9. Former campaign chair: Trump ‘cares about Trump the most’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US forces boarded and sank a boat in the eastern Pacific saying it was a floating refueling station for drug-traffickers
+Former Trump campaign chair says that US President Trump is focused on protecting both the Republican Party and himself.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/3/us-forces-board-and-destroy-alleged-cartel-boat-in-eastern-pacific?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/3/us-forces-board-and-destroy-alleged-cartel-boat-in-eastern-pacific?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/3/aje-onl-nf_trump-cares-about-trump_2-030926?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/3/aje-onl-nf_trump-cares-about-trump_2-030926?traffic_source=rss)
 
 ---
 
-### 10. Tropical Storm Marie
+### 10. Hurricane Marie
 
 **Source:** NASA
 

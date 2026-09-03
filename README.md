@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-04 01:16:09
+**Last Update:** 2026-09-04 02:34:35
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, Al Jazeera, BBC
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out
+### 1. GLP-1s Are Being Linked to Fewer Serious Infections, Including TB
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796">https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49558086">https://news.ycombinator.com/item?id=49558086</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796](https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796)
+
+---
+
+### 2. Models Don't Go Rogue
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://mail.cyberneticforests.com/models-dont-go-rogue/">https://mail.cyberneticforests.com/models-dont-go-rogue/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49557988">https://news.ycombinator.com/item?id=49557988</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://mail.cyberneticforests.com/models-dont-go-rogue/](https://mail.cyberneticforests.com/models-dont-go-rogue/)
+
+---
+
+### 3. Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://armature.tech/blog/which-tools-coding-agents-install">https://armature.tech/blog/which-tools-coding-agents-install</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49557206">https://news.ycombinator.com/item?id=49557206</a></p>
-<p>Points: 5</p>
-<p># Comments: 1</p>
+<p>Points: 47</p>
+<p># Comments: 12</p>
 
 🔗 **Read more:** [https://armature.tech/blog/which-tools-coding-agents-install](https://armature.tech/blog/which-tools-coding-agents-install)
-
----
-
-### 2. Tasklet (YC P26) Is Hiring a Customer Success Engineer
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://tasklet.ai/careers/customer-success-engineer">https://tasklet.ai/careers/customer-success-engineer</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49556922">https://news.ycombinator.com/item?id=49556922</a></p>
-<p>Points: 0</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://tasklet.ai/careers/customer-success-engineer](https://tasklet.ai/careers/customer-success-engineer)
-
----
-
-### 3. OpenAI's GPT-6 Astra on ARC-AGI-3
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://arcprize.org/blog/astra">https://arcprize.org/blog/astra</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49555691">https://news.ycombinator.com/item?id=49555691</a></p>
-<p>Points: 92</p>
-<p># Comments: 44</p>
-
-🔗 **Read more:** [https://arcprize.org/blog/astra](https://arcprize.org/blog/astra)
 
 ---
 
@@ -71,33 +71,59 @@ A film broadcast by Channel 4 shows senior Reform UK figures discussing donation
 
 ---
 
-### 5. Schools to close early for A66 crash funeral amid safety concerns
+### 5. Controversial Jackdaw gas field set to be approved in weeks, sources say
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The funeral of one of five young men killed in the crash with a police car is due to take place.
+The government is set to give the go-ahead for the gas field off the coast of Aberdeen, the BBC understands.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c2kwv0dypnwo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c2kwv0dypnwo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cj9xe09jz4eo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cj9xe09jz4eo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Fifa accuses Uefa of 'smear campaign' against Infantino
+### 6. Transplanted pig kidney works in US man's body for record 271 days
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The governing bodies have traded blows since Fifa president Gianni Infantino's scrapped plan to sell off stakes in the World Cup to private investors.
+A man has lived for a record nine months with a transplanted pig kidney while waiting for a human transplant.
 
-🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/c8e3p780n3do?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/c8e3p780n3do?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c305qn2jeggo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c305qn2jeggo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. NYC’s AI ban through grade 8 sets stage for rest of US, experts say
+### 7. Why are people calling Venezuela oil deal a new form of US colonialism?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Critics call the US multi-billion-dollar oil deal in Venezuela modern-day colonialism.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/3/aje-onl-nf_us-venezuela-oil-deal_colonialism-030926?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/3/aje-onl-nf_us-venezuela-oil-deal_colonialism-030926?traffic_source=rss)
+
+---
+
+### 8. Burnham, Macron talk border security and stronger Europe-UK ties
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+New UK Prime Minister Andy Burnham discussed shared challenges in his first official meeting with the French president.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/3/burnham-macron-talk-border-security-and-stronger-europe-uk-ties?traffic_source=rss](https://www.aljazeera.com/news/2026/9/3/burnham-macron-talk-border-security-and-stronger-europe-uk-ties?traffic_source=rss)
+
+---
+
+### 9. NYC’s AI ban through grade 8 sets stage for rest of US, experts say
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ The governing bodies have traded blows since Fifa president Gianni Infantino's s
 The ban will last for one year and affect 600,000 students.
 
 🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/3/nycs-ai-ban-through-grade-8-sets-stage-for-rest-of-us-experts-say?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/3/nycs-ai-ban-through-grade-8-sets-stage-for-rest-of-us-experts-say?traffic_source=rss)
-
----
-
-### 8. Nepal flood victims to be identified through DNA
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Nepal flood victims to be identified through DNA
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/3/nepal-flood-victims-to-be-identified-through-dna?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/3/nepal-flood-victims-to-be-identified-through-dna?traffic_source=rss)
-
----
-
-### 9. El Nino: A phenomenon supercharged by climate change
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Scientists warn the 2026-27 El Nino could become the strongest ever, exacerbating global heat, droughts and floods.
-
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/9/3/el-nino-a-phenomenon-supercharged-by-climate-change?traffic_source=rss](https://www.aljazeera.com/features/2026/9/3/el-nino-a-phenomenon-supercharged-by-climate-change?traffic_source=rss)
 
 ---
 

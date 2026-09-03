@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-04T02:34:35+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "GLP-1s Are Being Linked to Fewer Serious Infections, Including TB",
+            "description": "<p>Article URL: <a href=\"https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796\">https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49558086\">https://news.ycombinator.com/item?id=49558086</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796",
+            "published": "Thu, 03 Sep 2026 22:37:31 +0000",
+            "fetched": "2026-09-04T02:34:35+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Models Don't Go Rogue",
+            "description": "<p>Article URL: <a href=\"https://mail.cyberneticforests.com/models-dont-go-rogue/\">https://mail.cyberneticforests.com/models-dont-go-rogue/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49557988\">https://news.ycombinator.com/item?id=49557988</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://mail.cyberneticforests.com/models-dont-go-rogue/",
+            "published": "Thu, 03 Sep 2026 22:26:46 +0000",
+            "fetched": "2026-09-04T02:34:35+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
+            "description": "<p>Article URL: <a href=\"https://armature.tech/blog/which-tools-coding-agents-install\">https://armature.tech/blog/which-tools-coding-agents-install</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49557206\">https://news.ycombinator.com/item?id=49557206</a></p>\n<p>Points: 47</p>\n<p># Comments: 12</p>",
+            "url": "https://armature.tech/blog/which-tools-coding-agents-install",
+            "published": "Thu, 03 Sep 2026 21:20:34 +0000",
+            "fetched": "2026-09-04T02:34:35+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Farage senior aide filmed suggesting way to avoid donations law",
+            "description": "A film broadcast by Channel 4 shows senior Reform UK figures discussing donations with an undercover reporter.",
+            "url": "https://www.bbc.co.uk/news/articles/cr50ddzl97qo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 03 Sep 2026 21:07:58 GMT",
+            "fetched": "2026-09-04T02:34:35+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Controversial Jackdaw gas field set to be approved in weeks, sources say",
+            "description": "The government is set to give the go-ahead for the gas field off the coast of Aberdeen, the BBC understands.",
+            "url": "https://www.bbc.co.uk/news/articles/cj9xe09jz4eo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 03 Sep 2026 23:00:15 GMT",
+            "fetched": "2026-09-04T02:34:35+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Transplanted pig kidney works in US man's body for record 271 days",
+            "description": "A man has lived for a record nine months with a transplanted pig kidney while waiting for a human transplant.",
+            "url": "https://www.bbc.co.uk/news/articles/c305qn2jeggo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 03 Sep 2026 22:31:23 GMT",
+            "fetched": "2026-09-04T02:34:35+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why are people calling Venezuela oil deal a new form of US colonialism?",
+            "description": "Critics call the US multi-billion-dollar oil deal in Venezuela modern-day colonialism.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/aje-onl-nf_us-venezuela-oil-deal_colonialism-030926?traffic_source=rss",
+            "published": "Thu, 03 Sep 2026 22:08:33 +0000",
+            "fetched": "2026-09-04T02:34:35+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Burnham, Macron talk border security and stronger Europe-UK ties",
+            "description": "New UK Prime Minister Andy Burnham discussed shared challenges in his first official meeting with the French president.",
+            "url": "https://www.aljazeera.com/news/2026/9/3/burnham-macron-talk-border-security-and-stronger-europe-uk-ties?traffic_source=rss",
+            "published": "Thu, 03 Sep 2026 21:40:42 +0000",
+            "fetched": "2026-09-04T02:34:35+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "NYC’s AI ban through grade 8 sets stage for rest of US, experts say",
+            "description": "The ban will last for one year and affect 600,000 students.",
+            "url": "https://www.aljazeera.com/economy/2026/9/3/nycs-ai-ban-through-grade-8-sets-stage-for-rest-of-us-experts-say?traffic_source=rss",
+            "published": "Thu, 03 Sep 2026 21:32:55 +0000",
+            "fetched": "2026-09-04T02:34:35+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Emergency Stabilization BAER McConnell, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23868",
+            "published": "2026-09-03T13:03:00Z",
+            "fetched": "2026-09-04T02:34:35+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Ayers Pond, Prairie, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23869",
+            "published": "2026-09-03T01:45:00Z",
+            "fetched": "2026-09-04T02:34:35+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Snow, Custer, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23870",
+            "published": "2026-09-02T22:16:00Z",
+            "fetched": "2026-09-04T02:34:35+03:30"
+        }
+    ]
+}

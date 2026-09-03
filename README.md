@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-03 16:52:33
+**Last Update:** 2026-09-03 18:35:26
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Nvidia to Acquire Hugging Face
+### 1. Elevated errors across ChatGPT and Codex
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/">https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49548952">https://news.ycombinator.com/item?id=49548952</a></p>
-<p>Points: 25</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://status.openai.com/incidents/01M1KWEDH417T2CF44YYHZDFCR">https://status.openai.com/incidents/01M1KWEDH417T2CF44YYHZDFCR</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49550886">https://news.ycombinator.com/item?id=49550886</a></p>
+<p>Points: 8</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/](https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/)
+🔗 **Read more:** [https://status.openai.com/incidents/01M1KWEDH417T2CF44YYHZDFCR](https://status.openai.com/incidents/01M1KWEDH417T2CF44YYHZDFCR)
 
 ---
 
-### 2. 9 Mothers (YC P26) Is Hiring in Austin, TX
+### 2. Codex Is Down
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://9mothers.com/careers">https://9mothers.com/careers</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49548864">https://news.ycombinator.com/item?id=49548864</a></p>
-<p>Points: 0</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://github.com/openai/codex/issues/28756">https://github.com/openai/codex/issues/28756</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49550769">https://news.ycombinator.com/item?id=49550769</a></p>
+<p>Points: 20</p>
+<p># Comments: 10</p>
 
-🔗 **Read more:** [https://9mothers.com/careers](https://9mothers.com/careers)
+🔗 **Read more:** [https://github.com/openai/codex/issues/28756](https://github.com/openai/codex/issues/28756)
 
 ---
 
-### 3. A dark horse enters China's AI race: StartLux
+### 3. ChatGPT Is Throwing 404
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://chinaonchina.com/article/chen-dawei-returns-enters-the-large-model-sector">https://chinaonchina.com/article/chen-dawei-returns-enters-the-large-model-sector</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49548530">https://news.ycombinator.com/item?id=49548530</a></p>
-<p>Points: 24</p>
-<p># Comments: 8</p>
+<p>Article URL: <a href="https://chatgpt.com/">https://chatgpt.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49550614">https://news.ycombinator.com/item?id=49550614</a></p>
+<p>Points: 89</p>
+<p># Comments: 46</p>
 
-🔗 **Read more:** [https://chinaonchina.com/article/chen-dawei-returns-enters-the-large-model-sector](https://chinaonchina.com/article/chen-dawei-returns-enters-the-large-model-sector)
+🔗 **Read more:** [https://chatgpt.com/](https://chatgpt.com/)
 
 ---
 
@@ -65,7 +65,7 @@
 **Category:** world
 
 **Description:**
-The pair are discussing small boats, defence and Ukraine in Burnham's first bilateral talks in Downing Street.
+The pair discussed small boats, defence and Ukraine in Burnham's first bilateral talks in Downing Street.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c62ezg7gkzwo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c62ezg7gkzwo?at_medium=RSS&at_campaign=rss)
 
@@ -84,55 +84,55 @@ Once-rival criminal groups are being forced to work together because of a shorta
 
 ---
 
-### 6. Watch: BBC witnesses 'taxi boat' picking up migrants multiple times in a day
+### 6. Badenoch accuses Burnham of kicking defence spending into the long grass
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-A BBC investigation has found smuggling gangs are running low on small boats, forcing rival gangs to work together and load more migrants on larger boats.
+Andy Burnham has committed to reaching the Nato target of 3.5% spending by 2035, but not 3% by 2030.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cz9znq5g7qko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cz9znq5g7qko?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crk3xdv0z71o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crk3xdv0z71o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. ‘Can I take the door?’ woman pleads at Syrian prison exhibit
+### 7. Iranian drone damages residential building in Kuwait City
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A Syrian woman spotted her missing brother’s name on a prison cell door at an exhibition in Damascus.
+An Iranian drone attack damaged a residential building in Kuwait, authorities say, with no casualties reported.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/3/can-i-take-the-door-woman-pleads-at-syrian-prison-exhibit?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/3/can-i-take-the-door-woman-pleads-at-syrian-prison-exhibit?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/3/03-09-iranian-drone-kuwait-building-clip?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/3/03-09-iranian-drone-kuwait-building-clip?traffic_source=rss)
 
 ---
 
-### 8. Benzema, Pogba, Sancho and Sterling: What now for football’s free agents?
+### 8. Ukrainian intel agencies in Kyiv firefight: What happened and why?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ex-Real Madrid and Manchester United stars, Karim Benzema, Paul Pogba and Jadon Sancho among post-deadline free agents.
+Three intelligence officers were wounded in shootout that Zelenskyy has described as &#039;absolutely disgraceful&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/3/benzema-pogba-sancho-and-sterling-what-now-for-footballs-free-agents?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/3/benzema-pogba-sancho-and-sterling-what-now-for-footballs-free-agents?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/3/ukrainian-intel-agencies-in-kyiv-firefight-what-happened-and-why?traffic_source=rss](https://www.aljazeera.com/news/2026/9/3/ukrainian-intel-agencies-in-kyiv-firefight-what-happened-and-why?traffic_source=rss)
 
 ---
 
-### 9. UEFA opens disciplinary case against Fenerbahce’s Guendouzi and Greenwood
+### 9. Who are the ‘Hilltop Girls’ behind Israel’s ‘soft settlement’ strategy?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Guendouzi and Greenwood made provocative gestures towards the Lyon ‌supporters after their Champions League playoff.
+They&#039;re not carrying out pogroms, but are nonetheless setting the stage for land grabs by Israeli settlers.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/3/uefa-opens-disciplinary-case-against-fenerbahces-guendouzi-and-greenwood?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/3/uefa-opens-disciplinary-case-against-fenerbahces-guendouzi-and-greenwood?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/3/who-are-the-hilltop-girls-behind-israels-soft-settlement-strategy?traffic_source=rss](https://www.aljazeera.com/news/2026/9/3/who-are-the-hilltop-girls-behind-israels-soft-settlement-strategy?traffic_source=rss)
 
 ---
 

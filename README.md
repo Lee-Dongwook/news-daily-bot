@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-05 02:21:56
+**Last Update:** 2026-09-05 02:36:33
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Actively exploited sandbox RCE in all Chromium versions
+### 1. Record-High 89% in U.S. Say Government Corruption Widespread
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx">https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49570772">https://news.ycombinator.com/item?id=49570772</a></p>
+<p>Points: 23</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx](https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx)
+
+---
+
+### 2. Actively exploited sandbox RCE in all Chromium versions
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://nvd.nist.gov/vuln/detail/cve-2026-85046">https://nvd.nist.gov/vuln/detail/cve-2026-85046</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49570669">https://news.ycombinator.com/item?id=49570669</a></p>
-<p>Points: 37</p>
-<p># Comments: 6</p>
+<p>Points: 50</p>
+<p># Comments: 9</p>
 
 🔗 **Read more:** [https://nvd.nist.gov/vuln/detail/cve-2026-85046](https://nvd.nist.gov/vuln/detail/cve-2026-85046)
 
 ---
 
-### 2. Icons as a Service
+### 3. Icons as a Service
 
 **Source:** Hacker News
 
@@ -39,22 +55,6 @@
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://nravic.com/blog/images/](https://nravic.com/blog/images/)
-
----
-
-### 3. GPT-6 Astra on OpenRouter
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://openrouter.ai/openai/gpt-6-astra">https://openrouter.ai/openai/gpt-6-astra</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49570545">https://news.ycombinator.com/item?id=49570545</a></p>
-<p>Points: 30</p>
-<p># Comments: 11</p>
-
-🔗 **Read more:** [https://openrouter.ai/openai/gpt-6-astra](https://openrouter.ai/openai/gpt-6-astra)
 
 ---
 
@@ -84,16 +84,16 @@ Victoria Fuller tells the BBC Cleveland Police needs to become part of a larger,
 
 ---
 
-### 6. Farage threatens to overhaul Lords and judges to meet his pledges
+### 6. Mistrial declared in Lindsay Clancy murder case, after jury deadlocks
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The Reform UK leader promises to deliver on key priorities in the first 100 days of government, if the party wins power.
+The mistrial now puts the murder case - and Clancy's future - in limbo as to whether she will be held criminally liable in the deaths of her three kids.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/clyeq5jvd2po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/clyeq5jvd2po?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&at_campaign=rss)
 
 ---
 

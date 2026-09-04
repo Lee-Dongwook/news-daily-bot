@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-04T07:08:09+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Never Forget How Eagerly Apple and Google Coddled Fascism",
+            "description": "<p>Article URL: <a href=\"https://karlbode.com/never-forget-how-eagerly-apple-and-google-coddled-fascism/\">https://karlbode.com/never-forget-how-eagerly-apple-and-google-coddled-fascism/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49560015\">https://news.ycombinator.com/item?id=49560015</a></p>\n<p>Points: 15</p>\n<p># Comments: 0</p>",
+            "url": "https://karlbode.com/never-forget-how-eagerly-apple-and-google-coddled-fascism/",
+            "published": "Fri, 04 Sep 2026 02:57:39 +0000",
+            "fetched": "2026-09-04T07:08:09+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "From Hookswitch to Grave",
+            "description": "<p>Article URL: <a href=\"https://computer.rip/2026-06-14-hookswitch-to-grave.html\">https://computer.rip/2026-06-14-hookswitch-to-grave.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49559901\">https://news.ycombinator.com/item?id=49559901</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+            "url": "https://computer.rip/2026-06-14-hookswitch-to-grave.html",
+            "published": "Fri, 04 Sep 2026 02:40:12 +0000",
+            "fetched": "2026-09-04T07:08:09+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Project Xanadu: Even More Hindsight",
+            "description": "<p>Article URL: <a href=\"https://gwern.net/xanadu\">https://gwern.net/xanadu</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49559522\">https://news.ycombinator.com/item?id=49559522</a></p>\n<p>Points: 18</p>\n<p># Comments: 2</p>",
+            "url": "https://gwern.net/xanadu",
+            "published": "Fri, 04 Sep 2026 01:45:23 +0000",
+            "fetched": "2026-09-04T07:08:09+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Farage senior aide filmed suggesting way to avoid donations law",
+            "description": "A film broadcast by Channel 4 shows senior Reform UK figures discussing donations with an undercover reporter.",
+            "url": "https://www.bbc.co.uk/news/articles/cr50ddzl97qo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 03 Sep 2026 21:07:58 GMT",
+            "fetched": "2026-09-04T07:08:09+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Controversial Jackdaw gas field set to be approved in weeks, sources say",
+            "description": "The government is set to give the go-ahead for the gas field off the coast of Aberdeen, the BBC understands.",
+            "url": "https://www.bbc.co.uk/news/articles/cj9xe09jz4eo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 03 Sep 2026 23:00:15 GMT",
+            "fetched": "2026-09-04T07:08:09+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Transplanted pig kidney works in US man's body for record 271 days",
+            "description": "A man has lived for a record nine months with a transplanted pig kidney while waiting for a human transplant.",
+            "url": "https://www.bbc.co.uk/news/articles/c305qn2jeggo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 03 Sep 2026 22:31:23 GMT",
+            "fetched": "2026-09-04T07:08:09+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Missouri Supreme Court blocks Trump-backed map from November’s midterms",
+            "description": "Republicans have pledged to appeal the ruling to the US Supreme Court with only months until the midterm elections.",
+            "url": "https://www.aljazeera.com/news/2026/9/4/missouri-supreme-court-blocks-trump-backed-map-from-novembers-midterms?traffic_source=rss",
+            "published": "Fri, 04 Sep 2026 02:46:50 +0000",
+            "fetched": "2026-09-04T07:08:09+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why did Trump meet with anti-Zionist Jewish leaders?",
+            "description": "US President Donald Trump met six anti-Zionist rabbis privately amid protests over Israeli military conscription.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/why-did-trump-meet-with-anti-zionist-jewish-leaders?traffic_source=rss",
+            "published": "Fri, 04 Sep 2026 02:21:20 +0000",
+            "fetched": "2026-09-04T07:08:09+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Chile police and protesters clash outside far-right forum",
+            "description": "Police and protesters have clashed in Chile’s capital, outside the summit of the far-right Madrid Forum.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/chile-police-and-protesters-clash-outside-far-right-forum?traffic_source=rss",
+            "published": "Fri, 04 Sep 2026 01:54:57 +0000",
+            "fetched": "2026-09-04T07:08:09+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Emergency Stabilization BAER McConnell, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23868",
+            "published": "2026-09-03T13:03:00Z",
+            "fetched": "2026-09-04T07:08:09+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Ayers Pond, Prairie, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23869",
+            "published": "2026-09-03T01:45:00Z",
+            "fetched": "2026-09-04T07:08:09+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Snow, Custer, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23870",
+            "published": "2026-09-02T22:16:00Z",
+            "fetched": "2026-09-04T07:08:09+03:30"
+        }
+    ]
+}

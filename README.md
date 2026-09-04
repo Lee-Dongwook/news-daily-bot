@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-04 03:41:54
+**Last Update:** 2026-09-04 07:08:09
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Protecting Engineers' Skills in the AI Era
+### 1. Never Forget How Eagerly Apple and Google Coddled Fascism
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://spectrum.ieee.org/ai-engineer-skills">https://spectrum.ieee.org/ai-engineer-skills</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49558302">https://news.ycombinator.com/item?id=49558302</a></p>
-<p>Points: 22</p>
-<p># Comments: 12</p>
+<p>Article URL: <a href="https://karlbode.com/never-forget-how-eagerly-apple-and-google-coddled-fascism/">https://karlbode.com/never-forget-how-eagerly-apple-and-google-coddled-fascism/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49560015">https://news.ycombinator.com/item?id=49560015</a></p>
+<p>Points: 15</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://spectrum.ieee.org/ai-engineer-skills](https://spectrum.ieee.org/ai-engineer-skills)
+🔗 **Read more:** [https://karlbode.com/never-forget-how-eagerly-apple-and-google-coddled-fascism/](https://karlbode.com/never-forget-how-eagerly-apple-and-google-coddled-fascism/)
 
 ---
 
-### 2. GLP-1s Are Being Linked to Fewer Serious Infections, Including TB
+### 2. From Hookswitch to Grave
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796">https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49558086">https://news.ycombinator.com/item?id=49558086</a></p>
-<p>Points: 28</p>
-<p># Comments: 14</p>
+<p>Article URL: <a href="https://computer.rip/2026-06-14-hookswitch-to-grave.html">https://computer.rip/2026-06-14-hookswitch-to-grave.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49559901">https://news.ycombinator.com/item?id=49559901</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796](https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796)
+🔗 **Read more:** [https://computer.rip/2026-06-14-hookswitch-to-grave.html](https://computer.rip/2026-06-14-hookswitch-to-grave.html)
 
 ---
 
-### 3. Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out
+### 3. Project Xanadu: Even More Hindsight
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://armature.tech/blog/which-tools-coding-agents-install">https://armature.tech/blog/which-tools-coding-agents-install</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49557206">https://news.ycombinator.com/item?id=49557206</a></p>
-<p>Points: 66</p>
-<p># Comments: 17</p>
+<p>Article URL: <a href="https://gwern.net/xanadu">https://gwern.net/xanadu</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49559522">https://news.ycombinator.com/item?id=49559522</a></p>
+<p>Points: 18</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://armature.tech/blog/which-tools-coding-agents-install](https://armature.tech/blog/which-tools-coding-agents-install)
+🔗 **Read more:** [https://gwern.net/xanadu](https://gwern.net/xanadu)
 
 ---
 
@@ -84,55 +84,55 @@ The government is set to give the go-ahead for the gas field off the coast of Ab
 
 ---
 
-### 6. Tensions flare as judge declines to remove holdout juror in Lindsay Clancy trial
+### 6. Transplanted pig kidney works in US man's body for record 271 days
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The defence lawyer is upset after the judge decides not to remove a holdout in the triple murder case.
+A man has lived for a record nine months with a transplanted pig kidney while waiting for a human transplant.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c7v4n7pv5epo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c7v4n7pv5epo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c305qn2jeggo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c305qn2jeggo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Are Trump’s AI videos just memes or psychological warfare?
+### 7. Missouri Supreme Court blocks Trump-backed map from November’s midterms
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Trump’s use of AI generated content has ramped up in recent months, posting videos of fake military strikes.
+Republicans have pledged to appeal the ruling to the US Supreme Court with only months until the midterm elections.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/3/are-trumps-ai-videos-just-memes-or-psychological-warfare?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/3/are-trumps-ai-videos-just-memes-or-psychological-warfare?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/4/missouri-supreme-court-blocks-trump-backed-map-from-novembers-midterms?traffic_source=rss](https://www.aljazeera.com/news/2026/9/4/missouri-supreme-court-blocks-trump-backed-map-from-novembers-midterms?traffic_source=rss)
 
 ---
 
-### 8. Tunisia’s top court upholds conviction of opposition figures, activists
+### 8. Why did Trump meet with anti-Zionist Jewish leaders?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Critics claim Tunisia’s judiciary acts under political pressure, as opposition leaders face lengthy prison terms.
+US President Donald Trump met six anti-Zionist rabbis privately amid protests over Israeli military conscription.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/3/tunisias-top-court-upholds-conviction-of-opposition-figures-activists?traffic_source=rss](https://www.aljazeera.com/news/2026/9/3/tunisias-top-court-upholds-conviction-of-opposition-figures-activists?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/4/why-did-trump-meet-with-anti-zionist-jewish-leaders?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/4/why-did-trump-meet-with-anti-zionist-jewish-leaders?traffic_source=rss)
 
 ---
 
-### 9. DR Congo joins countries pledging embassy move to Jerusalem
+### 9. Chile police and protesters clash outside far-right forum
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-DR Congo has renewed its pledge to move its embassy in Israel from Tel Aviv to Jerusalem.
+Police and protesters have clashed in Chile’s capital, outside the summit of the far-right Madrid Forum.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/3/dr-congo-joins-countries-pledging-embassy-move-to-jerusalem?traffic_source=rss](https://www.aljazeera.com/news/2026/9/3/dr-congo-joins-countries-pledging-embassy-move-to-jerusalem?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/4/chile-police-and-protesters-clash-outside-far-right-forum?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/4/chile-police-and-protesters-clash-outside-far-right-forum?traffic_source=rss)
 
 ---
 

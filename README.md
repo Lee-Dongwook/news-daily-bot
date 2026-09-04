@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-04 16:46:58
+**Last Update:** 2026-09-04 17:55:57
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. IBM Bob
+### 1. Burnt out on a three-day week
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://bob.ibm.com/">https://bob.ibm.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49563851">https://news.ycombinator.com/item?id=49563851</a></p>
+<p>Article URL: <a href="https://jennywanger.com/articles/burnt-out-on-a-three-day-week/">https://jennywanger.com/articles/burnt-out-on-a-three-day-week/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49564960">https://news.ycombinator.com/item?id=49564960</a></p>
 <p>Points: 3</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://bob.ibm.com/](https://bob.ibm.com/)
+🔗 **Read more:** [https://jennywanger.com/articles/burnt-out-on-a-three-day-week/](https://jennywanger.com/articles/burnt-out-on-a-three-day-week/)
 
 ---
 
-### 2. Restoring 5 GHz Wi-Fi on an LG C5 by changing its webOS region
+### 2. Top Pentagon Official Contracted Personal Lawyer to Handle Minerals Deal
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/hawshemi/lg-c5-webos25-region-change">https://github.com/hawshemi/lg-c5-webos25-region-change</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49563839">https://news.ycombinator.com/item?id=49563839</a></p>
-<p>Points: 4</p>
+<p>Article URL: <a href="https://prospect.org/2026/08/21/pentagon-minerals-deal-department-defense-cerberus-capital-alan-waldenberg-stephen-feinberg/">https://prospect.org/2026/08/21/pentagon-minerals-deal-department-defense-cerberus-capital-alan-waldenberg-stephen-feinberg/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49564714">https://news.ycombinator.com/item?id=49564714</a></p>
+<p>Points: 11</p>
 <p># Comments: 1</p>
 
-🔗 **Read more:** [https://github.com/hawshemi/lg-c5-webos25-region-change](https://github.com/hawshemi/lg-c5-webos25-region-change)
+🔗 **Read more:** [https://prospect.org/2026/08/21/pentagon-minerals-deal-department-defense-cerberus-capital-alan-waldenberg-stephen-feinberg/](https://prospect.org/2026/08/21/pentagon-minerals-deal-department-defense-cerberus-capital-alan-waldenberg-stephen-feinberg/)
 
 ---
 
-### 3. Nearly impossible? How Fairphone built the ethical, repairable Fairphone Gen 6+
+### 3. 'People are going to get screwed' Pennsylvania voters unite against data centres
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6/">https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49563784">https://news.ycombinator.com/item?id=49563784</a></p>
-<p>Points: 5</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="http://www.ft.com/content/8252d574-ae2a-4403-9cf9-031295ba67f5">http://www.ft.com/content/8252d574-ae2a-4403-9cf9-031295ba67f5</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49564397">https://news.ycombinator.com/item?id=49564397</a></p>
+<p>Points: 42</p>
+<p># Comments: 19</p>
 
-🔗 **Read more:** [https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6/](https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6/)
+🔗 **Read more:** [http://www.ft.com/content/8252d574-ae2a-4403-9cf9-031295ba67f5](http://www.ft.com/content/8252d574-ae2a-4403-9cf9-031295ba67f5)
 
 ---
 
@@ -97,42 +97,42 @@ The comments come as Argentinian president Javier Milei says the "winds of chang
 
 ---
 
-### 7. Jerusalem Daily: Israel’s plan to expel Gaza’s population
+### 7. Two Muslim women journalists allege police assault in India
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ben-Gvir sets out a plan for the illegal forced expulsion of all Palestinians from the Gaza Strip
+Two Muslim female journalists allege they were detained and brutally assaulted by police in India’s capital, Delhi.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/4/jerusalem-daily-israels-plan-to-expel-gazas-population?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/4/jerusalem-daily-israels-plan-to-expel-gazas-population?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/4/two-muslim-women-journalists-allege-police-assault-in-india?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/4/two-muslim-women-journalists-allege-police-assault-in-india?traffic_source=rss)
 
 ---
 
-### 8. US envoys headed to Russia and Ukraine to relaunch mediation
+### 8. Philippine court orders arrest of VP Duterte over President Marcos threats
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The return of Washington&#039;s negotiators raises hope of progress towards a settlement to end Moscow&#039;s war on Ukraine.
+Warrant follows charge she threatened to have Marcos, his wife and a cousin killed by a hitman.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/4/us-envoys-headed-to-russia-and-ukraine-to-relaunch-mediation?traffic_source=rss](https://www.aljazeera.com/news/2026/9/4/us-envoys-headed-to-russia-and-ukraine-to-relaunch-mediation?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/4/philippine-court-orders-arrest-of-vp-duterte-over-president-marcos-threats?traffic_source=rss](https://www.aljazeera.com/news/2026/9/4/philippine-court-orders-arrest-of-vp-duterte-over-president-marcos-threats?traffic_source=rss)
 
 ---
 
-### 9. As the China-US AI race reaches Cairo, Egypt faces a strategic decision
+### 9. Ireland’s Katie Taylor eyes fairytale finish to trailblazing boxing career
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Egypt walks a tightrope as China and the US vie for dominance in AI data centre development.
+Unbeaten French challenger Flora Pili stands in the way of Taylor becoming undisputed world champion for a third time.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/4/as-the-china-us-ai-race-reaches-cairo-egypt-faces-a-strategic-decision?traffic_source=rss](https://www.aljazeera.com/news/2026/9/4/as-the-china-us-ai-race-reaches-cairo-egypt-faces-a-strategic-decision?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/4/irelands-katie-taylor-eyes-fairytale-finish-to-trailblazing-boxing-career?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/4/irelands-katie-taylor-eyes-fairytale-finish-to-trailblazing-boxing-career?traffic_source=rss)
 
 ---
 

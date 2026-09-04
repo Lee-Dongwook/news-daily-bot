@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-04T16:46:58+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "IBM Bob",
+            "description": "<p>Article URL: <a href=\"https://bob.ibm.com/\">https://bob.ibm.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49563851\">https://news.ycombinator.com/item?id=49563851</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://bob.ibm.com/",
+            "published": "Fri, 04 Sep 2026 12:50:29 +0000",
+            "fetched": "2026-09-04T16:46:58+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Restoring 5 GHz Wi-Fi on an LG C5 by changing its webOS region",
+            "description": "<p>Article URL: <a href=\"https://github.com/hawshemi/lg-c5-webos25-region-change\">https://github.com/hawshemi/lg-c5-webos25-region-change</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49563839\">https://news.ycombinator.com/item?id=49563839</a></p>\n<p>Points: 4</p>\n<p># Comments: 1</p>",
+            "url": "https://github.com/hawshemi/lg-c5-webos25-region-change",
+            "published": "Fri, 04 Sep 2026 12:49:44 +0000",
+            "fetched": "2026-09-04T16:46:58+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Nearly impossible? How Fairphone built the ethical, repairable Fairphone Gen 6+",
+            "description": "<p>Article URL: <a href=\"https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6/\">https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49563784\">https://news.ycombinator.com/item?id=49563784</a></p>\n<p>Points: 5</p>\n<p># Comments: 2</p>",
+            "url": "https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6/",
+            "published": "Fri, 04 Sep 2026 12:43:49 +0000",
+            "fetched": "2026-09-04T16:46:58+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Chris Mason: 'This is not what Farage wanted today to look like'",
+            "description": "Chris Mason speaks from the Reform UK conference as two of its senior officials step down following a Channel 4 investigation.",
+            "url": "https://www.bbc.co.uk/news/videos/c86xjeqn4qyo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 04 Sep 2026 11:20:21 GMT",
+            "fetched": "2026-09-04T16:46:58+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'Layer upon layer of miracles': How Nepal flood survivors were rescued from tunnel",
+            "description": "From searching for a buried tunnel entrance to blowing up rocks the size of cars, rescuers had to surmount multiple challenges to reach survivors.",
+            "url": "https://www.bbc.co.uk/news/articles/c9dwjv96qyqo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 04 Sep 2026 08:23:05 GMT",
+            "fetched": "2026-09-04T16:46:58+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK support for Falkland Islands 'unwavering' after Argentina restates claims, No 10 says",
+            "description": "The comments come as Argentinian president Javier Milei says the \"winds of change\" favoured his country's claim on the British overseas territory.",
+            "url": "https://www.bbc.co.uk/news/articles/cn45jg3zlz4o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 04 Sep 2026 11:54:51 GMT",
+            "fetched": "2026-09-04T16:46:58+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Jerusalem Daily: Israel’s plan to expel Gaza’s population",
+            "description": "Ben-Gvir sets out a plan for the illegal forced expulsion of all Palestinians from the Gaza Strip",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/jerusalem-daily-israels-plan-to-expel-gazas-population?traffic_source=rss",
+            "published": "Fri, 04 Sep 2026 13:08:23 +0000",
+            "fetched": "2026-09-04T16:46:58+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US envoys headed to Russia and Ukraine to relaunch mediation",
+            "description": "The return of Washington&#039;s negotiators raises hope of progress towards a settlement to end Moscow&#039;s war on Ukraine.",
+            "url": "https://www.aljazeera.com/news/2026/9/4/us-envoys-headed-to-russia-and-ukraine-to-relaunch-mediation?traffic_source=rss",
+            "published": "Fri, 04 Sep 2026 12:51:57 +0000",
+            "fetched": "2026-09-04T16:46:58+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "As the China-US AI race reaches Cairo, Egypt faces a strategic decision",
+            "description": "Egypt walks a tightrope as China and the US vie for dominance in AI data centre development.",
+            "url": "https://www.aljazeera.com/news/2026/9/4/as-the-china-us-ai-race-reaches-cairo-egypt-faces-a-strategic-decision?traffic_source=rss",
+            "published": "Fri, 04 Sep 2026 12:37:20 +0000",
+            "fetched": "2026-09-04T16:46:58+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Emergency Stabilization BAER McConnell, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23868",
+            "published": "2026-09-03T13:03:00Z",
+            "fetched": "2026-09-04T16:46:58+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Ayers Pond, Prairie, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23869",
+            "published": "2026-09-03T01:45:00Z",
+            "fetched": "2026-09-04T16:46:58+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Snow, Custer, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23870",
+            "published": "2026-09-02T22:16:00Z",
+            "fetched": "2026-09-04T16:46:58+03:30"
+        }
+    ]
+}

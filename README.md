@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-04 08:18:12
+**Last Update:** 2026-09-04 12:08:14
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Grep beats LSP? Why coding agents ignore your fancier tools
+### 1. Hackers Had a Live Feed of Every ID Verification Company Scanned for over a Year
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/">http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49561320">https://news.ycombinator.com/item?id=49561320</a></p>
+<p>Points: 68</p>
+<p># Comments: 17</p>
+
+🔗 **Read more:** [http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/](http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/)
+
+---
+
+### 2. Grep beats LSP? Why coding agents ignore your fancier tools
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.agentconnect.md/blog/grep-beat-lsp-harness/">https://www.agentconnect.md/blog/grep-beat-lsp-harness/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49560260">https://news.ycombinator.com/item?id=49560260</a></p>
-<p>Points: 16</p>
-<p># Comments: 1</p>
+<p>Points: 70</p>
+<p># Comments: 48</p>
 
 🔗 **Read more:** [https://www.agentconnect.md/blog/grep-beat-lsp-harness/](https://www.agentconnect.md/blog/grep-beat-lsp-harness/)
 
 ---
 
-### 2. A Mysterious Kidney Disease Has Arrived in Texas
+### 3. A mysterious kidney disease has arrived in Texas
 
 **Source:** Hacker News
 
@@ -35,104 +51,88 @@
 **Description:**
 <p>Article URL: <a href="https://www.texasmonthly.com/news-politics/ckdu-kidney-disease-immigration/">https://www.texasmonthly.com/news-politics/ckdu-kidney-disease-immigration/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49559992">https://news.ycombinator.com/item?id=49559992</a></p>
-<p>Points: 26</p>
-<p># Comments: 25</p>
+<p>Points: 75</p>
+<p># Comments: 56</p>
 
 🔗 **Read more:** [https://www.texasmonthly.com/news-politics/ckdu-kidney-disease-immigration/](https://www.texasmonthly.com/news-politics/ckdu-kidney-disease-immigration/)
 
 ---
 
-### 3. From Hookswitch to Grave
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://computer.rip/2026-06-14-hookswitch-to-grave.html">https://computer.rip/2026-06-14-hookswitch-to-grave.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49559901">https://news.ycombinator.com/item?id=49559901</a></p>
-<p>Points: 11</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://computer.rip/2026-06-14-hookswitch-to-grave.html](https://computer.rip/2026-06-14-hookswitch-to-grave.html)
-
----
-
-### 4. Farage senior aide filmed suggesting way to avoid donations law
+### 4. Two senior Reform UK officials step down after undercover report
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-A film broadcast by Channel 4 shows senior Reform UK figures discussing donations with an undercover reporter.
+Reform says Dan Jukes and James Orr have left their roles as it launches an investigation into the report.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr50ddzl97qo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr50ddzl97qo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c86xj5z7x61o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c86xj5z7x61o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Controversial Jackdaw gas field set to be approved in weeks, sources say
+### 5. 'Layer upon layer of miracles': How Nepal flood survivors were rescued from tunnel
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The government is set to give the go-ahead for the gas field off the coast of Aberdeen, the BBC understands.
+From searching for a buried tunnel entrance to blowing up rocks the size of cars, rescuers had to surmount multiple challenges to reach survivors.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cj9xe09jz4eo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cj9xe09jz4eo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9dwjv96qyqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9dwjv96qyqo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Transplanted pig kidney works in US man's body for record 271 days
+### 6. Argentine leader threatens to sanction oil firms and reiterates Falklands claim
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-A man has lived for a record nine months with a transplanted pig kidney while waiting for a human transplant.
+Javier Milei reiterates his country's claim on the British overseas territory, saying the "winds of change" favour it.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c305qn2jeggo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c305qn2jeggo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Entertainment over policy? White House arcade games ignite backlash
+### 7. Video: Workers rescued from hydro tunnel nine days after Nepal flooding
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-White House arcade games spark criticism for prioritising entertainment amid rising living costs and war concerns.
+Two workers have been pulled alive from a hydropower tunnel nine days after deadly flash flooding hit Nepal.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/4/entertainment-over-policy-white-house-arcade-games-ignite-backlash?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/4/entertainment-over-policy-white-house-arcade-games-ignite-backlash?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/4/video-workers-rescued-from-hydro-tunnel-nine-days-after-nepal-flooding?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/4/video-workers-rescued-from-hydro-tunnel-nine-days-after-nepal-flooding?traffic_source=rss)
 
 ---
 
-### 8. OpenAI unveils GPT‑6 Astra amid rising scrutiny and safety concerns
+### 8. Why Pakistan overhauled its military command structure after five decades
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-OpenAI claims GPT-6 Astra is the most advanced AI model, amid escalating safety and ethical concerns.
+New legislation gives Pakistan&#039;s military chief sweeping command powers, raising questions about oversight.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/4/openai-unveils-gpt-6-astra-amid-rising-scrutiny-and-safety?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/4/openai-unveils-gpt-6-astra-amid-rising-scrutiny-and-safety?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/4/why-pakistan-overhauled-its-military-command-structure-after-five-decades?traffic_source=rss](https://www.aljazeera.com/news/2026/9/4/why-pakistan-overhauled-its-military-command-structure-after-five-decades?traffic_source=rss)
 
 ---
 
-### 9. Missouri Supreme Court blocks Trump-backed map from November’s midterms
+### 9. Zverev goes distance to scrape into third round as upsets rock US Open
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Republicans have pledged to appeal the ruling to the US Supreme Court with only months until the midterm elections.
+Men&#039;s third seed Felix Auger-Aliassime goes out, along with sixth-seed Alex de Minaur and 13th-seed Lorenzo Musetti.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/4/missouri-supreme-court-blocks-trump-backed-map-from-novembers-midterms?traffic_source=rss](https://www.aljazeera.com/news/2026/9/4/missouri-supreme-court-blocks-trump-backed-map-from-novembers-midterms?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/4/zverev-goes-distance-to-scrape-into-third-round-as-upsets-rock-us-open?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/4/zverev-goes-distance-to-scrape-into-third-round-as-upsets-rock-us-open?traffic_source=rss)
 
 ---
 

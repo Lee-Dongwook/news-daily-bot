@@ -1,60 +1,61 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-04 20:57:21
+**Last Update:** 2026-09-04 21:11:12
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Project HydraFusion: Frontier quality via multi-model orchestration
+### 1. Show HN: Open-Source eInk Bike Computer
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/">https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49566788">https://news.ycombinator.com/item?id=49566788</a></p>
-<p>Points: 11</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/](https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/)
-
----
-
-### 2. deSEC – Free Secure DNS
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://desec.io/">https://desec.io/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49566193">https://news.ycombinator.com/item?id=49566193</a></p>
+<p>Hey all, i just launched my Eink Bike computer project and think it is cool.<p>Another tidbit, in the crazy things that AI has done... It has helped create a ANT (common sensor wireless protocol used in workout/biking) implementation for ESP32 by messing around with undocumented registers: <a href="https://github.com/RaemondBW/esp32-ant" rel="nofollow">https://github.com/RaemondBW/esp32-ant</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49567437">https://news.ycombinator.com/item?id=49567437</a></p>
 <p>Points: 3</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://desec.io/](https://desec.io/)
+🔗 **Read more:** [https://opentrailpaper.com](https://opentrailpaper.com)
 
 ---
 
-### 3. Corporate America is getting hooked on open-source AI
+### 2. Georgi Gerganov on llama.cpp/ggml future after Nvidia acquisition of HuggingFace
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html">https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49566137">https://news.ycombinator.com/item?id=49566137</a></p>
-<p>Points: 110</p>
-<p># Comments: 73</p>
+<p>Article URL: <a href="https://twitter.com/ggerganov/status/2095897173376618881">https://twitter.com/ggerganov/status/2095897173376618881</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49567357">https://news.ycombinator.com/item?id=49567357</a></p>
+<p>Points: 7</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html](https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html)
+🔗 **Read more:** [https://twitter.com/ggerganov/status/2095897173376618881](https://twitter.com/ggerganov/status/2095897173376618881)
+
+---
+
+### 3. Adult Film Producer Unmasks Prolific 'John DOE' Torrent Pirate as Meta Executive
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive/">https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49567053">https://news.ycombinator.com/item?id=49567053</a></p>
+<p>Points: 12</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive/](https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive/)
 
 ---
 
@@ -84,16 +85,16 @@ Two senior Reform aides have stepped down from their roles following a Channel 4
 
 ---
 
-### 6. 'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors
+### 6. UN votes to adopt new world map to reflect Africa's true size
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-There are still hundreds of workers trapped in a network of tunnels that run along the Trishuli river.
+The Togo-sponsored resolution was backed by 164 nations - the US the only nation to vote against it.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cd79vp91321o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cd79vp91321o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss)
 
 ---
 

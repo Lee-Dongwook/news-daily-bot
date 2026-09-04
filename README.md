@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-04 23:59:44
+**Last Update:** 2026-09-05 00:22:57
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. An open DNS recursive service for free security and high privacy
+### 1. How to Create a Tor Exit Node
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://madpsy.uk/how-to-create-a-tor-exit-node/">https://madpsy.uk/how-to-create-a-tor-exit-node/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49569702">https://news.ycombinator.com/item?id=49569702</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://madpsy.uk/how-to-create-a-tor-exit-node/](https://madpsy.uk/how-to-create-a-tor-exit-node/)
+
+---
+
+### 2. An open DNS recursive service for free security and high privacy
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://quad9.net/">https://quad9.net/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49569663">https://news.ycombinator.com/item?id=49569663</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Points: 13</p>
+<p># Comments: 2</p>
 
 🔗 **Read more:** [https://quad9.net/](https://quad9.net/)
 
 ---
 
-### 2. Can AI design circuit boards yet?
+### 3. Can AI design circuit boards yet?
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://eebench.org/blog/can-ai-design-circuit-boards-yet/">https://eebench.org/blog/can-ai-design-circuit-boards-yet/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49569366">https://news.ycombinator.com/item?id=49569366</a></p>
-<p>Points: 31</p>
-<p># Comments: 17</p>
+<p>Points: 39</p>
+<p># Comments: 24</p>
 
 🔗 **Read more:** [https://eebench.org/blog/can-ai-design-circuit-boards-yet/](https://eebench.org/blog/can-ai-design-circuit-boards-yet/)
-
----
-
-### 3. Government Rails Site Hit Hours After CVE Patch
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/">https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49568828">https://news.ycombinator.com/item?id=49568828</a></p>
-<p>Points: 32</p>
-<p># Comments: 9</p>
-
-🔗 **Read more:** [https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/](https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/)
 
 ---
 
@@ -97,20 +97,7 @@ The Reform UK leader promises to deliver on key priorities in the first 100 days
 
 ---
 
-### 7. Trump calls Iran war ‘small potatoes’, compares US deaths with Vietnam war
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-US President Donald Trump called the Iran war small potatoes, saying only 18 Americans had been killed.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/4/09-04-trump-iran-war-small-potatoes-clip?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/4/09-04-trump-iran-war-small-potatoes-clip?traffic_source=rss)
-
----
-
-### 8. Israeli drones drop bombs on southern Lebanon’s Mansouri
+### 7. Israeli drones drop bombs on southern Lebanon’s Mansouri
 
 **Source:** Al Jazeera
 
@@ -123,7 +110,7 @@ Several explosions rocked the southern Lebanese town of Mansouri after Israeli m
 
 ---
 
-### 9. Israeli strike kills two in southern Lebanon amid ongoing escalation
+### 8. Israeli strike kills two in southern Lebanon amid ongoing escalation
 
 **Source:** Al Jazeera
 
@@ -133,6 +120,19 @@ Several explosions rocked the southern Lebanese town of Mansouri after Israeli m
 Israeli attacks against villages and towns in southern Lebanon continue despite truce agreements and diplomacy.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/4/israeli-strike-kills-two-in-southern-lebanon-amid-ongoing-escalation?traffic_source=rss](https://www.aljazeera.com/news/2026/9/4/israeli-strike-kills-two-in-southern-lebanon-amid-ongoing-escalation?traffic_source=rss)
+
+---
+
+### 9. Andrew Tate indicted in Romania for trafficking minors, money laundering
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The influencer and his brother are in a Miami prison pending potential extradition to the UK on rape charges
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/4/andrew-tate-indicted-in-romania-for-trafficking-minors-money-laundering?traffic_source=rss](https://www.aljazeera.com/news/2026/9/4/andrew-tate-indicted-in-romania-for-trafficking-minors-money-laundering?traffic_source=rss)
 
 ---
 

@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-04 17:55:57
+**Last Update:** 2026-09-04 20:57:21
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Burnt out on a three-day week
+### 1. Project HydraFusion: Frontier quality via multi-model orchestration
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://jennywanger.com/articles/burnt-out-on-a-three-day-week/">https://jennywanger.com/articles/burnt-out-on-a-three-day-week/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49564960">https://news.ycombinator.com/item?id=49564960</a></p>
+<p>Article URL: <a href="https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/">https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49566788">https://news.ycombinator.com/item?id=49566788</a></p>
+<p>Points: 11</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/](https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/)
+
+---
+
+### 2. deSEC – Free Secure DNS
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://desec.io/">https://desec.io/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49566193">https://news.ycombinator.com/item?id=49566193</a></p>
 <p>Points: 3</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://jennywanger.com/articles/burnt-out-on-a-three-day-week/](https://jennywanger.com/articles/burnt-out-on-a-three-day-week/)
+🔗 **Read more:** [https://desec.io/](https://desec.io/)
 
 ---
 
-### 2. Top Pentagon Official Contracted Personal Lawyer to Handle Minerals Deal
+### 3. Corporate America is getting hooked on open-source AI
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://prospect.org/2026/08/21/pentagon-minerals-deal-department-defense-cerberus-capital-alan-waldenberg-stephen-feinberg/">https://prospect.org/2026/08/21/pentagon-minerals-deal-department-defense-cerberus-capital-alan-waldenberg-stephen-feinberg/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49564714">https://news.ycombinator.com/item?id=49564714</a></p>
-<p>Points: 11</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html">https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49566137">https://news.ycombinator.com/item?id=49566137</a></p>
+<p>Points: 110</p>
+<p># Comments: 73</p>
 
-🔗 **Read more:** [https://prospect.org/2026/08/21/pentagon-minerals-deal-department-defense-cerberus-capital-alan-waldenberg-stephen-feinberg/](https://prospect.org/2026/08/21/pentagon-minerals-deal-department-defense-cerberus-capital-alan-waldenberg-stephen-feinberg/)
-
----
-
-### 3. 'People are going to get screwed' Pennsylvania voters unite against data centres
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="http://www.ft.com/content/8252d574-ae2a-4403-9cf9-031295ba67f5">http://www.ft.com/content/8252d574-ae2a-4403-9cf9-031295ba67f5</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49564397">https://news.ycombinator.com/item?id=49564397</a></p>
-<p>Points: 42</p>
-<p># Comments: 19</p>
-
-🔗 **Read more:** [http://www.ft.com/content/8252d574-ae2a-4403-9cf9-031295ba67f5](http://www.ft.com/content/8252d574-ae2a-4403-9cf9-031295ba67f5)
+🔗 **Read more:** [https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html](https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html)
 
 ---
 
-### 4. Chris Mason: 'This is not what Farage wanted today to look like'
+### 4. 'I'd rather die than ring the police': Distrust and fear in Middlesbrough after A66 crash
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Chris Mason speaks from the Reform UK conference as two of its senior officials step down following a Channel 4 investigation.
+BBC News visits town where violence has escalated after the fatal crash and residents say they are living in fear.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c86xjeqn4qyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c86xjeqn4qyo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c2e0w2e0k0ro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c2e0w2e0k0ro?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. 'Layer upon layer of miracles': How Nepal flood survivors were rescued from tunnel
+### 5. Farage says his aides' donor comments were 'loose pub talk'
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-From searching for a buried tunnel entrance to blowing up rocks the size of cars, rescuers had to surmount multiple challenges to reach survivors.
+Two senior Reform aides have stepped down from their roles following a Channel 4 News and Verbatim film about donations.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9dwjv96qyqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9dwjv96qyqo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3eqvyj5qg5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3eqvyj5qg5o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. UK support for Falkland Islands 'unwavering' after Argentina restates claims, No 10 says
+### 6. 'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The comments come as Argentinian president Javier Milei says the "winds of change" favoured his country's claim on the British overseas territory.
+There are still hundreds of workers trapped in a network of tunnels that run along the Trishuli river.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cn45jg3zlz4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cn45jg3zlz4o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cd79vp91321o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cd79vp91321o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Two Muslim women journalists allege police assault in India
+### 7. Rescuers race to save10-year-old Algerian boy trapped in deep well
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Two Muslim female journalists allege they were detained and brutally assaulted by police in India’s capital, Delhi.
+Rescue teams in Algeria are racing against time to save a 10-year-old boy named Ayoub, after he fell into an deep well.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/4/two-muslim-women-journalists-allege-police-assault-in-india?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/4/two-muslim-women-journalists-allege-police-assault-in-india?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/4/rescuers-race-to-save10-year-old-algerian-boy-trapped-in-deep-well?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/4/rescuers-race-to-save10-year-old-algerian-boy-trapped-in-deep-well?traffic_source=rss)
 
 ---
 
-### 8. Philippine court orders arrest of VP Duterte over President Marcos threats
+### 8. US adds 162,000 jobs in August, raising Fed rate hike expectations
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Warrant follows charge she threatened to have Marcos, his wife and a cousin killed by a hitman.
+Unemployment rate steady as public schools and food services lead the surge in US job growth for August.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/4/philippine-court-orders-arrest-of-vp-duterte-over-president-marcos-threats?traffic_source=rss](https://www.aljazeera.com/news/2026/9/4/philippine-court-orders-arrest-of-vp-duterte-over-president-marcos-threats?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/4/us-adds-jobs-in-august-beating-economic-forecasts?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/4/us-adds-jobs-in-august-beating-economic-forecasts?traffic_source=rss)
 
 ---
 
-### 9. Ireland’s Katie Taylor eyes fairytale finish to trailblazing boxing career
+### 9. The number 10 shirt must not retire with Messi
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Unbeaten French challenger Flora Pili stands in the way of Taylor becoming undisputed world champion for a third time.
+Maradona and Messi each made the shirt their own. The next great Argentinian player should have that chance, too.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/4/irelands-katie-taylor-eyes-fairytale-finish-to-trailblazing-boxing-career?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/4/irelands-katie-taylor-eyes-fairytale-finish-to-trailblazing-boxing-career?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/9/4/the-number-10-shirt-must-not-retire-with-messi?traffic_source=rss](https://www.aljazeera.com/opinions/2026/9/4/the-number-10-shirt-must-not-retire-with-messi?traffic_source=rss)
 
 ---
 

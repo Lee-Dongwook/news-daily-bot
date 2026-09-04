@@ -1,32 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-04 07:08:09
+**Last Update:** 2026-09-04 08:18:12
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Never Forget How Eagerly Apple and Google Coddled Fascism
+### 1. Grep beats LSP? Why coding agents ignore your fancier tools
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://karlbode.com/never-forget-how-eagerly-apple-and-google-coddled-fascism/">https://karlbode.com/never-forget-how-eagerly-apple-and-google-coddled-fascism/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49560015">https://news.ycombinator.com/item?id=49560015</a></p>
-<p>Points: 15</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.agentconnect.md/blog/grep-beat-lsp-harness/">https://www.agentconnect.md/blog/grep-beat-lsp-harness/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49560260">https://news.ycombinator.com/item?id=49560260</a></p>
+<p>Points: 16</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://karlbode.com/never-forget-how-eagerly-apple-and-google-coddled-fascism/](https://karlbode.com/never-forget-how-eagerly-apple-and-google-coddled-fascism/)
+🔗 **Read more:** [https://www.agentconnect.md/blog/grep-beat-lsp-harness/](https://www.agentconnect.md/blog/grep-beat-lsp-harness/)
 
 ---
 
-### 2. From Hookswitch to Grave
+### 2. A Mysterious Kidney Disease Has Arrived in Texas
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.texasmonthly.com/news-politics/ckdu-kidney-disease-immigration/">https://www.texasmonthly.com/news-politics/ckdu-kidney-disease-immigration/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49559992">https://news.ycombinator.com/item?id=49559992</a></p>
+<p>Points: 26</p>
+<p># Comments: 25</p>
+
+🔗 **Read more:** [https://www.texasmonthly.com/news-politics/ckdu-kidney-disease-immigration/](https://www.texasmonthly.com/news-politics/ckdu-kidney-disease-immigration/)
+
+---
+
+### 3. From Hookswitch to Grave
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://computer.rip/2026-06-14-hookswitch-to-grave.html">https://computer.rip/2026-06-14-hookswitch-to-grave.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49559901">https://news.ycombinator.com/item?id=49559901</a></p>
-<p>Points: 5</p>
+<p>Points: 11</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://computer.rip/2026-06-14-hookswitch-to-grave.html](https://computer.rip/2026-06-14-hookswitch-to-grave.html)
-
----
-
-### 3. Project Xanadu: Even More Hindsight
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://gwern.net/xanadu">https://gwern.net/xanadu</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49559522">https://news.ycombinator.com/item?id=49559522</a></p>
-<p>Points: 18</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://gwern.net/xanadu](https://gwern.net/xanadu)
 
 ---
 
@@ -97,7 +97,33 @@ A man has lived for a record nine months with a transplanted pig kidney while wa
 
 ---
 
-### 7. Missouri Supreme Court blocks Trump-backed map from November’s midterms
+### 7. Entertainment over policy? White House arcade games ignite backlash
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+White House arcade games spark criticism for prioritising entertainment amid rising living costs and war concerns.
+
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/4/entertainment-over-policy-white-house-arcade-games-ignite-backlash?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/4/entertainment-over-policy-white-house-arcade-games-ignite-backlash?traffic_source=rss)
+
+---
+
+### 8. OpenAI unveils GPT‑6 Astra amid rising scrutiny and safety concerns
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+OpenAI claims GPT-6 Astra is the most advanced AI model, amid escalating safety and ethical concerns.
+
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/4/openai-unveils-gpt-6-astra-amid-rising-scrutiny-and-safety?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/4/openai-unveils-gpt-6-astra-amid-rising-scrutiny-and-safety?traffic_source=rss)
+
+---
+
+### 9. Missouri Supreme Court blocks Trump-backed map from November’s midterms
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ A man has lived for a record nine months with a transplanted pig kidney while wa
 Republicans have pledged to appeal the ruling to the US Supreme Court with only months until the midterm elections.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/4/missouri-supreme-court-blocks-trump-backed-map-from-novembers-midterms?traffic_source=rss](https://www.aljazeera.com/news/2026/9/4/missouri-supreme-court-blocks-trump-backed-map-from-novembers-midterms?traffic_source=rss)
-
----
-
-### 8. Why did Trump meet with anti-Zionist Jewish leaders?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-US President Donald Trump met six anti-Zionist rabbis privately amid protests over Israeli military conscription.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/4/why-did-trump-meet-with-anti-zionist-jewish-leaders?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/4/why-did-trump-meet-with-anti-zionist-jewish-leaders?traffic_source=rss)
-
----
-
-### 9. Chile police and protesters clash outside far-right forum
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Police and protesters have clashed in Chile’s capital, outside the summit of the far-right Madrid Forum.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/4/chile-police-and-protesters-clash-outside-far-right-forum?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/4/chile-police-and-protesters-clash-outside-far-right-forum?traffic_source=rss)
 
 ---
 

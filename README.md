@@ -1,16 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-05 08:53:33
+**Last Update:** 2026-09-05 09:25:53
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Cleveland police chief proud of force but being 'let down' by funding
+### 1. GPT-6 Astra in code review: Gains, privacy, and cost
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation">https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49572875">https://news.ycombinator.com/item?id=49572875</a></p>
+<p>Points: 5</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation](https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation)
+
+---
+
+### 2. Nitter has more working instances than before the takedowns
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://codeberg.org/mv12star/shitter/wiki/Instances">https://codeberg.org/mv12star/shitter/wiki/Instances</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49571634">https://news.ycombinator.com/item?id=49571634</a></p>
+<p>Points: 75</p>
+<p># Comments: 18</p>
+
+🔗 **Read more:** [https://codeberg.org/mv12star/shitter/wiki/Instances](https://codeberg.org/mv12star/shitter/wiki/Instances)
+
+---
+
+### 3. Artificial Analysis Intelligence Index v4.2
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2">https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49571632">https://news.ycombinator.com/item?id=49571632</a></p>
+<p>Points: 92</p>
+<p># Comments: 29</p>
+
+🔗 **Read more:** [https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2](https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2)
+
+---
+
+### 4. Cleveland police chief proud of force but being 'let down' by funding
 
 **Source:** BBC
 
@@ -23,7 +71,7 @@ Victoria Fuller tells the BBC Cleveland Police needs to become part of a larger,
 
 ---
 
-### 2. 'I'd rather die than ring the police': Distrust and fear in Middlesbrough after A66 crash
+### 5. 'I'd rather die than ring the police': Distrust and fear in Middlesbrough after A66 crash
 
 **Source:** BBC
 
@@ -36,7 +84,7 @@ BBC News visits town where violence has escalated after the fatal crash and resi
 
 ---
 
-### 3. Reform promises to increase tax-free personal allowance to £15,000
+### 6. Reform promises to increase tax-free personal allowance to £15,000
 
 **Source:** BBC
 
@@ -49,7 +97,33 @@ The party says the tax cut will be paid for by reducing public spending by £80b
 
 ---
 
-### 4. ‘I could not save the rest’: Hero nurse remembers Pakistan’s nursery fire
+### 7. US imposes sanctions on Turkish bank, prompting legal threat
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+US sanctions Turkish bank over alleged IRGC ties, accusing it of facilitating millions in transactions for Iran.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/5/us-imposes-sanctions-on-turkish-bank-prompting-legal-threat?traffic_source=rss](https://www.aljazeera.com/news/2026/9/5/us-imposes-sanctions-on-turkish-bank-prompting-legal-threat?traffic_source=rss)
+
+---
+
+### 8. Families of missing Ecuadorian fishermen allege US involvement
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Families of eight Ecuadorian fishermen who vanished after reporting US surveillance at sea are demanding answers.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/5/families-of-missing-ecuadorian-fishermen-allege-us-involvement?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/5/families-of-missing-ecuadorian-fishermen-allege-us-involvement?traffic_source=rss)
+
+---
+
+### 9. ‘I could not save the rest’: Hero nurse remembers Pakistan’s nursery fire
 
 **Source:** Al Jazeera
 
@@ -62,33 +136,7 @@ The PIMS nurse who saved one newborn recalls the fire, the screams and the 14 ba
 
 ---
 
-### 5. UN approves new map showing Africa’s true size
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The UN General Assembly has backed a resolution to change to maps that more accurately show the true size of Africa.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/5/un-approves-new-map-showing-africas-true-size?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/5/un-approves-new-map-showing-africas-true-size?traffic_source=rss)
-
----
-
-### 6. Blasts at Bolivian military base kill at least 10, injure dozens
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Authorities say seven people are still missing after deadly explosions at a facility storing pyrotechnic material.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/5/blasts-at-bolivian-military-base-kill-at-least-10-injure-dozens?traffic_source=rss](https://www.aljazeera.com/news/2026/9/5/blasts-at-bolivian-military-base-kill-at-least-10-injure-dozens?traffic_source=rss)
-
----
-
-### 7. Emergency Stabilization BAER McConnell, Humboldt, Nevada
+### 10. Emergency Stabilization BAER McConnell, Humboldt, Nevada
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Wildfires
 
 ---
 
-### 8. Wildfire Ayers Pond, Prairie, Montana
+### 11. Wildfire Ayers Pond, Prairie, Montana
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Wildfires
 
 ---
 
-### 9. Wildfire Snow, Custer, Montana
+### 12. Wildfire Snow, Custer, Montana
 
 **Source:** NASA
 

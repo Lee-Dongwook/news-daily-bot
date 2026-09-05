@@ -1,78 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-05 04:38:37
+**Last Update:** 2026-09-05 08:53:33
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** NASA, Hacker News, Al Jazeera, BBC
+**Sources:** BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Artificial Analysis Intelligence Index v4.2
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2">https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49571632">https://news.ycombinator.com/item?id=49571632</a></p>
-<p>Points: 20</p>
-<p># Comments: 4</p>
-
-🔗 **Read more:** [https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2](https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2)
-
----
-
-### 2. Reversing MikroTik's Silent Patch: The RouterOS 7.23.4 Fix They Wouldn't Explain
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://npratley.net/reversing-mikrotiks-silent-patch-the-routeros-7-23-4-fix-they-wouldnt-explain/">https://npratley.net/reversing-mikrotiks-silent-patch-the-routeros-7-23-4-fix-they-wouldnt-explain/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49571627">https://news.ycombinator.com/item?id=49571627</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://npratley.net/reversing-mikrotiks-silent-patch-the-routeros-7-23-4-fix-they-wouldnt-explain/](https://npratley.net/reversing-mikrotiks-silent-patch-the-routeros-7-23-4-fix-they-wouldnt-explain/)
-
----
-
-### 3. Show HN: Moadim.io – A scheduler for agents
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Why can't we get an agent scheduler that supports all of the following:<p>- git compatible<p>- agent agnostic<p>- 100% open source<p>- os and system-agnostic<p>- multi-runner support<p>- support mcp/ui/http<p>- unlimited routines/crons<p>So I built one, moadim.io is a local Rust daemon you install in the target machine, give it a name and manage its routines via a Git repository, wants a new routine that send you a daily message from this machine? Create a pr and merge, have another routine that run every hour to pull the latest changes to the ~/.config/moadim folder.<p>With more than 1,000 users, I define this project as almost "done" and ready for production. Me and thousand more people are use it in a daily manner.<p>It currently supports Claude, Codex, Hermes, and Pi, and you are welcome to add your agent of choice as well because it's 100% configurable.<p>You are welcome to have a look at the source code of the daemon in "<a href="http://github.com/moadim-io/daemon" rel="nofollow">http://github.com/moadim-io/daemon</a>"<p>Feel free to provide me with suggestions for more features around this topic. I don't want to branch out to new off road topics likt webhooks, this is a "done" software in the realm of agents schedulers that focus on cron-like work.<p>Also feel free to start the github repository and open issues and PRs for your suggestions.</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49571537">https://news.ycombinator.com/item?id=49571537</a></p>
-<p>Points: 6</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://moadim.io/](https://moadim.io/)
-
----
-
-### 4. 'I'd rather die than ring the police': Distrust and fear in Middlesbrough after A66 crash
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-BBC News visits town where violence has escalated after the fatal crash and residents say they are living in fear.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c2e0w2e0k0ro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c2e0w2e0k0ro?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Cleveland police chief proud of force but being 'let down' by funding
+### 1. Cleveland police chief proud of force but being 'let down' by funding
 
 **Source:** BBC
 
@@ -85,59 +23,72 @@ Victoria Fuller tells the BBC Cleveland Police needs to become part of a larger,
 
 ---
 
-### 6. Mistrial declared in Lindsay Clancy murder case, after jury deadlocks
+### 2. 'I'd rather die than ring the police': Distrust and fear in Middlesbrough after A66 crash
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The mistrial now puts the murder case - and Clancy's future - in limbo as to whether she will be held criminally liable in the deaths of her three kids.
+BBC News visits town where violence has escalated after the fatal crash and residents say they are living in fear.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c2e0w2e0k0ro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c2e0w2e0k0ro?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. EU official Marta Kos cancels Serbia trip over planned Mladic tribute
+### 3. Reform promises to increase tax-free personal allowance to £15,000
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The party says the tax cut will be paid for by reducing public spending by £80bn.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cgk5g51xk57o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cgk5g51xk57o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 4. ‘I could not save the rest’: Hero nurse remembers Pakistan’s nursery fire
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-EU enlargement chief condemns Ratko Mladic ‘glorification’ as incompatible with European values.
+The PIMS nurse who saved one newborn recalls the fire, the screams and the 14 babies she could not save.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/5/senior-eu-official-cancels-serbia-trip-over-planned-tribute-to-mladic?traffic_source=rss](https://www.aljazeera.com/news/2026/9/5/senior-eu-official-cancels-serbia-trip-over-planned-tribute-to-mladic?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/9/5/i-could-not-save-the-rest-hero-nurse-remembers-pakistans-nursery-fire?traffic_source=rss](https://www.aljazeera.com/features/2026/9/5/i-could-not-save-the-rest-hero-nurse-remembers-pakistans-nursery-fire?traffic_source=rss)
 
 ---
 
-### 8. Iran war live: Trump says US may target Iran’s Pickaxe Mountain ‘very soon’
+### 5. UN approves new map showing Africa’s true size
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US President Donald Trump has repeated an earlier warning that the US may attack Iran&#039;s Pickaxe Mountain &quot;very soon&quot;.
+The UN General Assembly has backed a resolution to change to maps that more accurately show the true size of Africa.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/9/5/iran-war-live-trump-says-us-may-target-irans-pickaxe-mountain-very-soon?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/9/5/iran-war-live-trump-says-us-may-target-irans-pickaxe-mountain-very-soon?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/5/un-approves-new-map-showing-africas-true-size?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/5/un-approves-new-map-showing-africas-true-size?traffic_source=rss)
 
 ---
 
-### 9. ‘Small potatoes’: US President Trump downplays war on Iran
+### 6. Blasts at Bolivian military base kill at least 10, injure dozens
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Trump tells reporters the US is &#039;not fighting right now&#039; despite a recent exchange of fire with Iran.
+Authorities say seven people are still missing after deadly explosions at a facility storing pyrotechnic material.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/4/small-potatoes-us-president-trump-downplays-war-on-iran?traffic_source=rss](https://www.aljazeera.com/news/2026/9/4/small-potatoes-us-president-trump-downplays-war-on-iran?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/5/blasts-at-bolivian-military-base-kill-at-least-10-injure-dozens?traffic_source=rss](https://www.aljazeera.com/news/2026/9/5/blasts-at-bolivian-military-base-kill-at-least-10-injure-dozens?traffic_source=rss)
 
 ---
 
-### 10. Emergency Stabilization BAER McConnell, Humboldt, Nevada
+### 7. Emergency Stabilization BAER McConnell, Humboldt, Nevada
 
 **Source:** NASA
 
@@ -150,7 +101,7 @@ Natural event: Wildfires
 
 ---
 
-### 11. Wildfire Ayers Pond, Prairie, Montana
+### 8. Wildfire Ayers Pond, Prairie, Montana
 
 **Source:** NASA
 
@@ -163,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Wildfire Snow, Custer, Montana
+### 9. Wildfire Snow, Custer, Montana
 
 **Source:** NASA
 

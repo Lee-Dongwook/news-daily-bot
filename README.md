@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-06 02:19:27
+**Last Update:** 2026-09-06 02:33:02
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/">https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49580980">https://news.ycombinator.com/item?id=49580980</a></p>
-<p>Points: 18</p>
-<p># Comments: 3</p>
+<p>Points: 19</p>
+<p># Comments: 5</p>
 
 🔗 **Read more:** [https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/](https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/)
 
@@ -51,7 +51,7 @@
 **Description:**
 <p>Article URL: <a href="https://www.wsj.com/business/diamond-mines-are-closing-and-south-africans-have-few-alternatives-fa3b8cbf">https://www.wsj.com/business/diamond-mines-are-closing-and-south-africans-have-few-alternatives-fa3b8cbf</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49580778">https://news.ycombinator.com/item?id=49580778</a></p>
-<p>Points: 20</p>
+<p>Points: 22</p>
 <p># Comments: 5</p>
 
 🔗 **Read more:** [https://www.wsj.com/business/diamond-mines-are-closing-and-south-africans-have-few-alternatives-fa3b8cbf](https://www.wsj.com/business/diamond-mines-are-closing-and-south-africans-have-few-alternatives-fa3b8cbf)

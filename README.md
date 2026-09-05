@@ -1,64 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-05 13:42:44
+**Last Update:** 2026-09-05 14:16:26
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. AI handles incidents, engineers lose touch with their systems
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems">https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49574167">https://news.ycombinator.com/item?id=49574167</a></p>
-<p>Points: 79</p>
-<p># Comments: 48</p>
-
-🔗 **Read more:** [https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems](https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems)
-
----
-
-### 2. Git hosting that never leaves Europe
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://pushin.eu">https://pushin.eu</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49573680">https://news.ycombinator.com/item?id=49573680</a></p>
-<p>Points: 79</p>
-<p># Comments: 59</p>
-
-🔗 **Read more:** [https://pushin.eu](https://pushin.eu)
-
----
-
-### 3. GPT-6 Astra in code review: Gains, privacy, and cost
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation">https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49572875">https://news.ycombinator.com/item?id=49572875</a></p>
-<p>Points: 41</p>
-<p># Comments: 22</p>
-
-🔗 **Read more:** [https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation](https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation)
-
----
-
-### 4. Cleveland police chief proud of force but being 'let down' by funding
+### 1. Cleveland police chief proud of force but being 'let down' by funding
 
 **Source:** BBC
 
@@ -71,7 +23,7 @@ Victoria Fuller tells the BBC the force's resources need a rethink, speaking aft
 
 ---
 
-### 5. 'I'd rather die than ring the police': Distrust and fear in Middlesbrough after A66 crash
+### 2. 'I'd rather die than ring the police': Distrust and fear in Middlesbrough after A66 crash
 
 **Source:** BBC
 
@@ -84,7 +36,7 @@ BBC News visits town where violence has escalated after the fatal crash and resi
 
 ---
 
-### 6. Reform promises to increase tax-free personal allowance to £15,000
+### 3. Reform promises to increase tax-free personal allowance to £15,000
 
 **Source:** BBC
 
@@ -97,7 +49,33 @@ The party says the tax cut will be paid for by reducing public spending by £80b
 
 ---
 
-### 7. Qatar removed from Fitch’s negative watch list as risks to LNG sites ease
+### 4. Why is Trump threatening to strike Iran’s Pickaxe Mountain again, now?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+As oil tanker struck off Kharg island, Trump threatens one of the remaining parts of Iran’s nuclear complex.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/5/why-is-trump-threatening-to-strike-irans-pickaxe-mountain-again-now?traffic_source=rss](https://www.aljazeera.com/news/2026/9/5/why-is-trump-threatening-to-strike-irans-pickaxe-mountain-again-now?traffic_source=rss)
+
+---
+
+### 5. US ambassador to Israel meets Palestinian-Americans in occupied West Bank
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+US Ambassador to Israel Mike Huckabee has visited Turmus Ayya in the occupied West Bank.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/5/us-ambassador-to-israel-meets-palestinian-americans-in-occupied-west-bank?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/5/us-ambassador-to-israel-meets-palestinian-americans-in-occupied-west-bank?traffic_source=rss)
+
+---
+
+### 6. Qatar removed from Fitch’s negative watch list as risks to LNG sites ease
 
 **Source:** Al Jazeera
 
@@ -110,33 +88,7 @@ The global ratings agency has also maintained the country’s sovereign rating a
 
 ---
 
-### 8. Fenerbahce’s Greenwood, Guendouzi handed fines and bans after brawl at Lyon
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Fights between players and coaching staff broke out after the Turkish side won the Champions League playoff second leg.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/5/fenerbahces-greenwood-guendouzi-handed-fines-and-bans-after-brawl-at-lyon?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/5/fenerbahces-greenwood-guendouzi-handed-fines-and-bans-after-brawl-at-lyon?traffic_source=rss)
-
----
-
-### 9. Oil and politics: What Trump’s ‘historic’ deal means for Venezuela
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Venezuelans are hoping for free and fair elections, but the US may prioritise oil production.
-
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/9/5/oil-and-politics-what-trumps-historic-deal-means-for?traffic_source=rss](https://www.aljazeera.com/features/2026/9/5/oil-and-politics-what-trumps-historic-deal-means-for?traffic_source=rss)
-
----
-
-### 10. Emergency Stabilization BAER McConnell, Humboldt, Nevada
+### 7. Emergency Stabilization BAER McConnell, Humboldt, Nevada
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Wildfires
 
 ---
 
-### 11. Wildfire Ayers Pond, Prairie, Montana
+### 8. Wildfire Ayers Pond, Prairie, Montana
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Wildfire Snow, Custer, Montana
+### 9. Wildfire Snow, Custer, Montana
 
 **Source:** NASA
 

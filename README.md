@@ -1,71 +1,71 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-06 14:38:54
+**Last Update:** 2026-09-06 17:31:19
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. I Changed My License
+### 1. Schemy Lisp En DOS
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://bergie.iki.fi/blog/eupl/">https://bergie.iki.fi/blog/eupl/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49585161">https://news.ycombinator.com/item?id=49585161</a></p>
+<p>Article URL: <a href="https://sled.neocities.org/">https://sled.neocities.org/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49586139">https://news.ycombinator.com/item?id=49586139</a></p>
 <p>Points: 7</p>
-<p># Comments: 2</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://bergie.iki.fi/blog/eupl/](https://bergie.iki.fi/blog/eupl/)
+🔗 **Read more:** [https://sled.neocities.org/](https://sled.neocities.org/)
 
 ---
 
-### 2. You Don't Have a Right to Safe Drinking Water, US Court Rules
+### 2. 2026 Hugo Awards
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.motherjones.com/politics/2026/09/drinking-water-mississippi-lawsuit/">https://www.motherjones.com/politics/2026/09/drinking-water-mississippi-lawsuit/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49584637">https://news.ycombinator.com/item?id=49584637</a></p>
-<p>Points: 111</p>
-<p># Comments: 62</p>
+<p>Article URL: <a href="https://www.thehugoawards.org/">https://www.thehugoawards.org/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49586005">https://news.ycombinator.com/item?id=49586005</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.motherjones.com/politics/2026/09/drinking-water-mississippi-lawsuit/](https://www.motherjones.com/politics/2026/09/drinking-water-mississippi-lawsuit/)
+🔗 **Read more:** [https://www.thehugoawards.org/](https://www.thehugoawards.org/)
 
 ---
 
-### 3. Play GTA Vice City in the Browser
+### 3. The pencil case model of creativity
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://quenq.com/apps/vice-city-online/">https://quenq.com/apps/vice-city-online/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49584123">https://news.ycombinator.com/item?id=49584123</a></p>
-<p>Points: 69</p>
-<p># Comments: 29</p>
+<p>Article URL: <a href="https://dub.uu.nl/en/column/pencil-case-model-creativity">https://dub.uu.nl/en/column/pencil-case-model-creativity</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49585703">https://news.ycombinator.com/item?id=49585703</a></p>
+<p>Points: 20</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://quenq.com/apps/vice-city-online/](https://quenq.com/apps/vice-city-online/)
+🔗 **Read more:** [https://dub.uu.nl/en/column/pencil-case-model-creativity](https://dub.uu.nl/en/column/pencil-case-model-creativity)
 
 ---
 
-### 4. US envoys arrive in Ukraine for talks after meeting Putin in Russia
+### 4. US envoys meet Zelensky in Ukraine after talks with Putin in Russia
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-It is the first trip by Steve Witkoff and Jared Kushner, Trump's top negotiators, to Kyiv.
+Steve Witkoff and Jared Kushner are holding talks in Kyiv, in their first visit to Ukraine since Russia's full-scale invasion.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss)
 
@@ -97,42 +97,42 @@ The company is struggling with the impact of tariffs as well as the fallout from
 
 ---
 
-### 7. US, Iran engaged in tanker war: Where is the months-long conflict headed?
+### 7. Seven mouths, one meal: Feeding a family through Gaza’s food crisis
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The US and Iran attack tankers in Strait of Hormuz, as the two sides try to exert control over the strategic waterway.
+Families across Gaza struggle to secure food as community kitchens operate irregularly and prices rise.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/6/us-iran-engaged-in-tanker-war-where-is-the-months-long-conflict-headed?traffic_source=rss](https://www.aljazeera.com/news/2026/9/6/us-iran-engaged-in-tanker-war-where-is-the-months-long-conflict-headed?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/9/6/seven-mouths-one-meal-feeding-a-family-through-gazas-food-crisis?traffic_source=rss](https://www.aljazeera.com/features/2026/9/6/seven-mouths-one-meal-feeding-a-family-through-gazas-food-crisis?traffic_source=rss)
 
 ---
 
-### 8. Palestinians in Gaza bury remains of 100 people recovered from rubble
+### 8. How the West’s promise of freedom created a world of anger
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The remains of thousands more people are believed to be buried under destroyed and damaged buildings in Gaza.
+In Deja Vu’s next episode, Pankaj Mishra traces today’s political anger to the Enlightenment and empire.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/6/palestinians-in-gaza-bury-remains-of-100-people-recovered-from-rubble?traffic_source=rss](https://www.aljazeera.com/news/2026/9/6/palestinians-in-gaza-bury-remains-of-100-people-recovered-from-rubble?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/deja-vu-2/2026/9/6/how-the-wests-promise-of-freedom-created-a-world-of-anger?traffic_source=rss](https://www.aljazeera.com/video/deja-vu-2/2026/9/6/how-the-wests-promise-of-freedom-created-a-world-of-anger?traffic_source=rss)
 
 ---
 
-### 9. LIVE: Everton vs Manchester United – Premier League
+### 9. Palestinians mourn loved ones in mass funeral in Gaza City
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-All our live updates as Bruno Fernandes and Marcus Rashford look to fire during our text commentary stream coverage.
+Thousands attended a mass funeral for 100 Palestinians whose bodies were recovered from rubble in Gaza City.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/liveblog/2026/9/6/live-everton-vs-manchester-united-premier-league-fernandes-rashford-live-coverage-stream?traffic_source=rss](https://www.aljazeera.com/sports/liveblog/2026/9/6/live-everton-vs-manchester-united-premier-league-fernandes-rashford-live-coverage-stream?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/6/palestinians-mourn-loved-ones-in-mass-funeral-in-gaza-city?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/6/palestinians-mourn-loved-ones-in-mass-funeral-in-gaza-city?traffic_source=rss)
 
 ---
 

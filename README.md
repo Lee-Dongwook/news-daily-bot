@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-07 02:17:17
+**Last Update:** 2026-09-07 02:28:23
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.neowin.net/opinions/windows-11s-special-developer-edition-sounds-like-yet-another-marketing-misfire/">https://www.neowin.net/opinions/windows-11s-special-developer-edition-sounds-like-yet-another-marketing-misfire/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49591036">https://news.ycombinator.com/item?id=49591036</a></p>
-<p>Points: 25</p>
-<p># Comments: 6</p>
+<p>Points: 28</p>
+<p># Comments: 10</p>
 
 🔗 **Read more:** [https://www.neowin.net/opinions/windows-11s-special-developer-edition-sounds-like-yet-another-marketing-misfire/](https://www.neowin.net/opinions/windows-11s-special-developer-edition-sounds-like-yet-another-marketing-misfire/)
 
@@ -36,7 +36,7 @@
 <p>Article URL: <a href="https://github.com/marsbos/mador">https://github.com/marsbos/mador</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49590738">https://news.ycombinator.com/item?id=49590738</a></p>
 <p>Points: 44</p>
-<p># Comments: 16</p>
+<p># Comments: 18</p>
 
 🔗 **Read more:** [https://github.com/marsbos/mador](https://github.com/marsbos/mador)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://anubis.techaro.lol/blog/2026/anubis-wasm/">https://anubis.techaro.lol/blog/2026/anubis-wasm/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49590611">https://news.ycombinator.com/item?id=49590611</a></p>
-<p>Points: 88</p>
-<p># Comments: 57</p>
+<p>Points: 95</p>
+<p># Comments: 60</p>
 
 🔗 **Read more:** [https://anubis.techaro.lol/blog/2026/anubis-wasm/](https://anubis.techaro.lol/blog/2026/anubis-wasm/)
 
@@ -110,14 +110,14 @@ Carlos Alcaraz beats American Tommy Paul in straight sets to reach US Open quart
 
 ---
 
-### 8. Amazon cargo plane crashes in US while landing at Miami airport
+### 8. At least five killed after Amazon cargo plane crash in Miami airport
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The cause of the crash is being investigated.
+Five people are injured, and the cause of the crash is being investigated, authorities say.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/6/amazon-cargo-plane-crashes-in-us-while-landing-at-miami-airport?traffic_source=rss](https://www.aljazeera.com/news/2026/9/6/amazon-cargo-plane-crashes-in-us-while-landing-at-miami-airport?traffic_source=rss)
 

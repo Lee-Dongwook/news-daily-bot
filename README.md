@@ -1,28 +1,28 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-06 09:09:52
+**Last Update:** 2026-09-06 09:37:41
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Vancouver strip club's Instagram taken down over sign featuring lake joke
+### 1. AMD Based FreeBSD Desktop Reloaded
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.vancouverisawesome.com/local-news/vancouver-strip-club-instagram-taken-down-sign-calls-out-trump-12725993">https://www.vancouverisawesome.com/local-news/vancouver-strip-club-instagram-taken-down-sign-calls-out-trump-12725993</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49583232">https://news.ycombinator.com/item?id=49583232</a></p>
-<p>Points: 62</p>
-<p># Comments: 28</p>
+<p>Article URL: <a href="https://vermaden.wordpress.com/2026/09/06/amd-based-freebsd-desktop-reloaded/">https://vermaden.wordpress.com/2026/09/06/amd-based-freebsd-desktop-reloaded/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49582719">https://news.ycombinator.com/item?id=49582719</a></p>
+<p>Points: 7</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.vancouverisawesome.com/local-news/vancouver-strip-club-instagram-taken-down-sign-calls-out-trump-12725993](https://www.vancouverisawesome.com/local-news/vancouver-strip-club-instagram-taken-down-sign-calls-out-trump-12725993)
+🔗 **Read more:** [https://vermaden.wordpress.com/2026/09/06/amd-based-freebsd-desktop-reloaded/](https://vermaden.wordpress.com/2026/09/06/amd-based-freebsd-desktop-reloaded/)
 
 ---
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation">https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49582656">https://news.ycombinator.com/item?id=49582656</a></p>
-<p>Points: 13</p>
-<p># Comments: 3</p>
+<p>Points: 15</p>
+<p># Comments: 5</p>
 
 🔗 **Read more:** [https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation](https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://openai.robocurve.org/gpt-6-astra/">https://openai.robocurve.org/gpt-6-astra/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49582582">https://news.ycombinator.com/item?id=49582582</a></p>
-<p>Points: 119</p>
-<p># Comments: 74</p>
+<p>Points: 125</p>
+<p># Comments: 80</p>
 
 🔗 **Read more:** [https://openai.robocurve.org/gpt-6-astra/](https://openai.robocurve.org/gpt-6-astra/)
 
@@ -65,7 +65,7 @@
 **Category:** world
 
 **Description:**
-Steve Witkoff and Jared Kushner left Moscow having "discussed substantive plans for next steps" with Putin, according to the White House.
+It will be the first trip by Steve Witkoff and Jared Kushner, Trump's top negotiators, to Kyiv.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss)
 

@@ -1,60 +1,61 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-06 22:50:14
+**Last Update:** 2026-09-06 23:40:18
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Following legal advice, the Nitter project will continue
+### 1. The car industry A/B tested selling a car with and without CarPlay
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/zedeus/nitter">https://github.com/zedeus/nitter</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49589003">https://news.ycombinator.com/item?id=49589003</a></p>
-<p>Points: 173</p>
-<p># Comments: 36</p>
+<p>Article URL: <a href="https://a.wholelottanothing.org/the-car-industry-a-b-tested-selling-the-same-car-with-and-without-carplay-and-the-results-are-not-shocking/">https://a.wholelottanothing.org/the-car-industry-a-b-tested-selling-the-same-car-with-and-without-carplay-and-the-results-are-not-shocking/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49590225">https://news.ycombinator.com/item?id=49590225</a></p>
+<p>Points: 10</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://github.com/zedeus/nitter](https://github.com/zedeus/nitter)
+🔗 **Read more:** [https://a.wholelottanothing.org/the-car-industry-a-b-tested-selling-the-same-car-with-and-without-carplay-and-the-results-are-not-shocking/](https://a.wholelottanothing.org/the-car-industry-a-b-tested-selling-the-same-car-with-and-without-carplay-and-the-results-are-not-shocking/)
 
 ---
 
-### 2. Nitter is unarchived and will continue
+### 2. Ask HN: UK Rescue Rocket Sheds/Houses Information
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3">https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49588988">https://news.ycombinator.com/item?id=49588988</a></p>
-<p>Points: 59</p>
-<p># Comments: 4</p>
+<p>I can't seem to find pictures or significant details (nothing on Wikipedia) about the coastal buildings purportedly used to contain shipwreck rescue rocket apparatus. Many of the buildings still exist and are Grade II listed. Anyone have any additional anecdotal/local/oral tradition information that isn't found in the little blurbs online on the few websites mentioning them?</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49589730">https://news.ycombinator.com/item?id=49589730</a></p>
+<p>Points: 9</p>
+<p># Comments: 6</p>
 
-🔗 **Read more:** [https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3](https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3)
+🔗 **Read more:** [https://news.ycombinator.com/item?id=49589730](https://news.ycombinator.com/item?id=49589730)
 
 ---
 
-### 3. Opalite Health (YC W26) Is Hiring – Founding GTM
+### 3. Finder is so frustrating and has been since day one
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.ycombinator.com/companies/opalite-health/jobs/bNedVAD-founding-gtm">https://www.ycombinator.com/companies/opalite-health/jobs/bNedVAD-founding-gtm</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49588466">https://news.ycombinator.com/item?id=49588466</a></p>
-<p>Points: 0</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://kepter.app/finder">https://kepter.app/finder</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49589722">https://news.ycombinator.com/item?id=49589722</a></p>
+<p>Points: 67</p>
+<p># Comments: 60</p>
 
-🔗 **Read more:** [https://www.ycombinator.com/companies/opalite-health/jobs/bNedVAD-founding-gtm](https://www.ycombinator.com/companies/opalite-health/jobs/bNedVAD-founding-gtm)
+🔗 **Read more:** [https://kepter.app/finder](https://kepter.app/finder)
 
 ---
 
@@ -97,7 +98,20 @@ The company is struggling with the impact of tariffs as well as the fallout from
 
 ---
 
-### 7. Adidas faces boycott calls over campaign featuring former Israeli soldier
+### 7. Indonesia volcano eruption disrupts hundreds of flights
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Two new eruptions were recorded as Indonesia’s Anak Krakatau continued to spew volcanic ash.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/6/indonesia-volcano-eruption-disrupts-hundreds-of-flights?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/6/indonesia-volcano-eruption-disrupts-hundreds-of-flights?traffic_source=rss)
+
+---
+
+### 8. Adidas faces boycott calls over campaign featuring former Israeli soldier
 
 **Source:** Al Jazeera
 
@@ -110,7 +124,7 @@ Activists slam campaign showing soldier while over 5,000 Palestinians faced ampu
 
 ---
 
-### 8. Trump administration appeals again to US Supreme Court over mail-in voting
+### 9. Trump administration appeals again to US Supreme Court over mail-in voting
 
 **Source:** Al Jazeera
 
@@ -120,19 +134,6 @@ Activists slam campaign showing soldier while over 5,000 Palestinians faced ampu
 How the nation&#039;s highest court rules could have major implications in this year’s midterm elections.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/6/trump-administration-appeals-again-to-us-supreme-court-over-mail-in-voting?traffic_source=rss](https://www.aljazeera.com/news/2026/9/6/trump-administration-appeals-again-to-us-supreme-court-over-mail-in-voting?traffic_source=rss)
-
----
-
-### 9. Why is Argentina reviving the Falklands dispute?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-More than 44 years after Britain and Argentina went to war over the Falkland Islands, Argentina is reasserting its claim
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/6/why-is-argentina-reviving-the-falklands-dispute?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/6/why-is-argentina-reviving-the-falklands-dispute?traffic_source=rss)
 
 ---
 

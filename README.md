@@ -1,90 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-06 04:37:31
+**Last Update:** 2026-09-06 09:09:52
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Cloud in a Bottle: making self-hosting accessible to everyone
+### 1. Vancouver strip club's Instagram taken down over sign featuring lake joke
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://cloudinabottle.org/blog/launch-post">https://cloudinabottle.org/blog/launch-post</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49582000">https://news.ycombinator.com/item?id=49582000</a></p>
-<p>Points: 42</p>
-<p># Comments: 16</p>
+<p>Article URL: <a href="https://www.vancouverisawesome.com/local-news/vancouver-strip-club-instagram-taken-down-sign-calls-out-trump-12725993">https://www.vancouverisawesome.com/local-news/vancouver-strip-club-instagram-taken-down-sign-calls-out-trump-12725993</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49583232">https://news.ycombinator.com/item?id=49583232</a></p>
+<p>Points: 62</p>
+<p># Comments: 28</p>
 
-🔗 **Read more:** [https://cloudinabottle.org/blog/launch-post](https://cloudinabottle.org/blog/launch-post)
+🔗 **Read more:** [https://www.vancouverisawesome.com/local-news/vancouver-strip-club-instagram-taken-down-sign-calls-out-trump-12725993](https://www.vancouverisawesome.com/local-news/vancouver-strip-club-instagram-taken-down-sign-calls-out-trump-12725993)
 
 ---
 
-### 2. OKF Agent Memory – Git-native persistent memory for AI coding agents
+### 2. AI, Tools and Transformation
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/okf-memory/okf-agent-memory">https://github.com/okf-memory/okf-agent-memory</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49581240">https://news.ycombinator.com/item?id=49581240</a></p>
-<p>Points: 25</p>
-<p># Comments: 11</p>
+<p>Article URL: <a href="https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation">https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49582656">https://news.ycombinator.com/item?id=49582656</a></p>
+<p>Points: 13</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://github.com/okf-memory/okf-agent-memory](https://github.com/okf-memory/okf-agent-memory)
+🔗 **Read more:** [https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation](https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation)
 
 ---
 
-### 3. The revolt of the reader
+### 3. GPT-6 Astra on robot arms
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/">https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49580939">https://news.ycombinator.com/item?id=49580939</a></p>
-<p>Points: 60</p>
-<p># Comments: 16</p>
+<p>Article URL: <a href="https://openai.robocurve.org/gpt-6-astra/">https://openai.robocurve.org/gpt-6-astra/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49582582">https://news.ycombinator.com/item?id=49582582</a></p>
+<p>Points: 119</p>
+<p># Comments: 74</p>
 
-🔗 **Read more:** [https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/](https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/)
+🔗 **Read more:** [https://openai.robocurve.org/gpt-6-astra/](https://openai.robocurve.org/gpt-6-astra/)
 
 ---
 
-### 4. US envoys meet Putin in Moscow for Ukraine talks
+### 4. US envoys set for Ukraine talks after meeting Putin in Russia
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Footage shows Vladimir Putin greeting Steve Witkoff and Jared Kushner, before saying the current situation "is not so easy".
+Steve Witkoff and Jared Kushner left Moscow having "discussed substantive plans for next steps" with Putin, according to the White House.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Disruption at Port of Dover as masked 'stop the boats' protesters block roads
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The government says it condemns "the behaviour in Dover" and the hours-long disruption it caused.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cy8znyzgkjjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cy8znyzgkjjo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Nigel Farage tells BBC he 'wasn't listening' during foreign donor talks filmed undercover
+### 5. Nigel Farage tells BBC he 'wasn't listening' during foreign donor talks filmed undercover
 
 **Source:** BBC
 
@@ -97,42 +84,55 @@ The Reform leader also told the BBC's Laura Kuenssberg that his family are "begg
 
 ---
 
-### 7. German company launches rocket as Europe enters satellite race
+### 6. TV presenter among 11 sentenced to death in Egypt drugs case
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-Isar Aerospace says its 28-metre-long Spectrum rocket blasted off into space from Andøya spaceport in Arctic Norway.
+Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/6/german-company-launches-rocket-as-europe-enters-satellite-race?traffic_source=rss](https://www.aljazeera.com/news/2026/9/6/german-company-launches-rocket-as-europe-enters-satellite-race?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. Iran war live: IRGC claims new attacks on US warships over naval blockade
+### 7. Flames burst from Qantas plane engine after New Zealand takeoff
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-IRGC says it fired ballistic missiles at US aircraft carrier and destroyer as standoff intensifies in Strait of Hormuz.
+A terrifying moment unfolded aboard a Qantas flight from Queenstown to Sydney when flames erupted from its left engine.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/9/6/iran-war-live-irgc-claims-new-attacks-on-us-warships-over-naval-blockade?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/9/6/iran-war-live-irgc-claims-new-attacks-on-us-warships-over-naval-blockade?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/6/flames-burst-from-qantas-plane-engine-after-new-zealand-takeoff?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/6/flames-burst-from-qantas-plane-engine-after-new-zealand-takeoff?traffic_source=rss)
 
 ---
 
-### 9. Fuel tanker blast in western Iran kills at least 10
+### 8. Yemeni forces claim strategic district amid intensified Houthi clashes
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-At least six other people were injured in the tanker blast on Iran&#039;s Hamedan-Sanandaj highway, officials say.
+More than 60 people, including civilians, killed as clashes between Yemeni forces and Houthis intensify in Taiz.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/5/fuel-tanker-blast-in-western-iran-kills-at-least-10?traffic_source=rss](https://www.aljazeera.com/news/2026/9/5/fuel-tanker-blast-in-western-iran-kills-at-least-10?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/6/yemeni-forces-claim-strategic-district-amid-intensified-houthi-clashes?traffic_source=rss](https://www.aljazeera.com/news/2026/9/6/yemeni-forces-claim-strategic-district-amid-intensified-houthi-clashes?traffic_source=rss)
+
+---
+
+### 9. Israeli Prime Minister Netanyahu says ‘Qatar is a hostile state’
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Israeli PM Benjamin Netanyahu has dismissed accusations about his government’s alleged ties to Qatar as ‘one big bluff’
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/6/israeli-prime-minister-netanyahu-says-qatar-is-a-hostile?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/6/israeli-prime-minister-netanyahu-says-qatar-is-a-hostile?traffic_source=rss)
 
 ---
 

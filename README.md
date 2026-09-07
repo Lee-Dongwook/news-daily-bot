@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-07 15:27:14
+**Last Update:** 2026-09-07 16:19:18
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Apparently CodePen 2.0 sends data to their servers as you type
+### 1. Smartphone makers don't bother to comply with EU repairability requirements
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532">https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49597189">https://news.ycombinator.com/item?id=49597189</a></p>
+<p>Points: 58</p>
+<p># Comments: 12</p>
+
+🔗 **Read more:** [https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532](https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532)
+
+---
+
+### 2. Apparently CodePen 2.0 sends data to their servers as you type
 
 **Source:** Hacker News
 
@@ -20,42 +36,26 @@
 <p>They send all typed into editor input to codepen.dev almost immediately (you would see in 1-2 sec after you typed your secret that it appears in respective Network/Response tab) even before one saved it. I tested this with a unique marker: after typing it into index.html, CodePen ran a build with "save:false", and the marker then appeared verbatim in the HTML served from the generated "*.codepen.dev preview". Thus, if you ever entered some secrets in there by mistake consider them compromized even if you did not publish/save the pen</p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49596976">https://news.ycombinator.com/item?id=49596976</a></p>
-<p>Points: 14</p>
-<p># Comments: 0</p>
+<p>Points: 34</p>
+<p># Comments: 13</p>
 
 🔗 **Read more:** [https://news.ycombinator.com/item?id=49596976](https://news.ycombinator.com/item?id=49596976)
 
 ---
 
-### 2. Impedance Matching (2017)
+### 3. VMware migration reduces Tottenham Hotspur's licensing fees by 85 percent
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.edge.org/response-detail/27238">https://www.edge.org/response-detail/27238</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49596274">https://news.ycombinator.com/item?id=49596274</a></p>
-<p>Points: 19</p>
-<p># Comments: 5</p>
+<p>Article URL: <a href="https://arstechnica.com/information-technology/2026/09/vmware-migration-reduces-tottenham-hotspurs-licensing-fees-by-85-percent/">https://arstechnica.com/information-technology/2026/09/vmware-migration-reduces-tottenham-hotspurs-licensing-fees-by-85-percent/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49596797">https://news.ycombinator.com/item?id=49596797</a></p>
+<p>Points: 13</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://www.edge.org/response-detail/27238](https://www.edge.org/response-detail/27238)
-
----
-
-### 3. 25 years ago, two strangers met in the twin towers and escaped on 9/11
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.theguardian.com/us-news/2026/sep/07/strangers-twin-towers-escape-september-11">https://www.theguardian.com/us-news/2026/sep/07/strangers-twin-towers-escape-september-11</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49596221">https://news.ycombinator.com/item?id=49596221</a></p>
-<p>Points: 9</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://www.theguardian.com/us-news/2026/sep/07/strangers-twin-towers-escape-september-11](https://www.theguardian.com/us-news/2026/sep/07/strangers-twin-towers-escape-september-11)
+🔗 **Read more:** [https://arstechnica.com/information-technology/2026/09/vmware-migration-reduces-tottenham-hotspurs-licensing-fees-by-85-percent/](https://arstechnica.com/information-technology/2026/09/vmware-migration-reduces-tottenham-hotspurs-licensing-fees-by-85-percent/)
 
 ---
 
@@ -98,42 +98,42 @@ Police say they have arrested two men and two women as part of their investigati
 
 ---
 
-### 7. Can Iran enforce a restricted zone in the Strait of Hormuz?
+### 7. Moment Amazon plane crash lands in Miami
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Iran unveils plans for a restricted zone, but will Tehran be able to enforce it amid escalating tensions with the US?
+Moment Amazon plane crash lands in Miami
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/7/can-iran-enforce-a-restricted-zone-in-the-strait-of-hormuz?traffic_source=rss](https://www.aljazeera.com/news/2026/9/7/can-iran-enforce-a-restricted-zone-in-the-strait-of-hormuz?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/7/moment-amazon-plane-crash-lands-in-miami?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/7/moment-amazon-plane-crash-lands-in-miami?traffic_source=rss)
 
 ---
 
-### 8. Champions League: Five key talking points for the 2026-27 season
+### 8. Could Trump’s Iran trade war threaten Spain’s saffron-infused paella?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Arsenal and Bayern lead the challengers to PSG, Mourinho aims for glory with Real and Italian minnows Como make debut.
+US threats to punish Iran’s trade partners could disrupt Spain’s saffron supply, pressuring paella chefs and exporters.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/7/champions-league-five-key-talking-points-for-the-2026-27-season?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/7/champions-league-five-key-talking-points-for-the-2026-27-season?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/7/could-trumps-iran-trade-war-threaten-spains-saffron-infused-paella?traffic_source=rss](https://www.aljazeera.com/news/2026/9/7/could-trumps-iran-trade-war-threaten-spains-saffron-infused-paella?traffic_source=rss)
 
 ---
 
-### 9. Iran and Ukraine wars: Why ship fuel is running short, and why it matters
+### 9. Balogun red card U-turn prompts Belgium to withdraw support for Infantino
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-There&#039;s less crude in the market, and refiners prefer to produce diesel. The result: Ships are running short of fuel.
+Belgian football association says it will not back Infantino&#039;s bid for re-election, citing the World Cup controversy.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/7/iran-and-ukraine-wars-why-ship-fuel-is-running-short-and-why-it-matters?traffic_source=rss](https://www.aljazeera.com/news/2026/9/7/iran-and-ukraine-wars-why-ship-fuel-is-running-short-and-why-it-matters?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/7/balogun-red-card-u-turn-prompts-belgium-to-withdraw-support-for-infantino?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/7/balogun-red-card-u-turn-prompts-belgium-to-withdraw-support-for-infantino?traffic_source=rss)
 
 ---
 

@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-08 00:47:37
+**Last Update:** 2026-09-08 01:07:27
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
@@ -19,7 +19,7 @@
 **Description:**
 <p>Article URL: <a href="https://porticoquarterly.com/essay/macbeth-and-his-problems/">https://porticoquarterly.com/essay/macbeth-and-his-problems/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49602716">https://news.ycombinator.com/item?id=49602716</a></p>
-<p>Points: 6</p>
+<p>Points: 11</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://porticoquarterly.com/essay/macbeth-and-his-problems/](https://porticoquarterly.com/essay/macbeth-and-his-problems/)
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://electrek.co/2026/09/07/tesla-driver-assist-stop-sign-buena-vista/">https://electrek.co/2026/09/07/tesla-driver-assist-stop-sign-buena-vista/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49602582">https://news.ycombinator.com/item?id=49602582</a></p>
-<p>Points: 15</p>
-<p># Comments: 1</p>
+<p>Points: 30</p>
+<p># Comments: 3</p>
 
 🔗 **Read more:** [https://electrek.co/2026/09/07/tesla-driver-assist-stop-sign-buena-vista/](https://electrek.co/2026/09/07/tesla-driver-assist-stop-sign-buena-vista/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://cedarnews.net/newstasks/970710/germany-power-grid-sabotage-launch-devices-found/">https://cedarnews.net/newstasks/970710/germany-power-grid-sabotage-launch-devices-found/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49602320">https://news.ycombinator.com/item?id=49602320</a></p>
-<p>Points: 14</p>
-<p># Comments: 3</p>
+<p>Points: 16</p>
+<p># Comments: 7</p>
 
 🔗 **Read more:** [https://cedarnews.net/newstasks/970710/germany-power-grid-sabotage-launch-devices-found/](https://cedarnews.net/newstasks/970710/germany-power-grid-sabotage-launch-devices-found/)
 
@@ -84,16 +84,16 @@ UK correspondent Daniel Sandford looks at the link between small boat protests i
 
 ---
 
-### 6. Jaguar Land Rover to cut 4,000 jobs over next two years
+### 6. King makes clear Harry and Meghan remain non-working royals
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The cuts come as the carmaker struggles with Chinese competition, US tariffs, and the transition to electric vehicles.
+The letter has been sent to Prince Harry's team, the government, military and Lord Lieutenants, Palace sources say.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c36lx560jjko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c36lx560jjko?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c20lpevv7jlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c20lpevv7jlo?at_medium=RSS&at_campaign=rss)
 
 ---
 

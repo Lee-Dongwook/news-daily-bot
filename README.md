@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-07 21:11:34
+**Last Update:** 2026-09-07 21:47:40
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Tell HN: OpenAI brings back 5 hour limit for plus and business standard users
+### 1. PostgreSQL 19 Interactive Tour
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://victoriametrics.com/blog/postgres-19/index.html">https://victoriametrics.com/blog/postgres-19/index.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49600432">https://news.ycombinator.com/item?id=49600432</a></p>
+<p>Points: 20</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://victoriametrics.com/blog/postgres-19/index.html](https://victoriametrics.com/blog/postgres-19/index.html)
+
+---
+
+### 2. Tell HN: OpenAI brings back 5 hour limit for plus and business standard users
 
 **Source:** Hacker News
 
@@ -20,26 +36,10 @@
 <p>In case you're wondering why the limits behave so very different from last week. Also: this makes limit resets kind woth significantly less.</p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49600233">https://news.ycombinator.com/item?id=49600233</a></p>
-<p>Points: 29</p>
-<p># Comments: 13</p>
+<p>Points: 77</p>
+<p># Comments: 50</p>
 
 🔗 **Read more:** [https://news.ycombinator.com/item?id=49600233](https://news.ycombinator.com/item?id=49600233)
-
----
-
-### 2. Nördlinger Ries Impact Crater
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://en.wikipedia.org/wiki/Nördlinger_Ries">https://en.wikipedia.org/wiki/Nördlinger_Ries</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49599767">https://news.ycombinator.com/item?id=49599767</a></p>
-<p>Points: 9</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://en.wikipedia.org/wiki/Nördlinger_Ries](https://en.wikipedia.org/wiki/Nördlinger_Ries)
 
 ---
 
@@ -52,8 +52,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.thurrott.com/forums/microsoft/windows/thread/bing-wallpaper-showing-ad-for-harry-potter-and-fantastic-beasts-box-set">https://www.thurrott.com/forums/microsoft/windows/thread/bing-wallpaper-showing-ad-for-harry-potter-and-fantastic-beasts-box-set</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49599719">https://news.ycombinator.com/item?id=49599719</a></p>
-<p>Points: 56</p>
-<p># Comments: 27</p>
+<p>Points: 70</p>
+<p># Comments: 39</p>
 
 🔗 **Read more:** [https://www.thurrott.com/forums/microsoft/windows/thread/bing-wallpaper-showing-ad-for-harry-potter-and-fantastic-beasts-box-set](https://www.thurrott.com/forums/microsoft/windows/thread/bing-wallpaper-showing-ad-for-harry-potter-and-fantastic-beasts-box-set)
 
@@ -98,42 +98,42 @@ The letter has been sent to Prince Harry's team, the government, military and Lo
 
 ---
 
-### 7. Nauru opens embassy in Jerusalem
+### 7. Thousands attend funeral of war criminal Ratko Mladic in Serbia
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Pacific island nation Nauru has opened its embassy in Jerusalem, becoming the ninth country to do so.
+Thousands attend funeral of war criminal Ratko Mladic in Serbia
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/7/nauru-opens-embassy-in-jerusalem?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/7/nauru-opens-embassy-in-jerusalem?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/7/thousands-attend-funeral-of-war-criminal-ratko-mladic-in-serbia?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/7/thousands-attend-funeral-of-war-criminal-ratko-mladic-in-serbia?traffic_source=rss)
 
 ---
 
-### 8. Bolivian military base blast leaves seven dead, seven missing
+### 8. Board of Peace touts progress as Palestinians’ situation worsens
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-President Rodrigo Paz declares national mourning, urges unity after deadly military base explosions near La Paz.
+Humanitarian official Athena Rayburn dissects the Israeli tactics making life ‘untenable’ for millions of Palestinians.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/7/bolivian-military-base-blast-leaves-seven-dead-seven-missing?traffic_source=rss](https://www.aljazeera.com/news/2026/9/7/bolivian-military-base-blast-leaves-seven-dead-seven-missing?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/the-bottom-line/2026/9/7/board-of-peace-touts-progress-as-palestinians-situation-worsens?traffic_source=rss](https://www.aljazeera.com/video/the-bottom-line/2026/9/7/board-of-peace-touts-progress-as-palestinians-situation-worsens?traffic_source=rss)
 
 ---
 
-### 9. Gaza: Genocide in Real Time?
+### 9. Egyptian wrestlers keep vanishing abroad amid a sport in crisis
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-B&#039;Tselem Executive Directo
+Two wrestlers have become the latest to flee while abroad, drawing a wave of sympathy as well as legal threats.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/aljazeerauntangles/2026/9/7/gaza-genocide-in-real-time?traffic_source=rss](https://www.aljazeera.com/video/aljazeerauntangles/2026/9/7/gaza-genocide-in-real-time?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/7/egypts-vanishing-wrestlers-and-a-sport-in-crisis?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/7/egypts-vanishing-wrestlers-and-a-sport-in-crisis?traffic_source=rss)
 
 ---
 

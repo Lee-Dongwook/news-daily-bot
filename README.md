@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-07 09:19:39
+**Last Update:** 2026-09-07 09:45:17
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
@@ -19,14 +19,30 @@
 **Description:**
 <p>Article URL: <a href="https://www.businessinsider.com/nvidia-jensen-huang-agi-openai-astra-ai-2026-9">https://www.businessinsider.com/nvidia-jensen-huang-agi-openai-astra-ai-2026-9</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49594189">https://news.ycombinator.com/item?id=49594189</a></p>
-<p>Points: 7</p>
-<p># Comments: 4</p>
+<p>Points: 12</p>
+<p># Comments: 10</p>
 
 🔗 **Read more:** [https://www.businessinsider.com/nvidia-jensen-huang-agi-openai-astra-ai-2026-9](https://www.businessinsider.com/nvidia-jensen-huang-agi-openai-astra-ai-2026-9)
 
 ---
 
-### 2. Keep Our Servers Running: Your Recurring Donation Goes 3X This September
+### 2. I refused to train the AI that could replace me
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://restofworld.org/2026/ai-training-jobs-expert-replacement/">https://restofworld.org/2026/ai-training-jobs-expert-replacement/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49593959">https://news.ycombinator.com/item?id=49593959</a></p>
+<p>Points: 11</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://restofworld.org/2026/ai-training-jobs-expert-replacement/](https://restofworld.org/2026/ai-training-jobs-expert-replacement/)
+
+---
+
+### 3. Keep Our Servers Running
 
 **Source:** Hacker News
 
@@ -35,39 +51,23 @@
 **Description:**
 <p>Article URL: <a href="https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/">https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49593563">https://news.ycombinator.com/item?id=49593563</a></p>
-<p>Points: 146</p>
-<p># Comments: 33</p>
+<p>Points: 170</p>
+<p># Comments: 40</p>
 
 🔗 **Read more:** [https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/](https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/)
 
 ---
 
-### 3. Has anybody seen my keys? A key-hierarchy strategy for rack-level security
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://rfd.shared.oxide.computer/rfd/0301">https://rfd.shared.oxide.computer/rfd/0301</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49593066">https://news.ycombinator.com/item?id=49593066</a></p>
-<p>Points: 7</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://rfd.shared.oxide.computer/rfd/0301](https://rfd.shared.oxide.computer/rfd/0301)
-
----
-
-### 4. Protesters block roads in Portsmouth after 140 migrants rescued
+### 4. Watch: Anti-migrant protesters block roads in Portsmouth
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The government condemns "thuggish behaviour" in the second major anti-migrant protest of the weekend.
+The government condemned "the intimidating and thuggish behaviour" of the demonstrators.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/clyegwl9vzqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/clyegwl9vzqo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cje8lwzjz5lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cje8lwzjz5lo?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,7 +97,20 @@ Alternative for Germany hails a "historic" success as preliminary results show a
 
 ---
 
-### 7. Ten killed and dozens injured in Mexico fireworks blast
+### 7. Six children among 11 people killed in Indonesian market fire
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+A massive fire at a market in the Indonesia village of Babuda has claimed the lives of eleven people.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/7/aje-onl-nf_11-dead-in-massive-indonesia-market-fire-070926?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/7/aje-onl-nf_11-dead-in-massive-indonesia-market-fire-070926?traffic_source=rss)
+
+---
+
+### 8. Ten killed and dozens injured in Mexico fireworks blast
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Ten people were killed after a fireworks display detonated during a religious fe
 
 ---
 
-### 8. Anti-immigration protesters clash with police in UK after boat arrival
+### 9. Anti-immigration protesters clash with police in UK after boat arrival
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Ten people were killed after a fireworks display detonated during a religious fe
 Anti-immigration protesters clashed with police in Portsmouth after around 140 people arrived in UK aboard a small boat.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/7/anti-immigration-protesters-clash-with-police-in-uk-after-boat-arrival?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/7/anti-immigration-protesters-clash-with-police-in-uk-after-boat-arrival?traffic_source=rss)
-
----
-
-### 9. Armed assailant attacks Ohio Democratic candidate during campaign stop
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Patrick Havas, 38, arrested with weapons after injuring several at Ohio Democrat Amy Acton’s campaign stop.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/7/armed-assailant-attacks-ohio-democratic-candidate-during-campaign-stop?traffic_source=rss](https://www.aljazeera.com/news/2026/9/7/armed-assailant-attacks-ohio-democratic-candidate-during-campaign-stop?traffic_source=rss)
 
 ---
 

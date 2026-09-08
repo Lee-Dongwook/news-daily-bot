@@ -1,64 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-08 20:15:12
+**Last Update:** 2026-09-08 22:02:43
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Young Americans have never witnessed a functioning foreign policy
+### 1. On the Navier–Stokes Millennium Prize Problem
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.ft.com/content/2e97fb28-24cf-4ab0-89b1-454b4f97cdbc">https://www.ft.com/content/2e97fb28-24cf-4ab0-89b1-454b4f97cdbc</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49612430">https://news.ycombinator.com/item?id=49612430</a></p>
-<p>Points: 22</p>
+<p>Article URL: <a href="https://openai.com/index/navier-stokes-solution/">https://openai.com/index/navier-stokes-solution/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49613262">https://news.ycombinator.com/item?id=49613262</a></p>
+<p>Points: 374</p>
+<p># Comments: 247</p>
+
+🔗 **Read more:** [https://openai.com/index/navier-stokes-solution/](https://openai.com/index/navier-stokes-solution/)
+
+---
+
+### 2. OUI-1: world's first model for Generative UI
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.openui.com/blog/oui-1">https://www.openui.com/blog/oui-1</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49613182">https://news.ycombinator.com/item?id=49613182</a></p>
+<p>Points: 23</p>
+<p># Comments: 19</p>
+
+🔗 **Read more:** [https://www.openui.com/blog/oui-1](https://www.openui.com/blog/oui-1)
+
+---
+
+### 3. Show HN: LLM Attention Visualization
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://ishamf.dev/p/llm-attention-visualizer/">https://ishamf.dev/p/llm-attention-visualizer/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49613068">https://news.ycombinator.com/item?id=49613068</a></p>
+<p>Points: 26</p>
 <p># Comments: 3</p>
 
-🔗 **Read more:** [https://www.ft.com/content/2e97fb28-24cf-4ab0-89b1-454b4f97cdbc](https://www.ft.com/content/2e97fb28-24cf-4ab0-89b1-454b4f97cdbc)
+🔗 **Read more:** [https://ishamf.dev/p/llm-attention-visualizer/](https://ishamf.dev/p/llm-attention-visualizer/)
 
 ---
 
-### 2. LG TVs caught spying even when offline or on standby
+### 4. UK announces sanctions on West Bank settlements prompting furious Israeli response
 
-**Source:** Hacker News
+**Source:** BBC
 
-**Category:** technology
+**Category:** world
 
 **Description:**
-<p>Article URL: <a href="https://www.theverge.com/tech/991190/lg-tv-spying-standby-recording-wi-fi-scanning-gamers-nexus">https://www.theverge.com/tech/991190/lg-tv-spying-standby-recording-wi-fi-scanning-gamers-nexus</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49612329">https://news.ycombinator.com/item?id=49612329</a></p>
-<p>Points: 35</p>
-<p># Comments: 2</p>
+Britain's foreign secretary accuses settlers of carrying out the "ethnic cleansing" of Palestinians, as Israel responds by shutting the UK consulate in East Jerusalem.
 
-🔗 **Read more:** [https://www.theverge.com/tech/991190/lg-tv-spying-standby-recording-wi-fi-scanning-gamers-nexus](https://www.theverge.com/tech/991190/lg-tv-spying-standby-recording-wi-fi-scanning-gamers-nexus)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 3. Why I'm Not Excited About the Graphene OS and Motorola Partnership
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://podcast.switchedtolinux.com/@tehankorage/episodes/why-im-not-excited-about-the-graphene-os-and-motorola-partnership">https://podcast.switchedtolinux.com/@tehankorage/episodes/why-im-not-excited-about-the-graphene-os-and-motorola-partnership</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49612327">https://news.ycombinator.com/item?id=49612327</a></p>
-<p>Points: 13</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://podcast.switchedtolinux.com/@tehankorage/episodes/why-im-not-excited-about-the-graphene-os-and-motorola-partnership](https://podcast.switchedtolinux.com/@tehankorage/episodes/why-im-not-excited-about-the-graphene-os-and-motorola-partnership)
-
----
-
-### 4. Ports denied request to land 120 migrants in RNLI boats
+### 5. Ports denied request to land 120 migrants in RNLI boats
 
 **Source:** BBC
 
@@ -71,68 +84,55 @@ The King's Harbour Master and Southampton Port both declined to allow migrants a
 
 ---
 
-### 5. Harry and Meghan 'surprised' by King's letter making clear they remain non-working royals
+### 6. Trump shares misleading video of King and fainting worker
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-A spokesman says they were not told in advance about the letter sent on behalf of the king, although palace sources deny this.
+The president shares a misleading video which appears to show Charles shrugging and walking away from a man who fainted during a royal visit.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cp30kv53qvdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cp30kv53qvdo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Renoir paintings worth millions stolen in French museum heist
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-It is the latest in a string of high-profile art thefts in Europe that has again put the security of museums and galleries in the spotlight.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c70drp0pyw2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c70drp0pyw2o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2z9n8ew49o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2z9n8ew49o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Israeli strikes transform Lebanese city into ghost town
+### 7. Qatar responds to Netanyahu’s ‘hostile state’ remark
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Nabatieh, once southern Lebanon’s economic centre, is now a ghost town as Israel intensifies attacks.
+Qatar has responded to Benjamin Netanyahu’s claims that it’s a &#039;hostile state&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/8/israeli-strikes-transform-lebanese-city-into-ghost-town?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/8/israeli-strikes-transform-lebanese-city-into-ghost-town?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/8/qatar-responds-to-netanyahus-hostile-state-remark?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/8/qatar-responds-to-netanyahus-hostile-state-remark?traffic_source=rss)
 
 ---
 
-### 8. UK sanctions on Israeli settlements a ‘seismic’ shift says Albanese
+### 8. Women and children remain trapped in Syria’s Roj camp
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-UN expert Francesca Albanese calls UK sanctions on Israeli settlements a ‘seismic shift’ after years of UK ‘complicity’.
+Women and children remain trapped in Syria’s Roj camp
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/8/09-08-israel-sanctions-albanese-qt-mp4?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/8/09-08-israel-sanctions-albanese-qt-mp4?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/8/women-and-children-remain-trapped-in-syrias-roj-camp?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/8/women-and-children-remain-trapped-in-syrias-roj-camp?traffic_source=rss)
 
 ---
 
-### 9. Israeli academia accused of systemic apartheid against Palestinians
+### 9. Renoir paintings worth $10.5 million missing after museum heist
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A legal report exposes how Israeli universities use a dual-track disciplinary system to target Palestinian students.
+A pre-dawn break-in at the Renoir Museum in southern France saw thieves seize four paintings
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/8/israeli-academia-accused-of-systemic-apartheid-against-palestinians?traffic_source=rss](https://www.aljazeera.com/news/2026/9/8/israeli-academia-accused-of-systemic-apartheid-against-palestinians?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/8/renoir-paintings-worth-10-5-million-missing-after-museum-heist?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/8/renoir-paintings-worth-10-5-million-missing-after-museum-heist?traffic_source=rss)
 
 ---
 

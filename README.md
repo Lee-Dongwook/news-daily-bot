@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-08 23:28:52
+**Last Update:** 2026-09-09 01:11:06
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Muse: Meta's personal AI agent, features and capabilities
+### 1. Mercury 2.5
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://ai.meta.com/muse/">https://ai.meta.com/muse/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49615537">https://news.ycombinator.com/item?id=49615537</a></p>
-<p>Points: 74</p>
-<p># Comments: 52</p>
+<p>Article URL: <a href="https://www.inceptionlabs.ai/blog/introducing-mercury-2-5">https://www.inceptionlabs.ai/blog/introducing-mercury-2-5</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49616354">https://news.ycombinator.com/item?id=49616354</a></p>
+<p>Points: 53</p>
+<p># Comments: 7</p>
 
-🔗 **Read more:** [https://ai.meta.com/muse/](https://ai.meta.com/muse/)
+🔗 **Read more:** [https://www.inceptionlabs.ai/blog/introducing-mercury-2-5](https://www.inceptionlabs.ai/blog/introducing-mercury-2-5)
 
 ---
 
-### 2. Function Arguments Are Not Function Colors
+### 2. Animation in Bevy: The Big Picture
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://jerf.org/iri/post/2026/func_args_are_not_colors/">https://jerf.org/iri/post/2026/func_args_are_not_colors/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49615139">https://news.ycombinator.com/item?id=49615139</a></p>
-<p>Points: 7</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://glocq.com/en/blog/20260827/">https://glocq.com/en/blog/20260827/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49616272">https://news.ycombinator.com/item?id=49616272</a></p>
+<p>Points: 14</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://jerf.org/iri/post/2026/func_args_are_not_colors/](https://jerf.org/iri/post/2026/func_args_are_not_colors/)
+🔗 **Read more:** [https://glocq.com/en/blog/20260827/](https://glocq.com/en/blog/20260827/)
 
 ---
 
-### 3. ChatGPT Images 2.5
+### 3. Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://openai.com/index/introducing-chatgpt-images-2-5/">https://openai.com/index/introducing-chatgpt-images-2-5/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49614720">https://news.ycombinator.com/item?id=49614720</a></p>
-<p>Points: 177</p>
-<p># Comments: 217</p>
+<p>Article URL: <a href="https://github.com/argonautlabsai/deltafin">https://github.com/argonautlabsai/deltafin</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49616257">https://news.ycombinator.com/item?id=49616257</a></p>
+<p>Points: 104</p>
+<p># Comments: 41</p>
 
-🔗 **Read more:** [https://openai.com/index/introducing-chatgpt-images-2-5/](https://openai.com/index/introducing-chatgpt-images-2-5/)
+🔗 **Read more:** [https://github.com/argonautlabsai/deltafin](https://github.com/argonautlabsai/deltafin)
 
 ---
 
@@ -71,68 +71,68 @@ Britain's foreign secretary accuses settlers of carrying out the "ethnic cleansi
 
 ---
 
-### 5. Ports denied request to land 120 migrants in RNLI boats
+### 5. Paul Adams: British-Israeli relations at lowest ebb in decades
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The King's Harbour Master and Southampton Port both declined to allow migrants ashore on Sunday.
+Israel's response to London's trade ban with Israeli settlements in the occupied West Bank shows how important this moment is.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm27v3743mno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm27v3743mno?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Trump shares misleading video of King and fainting worker
+### 6. RNLI boss says volunteers facing 'unacceptable' abuse
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The president shares a misleading video which appears to show Charles shrugging and walking away from a man who fainted during a royal visit.
+Peter Sparkes says there has been "deliberate misinformation" spread about the charity.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2z9n8ew49o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2z9n8ew49o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c0j3912qe33o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c0j3912qe33o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Spanish FA launches fertility support for female players and referees
+### 7. US warns Ford over ties with Chinese firms amid tensions
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Spain FA offers fertility support to female players and referees, including costs for internationals called up twice.
+US officials criticise Ford’s partnerships with Chinese firms CATL, Geely, and BYD over security risks.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/8/spanish-fa-launches-fertility-support-for-female-players-and-referees?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/8/spanish-fa-launches-fertility-support-for-female-players-and-referees?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/8/us-warns-ford-over-ties-with-chinese-firms-amid-tensions?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/8/us-warns-ford-over-ties-with-chinese-firms-amid-tensions?traffic_source=rss)
 
 ---
 
-### 8. Sabalenka holds off Noskova to keep US Open three-peat bid alive
+### 8. Real Madrid beat Inter Milan as Mbappe goal sets Mourinho’s men on way
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Aryna Sabalenka edges Linda Noskova to keep alive hopes of a third straight US Open title.
+Kylian Mbappe opens the scoring but Real Madrid fail to convince in 2-1 Champions League win against Inter Milan.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/8/sabalenka-holds-off-noskova-to-keep-us-open-three-peat-bid-alive?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/8/sabalenka-holds-off-noskova-to-keep-us-open-three-peat-bid-alive?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/8/real-madrid-beat-inter-milan-as-mbappe-goal-sets-mourinhos-men-on-way?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/8/real-madrid-beat-inter-milan-as-mbappe-goal-sets-mourinhos-men-on-way?traffic_source=rss)
 
 ---
 
-### 9. Philippine defence chief calls out China over note handed to him mid-panel
+### 9. Hundreds of flights delayed, cancelled after UK air traffic control glitch
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Philippine Defence Secretary accused China of coercion, bullying and aggression after being handed a note mid-panel.
+Air traffic control provider NATS under scrutiny after technical fault disrupts UK air traffic.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/8/09-08-philippine-defence-min-denounces-china-clip?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/8/09-08-philippine-defence-min-denounces-china-clip?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/8/hundreds-of-flights-delayed-cancelled-after-uk-air-traffic-control-glitch?traffic_source=rss](https://www.aljazeera.com/news/2026/9/8/hundreds-of-flights-delayed-cancelled-after-uk-air-traffic-control-glitch?traffic_source=rss)
 
 ---
 

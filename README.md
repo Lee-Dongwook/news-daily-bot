@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-08 09:12:50
+**Last Update:** 2026-09-08 09:34:38
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
@@ -19,14 +19,30 @@
 **Description:**
 <p>Article URL: <a href="https://www.pm.gov.au/media/my-feed-my-way">https://www.pm.gov.au/media/my-feed-my-way</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49605782">https://news.ycombinator.com/item?id=49605782</a></p>
-<p>Points: 16</p>
-<p># Comments: 5</p>
+<p>Points: 25</p>
+<p># Comments: 9</p>
 
 🔗 **Read more:** [https://www.pm.gov.au/media/my-feed-my-way](https://www.pm.gov.au/media/my-feed-my-way)
 
 ---
 
-### 2. We have a year to fix security everywhere
+### 2. Mistral raises €3B to make sovereign, open-weight AI the technology frontier
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/">https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49605767">https://news.ycombinator.com/item?id=49605767</a></p>
+<p>Points: 9</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/](https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/)
+
+---
+
+### 3. We have a year to fix security everywhere
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://jyn.dev/a-year-to-fix-security/">https://jyn.dev/a-year-to-fix-security/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49605691">https://news.ycombinator.com/item?id=49605691</a></p>
-<p>Points: 47</p>
-<p># Comments: 19</p>
+<p>Points: 68</p>
+<p># Comments: 28</p>
 
 🔗 **Read more:** [https://jyn.dev/a-year-to-fix-security/](https://jyn.dev/a-year-to-fix-security/)
-
----
-
-### 3. The VMs Powering Mobile Agents (Instinct, Claude Code)
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://rohanadwankar.github.io/posts/platforms.html">https://rohanadwankar.github.io/posts/platforms.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49605644">https://news.ycombinator.com/item?id=49605644</a></p>
-<p>Points: 8</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://rohanadwankar.github.io/posts/platforms.html](https://rohanadwankar.github.io/posts/platforms.html)
 
 ---
 
@@ -97,7 +97,20 @@ Sarah Jones told MPs the violence sparked by the arrival of 120 migrants in a si
 
 ---
 
-### 7. Forest fires force evacuations near resorts in Antalya
+### 7. Palestine weekly: Israeli ministers push for depopulation of Gaza
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Ethnic cleansing plans move from slogans to policy proposals, amid West Bank demolitions and mounting deaths in Gaza.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/8/palestine-weekly-israeli-ministers-push-for-depopulation-of-gaza?traffic_source=rss](https://www.aljazeera.com/news/2026/9/8/palestine-weekly-israeli-ministers-push-for-depopulation-of-gaza?traffic_source=rss)
+
+---
+
+### 8. Forest fires force evacuations near resorts in Antalya
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Massive forest fires have broken out in Turkiye’s popular tourist province of 
 
 ---
 
-### 8. Mladic’s funeral: Were no lessons learned?
+### 9. Mladic’s funeral: Were no lessons learned?
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Massive forest fires have broken out in Turkiye’s popular tourist province of 
 Thirty years of international justice has taught political leaders little.
 
 🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/9/8/burying-mladic-were-no-lessons-learned?traffic_source=rss](https://www.aljazeera.com/opinions/2026/9/8/burying-mladic-were-no-lessons-learned?traffic_source=rss)
-
----
-
-### 9. Polls suggest tight presidential race as Brazil marks Independence Day
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Brazil has marked Independence Day with the two main candidates for October’s presidential election holding events.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/8/polls-suggest-tight-presidential-race-as-brazil-marks-independence-day?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/8/polls-suggest-tight-presidential-race-as-brazil-marks-independence-day?traffic_source=rss)
 
 ---
 

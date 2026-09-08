@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-09 02:17:38
+**Last Update:** 2026-09-09 03:25:36
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Large Language Models Develop Novel Social Biases Through Adaptive Exploration
+### 1. A Topological Picture Book, Rendered
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://e-infinity.space/picture-book/">https://e-infinity.space/picture-book/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49618050">https://news.ycombinator.com/item?id=49618050</a></p>
+<p>Points: 19</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://e-infinity.space/picture-book/](https://e-infinity.space/picture-book/)
+
+---
+
+### 2. Large language models develop novel social biases through adaptive exploration
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH">https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49617581">https://news.ycombinator.com/item?id=49617581</a></p>
-<p>Points: 26</p>
-<p># Comments: 5</p>
+<p>Points: 61</p>
+<p># Comments: 28</p>
 
 🔗 **Read more:** [https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH](https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH)
 
 ---
 
-### 2. How to Build a Printer
+### 3. How to build a printer
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/">https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49617255">https://news.ycombinator.com/item?id=49617255</a></p>
-<p>Points: 12</p>
-<p># Comments: 1</p>
+<p>Points: 71</p>
+<p># Comments: 9</p>
 
 🔗 **Read more:** [https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/](https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/)
-
----
-
-### 3. Tao: Open math problems being non-renewably mined by AI
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://mathstodon.xyz/@tao/117237320796901560">https://mathstodon.xyz/@tao/117237320796901560</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49616968">https://news.ycombinator.com/item?id=49616968</a></p>
-<p>Points: 7</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://mathstodon.xyz/@tao/117237320796901560](https://mathstodon.xyz/@tao/117237320796901560)
 
 ---
 
@@ -97,42 +97,42 @@ Departures from a number of airports are affected by a technical problem affecti
 
 ---
 
-### 7. Protesters, police clash in Albania over Trump-linked project
+### 7. Mamdani releases records on toxic air in New York after 9/11 attacks
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Albanians have protested for over 100 days against a planned luxury hotel linked to Jared Kushner and Ivanka Trump.
+The New York City mayor said the document release shows victims were &#039;lied to&#039; about health impacts from the attacks.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/8/protesters-police-clash-in-albania-over-trump-linked-project?traffic_source=rss](https://www.aljazeera.com/news/2026/9/8/protesters-police-clash-in-albania-over-trump-linked-project?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/8/mamdani-releases-records-on-toxic-air-in-new-york-after-9-11?traffic_source=rss](https://www.aljazeera.com/news/2026/9/8/mamdani-releases-records-on-toxic-air-in-new-york-after-9-11?traffic_source=rss)
 
 ---
 
-### 8. Haaland to the double as Manchester City beat Porto in Champions League
+### 8. The Map Was Lying To You: Why the UN Just Changed How We See Africa
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ayyoub Bouaddi debuts for Manchester City, but Erling Haaland stars in a 2-0 win in Porto.
+For 450 years, the world&#039;s most-used map has made Africa look smaller than it really is.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/8/haaland-to-the-double-as-manchester-city-beat-porto-in-champions-league?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/8/haaland-to-the-double-as-manchester-city-beat-porto-in-champions-league?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/8/the-map-was-lying-to-you-why-the-un-just-changed-how-we-see-africa?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/8/the-map-was-lying-to-you-why-the-un-just-changed-how-we-see-africa?traffic_source=rss)
 
 ---
 
-### 9. What the UK ban on goods from illegal Israeli settlements really means
+### 9. Napoli vs Arsenal: Champions League – prediction, teams, lineups
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israel has announced that it’s shutting down the UK Consulate in occupied East Jerusalem after a new ban on its goods.
+Napoli has issues in midfield for its Champions League opener against Arsenal, but hope to recover Serie A winning form.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/8/what-the-uk-ban-on-goods-from-illegal-israeli-settlements-really-means?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/8/what-the-uk-ban-on-goods-from-illegal-israeli-settlements-really-means?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/8/napoli-vs-arsenal-champions-league-prediction-teams-lineups?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/8/napoli-vs-arsenal-champions-league-prediction-teams-lineups?traffic_source=rss)
 
 ---
 

@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-08T18:29:19+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "An overview of how our family is prepared",
+            "description": "<p>Article URL: <a href=\"https://michaelharley.net/posts/2026/08/29/an-overview-of-how-our-family-is-prepared/\">https://michaelharley.net/posts/2026/08/29/an-overview-of-how-our-family-is-prepared/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49610734\">https://news.ycombinator.com/item?id=49610734</a></p>\n<p>Points: 17</p>\n<p># Comments: 7</p>",
+            "url": "https://michaelharley.net/posts/2026/08/29/an-overview-of-how-our-family-is-prepared/",
+            "published": "Tue, 08 Sep 2026 14:21:14 +0000",
+            "fetched": "2026-09-08T18:29:19+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "LibreOffice breaks download records after declaring it has no AI features",
+            "description": "<p>Article URL: <a href=\"https://manualdousuario.net/en/libreoffice-download-record-no-ai/\">https://manualdousuario.net/en/libreoffice-download-record-no-ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49610538\">https://news.ycombinator.com/item?id=49610538</a></p>\n<p>Points: 145</p>\n<p># Comments: 39</p>",
+            "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/",
+            "published": "Tue, 08 Sep 2026 14:05:57 +0000",
+            "fetched": "2026-09-08T18:29:19+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "We Must Return to the Office to Use AI in Person",
+            "description": "<p>Article URL: <a href=\"https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person\">https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49610229\">https://news.ycombinator.com/item?id=49610229</a></p>\n<p>Points: 46</p>\n<p># Comments: 1</p>",
+            "url": "https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person",
+            "published": "Tue, 08 Sep 2026 13:41:25 +0000",
+            "fetched": "2026-09-08T18:29:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Harry and Meghan 'surprised' by King's letter making clear they remain non-working royals",
+            "description": "A spokesman says they were not told in advance about the letter sent on behalf of the king, although palace sources deny this.",
+            "url": "https://www.bbc.co.uk/news/articles/cp30kv53qvdo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 08 Sep 2026 09:43:53 GMT",
+            "fetched": "2026-09-08T18:29:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Heathrow and Gatwick among airports hit by air traffic control problems",
+            "description": "Departures from a number of airports have been affected by a technical problem affecting air traffic control provider Nats.",
+            "url": "https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 08 Sep 2026 14:53:47 GMT",
+            "fetched": "2026-09-08T18:29:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Four Renoir paintings worth millions stolen in French museum heist",
+            "description": "It is the latest in a string of high-profile art thefts in Europe that has again put the security of museums and galleries in the spotlight.",
+            "url": "https://www.bbc.co.uk/news/articles/c70drp0pyw2o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 08 Sep 2026 13:35:28 GMT",
+            "fetched": "2026-09-08T18:29:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "FIFA accused of ‘abusive conduct’ over women’s football calendar in Europe",
+            "description": "European Leagues body first filed complaint to the European Commission to protect men&#039;s players in October 2024.",
+            "url": "https://www.aljazeera.com/sports/2026/9/8/fifa-accused-of-abusive-conduct-over-womens-football-calendar-in-europe?traffic_source=rss",
+            "published": "Tue, 08 Sep 2026 14:44:16 +0000",
+            "fetched": "2026-09-08T18:29:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "The Tempe 57: A father’s fight for justice after Greece’s worst train crash",
+            "description": "An immigrant father who lost his son in the 2023 Tempe train crash leads a protest movement in his search for justice.",
+            "url": "https://www.aljazeera.com/video/witness/2026/9/8/the-tempe-57-a-fathers-fight-for-justice-after-greeces-worst-train-crash?traffic_source=rss",
+            "published": "Tue, 08 Sep 2026 14:30:00 +0000",
+            "fetched": "2026-09-08T18:29:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Yemen’s reignited war fuels a new wave in child recruitment",
+            "description": "Yemeni government and Houthi forces are engaged in a new round of fighting.",
+            "url": "https://www.aljazeera.com/news/2026/9/8/yemens-reignited-war-fuels-a-new-wave-in-child-recruitment?traffic_source=rss",
+            "published": "Tue, 08 Sep 2026 14:16:56 +0000",
+            "fetched": "2026-09-08T18:29:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire S7, Broward, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24100",
+            "published": "2026-09-04T15:16:00Z",
+            "fetched": "2026-09-08T18:29:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Needles, Oglala Lakota, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24096",
+            "published": "2026-09-04T13:53:00Z",
+            "fetched": "2026-09-08T18:29:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Incident Complex Rattlesnake Complex, Prairie, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24095",
+            "published": "2026-09-04T12:59:00Z",
+            "fetched": "2026-09-08T18:29:19+03:30"
+        }
+    ]
+}

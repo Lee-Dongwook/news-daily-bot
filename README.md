@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-08 22:02:43
+**Last Update:** 2026-09-08 23:28:52
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. On the Navier–Stokes Millennium Prize Problem
+### 1. Muse: Meta's personal AI agent, features and capabilities
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://openai.com/index/navier-stokes-solution/">https://openai.com/index/navier-stokes-solution/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49613262">https://news.ycombinator.com/item?id=49613262</a></p>
-<p>Points: 374</p>
-<p># Comments: 247</p>
+<p>Article URL: <a href="https://ai.meta.com/muse/">https://ai.meta.com/muse/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49615537">https://news.ycombinator.com/item?id=49615537</a></p>
+<p>Points: 74</p>
+<p># Comments: 52</p>
 
-🔗 **Read more:** [https://openai.com/index/navier-stokes-solution/](https://openai.com/index/navier-stokes-solution/)
+🔗 **Read more:** [https://ai.meta.com/muse/](https://ai.meta.com/muse/)
 
 ---
 
-### 2. OUI-1: world's first model for Generative UI
+### 2. Function Arguments Are Not Function Colors
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.openui.com/blog/oui-1">https://www.openui.com/blog/oui-1</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49613182">https://news.ycombinator.com/item?id=49613182</a></p>
-<p>Points: 23</p>
-<p># Comments: 19</p>
+<p>Article URL: <a href="https://jerf.org/iri/post/2026/func_args_are_not_colors/">https://jerf.org/iri/post/2026/func_args_are_not_colors/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49615139">https://news.ycombinator.com/item?id=49615139</a></p>
+<p>Points: 7</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.openui.com/blog/oui-1](https://www.openui.com/blog/oui-1)
+🔗 **Read more:** [https://jerf.org/iri/post/2026/func_args_are_not_colors/](https://jerf.org/iri/post/2026/func_args_are_not_colors/)
 
 ---
 
-### 3. Show HN: LLM Attention Visualization
+### 3. ChatGPT Images 2.5
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://ishamf.dev/p/llm-attention-visualizer/">https://ishamf.dev/p/llm-attention-visualizer/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49613068">https://news.ycombinator.com/item?id=49613068</a></p>
-<p>Points: 26</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://openai.com/index/introducing-chatgpt-images-2-5/">https://openai.com/index/introducing-chatgpt-images-2-5/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49614720">https://news.ycombinator.com/item?id=49614720</a></p>
+<p>Points: 177</p>
+<p># Comments: 217</p>
 
-🔗 **Read more:** [https://ishamf.dev/p/llm-attention-visualizer/](https://ishamf.dev/p/llm-attention-visualizer/)
+🔗 **Read more:** [https://openai.com/index/introducing-chatgpt-images-2-5/](https://openai.com/index/introducing-chatgpt-images-2-5/)
 
 ---
 
@@ -97,42 +97,42 @@ The president shares a misleading video which appears to show Charles shrugging 
 
 ---
 
-### 7. Qatar responds to Netanyahu’s ‘hostile state’ remark
+### 7. Spanish FA launches fertility support for female players and referees
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Qatar has responded to Benjamin Netanyahu’s claims that it’s a &#039;hostile state&#039;.
+Spain FA offers fertility support to female players and referees, including costs for internationals called up twice.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/8/qatar-responds-to-netanyahus-hostile-state-remark?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/8/qatar-responds-to-netanyahus-hostile-state-remark?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/8/spanish-fa-launches-fertility-support-for-female-players-and-referees?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/8/spanish-fa-launches-fertility-support-for-female-players-and-referees?traffic_source=rss)
 
 ---
 
-### 8. Women and children remain trapped in Syria’s Roj camp
+### 8. Sabalenka holds off Noskova to keep US Open three-peat bid alive
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Women and children remain trapped in Syria’s Roj camp
+Aryna Sabalenka edges Linda Noskova to keep alive hopes of a third straight US Open title.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/8/women-and-children-remain-trapped-in-syrias-roj-camp?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/8/women-and-children-remain-trapped-in-syrias-roj-camp?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/8/sabalenka-holds-off-noskova-to-keep-us-open-three-peat-bid-alive?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/8/sabalenka-holds-off-noskova-to-keep-us-open-three-peat-bid-alive?traffic_source=rss)
 
 ---
 
-### 9. Renoir paintings worth $10.5 million missing after museum heist
+### 9. Philippine defence chief calls out China over note handed to him mid-panel
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A pre-dawn break-in at the Renoir Museum in southern France saw thieves seize four paintings
+Philippine Defence Secretary accused China of coercion, bullying and aggression after being handed a note mid-panel.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/8/renoir-paintings-worth-10-5-million-missing-after-museum-heist?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/8/renoir-paintings-worth-10-5-million-missing-after-museum-heist?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/8/09-08-philippine-defence-min-denounces-china-clip?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/8/09-08-philippine-defence-min-denounces-china-clip?traffic_source=rss)
 
 ---
 

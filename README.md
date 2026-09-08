@@ -1,64 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-08 18:29:19
+**Last Update:** 2026-09-08 20:15:12
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. An overview of how our family is prepared
+### 1. Young Americans have never witnessed a functioning foreign policy
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://michaelharley.net/posts/2026/08/29/an-overview-of-how-our-family-is-prepared/">https://michaelharley.net/posts/2026/08/29/an-overview-of-how-our-family-is-prepared/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49610734">https://news.ycombinator.com/item?id=49610734</a></p>
-<p>Points: 17</p>
-<p># Comments: 7</p>
+<p>Article URL: <a href="https://www.ft.com/content/2e97fb28-24cf-4ab0-89b1-454b4f97cdbc">https://www.ft.com/content/2e97fb28-24cf-4ab0-89b1-454b4f97cdbc</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49612430">https://news.ycombinator.com/item?id=49612430</a></p>
+<p>Points: 22</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://michaelharley.net/posts/2026/08/29/an-overview-of-how-our-family-is-prepared/](https://michaelharley.net/posts/2026/08/29/an-overview-of-how-our-family-is-prepared/)
+🔗 **Read more:** [https://www.ft.com/content/2e97fb28-24cf-4ab0-89b1-454b4f97cdbc](https://www.ft.com/content/2e97fb28-24cf-4ab0-89b1-454b4f97cdbc)
 
 ---
 
-### 2. LibreOffice breaks download records after declaring it has no AI features
+### 2. LG TVs caught spying even when offline or on standby
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://manualdousuario.net/en/libreoffice-download-record-no-ai/">https://manualdousuario.net/en/libreoffice-download-record-no-ai/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49610538">https://news.ycombinator.com/item?id=49610538</a></p>
-<p>Points: 145</p>
-<p># Comments: 39</p>
+<p>Article URL: <a href="https://www.theverge.com/tech/991190/lg-tv-spying-standby-recording-wi-fi-scanning-gamers-nexus">https://www.theverge.com/tech/991190/lg-tv-spying-standby-recording-wi-fi-scanning-gamers-nexus</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49612329">https://news.ycombinator.com/item?id=49612329</a></p>
+<p>Points: 35</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://manualdousuario.net/en/libreoffice-download-record-no-ai/](https://manualdousuario.net/en/libreoffice-download-record-no-ai/)
+🔗 **Read more:** [https://www.theverge.com/tech/991190/lg-tv-spying-standby-recording-wi-fi-scanning-gamers-nexus](https://www.theverge.com/tech/991190/lg-tv-spying-standby-recording-wi-fi-scanning-gamers-nexus)
 
 ---
 
-### 3. We Must Return to the Office to Use AI in Person
+### 3. Why I'm Not Excited About the Graphene OS and Motorola Partnership
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person">https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49610229">https://news.ycombinator.com/item?id=49610229</a></p>
-<p>Points: 46</p>
+<p>Article URL: <a href="https://podcast.switchedtolinux.com/@tehankorage/episodes/why-im-not-excited-about-the-graphene-os-and-motorola-partnership">https://podcast.switchedtolinux.com/@tehankorage/episodes/why-im-not-excited-about-the-graphene-os-and-motorola-partnership</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49612327">https://news.ycombinator.com/item?id=49612327</a></p>
+<p>Points: 13</p>
 <p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person](https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person)
+🔗 **Read more:** [https://podcast.switchedtolinux.com/@tehankorage/episodes/why-im-not-excited-about-the-graphene-os-and-motorola-partnership](https://podcast.switchedtolinux.com/@tehankorage/episodes/why-im-not-excited-about-the-graphene-os-and-motorola-partnership)
 
 ---
 
-### 4. Harry and Meghan 'surprised' by King's letter making clear they remain non-working royals
+### 4. Ports denied request to land 120 migrants in RNLI boats
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The King's Harbour Master and Southampton Port both declined to allow migrants ashore on Sunday.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm27v3743mno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm27v3743mno?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Harry and Meghan 'surprised' by King's letter making clear they remain non-working royals
 
 **Source:** BBC
 
@@ -71,20 +84,7 @@ A spokesman says they were not told in advance about the letter sent on behalf o
 
 ---
 
-### 5. Heathrow and Gatwick among airports hit by air traffic control problems
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Departures from a number of airports have been affected by a technical problem affecting air traffic control provider Nats.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Four Renoir paintings worth millions stolen in French museum heist
+### 6. Renoir paintings worth millions stolen in French museum heist
 
 **Source:** BBC
 
@@ -97,42 +97,42 @@ It is the latest in a string of high-profile art thefts in Europe that has again
 
 ---
 
-### 7. FIFA accused of ‘abusive conduct’ over women’s football calendar in Europe
+### 7. Israeli strikes transform Lebanese city into ghost town
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-European Leagues body first filed complaint to the European Commission to protect men&#039;s players in October 2024.
+Nabatieh, once southern Lebanon’s economic centre, is now a ghost town as Israel intensifies attacks.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/8/fifa-accused-of-abusive-conduct-over-womens-football-calendar-in-europe?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/8/fifa-accused-of-abusive-conduct-over-womens-football-calendar-in-europe?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/8/israeli-strikes-transform-lebanese-city-into-ghost-town?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/8/israeli-strikes-transform-lebanese-city-into-ghost-town?traffic_source=rss)
 
 ---
 
-### 8. The Tempe 57: A father’s fight for justice after Greece’s worst train crash
+### 8. UK sanctions on Israeli settlements a ‘seismic’ shift says Albanese
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-An immigrant father who lost his son in the 2023 Tempe train crash leads a protest movement in his search for justice.
+UN expert Francesca Albanese calls UK sanctions on Israeli settlements a ‘seismic shift’ after years of UK ‘complicity’.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/witness/2026/9/8/the-tempe-57-a-fathers-fight-for-justice-after-greeces-worst-train-crash?traffic_source=rss](https://www.aljazeera.com/video/witness/2026/9/8/the-tempe-57-a-fathers-fight-for-justice-after-greeces-worst-train-crash?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/8/09-08-israel-sanctions-albanese-qt-mp4?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/8/09-08-israel-sanctions-albanese-qt-mp4?traffic_source=rss)
 
 ---
 
-### 9. Yemen’s reignited war fuels a new wave in child recruitment
+### 9. Israeli academia accused of systemic apartheid against Palestinians
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Yemeni government and Houthi forces are engaged in a new round of fighting.
+A legal report exposes how Israeli universities use a dual-track disciplinary system to target Palestinian students.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/8/yemens-reignited-war-fuels-a-new-wave-in-child-recruitment?traffic_source=rss](https://www.aljazeera.com/news/2026/9/8/yemens-reignited-war-fuels-a-new-wave-in-child-recruitment?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/8/israeli-academia-accused-of-systemic-apartheid-against-palestinians?traffic_source=rss](https://www.aljazeera.com/news/2026/9/8/israeli-academia-accused-of-systemic-apartheid-against-palestinians?traffic_source=rss)
 
 ---
 

@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-09T21:11:15+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Autonomous Cars Save Lives: Self-driving tech could prevent 580k deaths/year",
+            "description": "<p>Article URL: <a href=\"https://spectrum.ieee.org/are-self-driving-cars-safe\">https://spectrum.ieee.org/are-self-driving-cars-safe</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49629886\">https://news.ycombinator.com/item?id=49629886</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://spectrum.ieee.org/are-self-driving-cars-safe",
+            "published": "Wed, 09 Sep 2026 17:14:59 +0000",
+            "fetched": "2026-09-09T21:11:15+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Rdltr – Inbox zero for your reading list",
+            "description": "<p>Hi HN, for the past few months I’ve been working on a read later app called RDLTR (<a href=\"https://rdltr.app\" rel=\"nofollow\">https://rdltr.app</a>). The whole thing started because I had so many tabs open with stuff I wanted to read, across browsers, Mac, Linux, and iPhone. They cluttered everything and got in the way of other things I had to do.<p>Pocket had just shut down when this idea came up, I looked around, tried Instapaper, Raindrop, Matter, and a few others I forget. They were fine, but they all give you a list that only grows, which is another thing to maintain, and not the model I had in mind. Safari has this Reading List feature where you read something and it drops off the unread list. But it’s Apple only and half worked. What I wanted was inbox zero for reading. Open something, read it, come back, and it’s gone from the queue but still in the archive. You keep going until there is nothing left.<p>Links come in from anywhere. Paste a URL on the page, drag one in, or use the bookmarklet, the Chrome and Firefox extensions, or the Apple Shortcut for the iOS share sheet, plus Vim keys, TL;DR summaries on each link, search across everything you have read or saved, RSS for every list, and it works just as well on the phone.<p>The extensions have a couple of tricks that I use all the time. Shift+DD pulls the article text, cleans it up, and sends it to ChatGPT, Claude, or Gemini in a new tab, so you can ask it anything about what you just read. Shift+AA opens it in the Internet Archive, handy for paywalled sites when you don’t have a subscription.<p>The stack is Bun, TypeScript, HTMX, and SQLite, with SSE so the list updates the moment you save or read something, deployed on a Hetzner VPS.<p>Full disclosure, Claude Code wrote most of it. I still spent a ton of time dogfooding, testing, and polishing the UI until things felt right.<p>Anyway, curious to know what your current setup is for this.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49629747\">https://news.ycombinator.com/item?id=49629747</a></p>\n<p>Points: 3</p>\n<p># Comments: 1</p>",
+            "url": "https://rdltr.app/",
+            "published": "Wed, 09 Sep 2026 17:06:21 +0000",
+            "fetched": "2026-09-09T21:11:15+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Every Millisecond Counts",
+            "description": "<p>Article URL: <a href=\"https://jordivillar.com/blog/every-millisecond-counts\">https://jordivillar.com/blog/every-millisecond-counts</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49629608\">https://news.ycombinator.com/item?id=49629608</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://jordivillar.com/blog/every-millisecond-counts",
+            "published": "Wed, 09 Sep 2026 16:57:34 +0000",
+            "fetched": "2026-09-09T21:11:15+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Police launch criminal investigation into Reform UK donations",
+            "description": "The investigation, which follows a broadcast by Channel 4 News, is being folded into the inquiry that has been under way into other donations.",
+            "url": "https://www.bbc.co.uk/news/articles/cp3k72k1y3vo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 09 Sep 2026 17:21:14 GMT",
+            "fetched": "2026-09-09T21:11:15+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "National security can't come at expense of social security, Burnham says",
+            "description": "The prime minister says he will fund defence and get the welfare bill down in \"the Labour way\".",
+            "url": "https://www.bbc.co.uk/news/articles/c5yw3223w1vo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 09 Sep 2026 14:53:26 GMT",
+            "fetched": "2026-09-09T21:11:15+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Europe's royalty pay last respects to King Harald V in Norway",
+            "description": "Tens of thousands of people lined the streets to pay their respects after 13 days of national mourning.",
+            "url": "https://www.bbc.co.uk/news/videos/clyjd6jz101o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 09 Sep 2026 16:36:45 GMT",
+            "fetched": "2026-09-09T21:11:15+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Inside Israel’s prisons, where Ben-Gvir’s cruelty is policy",
+            "description": "Palestinian prisoners are being kept in inhumane conditions in Israeli detention facilities, overseen by Ben-Gvir.",
+            "url": "https://www.aljazeera.com/features/2026/9/9/inside-israels-prisons-where-ben-gvirs-cruelty-is-policy?traffic_source=rss",
+            "published": "Wed, 09 Sep 2026 17:04:24 +0000",
+            "fetched": "2026-09-09T21:11:15+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "78 people including newborn rescued in Mediterranean",
+            "description": "At least 78 people including a newborn baby were rescued from the Mediterranean Sea.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/78-people-including-newborn-rescued-in-mediterranean?traffic_source=rss",
+            "published": "Wed, 09 Sep 2026 16:40:48 +0000",
+            "fetched": "2026-09-09T21:11:15+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "LIVE: Napoli vs Arsenal – UEFA Champions League",
+            "description": "Follow live updates from our text commentary stream coverage as favourites Arsenal begin their Champions League season.",
+            "url": "https://www.aljazeera.com/sports/liveblog/2026/9/9/live-napoli-vs-arsenal-uefa-champions-league?traffic_source=rss",
+            "published": "Wed, 09 Sep 2026 16:04:09 +0000",
+            "fetched": "2026-09-09T21:11:15+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire S7, Broward, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24100",
+            "published": "2026-09-04T15:16:00Z",
+            "fetched": "2026-09-09T21:11:15+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Needles, Oglala Lakota, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24096",
+            "published": "2026-09-04T13:53:00Z",
+            "fetched": "2026-09-09T21:11:15+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Incident Complex Rattlesnake Complex, Prairie, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24095",
+            "published": "2026-09-04T12:59:00Z",
+            "fetched": "2026-09-09T21:11:15+03:30"
+        }
+    ]
+}

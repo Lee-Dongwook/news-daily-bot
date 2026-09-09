@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-09 15:05:59
+**Last Update:** 2026-09-09 17:03:46
 
 **Total News:** 12
 
@@ -10,55 +10,81 @@
 
 ## 📰 Latest News
 
-### 1. Flock Wants a Closely Surveilled World with No Exit
+### 1. Teen reading slumps to worst this century due to surge in screen time
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.newyorker.com/culture/infinite-scroll/flock-wants-a-closely-surveilled-world-with-no-exit">https://www.newyorker.com/culture/infinite-scroll/flock-wants-a-closely-surveilled-world-with-no-exit</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49624394">https://news.ycombinator.com/item?id=49624394</a></p>
-<p>Points: 21</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://finance.yahoo.com/news/teen-reading-slumps-worst-century-111013754.html">https://finance.yahoo.com/news/teen-reading-slumps-worst-century-111013754.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49625461">https://news.ycombinator.com/item?id=49625461</a></p>
+<p>Points: 24</p>
+<p># Comments: 35</p>
 
-🔗 **Read more:** [https://www.newyorker.com/culture/infinite-scroll/flock-wants-a-closely-surveilled-world-with-no-exit](https://www.newyorker.com/culture/infinite-scroll/flock-wants-a-closely-surveilled-world-with-no-exit)
+🔗 **Read more:** [https://finance.yahoo.com/news/teen-reading-slumps-worst-century-111013754.html](https://finance.yahoo.com/news/teen-reading-slumps-worst-century-111013754.html)
 
 ---
 
-### 2. Anthropic researcher believes more than 10% chance AI 'could kill all humans'
+### 2. Roame (YC S23) Is Hiring Viral Content Editor
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.bbc.co.uk/news/articles/ckgwy1k42w4o">https://www.bbc.co.uk/news/articles/ckgwy1k42w4o</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49624255">https://news.ycombinator.com/item?id=49624255</a></p>
-<p>Points: 17</p>
-<p># Comments: 23</p>
+<p>Article URL: <a href="https://www.ycombinator.com/companies/roame/jobs/KuVVqSh-content-systems-builder-editor">https://www.ycombinator.com/companies/roame/jobs/KuVVqSh-content-systems-builder-editor</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49625110">https://news.ycombinator.com/item?id=49625110</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckgwy1k42w4o](https://www.bbc.co.uk/news/articles/ckgwy1k42w4o)
+🔗 **Read more:** [https://www.ycombinator.com/companies/roame/jobs/KuVVqSh-content-systems-builder-editor](https://www.ycombinator.com/companies/roame/jobs/KuVVqSh-content-systems-builder-editor)
 
 ---
 
-### 3. How An AI math breakthrough ignited a controversy
+### 3. I advertise malicious software on Google Ads
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy">https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49624163">https://news.ycombinator.com/item?id=49624163</a></p>
-<p>Points: 56</p>
-<p># Comments: 28</p>
+<p>Article URL: <a href="https://xlii.space/eng/malicious-software-on-google-ads/">https://xlii.space/eng/malicious-software-on-google-ads/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49624856">https://news.ycombinator.com/item?id=49624856</a></p>
+<p>Points: 117</p>
+<p># Comments: 50</p>
 
-🔗 **Read more:** [https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy](https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy)
+🔗 **Read more:** [https://xlii.space/eng/malicious-software-on-google-ads/](https://xlii.space/eng/malicious-software-on-google-ads/)
 
 ---
 
-### 4. Drug gangs exploited and raped us as teens, then police failed us, women tell BBC
+### 4. Miliband rejects chief rabbi's claim British Jews in greater danger after sanctions move
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The foreign secretary disagrees that sanctions on Israeli settlements could put British Jews at greater risk.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ce9e3djdz94o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ce9e3djdz94o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Actor Noel Clarke charged with sexual offences
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Clarke has been charged with offences including sexual assault. BBC News has asked him for a comment.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c86x0y3wd9do?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c86x0y3wd9do?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Drug gangs exploited and raped us as teens, then police failed us, women tell BBC
 
 **Source:** BBC
 
@@ -71,68 +97,42 @@ Four victims describe being targeted by criminals and then not being taken serio
 
 ---
 
-### 5. Oil hits $100 a barrel for first time since July after US and Houthi strikes
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Brent crude - the global benchmark for prices - rises after the US hit five Iranian tankers on Tuesday
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Anthropic researcher believes more than 10% chance AI 'could kill all humans'
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-It is the latest in a series of increasing warnings about the safety threat posed by artificial intelligence.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. The losers of the US-Canada trade war
+### 7. At least 14 killed in weapons depot blast in Syria’s Idlib, state TV says
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The losers of the US-Canada trade war
+This is a breaking news story.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/money-works/2026/9/9/the-losers-of-the-us-canada-trade-war?traffic_source=rss](https://www.aljazeera.com/video/money-works/2026/9/9/the-losers-of-the-us-canada-trade-war?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/9/at-least-14-killed-in-weapons-depot-blast-in-syrias-idlib-state-tv-says?traffic_source=rss](https://www.aljazeera.com/news/2026/9/9/at-least-14-killed-in-weapons-depot-blast-in-syrias-idlib-state-tv-says?traffic_source=rss)
 
 ---
 
-### 8. ‘Overdue first step’: UK reacts to gov’t ban on Israeli settlement trade
+### 8. Journalists missing after Indonesian volcanic eruption
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-UK bans imports from illegal Israeli settlements in a strong policy move after recognising a Palestinian state last year.
+Journalists missing after Indonesian volcanic eruption
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/9/overdue-first-step-uk-reacts-to-govt-ban-on-israeli-settlement-trade?traffic_source=rss](https://www.aljazeera.com/news/2026/9/9/overdue-first-step-uk-reacts-to-govt-ban-on-israeli-settlement-trade?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/9/journalists-missing-after-indonesian-volcanic-eruption?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/9/journalists-missing-after-indonesian-volcanic-eruption?traffic_source=rss)
 
 ---
 
-### 9. Yemen war escalates: Who are the key actors involved?
+### 9. AI researcher quits Anthropic saying AI race ‘could kill us all’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Here is a look at the main actors currently involved in the conflict.
+AI researcher warns the industry is racing towards superintelligent AI that could improve itself beyond human control.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/9/yemen-war-escalates-who-are-the-key-actors-involved?traffic_source=rss](https://www.aljazeera.com/news/2026/9/9/yemen-war-escalates-who-are-the-key-actors-involved?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/9/ai-researcher-quits-anthropic-saying-ai-race-could-kill-us?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/9/ai-researcher-quits-anthropic-saying-ai-race-could-kill-us?traffic_source=rss)
 
 ---
 

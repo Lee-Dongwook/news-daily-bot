@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-09 04:48:58
+**Last Update:** 2026-09-09 07:26:22
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. I Resigned from Anthropic Today
+### 1. Harvard study predicts most suicide attempts a week in advance
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://xcancel.com/hilbertspaess/status/2097476196791709843#m">https://xcancel.com/hilbertspaess/status/2097476196791709843#m</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49619227">https://news.ycombinator.com/item?id=49619227</a></p>
-<p>Points: 22</p>
-<p># Comments: 9</p>
+<p>Article URL: <a href="https://current.fas.harvard.edu/stories/harvard-study-predicts-most-suicide-attempts-week-advance">https://current.fas.harvard.edu/stories/harvard-study-predicts-most-suicide-attempts-week-advance</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49619906">https://news.ycombinator.com/item?id=49619906</a></p>
+<p>Points: 92</p>
+<p># Comments: 45</p>
 
-🔗 **Read more:** [https://xcancel.com/hilbertspaess/status/2097476196791709843#m](https://xcancel.com/hilbertspaess/status/2097476196791709843#m)
+🔗 **Read more:** [https://current.fas.harvard.edu/stories/harvard-study-predicts-most-suicide-attempts-week-advance](https://current.fas.harvard.edu/stories/harvard-study-predicts-most-suicide-attempts-week-advance)
 
 ---
 
-### 2. A Topological Picture Book, Rendered
+### 2. AI Responsibility – OpenAI and Anthropic
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://e-infinity.space/picture-book/">https://e-infinity.space/picture-book/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49618050">https://news.ycombinator.com/item?id=49618050</a></p>
-<p>Points: 40</p>
-<p># Comments: 5</p>
+<p>Article URL: <a href="https://twitter.com/hilbertspaess/status/2097476196791709843">https://twitter.com/hilbertspaess/status/2097476196791709843</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49619639">https://news.ycombinator.com/item?id=49619639</a></p>
+<p>Points: 54</p>
+<p># Comments: 12</p>
 
-🔗 **Read more:** [https://e-infinity.space/picture-book/](https://e-infinity.space/picture-book/)
+🔗 **Read more:** [https://twitter.com/hilbertspaess/status/2097476196791709843](https://twitter.com/hilbertspaess/status/2097476196791709843)
 
 ---
 
-### 3. Large language models develop novel social biases through adaptive exploration
+### 3. 27.5KB language-agnostic WebGPU syntax highlighter
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH">https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49617581">https://news.ycombinator.com/item?id=49617581</a></p>
-<p>Points: 83</p>
-<p># Comments: 44</p>
+<p>Article URL: <a href="https://gpu-lexer.vercel.app/">https://gpu-lexer.vercel.app/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49619464">https://news.ycombinator.com/item?id=49619464</a></p>
+<p>Points: 29</p>
+<p># Comments: 7</p>
 
-🔗 **Read more:** [https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH](https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH)
+🔗 **Read more:** [https://gpu-lexer.vercel.app/](https://gpu-lexer.vercel.app/)
 
 ---
 
@@ -97,42 +97,42 @@ Departures from a number of airports are affected by a technical problem affecti
 
 ---
 
-### 7. Sharpeville massacre, 66 years on: Families still wait for justice
+### 7. Cameraman catches the moment Yemeni government forces are ambushed
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-More than six decades after police opened fire on protesters, survivors and relatives are taking their fight to court.
+A suspected-Houthi roadside ambush of Yemeni government forces has been captured on camera.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/9/sharpeville-massacre-66-years-on-families-still-wait-for-justice?traffic_source=rss](https://www.aljazeera.com/news/2026/9/9/sharpeville-massacre-66-years-on-families-still-wait-for-justice?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/9/cameraman-catches-the-moment-yemeni-government-forces-are-ambushed?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/9/cameraman-catches-the-moment-yemeni-government-forces-are-ambushed?traffic_source=rss)
 
 ---
 
-### 8. Anti-AfD protesters rally in Cologne after far-right election win
+### 8. Gambian leader pledges halt to rolling blackouts as protests turn violent
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Thousands of protesters rallied in Cologne against the AfD after the far-right group&#039;s election victory.
+Barrow pledges new power infrastructure, including a 24-megawatt plant, to tackle the worsening electricity crisis.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/9/aje-onl-nf_anti-afd-protesters-rally-in-after-election-win-080926?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/9/aje-onl-nf_anti-afd-protesters-rally-in-after-election-win-080926?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/9/gambian-leader-pledges-halt-to-rolling-blackouts-as-protests-turn-violent?traffic_source=rss](https://www.aljazeera.com/news/2026/9/9/gambian-leader-pledges-halt-to-rolling-blackouts-as-protests-turn-violent?traffic_source=rss)
 
 ---
 
-### 9. Marco Rubio says US seeks more economic and security ties in Latin America
+### 9. US reading scores hit near-25-year low in latest global assessment
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The US secretary of state visits Colombia, Ecuador and Peru in a bid to enhance cooperation with right-wing allies.
+Scores among US 15-year-olds dropped 14 points from 2022, as the Trump administration pushes for &#039;school choice&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/9/marco-rubio-says-us-seeks-more-economic-and-security-ties-in-latin-america?traffic_source=rss](https://www.aljazeera.com/news/2026/9/9/marco-rubio-says-us-seeks-more-economic-and-security-ties-in-latin-america?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/9/us-reading-scores-hit-near-25-year-low-in-latest-global-assessment?traffic_source=rss](https://www.aljazeera.com/news/2026/9/9/us-reading-scores-hit-near-25-year-low-in-latest-global-assessment?traffic_source=rss)
 
 ---
 

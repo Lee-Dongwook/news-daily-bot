@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-09T07:26:22+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Harvard study predicts most suicide attempts a week in advance",
+            "description": "<p>Article URL: <a href=\"https://current.fas.harvard.edu/stories/harvard-study-predicts-most-suicide-attempts-week-advance\">https://current.fas.harvard.edu/stories/harvard-study-predicts-most-suicide-attempts-week-advance</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49619906\">https://news.ycombinator.com/item?id=49619906</a></p>\n<p>Points: 92</p>\n<p># Comments: 45</p>",
+            "url": "https://current.fas.harvard.edu/stories/harvard-study-predicts-most-suicide-attempts-week-advance",
+            "published": "Wed, 09 Sep 2026 02:07:13 +0000",
+            "fetched": "2026-09-09T07:26:22+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "AI Responsibility – OpenAI and Anthropic",
+            "description": "<p>Article URL: <a href=\"https://twitter.com/hilbertspaess/status/2097476196791709843\">https://twitter.com/hilbertspaess/status/2097476196791709843</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49619639\">https://news.ycombinator.com/item?id=49619639</a></p>\n<p>Points: 54</p>\n<p># Comments: 12</p>",
+            "url": "https://twitter.com/hilbertspaess/status/2097476196791709843",
+            "published": "Wed, 09 Sep 2026 01:32:49 +0000",
+            "fetched": "2026-09-09T07:26:22+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "27.5KB language-agnostic WebGPU syntax highlighter",
+            "description": "<p>Article URL: <a href=\"https://gpu-lexer.vercel.app/\">https://gpu-lexer.vercel.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49619464\">https://news.ycombinator.com/item?id=49619464</a></p>\n<p>Points: 29</p>\n<p># Comments: 7</p>",
+            "url": "https://gpu-lexer.vercel.app/",
+            "published": "Wed, 09 Sep 2026 01:14:50 +0000",
+            "fetched": "2026-09-09T07:26:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
+            "description": "Britain's foreign secretary accuses settlers of carrying out the \"ethnic cleansing\" of Palestinians, as Israel responds by shutting the UK consulate in East Jerusalem.",
+            "url": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 09 Sep 2026 01:45:15 GMT",
+            "fetched": "2026-09-09T07:26:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Paul Adams: British-Israeli relations at lowest ebb in decades",
+            "description": "Israel's response to London's trade ban with Israeli settlements in the occupied West Bank shows how important this moment is.",
+            "url": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 08 Sep 2026 21:46:31 GMT",
+            "fetched": "2026-09-09T07:26:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "More flight delays expected after hundreds cancelled by air traffic control glitch",
+            "description": "Departures from a number of airports are affected by a technical problem affecting air traffic control provider Nats.",
+            "url": "https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 09 Sep 2026 02:59:38 GMT",
+            "fetched": "2026-09-09T07:26:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Cameraman catches the moment Yemeni government forces are ambushed",
+            "description": "A suspected-Houthi roadside ambush of Yemeni government forces has been captured on camera.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/cameraman-catches-the-moment-yemeni-government-forces-are-ambushed?traffic_source=rss",
+            "published": "Wed, 09 Sep 2026 02:54:28 +0000",
+            "fetched": "2026-09-09T07:26:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Gambian leader pledges halt to rolling blackouts as protests turn violent",
+            "description": "Barrow pledges new power infrastructure, including a 24-megawatt plant, to tackle the worsening electricity crisis.",
+            "url": "https://www.aljazeera.com/news/2026/9/9/gambian-leader-pledges-halt-to-rolling-blackouts-as-protests-turn-violent?traffic_source=rss",
+            "published": "Wed, 09 Sep 2026 02:47:59 +0000",
+            "fetched": "2026-09-09T07:26:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US reading scores hit near-25-year low in latest global assessment",
+            "description": "Scores among US 15-year-olds dropped 14 points from 2022, as the Trump administration pushes for &#039;school choice&#039;.",
+            "url": "https://www.aljazeera.com/news/2026/9/9/us-reading-scores-hit-near-25-year-low-in-latest-global-assessment?traffic_source=rss",
+            "published": "Wed, 09 Sep 2026 02:36:44 +0000",
+            "fetched": "2026-09-09T07:26:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire S7, Broward, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24100",
+            "published": "2026-09-04T15:16:00Z",
+            "fetched": "2026-09-09T07:26:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Needles, Oglala Lakota, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24096",
+            "published": "2026-09-04T13:53:00Z",
+            "fetched": "2026-09-09T07:26:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Incident Complex Rattlesnake Complex, Prairie, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24095",
+            "published": "2026-09-04T12:59:00Z",
+            "fetched": "2026-09-09T07:26:22+03:30"
+        }
+    ]
+}

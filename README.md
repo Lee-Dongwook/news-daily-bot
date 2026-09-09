@@ -1,48 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-09 07:26:22
+**Last Update:** 2026-09-09 09:39:13
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Harvard study predicts most suicide attempts a week in advance
+### 1. A Biography of Lee Holloway, the Architect of Cloudflare's Technology (Part 1)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://current.fas.harvard.edu/stories/harvard-study-predicts-most-suicide-attempts-week-advance">https://current.fas.harvard.edu/stories/harvard-study-predicts-most-suicide-attempts-week-advance</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49619906">https://news.ycombinator.com/item?id=49619906</a></p>
-<p>Points: 92</p>
-<p># Comments: 45</p>
+<p>Article URL: <a href="https://note.com/masakazu_urabe/n/n7815f5b64fab?hl=en">https://note.com/masakazu_urabe/n/n7815f5b64fab?hl=en</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49621102">https://news.ycombinator.com/item?id=49621102</a></p>
+<p>Points: 10</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://current.fas.harvard.edu/stories/harvard-study-predicts-most-suicide-attempts-week-advance](https://current.fas.harvard.edu/stories/harvard-study-predicts-most-suicide-attempts-week-advance)
-
----
-
-### 2. AI Responsibility – OpenAI and Anthropic
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://twitter.com/hilbertspaess/status/2097476196791709843">https://twitter.com/hilbertspaess/status/2097476196791709843</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49619639">https://news.ycombinator.com/item?id=49619639</a></p>
-<p>Points: 54</p>
-<p># Comments: 12</p>
-
-🔗 **Read more:** [https://twitter.com/hilbertspaess/status/2097476196791709843](https://twitter.com/hilbertspaess/status/2097476196791709843)
+🔗 **Read more:** [https://note.com/masakazu_urabe/n/n7815f5b64fab?hl=en](https://note.com/masakazu_urabe/n/n7815f5b64fab?hl=en)
 
 ---
 
-### 3. 27.5KB language-agnostic WebGPU syntax highlighter
+### 2. 27.5KB language-agnostic WebGPU syntax highlighter
 
 **Source:** Hacker News
 
@@ -51,27 +35,31 @@
 **Description:**
 <p>Article URL: <a href="https://gpu-lexer.vercel.app/">https://gpu-lexer.vercel.app/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49619464">https://news.ycombinator.com/item?id=49619464</a></p>
-<p>Points: 29</p>
-<p># Comments: 7</p>
+<p>Points: 42</p>
+<p># Comments: 15</p>
 
 🔗 **Read more:** [https://gpu-lexer.vercel.app/](https://gpu-lexer.vercel.app/)
 
 ---
 
-### 4. UK announces sanctions on West Bank settlements prompting furious Israeli response
+### 3. I resigned from Anthropic today
 
-**Source:** BBC
+**Source:** Hacker News
 
-**Category:** world
+**Category:** technology
 
 **Description:**
-Britain's foreign secretary accuses settlers of carrying out the "ethnic cleansing" of Palestinians, as Israel responds by shutting the UK consulate in East Jerusalem.
+<p><a href="https://xcancel.com/hilbertspaess/status/2097476196791709843#m" rel="nofollow">https://xcancel.com/hilbertspaess/status/2097476196791709843...</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49619227">https://news.ycombinator.com/item?id=49619227</a></p>
+<p>Points: 292</p>
+<p># Comments: 354</p>
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://twitter.com/hilbertspaess/status/2097476196791709843#m](https://twitter.com/hilbertspaess/status/2097476196791709843#m)
 
 ---
 
-### 5. Paul Adams: British-Israeli relations at lowest ebb in decades
+### 4. Paul Adams: British-Israeli relations at lowest ebb in decades
 
 **Source:** BBC
 
@@ -84,7 +72,7 @@ Israel's response to London's trade ban with Israeli settlements in the occupied
 
 ---
 
-### 6. More flight delays expected after hundreds cancelled by air traffic control glitch
+### 5. More flight delays expected after hundreds cancelled by air traffic control glitch
 
 **Source:** BBC
 
@@ -97,42 +85,55 @@ Departures from a number of airports are affected by a technical problem affecti
 
 ---
 
-### 7. Cameraman catches the moment Yemeni government forces are ambushed
+### 6. Drug gangs exploited and raped us as teens, then police failed us, women tell BBC
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-A suspected-Houthi roadside ambush of Yemeni government forces has been captured on camera.
+Four victims describe being targeted by criminals and then not being taken seriously by the authorities.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/9/cameraman-catches-the-moment-yemeni-government-forces-are-ambushed?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/9/cameraman-catches-the-moment-yemeni-government-forces-are-ambushed?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9w41v2r742o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9w41v2r742o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. Gambian leader pledges halt to rolling blackouts as protests turn violent
+### 7. As SDF disband in Syria, Kurds ponder how to secure their rights
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Barrow pledges new power infrastructure, including a 24-megawatt plant, to tackle the worsening electricity crisis.
+As the Kurdish forces dissolve, experts express concern if their rights will be won through democratic means.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/9/gambian-leader-pledges-halt-to-rolling-blackouts-as-protests-turn-violent?traffic_source=rss](https://www.aljazeera.com/news/2026/9/9/gambian-leader-pledges-halt-to-rolling-blackouts-as-protests-turn-violent?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/9/as-sdf-disband-in-syria-kurds-ponder-how-to-secure-their-rights?traffic_source=rss](https://www.aljazeera.com/news/2026/9/9/as-sdf-disband-in-syria-kurds-ponder-how-to-secure-their-rights?traffic_source=rss)
 
 ---
 
-### 9. US reading scores hit near-25-year low in latest global assessment
+### 8. US midterm elections: Key takeaways from New Hampshire primaries
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Scores among US 15-year-olds dropped 14 points from 2022, as the Trump administration pushes for &#039;school choice&#039;.
+The GOP aims to gain a New England foothold as Democrats strive to retain the Senate seat.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/9/us-reading-scores-hit-near-25-year-low-in-latest-global-assessment?traffic_source=rss](https://www.aljazeera.com/news/2026/9/9/us-reading-scores-hit-near-25-year-low-in-latest-global-assessment?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/9/us-midterm-elections-key-takeaways-from-new-hampshire-primaries?traffic_source=rss](https://www.aljazeera.com/news/2026/9/9/us-midterm-elections-key-takeaways-from-new-hampshire-primaries?traffic_source=rss)
+
+---
+
+### 9. Why US-Iran war over Hormuz is threatening the Gulf’s waters
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+US-Iran attacks on tankers around Hormuz are raising fears of devastating oil spills across the Gulf.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/9/why-us-iran-war-over-hormuz-is-threatening-the-gulfs-waters?traffic_source=rss](https://www.aljazeera.com/news/2026/9/9/why-us-iran-war-over-hormuz-is-threatening-the-gulfs-waters?traffic_source=rss)
 
 ---
 

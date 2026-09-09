@@ -1,61 +1,63 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-09 21:11:15
+**Last Update:** 2026-09-09 23:23:50
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Autonomous Cars Save Lives: Self-driving tech could prevent 580k deaths/year
+### 1. iPhone Duo
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://spectrum.ieee.org/are-self-driving-cars-safe">https://spectrum.ieee.org/are-self-driving-cars-safe</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49629886">https://news.ycombinator.com/item?id=49629886</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.apple.com/iphone-duo/">https://www.apple.com/iphone-duo/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49630931">https://news.ycombinator.com/item?id=49630931</a></p>
+<p>Points: 336</p>
+<p># Comments: 787</p>
 
-🔗 **Read more:** [https://spectrum.ieee.org/are-self-driving-cars-safe](https://spectrum.ieee.org/are-self-driving-cars-safe)
+🔗 **Read more:** [https://www.apple.com/iphone-duo/](https://www.apple.com/iphone-duo/)
 
 ---
 
-### 2. Show HN: Rdltr – Inbox zero for your reading list
+### 2. Show HN: Self-hosted company OS, Claude Code and Codex agents in departments
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Hi HN, for the past few months I’ve been working on a read later app called RDLTR (<a href="https://rdltr.app" rel="nofollow">https://rdltr.app</a>). The whole thing started because I had so many tabs open with stuff I wanted to read, across browsers, Mac, Linux, and iPhone. They cluttered everything and got in the way of other things I had to do.<p>Pocket had just shut down when this idea came up, I looked around, tried Instapaper, Raindrop, Matter, and a few others I forget. They were fine, but they all give you a list that only grows, which is another thing to maintain, and not the model I had in mind. Safari has this Reading List feature where you read something and it drops off the unread list. But it’s Apple only and half worked. What I wanted was inbox zero for reading. Open something, read it, come back, and it’s gone from the queue but still in the archive. You keep going until there is nothing left.<p>Links come in from anywhere. Paste a URL on the page, drag one in, or use the bookmarklet, the Chrome and Firefox extensions, or the Apple Shortcut for the iOS share sheet, plus Vim keys, TL;DR summaries on each link, search across everything you have read or saved, RSS for every list, and it works just as well on the phone.<p>The extensions have a couple of tricks that I use all the time. Shift+DD pulls the article text, cleans it up, and sends it to ChatGPT, Claude, or Gemini in a new tab, so you can ask it anything about what you just read. Shift+AA opens it in the Internet Archive, handy for paywalled sites when you don’t have a subscription.<p>The stack is Bun, TypeScript, HTMX, and SQLite, with SSE so the list updates the moment you save or read something, deployed on a Hetzner VPS.<p>Full disclosure, Claude Code wrote most of it. I still spent a ton of time dogfooding, testing, and polishing the UI until things felt right.<p>Anyway, curious to know what your current setup is for this.</p>
+<p>Hi HN, I am Dimitris. 
+This is a company OS that I built and use to run my business and anyone can install it and self host it for free. Think of it as Claude Code, Cowork and the cloud sessions in one self hosted application.<p>It is a Multi-tenant application by design where many people can collaborate on the company agents with 4 different modes of collaboration, and it runs with your Anthropic or OpenAi subscription or even with local models.<p>Every agent can run on Claude Code or Codex CLI running as a persistent process on your server in a kernel sandbox (bubblewrap) with network isolation always on (pasta), with its own workspace, memory, schedules and tools. The same agents can also be configured to run identical on any remote computer through one outbound WebSocket (no inbound ports, no VPN needed).<p>The agent already have lots of built in features, as an example they can answer and place phone calls through Twilio or your own Asterisk, they can edit videos and excel, word, ppt files and preview them directly inside the chat with collabora and many more.<p>Trying it is one install script and a docker compose, no signup. The license is Fair Source, all the code is public and self hosting is free up to 5 users. 1.6.0 went out today.<p>AI Disclaimer: large parts of OtoDock are written using OtoDock itself, running Claude Code.<p>I would love people to read the code, take a look in the sandbox model, and tell me what would stop you from running this on your own hardware.<p>GitHub: <a href="https://github.com/OtoDock/oto-dock" rel="nofollow">https://github.com/OtoDock/oto-dock</a>
+Website: <a href="https://otodock.io" rel="nofollow">https://otodock.io</a></p>
 <hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49629747">https://news.ycombinator.com/item?id=49629747</a></p>
-<p>Points: 3</p>
-<p># Comments: 1</p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49630606">https://news.ycombinator.com/item?id=49630606</a></p>
+<p>Points: 16</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://rdltr.app/](https://rdltr.app/)
+🔗 **Read more:** [https://github.com/OtoDock/oto-dock](https://github.com/OtoDock/oto-dock)
 
 ---
 
-### 3. Every Millisecond Counts
+### 3. Apple Watch Ultra 4
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://jordivillar.com/blog/every-millisecond-counts">https://jordivillar.com/blog/every-millisecond-counts</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49629608">https://news.ycombinator.com/item?id=49629608</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.apple.com/newsroom/2026/09/apple-unveils-apple-watch-ultra-4/">https://www.apple.com/newsroom/2026/09/apple-unveils-apple-watch-ultra-4/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49630583">https://news.ycombinator.com/item?id=49630583</a></p>
+<p>Points: 35</p>
+<p># Comments: 69</p>
 
-🔗 **Read more:** [https://jordivillar.com/blog/every-millisecond-counts](https://jordivillar.com/blog/every-millisecond-counts)
+🔗 **Read more:** [https://www.apple.com/newsroom/2026/09/apple-unveils-apple-watch-ultra-4/](https://www.apple.com/newsroom/2026/09/apple-unveils-apple-watch-ultra-4/)
 
 ---
 
@@ -72,7 +74,20 @@ The investigation, which follows a broadcast by Channel 4 News, is being folded 
 
 ---
 
-### 5. National security can't come at expense of social security, Burnham says
+### 5. Air traffic failure was avoidable, says transport secretary
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Heidi Alexander orders an investigation into the glitch that caused more than 2,000 flight cancellations.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5y42v5n05do?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5y42v5n05do?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. National security can't come at expense of social security, Burnham says
 
 **Source:** BBC
 
@@ -85,55 +100,42 @@ The prime minister says he will fund defence and get the welfare bill down in "t
 
 ---
 
-### 6. Watch: Europe's royalty pay last respects to King Harald V in Norway
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Tens of thousands of people lined the streets to pay their respects after 13 days of national mourning.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/clyjd6jz101o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/clyjd6jz101o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Inside Israel’s prisons, where Ben-Gvir’s cruelty is policy
+### 7. Israeli strike targets home in Gaza’s al-Shati refugee camp
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Palestinian prisoners are being kept in inhumane conditions in Israeli detention facilities, overseen by Ben-Gvir.
+An Israeli strike devastated a home in Gaza City’s al-Shati refugee camp, heavily damaging surrounding homes.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/9/9/inside-israels-prisons-where-ben-gvirs-cruelty-is-policy?traffic_source=rss](https://www.aljazeera.com/features/2026/9/9/inside-israels-prisons-where-ben-gvirs-cruelty-is-policy?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/9/israeli-strike-targets-home-in-gazas-al-shati-refugee-camp?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/9/israeli-strike-targets-home-in-gazas-al-shati-refugee-camp?traffic_source=rss)
 
 ---
 
-### 8. 78 people including newborn rescued in Mediterranean
+### 8. Two rescued after plane makes emergency landing in Black Sea
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-At least 78 people including a newborn baby were rescued from the Mediterranean Sea.
+Two Belgian nationals were rescued by Turkish authorities after their private aircraft suffered engine failure.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/9/78-people-including-newborn-rescued-in-mediterranean?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/9/78-people-including-newborn-rescued-in-mediterranean?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/9/two-rescued-after-plane-makes-emergency-landing-in-black-sea?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/9/two-rescued-after-plane-makes-emergency-landing-in-black-sea?traffic_source=rss)
 
 ---
 
-### 9. LIVE: Napoli vs Arsenal – UEFA Champions League
+### 9. China slams US claims of ‘industrial-scale’ AI theft
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Follow live updates from our text commentary stream coverage as favourites Arsenal begin their Champions League season.
+The response comes after three US agencies accused Chinese AI companies of exploiting American AI models.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/liveblog/2026/9/9/live-napoli-vs-arsenal-uefa-champions-league?traffic_source=rss](https://www.aljazeera.com/sports/liveblog/2026/9/9/live-napoli-vs-arsenal-uefa-champions-league?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/9/china-slams-us-claims-of-industrial-scale-ai-theft?traffic_source=rss](https://www.aljazeera.com/news/2026/9/9/china-slams-us-claims-of-industrial-scale-ai-theft?traffic_source=rss)
 
 ---
 

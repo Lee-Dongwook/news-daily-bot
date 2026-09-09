@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-09 12:22:34
+**Last Update:** 2026-09-09 15:05:59
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. How GPT‑5.6 Sol helps run quantum computing experiments
+### 1. Flock Wants a Closely Surveilled World with No Exit
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://openai.com/index/codex-quantum-computing-experiments/">https://openai.com/index/codex-quantum-computing-experiments/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49622561">https://news.ycombinator.com/item?id=49622561</a></p>
-<p>Points: 32</p>
-<p># Comments: 9</p>
+<p>Article URL: <a href="https://www.newyorker.com/culture/infinite-scroll/flock-wants-a-closely-surveilled-world-with-no-exit">https://www.newyorker.com/culture/infinite-scroll/flock-wants-a-closely-surveilled-world-with-no-exit</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49624394">https://news.ycombinator.com/item?id=49624394</a></p>
+<p>Points: 21</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://openai.com/index/codex-quantum-computing-experiments/](https://openai.com/index/codex-quantum-computing-experiments/)
+🔗 **Read more:** [https://www.newyorker.com/culture/infinite-scroll/flock-wants-a-closely-surveilled-world-with-no-exit](https://www.newyorker.com/culture/infinite-scroll/flock-wants-a-closely-surveilled-world-with-no-exit)
 
 ---
 
-### 2. On Really Trying (2009)
+### 2. Anthropic researcher believes more than 10% chance AI 'could kill all humans'
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://gwern.net/on-really-trying">https://gwern.net/on-really-trying</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49622305">https://news.ycombinator.com/item?id=49622305</a></p>
-<p>Points: 33</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://www.bbc.co.uk/news/articles/ckgwy1k42w4o">https://www.bbc.co.uk/news/articles/ckgwy1k42w4o</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49624255">https://news.ycombinator.com/item?id=49624255</a></p>
+<p>Points: 17</p>
+<p># Comments: 23</p>
 
-🔗 **Read more:** [https://gwern.net/on-really-trying](https://gwern.net/on-really-trying)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckgwy1k42w4o](https://www.bbc.co.uk/news/articles/ckgwy1k42w4o)
 
 ---
 
-### 3. Copyright does more harm than good and should be abolished
+### 3. How An AI math breakthrough ignited a controversy
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://grapheneos.social/@GrapheneOS/117231186011306184">https://grapheneos.social/@GrapheneOS/117231186011306184</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49622042">https://news.ycombinator.com/item?id=49622042</a></p>
-<p>Points: 188</p>
-<p># Comments: 121</p>
+<p>Article URL: <a href="https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy">https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49624163">https://news.ycombinator.com/item?id=49624163</a></p>
+<p>Points: 56</p>
+<p># Comments: 28</p>
 
-🔗 **Read more:** [https://grapheneos.social/@GrapheneOS/117231186011306184](https://grapheneos.social/@GrapheneOS/117231186011306184)
+🔗 **Read more:** [https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy](https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy)
 
 ---
 
@@ -71,7 +71,7 @@ Four victims describe being targeted by criminals and then not being taken serio
 
 ---
 
-### 5. Oil hits $100 a barrel for first time since July after US strikes
+### 5. Oil hits $100 a barrel for first time since July after US and Houthi strikes
 
 **Source:** BBC
 
@@ -84,55 +84,55 @@ Brent crude - the global benchmark for prices - rises after the US hit five Iran
 
 ---
 
-### 6. 'Constantly on my mind' - 9/11 agony endures for bereaved, 25 years on
+### 6. Anthropic researcher believes more than 10% chance AI 'could kill all humans'
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-As the 25th anniversary approaches, the wait for the alleged mastermind of the attack to be put on trial goes on.
+It is the latest in a series of increasing warnings about the safety threat posed by artificial intelligence.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/clyrjw1yj75o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/clyrjw1yj75o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Flash floods surge through Morocco’s Atlas Mountains
+### 7. The losers of the US-Canada trade war
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Video shows floodwaters sweeping through Morocco’s Atlas Mountains after heavy rain in Khenifra.
+The losers of the US-Canada trade war
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/9/flash-floods-surge-through-moroccos-atlas-mountains?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/9/flash-floods-surge-through-moroccos-atlas-mountains?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/money-works/2026/9/9/the-losers-of-the-us-canada-trade-war?traffic_source=rss](https://www.aljazeera.com/video/money-works/2026/9/9/the-losers-of-the-us-canada-trade-war?traffic_source=rss)
 
 ---
 
-### 8. In maps and charts: Russian and Ukrainian attacks on civilian targets
+### 8. ‘Overdue first step’: UK reacts to gov’t ban on Israeli settlement trade
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Al Jazeera visualises how attacks on civilian infrastructure have more than doubled during the course of the war.
+UK bans imports from illegal Israeli settlements in a strong policy move after recognising a Palestinian state last year.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/9/in-maps-and-charts-russian-and-ukrainian-attacks-on-civilian-targets?traffic_source=rss](https://www.aljazeera.com/news/2026/9/9/in-maps-and-charts-russian-and-ukrainian-attacks-on-civilian-targets?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/9/overdue-first-step-uk-reacts-to-govt-ban-on-israeli-settlement-trade?traffic_source=rss](https://www.aljazeera.com/news/2026/9/9/overdue-first-step-uk-reacts-to-govt-ban-on-israeli-settlement-trade?traffic_source=rss)
 
 ---
 
-### 9. Video: Protesters shut down UNHCR headquarters in Tripoli, Libya
+### 9. Yemen war escalates: Who are the key actors involved?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The United Nations refugee agency headquarters in Tripoli, Libya, has been sealed shut by protesters.
+Here is a look at the main actors currently involved in the conflict.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/9/video-protesters-shut-down-unhcr-headquarters-in-tripoli-libya?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/9/video-protesters-shut-down-unhcr-headquarters-in-tripoli-libya?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/9/yemen-war-escalates-who-are-the-key-actors-involved?traffic_source=rss](https://www.aljazeera.com/news/2026/9/9/yemen-war-escalates-who-are-the-key-actors-involved?traffic_source=rss)
 
 ---
 

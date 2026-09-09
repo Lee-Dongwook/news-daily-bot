@@ -1,91 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-09 09:39:13
+**Last Update:** 2026-09-09 12:22:34
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. A Biography of Lee Holloway, the Architect of Cloudflare's Technology (Part 1)
+### 1. How GPT‑5.6 Sol helps run quantum computing experiments
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://note.com/masakazu_urabe/n/n7815f5b64fab?hl=en">https://note.com/masakazu_urabe/n/n7815f5b64fab?hl=en</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49621102">https://news.ycombinator.com/item?id=49621102</a></p>
-<p>Points: 10</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://openai.com/index/codex-quantum-computing-experiments/">https://openai.com/index/codex-quantum-computing-experiments/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49622561">https://news.ycombinator.com/item?id=49622561</a></p>
+<p>Points: 32</p>
+<p># Comments: 9</p>
 
-🔗 **Read more:** [https://note.com/masakazu_urabe/n/n7815f5b64fab?hl=en](https://note.com/masakazu_urabe/n/n7815f5b64fab?hl=en)
+🔗 **Read more:** [https://openai.com/index/codex-quantum-computing-experiments/](https://openai.com/index/codex-quantum-computing-experiments/)
 
 ---
 
-### 2. 27.5KB language-agnostic WebGPU syntax highlighter
+### 2. On Really Trying (2009)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://gpu-lexer.vercel.app/">https://gpu-lexer.vercel.app/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49619464">https://news.ycombinator.com/item?id=49619464</a></p>
-<p>Points: 42</p>
-<p># Comments: 15</p>
+<p>Article URL: <a href="https://gwern.net/on-really-trying">https://gwern.net/on-really-trying</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49622305">https://news.ycombinator.com/item?id=49622305</a></p>
+<p>Points: 33</p>
+<p># Comments: 6</p>
 
-🔗 **Read more:** [https://gpu-lexer.vercel.app/](https://gpu-lexer.vercel.app/)
+🔗 **Read more:** [https://gwern.net/on-really-trying](https://gwern.net/on-really-trying)
 
 ---
 
-### 3. I resigned from Anthropic today
+### 3. Copyright does more harm than good and should be abolished
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p><a href="https://xcancel.com/hilbertspaess/status/2097476196791709843#m" rel="nofollow">https://xcancel.com/hilbertspaess/status/2097476196791709843...</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49619227">https://news.ycombinator.com/item?id=49619227</a></p>
-<p>Points: 292</p>
-<p># Comments: 354</p>
+<p>Article URL: <a href="https://grapheneos.social/@GrapheneOS/117231186011306184">https://grapheneos.social/@GrapheneOS/117231186011306184</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49622042">https://news.ycombinator.com/item?id=49622042</a></p>
+<p>Points: 188</p>
+<p># Comments: 121</p>
 
-🔗 **Read more:** [https://twitter.com/hilbertspaess/status/2097476196791709843#m](https://twitter.com/hilbertspaess/status/2097476196791709843#m)
-
----
-
-### 4. Paul Adams: British-Israeli relations at lowest ebb in decades
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Israel's response to London's trade ban with Israeli settlements in the occupied West Bank shows how important this moment is.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://grapheneos.social/@GrapheneOS/117231186011306184](https://grapheneos.social/@GrapheneOS/117231186011306184)
 
 ---
 
-### 5. More flight delays expected after hundreds cancelled by air traffic control glitch
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Departures from a number of airports are affected by a technical problem affecting air traffic control provider Nats.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Drug gangs exploited and raped us as teens, then police failed us, women tell BBC
+### 4. Drug gangs exploited and raped us as teens, then police failed us, women tell BBC
 
 **Source:** BBC
 
@@ -98,42 +71,68 @@ Four victims describe being targeted by criminals and then not being taken serio
 
 ---
 
-### 7. As SDF disband in Syria, Kurds ponder how to secure their rights
+### 5. Oil hits $100 a barrel for first time since July after US strikes
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-As the Kurdish forces dissolve, experts express concern if their rights will be won through democratic means.
+Brent crude - the global benchmark for prices - rises after the US hit five Iranian tankers on Tuesday
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/9/as-sdf-disband-in-syria-kurds-ponder-how-to-secure-their-rights?traffic_source=rss](https://www.aljazeera.com/news/2026/9/9/as-sdf-disband-in-syria-kurds-ponder-how-to-secure-their-rights?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. US midterm elections: Key takeaways from New Hampshire primaries
+### 6. 'Constantly on my mind' - 9/11 agony endures for bereaved, 25 years on
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-The GOP aims to gain a New England foothold as Democrats strive to retain the Senate seat.
+As the 25th anniversary approaches, the wait for the alleged mastermind of the attack to be put on trial goes on.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/9/us-midterm-elections-key-takeaways-from-new-hampshire-primaries?traffic_source=rss](https://www.aljazeera.com/news/2026/9/9/us-midterm-elections-key-takeaways-from-new-hampshire-primaries?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/clyrjw1yj75o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/clyrjw1yj75o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 9. Why US-Iran war over Hormuz is threatening the Gulf’s waters
+### 7. Flash floods surge through Morocco’s Atlas Mountains
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US-Iran attacks on tankers around Hormuz are raising fears of devastating oil spills across the Gulf.
+Video shows floodwaters sweeping through Morocco’s Atlas Mountains after heavy rain in Khenifra.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/9/why-us-iran-war-over-hormuz-is-threatening-the-gulfs-waters?traffic_source=rss](https://www.aljazeera.com/news/2026/9/9/why-us-iran-war-over-hormuz-is-threatening-the-gulfs-waters?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/9/flash-floods-surge-through-moroccos-atlas-mountains?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/9/flash-floods-surge-through-moroccos-atlas-mountains?traffic_source=rss)
+
+---
+
+### 8. In maps and charts: Russian and Ukrainian attacks on civilian targets
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Al Jazeera visualises how attacks on civilian infrastructure have more than doubled during the course of the war.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/9/in-maps-and-charts-russian-and-ukrainian-attacks-on-civilian-targets?traffic_source=rss](https://www.aljazeera.com/news/2026/9/9/in-maps-and-charts-russian-and-ukrainian-attacks-on-civilian-targets?traffic_source=rss)
+
+---
+
+### 9. Video: Protesters shut down UNHCR headquarters in Tripoli, Libya
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The United Nations refugee agency headquarters in Tripoli, Libya, has been sealed shut by protesters.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/9/video-protesters-shut-down-unhcr-headquarters-in-tripoli-libya?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/9/video-protesters-shut-down-unhcr-headquarters-in-tripoli-libya?traffic_source=rss)
 
 ---
 

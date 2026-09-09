@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-09 23:23:50
+**Last Update:** 2026-09-10 00:11:05
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.apple.com/iphone-duo/">https://www.apple.com/iphone-duo/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49630931">https://news.ycombinator.com/item?id=49630931</a></p>
-<p>Points: 336</p>
-<p># Comments: 787</p>
+<p>Points: 475</p>
+<p># Comments: 1080</p>
 
 🔗 **Read more:** [https://www.apple.com/iphone-duo/](https://www.apple.com/iphone-duo/)
 
@@ -38,8 +38,8 @@ This is a company OS that I built and use to run my business and anyone can inst
 Website: <a href="https://otodock.io" rel="nofollow">https://otodock.io</a></p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49630606">https://news.ycombinator.com/item?id=49630606</a></p>
-<p>Points: 16</p>
-<p># Comments: 4</p>
+<p>Points: 18</p>
+<p># Comments: 5</p>
 
 🔗 **Read more:** [https://github.com/OtoDock/oto-dock](https://github.com/OtoDock/oto-dock)
 
@@ -54,8 +54,8 @@ Website: <a href="https://otodock.io" rel="nofollow">https://otodock.io</a></p>
 **Description:**
 <p>Article URL: <a href="https://www.apple.com/newsroom/2026/09/apple-unveils-apple-watch-ultra-4/">https://www.apple.com/newsroom/2026/09/apple-unveils-apple-watch-ultra-4/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49630583">https://news.ycombinator.com/item?id=49630583</a></p>
-<p>Points: 35</p>
-<p># Comments: 69</p>
+<p>Points: 50</p>
+<p># Comments: 82</p>
 
 🔗 **Read more:** [https://www.apple.com/newsroom/2026/09/apple-unveils-apple-watch-ultra-4/](https://www.apple.com/newsroom/2026/09/apple-unveils-apple-watch-ultra-4/)
 
@@ -100,42 +100,42 @@ The prime minister says he will fund defence and get the welfare bill down in "t
 
 ---
 
-### 7. Israeli strike targets home in Gaza’s al-Shati refugee camp
+### 7. IAEA board refers Iran to UN Security Council over nuclear ‘non-compliance’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-An Israeli strike devastated a home in Gaza City’s al-Shati refugee camp, heavily damaging surrounding homes.
+The symbolic escalation has been initiated by the United States, Germany, France and the United Kingdom.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/9/israeli-strike-targets-home-in-gazas-al-shati-refugee-camp?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/9/israeli-strike-targets-home-in-gazas-al-shati-refugee-camp?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/9/iaea-board-resolves-to-report-iran-to-security-council-over-nuclear-program?traffic_source=rss](https://www.aljazeera.com/news/2026/9/9/iaea-board-resolves-to-report-iran-to-security-council-over-nuclear-program?traffic_source=rss)
 
 ---
 
-### 8. Two rescued after plane makes emergency landing in Black Sea
+### 8. UK man charged with assisting Russian military spies in sabotage plot
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Two Belgian nationals were rescued by Turkish authorities after their private aircraft suffered engine failure.
+Joshua Cammidge, 31, has been charged after alleged contact with a member of the GRU Volunteer Corps.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/9/two-rescued-after-plane-makes-emergency-landing-in-black-sea?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/9/two-rescued-after-plane-makes-emergency-landing-in-black-sea?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/9/uk-man-charged-with-assisting-russian-intelligence-connected-group?traffic_source=rss](https://www.aljazeera.com/news/2026/9/9/uk-man-charged-with-assisting-russian-intelligence-connected-group?traffic_source=rss)
 
 ---
 
-### 9. China slams US claims of ‘industrial-scale’ AI theft
+### 9. Yemen envoy warns of wider war as Houthis threaten Bab al-Mandeb Strait
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The response comes after three US agencies accused Chinese AI companies of exploiting American AI models.
+In an interview with Al Jazeera, Yemen&#039;s ambassador warns Houthi attacks threaten global shipping.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/9/china-slams-us-claims-of-industrial-scale-ai-theft?traffic_source=rss](https://www.aljazeera.com/news/2026/9/9/china-slams-us-claims-of-industrial-scale-ai-theft?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/9/yemen-envoy-warns-of-wider-war-as-houthis-threaten-bab-al-mandeb-strait?traffic_source=rss](https://www.aljazeera.com/news/2026/9/9/yemen-envoy-warns-of-wider-war-as-houthis-threaten-bab-al-mandeb-strait?traffic_source=rss)
 
 ---
 

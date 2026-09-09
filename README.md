@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-09 03:25:36
+**Last Update:** 2026-09-09 04:48:58
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. A Topological Picture Book, Rendered
+### 1. I Resigned from Anthropic Today
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://xcancel.com/hilbertspaess/status/2097476196791709843#m">https://xcancel.com/hilbertspaess/status/2097476196791709843#m</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49619227">https://news.ycombinator.com/item?id=49619227</a></p>
+<p>Points: 22</p>
+<p># Comments: 9</p>
+
+🔗 **Read more:** [https://xcancel.com/hilbertspaess/status/2097476196791709843#m](https://xcancel.com/hilbertspaess/status/2097476196791709843#m)
+
+---
+
+### 2. A Topological Picture Book, Rendered
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://e-infinity.space/picture-book/">https://e-infinity.space/picture-book/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49618050">https://news.ycombinator.com/item?id=49618050</a></p>
-<p>Points: 19</p>
-<p># Comments: 0</p>
+<p>Points: 40</p>
+<p># Comments: 5</p>
 
 🔗 **Read more:** [https://e-infinity.space/picture-book/](https://e-infinity.space/picture-book/)
 
 ---
 
-### 2. Large language models develop novel social biases through adaptive exploration
+### 3. Large language models develop novel social biases through adaptive exploration
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH">https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49617581">https://news.ycombinator.com/item?id=49617581</a></p>
-<p>Points: 61</p>
-<p># Comments: 28</p>
+<p>Points: 83</p>
+<p># Comments: 44</p>
 
 🔗 **Read more:** [https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH](https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH)
-
----
-
-### 3. How to build a printer
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/">https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49617255">https://news.ycombinator.com/item?id=49617255</a></p>
-<p>Points: 71</p>
-<p># Comments: 9</p>
-
-🔗 **Read more:** [https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/](https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/)
 
 ---
 
@@ -97,42 +97,42 @@ Departures from a number of airports are affected by a technical problem affecti
 
 ---
 
-### 7. Mamdani releases records on toxic air in New York after 9/11 attacks
+### 7. Sharpeville massacre, 66 years on: Families still wait for justice
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The New York City mayor said the document release shows victims were &#039;lied to&#039; about health impacts from the attacks.
+More than six decades after police opened fire on protesters, survivors and relatives are taking their fight to court.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/8/mamdani-releases-records-on-toxic-air-in-new-york-after-9-11?traffic_source=rss](https://www.aljazeera.com/news/2026/9/8/mamdani-releases-records-on-toxic-air-in-new-york-after-9-11?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/9/sharpeville-massacre-66-years-on-families-still-wait-for-justice?traffic_source=rss](https://www.aljazeera.com/news/2026/9/9/sharpeville-massacre-66-years-on-families-still-wait-for-justice?traffic_source=rss)
 
 ---
 
-### 8. The Map Was Lying To You: Why the UN Just Changed How We See Africa
+### 8. Anti-AfD protesters rally in Cologne after far-right election win
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-For 450 years, the world&#039;s most-used map has made Africa look smaller than it really is.
+Thousands of protesters rallied in Cologne against the AfD after the far-right group&#039;s election victory.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/8/the-map-was-lying-to-you-why-the-un-just-changed-how-we-see-africa?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/8/the-map-was-lying-to-you-why-the-un-just-changed-how-we-see-africa?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/9/aje-onl-nf_anti-afd-protesters-rally-in-after-election-win-080926?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/9/aje-onl-nf_anti-afd-protesters-rally-in-after-election-win-080926?traffic_source=rss)
 
 ---
 
-### 9. Napoli vs Arsenal: Champions League – prediction, teams, lineups
+### 9. Marco Rubio says US seeks more economic and security ties in Latin America
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Napoli has issues in midfield for its Champions League opener against Arsenal, but hope to recover Serie A winning form.
+The US secretary of state visits Colombia, Ecuador and Peru in a bid to enhance cooperation with right-wing allies.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/8/napoli-vs-arsenal-champions-league-prediction-teams-lineups?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/8/napoli-vs-arsenal-champions-league-prediction-teams-lineups?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/9/marco-rubio-says-us-seeks-more-economic-and-security-ties-in-latin-america?traffic_source=rss](https://www.aljazeera.com/news/2026/9/9/marco-rubio-says-us-seeks-more-economic-and-security-ties-in-latin-america?traffic_source=rss)
 
 ---
 

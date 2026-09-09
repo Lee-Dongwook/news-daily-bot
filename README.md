@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-09 17:03:46
+**Last Update:** 2026-09-09 20:17:17
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Teen reading slumps to worst this century due to surge in screen time
+### 1. Defining AI Psychosis. Part 2: "Prolific AI Psychosis"
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://finance.yahoo.com/news/teen-reading-slumps-worst-century-111013754.html">https://finance.yahoo.com/news/teen-reading-slumps-worst-century-111013754.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49625461">https://news.ycombinator.com/item?id=49625461</a></p>
-<p>Points: 24</p>
-<p># Comments: 35</p>
+<p>Article URL: <a href="https://jeffs.blog/p/defining-ai-psychosis-part-2-prolific">https://jeffs.blog/p/defining-ai-psychosis-part-2-prolific</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49628880">https://news.ycombinator.com/item?id=49628880</a></p>
+<p>Points: 15</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://finance.yahoo.com/news/teen-reading-slumps-worst-century-111013754.html](https://finance.yahoo.com/news/teen-reading-slumps-worst-century-111013754.html)
+🔗 **Read more:** [https://jeffs.blog/p/defining-ai-psychosis-part-2-prolific](https://jeffs.blog/p/defining-ai-psychosis-part-2-prolific)
 
 ---
 
-### 2. Roame (YC S23) Is Hiring Viral Content Editor
+### 2. Anthropic Is Building a Predictive Surveillance System to Monitor Activists
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.ycombinator.com/companies/roame/jobs/KuVVqSh-content-systems-builder-editor">https://www.ycombinator.com/companies/roame/jobs/KuVVqSh-content-systems-builder-editor</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49625110">https://news.ycombinator.com/item?id=49625110</a></p>
-<p>Points: 0</p>
+<p>Article URL: <a href="https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists/">https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49628704">https://news.ycombinator.com/item?id=49628704</a></p>
+<p>Points: 135</p>
+<p># Comments: 40</p>
+
+🔗 **Read more:** [https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists/](https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists/)
+
+---
+
+### 3. Understanding the Recent DDoS Attack Against Read the Docs
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://about.readthedocs.com/blog/2026/09/2026-ddos-attack/">https://about.readthedocs.com/blog/2026/09/2026-ddos-attack/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49628614">https://news.ycombinator.com/item?id=49628614</a></p>
+<p>Points: 9</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.ycombinator.com/companies/roame/jobs/KuVVqSh-content-systems-builder-editor](https://www.ycombinator.com/companies/roame/jobs/KuVVqSh-content-systems-builder-editor)
+🔗 **Read more:** [https://about.readthedocs.com/blog/2026/09/2026-ddos-attack/](https://about.readthedocs.com/blog/2026/09/2026-ddos-attack/)
 
 ---
 
-### 3. I advertise malicious software on Google Ads
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://xlii.space/eng/malicious-software-on-google-ads/">https://xlii.space/eng/malicious-software-on-google-ads/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49624856">https://news.ycombinator.com/item?id=49624856</a></p>
-<p>Points: 117</p>
-<p># Comments: 50</p>
-
-🔗 **Read more:** [https://xlii.space/eng/malicious-software-on-google-ads/](https://xlii.space/eng/malicious-software-on-google-ads/)
-
----
-
-### 4. Miliband rejects chief rabbi's claim British Jews in greater danger after sanctions move
+### 4. Police launch criminal investigation into Reform UK donations
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The foreign secretary disagrees that sanctions on Israeli settlements could put British Jews at greater risk.
+The investigation, which follows a broadcast by Channel 4 News, is being folded into the inquiry that has been under way into other donations.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ce9e3djdz94o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ce9e3djdz94o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cp3k72k1y3vo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cp3k72k1y3vo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Actor Noel Clarke charged with sexual offences
+### 5. National security can't come at expense of social security, Burnham says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Clarke has been charged with offences including sexual assault. BBC News has asked him for a comment.
+The prime minister says he will fund defence and get the welfare bill down in "the Labour way".
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c86x0y3wd9do?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c86x0y3wd9do?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5yw3223w1vo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5yw3223w1vo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Drug gangs exploited and raped us as teens, then police failed us, women tell BBC
+### 6. Watch: Europe's royalty pay last respects to King Harald V in Norway
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Four victims describe being targeted by criminals and then not being taken seriously by the authorities.
+Tens of thousands of people lined the streets to pay their respects after 13 days of national mourning.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9w41v2r742o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9w41v2r742o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/clyjd6jz101o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/clyjd6jz101o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. At least 14 killed in weapons depot blast in Syria’s Idlib, state TV says
+### 7. LIVE: Napoli vs Arsenal – UEFA Champions League
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-This is a breaking news story.
+Follow live updates from our text commentary stream coverage as favourites Arsenal begin their Champions League season.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/9/at-least-14-killed-in-weapons-depot-blast-in-syrias-idlib-state-tv-says?traffic_source=rss](https://www.aljazeera.com/news/2026/9/9/at-least-14-killed-in-weapons-depot-blast-in-syrias-idlib-state-tv-says?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/liveblog/2026/9/9/live-napoli-vs-arsenal-uefa-champions-league?traffic_source=rss](https://www.aljazeera.com/sports/liveblog/2026/9/9/live-napoli-vs-arsenal-uefa-champions-league?traffic_source=rss)
 
 ---
 
-### 8. Journalists missing after Indonesian volcanic eruption
+### 8. Attackers kill police officer, kidnap teachers in Cameroon’s northwest
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Journalists missing after Indonesian volcanic eruption
+An armed group attacks a teacher training centre in the town of Wum, according to the Northwest Region&#039;s governor.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/9/journalists-missing-after-indonesian-volcanic-eruption?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/9/journalists-missing-after-indonesian-volcanic-eruption?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/9/attackers-kill-police-officer-kidnap-teachers-in-cameroons-northwest?traffic_source=rss](https://www.aljazeera.com/news/2026/9/9/attackers-kill-police-officer-kidnap-teachers-in-cameroons-northwest?traffic_source=rss)
 
 ---
 
-### 9. AI researcher quits Anthropic saying AI race ‘could kill us all’
+### 9. LIVE: Liverpool vs Atletico Madrid – Champions League
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-AI researcher warns the industry is racing towards superintelligent AI that could improve itself beyond human control.
+Follow updates from the league phase clash, including the build-up, analysis and live text commentary of the game.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/9/ai-researcher-quits-anthropic-saying-ai-race-could-kill-us?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/9/ai-researcher-quits-anthropic-saying-ai-race-could-kill-us?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/liveblog/2026/9/9/live-liverpool-vs-atletico-madrid-champions-league?traffic_source=rss](https://www.aljazeera.com/sports/liveblog/2026/9/9/live-liverpool-vs-atletico-madrid-champions-league?traffic_source=rss)
 
 ---
 

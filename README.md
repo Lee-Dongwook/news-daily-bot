@@ -1,29 +1,78 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-10 04:42:32
+**Last Update:** 2026-09-10 07:17:52
 
 **Total News:** 9
 
-**Sources:** BBC, NASA, Al Jazeera
+**Sources:** Al Jazeera, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Police launch criminal investigation into Reform UK donations
+### 1. Training a 3.8B LLM to 0.384 CORE for $998 – Hugo Vergnes
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://hugovergnes.github.io/little-lm-3-8b/">https://hugovergnes.github.io/little-lm-3-8b/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49637435">https://news.ycombinator.com/item?id=49637435</a></p>
+<p>Points: 8</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://hugovergnes.github.io/little-lm-3-8b/](https://hugovergnes.github.io/little-lm-3-8b/)
+
+---
+
+### 2. A Stupid Idea for AI Alignment We Came with by Looking at Specification Gaming
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/">https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49637395">https://news.ycombinator.com/item?id=49637395</a></p>
+<p>Points: 8</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/](https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/)
+
+---
+
+### 3. Show HN: What if the speed of light was 5 km/h?
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>I've always wanted to make a visualization where the speed of light was scaled down to human speeds, so that we could intuit relativistic effects with everyday objects. And here is the first version of it!</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49637385">https://news.ycombinator.com/item?id=49637385</a></p>
+<p>Points: 41</p>
+<p># Comments: 26</p>
+
+🔗 **Read more:** [https://rivendell.dmitrybrant.com/relativity/](https://rivendell.dmitrybrant.com/relativity/)
+
+---
+
+### 4. England's mayors to be given power to introduce tourist tax
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The investigation, which follows a broadcast by Channel 4 News, is being folded into the inquiry that has been under way into other donations.
+The government is expected to outline how local leaders will be able to impose levies on overnight stays.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cp3k72k1y3vo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cp3k72k1y3vo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 2. Iran war will not end until after November US elections, says Trump
+### 5. Iran war will not end until after November US elections, says Trump
 
 **Source:** BBC
 
@@ -36,94 +85,55 @@ The president also tells reporters he does not think oil prices will come down u
 
 ---
 
-### 3. Air traffic failure was avoidable, says transport secretary
+### 6. Police launch criminal investigation into Reform UK donations
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Heidi Alexander orders an investigation into the glitch that caused more than 2,000 flight cancellations.
+The investigation, which follows a broadcast by Channel 4 News, is being folded into the inquiry that has been under way into other donations.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5y42v5n05do?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5y42v5n05do?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cp3k72k1y3vo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cp3k72k1y3vo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. US states sue Trump over weakening of endangered species protections
+### 7. Netanyahu to sue Haaretz over claims UAE warned him before October 7 attack
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Attorneys general from 20 states and Washington, DC, say the US government illegally rolled back landmark protections.
+Israeli prime minister denies claim that UAE president warned him of Hamas plans before the 2023 attacks.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/10/us-states-sue-trump-over-weakening-of-endangered-species-protections?traffic_source=rss](https://www.aljazeera.com/news/2026/9/10/us-states-sue-trump-over-weakening-of-endangered-species-protections?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/10/netanyahu-to-sue-haaretz-over-claims-uae-warned-him-before-october-7-attack?traffic_source=rss](https://www.aljazeera.com/news/2026/9/10/netanyahu-to-sue-haaretz-over-claims-uae-warned-him-before-october-7-attack?traffic_source=rss)
 
 ---
 
-### 5. Republicans divided over Trump’s economy as RNC begins
+### 8. Why is Iran bombing Jordan’s Al-Azraq base?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Republican strategist Adolfo Franco and GOP adviser Rina Shah clash over Trump’s handling of the economy.
+Iran has increased its targeting of Jordan’s Muwaffaq Salti Air Base near Al-Azraq in recent weeks.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/10/aje-onl-nf_republicans-divided-over-trumps-economy-as-rnc-090926?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/10/aje-onl-nf_republicans-divided-over-trumps-economy-as-rnc-090926?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/10/why-is-iran-bombing-jordans-al-azraq-base?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/10/why-is-iran-bombing-jordans-al-azraq-base?traffic_source=rss)
 
 ---
 
-### 6. Trump administration proposes excluding certain immigrants from US census
+### 9. Trump vows to be at centre of US midterms: Republican convention takeaways
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The proposal aims to exclude some legal and undocumented immigrants from the count used to determine US House seats.
+Trump says, &#039;Pretend I’m on the ballot,&#039; as he rallies Republicans ahead of challenging midterm elections.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/10/trump-administration-proposes-excluding-certain-immigrants-from-us-census?traffic_source=rss](https://www.aljazeera.com/news/2026/9/10/trump-administration-proposes-excluding-certain-immigrants-from-us-census?traffic_source=rss)
-
----
-
-### 7. Wildfire S7, Broward, Florida
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24100](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24100)
-
----
-
-### 8. Wildfire Needles, Oglala Lakota, South Dakota
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24096](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24096)
-
----
-
-### 9. Incident Complex Rattlesnake Complex, Prairie, Montana
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24095](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24095)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/10/trump-vows-to-be-at-centre-of-us-midterms-republican-convention-takeaways?traffic_source=rss](https://www.aljazeera.com/news/2026/9/10/trump-vows-to-be-at-centre-of-us-midterms-republican-convention-takeaways?traffic_source=rss)
 
 ---
 

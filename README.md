@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-10 07:17:52
+**Last Update:** 2026-09-10 09:38:53
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Training a 3.8B LLM to 0.384 CORE for $998 – Hugo Vergnes
+### 1. All grown-ups were once children… but only few of them remember it
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://mathstodon.xyz/@tao/117244102901892965">https://mathstodon.xyz/@tao/117244102901892965</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49638280">https://news.ycombinator.com/item?id=49638280</a></p>
+<p>Points: 10</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://mathstodon.xyz/@tao/117244102901892965](https://mathstodon.xyz/@tao/117244102901892965)
+
+---
+
+### 2. Training a 3.8B LLM to 0.384 CORE for $998 – Hugo Vergnes
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://hugovergnes.github.io/little-lm-3-8b/">https://hugovergnes.github.io/little-lm-3-8b/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49637435">https://news.ycombinator.com/item?id=49637435</a></p>
-<p>Points: 8</p>
-<p># Comments: 1</p>
+<p>Points: 39</p>
+<p># Comments: 6</p>
 
 🔗 **Read more:** [https://hugovergnes.github.io/little-lm-3-8b/](https://hugovergnes.github.io/little-lm-3-8b/)
 
 ---
 
-### 2. A Stupid Idea for AI Alignment We Came with by Looking at Specification Gaming
+### 3. A Stupid Idea for AI Alignment We Came with by Looking at Specification Gaming
 
 **Source:** Hacker News
 
@@ -35,27 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/">https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49637395">https://news.ycombinator.com/item?id=49637395</a></p>
-<p>Points: 8</p>
-<p># Comments: 1</p>
+<p>Points: 40</p>
+<p># Comments: 25</p>
 
 🔗 **Read more:** [https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/](https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/)
-
----
-
-### 3. Show HN: What if the speed of light was 5 km/h?
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>I've always wanted to make a visualization where the speed of light was scaled down to human speeds, so that we could intuit relativistic effects with everyday objects. And here is the first version of it!</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49637385">https://news.ycombinator.com/item?id=49637385</a></p>
-<p>Points: 41</p>
-<p># Comments: 26</p>
-
-🔗 **Read more:** [https://rivendell.dmitrybrant.com/relativity/](https://rivendell.dmitrybrant.com/relativity/)
 
 ---
 
@@ -79,61 +78,100 @@ The government is expected to outline how local leaders will be able to impose l
 **Category:** world
 
 **Description:**
-The president also tells reporters he does not think oil prices will come down until after the crucial November vote.
+The president also said oil prices won't come down until after the November races, claiming without evidence that Iran wants to impact the election.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Police launch criminal investigation into Reform UK donations
+### 6. Trump pledges $5,000 to every American - and other takeaways from  Republican midterms convention
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The investigation, which follows a broadcast by Channel 4 News, is being folded into the inquiry that has been under way into other donations.
+He covered many of the subjects he has returned to time and again - with a few surprises thrown in.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cp3k72k1y3vo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cp3k72k1y3vo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cg7kjlzlev1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cg7kjlzlev1o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Netanyahu to sue Haaretz over claims UAE warned him before October 7 attack
+### 7. Zverev defeats Van de Zandschulp in straight sets to enter US Open semis
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli prime minister denies claim that UAE president warned him of Hamas plans before the 2023 attacks.
+The German, who faces Russia’s Karen Khachanov, is the only Grand Slam winner left standing in the men&#039;s draw.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/10/netanyahu-to-sue-haaretz-over-claims-uae-warned-him-before-october-7-attack?traffic_source=rss](https://www.aljazeera.com/news/2026/9/10/netanyahu-to-sue-haaretz-over-claims-uae-warned-him-before-october-7-attack?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/10/zverev-defeats-van-de-zandschulp-in-straight-sets-to-enter-us-open-semis?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/10/zverev-defeats-van-de-zandschulp-in-straight-sets-to-enter-us-open-semis?traffic_source=rss)
 
 ---
 
-### 8. Why is Iran bombing Jordan’s Al-Azraq base?
+### 8. Anthropic discloses 4th AI hacking incident as researcher quits over safety
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Iran has increased its targeting of Jordan’s Muwaffaq Salti Air Base near Al-Azraq in recent weeks.
+AI firm says Claude Opus 4.6 hacked external systems during testing as concerns mount over security breaches.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/10/why-is-iran-bombing-jordans-al-azraq-base?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/10/why-is-iran-bombing-jordans-al-azraq-base?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/10/anthropic-discloses-fourth-ai-breach-as-researcher-quits-over-safety?traffic_source=rss](https://www.aljazeera.com/news/2026/9/10/anthropic-discloses-fourth-ai-breach-as-researcher-quits-over-safety?traffic_source=rss)
 
 ---
 
-### 9. Trump vows to be at centre of US midterms: Republican convention takeaways
+### 9. Fighting escalates in Yemen; Houthi attacks trigger alerts in Saudi Arabia
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Trump says, &#039;Pretend I’m on the ballot,&#039; as he rallies Republicans ahead of challenging midterm elections.
+Yemen&#039;s government accuses Houthis of killing three children as rebels claim Saudi forces launched 54 air raids in 12 hours.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/10/trump-vows-to-be-at-centre-of-us-midterms-republican-convention-takeaways?traffic_source=rss](https://www.aljazeera.com/news/2026/9/10/trump-vows-to-be-at-centre-of-us-midterms-republican-convention-takeaways?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/10/fighting-escalates-in-yemen-houthi-attacks-trigger-alerts-in-saudi-arabia?traffic_source=rss](https://www.aljazeera.com/news/2026/9/10/fighting-escalates-in-yemen-houthi-attacks-trigger-alerts-in-saudi-arabia?traffic_source=rss)
+
+---
+
+### 10. Wildfire S7, Broward, Florida
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24100](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24100)
+
+---
+
+### 11. Wildfire Needles, Oglala Lakota, South Dakota
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24096](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24096)
+
+---
+
+### 12. Incident Complex Rattlesnake Complex, Prairie, Montana
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24095](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24095)
 
 ---
 

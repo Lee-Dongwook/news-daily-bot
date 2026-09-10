@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-10 21:03:40
+**Last Update:** 2026-09-10 23:22:37
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Cognition's SWE-2 achieves 92.8 on Terminal-Bench 2.1
+### 1. Genuine Creativity Is Your New Moat (2026)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://tokenstead.ai/models/swe-2">https://tokenstead.ai/models/swe-2</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49646778">https://news.ycombinator.com/item?id=49646778</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat">https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49648732">https://news.ycombinator.com/item?id=49648732</a></p>
+<p>Points: 13</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://tokenstead.ai/models/swe-2](https://tokenstead.ai/models/swe-2)
+🔗 **Read more:** [https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat](https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat)
 
 ---
 
-### 2. Software Drives People Insane
+### 2. JEP 544: Ahead-of-Time Code Compilation
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://graybeard.ing/software-drives-people-insane/">https://graybeard.ing/software-drives-people-insane/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49646181">https://news.ycombinator.com/item?id=49646181</a></p>
-<p>Points: 51</p>
-<p># Comments: 32</p>
+<p>Article URL: <a href="https://openjdk.org/jeps/544">https://openjdk.org/jeps/544</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49647404">https://news.ycombinator.com/item?id=49647404</a></p>
+<p>Points: 29</p>
+<p># Comments: 15</p>
 
-🔗 **Read more:** [https://graybeard.ing/software-drives-people-insane/](https://graybeard.ing/software-drives-people-insane/)
+🔗 **Read more:** [https://openjdk.org/jeps/544](https://openjdk.org/jeps/544)
 
 ---
 
-### 3. Forgejo <=16.0.3 Critical RCE
+### 3. Music Theory for the 21st-Century Classroom
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md">https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49645907">https://news.ycombinator.com/item?id=49645907</a></p>
-<p>Points: 27</p>
-<p># Comments: 8</p>
+<p>Article URL: <a href="https://musictheory.pugetsound.edu/mt21c/MusicTheory.html">https://musictheory.pugetsound.edu/mt21c/MusicTheory.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49647134">https://news.ycombinator.com/item?id=49647134</a></p>
+<p>Points: 42</p>
+<p># Comments: 16</p>
 
-🔗 **Read more:** [https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md](https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md)
+🔗 **Read more:** [https://musictheory.pugetsound.edu/mt21c/MusicTheory.html](https://musictheory.pugetsound.edu/mt21c/MusicTheory.html)
 
 ---
 
@@ -97,42 +97,42 @@ Two anti-migrant protests took place in Dover and Portsmouth last weekend.
 
 ---
 
-### 7. Israel arrests 100 Palestinians in a week as West Bank pogroms continue
+### 7. Jimmy Kimmel moves Senate interview to YouTube in latest collision with FCC
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Palestinian Prisoner’s Society says detained include children, journalists and ex-prisoner freed in recent exchange deal
+The decision follows a year of surging regulatory hurdles over candidate appearances on the Disney-owned network.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/10/israel-arrests-100-palestinians-in-a-week-as-west-bank-pogroms-continue?traffic_source=rss](https://www.aljazeera.com/news/2026/9/10/israel-arrests-100-palestinians-in-a-week-as-west-bank-pogroms-continue?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/10/jimmy-kimmel-moves-senate-interview-to-youtube-in-latest-collision-with-fcc?traffic_source=rss](https://www.aljazeera.com/news/2026/9/10/jimmy-kimmel-moves-senate-interview-to-youtube-in-latest-collision-with-fcc?traffic_source=rss)
 
 ---
 
-### 8. US Supreme Court blocks Republican-drawn congressional map in Missouri
+### 8. Amnesty accuses Russia of trafficking foreigners to fight in Ukraine
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Rejection comes as Republican official in Missouri faces contempt charges for ignoring a lower court ruling.
+Report reveals foreign nationals were misled with job offers, then forced into Russia&#039;s army upon arrival.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/10/us-supreme-court-blocks-republican-drawn-congressional-map-in-missouri?traffic_source=rss](https://www.aljazeera.com/news/2026/9/10/us-supreme-court-blocks-republican-drawn-congressional-map-in-missouri?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/10/amnesty-accuses-russia-of-trafficking-foreigners-to-fight-in-ukraine?traffic_source=rss](https://www.aljazeera.com/news/2026/9/10/amnesty-accuses-russia-of-trafficking-foreigners-to-fight-in-ukraine?traffic_source=rss)
 
 ---
 
-### 9. Trump’s Iran war now has a midterm election problem
+### 9. Fire onboard ship at Chinese shipyard kills 25 people
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Trump has tied the end of his war on Iran to the midterms. But with Iran holding firm, the political cost is mounting.
+At least 25 people were killed after a fire broke out aboard a ship at a shipyard in China.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/10/trumps-iran-war-now-has-a-midterm-election-problem?traffic_source=rss](https://www.aljazeera.com/news/2026/9/10/trumps-iran-war-now-has-a-midterm-election-problem?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/10/09-10-china-shipyard-fire-clip-mp4?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/10/09-10-china-shipyard-fire-clip-mp4?traffic_source=rss)
 
 ---
 

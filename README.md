@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-11 00:05:56
+**Last Update:** 2026-09-11 02:10:38
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Genuine Creativity Is Your New Moat (2026)
+### 1. NTSB Issues Investigative Update on B-767 Runway Excursion Accident in Miami
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat">https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49648732">https://news.ycombinator.com/item?id=49648732</a></p>
-<p>Points: 45</p>
-<p># Comments: 27</p>
+<p>Article URL: <a href="https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx">https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49650418">https://news.ycombinator.com/item?id=49650418</a></p>
+<p>Points: 24</p>
+<p># Comments: 16</p>
 
-🔗 **Read more:** [https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat](https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat)
+🔗 **Read more:** [https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx](https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx)
 
 ---
 
-### 2. JEP 544: Ahead-of-Time Code Compilation
+### 2. The part of Navier-Stokes no one is talking about
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://openjdk.org/jeps/544">https://openjdk.org/jeps/544</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49647404">https://news.ycombinator.com/item?id=49647404</a></p>
-<p>Points: 35</p>
-<p># Comments: 18</p>
+<p>Article URL: <a href="https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/">https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49650326">https://news.ycombinator.com/item?id=49650326</a></p>
+<p>Points: 88</p>
+<p># Comments: 66</p>
 
-🔗 **Read more:** [https://openjdk.org/jeps/544](https://openjdk.org/jeps/544)
+🔗 **Read more:** [https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/](https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/)
 
 ---
 
-### 3. Music Theory for the 21st-Century Classroom
+### 3. Bodily Oddities
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://musictheory.pugetsound.edu/mt21c/MusicTheory.html">https://musictheory.pugetsound.edu/mt21c/MusicTheory.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49647134">https://news.ycombinator.com/item?id=49647134</a></p>
-<p>Points: 64</p>
-<p># Comments: 30</p>
+<p>Article URL: <a href="https://vester.si/bodily-oddities/">https://vester.si/bodily-oddities/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49649789">https://news.ycombinator.com/item?id=49649789</a></p>
+<p>Points: 13</p>
+<p># Comments: 13</p>
 
-🔗 **Read more:** [https://musictheory.pugetsound.edu/mt21c/MusicTheory.html](https://musictheory.pugetsound.edu/mt21c/MusicTheory.html)
+🔗 **Read more:** [https://vester.si/bodily-oddities/](https://vester.si/bodily-oddities/)
 
 ---
 
@@ -97,42 +97,42 @@ Two anti-migrant protests took place in Dover and Portsmouth last weekend.
 
 ---
 
-### 7. US appeals court rejects Trump bid to implement new vote-by-mail rules
+### 7. Spain’s Parliament backs citizenship for Western Saharans born before 1977
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The ruling is a blow to Trump administration&#039;s efforts to change how mail-in voting works ahead of November elections.
+After lower house approval, the bill to grant tens of thousands of Sahrawis citizenship now goes to the Spanish Senate.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/10/us-appeals-court-rejects-trump-bid-to-implement-new-vote-by-mail-rules?traffic_source=rss](https://www.aljazeera.com/news/2026/9/10/us-appeals-court-rejects-trump-bid-to-implement-new-vote-by-mail-rules?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/10/spains-parliament-backs-citizenship-for-western-saharans-born-before-1977?traffic_source=rss](https://www.aljazeera.com/news/2026/9/10/spains-parliament-backs-citizenship-for-western-saharans-born-before-1977?traffic_source=rss)
 
 ---
 
-### 8. Could Pakistan enter Yemen conflict under Mecca agreement?
+### 8. LG defends smart-TV features amid audio surveillance allegations
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Pakistan says no military response has been discussed under its new defence pact with Saudi Arabia and Turkiye.
+Recent accusations against the electronics company have raised new questions about the nonconsensual data it harvests.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/10/10-09-sv-pakistan-yemen-mecca-pk?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/10/10-09-sv-pakistan-yemen-mecca-pk?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/10/lg-defends-smart-tv-features-amid-audio-surveillance-allegations?traffic_source=rss](https://www.aljazeera.com/news/2026/9/10/lg-defends-smart-tv-features-amid-audio-surveillance-allegations?traffic_source=rss)
 
 ---
 
-### 9. Algeria cuts diplomatic ties with UAE: What we know
+### 9. Peru joins US-led ‘Shield of the Americas’ security alliance
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Algiers ends relations with Gulf state over &#039;provocative and hostile&#039; actions, after years of tensions.
+Fujimori administration is latest right-wing government to join alliance for a more aggressive approach against crime.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/10/algeria-cuts-diplomatic-ties-with-uae-what-we-know?traffic_source=rss](https://www.aljazeera.com/news/2026/9/10/algeria-cuts-diplomatic-ties-with-uae-what-we-know?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/10/peru-joins-us-led-shield-of-the-americas-security-alliance?traffic_source=rss](https://www.aljazeera.com/news/2026/9/10/peru-joins-us-led-shield-of-the-americas-security-alliance?traffic_source=rss)
 
 ---
 

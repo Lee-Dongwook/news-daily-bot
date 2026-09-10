@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-10 23:22:37
+**Last Update:** 2026-09-11 00:05:56
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat">https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49648732">https://news.ycombinator.com/item?id=49648732</a></p>
-<p>Points: 13</p>
-<p># Comments: 4</p>
+<p>Points: 45</p>
+<p># Comments: 27</p>
 
 🔗 **Read more:** [https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat](https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://openjdk.org/jeps/544">https://openjdk.org/jeps/544</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49647404">https://news.ycombinator.com/item?id=49647404</a></p>
-<p>Points: 29</p>
-<p># Comments: 15</p>
+<p>Points: 35</p>
+<p># Comments: 18</p>
 
 🔗 **Read more:** [https://openjdk.org/jeps/544](https://openjdk.org/jeps/544)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://musictheory.pugetsound.edu/mt21c/MusicTheory.html">https://musictheory.pugetsound.edu/mt21c/MusicTheory.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49647134">https://news.ycombinator.com/item?id=49647134</a></p>
-<p>Points: 42</p>
-<p># Comments: 16</p>
+<p>Points: 64</p>
+<p># Comments: 30</p>
 
 🔗 **Read more:** [https://musictheory.pugetsound.edu/mt21c/MusicTheory.html](https://musictheory.pugetsound.edu/mt21c/MusicTheory.html)
 
@@ -97,42 +97,42 @@ Two anti-migrant protests took place in Dover and Portsmouth last weekend.
 
 ---
 
-### 7. Jimmy Kimmel moves Senate interview to YouTube in latest collision with FCC
+### 7. US appeals court rejects Trump bid to implement new vote-by-mail rules
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The decision follows a year of surging regulatory hurdles over candidate appearances on the Disney-owned network.
+The ruling is a blow to Trump administration&#039;s efforts to change how mail-in voting works ahead of November elections.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/10/jimmy-kimmel-moves-senate-interview-to-youtube-in-latest-collision-with-fcc?traffic_source=rss](https://www.aljazeera.com/news/2026/9/10/jimmy-kimmel-moves-senate-interview-to-youtube-in-latest-collision-with-fcc?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/10/us-appeals-court-rejects-trump-bid-to-implement-new-vote-by-mail-rules?traffic_source=rss](https://www.aljazeera.com/news/2026/9/10/us-appeals-court-rejects-trump-bid-to-implement-new-vote-by-mail-rules?traffic_source=rss)
 
 ---
 
-### 8. Amnesty accuses Russia of trafficking foreigners to fight in Ukraine
+### 8. Could Pakistan enter Yemen conflict under Mecca agreement?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Report reveals foreign nationals were misled with job offers, then forced into Russia&#039;s army upon arrival.
+Pakistan says no military response has been discussed under its new defence pact with Saudi Arabia and Turkiye.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/10/amnesty-accuses-russia-of-trafficking-foreigners-to-fight-in-ukraine?traffic_source=rss](https://www.aljazeera.com/news/2026/9/10/amnesty-accuses-russia-of-trafficking-foreigners-to-fight-in-ukraine?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/10/10-09-sv-pakistan-yemen-mecca-pk?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/10/10-09-sv-pakistan-yemen-mecca-pk?traffic_source=rss)
 
 ---
 
-### 9. Fire onboard ship at Chinese shipyard kills 25 people
+### 9. Algeria cuts diplomatic ties with UAE: What we know
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-At least 25 people were killed after a fire broke out aboard a ship at a shipyard in China.
+Algiers ends relations with Gulf state over &#039;provocative and hostile&#039; actions, after years of tensions.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/10/09-10-china-shipyard-fire-clip-mp4?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/10/09-10-china-shipyard-fire-clip-mp4?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/10/algeria-cuts-diplomatic-ties-with-uae-what-we-know?traffic_source=rss](https://www.aljazeera.com/news/2026/9/10/algeria-cuts-diplomatic-ties-with-uae-what-we-know?traffic_source=rss)
 
 ---
 

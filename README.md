@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-10 16:54:31
+**Last Update:** 2026-09-10 20:03:15
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Another researcher says OpenAI trained on conversations, then claimed breakthrou
+### 1. Software Drives People Insane
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://bsky.app/profile/did:plc:ckaz32jwl6t2cno6fmuw2nhn/post/3mv4mt4ikss2d">https://bsky.app/profile/did:plc:ckaz32jwl6t2cno6fmuw2nhn/post/3mv4mt4ikss2d</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49643112">https://news.ycombinator.com/item?id=49643112</a></p>
-<p>Points: 22</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://graybeard.ing/software-drives-people-insane/">https://graybeard.ing/software-drives-people-insane/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49646181">https://news.ycombinator.com/item?id=49646181</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://bsky.app/profile/did:plc:ckaz32jwl6t2cno6fmuw2nhn/post/3mv4mt4ikss2d](https://bsky.app/profile/did:plc:ckaz32jwl6t2cno6fmuw2nhn/post/3mv4mt4ikss2d)
+🔗 **Read more:** [https://graybeard.ing/software-drives-people-insane/](https://graybeard.ing/software-drives-people-insane/)
 
 ---
 
-### 2. The Feminist Was a Spy
+### 2. One resignation turned the embers of AI fear into a wildfire
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://uscpublicdiplomacy.org/blog/feminist-was-spy">https://uscpublicdiplomacy.org/blog/feminist-was-spy</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49643077">https://news.ycombinator.com/item?id=49643077</a></p>
-<p>Points: 8</p>
+<p>Article URL: <a href="https://www.interconnects.ai/p/one-resignation-turned-the-embers">https://www.interconnects.ai/p/one-resignation-turned-the-embers</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49646123">https://news.ycombinator.com/item?id=49646123</a></p>
+<p>Points: 7</p>
 <p># Comments: 1</p>
 
-🔗 **Read more:** [https://uscpublicdiplomacy.org/blog/feminist-was-spy](https://uscpublicdiplomacy.org/blog/feminist-was-spy)
+🔗 **Read more:** [https://www.interconnects.ai/p/one-resignation-turned-the-embers](https://www.interconnects.ai/p/one-resignation-turned-the-embers)
 
 ---
 
-### 3. List of references on Sony websites to players "owning" their digital games
+### 3. Casablanca: How an unproduced play marched into movie history
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://consumerrights.wiki/w/Sony_PlayStation_digital_game_ownership_lawsuit">https://consumerrights.wiki/w/Sony_PlayStation_digital_game_ownership_lawsuit</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49642531">https://news.ycombinator.com/item?id=49642531</a></p>
-<p>Points: 31</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://www.thecollector.com/casablanca-unproduced-play-movie-history/">https://www.thecollector.com/casablanca-unproduced-play-movie-history/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49645826">https://news.ycombinator.com/item?id=49645826</a></p>
+<p>Points: 10</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://consumerrights.wiki/w/Sony_PlayStation_digital_game_ownership_lawsuit](https://consumerrights.wiki/w/Sony_PlayStation_digital_game_ownership_lawsuit)
+🔗 **Read more:** [https://www.thecollector.com/casablanca-unproduced-play-movie-history/](https://www.thecollector.com/casablanca-unproduced-play-movie-history/)
 
 ---
 
@@ -71,7 +71,20 @@ Hospitality leaders warn the uncapped levy would risk jobs and push prices up fo
 
 ---
 
-### 5. Trump says every adult American would get $5,000 if Republicans win midterm elections
+### 5. Oil, gas and borrowing costs surge as fears over Middle East escalate
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The price of oil jumps to $105 a barrel amid signs the Iran war will not be resolved quickly.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Trump says every adult American would get $5,000 if Republicans win midterm elections
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ Speaking at a party convention, the US president gave no details on how the plan
 
 ---
 
-### 6. Watch: Is Trump's $5,000 election pledge legal?
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The US president has said every American will get $5,000 (£3,700) if the Republican Party wins November's midterms.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/czxzwge59w8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/czxzwge59w8o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. The Trump loyalty test: Will his supporters ever disagree with him?
+### 7. Oil jumps to $105, pushing up chances of a US interest rate increase
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The Trump loyalty test: Will his supporters ever disagree with him?
+Prices spiked as attacks on oil tankers escalated in the Middle East.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/10/the-trump-loyalty-test-will-his-supporters-ever-disagree-with-him?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/10/the-trump-loyalty-test-will-his-supporters-ever-disagree-with-him?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/10/oil-jumps-to-105-pushing-up-chances-of-a-us-interest-rate-increase?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/10/oil-jumps-to-105-pushing-up-chances-of-a-us-interest-rate-increase?traffic_source=rss)
 
 ---
 
-### 8. Hundreds of thousands lack adequate shelter at Sudan’s Tawila camp
+### 8. LIVE: Manchester United vs Sabah – UEFA Champions League
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Insufficient aid and shelter increase hardship for displaced in Tawila, as malnutrition and disease spread rapidly.
+Live updates from our text commentary stream coverage as Bruno Fernandes and Marcus Rashford star in the league phase.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/9/10/hundreds-of-thousands-lack-adequate-shelter-at-sudans-tawila-camp?traffic_source=rss](https://www.aljazeera.com/features/2026/9/10/hundreds-of-thousands-lack-adequate-shelter-at-sudans-tawila-camp?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/liveblog/2026/9/10/live-manchester-united-vs-sabah-uefa-champions-league?traffic_source=rss](https://www.aljazeera.com/sports/liveblog/2026/9/10/live-manchester-united-vs-sabah-uefa-champions-league?traffic_source=rss)
 
 ---
 
-### 9. At least 25 dead after cargo ship catches fire in China
+### 9. UN expert Albanese, protesters warn against Italy’s anti-Semitism bill
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Fire breaks out on ship being repaired in the port of Qingdao, eastern China.
+Protesters in Rome and UN Special Rapporteur Francesca Albanese, warn proposed law could silence criticism of Israel.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/10/at-least-25-dead-after-cargo-ship-catches-fire-in-china?traffic_source=rss](https://www.aljazeera.com/news/2026/9/10/at-least-25-dead-after-cargo-ship-catches-fire-in-china?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/10/un-expert-albanese-protesters-warn-against-italys-anti-semitism-bill?traffic_source=rss](https://www.aljazeera.com/news/2026/9/10/un-expert-albanese-protesters-warn-against-italys-anti-semitism-bill?traffic_source=rss)
 
 ---
 

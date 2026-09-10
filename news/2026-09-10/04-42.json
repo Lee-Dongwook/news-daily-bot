@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-09-10T04:42:32+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Police launch criminal investigation into Reform UK donations",
+            "description": "The investigation, which follows a broadcast by Channel 4 News, is being folded into the inquiry that has been under way into other donations.",
+            "url": "https://www.bbc.co.uk/news/articles/cp3k72k1y3vo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 09 Sep 2026 20:22:00 GMT",
+            "fetched": "2026-09-10T04:42:32+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Iran war will not end until after November US elections, says Trump",
+            "description": "The president also tells reporters he does not think oil prices will come down until after the crucial November vote.",
+            "url": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 09 Sep 2026 23:46:06 GMT",
+            "fetched": "2026-09-10T04:42:32+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Air traffic failure was avoidable, says transport secretary",
+            "description": "Heidi Alexander orders an investigation into the glitch that caused more than 2,000 flight cancellations.",
+            "url": "https://www.bbc.co.uk/news/articles/c5y42v5n05do?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 09 Sep 2026 18:21:16 GMT",
+            "fetched": "2026-09-10T04:42:32+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US states sue Trump over weakening of endangered species protections",
+            "description": "Attorneys general from 20 states and Washington, DC, say the US government illegally rolled back landmark protections.",
+            "url": "https://www.aljazeera.com/news/2026/9/10/us-states-sue-trump-over-weakening-of-endangered-species-protections?traffic_source=rss",
+            "published": "Thu, 10 Sep 2026 00:52:05 +0000",
+            "fetched": "2026-09-10T04:42:32+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Republicans divided over Trump’s economy as RNC begins",
+            "description": "Republican strategist Adolfo Franco and GOP adviser Rina Shah clash over Trump’s handling of the economy.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/10/aje-onl-nf_republicans-divided-over-trumps-economy-as-rnc-090926?traffic_source=rss",
+            "published": "Thu, 10 Sep 2026 00:33:12 +0000",
+            "fetched": "2026-09-10T04:42:32+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump administration proposes excluding certain immigrants from US census",
+            "description": "The proposal aims to exclude some legal and undocumented immigrants from the count used to determine US House seats.",
+            "url": "https://www.aljazeera.com/news/2026/9/10/trump-administration-proposes-excluding-certain-immigrants-from-us-census?traffic_source=rss",
+            "published": "Thu, 10 Sep 2026 00:33:08 +0000",
+            "fetched": "2026-09-10T04:42:32+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire S7, Broward, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24100",
+            "published": "2026-09-04T15:16:00Z",
+            "fetched": "2026-09-10T04:42:32+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Needles, Oglala Lakota, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24096",
+            "published": "2026-09-04T13:53:00Z",
+            "fetched": "2026-09-10T04:42:32+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Incident Complex Rattlesnake Complex, Prairie, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24095",
+            "published": "2026-09-04T12:59:00Z",
+            "fetched": "2026-09-10T04:42:32+03:30"
+        }
+    ]
+}

@@ -1,65 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-10 12:17:20
+**Last Update:** 2026-09-10 15:03:37
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. DeepSeek v4.1 Flash
+### 1. Mathematicians want proof OpenAI didn't use their work
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p><a href="https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash" rel="nofollow">https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49639090">https://news.ycombinator.com/item?id=49639090</a></p>
-<p>Points: 223</p>
-<p># Comments: 79</p>
+<p>Article URL: <a href="https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data">https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49641792">https://news.ycombinator.com/item?id=49641792</a></p>
+<p>Points: 10</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://twitter.com/deepseek_ai/status/2097930608790167907](https://twitter.com/deepseek_ai/status/2097930608790167907)
+🔗 **Read more:** [https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data](https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data)
 
 ---
 
-### 2. OpenAI might have stolen another major proof
+### 2. Thanks to Siri Recaps, your Apple Watch is always listening
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://twitter.com/ValerioCapraro/status/2097791836269977996">https://twitter.com/ValerioCapraro/status/2097791836269977996</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49638353">https://news.ycombinator.com/item?id=49638353</a></p>
-<p>Points: 202</p>
-<p># Comments: 83</p>
+<p>Article URL: <a href="https://www.techradar.com/health-fitness/smartwatches/thanks-to-siri-recaps-your-apple-watch-is-always-listening-as-you-go-about-your-day-but-apple-may-be-risking-a-meta-glasses-style-backlash">https://www.techradar.com/health-fitness/smartwatches/thanks-to-siri-recaps-your-apple-watch-is-always-listening-as-you-go-about-your-day-but-apple-may-be-risking-a-meta-glasses-style-backlash</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49641401">https://news.ycombinator.com/item?id=49641401</a></p>
+<p>Points: 14</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://twitter.com/ValerioCapraro/status/2097791836269977996](https://twitter.com/ValerioCapraro/status/2097791836269977996)
+🔗 **Read more:** [https://www.techradar.com/health-fitness/smartwatches/thanks-to-siri-recaps-your-apple-watch-is-always-listening-as-you-go-about-your-day-but-apple-may-be-risking-a-meta-glasses-style-backlash](https://www.techradar.com/health-fitness/smartwatches/thanks-to-siri-recaps-your-apple-watch-is-always-listening-as-you-go-about-your-day-but-apple-may-be-risking-a-meta-glasses-style-backlash)
 
 ---
 
-### 3. All grown-ups were once children, but only few of them remember it
+### 3. PlayStation cancels Kojima's PHYSINT, Xbox steps in
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://mathstodon.xyz/@tao/117244102901892965">https://mathstodon.xyz/@tao/117244102901892965</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49638280">https://news.ycombinator.com/item?id=49638280</a></p>
-<p>Points: 147</p>
-<p># Comments: 91</p>
+<p>Article URL: <a href="https://twitter.com/hideo_kojima_en/status/2097877506401681753">https://twitter.com/hideo_kojima_en/status/2097877506401681753</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49641393">https://news.ycombinator.com/item?id=49641393</a></p>
+<p>Points: 17</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://mathstodon.xyz/@tao/117244102901892965](https://mathstodon.xyz/@tao/117244102901892965)
+🔗 **Read more:** [https://twitter.com/hideo_kojima_en/status/2097877506401681753](https://twitter.com/hideo_kojima_en/status/2097877506401681753)
 
 ---
 
-### 4. Trump says every adult American would get $5,000 if Republicans win midterm elections
+### 4. England's mayors to be given power to introduce tourist tax
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Hospitality leaders warn the uncapped levy would risk jobs and push prices up for families holidaying in England.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Trump says every adult American would get $5,000 if Republicans win midterm elections
 
 **Source:** BBC
 
@@ -72,7 +84,7 @@ Speaking at a party convention, the US president gave no details on how the plan
 
 ---
 
-### 5. Watch: Is Trump's $5,000 election pledge legal?
+### 6. Watch: Is Trump's $5,000 election pledge legal?
 
 **Source:** BBC
 
@@ -85,55 +97,42 @@ The US president has said every American will get $5,000 (£3,700) if the Republ
 
 ---
 
-### 6. England's mayors to be given power to introduce tourist tax
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The government is expected to detail how local leaders will be able to impose levies on overnight stays.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. ‘Gone in a blink’: Nepal floods sweep away Indian workers who built hotels
+### 7. IAEA accuses Iran of ‘non-compliance’: Why, and what now?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The migrants were at work, building homes and hotels, when the floods hit, sweeping three of them away.
+Nuclear watchdog has gone more than a year without inspecting key sites; Iran says US attacks have made access unsafe.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/9/10/gone-in-a-blink-nepal-floods-sweep-away-indian-workers-who-built-hotels?traffic_source=rss](https://www.aljazeera.com/features/2026/9/10/gone-in-a-blink-nepal-floods-sweep-away-indian-workers-who-built-hotels?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/10/iaea-accuses-iran-of-non-compliance-why-and-what-now?traffic_source=rss](https://www.aljazeera.com/news/2026/9/10/iaea-accuses-iran-of-non-compliance-why-and-what-now?traffic_source=rss)
 
 ---
 
-### 8. Enrique hails Dembele, praises Toure after PSG’s win over Bratislava
+### 8. Hong Kong court rules Dow Jones tried to stop journalist taking union role
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-PSG coach hails &#039;marvellous&#039; Dembele after the French forward scored two goals in PSG&#039;s 6–1 win over Toure&#039;s side.
+Dow Jones was acquitted of the charge of dismissal over Selina Cheng&#039;s leadership role.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/10/enrique-hails-dembele-praises-toure-after-psgs-win-over-bratislava?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/10/enrique-hails-dembele-praises-toure-after-psgs-win-over-bratislava?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/10/hong-kong-court-rules-dow-jones-tried-to-stop-journalist-taking-union-role?traffic_source=rss](https://www.aljazeera.com/news/2026/9/10/hong-kong-court-rules-dow-jones-tried-to-stop-journalist-taking-union-role?traffic_source=rss)
 
 ---
 
-### 9. Russian attacks kill 7 in Ukraine as Kyiv targets gas plants deep in Arctic
+### 9. How Ukraine’s deepest attack in Russia, on Arctic gas, signals new reach
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ukraine launches one of its deepest strikes to date, targeting natural gas plants in Russia&#039;s Arctic region.
+Long-range Ukrainian drones hit Russia&#039;s key gas plants, raising questions about the conflict&#039;s next phase.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/10/russian-attacks-kill-7-in-ukraine-as-kyiv-targets-gas-plants-deep-in-arctic?traffic_source=rss](https://www.aljazeera.com/news/2026/9/10/russian-attacks-kill-7-in-ukraine-as-kyiv-targets-gas-plants-deep-in-arctic?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/10/how-ukraines-deepest-attack-in-russia-on-arctic-gas-signals-new-reach?traffic_source=rss](https://www.aljazeera.com/news/2026/9/10/how-ukraines-deepest-attack-in-russia-on-arctic-gas-signals-new-reach?traffic_source=rss)
 
 ---
 

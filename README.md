@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-11 02:10:38
+**Last Update:** 2026-09-11 02:29:23
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
@@ -19,14 +19,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx">https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49650418">https://news.ycombinator.com/item?id=49650418</a></p>
-<p>Points: 24</p>
-<p># Comments: 16</p>
+<p>Points: 35</p>
+<p># Comments: 38</p>
 
 🔗 **Read more:** [https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx](https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx)
 
 ---
 
-### 2. The part of Navier-Stokes no one is talking about
+### 2. OpenAI’s Navier-Stokes release included a Lean 4 formal proof
 
 **Source:** Hacker News
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/">https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49650326">https://news.ycombinator.com/item?id=49650326</a></p>
-<p>Points: 88</p>
-<p># Comments: 66</p>
+<p>Points: 105</p>
+<p># Comments: 94</p>
 
 🔗 **Read more:** [https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/](https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://vester.si/bodily-oddities/">https://vester.si/bodily-oddities/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49649789">https://news.ycombinator.com/item?id=49649789</a></p>
-<p>Points: 13</p>
-<p># Comments: 13</p>
+<p>Points: 26</p>
+<p># Comments: 20</p>
 
 🔗 **Read more:** [https://vester.si/bodily-oddities/](https://vester.si/bodily-oddities/)
 

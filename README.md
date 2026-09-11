@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-11 04:27:47
+**Last Update:** 2026-09-11 04:44:21
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
@@ -97,7 +97,33 @@ The price of oil jumps to $105 a barrel amid signs the Iran war will not be reso
 
 ---
 
-### 7. Iran claims to have captured a US ‘sail drone’ near Hormuz Strait
+### 7. Maduro’s wife seeks home detention as heart condition worsens in US custody
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Her lawyers say Flores needs cardiac treatment and recovery facilities a detention centre cannot provide.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/11/maduros-wife-seeks-home-detention-as-heart-condition-worsens-in-us-custody?traffic_source=rss](https://www.aljazeera.com/news/2026/9/11/maduros-wife-seeks-home-detention-as-heart-condition-worsens-in-us-custody?traffic_source=rss)
+
+---
+
+### 8. Why is Uber pulling out of some African markets?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Uber’s exits from Nigeria and Uganda highlight the growing challenges of making ride-hailing work in Africa.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/11/why-is-uber-pulling-out-of-some-african-markets?traffic_source=rss](https://www.aljazeera.com/news/2026/9/11/why-is-uber-pulling-out-of-some-african-markets?traffic_source=rss)
+
+---
+
+### 9. Iran claims to have captured a US ‘sail drone’ near Hormuz Strait
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ The price of oil jumps to $105 a barrel amid signs the Iran war will not be reso
 Iran’s Revolutionary Guard says its navy struck a US-operated surface drone at the entrance of the Strait of Hormuz.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/11/iran-claims-to-have-captured-a-us-sail-drone-near-hormuz-strait?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/11/iran-claims-to-have-captured-a-us-sail-drone-near-hormuz-strait?traffic_source=rss)
-
----
-
-### 8. Will Trump pay all US adults $5,000? Some Trump supporters are sceptical
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Observers on both sides of the political divide express concern about Trump&#039;s pledge to pay &#039;dividend&#039; for midterm wins.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/11/will-trump-pay-all-us-adults-5000-some-trump-supporters-are-sceptical?traffic_source=rss](https://www.aljazeera.com/news/2026/9/11/will-trump-pay-all-us-adults-5000-some-trump-supporters-are-sceptical?traffic_source=rss)
-
----
-
-### 9. Israeli film on Gaza receives 25-minute ovation at Venice premiere
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Venice Film Festival honours NAZA, an expose on Israel&#039;s use of AI systems in Gaza.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/11/israeli-film-on-gaza-receives-25-minute-ovation-at-venice-premiere?traffic_source=rss](https://www.aljazeera.com/news/2026/9/11/israeli-film-on-gaza-receives-25-minute-ovation-at-venice-premiere?traffic_source=rss)
 
 ---
 

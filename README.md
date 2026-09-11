@@ -1,73 +1,73 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-11 15:05:08
+**Last Update:** 2026-09-11 18:24:40
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. The Waymo effect: how AI is quietly making research less collaborative
+### 1. Show HN: ClaudeStatsBar: your session is 486k deep and nothing told you
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.researchagenda.news/articles/the-waymo-effect.html">https://www.researchagenda.news/articles/the-waymo-effect.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49656496">https://news.ycombinator.com/item?id=49656496</a></p>
-<p>Points: 11</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://github.com/Field-Logic-Ltd/ClaudeStatsBar">https://github.com/Field-Logic-Ltd/ClaudeStatsBar</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49658328">https://news.ycombinator.com/item?id=49658328</a></p>
+<p>Points: 13</p>
+<p># Comments: 11</p>
 
-🔗 **Read more:** [https://www.researchagenda.news/articles/the-waymo-effect.html](https://www.researchagenda.news/articles/the-waymo-effect.html)
+🔗 **Read more:** [https://github.com/Field-Logic-Ltd/ClaudeStatsBar](https://github.com/Field-Logic-Ltd/ClaudeStatsBar)
 
 ---
 
-### 2. RTK reports token savings, but our cost benchmarks disagree
+### 2. If coding is solved, what now?: Measuring the sloppiness of code
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/">https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49656471">https://news.ycombinator.com/item?id=49656471</a></p>
-<p>Points: 7</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://earendil.com/posts/measuring-code-sloppiness/">https://earendil.com/posts/measuring-code-sloppiness/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49658311">https://news.ycombinator.com/item?id=49658311</a></p>
+<p>Points: 65</p>
+<p># Comments: 64</p>
 
-🔗 **Read more:** [https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/](https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/)
+🔗 **Read more:** [https://earendil.com/posts/measuring-code-sloppiness/](https://earendil.com/posts/measuring-code-sloppiness/)
 
 ---
 
-### 3. Claude is no longer available for minors
+### 3. Re-Engineering YouTube for the Living Room: Bringing "Chrobalt" to RDK
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://support.claude.com/en/articles/15171100-age-assurance-on-claude">https://support.claude.com/en/articles/15171100-age-assurance-on-claude</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49656225">https://news.ycombinator.com/item?id=49656225</a></p>
-<p>Points: 49</p>
-<p># Comments: 51</p>
+<p>Article URL: <a href="https://www.collabora.com/news-and-blog/news-and-events/re-engineering-youtube-for-the-living-room-bringing-%E2%80%9Cchrobalt%E2%80%9D-to-rdk.html">https://www.collabora.com/news-and-blog/news-and-events/re-engineering-youtube-for-the-living-room-bringing-%E2%80%9Cchrobalt%E2%80%9D-to-rdk.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49658302">https://news.ycombinator.com/item?id=49658302</a></p>
+<p>Points: 10</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://support.claude.com/en/articles/15171100-age-assurance-on-claude](https://support.claude.com/en/articles/15171100-age-assurance-on-claude)
+🔗 **Read more:** [https://www.collabora.com/news-and-blog/news-and-events/re-engineering-youtube-for-the-living-room-bringing-%E2%80%9Cchrobalt%E2%80%9D-to-rdk.html](https://www.collabora.com/news-and-blog/news-and-events/re-engineering-youtube-for-the-living-room-bringing-%E2%80%9Cchrobalt%E2%80%9D-to-rdk.html)
 
 ---
 
-### 4. Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt
+### 4. Anthropic blocks possible attempt to use AI to make biological weapons
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Twenty-five years on, the attacks have come to define a generation of foreign, security and intelligence policy, the BBC's security correspondent writes.
+The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c1l68gmqq24o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c1l68gmqq24o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -84,55 +84,55 @@ The economy expanded by 0.4%, official figures show, whereas analysts had predic
 
 ---
 
-### 6. Anthropic blocks possible attempt to use AI to make biological weapons
+### 6. New hurricane season record as 'historic' El Niño leaves Atlantic eerily quiet
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity.
+The Atlantic hurricane season has reached its climatological peak, but a strong El Niño means no hurricanes have formed this year.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/weather/articles/cwyzq4538j3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/weather/articles/cwyzq4538j3o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Republican midterm message: Democrats are the threat
+### 7. Hull City’s Sorba Thomas unharmed as car overturned in crash
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Republican speakers portrayed Democrats as a threat to America on night two of their midterm convention in Dallas.
+Premier League club confirms accident, says 27-year-old Welsh international &#039;unscathed&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/11/republican-midterm-message-democrats-are-the-threat?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/11/republican-midterm-message-democrats-are-the-threat?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/11/hull-city-sorba-thomas-car-crash-accident-training-ground-premier-league?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/11/hull-city-sorba-thomas-car-crash-accident-training-ground-premier-league?traffic_source=rss)
 
 ---
 
-### 8. Al Jazeera explains massive Israeli blasts on south Lebanon hill
+### 8. ‘Majority do not welcome him’: Trump heads to Ireland amid fury over Gaza
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli forces say they used more than 1,100 tonnes of explosives to demolish alleged Hezbollah tunnels in south Lebanon
+Protests set to erupt across Ireland, where President Connolly has long regarded the US as an untrustworthy power.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/11/09-11-reported-israel-hezb-tunnels-lebanon-mp4?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/11/09-11-reported-israel-hezb-tunnels-lebanon-mp4?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/11/majority-do-not-welcome-him-trump-heads-to-ireland-amid-fury-over-gaza?traffic_source=rss](https://www.aljazeera.com/news/2026/9/11/majority-do-not-welcome-him-trump-heads-to-ireland-amid-fury-over-gaza?traffic_source=rss)
 
 ---
 
-### 9. ‘Blew the hell out of it’: How Iran damaged US bases in Bahrain, Jordan
+### 9. Why Pakistan is talking to Iran as the Houthi-Saudi fight escalates
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US official admits the naval base near Manama sustained heavy damage in the war with Iran.
+Pakistan faces growing pressure to honour its Saudi defence commitments while keeping diplomatic channels to Iran open.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/11/blew-the-hell-out-of-it-how-iran-damaged-us-bases-in-bahrain-jordan?traffic_source=rss](https://www.aljazeera.com/news/2026/9/11/blew-the-hell-out-of-it-how-iran-damaged-us-bases-in-bahrain-jordan?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news-analysis/2026/9/11/why-pakistan-is-talking-to-iran-as-the-houthi-saudi-fight-escalates?traffic_source=rss](https://www.aljazeera.com/news-analysis/2026/9/11/why-pakistan-is-talking-to-iran-as-the-houthi-saudi-fight-escalates?traffic_source=rss)
 
 ---
 

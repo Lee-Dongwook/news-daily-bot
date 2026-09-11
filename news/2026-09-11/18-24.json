@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-11T18:24:40+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: ClaudeStatsBar: your session is 486k deep and nothing told you",
+            "description": "<p>Article URL: <a href=\"https://github.com/Field-Logic-Ltd/ClaudeStatsBar\">https://github.com/Field-Logic-Ltd/ClaudeStatsBar</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49658328\">https://news.ycombinator.com/item?id=49658328</a></p>\n<p>Points: 13</p>\n<p># Comments: 11</p>",
+            "url": "https://github.com/Field-Logic-Ltd/ClaudeStatsBar",
+            "published": "Fri, 11 Sep 2026 13:43:53 +0000",
+            "fetched": "2026-09-11T18:24:40+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "If coding is solved, what now?: Measuring the sloppiness of code",
+            "description": "<p>Article URL: <a href=\"https://earendil.com/posts/measuring-code-sloppiness/\">https://earendil.com/posts/measuring-code-sloppiness/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49658311\">https://news.ycombinator.com/item?id=49658311</a></p>\n<p>Points: 65</p>\n<p># Comments: 64</p>",
+            "url": "https://earendil.com/posts/measuring-code-sloppiness/",
+            "published": "Fri, 11 Sep 2026 13:42:28 +0000",
+            "fetched": "2026-09-11T18:24:40+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Re-Engineering YouTube for the Living Room: Bringing \"Chrobalt\" to RDK",
+            "description": "<p>Article URL: <a href=\"https://www.collabora.com/news-and-blog/news-and-events/re-engineering-youtube-for-the-living-room-bringing-%E2%80%9Cchrobalt%E2%80%9D-to-rdk.html\">https://www.collabora.com/news-and-blog/news-and-events/re-engineering-youtube-for-the-living-room-bringing-%E2%80%9Cchrobalt%E2%80%9D-to-rdk.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49658302\">https://news.ycombinator.com/item?id=49658302</a></p>\n<p>Points: 10</p>\n<p># Comments: 2</p>",
+            "url": "https://www.collabora.com/news-and-blog/news-and-events/re-engineering-youtube-for-the-living-room-bringing-%E2%80%9Cchrobalt%E2%80%9D-to-rdk.html",
+            "published": "Fri, 11 Sep 2026 13:41:58 +0000",
+            "fetched": "2026-09-11T18:24:40+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Anthropic blocks possible attempt to use AI to make biological weapons",
+            "description": "The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity.",
+            "url": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 11 Sep 2026 08:15:25 GMT",
+            "fetched": "2026-09-11T18:24:40+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "AI boom helps drive surprise UK growth in July",
+            "description": "The economy expanded by 0.4%, official figures show, whereas analysts had predicted no growth.",
+            "url": "https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 11 Sep 2026 10:17:28 GMT",
+            "fetched": "2026-09-11T18:24:40+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "New hurricane season record as 'historic' El Niño leaves Atlantic eerily quiet",
+            "description": "The Atlantic hurricane season has reached its climatological peak, but a strong El Niño means no hurricanes have formed this year.",
+            "url": "https://www.bbc.co.uk/weather/articles/cwyzq4538j3o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 10 Sep 2026 23:22:33 GMT",
+            "fetched": "2026-09-11T18:24:40+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Hull City’s Sorba Thomas unharmed as car overturned in crash",
+            "description": "Premier League club confirms accident, says 27-year-old Welsh international &#039;unscathed&#039;.",
+            "url": "https://www.aljazeera.com/sports/2026/9/11/hull-city-sorba-thomas-car-crash-accident-training-ground-premier-league?traffic_source=rss",
+            "published": "Fri, 11 Sep 2026 14:22:19 +0000",
+            "fetched": "2026-09-11T18:24:40+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘Majority do not welcome him’: Trump heads to Ireland amid fury over Gaza",
+            "description": "Protests set to erupt across Ireland, where President Connolly has long regarded the US as an untrustworthy power.",
+            "url": "https://www.aljazeera.com/news/2026/9/11/majority-do-not-welcome-him-trump-heads-to-ireland-amid-fury-over-gaza?traffic_source=rss",
+            "published": "Fri, 11 Sep 2026 14:09:52 +0000",
+            "fetched": "2026-09-11T18:24:40+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why Pakistan is talking to Iran as the Houthi-Saudi fight escalates",
+            "description": "Pakistan faces growing pressure to honour its Saudi defence commitments while keeping diplomatic channels to Iran open.",
+            "url": "https://www.aljazeera.com/news-analysis/2026/9/11/why-pakistan-is-talking-to-iran-as-the-houthi-saudi-fight-escalates?traffic_source=rss",
+            "published": "Fri, 11 Sep 2026 14:07:00 +0000",
+            "fetched": "2026-09-11T18:24:40+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Norbert",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184",
+            "published": "2026-09-10T06:00:00Z",
+            "fetched": "2026-09-11T18:24:40+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire MEERS, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189",
+            "published": "2026-09-08T16:57:00Z",
+            "fetched": "2026-09-11T18:24:40+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Kurk, San Saba, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185",
+            "published": "2026-09-08T16:39:00Z",
+            "fetched": "2026-09-11T18:24:40+03:30"
+        }
+    ]
+}

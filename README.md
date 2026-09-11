@@ -1,73 +1,73 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-11 04:44:21
+**Last Update:** 2026-09-11 09:18:28
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Google will buy half the electricity of a nuclear power plant
+### 1. Exercise intensity is associated with cardiometabolic health
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.bbc.com/news/articles/c8r6y4me2g6o">https://www.bbc.com/news/articles/c8r6y4me2g6o</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49652105">https://news.ycombinator.com/item?id=49652105</a></p>
-<p>Points: 7</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2">https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49653328">https://news.ycombinator.com/item?id=49653328</a></p>
+<p>Points: 42</p>
+<p># Comments: 20</p>
 
-🔗 **Read more:** [https://www.bbc.com/news/articles/c8r6y4me2g6o](https://www.bbc.com/news/articles/c8r6y4me2g6o)
+🔗 **Read more:** [https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2)
 
 ---
 
-### 2. YuE2 · Frontier Music with Symbolic Planning
+### 2. Mexican student creates an acoustic fire extinguisher to put out fire in seconds
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://map-yue2.github.io/">https://map-yue2.github.io/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49652028">https://news.ycombinator.com/item?id=49652028</a></p>
-<p>Points: 5</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/">https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49652237">https://news.ycombinator.com/item?id=49652237</a></p>
+<p>Points: 115</p>
+<p># Comments: 43</p>
 
-🔗 **Read more:** [https://map-yue2.github.io/](https://map-yue2.github.io/)
+🔗 **Read more:** [https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/](https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/)
 
 ---
 
-### 3. Thelio Mira AI Linux Workstation: 192 GB GPU Memory
+### 3. Herdr Studio
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://system76.com/workstations/thelio-mira-ai">https://system76.com/workstations/thelio-mira-ai</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49651372">https://news.ycombinator.com/item?id=49651372</a></p>
-<p>Points: 11</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://powerfooI.github.io/herdr-studio/">https://powerfooI.github.io/herdr-studio/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49652188">https://news.ycombinator.com/item?id=49652188</a></p>
+<p>Points: 20</p>
+<p># Comments: 12</p>
 
-🔗 **Read more:** [https://system76.com/workstations/thelio-mira-ai](https://system76.com/workstations/thelio-mira-ai)
+🔗 **Read more:** [https://powerfooI.github.io/herdr-studio/](https://powerfooI.github.io/herdr-studio/)
 
 ---
 
-### 4. Labour mayors in England vow to cap tourist tax at 5%
+### 4. MPs to vote on legalising assisted dying in England and Wales
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Reform UK and the Conservatives have criticised plans for the new levy on visitors' overnight stays.
+The proposal was backed by a majority of MPs earlier this year but did not become law after its progress was stalled by peers.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2z770jr03o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2z770jr03o?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -84,55 +84,55 @@ Twenty-five years on, the attacks have come to define a generation of foreign, s
 
 ---
 
-### 6. Oil, gas and borrowing costs surge as fears over Middle East escalate
+### 6. Anthropic blocks 'malicious use' of AI that could develop biological weapons
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The price of oil jumps to $105 a barrel amid signs the Iran war will not be resolved quickly.
+The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Maduro’s wife seeks home detention as heart condition worsens in US custody
+### 7. Hundreds flee as fire destroys migrant shelters in Ceuta
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Her lawyers say Flores needs cardiac treatment and recovery facilities a detention centre cannot provide.
+Hundreds of people fled a massive fire that destroyed dozens of migrant shelters in Ceuta, Spain.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/11/maduros-wife-seeks-home-detention-as-heart-condition-worsens-in-us-custody?traffic_source=rss](https://www.aljazeera.com/news/2026/9/11/maduros-wife-seeks-home-detention-as-heart-condition-worsens-in-us-custody?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/11/aje-onl-nf_migrants-flee-as-fire-destroys-shelteres-in-ceuta-110926?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/11/aje-onl-nf_migrants-flee-as-fire-destroys-shelteres-in-ceuta-110926?traffic_source=rss)
 
 ---
 
-### 8. Why is Uber pulling out of some African markets?
+### 8. How 9/11 conspiracy theories moved into mainstream American politics
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Uber’s exits from Nigeria and Uganda highlight the growing challenges of making ride-hailing work in Africa.
+Social media and distrust of government has helped disinformation reach increasingly large audiences.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/11/why-is-uber-pulling-out-of-some-african-markets?traffic_source=rss](https://www.aljazeera.com/news/2026/9/11/why-is-uber-pulling-out-of-some-african-markets?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news-analysis/2026/9/11/how-9-11-conspiracy-theories-moved-into-mainstream-american?traffic_source=rss](https://www.aljazeera.com/news-analysis/2026/9/11/how-9-11-conspiracy-theories-moved-into-mainstream-american?traffic_source=rss)
 
 ---
 
-### 9. Iran claims to have captured a US ‘sail drone’ near Hormuz Strait
+### 9. ‘Everything changed’: The human cost of 25 years of US wars
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Iran’s Revolutionary Guard says its navy struck a US-operated surface drone at the entrance of the Strait of Hormuz.
+Successive wars launched after 9/11 have killed at least 4.5 million people and displaced more than 38 million others.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/11/iran-claims-to-have-captured-a-us-sail-drone-near-hormuz-strait?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/11/iran-claims-to-have-captured-a-us-sail-drone-near-hormuz-strait?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/longform/2026/9/11/everything-changed-the-human-cost-of-25-years-of-us-wars?traffic_source=rss](https://www.aljazeera.com/news/longform/2026/9/11/everything-changed-the-human-cost-of-25-years-of-us-wars?traffic_source=rss)
 
 ---
 

@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-11 14:22:18
+**Last Update:** 2026-09-11 15:05:08
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Cherenkov Radiation - traveling faster than light
+### 1. The Waymo effect: how AI is quietly making research less collaborative
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation">http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49655286">https://news.ycombinator.com/item?id=49655286</a></p>
-<p>Points: 55</p>
-<p># Comments: 39</p>
+<p>Article URL: <a href="https://www.researchagenda.news/articles/the-waymo-effect.html">https://www.researchagenda.news/articles/the-waymo-effect.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49656496">https://news.ycombinator.com/item?id=49656496</a></p>
+<p>Points: 11</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation](http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation)
+🔗 **Read more:** [https://www.researchagenda.news/articles/the-waymo-effect.html](https://www.researchagenda.news/articles/the-waymo-effect.html)
 
 ---
 
-### 2. Neijuan
+### 2. RTK reports token savings, but our cost benchmarks disagree
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://en.wikipedia.org/wiki/Neijuan">https://en.wikipedia.org/wiki/Neijuan</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49655176">https://news.ycombinator.com/item?id=49655176</a></p>
-<p>Points: 33</p>
-<p># Comments: 11</p>
-
-🔗 **Read more:** [https://en.wikipedia.org/wiki/Neijuan](https://en.wikipedia.org/wiki/Neijuan)
-
----
-
-### 3. CSS Curiosities of the Past
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://vale.rocks/posts/css-relics">https://vale.rocks/posts/css-relics</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49654962">https://news.ycombinator.com/item?id=49654962</a></p>
-<p>Points: 9</p>
+<p>Article URL: <a href="https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/">https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49656471">https://news.ycombinator.com/item?id=49656471</a></p>
+<p>Points: 7</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://vale.rocks/posts/css-relics](https://vale.rocks/posts/css-relics)
+🔗 **Read more:** [https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/](https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/)
+
+---
+
+### 3. Claude is no longer available for minors
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://support.claude.com/en/articles/15171100-age-assurance-on-claude">https://support.claude.com/en/articles/15171100-age-assurance-on-claude</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49656225">https://news.ycombinator.com/item?id=49656225</a></p>
+<p>Points: 49</p>
+<p># Comments: 51</p>
+
+🔗 **Read more:** [https://support.claude.com/en/articles/15171100-age-assurance-on-claude](https://support.claude.com/en/articles/15171100-age-assurance-on-claude)
 
 ---
 
@@ -97,42 +97,81 @@ The revelations in Anthropic's threat intelligence report come after a former to
 
 ---
 
-### 7. Family members wait after deadly Philippines ferry fire
+### 7. Republican midterm message: Democrats are the threat
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Dozens of passengers are missing after a fire tore through a ferry in the Philippines, killing at least 5 people.
+Republican speakers portrayed Democrats as a threat to America on night two of their midterm convention in Dallas.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/11/family-members-wait-after-deadly-philippines-ferry-fire?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/11/family-members-wait-after-deadly-philippines-ferry-fire?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/11/republican-midterm-message-democrats-are-the-threat?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/11/republican-midterm-message-democrats-are-the-threat?traffic_source=rss)
 
 ---
 
-### 8. Houthis take control of Yemen’s Red Sea coast, key shipping route
+### 8. Al Jazeera explains massive Israeli blasts on south Lebanon hill
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Rapid advance of Iran-backed force threatens key alternative shipping route to Strait of Hormuz.
+Israeli forces say they used more than 1,100 tonnes of explosives to demolish alleged Hezbollah tunnels in south Lebanon
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/11/houthis-take-control-of-yemens-red-sea-coast-key-shipping-route?traffic_source=rss](https://www.aljazeera.com/news/2026/9/11/houthis-take-control-of-yemens-red-sea-coast-key-shipping-route?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/11/09-11-reported-israel-hezb-tunnels-lebanon-mp4?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/11/09-11-reported-israel-hezb-tunnels-lebanon-mp4?traffic_source=rss)
 
 ---
 
-### 9. Japan, India, Ukraine: Why some countries are uneasy about new UN map
+### 9. ‘Blew the hell out of it’: How Iran damaged US bases in Bahrain, Jordan
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The countries are not opposed to a new map per se; they&#039;re testy about the colour shades.
+US official admits the naval base near Manama sustained heavy damage in the war with Iran.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/11/japan-india-ukraine-why-some-countries-are-uneasy-about-new-un-map?traffic_source=rss](https://www.aljazeera.com/news/2026/9/11/japan-india-ukraine-why-some-countries-are-uneasy-about-new-un-map?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/11/blew-the-hell-out-of-it-how-iran-damaged-us-bases-in-bahrain-jordan?traffic_source=rss](https://www.aljazeera.com/news/2026/9/11/blew-the-hell-out-of-it-how-iran-damaged-us-bases-in-bahrain-jordan?traffic_source=rss)
+
+---
+
+### 10. Tropical Storm Norbert
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184)
+
+---
+
+### 11. Wildfire MEERS, Comanche, Oklahoma
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189)
+
+---
+
+### 12. Wildfire Kurk, San Saba, Texas
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185)
 
 ---
 

@@ -1,77 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-11 09:41:34
+**Last Update:** 2026-09-11 14:22:18
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** BBC, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. The Gemini app is now available for Windows
+### 1. Cherenkov Radiation - traveling faster than light
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/">https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49653699">https://news.ycombinator.com/item?id=49653699</a></p>
-<p>Points: 11</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation">http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49655286">https://news.ycombinator.com/item?id=49655286</a></p>
+<p>Points: 55</p>
+<p># Comments: 39</p>
 
-🔗 **Read more:** [https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/](https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/)
+🔗 **Read more:** [http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation](http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation)
 
 ---
 
-### 2. Exercise intensity is associated with cardiometabolic health
+### 2. Neijuan
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2">https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49653328">https://news.ycombinator.com/item?id=49653328</a></p>
-<p>Points: 64</p>
-<p># Comments: 28</p>
+<p>Article URL: <a href="https://en.wikipedia.org/wiki/Neijuan">https://en.wikipedia.org/wiki/Neijuan</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49655176">https://news.ycombinator.com/item?id=49655176</a></p>
+<p>Points: 33</p>
+<p># Comments: 11</p>
 
-🔗 **Read more:** [https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2)
+🔗 **Read more:** [https://en.wikipedia.org/wiki/Neijuan](https://en.wikipedia.org/wiki/Neijuan)
 
 ---
 
-### 3. Mexican student creates an acoustic fire extinguisher to put out fire in seconds
+### 3. CSS Curiosities of the Past
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/">https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49652237">https://news.ycombinator.com/item?id=49652237</a></p>
-<p>Points: 132</p>
-<p># Comments: 50</p>
+<p>Article URL: <a href="https://vale.rocks/posts/css-relics">https://vale.rocks/posts/css-relics</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49654962">https://news.ycombinator.com/item?id=49654962</a></p>
+<p>Points: 9</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/](https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/)
-
----
-
-### 4. MPs to vote on legalising assisted dying in England and Wales
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The proposal was backed by a majority of MPs earlier this year but did not become law after its progress was stalled by peers.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2z770jr03o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2z770jr03o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://vale.rocks/posts/css-relics](https://vale.rocks/posts/css-relics)
 
 ---
 
-### 5. Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt
+### 4. Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt
 
 **Source:** BBC
 
@@ -84,7 +71,20 @@ Twenty-five years on, the attacks have come to define a generation of foreign, s
 
 ---
 
-### 6. Anthropic blocks 'malicious use' of AI that could develop biological weapons
+### 5. AI boom helps drive surprise UK growth in July
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The economy expanded by 0.4%, official figures show, whereas analysts had predicted no growth.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Anthropic blocks possible attempt to use AI to make biological weapons
 
 **Source:** BBC
 
@@ -97,81 +97,42 @@ The revelations in Anthropic's threat intelligence report come after a former to
 
 ---
 
-### 7. Hundreds flee as fire destroys migrant shelters in Ceuta
+### 7. Family members wait after deadly Philippines ferry fire
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Hundreds of people fled a massive fire that destroyed dozens of migrant shelters in Ceuta, Spain.
+Dozens of passengers are missing after a fire tore through a ferry in the Philippines, killing at least 5 people.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/11/aje-onl-nf_migrants-flee-as-fire-destroys-shelteres-in-ceuta-110926?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/11/aje-onl-nf_migrants-flee-as-fire-destroys-shelteres-in-ceuta-110926?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/11/family-members-wait-after-deadly-philippines-ferry-fire?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/11/family-members-wait-after-deadly-philippines-ferry-fire?traffic_source=rss)
 
 ---
 
-### 8. How 9/11 conspiracy theories moved into mainstream American politics
+### 8. Houthis take control of Yemen’s Red Sea coast, key shipping route
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Social media and distrust of government has helped disinformation reach increasingly large audiences.
+Rapid advance of Iran-backed force threatens key alternative shipping route to Strait of Hormuz.
 
-🔗 **Read more:** [https://www.aljazeera.com/news-analysis/2026/9/11/how-9-11-conspiracy-theories-moved-into-mainstream-american?traffic_source=rss](https://www.aljazeera.com/news-analysis/2026/9/11/how-9-11-conspiracy-theories-moved-into-mainstream-american?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/11/houthis-take-control-of-yemens-red-sea-coast-key-shipping-route?traffic_source=rss](https://www.aljazeera.com/news/2026/9/11/houthis-take-control-of-yemens-red-sea-coast-key-shipping-route?traffic_source=rss)
 
 ---
 
-### 9. ‘Everything changed’: The human cost of 25 years of US wars
+### 9. Japan, India, Ukraine: Why some countries are uneasy about new UN map
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Successive wars launched after 9/11 have killed at least 4.5 million people and displaced more than 38 million others.
+The countries are not opposed to a new map per se; they&#039;re testy about the colour shades.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/longform/2026/9/11/everything-changed-the-human-cost-of-25-years-of-us-wars?traffic_source=rss](https://www.aljazeera.com/news/longform/2026/9/11/everything-changed-the-human-cost-of-25-years-of-us-wars?traffic_source=rss)
-
----
-
-### 10. Tropical Storm Norbert
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184)
-
----
-
-### 11. Wildfire MEERS, Comanche, Oklahoma
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189)
-
----
-
-### 12. Wildfire Kurk, San Saba, Texas
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/11/japan-india-ukraine-why-some-countries-are-uneasy-about-new-un-map?traffic_source=rss](https://www.aljazeera.com/news/2026/9/11/japan-india-ukraine-why-some-countries-are-uneasy-about-new-un-map?traffic_source=rss)
 
 ---
 

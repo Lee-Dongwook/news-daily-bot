@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-11 23:22:52
+**Last Update:** 2026-09-12 01:05:23
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. GrapheneOS' rewritten Messages app is released
+### 1. ElevenLabs Music v2.5
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://elevenmusic.io/blog/introducing-music-v2-5">https://elevenmusic.io/blog/introducing-music-v2-5</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49665210">https://news.ycombinator.com/item?id=49665210</a></p>
+<p>Points: 31</p>
+<p># Comments: 28</p>
+
+🔗 **Read more:** [https://elevenmusic.io/blog/introducing-music-v2-5](https://elevenmusic.io/blog/introducing-music-v2-5)
+
+---
+
+### 2. Txt: A fast, keyboard-driven terminal text editor for engineers
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://txt.hellman.io/">https://txt.hellman.io/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49664322">https://news.ycombinator.com/item?id=49664322</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://txt.hellman.io/](https://txt.hellman.io/)
+
+---
+
+### 3. GrapheneOS' rewritten Messages app is released
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/GrapheneOS/Messaging/releases/tag/13">https://github.com/GrapheneOS/Messaging/releases/tag/13</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49663373">https://news.ycombinator.com/item?id=49663373</a></p>
-<p>Points: 15</p>
-<p># Comments: 2</p>
+<p>Points: 112</p>
+<p># Comments: 64</p>
 
 🔗 **Read more:** [https://github.com/GrapheneOS/Messaging/releases/tag/13](https://github.com/GrapheneOS/Messaging/releases/tag/13)
-
----
-
-### 2. Litelm: LiteLLM Without the Bloat
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/kennethwolters/litelm">https://github.com/kennethwolters/litelm</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49662767">https://news.ycombinator.com/item?id=49662767</a></p>
-<p>Points: 34</p>
-<p># Comments: 12</p>
-
-🔗 **Read more:** [https://github.com/kennethwolters/litelm](https://github.com/kennethwolters/litelm)
-
----
-
-### 3. The EPA Is Planning to Scrap Public Review Rules for Data Center Pollution
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://capitalbnews.org/data-centers-permit-rules-epa/">https://capitalbnews.org/data-centers-permit-rules-epa/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49662672">https://news.ycombinator.com/item?id=49662672</a></p>
-<p>Points: 131</p>
-<p># Comments: 83</p>
-
-🔗 **Read more:** [https://capitalbnews.org/data-centers-permit-rules-epa/](https://capitalbnews.org/data-centers-permit-rules-epa/)
 
 ---
 
@@ -97,42 +97,42 @@ In New York, the Pentagon and Pennsylvania, solemn ceremonies commemorate the la
 
 ---
 
-### 7. How US leaders remembered the 25th anniversary of the 9/11 attacks
+### 7. Somber tributes as US marks the 25th anniversary of September 11 attacks
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Trump drew parallels to the US&#039;s present-day war against Iran, while figures like Abdul El-Sayed called for inclusivity.
+Families are remembering the loved ones they lost in the September 11, 2001 attacks on the US.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/11/how-us-leaders-remembered-the-25th-anniversary-of-the-9-11?traffic_source=rss](https://www.aljazeera.com/news/2026/9/11/how-us-leaders-remembered-the-25th-anniversary-of-the-9-11?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/11/somber-tributes-as-us-marks-the-25th-anniversary-of-september-11-attacks?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/11/somber-tributes-as-us-marks-the-25th-anniversary-of-september-11-attacks?traffic_source=rss)
 
 ---
 
-### 8. Houthi advance in Yemen is about more than just the Red Sea
+### 8. Zohran Mamdani commemorates 9/11 amid widespread criticism
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Houthis were already able to disrupt shipping - their advance consolidates that power, and exposes government weakness.
+NYC Mayor Zohran Mamdani commemorated the 25th anniversary of 9/11, calling it the “darkest day” in the city&#039;s history.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/11/houthi-advance-in-yemen-is-about-more-than-just-the-red-sea?traffic_source=rss](https://www.aljazeera.com/news/2026/9/11/houthi-advance-in-yemen-is-about-more-than-just-the-red-sea?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/11/zohran-mamdani-commemorates-9-11-amid-widespread?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/11/zohran-mamdani-commemorates-9-11-amid-widespread?traffic_source=rss)
 
 ---
 
-### 9. Real Madrid’s Mbappe: AI dictator memes show lack of political awareness
+### 9. US legislators push AI safety laws amid human extinction warnings
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-France international and World Cup record holder Kylian Mbappe speaks out over memes using his image.
+Concerns over AI&#039;s dangers grow as US legislators introduce bills to ensure human oversight and prevent rogue systems.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/11/real-madrids-mbappe-ai-dictator-memes-show-lack-of-political-awareness?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/11/real-madrids-mbappe-ai-dictator-memes-show-lack-of-political-awareness?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/11/us-legislators-push-ai-safety-laws-amid-human-extinction-warnings?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/11/us-legislators-push-ai-safety-laws-amid-human-extinction-warnings?traffic_source=rss)
 
 ---
 

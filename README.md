@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-11 09:18:28
+**Last Update:** 2026-09-11 09:41:34
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Exercise intensity is associated with cardiometabolic health
+### 1. The Gemini app is now available for Windows
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/">https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49653699">https://news.ycombinator.com/item?id=49653699</a></p>
+<p>Points: 11</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/](https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/)
+
+---
+
+### 2. Exercise intensity is associated with cardiometabolic health
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2">https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49653328">https://news.ycombinator.com/item?id=49653328</a></p>
-<p>Points: 42</p>
-<p># Comments: 20</p>
+<p>Points: 64</p>
+<p># Comments: 28</p>
 
 🔗 **Read more:** [https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2)
 
 ---
 
-### 2. Mexican student creates an acoustic fire extinguisher to put out fire in seconds
+### 3. Mexican student creates an acoustic fire extinguisher to put out fire in seconds
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/">https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49652237">https://news.ycombinator.com/item?id=49652237</a></p>
-<p>Points: 115</p>
-<p># Comments: 43</p>
+<p>Points: 132</p>
+<p># Comments: 50</p>
 
 🔗 **Read more:** [https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/](https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/)
-
----
-
-### 3. Herdr Studio
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://powerfooI.github.io/herdr-studio/">https://powerfooI.github.io/herdr-studio/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49652188">https://news.ycombinator.com/item?id=49652188</a></p>
-<p>Points: 20</p>
-<p># Comments: 12</p>
-
-🔗 **Read more:** [https://powerfooI.github.io/herdr-studio/](https://powerfooI.github.io/herdr-studio/)
 
 ---
 

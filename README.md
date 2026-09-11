@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-12 01:05:23
+**Last Update:** 2026-09-12 02:11:05
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. ElevenLabs Music v2.5
+### 1. Project Blinkenlights
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://elevenmusic.io/blog/introducing-music-v2-5">https://elevenmusic.io/blog/introducing-music-v2-5</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49665210">https://news.ycombinator.com/item?id=49665210</a></p>
-<p>Points: 31</p>
-<p># Comments: 28</p>
+<p>Article URL: <a href="https://blinkenlights.de/en/">https://blinkenlights.de/en/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49666146">https://news.ycombinator.com/item?id=49666146</a></p>
+<p>Points: 9</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://elevenmusic.io/blog/introducing-music-v2-5](https://elevenmusic.io/blog/introducing-music-v2-5)
+🔗 **Read more:** [https://blinkenlights.de/en/](https://blinkenlights.de/en/)
 
 ---
 
-### 2. Txt: A fast, keyboard-driven terminal text editor for engineers
+### 2. Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://txt.hellman.io/">https://txt.hellman.io/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49664322">https://news.ycombinator.com/item?id=49664322</a></p>
+<p>Article URL: <a href="https://github.com/mirza-rizvi/ResolveHQ">https://github.com/mirza-rizvi/ResolveHQ</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49665864">https://news.ycombinator.com/item?id=49665864</a></p>
 <p>Points: 5</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://txt.hellman.io/](https://txt.hellman.io/)
+🔗 **Read more:** [https://github.com/mirza-rizvi/ResolveHQ](https://github.com/mirza-rizvi/ResolveHQ)
 
 ---
 
-### 3. GrapheneOS' rewritten Messages app is released
+### 3. GPT-6 built this earth exploration site in 5 prompts
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/GrapheneOS/Messaging/releases/tag/13">https://github.com/GrapheneOS/Messaging/releases/tag/13</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49663373">https://news.ycombinator.com/item?id=49663373</a></p>
-<p>Points: 112</p>
-<p># Comments: 64</p>
+<p>Article URL: <a href="https://earth.ethanplus.ai/">https://earth.ethanplus.ai/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49665756">https://news.ycombinator.com/item?id=49665756</a></p>
+<p>Points: 11</p>
+<p># Comments: 9</p>
 
-🔗 **Read more:** [https://github.com/GrapheneOS/Messaging/releases/tag/13](https://github.com/GrapheneOS/Messaging/releases/tag/13)
+🔗 **Read more:** [https://earth.ethanplus.ai/](https://earth.ethanplus.ai/)
 
 ---
 
@@ -97,42 +97,42 @@ In New York, the Pentagon and Pennsylvania, solemn ceremonies commemorate the la
 
 ---
 
-### 7. Somber tributes as US marks the 25th anniversary of September 11 attacks
+### 7. Israeli demolitions threaten schools and homes in Masafer Yatta
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Families are remembering the loved ones they lost in the September 11, 2001 attacks on the US.
+Students pledge to continue learning as Masafer Yatta demolitions target homes, schools, and their right to education.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/11/somber-tributes-as-us-marks-the-25th-anniversary-of-september-11-attacks?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/11/somber-tributes-as-us-marks-the-25th-anniversary-of-september-11-attacks?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/9/11/israeli-demolitions-threaten-schools-and-homes-in-masafer-yatta?traffic_source=rss](https://www.aljazeera.com/features/2026/9/11/israeli-demolitions-threaten-schools-and-homes-in-masafer-yatta?traffic_source=rss)
 
 ---
 
-### 8. Zohran Mamdani commemorates 9/11 amid widespread criticism
+### 8. Saudi Arabia says East-West pipeline hit by drones launched from Iraq
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-NYC Mayor Zohran Mamdani commemorated the 25th anniversary of 9/11, calling it the “darkest day” in the city&#039;s history.
+Iraq condemns the attack, says Prime ⁠Minister Ali al-Zaidi orders an ⁠investigation ​into ⁠those responsible.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/11/zohran-mamdani-commemorates-9-11-amid-widespread?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/11/zohran-mamdani-commemorates-9-11-amid-widespread?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/11/saudi-arabia-says-east-west-pipeline-hit-by-drones-launched-from-iraq?traffic_source=rss](https://www.aljazeera.com/news/2026/9/11/saudi-arabia-says-east-west-pipeline-hit-by-drones-launched-from-iraq?traffic_source=rss)
 
 ---
 
-### 9. US legislators push AI safety laws amid human extinction warnings
+### 9. Sabalenka vs Rybakina: US Open women’s singles final – start, prize, form
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Concerns over AI&#039;s dangers grow as US legislators introduce bills to ensure human oversight and prevent rogue systems.
+Top seeds Aryna Sabalenka and Elena Rybakina clash in a Grand Slam final for the second time this year.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/11/us-legislators-push-ai-safety-laws-amid-human-extinction-warnings?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/11/us-legislators-push-ai-safety-laws-amid-human-extinction-warnings?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/11/sabalenka-rybakina-us-open-2026-womens-singles-final-time-form-head-to-head?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/11/sabalenka-rybakina-us-open-2026-womens-singles-final-time-form-head-to-head?traffic_source=rss)
 
 ---
 

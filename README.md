@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-11 20:07:54
+**Last Update:** 2026-09-11 21:45:53
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Hacker News with reduced priority for AI driven content
+### 1. Litelm: LiteLLM Without the Bloat
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://sprinklz.io/public/pdwt4dve5uai">https://sprinklz.io/public/pdwt4dve5uai</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49660482">https://news.ycombinator.com/item?id=49660482</a></p>
-<p>Points: 4</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://github.com/kennethwolters/litelm">https://github.com/kennethwolters/litelm</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49662767">https://news.ycombinator.com/item?id=49662767</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://sprinklz.io/public/pdwt4dve5uai](https://sprinklz.io/public/pdwt4dve5uai)
+🔗 **Read more:** [https://github.com/kennethwolters/litelm](https://github.com/kennethwolters/litelm)
 
 ---
 
-### 2. Matt Mullenweg tells Automattic staff in Slack he's back in control after ouster
+### 2. Show HN: Toast, a beautiful by default in terminal IDE
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/">https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49660104">https://news.ycombinator.com/item?id=49660104</a></p>
-<p>Points: 32</p>
-<p># Comments: 12</p>
+<p>Article URL: <a href="https://github.com/paradise-runner/toast">https://github.com/paradise-runner/toast</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49662496">https://news.ycombinator.com/item?id=49662496</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/](https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/)
+🔗 **Read more:** [https://github.com/paradise-runner/toast](https://github.com/paradise-runner/toast)
 
 ---
 
-### 3. Show HN: Hacker News, without AI
+### 3. Λ Snap – An inviting programming language for kids and adults for CS study
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://hcker.news/?ai=exclude">https://hcker.news/?ai=exclude</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49659647">https://news.ycombinator.com/item?id=49659647</a></p>
-<p>Points: 62</p>
-<p># Comments: 38</p>
+<p>Article URL: <a href="https://snap.berkeley.edu/">https://snap.berkeley.edu/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49662214">https://news.ycombinator.com/item?id=49662214</a></p>
+<p>Points: 21</p>
+<p># Comments: 7</p>
 
-🔗 **Read more:** [https://hcker.news/?ai=exclude](https://hcker.news/?ai=exclude)
+🔗 **Read more:** [https://snap.berkeley.edu/](https://snap.berkeley.edu/)
 
 ---
 
@@ -71,68 +71,68 @@ The proposed law sought to introduce one of the biggest societal changes in rece
 
 ---
 
-### 5. UK government rejects 'kill switch' idea for dangerous AI
+### 5. An extraordinary result - why did MPs reject assisted dying bill this time?
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The Cabinet Office, which leads on AI safety, says the UK "cannot simply turn AI off".
+Although supporters say they will try again, for now the momentum has fallen away from a change in the law.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3eq7kl5l00o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3eq7kl5l00o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5y54n99l48o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5y54n99l48o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Kate visits cancer patients in hospital she helped fund with climb
+### 6. Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The princess completed the Three Peaks Challenge in aid of the hospital where she was treated for cancer.
+The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ce8e6pkkd04o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ce8e6pkkd04o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Erdogan: The Making of Modern Turkiye
+### 7. US declares end of largest recorded cyclosporiasis outbreak
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-An interview with Turkish President Erdogan on foreign policy, regional conflicts and 25 years of AK Party rule.
+The FDA says contaminated lettuce has been removed from the market after nearly 13,000 linked cases.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/al-jazeera-world/2026/9/11/erdogan-the-making-of-modern-turkiye?traffic_source=rss](https://www.aljazeera.com/video/al-jazeera-world/2026/9/11/erdogan-the-making-of-modern-turkiye?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/11/us-declares-end-of-largest-recorded-cyclosporiasis-outbreak?traffic_source=rss](https://www.aljazeera.com/news/2026/9/11/us-declares-end-of-largest-recorded-cyclosporiasis-outbreak?traffic_source=rss)
 
 ---
 
-### 8. Trump pays tribute to the victims of 9/11 at Pentagon ceremony
+### 8. UK lawmakers vote against bill to legalise assisted dying
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US President Donald Trump remembered the victims of the September 11 attacks at a ceremony to mark the 25th anniversary.
+Parliament&#039;s lower ⁠chamber, the House of Commons, rejected the legislation by 286 votes to 270.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/11/trump-pays-tribute-to-the-victims-of-9-11-at-pentagon?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/11/trump-pays-tribute-to-the-victims-of-9-11-at-pentagon?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/11/uk-lawmakers-vote-against-bill-to-legalise-assisted-dying?traffic_source=rss](https://www.aljazeera.com/news/2026/9/11/uk-lawmakers-vote-against-bill-to-legalise-assisted-dying?traffic_source=rss)
 
 ---
 
-### 9. Philippines ferry fire death toll rises to 35 after bodies recovered
+### 9. Rising petrol costs drive sharp inflation increase in US in August
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Coast Guard says 30 more bodies recovered after five people were initially confirmed dead in Wednesday&#039;s disaster.
+Petrol prices jumped 3.9 percent month-to-month, accounting for one-third of the overall inflation increase in August.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/11/philippines-ferry-fire-death-toll-rises-to-35-after-bodies-recovered?traffic_source=rss](https://www.aljazeera.com/news/2026/9/11/philippines-ferry-fire-death-toll-rises-to-35-after-bodies-recovered?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/11/rising-petrol-costs-drive-sharp-inflation-increase-in-us-in-august?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/11/rising-petrol-costs-drive-sharp-inflation-increase-in-us-in-august?traffic_source=rss)
 
 ---
 

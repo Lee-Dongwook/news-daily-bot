@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-12 20:20:12
+**Last Update:** 2026-09-12 20:47:52
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Make Your First Edit to OpenStreetMap in the Next 15 Minutes
+### 1. Anthropic boss Dario Amodei calls for AI development to slow down
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.bbc.com/news/articles/c14dpgm0rg4o">https://www.bbc.com/news/articles/c14dpgm0rg4o</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49674395">https://news.ycombinator.com/item?id=49674395</a></p>
+<p>Points: 8</p>
+<p># Comments: 6</p>
+
+🔗 **Read more:** [https://www.bbc.com/news/articles/c14dpgm0rg4o](https://www.bbc.com/news/articles/c14dpgm0rg4o)
+
+---
+
+### 2. Make Your First Edit to OpenStreetMap in the Next 15 Minutes
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://high5apps.github.io/josm-plugin-website-wizard/">https://high5apps.github.io/josm-plugin-website-wizard/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49674050">https://news.ycombinator.com/item?id=49674050</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Points: 23</p>
+<p># Comments: 11</p>
 
 🔗 **Read more:** [https://high5apps.github.io/josm-plugin-website-wizard/](https://high5apps.github.io/josm-plugin-website-wizard/)
 
 ---
 
-### 2. Microcode in Intel's 8087 floating-point chip: the scale instruction
+### 3. Microcode in Intel's 8087 floating-point chip: the scale instruction
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html">https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49673580">https://news.ycombinator.com/item?id=49673580</a></p>
-<p>Points: 8</p>
-<p># Comments: 1</p>
+<p>Points: 17</p>
+<p># Comments: 2</p>
 
 🔗 **Read more:** [https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html](https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html)
-
----
-
-### 3. LG responds to TV spying allegations
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations">https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49673392">https://news.ycombinator.com/item?id=49673392</a></p>
-<p>Points: 63</p>
-<p># Comments: 46</p>
-
-🔗 **Read more:** [https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations](https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations)
 
 ---
 
@@ -97,7 +97,20 @@ Trump made the comments during a meeting with Irish leader Micheál Martin, but 
 
 ---
 
-### 7. Will the Houthi attacks activate the Mecca Pact?
+### 7. Chelsea draw with Hull, Liverpool held by Fulham and Villa remain winless
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Hull nearly claim Premier League win at Chelsea, while Liverpool and Fulham fire blanks and Aston Villa lose again.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/12/chelsea-draw-with-hull-liverpool-held-by-fulham-and-villa-remain-winless?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/12/chelsea-draw-with-hull-liverpool-held-by-fulham-and-villa-remain-winless?traffic_source=rss)
+
+---
+
+### 8. Will the Houthi attacks activate the Mecca Pact?
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ If there is a Saudi request, Pakistan and Turkiye will intervene, but direct inv
 
 ---
 
-### 8. DR Congo’s worst Ebola epidemic ever passes 7,000 cases
+### 9. DR Congo’s worst Ebola epidemic ever passes 7,000 cases
 
 **Source:** Al Jazeera
 
@@ -120,58 +133,6 @@ If there is a Saudi request, Pakistan and Turkiye will intervene, but direct inv
 DRC detected the outbreak of the rare Bundibugyo virus in mid-May; nearly 3,400 people have since died.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/12/dr-congos-worst-ebola-epidemic-ever-passes-7000-cases?traffic_source=rss](https://www.aljazeera.com/news/2026/9/12/dr-congos-worst-ebola-epidemic-ever-passes-7000-cases?traffic_source=rss)
-
----
-
-### 9. US court rejects Trump’s emergency order keeping Michigan coal plant open
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The ruling says the Energy Department exceeded its authority by extending the plant’s operation.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/12/us-court-rejects-trumps-emergency-order-keeping-michigan-coal-plant-open?traffic_source=rss](https://www.aljazeera.com/news/2026/9/12/us-court-rejects-trumps-emergency-order-keeping-michigan-coal-plant-open?traffic_source=rss)
-
----
-
-### 10. Tropical Storm Norbert
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184)
-
----
-
-### 11. Wildfire MEERS, Comanche, Oklahoma
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189)
-
----
-
-### 12. Wildfire Kurk, San Saba, Texas
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185)
 
 ---
 

@@ -1,64 +1,90 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-12 22:59:16
+**Last Update:** 2026-09-13 01:02:47
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. An open letter to Dario: if you mean it, open the weights
+### 1. Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/">https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49676085">https://news.ycombinator.com/item?id=49676085</a></p>
-<p>Points: 10</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://withspecific.com/benchmarks/real-swe">https://withspecific.com/benchmarks/real-swe</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49676820">https://news.ycombinator.com/item?id=49676820</a></p>
+<p>Points: 17</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/](https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/)
+🔗 **Read more:** [https://withspecific.com/benchmarks/real-swe](https://withspecific.com/benchmarks/real-swe)
 
 ---
 
-### 2. Will There Be a 7G?
+### 2. Benchmark: CadQuery vs. OpenSCAD for agentic CAD work
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://arxiv.org/abs/2609.01877">https://arxiv.org/abs/2609.01877</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49674498">https://news.ycombinator.com/item?id=49674498</a></p>
-<p>Points: 40</p>
-<p># Comments: 62</p>
+<p>Article URL: <a href="https://modelrift.com/blog/cadquery-vs-openscad/">https://modelrift.com/blog/cadquery-vs-openscad/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49676577">https://news.ycombinator.com/item?id=49676577</a></p>
+<p>Points: 12</p>
+<p># Comments: 15</p>
 
-🔗 **Read more:** [https://arxiv.org/abs/2609.01877](https://arxiv.org/abs/2609.01877)
+🔗 **Read more:** [https://modelrift.com/blog/cadquery-vs-openscad/](https://modelrift.com/blog/cadquery-vs-openscad/)
 
 ---
 
-### 3. Make your first edit to OpenStreetMap
+### 3. LG Says We're Fake News [video]
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://high5apps.github.io/josm-plugin-website-wizard/">https://high5apps.github.io/josm-plugin-website-wizard/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49674050">https://news.ycombinator.com/item?id=49674050</a></p>
-<p>Points: 119</p>
-<p># Comments: 40</p>
+<p>Article URL: <a href="https://www.youtube.com/watch?v=ToP9xfLDSME">https://www.youtube.com/watch?v=ToP9xfLDSME</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49676324">https://news.ycombinator.com/item?id=49676324</a></p>
+<p>Points: 30</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://high5apps.github.io/josm-plugin-website-wizard/](https://high5apps.github.io/josm-plugin-website-wizard/)
+🔗 **Read more:** [https://www.youtube.com/watch?v=ToP9xfLDSME](https://www.youtube.com/watch?v=ToP9xfLDSME)
 
 ---
 
-### 4. Reform receives second £36m donation in two days as crypto investor matches record
+### 4. Anthropic boss Dario Amodei calls for AI development to slow down
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Dramatic insider warnings over AI fall flat with some in Silicon Valley
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+A recent spate of stark warnings about the dangers of AI has been met with scepticism by executives and investors.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Reform receives second £36m donation in two days as crypto investor matches record
 
 **Source:** BBC
 
@@ -71,68 +97,42 @@ The party says the money will allow it to fight the next election on a "level pl
 
 ---
 
-### 5. Burnham and Badenoch revive red versus blue politics as Reform land 'gobsmacking' donations
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-As Reform slip back in the polls, Labour and the Conservatives rediscover a familiar political divide, writes Laura Kuenssberg
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ced75e7d11po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ced75e7d11po?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Trump says united Ireland would be 'fantastic' during visit to Dublin
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Trump made the comments during a meeting with Irish leader Micheál Martin, but Downing Street says it will "stick to the Good Friday Agreement".
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Will Houthi advances in Yemen give Iran leverage in its war with the US?
+### 7. Ebola spreads to seventh DRC province as gov’t insists cases are declining
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The Iranian ally seizes Yemen&#039;s Red Sea coast, cementing their hold on the Bab al-Mandeb strait.
+Ebola has reached a seventh DR Congo province after an infected man travelled through Rwanda and Uganda.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/9/12/will-houthi-advances-in-yemen-give-iran-leverage-in-its-war-with-the-us?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/9/12/will-houthi-advances-in-yemen-give-iran-leverage-in-its-war-with-the-us?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-drc-ebola-spread-clip-mp4?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-drc-ebola-spread-clip-mp4?traffic_source=rss)
 
 ---
 
-### 8. Afghan woman deported in first use of US Alien Terrorist Removal Court
+### 8. Second crypto billionaire donates record $49m to far-right Reform UK
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Court was created in 1996, but had never been used before Nazira Haji Zada’s case.
+The two donations increase the total sum of money pledged to Reform since Friday to $97m.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/12/afghan-woman-deported-in-first-use-of-us-alien-terrorist-removal-court?traffic_source=rss](https://www.aljazeera.com/news/2026/9/12/afghan-woman-deported-in-first-use-of-us-alien-terrorist-removal-court?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/12/second-crypto-billionaire-donates-record-49m-to-far-right-reform-uk?traffic_source=rss](https://www.aljazeera.com/news/2026/9/12/second-crypto-billionaire-donates-record-49m-to-far-right-reform-uk?traffic_source=rss)
 
 ---
 
-### 9. Iraq probes drone strikes on Saudi Arabia, shuts three crossings to Iran
+### 9. Fire at nursing home in Chile kills 16 elderly residents
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-PM Ali al-Zaidi dismisses commander, orders investigation into operations command in Maysan province, bordering Iran.
+The facility had faced fines and enforcement proceedings over regulatory violations since 2019.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/12/iraq-probes-drone-strikes-on-saudi-arabia-shuts-three-crossings-to-iran?traffic_source=rss](https://www.aljazeera.com/news/2026/9/12/iraq-probes-drone-strikes-on-saudi-arabia-shuts-three-crossings-to-iran?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/12/fire-at-nursing-home-in-chile-kills-16-elderly-residents?traffic_source=rss](https://www.aljazeera.com/news/2026/9/12/fire-at-nursing-home-in-chile-kills-16-elderly-residents?traffic_source=rss)
 
 ---
 

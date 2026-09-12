@@ -1,61 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-12 07:53:09
+**Last Update:** 2026-09-12 09:28:43
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, Al Jazeera, BBC
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Google no longer provides direct URLs in search results
+### 1. OpenAI agents attacked RubyGems back in May
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.autom.dev/blog/google-search-goto-links">https://www.autom.dev/blog/google-search-goto-links</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49668386">https://news.ycombinator.com/item?id=49668386</a></p>
-<p>Points: 52</p>
-<p># Comments: 25</p>
-
-🔗 **Read more:** [https://www.autom.dev/blog/google-search-goto-links](https://www.autom.dev/blog/google-search-goto-links)
-
----
-
-### 2. Pandas Should Go Extinct
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://eddie.codes/posts/pandas-should-go-extinct/">https://eddie.codes/posts/pandas-should-go-extinct/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49668198">https://news.ycombinator.com/item?id=49668198</a></p>
-<p>Points: 56</p>
-<p># Comments: 29</p>
-
-🔗 **Read more:** [https://eddie.codes/posts/pandas-should-go-extinct/](https://eddie.codes/posts/pandas-should-go-extinct/)
-
----
-
-### 3. Ask HN: Did Google kill its enterprise workhorse model?
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Is anyone else in a panic over the Gemini 2.5 model generation (Pro, Flash) being sunset in October before there's even any Pro class model in general availability (with geo restrictions etc.)?   Google wants everyone to migrate to 3.x Flash, which beats the older Pro models on the benchmarked tasks, but isn't the same thing as the Pro class on reasoning-heavy tasks like complex reasoning on very large documents (my big use case).<p>The Gemini family had a distinct niche in document comprehension, with thousand page input documents taking only 300k tokens.  Nothing quite like that in OpenAI or Anthropic world, even at more than 10x the token adjusted price.  Should we just give up on Google at this point and engineer around the competitors' limits and eat the costs?  Totally unnecessary own goal by team Google.</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49668196">https://news.ycombinator.com/item?id=49668196</a></p>
-<p>Points: 8</p>
+<p>Article URL: <a href="https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/">https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49668914">https://news.ycombinator.com/item?id=49668914</a></p>
+<p>Points: 10</p>
 <p># Comments: 1</p>
 
-🔗 **Read more:** [https://news.ycombinator.com/item?id=49668196](https://news.ycombinator.com/item?id=49668196)
+🔗 **Read more:** [https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/](https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/)
+
+---
+
+### 2. Usenet rewind archive search engine
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.usenet-rewind.com/">https://www.usenet-rewind.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49668777">https://news.ycombinator.com/item?id=49668777</a></p>
+<p>Points: 26</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://www.usenet-rewind.com/](https://www.usenet-rewind.com/)
+
+---
+
+### 3. Clay Mathematics Institute on the Navier-Stokes Problem
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.claymath.org/news/navier-stokes-announcement/">https://www.claymath.org/news/navier-stokes-announcement/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49668706">https://news.ycombinator.com/item?id=49668706</a></p>
+<p>Points: 52</p>
+<p># Comments: 15</p>
+
+🔗 **Read more:** [https://www.claymath.org/news/navier-stokes-announcement/](https://www.claymath.org/news/navier-stokes-announcement/)
 
 ---
 
@@ -72,7 +71,20 @@ Ben Delo's donation, the biggest single sum ever given to a political party in t
 
 ---
 
-### 5. Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war
+### 5. Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war
 
 **Source:** BBC
 
@@ -85,55 +97,42 @@ The capture by the rebels of a stretch Yemen's strategic coastline is the group'
 
 ---
 
-### 6. Masked men, lorries and road blocks: How anti-migrant activists are changing tactics
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Patriot Platform wants to build a group of working-class voters to influence political parties on the right.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/clyqjgj7x8lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/clyqjgj7x8lo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. A stable Afghanistan post 9/11 is in US interests says former US diplomat
+### 7. ‘War on terror’: How 9/11 changed the language of conflict
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Former US diplomat Zalmay Khalilzad says Washington wants to prevent Afghanistan becoming a hub for anti-US groups.
+The events of September 11, 2001 spawned a new lexicon which effectively sanitised the erosion of human rights.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/12/12-09-quotable-this-is-america-911-us-khalilzad-taliban?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/12/12-09-quotable-this-is-america-911-us-khalilzad-taliban?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/12/war-on-terror-how-9-11-changed-the-language-of?traffic_source=rss](https://www.aljazeera.com/news/2026/9/12/war-on-terror-how-9-11-changed-the-language-of?traffic_source=rss)
 
 ---
 
-### 8. Mexican authorities rescue eight from violent cartel’s secret site
+### 8. Chileans clash over 9/11 military coup legacy
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Rescue operation in Jalisco uncovers cartel&#039;s hidden clinic, illegal drugs and weapons; six suspected guards arrested.
+Protesters and police have clashed in Chile, as the country marked 53 years of the military coup.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/12/mexican-authorities-rescue-eight-from-violent-cartels-secret-site?traffic_source=rss](https://www.aljazeera.com/news/2026/9/12/mexican-authorities-rescue-eight-from-violent-cartels-secret-site?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/12/chileans-clash-over-9-11-military-coup?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/12/chileans-clash-over-9-11-military-coup?traffic_source=rss)
 
 ---
 
-### 9. North Korea fires ballistic missiles off eastern coast, Seoul says
+### 9. BRICS meets in India: What’s on the agenda, why it matters
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-South Korea said it was closely exchanging information on the launches with the US and Japan.
+This year&#039;s summit comes amid the US-Israel war on Iran, Russia&#039;s war on Ukraine and global economic challenges.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/12/north-korea-fires-ballistic-missiles-off-eastern-coast-seoul-says?traffic_source=rss](https://www.aljazeera.com/news/2026/9/12/north-korea-fires-ballistic-missiles-off-eastern-coast-seoul-says?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/12/brics-meets-in-india-whats-on-the-agenda-why-it-matters?traffic_source=rss](https://www.aljazeera.com/news/2026/9/12/brics-meets-in-india-whats-on-the-agenda-why-it-matters?traffic_source=rss)
 
 ---
 

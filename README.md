@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-12 03:27:56
+**Last Update:** 2026-09-12 04:46:54
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. OpenAI agents carried out an undisclosed attack on RubyGems
+### 1. Starlink Signal Leakage Threatens Radio Astronomy's Most Critical Frequencies
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.rubyhack.ai/">https://www.rubyhack.ai/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49666735">https://news.ycombinator.com/item?id=49666735</a></p>
-<p>Points: 26</p>
-<p># Comments: 5</p>
-
-🔗 **Read more:** [https://www.rubyhack.ai/](https://www.rubyhack.ai/)
-
----
-
-### 2. DeCloudflare
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://0xacab.org/dCF/deCloudflare/-/blob/master/README.md">https://0xacab.org/dCF/deCloudflare/-/blob/master/README.md</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49666587">https://news.ycombinator.com/item?id=49666587</a></p>
-<p>Points: 25</p>
-<p># Comments: 38</p>
-
-🔗 **Read more:** [https://0xacab.org/dCF/deCloudflare/-/blob/master/README.md](https://0xacab.org/dCF/deCloudflare/-/blob/master/README.md)
-
----
-
-### 3. QueryBrew: System-Agnostic SQL-to-SQL Query Optimization [pdf]
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.vldb.org/pvldb/vol19/p4494-schmidt.pdf">https://www.vldb.org/pvldb/vol19/p4494-schmidt.pdf</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49666155">https://news.ycombinator.com/item?id=49666155</a></p>
-<p>Points: 9</p>
+<p>Article URL: <a href="https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies">https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49667375">https://news.ycombinator.com/item?id=49667375</a></p>
+<p>Points: 6</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.vldb.org/pvldb/vol19/p4494-schmidt.pdf](https://www.vldb.org/pvldb/vol19/p4494-schmidt.pdf)
+🔗 **Read more:** [https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies](https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies)
+
+---
+
+### 2. Show HN: Graphify C# – Compiler-accurate Find Usages for coding agents
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/zachsaw/graphify-csharp">https://github.com/zachsaw/graphify-csharp</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49667188">https://news.ycombinator.com/item?id=49667188</a></p>
+<p>Points: 6</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://github.com/zachsaw/graphify-csharp](https://github.com/zachsaw/graphify-csharp)
+
+---
+
+### 3. How to Build an AI Software Factory: Agents That Open, Review, and Merge PRs
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.firecrawl.dev/blog/ai-software-factory">https://www.firecrawl.dev/blog/ai-software-factory</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49666960">https://news.ycombinator.com/item?id=49666960</a></p>
+<p>Points: 19</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://www.firecrawl.dev/blog/ai-software-factory](https://www.firecrawl.dev/blog/ai-software-factory)
 
 ---
 
@@ -97,42 +97,42 @@ Patriot Platform wants to build a group of working-class voters to influence pol
 
 ---
 
-### 7. UN extends partial Sudan arms embargo for a month
+### 7. How Canadians are bracing for the impact of Trump’s trade war
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Sudan’s UN ambassador said a total arms embargo goes against the UN Charter that guarantees a right to self-defence.
+Canada’s buy-local movement remains strong, but new tariffs could test how much more shoppers are willing to pay.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/11/un-extends-partial-sudan-arms-embargo-for-a-month?traffic_source=rss](https://www.aljazeera.com/news/2026/9/11/un-extends-partial-sudan-arms-embargo-for-a-month?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/12/how-canadians-are-bracing-for-the-impact-of-trumps-trade-war?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/12/how-canadians-are-bracing-for-the-impact-of-trumps-trade-war?traffic_source=rss)
 
 ---
 
-### 8. Flavio Bolsonaro faces corruption probe weeks before Brazil election
+### 8. Passenger train derails in France, leaving 44 injured, 1 critical
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The investigation came to light as Brazil&#039;s Supreme Court unseals files related to the Banco Master corruption scandal.
+French train derailment sparks emergency response, with 130 firefighters and five medical teams dispatched to the scene.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/11/flavio-bolsonaro-faces-corruption-probe-weeks-before-brazil-election?traffic_source=rss](https://www.aljazeera.com/news/2026/9/11/flavio-bolsonaro-faces-corruption-probe-weeks-before-brazil-election?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/12/passenger-train-derails-in-france-leaving-44-injured-1-critical?traffic_source=rss](https://www.aljazeera.com/news/2026/9/12/passenger-train-derails-in-france-leaving-44-injured-1-critical?traffic_source=rss)
 
 ---
 
-### 9. Israeli demolitions threaten schools and homes in Masafer Yatta
+### 9. Former top US diplomat reveals mistakes made after 9/11 attacks
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Students pledge to continue learning as Masafer Yatta demolitions target homes, schools, and their right to education.
+Ambassador Zalmay Khalilzad describes misgivings about the US handling of the Afghanistan and Iraq wars.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/9/11/israeli-demolitions-threaten-schools-and-homes-in-masafer-yatta?traffic_source=rss](https://www.aljazeera.com/features/2026/9/11/israeli-demolitions-threaten-schools-and-homes-in-masafer-yatta?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/12/former-top-us-diplomat-reveals-mistakes-made-after-9-11?traffic_source=rss](https://www.aljazeera.com/news/2026/9/12/former-top-us-diplomat-reveals-mistakes-made-after-9-11?traffic_source=rss)
 
 ---
 

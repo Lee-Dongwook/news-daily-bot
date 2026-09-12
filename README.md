@@ -1,60 +1,61 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-12 04:46:54
+**Last Update:** 2026-09-12 07:53:09
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Starlink Signal Leakage Threatens Radio Astronomy's Most Critical Frequencies
+### 1. Google no longer provides direct URLs in search results
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies">https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49667375">https://news.ycombinator.com/item?id=49667375</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.autom.dev/blog/google-search-goto-links">https://www.autom.dev/blog/google-search-goto-links</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49668386">https://news.ycombinator.com/item?id=49668386</a></p>
+<p>Points: 52</p>
+<p># Comments: 25</p>
 
-🔗 **Read more:** [https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies](https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies)
+🔗 **Read more:** [https://www.autom.dev/blog/google-search-goto-links](https://www.autom.dev/blog/google-search-goto-links)
 
 ---
 
-### 2. Show HN: Graphify C# – Compiler-accurate Find Usages for coding agents
+### 2. Pandas Should Go Extinct
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/zachsaw/graphify-csharp">https://github.com/zachsaw/graphify-csharp</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49667188">https://news.ycombinator.com/item?id=49667188</a></p>
-<p>Points: 6</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://eddie.codes/posts/pandas-should-go-extinct/">https://eddie.codes/posts/pandas-should-go-extinct/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49668198">https://news.ycombinator.com/item?id=49668198</a></p>
+<p>Points: 56</p>
+<p># Comments: 29</p>
 
-🔗 **Read more:** [https://github.com/zachsaw/graphify-csharp](https://github.com/zachsaw/graphify-csharp)
+🔗 **Read more:** [https://eddie.codes/posts/pandas-should-go-extinct/](https://eddie.codes/posts/pandas-should-go-extinct/)
 
 ---
 
-### 3. How to Build an AI Software Factory: Agents That Open, Review, and Merge PRs
+### 3. Ask HN: Did Google kill its enterprise workhorse model?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.firecrawl.dev/blog/ai-software-factory">https://www.firecrawl.dev/blog/ai-software-factory</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49666960">https://news.ycombinator.com/item?id=49666960</a></p>
-<p>Points: 19</p>
-<p># Comments: 2</p>
+<p>Is anyone else in a panic over the Gemini 2.5 model generation (Pro, Flash) being sunset in October before there's even any Pro class model in general availability (with geo restrictions etc.)?   Google wants everyone to migrate to 3.x Flash, which beats the older Pro models on the benchmarked tasks, but isn't the same thing as the Pro class on reasoning-heavy tasks like complex reasoning on very large documents (my big use case).<p>The Gemini family had a distinct niche in document comprehension, with thousand page input documents taking only 300k tokens.  Nothing quite like that in OpenAI or Anthropic world, even at more than 10x the token adjusted price.  Should we just give up on Google at this point and engineer around the competitors' limits and eat the costs?  Totally unnecessary own goal by team Google.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49668196">https://news.ycombinator.com/item?id=49668196</a></p>
+<p>Points: 8</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.firecrawl.dev/blog/ai-software-factory](https://www.firecrawl.dev/blog/ai-software-factory)
+🔗 **Read more:** [https://news.ycombinator.com/item?id=49668196](https://news.ycombinator.com/item?id=49668196)
 
 ---
 
@@ -71,16 +72,16 @@ Ben Delo's donation, the biggest single sum ever given to a political party in t
 
 ---
 
-### 5. MPs vote against fresh attempt to legalise assisted dying
+### 5. Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The proposed law sought to introduce one of the biggest societal changes in recent years.
+The capture by the rebels of a stretch Yemen's strategic coastline is the group's most impressive military coup for several years.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c17j91jenr8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c17j91jenr8o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +98,42 @@ Patriot Platform wants to build a group of working-class voters to influence pol
 
 ---
 
-### 7. How Canadians are bracing for the impact of Trump’s trade war
+### 7. A stable Afghanistan post 9/11 is in US interests says former US diplomat
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Canada’s buy-local movement remains strong, but new tariffs could test how much more shoppers are willing to pay.
+Former US diplomat Zalmay Khalilzad says Washington wants to prevent Afghanistan becoming a hub for anti-US groups.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/12/how-canadians-are-bracing-for-the-impact-of-trumps-trade-war?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/12/how-canadians-are-bracing-for-the-impact-of-trumps-trade-war?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/12/12-09-quotable-this-is-america-911-us-khalilzad-taliban?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/12/12-09-quotable-this-is-america-911-us-khalilzad-taliban?traffic_source=rss)
 
 ---
 
-### 8. Passenger train derails in France, leaving 44 injured, 1 critical
+### 8. Mexican authorities rescue eight from violent cartel’s secret site
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-French train derailment sparks emergency response, with 130 firefighters and five medical teams dispatched to the scene.
+Rescue operation in Jalisco uncovers cartel&#039;s hidden clinic, illegal drugs and weapons; six suspected guards arrested.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/12/passenger-train-derails-in-france-leaving-44-injured-1-critical?traffic_source=rss](https://www.aljazeera.com/news/2026/9/12/passenger-train-derails-in-france-leaving-44-injured-1-critical?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/12/mexican-authorities-rescue-eight-from-violent-cartels-secret-site?traffic_source=rss](https://www.aljazeera.com/news/2026/9/12/mexican-authorities-rescue-eight-from-violent-cartels-secret-site?traffic_source=rss)
 
 ---
 
-### 9. Former top US diplomat reveals mistakes made after 9/11 attacks
+### 9. North Korea fires ballistic missiles off eastern coast, Seoul says
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ambassador Zalmay Khalilzad describes misgivings about the US handling of the Afghanistan and Iraq wars.
+South Korea said it was closely exchanging information on the launches with the US and Japan.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/12/former-top-us-diplomat-reveals-mistakes-made-after-9-11?traffic_source=rss](https://www.aljazeera.com/news/2026/9/12/former-top-us-diplomat-reveals-mistakes-made-after-9-11?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/12/north-korea-fires-ballistic-missiles-off-eastern-coast-seoul-says?traffic_source=rss](https://www.aljazeera.com/news/2026/9/12/north-korea-fires-ballistic-missiles-off-eastern-coast-seoul-says?traffic_source=rss)
 
 ---
 

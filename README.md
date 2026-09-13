@@ -1,64 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-13 17:59:34
+**Last Update:** 2026-09-13 19:21:03
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Paul A. M. Dirac, Interview by Friedrich Hund (1982) [video]
+### 1. Astra and Fable still hack on simple variants of alignment evals from 2025
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.youtube.com/watch?v=xJzrU38pGWc">https://www.youtube.com/watch?v=xJzrU38pGWc</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49684042">https://news.ycombinator.com/item?id=49684042</a></p>
-<p>Points: 6</p>
+<p>Article URL: <a href="https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment">https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49684393">https://news.ycombinator.com/item?id=49684393</a></p>
+<p>Points: 44</p>
+<p># Comments: 6</p>
+
+🔗 **Read more:** [https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment](https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment)
+
+---
+
+### 2. CUDA for AMD on Windows
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/Speedstu/CUDA-for-AMD-Windows">https://github.com/Speedstu/CUDA-for-AMD-Windows</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49684356">https://news.ycombinator.com/item?id=49684356</a></p>
+<p>Points: 4</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.youtube.com/watch?v=xJzrU38pGWc](https://www.youtube.com/watch?v=xJzrU38pGWc)
+🔗 **Read more:** [https://github.com/Speedstu/CUDA-for-AMD-Windows](https://github.com/Speedstu/CUDA-for-AMD-Windows)
 
 ---
 
-### 2. Your car is selling your data
+### 3. Houthis Used Claude Code to Develop Missile Guidance Software: Anthropic
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.theverge.com/column/994172/your-car-is-selling-your-data">https://www.theverge.com/column/994172/your-car-is-selling-your-data</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49683953">https://news.ycombinator.com/item?id=49683953</a></p>
-<p>Points: 16</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo">https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49684266">https://news.ycombinator.com/item?id=49684266</a></p>
+<p>Points: 26</p>
+<p># Comments: 21</p>
 
-🔗 **Read more:** [https://www.theverge.com/column/994172/your-car-is-selling-your-data](https://www.theverge.com/column/994172/your-car-is-selling-your-data)
+🔗 **Read more:** [https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo](https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo)
 
 ---
 
-### 3. Flock worker calls police on reporter filming public camera installation
+### 4. Reform confident it won't need to repay any of £72m under proposed new donor rules
 
-**Source:** Hacker News
+**Source:** BBC
 
-**Category:** technology
+**Category:** world
 
 **Description:**
-<p>Article URL: <a href="https://www.investigatetv.com/2026/09/08/flock-worker-calls-police-investigatetv-reporter-filming-public-camera-installation/">https://www.investigatetv.com/2026/09/08/flock-worker-calls-police-investigatetv-reporter-filming-public-camera-installation/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49683853">https://news.ycombinator.com/item?id=49683853</a></p>
-<p>Points: 74</p>
-<p># Comments: 25</p>
+Housing Secretary Angela Rayner says rule changes on donations from UK expats would apply retrospectively and anyone not complying with them would have "to return that money".
 
-🔗 **Read more:** [https://www.investigatetv.com/2026/09/08/flock-worker-calls-police-investigatetv-reporter-filming-public-camera-installation/](https://www.investigatetv.com/2026/09/08/flock-worker-calls-police-investigatetv-reporter-filming-public-camera-installation/)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckgwkeg1vy8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckgwkeg1vy8o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC
+### 5. AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC
 
 **Source:** BBC
 
@@ -68,19 +81,6 @@
 It comes as the AI firm's boss has called for the technology's development to be slowed down, citing "serious" risks.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Reform's £72m donations 'entirely in line with law', Jenrick says
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The government is trying to change the law on donations to UK political parties from British expats.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckgwkeg1vy8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckgwkeg1vy8o?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +97,42 @@ This year's event sees 63,000 people take on the half marathon - including the p
 
 ---
 
-### 7. Iran-GCC summit: What’s behind the meeting, why is Bahrain not attending?
+### 7. As Chavez and Maduro images disappear, is Venezuela entering a new chapter?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Iran says it plans to hold talks with Iraq and Gulf nations in Oman to help strengthen shared regional security.
+As part of Delcy Rodriguez&#039;s &#039;Venezuela reborn&#039; campaign, murals of leaders like Hugo Chavez are being removed.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/13/iran-gcc-summit-whats-behind-the-meeting-why-is-bahrain-not-attending?traffic_source=rss](https://www.aljazeera.com/news/2026/9/13/iran-gcc-summit-whats-behind-the-meeting-why-is-bahrain-not-attending?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/longform/2026/9/13/as-chavez-and-maduro-images-disappear-is-venezuela-entering-a-new-chapter?traffic_source=rss](https://www.aljazeera.com/features/longform/2026/9/13/as-chavez-and-maduro-images-disappear-is-venezuela-entering-a-new-chapter?traffic_source=rss)
 
 ---
 
-### 8. Villagers in India tie technician to cell tower over 5G failure
+### 8. What are the five pros and cons of artificial intelligence?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Villagers in India tie technician to cell tower over 5G failure
+AI creates new opportunities in programming and automation, but experts warn of risks to early-career workers.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/13/villagers-in-india-tie-technician-to-cell-tower-over-5g-failure?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/13/villagers-in-india-tie-technician-to-cell-tower-over-5g-failure?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/13/what-are-the-five-pros-and-cons-of-artificial-intelligence?traffic_source=rss](https://www.aljazeera.com/news/2026/9/13/what-are-the-five-pros-and-cons-of-artificial-intelligence?traffic_source=rss)
 
 ---
 
-### 9. Renewed fighting worsens Yemen’s humanitarian crisis
+### 9. Red Sea nations watch as Houthis seize Bab al-Mandeb strait
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Renewed fighting worsens Yemen’s humanitarian crisis
+Houthi control of Bab al-Mandeb chokes Suez Canal revenues, triggers refugee flows, and exposes regional security gaps.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/13/renewed-fighting-worsens-yemens-humanitarian-crisis?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/13/renewed-fighting-worsens-yemens-humanitarian-crisis?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/13/red-sea-nations-watch-as-houthis-seize-bab-al-mandeb-strait?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/13/red-sea-nations-watch-as-houthis-seize-bab-al-mandeb-strait?traffic_source=rss)
 
 ---
 

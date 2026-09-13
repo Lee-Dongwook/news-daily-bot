@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-13 14:50:32
+**Last Update:** 2026-09-13 17:59:34
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Revolut confirms customer data breach through fake government requests
+### 1. Paul A. M. Dirac, Interview by Friedrich Hund (1982) [video]
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/">https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49682087">https://news.ycombinator.com/item?id=49682087</a></p>
-<p>Points: 9</p>
+<p>Article URL: <a href="https://www.youtube.com/watch?v=xJzrU38pGWc">https://www.youtube.com/watch?v=xJzrU38pGWc</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49684042">https://news.ycombinator.com/item?id=49684042</a></p>
+<p>Points: 6</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/](https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/)
+🔗 **Read more:** [https://www.youtube.com/watch?v=xJzrU38pGWc](https://www.youtube.com/watch?v=xJzrU38pGWc)
 
 ---
 
-### 2. Homebrew 7.0.0
+### 2. Your car is selling your data
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://brew.sh/2026/09/13/homebrew-7.0.0/">https://brew.sh/2026/09/13/homebrew-7.0.0/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49681545">https://news.ycombinator.com/item?id=49681545</a></p>
-<p>Points: 41</p>
-<p># Comments: 8</p>
+<p>Article URL: <a href="https://www.theverge.com/column/994172/your-car-is-selling-your-data">https://www.theverge.com/column/994172/your-car-is-selling-your-data</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49683953">https://news.ycombinator.com/item?id=49683953</a></p>
+<p>Points: 16</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://brew.sh/2026/09/13/homebrew-7.0.0/](https://brew.sh/2026/09/13/homebrew-7.0.0/)
+🔗 **Read more:** [https://www.theverge.com/column/994172/your-car-is-selling-your-data](https://www.theverge.com/column/994172/your-car-is-selling-your-data)
 
 ---
 
-### 3. JetKVM Mini
+### 3. Flock worker calls police on reporter filming public camera installation
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://jetkvm.com/blog/introducing-jetkvm-mini">https://jetkvm.com/blog/introducing-jetkvm-mini</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49681152">https://news.ycombinator.com/item?id=49681152</a></p>
-<p>Points: 146</p>
-<p># Comments: 71</p>
+<p>Article URL: <a href="https://www.investigatetv.com/2026/09/08/flock-worker-calls-police-investigatetv-reporter-filming-public-camera-installation/">https://www.investigatetv.com/2026/09/08/flock-worker-calls-police-investigatetv-reporter-filming-public-camera-installation/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49683853">https://news.ycombinator.com/item?id=49683853</a></p>
+<p>Points: 74</p>
+<p># Comments: 25</p>
 
-🔗 **Read more:** [https://jetkvm.com/blog/introducing-jetkvm-mini](https://jetkvm.com/blog/introducing-jetkvm-mini)
+🔗 **Read more:** [https://www.investigatetv.com/2026/09/08/flock-worker-calls-police-investigatetv-reporter-filming-public-camera-installation/](https://www.investigatetv.com/2026/09/08/flock-worker-calls-police-investigatetv-reporter-filming-public-camera-installation/)
 
 ---
 
@@ -84,55 +84,55 @@ The government is trying to change the law on donations to UK political parties 
 
 ---
 
-### 6. Will the Thirlwall report change the debate about Lucy Letby?
+### 6. Andy Burnham among Great North Run finishers
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The inquiry into the former nurse is expected to find failures by her hospital to ensure patient safety.
+This year's event sees 63,000 people take on the half marathon - including the prime minister.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c2e0jg10dkdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c2e0jg10dkdo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cew9n2j47ygo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cew9n2j47ygo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Fighting continues between Yemen gov’t forces, Houthis: What is the latest?
+### 7. Iran-GCC summit: What’s behind the meeting, why is Bahrain not attending?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Government forces and Saudi Arabia carry out air attacks to stop Houthis&#039; advance as thousands displaced by conflict.
+Iran says it plans to hold talks with Iraq and Gulf nations in Oman to help strengthen shared regional security.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/13/fighting-continues-between-yemen-govt-forces-houthis-what-is-the-latest?traffic_source=rss](https://www.aljazeera.com/news/2026/9/13/fighting-continues-between-yemen-govt-forces-houthis-what-is-the-latest?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/13/iran-gcc-summit-whats-behind-the-meeting-why-is-bahrain-not-attending?traffic_source=rss](https://www.aljazeera.com/news/2026/9/13/iran-gcc-summit-whats-behind-the-meeting-why-is-bahrain-not-attending?traffic_source=rss)
 
 ---
 
-### 8. Israeli attack on Gaza kills two Palestinians
+### 8. Villagers in India tie technician to cell tower over 5G failure
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli strikes on Palestinian territory persist despite a &#039;ceasefire&#039; brokered by the United States.
+Villagers in India tie technician to cell tower over 5G failure
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/13/israeli-attack-on-gaza-kills-two-palestinians?traffic_source=rss](https://www.aljazeera.com/news/2026/9/13/israeli-attack-on-gaza-kills-two-palestinians?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/13/villagers-in-india-tie-technician-to-cell-tower-over-5g-failure?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/13/villagers-in-india-tie-technician-to-cell-tower-over-5g-failure?traffic_source=rss)
 
 ---
 
-### 9. A kingdom within a republic: Inside Uganda’s Buganda
+### 9. Renewed fighting worsens Yemen’s humanitarian crisis
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The kingdom’s traditions and institutions have endured through colonial rule, independence and decades of upheaval.
+Renewed fighting worsens Yemen’s humanitarian crisis
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/13/a-kingdom-within-a-republic-inside-ugandas-buganda?traffic_source=rss](https://www.aljazeera.com/news/2026/9/13/a-kingdom-within-a-republic-inside-ugandas-buganda?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/13/renewed-fighting-worsens-yemens-humanitarian-crisis?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/13/renewed-fighting-worsens-yemens-humanitarian-crisis?traffic_source=rss)
 
 ---
 

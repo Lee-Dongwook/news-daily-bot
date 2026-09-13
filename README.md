@@ -1,77 +1,29 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-13 04:10:34
+**Last Update:** 2026-09-13 08:31:54
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Killing with a car costs $1.6M, California requires drivers to carry $30K
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://maxmautner.com/2026/09/11/liability-coverage.html">https://maxmautner.com/2026/09/11/liability-coverage.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49677836">https://news.ycombinator.com/item?id=49677836</a></p>
-<p>Points: 37</p>
-<p># Comments: 30</p>
-
-🔗 **Read more:** [https://maxmautner.com/2026/09/11/liability-coverage.html](https://maxmautner.com/2026/09/11/liability-coverage.html)
-
----
-
-### 2. Financial Times' 404 Page not Found
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.ft.com/article/404">https://www.ft.com/article/404</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49677391">https://news.ycombinator.com/item?id=49677391</a></p>
-<p>Points: 47</p>
-<p># Comments: 5</p>
-
-🔗 **Read more:** [https://www.ft.com/article/404](https://www.ft.com/article/404)
-
----
-
-### 3. Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://withspecific.com/benchmarks/real-swe">https://withspecific.com/benchmarks/real-swe</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49676820">https://news.ycombinator.com/item?id=49676820</a></p>
-<p>Points: 88</p>
-<p># Comments: 55</p>
-
-🔗 **Read more:** [https://withspecific.com/benchmarks/real-swe](https://withspecific.com/benchmarks/real-swe)
-
----
-
-### 4. Anthropic boss Dario Amodei calls for AI development to slow down
+### 1. AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.
+Jacob Coxon tells the BBC that there's a strong chance AI could end humanity if the rate of development is not reined in.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Will the Thirlwall report change the debate about Lucy Letby?
+### 2. Will the Thirlwall report change the debate about Lucy Letby?
 
 **Source:** BBC
 
@@ -84,7 +36,7 @@ The inquiry into the former nurse is expected to find failures by her hospital t
 
 ---
 
-### 6. Trump's comments on a united Ireland may have targeted audience across the Atlantic
+### 3. Trump's comments on a united Ireland may have targeted audience across the Atlantic
 
 **Source:** BBC
 
@@ -97,46 +49,46 @@ Nobody could have predicted that today's main global headline would be Trump's d
 
 ---
 
-### 7. Iran war live: Saudi Arabia and Houthis trade strikes over Bab al-Mandeb
+### 4. 1,400 Yemenis flee to Djibouti within 24 hours
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Houthis accuse Saudi Arabia of launching 129 strikes in 48 hours as fears grow over impact on Riyadh’s oil industry
+Yemeni refugees arrive in Obock, Djibouti, within 24 hours as Houthis tighten their grip on the Bab al-Mandeb strait.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/9/13/iran-war-live-saudi-arabia-and-houthis-trade-strikes-over-bab-al-mandeb?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/9/13/iran-war-live-saudi-arabia-and-houthis-trade-strikes-over-bab-al-mandeb?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/13/1400-yemenis-flee-to-djibouti-within-24-hours?traffic_source=rss](https://www.aljazeera.com/news/2026/9/13/1400-yemenis-flee-to-djibouti-within-24-hours?traffic_source=rss)
 
 ---
 
-### 8. Teen rescued after clinging to boat for two days off Alaska
+### 5. Wildfire rages on Croatia’s Dalmatian Coast island of Brac
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A 15-year-old boy was miraculously rescued after spending two days clinging to his capsized boat in Alaska’s Bering Sea.
+Croatian authorities have issued an emergency alert as a wildfire rages on Brac Island, off the Dalmatian coast.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/12/teen-rescued-after-clinging-to-boat-for-two-days-off-alaska?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/12/teen-rescued-after-clinging-to-boat-for-two-days-off-alaska?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/13/wildfire-rages-on-croatias-dalmatian-coast-island-of-brac?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/13/wildfire-rages-on-croatias-dalmatian-coast-island-of-brac?traffic_source=rss)
 
 ---
 
-### 9. Death toll from Philippine ferry fire rises to 76
+### 6. One dead, more than 30 missing after Vanuatu ferry sinks, PM’s office says
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The Philippine Coast Guard says 41 more bodies have been recovered from the M/V June Aster, with 13 people still missing
+Rescuers continue searching for survivors as the government scales back operations in open waters.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/12/death-toll-from-philippine-ferry-fire-rises-to-76?traffic_source=rss](https://www.aljazeera.com/news/2026/9/12/death-toll-from-philippine-ferry-fire-rises-to-76?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/13/one-dead-more-than-30-missing-after-vanuatu-ferry-sinks-pms-office-says?traffic_source=rss](https://www.aljazeera.com/news/2026/9/13/one-dead-more-than-30-missing-after-vanuatu-ferry-sinks-pms-office-says?traffic_source=rss)
 
 ---
 
-### 10. Tropical Storm Norbert
+### 7. Tropical Storm Norbert
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Severe Storms
 
 ---
 
-### 11. Wildfire MEERS, Comanche, Oklahoma
+### 8. Wildfire MEERS, Comanche, Oklahoma
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Wildfire Kurk, San Saba, Texas
+### 9. Wildfire Kurk, San Saba, Texas
 
 **Source:** NASA
 

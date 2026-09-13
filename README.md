@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-13 03:34:03
+**Last Update:** 2026-09-13 04:10:34
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
@@ -19,26 +19,26 @@
 **Description:**
 <p>Article URL: <a href="https://maxmautner.com/2026/09/11/liability-coverage.html">https://maxmautner.com/2026/09/11/liability-coverage.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49677836">https://news.ycombinator.com/item?id=49677836</a></p>
-<p>Points: 29</p>
-<p># Comments: 23</p>
+<p>Points: 37</p>
+<p># Comments: 30</p>
 
 🔗 **Read more:** [https://maxmautner.com/2026/09/11/liability-coverage.html](https://maxmautner.com/2026/09/11/liability-coverage.html)
 
 ---
 
-### 2. StarCraft returns in 2030 as an open-world shooter
+### 2. Financial Times' 404 Page not Found
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.theverge.com/games/994371/starcraft-returns-in-2030-as-an-open-world-shooter">https://www.theverge.com/games/994371/starcraft-returns-in-2030-as-an-open-world-shooter</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49677715">https://news.ycombinator.com/item?id=49677715</a></p>
-<p>Points: 33</p>
-<p># Comments: 30</p>
+<p>Article URL: <a href="https://www.ft.com/article/404">https://www.ft.com/article/404</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49677391">https://news.ycombinator.com/item?id=49677391</a></p>
+<p>Points: 47</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://www.theverge.com/games/994371/starcraft-returns-in-2030-as-an-open-world-shooter](https://www.theverge.com/games/994371/starcraft-returns-in-2030-as-an-open-world-shooter)
+🔗 **Read more:** [https://www.ft.com/article/404](https://www.ft.com/article/404)
 
 ---
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://withspecific.com/benchmarks/real-swe">https://withspecific.com/benchmarks/real-swe</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49676820">https://news.ycombinator.com/item?id=49676820</a></p>
-<p>Points: 77</p>
-<p># Comments: 52</p>
+<p>Points: 88</p>
+<p># Comments: 55</p>
 
 🔗 **Read more:** [https://withspecific.com/benchmarks/real-swe](https://withspecific.com/benchmarks/real-swe)
 
@@ -97,7 +97,20 @@ Nobody could have predicted that today's main global headline would be Trump's d
 
 ---
 
-### 7. Teen rescued after clinging to boat for two days off Alaska
+### 7. Iran war live: Saudi Arabia and Houthis trade strikes over Bab al-Mandeb
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Houthis accuse Saudi Arabia of launching 129 strikes in 48 hours as fears grow over impact on Riyadh’s oil industry
+
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/9/13/iran-war-live-saudi-arabia-and-houthis-trade-strikes-over-bab-al-mandeb?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/9/13/iran-war-live-saudi-arabia-and-houthis-trade-strikes-over-bab-al-mandeb?traffic_source=rss)
+
+---
+
+### 8. Teen rescued after clinging to boat for two days off Alaska
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ A 15-year-old boy was miraculously rescued after spending two days clinging to h
 
 ---
 
-### 8. Death toll from Philippine ferry fire rises to 76
+### 9. Death toll from Philippine ferry fire rises to 76
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ A 15-year-old boy was miraculously rescued after spending two days clinging to h
 The Philippine Coast Guard says 41 more bodies have been recovered from the M/V June Aster, with 13 people still missing
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/12/death-toll-from-philippine-ferry-fire-rises-to-76?traffic_source=rss](https://www.aljazeera.com/news/2026/9/12/death-toll-from-philippine-ferry-fire-rises-to-76?traffic_source=rss)
-
----
-
-### 9. Mbappe double helps Real Madrid thump Rayo Vallecano 4–1 in La Liga
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Goals from Bellingham and Carreras ease pressure on Madrid manager Mourinho after they lost their last league game.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/12/mbappe-double-helps-real-madrid-thump-rayo-vallecano-4-1-in-la?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/12/mbappe-double-helps-real-madrid-thump-rayo-vallecano-4-1-in-la?traffic_source=rss)
 
 ---
 

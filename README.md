@@ -1,33 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-13 21:02:13
+**Last Update:** 2026-09-13 22:07:21
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Ask HN: How can I browse HN in dark mode?
+### 1. I'm being cyberattacked by Tesla, Inc
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>For the fellow parents, some fun context: My toddler is asleep on me, and this light is blinding.</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49686233">https://news.ycombinator.com/item?id=49686233</a></p>
-<p>Points: 13</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://dreamstation.systems/personal/tesla.html">https://dreamstation.systems/personal/tesla.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49686766">https://news.ycombinator.com/item?id=49686766</a></p>
+<p>Points: 112</p>
+<p># Comments: 24</p>
 
-🔗 **Read more:** [https://news.ycombinator.com/item?id=49686233](https://news.ycombinator.com/item?id=49686233)
+🔗 **Read more:** [https://dreamstation.systems/personal/tesla.html](https://dreamstation.systems/personal/tesla.html)
 
 ---
 
-### 2. Romania soccer introduces black card to 'combat abusive behaviour' from parents
+### 2. Why is Google still serving dodgy ads?
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads">https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49686445">https://news.ycombinator.com/item?id=49686445</a></p>
+<p>Points: 73</p>
+<p># Comments: 35</p>
+
+🔗 **Read more:** [https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads](https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads)
+
+---
+
+### 3. Romania soccer introduces black card to 'combat abusive behaviour' from parents
 
 **Source:** Hacker News
 
@@ -36,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.nytimes.com/athletic/7586821/2026/09/12/football-black-card-referee/">https://www.nytimes.com/athletic/7586821/2026/09/12/football-black-card-referee/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49686134">https://news.ycombinator.com/item?id=49686134</a></p>
-<p>Points: 11</p>
-<p># Comments: 0</p>
+<p>Points: 38</p>
+<p># Comments: 23</p>
 
 🔗 **Read more:** [https://www.nytimes.com/athletic/7586821/2026/09/12/football-black-card-referee/](https://www.nytimes.com/athletic/7586821/2026/09/12/football-black-card-referee/)
-
----
-
-### 3. David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://twitter.com/DavidSacks/status/2098973625252708460">https://twitter.com/DavidSacks/status/2098973625252708460</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49685991">https://news.ycombinator.com/item?id=49685991</a></p>
-<p>Points: 30</p>
-<p># Comments: 6</p>
-
-🔗 **Read more:** [https://twitter.com/DavidSacks/status/2098973625252708460](https://twitter.com/DavidSacks/status/2098973625252708460)
 
 ---
 
@@ -85,7 +84,7 @@ The former UK PM said "I don't know what warped logic drove Putin to blow up a s
 
 ---
 
-### 6. Trump downplays AI risks after dire expert warnings and calls to slow development down
+### 6. Trump downplays warnings of AI risks as he cites rivalry with China
 
 **Source:** BBC
 

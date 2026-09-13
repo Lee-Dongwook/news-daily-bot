@@ -1,32 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-13 13:54:16
+**Last Update:** 2026-09-13 14:50:32
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Norton Neo Browser
+### 1. Revolut confirms customer data breach through fake government requests
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://neobrowser.ai/">https://neobrowser.ai/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49681724">https://news.ycombinator.com/item?id=49681724</a></p>
-<p>Points: 16</p>
-<p># Comments: 11</p>
+<p>Article URL: <a href="https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/">https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49682087">https://news.ycombinator.com/item?id=49682087</a></p>
+<p>Points: 9</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://neobrowser.ai/](https://neobrowser.ai/)
+🔗 **Read more:** [https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/](https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/)
 
 ---
 
-### 2. JetKVM Mini
+### 2. Homebrew 7.0.0
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://brew.sh/2026/09/13/homebrew-7.0.0/">https://brew.sh/2026/09/13/homebrew-7.0.0/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49681545">https://news.ycombinator.com/item?id=49681545</a></p>
+<p>Points: 41</p>
+<p># Comments: 8</p>
+
+🔗 **Read more:** [https://brew.sh/2026/09/13/homebrew-7.0.0/](https://brew.sh/2026/09/13/homebrew-7.0.0/)
+
+---
+
+### 3. JetKVM Mini
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://jetkvm.com/blog/introducing-jetkvm-mini">https://jetkvm.com/blog/introducing-jetkvm-mini</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49681152">https://news.ycombinator.com/item?id=49681152</a></p>
-<p>Points: 106</p>
-<p># Comments: 59</p>
+<p>Points: 146</p>
+<p># Comments: 71</p>
 
 🔗 **Read more:** [https://jetkvm.com/blog/introducing-jetkvm-mini](https://jetkvm.com/blog/introducing-jetkvm-mini)
-
----
-
-### 3. A wandering black hole caught feeding on the run
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://phys.org/news/2026-08-black-hole-caught.html">https://phys.org/news/2026-08-black-hole-caught.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49679734">https://news.ycombinator.com/item?id=49679734</a></p>
-<p>Points: 20</p>
-<p># Comments: 6</p>
-
-🔗 **Read more:** [https://phys.org/news/2026-08-black-hole-caught.html](https://phys.org/news/2026-08-black-hole-caught.html)
 
 ---
 
@@ -97,42 +97,42 @@ The inquiry into the former nurse is expected to find failures by her hospital t
 
 ---
 
-### 7. Niger military government reshuffles army command weeks after deadly mutiny
+### 7. Fighting continues between Yemen gov’t forces, Houthis: What is the latest?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-New chief of staff appointed after failed mutiny tested military rulers&#039; grip on power.
+Government forces and Saudi Arabia carry out air attacks to stop Houthis&#039; advance as thousands displaced by conflict.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/13/niger-military-government-reshuffles-army-command-weeks-after-deadly-mutiny?traffic_source=rss](https://www.aljazeera.com/news/2026/9/13/niger-military-government-reshuffles-army-command-weeks-after-deadly-mutiny?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/13/fighting-continues-between-yemen-govt-forces-houthis-what-is-the-latest?traffic_source=rss](https://www.aljazeera.com/news/2026/9/13/fighting-continues-between-yemen-govt-forces-houthis-what-is-the-latest?traffic_source=rss)
 
 ---
 
-### 8. Voting under way in Sweden election that could see far right in government
+### 8. Israeli attack on Gaza kills two Palestinians
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The far-right Sweden Democrats party could enter government for the first time if right-wing bloc wins.
+Israeli strikes on Palestinian territory persist despite a &#039;ceasefire&#039; brokered by the United States.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/13/voting-under-way-in-sweden-election-that-could-see-far-right-enter-govt?traffic_source=rss](https://www.aljazeera.com/news/2026/9/13/voting-under-way-in-sweden-election-that-could-see-far-right-enter-govt?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/13/israeli-attack-on-gaza-kills-two-palestinians?traffic_source=rss](https://www.aljazeera.com/news/2026/9/13/israeli-attack-on-gaza-kills-two-palestinians?traffic_source=rss)
 
 ---
 
-### 9. Mosque and homes damaged in Saudi Arabia after alleged Houthi strike
+### 9. A kingdom within a republic: Inside Uganda’s Buganda
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Mosque and homes damaged in Saudi Arabia after alleged Houthi strike
+The kingdom’s traditions and institutions have endured through colonial rule, independence and decades of upheaval.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/13/mosque-and-homes-damaged-in-saudi-arabia-after-alleged-houthi-strike?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/13/mosque-and-homes-damaged-in-saudi-arabia-after-alleged-houthi-strike?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/13/a-kingdom-within-a-republic-inside-ugandas-buganda?traffic_source=rss](https://www.aljazeera.com/news/2026/9/13/a-kingdom-within-a-republic-inside-ugandas-buganda?traffic_source=rss)
 
 ---
 

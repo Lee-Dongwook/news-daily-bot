@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-13 01:30:43
+**Last Update:** 2026-09-13 03:34:03
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases
+### 1. Killing with a car costs $1.6M, California requires drivers to carry $30K
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://maxmautner.com/2026/09/11/liability-coverage.html">https://maxmautner.com/2026/09/11/liability-coverage.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49677836">https://news.ycombinator.com/item?id=49677836</a></p>
+<p>Points: 29</p>
+<p># Comments: 23</p>
+
+🔗 **Read more:** [https://maxmautner.com/2026/09/11/liability-coverage.html](https://maxmautner.com/2026/09/11/liability-coverage.html)
+
+---
+
+### 2. StarCraft returns in 2030 as an open-world shooter
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.theverge.com/games/994371/starcraft-returns-in-2030-as-an-open-world-shooter">https://www.theverge.com/games/994371/starcraft-returns-in-2030-as-an-open-world-shooter</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49677715">https://news.ycombinator.com/item?id=49677715</a></p>
+<p>Points: 33</p>
+<p># Comments: 30</p>
+
+🔗 **Read more:** [https://www.theverge.com/games/994371/starcraft-returns-in-2030-as-an-open-world-shooter](https://www.theverge.com/games/994371/starcraft-returns-in-2030-as-an-open-world-shooter)
+
+---
+
+### 3. Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://withspecific.com/benchmarks/real-swe">https://withspecific.com/benchmarks/real-swe</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49676820">https://news.ycombinator.com/item?id=49676820</a></p>
-<p>Points: 17</p>
-<p># Comments: 2</p>
+<p>Points: 77</p>
+<p># Comments: 52</p>
 
 🔗 **Read more:** [https://withspecific.com/benchmarks/real-swe](https://withspecific.com/benchmarks/real-swe)
-
----
-
-### 2. Benchmark: CadQuery vs. OpenSCAD for agentic CAD work
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://modelrift.com/blog/cadquery-vs-openscad/">https://modelrift.com/blog/cadquery-vs-openscad/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49676577">https://news.ycombinator.com/item?id=49676577</a></p>
-<p>Points: 12</p>
-<p># Comments: 15</p>
-
-🔗 **Read more:** [https://modelrift.com/blog/cadquery-vs-openscad/](https://modelrift.com/blog/cadquery-vs-openscad/)
-
----
-
-### 3. LG Says We're Fake News [video]
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.youtube.com/watch?v=ToP9xfLDSME">https://www.youtube.com/watch?v=ToP9xfLDSME</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49676324">https://news.ycombinator.com/item?id=49676324</a></p>
-<p>Points: 30</p>
-<p># Comments: 3</p>
-
-🔗 **Read more:** [https://www.youtube.com/watch?v=ToP9xfLDSME](https://www.youtube.com/watch?v=ToP9xfLDSME)
 
 ---
 
@@ -71,68 +71,68 @@ The call comes amid growing concerns that AI models may become able to inflict s
 
 ---
 
-### 5. Dramatic insider warnings over AI fall flat with some in Silicon Valley
+### 5. Will the Thirlwall report change the debate about Lucy Letby?
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-A recent spate of stark warnings about the dangers of AI has been met with scepticism by executives and investors.
+The inquiry into the former nurse is expected to find failures by her hospital to ensure patient safety.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c2e0jg10dkdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c2e0jg10dkdo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Reform receives second £36m donation in two days as crypto investor matches record
+### 6. Trump's comments on a united Ireland may have targeted audience across the Atlantic
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The party says the money will allow it to fight the next election on a "level playing field", while rivals have renewed calls for donations from individuals to be capped.
+Nobody could have predicted that today's main global headline would be Trump's desire to see a unified Ireland.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/clye9nldd7do?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/clye9nldd7do?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Ebola spreads to seventh DRC province as gov’t insists cases are declining
+### 7. Teen rescued after clinging to boat for two days off Alaska
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ebola has reached a seventh DR Congo province after an infected man travelled through Rwanda and Uganda.
+A 15-year-old boy was miraculously rescued after spending two days clinging to his capsized boat in Alaska’s Bering Sea.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-drc-ebola-spread-clip-mp4?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-drc-ebola-spread-clip-mp4?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/12/teen-rescued-after-clinging-to-boat-for-two-days-off-alaska?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/12/teen-rescued-after-clinging-to-boat-for-two-days-off-alaska?traffic_source=rss)
 
 ---
 
-### 8. Second crypto billionaire donates record $49m to far-right Reform UK
+### 8. Death toll from Philippine ferry fire rises to 76
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The two donations increase the total sum of money pledged to Reform since Friday to $97m.
+The Philippine Coast Guard says 41 more bodies have been recovered from the M/V June Aster, with 13 people still missing
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/12/second-crypto-billionaire-donates-record-49m-to-far-right-reform-uk?traffic_source=rss](https://www.aljazeera.com/news/2026/9/12/second-crypto-billionaire-donates-record-49m-to-far-right-reform-uk?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/12/death-toll-from-philippine-ferry-fire-rises-to-76?traffic_source=rss](https://www.aljazeera.com/news/2026/9/12/death-toll-from-philippine-ferry-fire-rises-to-76?traffic_source=rss)
 
 ---
 
-### 9. Fire at nursing home in Chile kills 16 elderly residents
+### 9. Mbappe double helps Real Madrid thump Rayo Vallecano 4–1 in La Liga
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The facility had faced fines and enforcement proceedings over regulatory violations since 2019.
+Goals from Bellingham and Carreras ease pressure on Madrid manager Mourinho after they lost their last league game.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/12/fire-at-nursing-home-in-chile-kills-16-elderly-residents?traffic_source=rss](https://www.aljazeera.com/news/2026/9/12/fire-at-nursing-home-in-chile-kills-16-elderly-residents?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/12/mbappe-double-helps-real-madrid-thump-rayo-vallecano-4-1-in-la?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/12/mbappe-double-helps-real-madrid-thump-rayo-vallecano-4-1-in-la?traffic_source=rss)
 
 ---
 

@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-13 08:31:54
+**Last Update:** 2026-09-13 09:14:51
 
 **Total News:** 9
 
-**Sources:** BBC, Al Jazeera, NASA
+**Sources:** Al Jazeera, NASA, BBC
 
 ---
 
@@ -23,29 +23,29 @@ Jacob Coxon tells the BBC that there's a strong chance AI could end humanity if 
 
 ---
 
-### 2. Will the Thirlwall report change the debate about Lucy Letby?
+### 2. Dramatic insider warnings over AI fall flat with some in Silicon Valley
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The inquiry into the former nurse is expected to find failures by her hospital to ensure patient safety.
+A recent spate of stark warnings about the dangers of AI has been met with scepticism by executives and investors.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c2e0jg10dkdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c2e0jg10dkdo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 3. Trump's comments on a united Ireland may have targeted audience across the Atlantic
+### 3. PM's top security adviser says Europe faces hard winter to keep pressure on Putin
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Nobody could have predicted that today's main global headline would be Trump's desire to see a unified Ireland.
+In rare public remarks, Jonathan Powell said now was not the time for European nations to take their "foot off the gas".
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crr4en2ylz8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crr4en2ylz8o?at_medium=RSS&at_campaign=rss)
 
 ---
 

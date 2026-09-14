@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-15 02:08:59
+**Last Update:** 2026-09-15 03:13:58
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit
+### 1. Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/JamesRyanATX/fcbnerd">https://github.com/JamesRyanATX/fcbnerd</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49705442">https://news.ycombinator.com/item?id=49705442</a></p>
+<p>Points: 7</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://github.com/JamesRyanATX/fcbnerd](https://github.com/JamesRyanATX/fcbnerd)
+
+---
+
+### 2. Charts built for Chat
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://dbtcharts.com/blog/charts-built-for-chat/">https://dbtcharts.com/blog/charts-built-for-chat/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49704246">https://news.ycombinator.com/item?id=49704246</a></p>
+<p>Points: 33</p>
+<p># Comments: 12</p>
+
+🔗 **Read more:** [https://dbtcharts.com/blog/charts-built-for-chat/](https://dbtcharts.com/blog/charts-built-for-chat/)
+
+---
+
+### 3. Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html">https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49704008">https://news.ycombinator.com/item?id=49704008</a></p>
-<p>Points: 126</p>
-<p># Comments: 113</p>
+<p>Points: 145</p>
+<p># Comments: 149</p>
 
 🔗 **Read more:** [https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html](https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html)
-
----
-
-### 2. GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review">https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49703003">https://news.ycombinator.com/item?id=49703003</a></p>
-<p>Points: 74</p>
-<p># Comments: 88</p>
-
-🔗 **Read more:** [https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review](https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review)
-
----
-
-### 3. Backprop Alternative: Augmented Lagrangian Predictive Coding
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://pub.sakana.ai/pc-alm/">https://pub.sakana.ai/pc-alm/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49701182">https://news.ycombinator.com/item?id=49701182</a></p>
-<p>Points: 17</p>
-<p># Comments: 4</p>
-
-🔗 **Read more:** [https://pub.sakana.ai/pc-alm/](https://pub.sakana.ai/pc-alm/)
 
 ---
 

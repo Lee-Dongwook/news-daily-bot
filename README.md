@@ -1,78 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-14 10:02:43
+**Last Update:** 2026-09-14 13:53:53
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Who gets to define the rules for AI?
+### 1. XCancel Taken Down Again
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://cohere.com/blog/who-gets-to-define-the-rules-for-ai">https://cohere.com/blog/who-gets-to-define-the-rules-for-ai</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49692118">https://news.ycombinator.com/item?id=49692118</a></p>
-<p>Points: 16</p>
-<p># Comments: 11</p>
+<p>Article URL: <a href="https://xcancel.com/">https://xcancel.com/#</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49694296">https://news.ycombinator.com/item?id=49694296</a></p>
+<p>Points: 44</p>
+<p># Comments: 22</p>
 
-🔗 **Read more:** [https://cohere.com/blog/who-gets-to-define-the-rules-for-ai](https://cohere.com/blog/who-gets-to-define-the-rules-for-ai)
+🔗 **Read more:** [https://xcancel.com/](https://xcancel.com/)
 
 ---
 
-### 2. Chess.com Leak Exposes 7.3M Users, Evidence Points to Scraping
+### 2. A 386 PC for Your RP2350
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://securityaffairs.com/197174/breaking-news/chess-com-leak-exposes-7-3-million-users-evidence-points-to-scraping.html">https://securityaffairs.com/197174/breaking-news/chess-com-leak-exposes-7-3-million-users-evidence-points-to-scraping.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49691584">https://news.ycombinator.com/item?id=49691584</a></p>
-<p>Points: 29</p>
+<p>Article URL: <a href="https://github.com/rh1tech/frank-386">https://github.com/rh1tech/frank-386</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49693613">https://news.ycombinator.com/item?id=49693613</a></p>
+<p>Points: 27</p>
+<p># Comments: 10</p>
+
+🔗 **Read more:** [https://github.com/rh1tech/frank-386](https://github.com/rh1tech/frank-386)
+
+---
+
+### 3. EuroBirdPortal – Live bird movements across Europe
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.eurobirdportal.org/ebp/en/">https://www.eurobirdportal.org/ebp/en/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49693610">https://news.ycombinator.com/item?id=49693610</a></p>
+<p>Points: 34</p>
 <p># Comments: 9</p>
 
-🔗 **Read more:** [https://securityaffairs.com/197174/breaking-news/chess-com-leak-exposes-7-3-million-users-evidence-points-to-scraping.html](https://securityaffairs.com/197174/breaking-news/chess-com-leak-exposes-7-3-million-users-evidence-points-to-scraping.html)
+🔗 **Read more:** [https://www.eurobirdportal.org/ebp/en/](https://www.eurobirdportal.org/ebp/en/)
 
 ---
 
-### 3. Nike exits the S&P 100 after 18 years and a $200B market-cap wipeout
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p><a href="https://archive.ph/8NmSg" rel="nofollow">https://archive.ph/8NmSg</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49691343">https://news.ycombinator.com/item?id=49691343</a></p>
-<p>Points: 63</p>
-<p># Comments: 64</p>
-
-🔗 **Read more:** [https://fortune.com/2026/09/08/nike-stock-plummets-sp500-market-cap-index/](https://fortune.com/2026/09/08/nike-stock-plummets-sp500-market-cap-index/)
-
----
-
-### 4. MPs and Lords call for new law to address AI threat to human rights
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Existing laws are not equipped to address the risks to human rights being posed by artificial intelligence, UK politicians say.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwyzvgj70y4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwyzvgj70y4o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station
+### 4. Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station
 
 **Source:** BBC
 
@@ -85,7 +71,7 @@ The former UK PM said: "I don't know what warped logic drove Putin to blow up a 
 
 ---
 
-### 6. Watch: Why a Russian strike on train near Ukraine-Poland border could mark an escalation
+### 5. Watch: Why Russian strike on train could be sign of escalation
 
 **Source:** BBC
 
@@ -98,42 +84,55 @@ No casualties were reported after a Russian drone struck a train shortly after B
 
 ---
 
-### 7. Animated map shows spread of illegal Israeli settlements across Palestine
+### 6. MPs and Lords call for new law to address AI threat to human rights
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-Some 750,000 settlers live across more than 500 illegal settlements and outposts, as Israeli pogroms hit record highs.
+Existing laws are not equipped to address the risks to human rights being posed by artificial intelligence, UK politicians say.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/14/animated-map-shows-spread-of-illegal-israeli-settlements-across-palestine?traffic_source=rss](https://www.aljazeera.com/news/2026/9/14/animated-map-shows-spread-of-illegal-israeli-settlements-across-palestine?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwyzvgj70y4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwyzvgj70y4o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. Indonesia intensifies search for 129 people missing after ship capsizes
+### 7. At least one dead, 25 missing after boat carrying migrants sinks off Greece
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Officials say more than 600 rescuers battle stormy seas in search for missing people.
+At least 51 people rescued as search operation continues off the island of Gavnos near Crete.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/14/indonesia-intensifies-search-for-129-people-missing-after-ship-capsizes?traffic_source=rss](https://www.aljazeera.com/news/2026/9/14/indonesia-intensifies-search-for-129-people-missing-after-ship-capsizes?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/14/at-least-one-dead-25-missing-after-boat-carrying-migrants-sinks-off-greece?traffic_source=rss](https://www.aljazeera.com/news/2026/9/14/at-least-one-dead-25-missing-after-boat-carrying-migrants-sinks-off-greece?traffic_source=rss)
 
 ---
 
-### 9. Protests break out across Syria over fuel price increases
+### 8. Yemen gov’t forces advance in Taiz as Houthis claim attack on Saudi Arabia
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Demonstrators burn tyres and block highways as protests over increased fuel prices grip Syrian cities.
+Yemeni government forces have advanced in western Taiz after successfully repelling a Houthi offensive.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/14/protests-break-out-across-syria-over-fuel-price-increases?traffic_source=rss](https://www.aljazeera.com/news/2026/9/14/protests-break-out-across-syria-over-fuel-price-increases?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/14/yemen-govt-forces-advance-in-taiz-as-houthis-claim-attack-on-saudi-arabia?traffic_source=rss](https://www.aljazeera.com/news/2026/9/14/yemen-govt-forces-advance-in-taiz-as-houthis-claim-attack-on-saudi-arabia?traffic_source=rss)
+
+---
+
+### 9. Lamine Yamal says he ‘deserves’ Ballon d’Or but Mbappe his main rival
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+&#039;Mbappe and I are the two best in the world,&#039; Yamal says before claiming he&#039;d deserve to win the prestigious award.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/14/lamine-yamal-says-he-deserves-ballon-dor-but-mbappe-his-main-rival?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/14/lamine-yamal-says-he-deserves-ballon-dor-but-mbappe-his-main-rival?traffic_source=rss)
 
 ---
 

@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-14T13:53:53+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "XCancel Taken Down Again",
+            "description": "<p>Article URL: <a href=\"https://xcancel.com/\">https://xcancel.com/#</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49694296\">https://news.ycombinator.com/item?id=49694296</a></p>\n<p>Points: 44</p>\n<p># Comments: 22</p>",
+            "url": "https://xcancel.com/",
+            "published": "Mon, 14 Sep 2026 09:51:50 +0000",
+            "fetched": "2026-09-14T13:53:53+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "A 386 PC for Your RP2350",
+            "description": "<p>Article URL: <a href=\"https://github.com/rh1tech/frank-386\">https://github.com/rh1tech/frank-386</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49693613\">https://news.ycombinator.com/item?id=49693613</a></p>\n<p>Points: 27</p>\n<p># Comments: 10</p>",
+            "url": "https://github.com/rh1tech/frank-386",
+            "published": "Mon, 14 Sep 2026 08:25:57 +0000",
+            "fetched": "2026-09-14T13:53:53+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "EuroBirdPortal – Live bird movements across Europe",
+            "description": "<p>Article URL: <a href=\"https://www.eurobirdportal.org/ebp/en/\">https://www.eurobirdportal.org/ebp/en/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49693610\">https://news.ycombinator.com/item?id=49693610</a></p>\n<p>Points: 34</p>\n<p># Comments: 9</p>",
+            "url": "https://www.eurobirdportal.org/ebp/en/",
+            "published": "Mon, 14 Sep 2026 08:25:47 +0000",
+            "fetched": "2026-09-14T13:53:53+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
+            "description": "The former UK PM said: \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
+            "url": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 14 Sep 2026 03:38:13 GMT",
+            "fetched": "2026-09-14T13:53:53+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Why Russian strike on train could be sign of escalation",
+            "description": "No casualties were reported after a Russian drone struck a train shortly after Boris Johnson and top European officials left the area.",
+            "url": "https://www.bbc.co.uk/news/videos/cx2z5gjj838o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 14 Sep 2026 01:12:20 GMT",
+            "fetched": "2026-09-14T13:53:53+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "MPs and Lords call for new law to address AI threat to human rights",
+            "description": "Existing laws are not equipped to address the risks to human rights being posed by artificial intelligence, UK politicians say.",
+            "url": "https://www.bbc.co.uk/news/articles/cwyzvgj70y4o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 14 Sep 2026 08:07:08 GMT",
+            "fetched": "2026-09-14T13:53:53+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "At least one dead, 25 missing after boat carrying migrants sinks off Greece",
+            "description": "At least 51 people rescued as search operation continues off the island of Gavnos near Crete.",
+            "url": "https://www.aljazeera.com/news/2026/9/14/at-least-one-dead-25-missing-after-boat-carrying-migrants-sinks-off-greece?traffic_source=rss",
+            "published": "Mon, 14 Sep 2026 09:40:55 +0000",
+            "fetched": "2026-09-14T13:53:53+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Yemen gov’t forces advance in Taiz as Houthis claim attack on Saudi Arabia",
+            "description": "Yemeni government forces have advanced in western Taiz after successfully repelling a Houthi offensive.",
+            "url": "https://www.aljazeera.com/news/2026/9/14/yemen-govt-forces-advance-in-taiz-as-houthis-claim-attack-on-saudi-arabia?traffic_source=rss",
+            "published": "Mon, 14 Sep 2026 09:21:56 +0000",
+            "fetched": "2026-09-14T13:53:53+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Lamine Yamal says he ‘deserves’ Ballon d’Or but Mbappe his main rival",
+            "description": "&#039;Mbappe and I are the two best in the world,&#039; Yamal says before claiming he&#039;d deserve to win the prestigious award.",
+            "url": "https://www.aljazeera.com/sports/2026/9/14/lamine-yamal-says-he-deserves-ballon-dor-but-mbappe-his-main-rival?traffic_source=rss",
+            "published": "Mon, 14 Sep 2026 09:18:06 +0000",
+            "fetched": "2026-09-14T13:53:53+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Norbert",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184",
+            "published": "2026-09-10T06:00:00Z",
+            "fetched": "2026-09-14T13:53:53+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire MEERS, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189",
+            "published": "2026-09-08T16:57:00Z",
+            "fetched": "2026-09-14T13:53:53+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Kurk, San Saba, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185",
+            "published": "2026-09-08T16:39:00Z",
+            "fetched": "2026-09-14T13:53:53+03:30"
+        }
+    ]
+}

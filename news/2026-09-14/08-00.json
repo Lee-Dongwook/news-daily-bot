@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-14T08:00:44+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Nike exits the S&P 100 after 18 years and a $200B market-cap wipeout",
+            "description": "<p><a href=\"https://archive.ph/8NmSg\" rel=\"nofollow\">https://archive.ph/8NmSg</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49691343\">https://news.ycombinator.com/item?id=49691343</a></p>\n<p>Points: 41</p>\n<p># Comments: 22</p>",
+            "url": "https://fortune.com/2026/09/08/nike-stock-plummets-sp500-market-cap-index/",
+            "published": "Mon, 14 Sep 2026 02:50:40 +0000",
+            "fetched": "2026-09-14T08:00:44+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Is It Greg?",
+            "description": "<p>My friend Greg often posts incredible things he just made, just for fun.<p>Often, I don't realize that it's something HE made and then I see the URL, AND IT'S MY FRIEND, GREG!<p>A few things he made that I think are amazing:<p>- ikea complexity index: <a href=\"https://ikea.greg.technology/\" rel=\"nofollow\">https://ikea.greg.technology/</a><p>- Boing: <a href=\"https://boing.greg.technology/\" rel=\"nofollow\">https://boing.greg.technology/</a><p>I want to make sure I don't miss anything from him, so I created this Chrome extension that flags things posted by Greg, or linking to his website or a subdomain.<p>I hope other people will install the extension and never miss anything Greg made.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49690943\">https://news.ycombinator.com/item?id=49690943</a></p>\n<p>Points: 52</p>\n<p># Comments: 18</p>",
+            "url": "https://github.com/antoineleclair/is-it-greg",
+            "published": "Mon, 14 Sep 2026 01:58:41 +0000",
+            "fetched": "2026-09-14T08:00:44+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Malicious Use of Artificial Intelligence",
+            "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/1802.07228\">https://arxiv.org/abs/1802.07228</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49690678\">https://news.ycombinator.com/item?id=49690678</a></p>\n<p>Points: 25</p>\n<p># Comments: 6</p>",
+            "url": "https://arxiv.org/abs/1802.07228",
+            "published": "Mon, 14 Sep 2026 01:22:35 +0000",
+            "fetched": "2026-09-14T08:00:44+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Committee calls for bill to address AI threat to human rights",
+            "description": "A cross-party group of MPs and peers identifies human rights risks that existing laws appear not to cover.",
+            "url": "https://www.bbc.co.uk/news/articles/cwyzvgj70y4o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 14 Sep 2026 03:23:54 GMT",
+            "fetched": "2026-09-14T08:00:44+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
+            "description": "The former UK PM said: \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
+            "url": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 14 Sep 2026 03:38:13 GMT",
+            "fetched": "2026-09-14T08:00:44+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Deep-fried food banned under new school dinner rules in England",
+            "description": "The government describes its new school food standards as \"once-in-a-generation changes\".",
+            "url": "https://www.bbc.co.uk/news/articles/cy4zrepw78eo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 13 Sep 2026 21:30:29 GMT",
+            "fetched": "2026-09-14T08:00:44+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli minister threatens to revoke filmmakers’ citizenship over Gaza film",
+            "description": "Israeli Culture Minister Miki Zohar labels Gaza genocide film &#039;vile&#039; after it wins Venice Film Festival recognition.",
+            "url": "https://www.aljazeera.com/news/2026/9/14/israeli-minister-threatens-to-revoke-filmmakers-citizenship-over-gaza-film?traffic_source=rss",
+            "published": "Mon, 14 Sep 2026 03:50:25 +0000",
+            "fetched": "2026-09-14T08:00:44+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Turkish authorities launch anti-LGBTQ raids, detaining dozens",
+            "description": "Turkish police raid LGBTQ groups across major cities, detaining at least 63 in a major crackdown.",
+            "url": "https://www.aljazeera.com/news/2026/9/14/turkish-authorities-launch-anti-lgbtq-raids-detaining-dozens?traffic_source=rss",
+            "published": "Mon, 14 Sep 2026 03:47:00 +0000",
+            "fetched": "2026-09-14T08:00:44+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Japanese PM-backed candidate wins Okinawa gubernatorial election",
+            "description": "Genta Koja beat two-term incumbent Denny Tamaki, who wants a major US military base to be moved out of Okinawa.",
+            "url": "https://www.aljazeera.com/news/2026/9/14/japanese-pm-backed-candidate-wins-okinawa-gubernatorial-election?traffic_source=rss",
+            "published": "Mon, 14 Sep 2026 03:38:56 +0000",
+            "fetched": "2026-09-14T08:00:44+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Norbert",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184",
+            "published": "2026-09-10T06:00:00Z",
+            "fetched": "2026-09-14T08:00:44+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire MEERS, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189",
+            "published": "2026-09-08T16:57:00Z",
+            "fetched": "2026-09-14T08:00:44+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Kurk, San Saba, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185",
+            "published": "2026-09-08T16:39:00Z",
+            "fetched": "2026-09-14T08:00:44+03:30"
+        }
+    ]
+}

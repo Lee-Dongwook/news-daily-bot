@@ -1,28 +1,28 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-15 00:16:58
+**Last Update:** 2026-09-15 02:08:59
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. A Beginning for Mathematics
+### 1. Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://proofsandprompts.com/2026/09/14/a-beginning-for-mathematics/">https://proofsandprompts.com/2026/09/14/a-beginning-for-mathematics/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49703276">https://news.ycombinator.com/item?id=49703276</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html">https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49704008">https://news.ycombinator.com/item?id=49704008</a></p>
+<p>Points: 126</p>
+<p># Comments: 113</p>
 
-🔗 **Read more:** [https://proofsandprompts.com/2026/09/14/a-beginning-for-mathematics/](https://proofsandprompts.com/2026/09/14/a-beginning-for-mathematics/)
+🔗 **Read more:** [https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html](https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html)
 
 ---
 
@@ -35,26 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review">https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49703003">https://news.ycombinator.com/item?id=49703003</a></p>
-<p>Points: 18</p>
-<p># Comments: 7</p>
+<p>Points: 74</p>
+<p># Comments: 88</p>
 
 🔗 **Read more:** [https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review](https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review)
 
 ---
 
-### 3. Neo Emacs – Emacs from the Future
+### 3. Backprop Alternative: Augmented Lagrangian Predictive Coding
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://neomacs.org/">https://neomacs.org/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49702779">https://news.ycombinator.com/item?id=49702779</a></p>
-<p>Points: 31</p>
-<p># Comments: 28</p>
+<p>Article URL: <a href="https://pub.sakana.ai/pc-alm/">https://pub.sakana.ai/pc-alm/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49701182">https://news.ycombinator.com/item?id=49701182</a></p>
+<p>Points: 17</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://neomacs.org/](https://neomacs.org/)
+🔗 **Read more:** [https://pub.sakana.ai/pc-alm/](https://pub.sakana.ai/pc-alm/)
 
 ---
 
@@ -97,42 +97,42 @@ Burnham has previously said his father did not know he had become prime minister
 
 ---
 
-### 7. Multiple vehicle road crash in South Africa kills 21
+### 7. Landowners in Texas ask court to stop Trump border wall
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Fatal traffic accidents are a recurring problem for South Africa.
+Indigenous groups, environmentalists and locals oppose the wall; Big Bend sees about 1 percent of border arrests.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/14/multiple-vehicle-road-crash-in-south-africa-kills-21?traffic_source=rss](https://www.aljazeera.com/news/2026/9/14/multiple-vehicle-road-crash-in-south-africa-kills-21?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/14/landowners-in-texas-ask-court-to-stop-trump-border-wall?traffic_source=rss](https://www.aljazeera.com/news/2026/9/14/landowners-in-texas-ask-court-to-stop-trump-border-wall?traffic_source=rss)
 
 ---
 
-### 8. Finland shelters under French nuclear umbrella amid Russian, US uncertainty
+### 8. Israeli attack targets Gaza displacement camp
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Finland becomes 10th European state to sign up to military cooperation and nuclear deterrence initiative.
+Israeli attack targets Gaza displacement camp
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/14/finland-shelters-under-french-nuclear-umbrella-amid-russian-us-uncertainty?traffic_source=rss](https://www.aljazeera.com/news/2026/9/14/finland-shelters-under-french-nuclear-umbrella-amid-russian-us-uncertainty?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/14/israeli-attack-targets-gaza-displacement-camp?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/14/israeli-attack-targets-gaza-displacement-camp?traffic_source=rss)
 
 ---
 
-### 9. Elon Musk’s X Corp and SpaceXAI drop antitrust lawsuit against Apple
+### 9. US repeals rules limiting greenhouse gas emissions by power plants
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The companies had accused Apple of favouring OpenAI’s ChatGPT over rival AI chatbots.
+The Trump administration says it could save power plants more than $300bn and &#039;unleash&#039; American energy.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/14/elon-musks-x-corp-and-spacexai-drop-antitrust-lawsuit-against-apple?traffic_source=rss](https://www.aljazeera.com/news/2026/9/14/elon-musks-x-corp-and-spacexai-drop-antitrust-lawsuit-against-apple?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/14/us-repeals-rules-limiting-greenhouse-gas-emissions-by-power-plants?traffic_source=rss](https://www.aljazeera.com/news/2026/9/14/us-repeals-rules-limiting-greenhouse-gas-emissions-by-power-plants?traffic_source=rss)
 
 ---
 

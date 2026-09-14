@@ -1,64 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-14 17:46:52
+**Last Update:** 2026-09-14 20:20:42
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Temporal raises $550M at a $12.55B valuation
+### 1. When LLM judges agree, should we believe them?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://temporal.io/blog/temporal-raises-usd550m-series-e-at-usd12-55b-valuation-ai">https://temporal.io/blog/temporal-raises-usd550m-series-e-at-usd12-55b-valuation-ai</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49696335">https://news.ycombinator.com/item?id=49696335</a></p>
-<p>Points: 22</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them">https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49699590">https://news.ycombinator.com/item?id=49699590</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://temporal.io/blog/temporal-raises-usd550m-series-e-at-usd12-55b-valuation-ai](https://temporal.io/blog/temporal-raises-usd550m-series-e-at-usd12-55b-valuation-ai)
+🔗 **Read more:** [https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them](https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them)
 
 ---
 
-### 2. What a time to be alive – rouge AI agents attack RubyGems.org
+### 2. I stress-tested Meta Muse until its agent control plane started timing out
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/">https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49695876">https://news.ycombinator.com/item?id=49695876</a></p>
-<p>Points: 77</p>
-<p># Comments: 102</p>
+<p>Article URL: <a href="https://blog.cygankiewicz.com/en/meta-muse-black-box-testing/">https://blog.cygankiewicz.com/en/meta-muse-black-box-testing/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49699527">https://news.ycombinator.com/item?id=49699527</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/](https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/)
+🔗 **Read more:** [https://blog.cygankiewicz.com/en/meta-muse-black-box-testing/](https://blog.cygankiewicz.com/en/meta-muse-black-box-testing/)
 
 ---
 
-### 3. Texas judge rules TikTok misled users on child safety feature
+### 3. Hacking AI customer service agents
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.reuters.com/legal/litigation/texas-judge-rules-tiktok-misled-users-child-safety-feature-2026-09-11/">https://www.reuters.com/legal/litigation/texas-judge-rules-tiktok-misled-users-child-safety-feature-2026-09-11/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49695829">https://news.ycombinator.com/item?id=49695829</a></p>
-<p>Points: 54</p>
-<p># Comments: 9</p>
+<p>Article URL: <a href="https://www.intigriti.com/researchers/blog/hacking-tools/hacking-ai-customer-service-agents">https://www.intigriti.com/researchers/blog/hacking-tools/hacking-ai-customer-service-agents</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49699526">https://news.ycombinator.com/item?id=49699526</a></p>
+<p>Points: 8</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.reuters.com/legal/litigation/texas-judge-rules-tiktok-misled-users-child-safety-feature-2026-09-11/](https://www.reuters.com/legal/litigation/texas-judge-rules-tiktok-misled-users-child-safety-feature-2026-09-11/)
+🔗 **Read more:** [https://www.intigriti.com/researchers/blog/hacking-tools/hacking-ai-customer-service-agents](https://www.intigriti.com/researchers/blog/hacking-tools/hacking-ai-customer-service-agents)
 
 ---
 
-### 4. Burnham cancels engagements after death of his father
+### 4. Man admits drugging and raping wife for 20 years
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+A husband pleads guilty to more than 60 offences, including raping his wife without her knowledge.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmp3042q6w3zo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmp3042q6w3zo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Burnham cancels engagements after death of his father
 
 **Source:** BBC
 
@@ -71,68 +84,55 @@ Burnham has previously said his father did not know he had become prime minister
 
 ---
 
-### 5. What you need to know about the latest donations to Reform UK
+### 6. Farage says £72m donations are compliant 'with the law today'
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Chief political correspondent Henry Zeffman explains who's behind Reform UK's £72m in donations.
+Ministers are seeking to put a £100,000 annual cap on donations from British expats, backdated to 25 March 2026.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c6n4kdj3xzz2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c6n4kdj3xzz2o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Member of UK armed forces dies in road traffic incident in Ukraine
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The incident is not the result of hostile action, the BBC understands.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmy5zggx3l2vo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmy5zggx3l2vo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c623xee9dkdyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c623xee9dkdyo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. ‘Attacks will be fully autonomous’: Russia, Ukraine race towards AI warfare
+### 7. Why Middle East tensions are pushing oil prices above $100
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Automated AI drones are just one component of an ultimate chain of destruction both sides are building.
+Brent crude has risen above $100 a barrel as war in Iran disrupts shipping through the Strait of Hormuz.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/14/attacks-will-be-fully-autonomous-russia-ukraine-race-towards-ai-warfare?traffic_source=rss](https://www.aljazeera.com/news/2026/9/14/attacks-will-be-fully-autonomous-russia-ukraine-race-towards-ai-warfare?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/14/why-middle-east-tensions-are-pushing-oil-prices-above-100?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/14/why-middle-east-tensions-are-pushing-oil-prices-above-100?traffic_source=rss)
 
 ---
 
-### 8. Why Saudi Arabia’s East-West pipeline matters for global oil
+### 8. Man dies after French police officer throws him on the ground
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The 1,200km (745-mile) pipeline has been temporarily closed, affecting up to 5 percent of global oil supply.
+Video has emerged of a French police officer violently throwing a 29-year-old homeless man to the ground.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/14/why-saudi-arabias-east-west-pipeline-matters-for-global-oil?traffic_source=rss](https://www.aljazeera.com/news/2026/9/14/why-saudi-arabias-east-west-pipeline-matters-for-global-oil?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/14/man-dies-after-french-police-officer-throws-him-on-the-ground?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/14/man-dies-after-french-police-officer-throws-him-on-the-ground?traffic_source=rss)
 
 ---
 
-### 9. Israel working to eliminate Palestinian presence from West Bank, NGO warns
+### 9. Leaders of Scotland, Wales, Northern Ireland unite for self-determination
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli human rights group B’Tselem details five mechanisms used by Israel to dismantle Palestinian collective life.
+Leaders of nationalist parties in Scotland, Wales and Northern Ireland say London has &#039;no right&#039; to block democracy.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/14/israel-working-to-eliminate-palestinian-presence-from-west-bank-ngo-warns?traffic_source=rss](https://www.aljazeera.com/news/2026/9/14/israel-working-to-eliminate-palestinian-presence-from-west-bank-ngo-warns?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/14/leaders-of-scotland-wales-northern-ireland-unite-for-self-determination?traffic_source=rss](https://www.aljazeera.com/news/2026/9/14/leaders-of-scotland-wales-northern-ireland-unite-for-self-determination?traffic_source=rss)
 
 ---
 

@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-15T00:16:58+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "A Beginning for Mathematics",
+            "description": "<p>Article URL: <a href=\"https://proofsandprompts.com/2026/09/14/a-beginning-for-mathematics/\">https://proofsandprompts.com/2026/09/14/a-beginning-for-mathematics/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49703276\">https://news.ycombinator.com/item?id=49703276</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://proofsandprompts.com/2026/09/14/a-beginning-for-mathematics/",
+            "published": "Mon, 14 Sep 2026 20:14:45 +0000",
+            "fetched": "2026-09-15T00:16:58+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
+            "description": "<p>Article URL: <a href=\"https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review\">https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49703003\">https://news.ycombinator.com/item?id=49703003</a></p>\n<p>Points: 18</p>\n<p># Comments: 7</p>",
+            "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
+            "published": "Mon, 14 Sep 2026 19:56:20 +0000",
+            "fetched": "2026-09-15T00:16:58+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Neo Emacs – Emacs from the Future",
+            "description": "<p>Article URL: <a href=\"https://neomacs.org/\">https://neomacs.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49702779\">https://news.ycombinator.com/item?id=49702779</a></p>\n<p>Points: 31</p>\n<p># Comments: 28</p>",
+            "url": "https://neomacs.org/",
+            "published": "Mon, 14 Sep 2026 19:42:22 +0000",
+            "fetched": "2026-09-15T00:16:58+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Man admits drugging and raping wife over 20 years",
+            "description": "A husband, who cannot be named to protect his wife's anonymity, pleads guilty to more than 60 offences, including rape and administering a substance with intent.",
+            "url": "https://www.bbc.co.uk/news/articles/cmp3042q6w3zo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 14 Sep 2026 16:54:26 GMT",
+            "fetched": "2026-09-15T00:16:58+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder says",
+            "description": "Jack Clark says \"most labs have different ways of being able to pull the plug\", but says this may need to be a requirement.",
+            "url": "https://www.bbc.co.uk/news/articles/cqgk5e2j0gg8o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 14 Sep 2026 20:05:51 GMT",
+            "fetched": "2026-09-15T00:16:58+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham cancels engagements after death of his father",
+            "description": "Burnham has previously said his father did not know he had become prime minister due to his Alzheimer's.",
+            "url": "https://www.bbc.co.uk/news/articles/c68xkddgnd47o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 14 Sep 2026 18:53:38 GMT",
+            "fetched": "2026-09-15T00:16:58+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Multiple vehicle road crash in South Africa kills 21",
+            "description": "Fatal traffic accidents are a recurring problem for South Africa.",
+            "url": "https://www.aljazeera.com/news/2026/9/14/multiple-vehicle-road-crash-in-south-africa-kills-21?traffic_source=rss",
+            "published": "Mon, 14 Sep 2026 20:21:01 +0000",
+            "fetched": "2026-09-15T00:16:58+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Finland shelters under French nuclear umbrella amid Russian, US uncertainty",
+            "description": "Finland becomes 10th European state to sign up to military cooperation and nuclear deterrence initiative.",
+            "url": "https://www.aljazeera.com/news/2026/9/14/finland-shelters-under-french-nuclear-umbrella-amid-russian-us-uncertainty?traffic_source=rss",
+            "published": "Mon, 14 Sep 2026 20:20:20 +0000",
+            "fetched": "2026-09-15T00:16:58+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Elon Musk’s X Corp and SpaceXAI drop antitrust lawsuit against Apple",
+            "description": "The companies had accused Apple of favouring OpenAI’s ChatGPT over rival AI chatbots.",
+            "url": "https://www.aljazeera.com/news/2026/9/14/elon-musks-x-corp-and-spacexai-drop-antitrust-lawsuit-against-apple?traffic_source=rss",
+            "published": "Mon, 14 Sep 2026 19:59:06 +0000",
+            "fetched": "2026-09-15T00:16:58+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Norbert",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184",
+            "published": "2026-09-10T06:00:00Z",
+            "fetched": "2026-09-15T00:16:58+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire MEERS, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189",
+            "published": "2026-09-08T16:57:00Z",
+            "fetched": "2026-09-15T00:16:58+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Kurk, San Saba, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185",
+            "published": "2026-09-08T16:39:00Z",
+            "fetched": "2026-09-15T00:16:58+03:30"
+        }
+    ]
+}

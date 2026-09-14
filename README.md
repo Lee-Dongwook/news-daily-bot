@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-14 13:53:53
+**Last Update:** 2026-09-14 17:46:52
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. XCancel Taken Down Again
+### 1. Temporal raises $550M at a $12.55B valuation
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://xcancel.com/">https://xcancel.com/#</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49694296">https://news.ycombinator.com/item?id=49694296</a></p>
-<p>Points: 44</p>
-<p># Comments: 22</p>
+<p>Article URL: <a href="https://temporal.io/blog/temporal-raises-usd550m-series-e-at-usd12-55b-valuation-ai">https://temporal.io/blog/temporal-raises-usd550m-series-e-at-usd12-55b-valuation-ai</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49696335">https://news.ycombinator.com/item?id=49696335</a></p>
+<p>Points: 22</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://xcancel.com/](https://xcancel.com/)
+🔗 **Read more:** [https://temporal.io/blog/temporal-raises-usd550m-series-e-at-usd12-55b-valuation-ai](https://temporal.io/blog/temporal-raises-usd550m-series-e-at-usd12-55b-valuation-ai)
 
 ---
 
-### 2. A 386 PC for Your RP2350
+### 2. What a time to be alive – rouge AI agents attack RubyGems.org
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/rh1tech/frank-386">https://github.com/rh1tech/frank-386</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49693613">https://news.ycombinator.com/item?id=49693613</a></p>
-<p>Points: 27</p>
-<p># Comments: 10</p>
+<p>Article URL: <a href="https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/">https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49695876">https://news.ycombinator.com/item?id=49695876</a></p>
+<p>Points: 77</p>
+<p># Comments: 102</p>
 
-🔗 **Read more:** [https://github.com/rh1tech/frank-386](https://github.com/rh1tech/frank-386)
+🔗 **Read more:** [https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/](https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/)
 
 ---
 
-### 3. EuroBirdPortal – Live bird movements across Europe
+### 3. Texas judge rules TikTok misled users on child safety feature
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.eurobirdportal.org/ebp/en/">https://www.eurobirdportal.org/ebp/en/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49693610">https://news.ycombinator.com/item?id=49693610</a></p>
-<p>Points: 34</p>
+<p>Article URL: <a href="https://www.reuters.com/legal/litigation/texas-judge-rules-tiktok-misled-users-child-safety-feature-2026-09-11/">https://www.reuters.com/legal/litigation/texas-judge-rules-tiktok-misled-users-child-safety-feature-2026-09-11/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49695829">https://news.ycombinator.com/item?id=49695829</a></p>
+<p>Points: 54</p>
 <p># Comments: 9</p>
 
-🔗 **Read more:** [https://www.eurobirdportal.org/ebp/en/](https://www.eurobirdportal.org/ebp/en/)
+🔗 **Read more:** [https://www.reuters.com/legal/litigation/texas-judge-rules-tiktok-misled-users-child-safety-feature-2026-09-11/](https://www.reuters.com/legal/litigation/texas-judge-rules-tiktok-misled-users-child-safety-feature-2026-09-11/)
 
 ---
 
-### 4. Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station
+### 4. Burnham cancels engagements after death of his father
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The former UK PM said: "I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning".
+Burnham has previously said his father did not know he had become prime minister due to his Alzheimer's.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c68xkddgnd47o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c68xkddgnd47o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Watch: Why Russian strike on train could be sign of escalation
+### 5. What you need to know about the latest donations to Reform UK
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-No casualties were reported after a Russian drone struck a train shortly after Boris Johnson and top European officials left the area.
+Chief political correspondent Henry Zeffman explains who's behind Reform UK's £72m in donations.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cx2z5gjj838o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cx2z5gjj838o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c6n4kdj3xzz2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c6n4kdj3xzz2o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. MPs and Lords call for new law to address AI threat to human rights
+### 6. Member of UK armed forces dies in road traffic incident in Ukraine
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Existing laws are not equipped to address the risks to human rights being posed by artificial intelligence, UK politicians say.
+The incident is not the result of hostile action, the BBC understands.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwyzvgj70y4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwyzvgj70y4o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmy5zggx3l2vo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmy5zggx3l2vo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. At least one dead, 25 missing after boat carrying migrants sinks off Greece
+### 7. ‘Attacks will be fully autonomous’: Russia, Ukraine race towards AI warfare
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-At least 51 people rescued as search operation continues off the island of Gavnos near Crete.
+Automated AI drones are just one component of an ultimate chain of destruction both sides are building.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/14/at-least-one-dead-25-missing-after-boat-carrying-migrants-sinks-off-greece?traffic_source=rss](https://www.aljazeera.com/news/2026/9/14/at-least-one-dead-25-missing-after-boat-carrying-migrants-sinks-off-greece?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/14/attacks-will-be-fully-autonomous-russia-ukraine-race-towards-ai-warfare?traffic_source=rss](https://www.aljazeera.com/news/2026/9/14/attacks-will-be-fully-autonomous-russia-ukraine-race-towards-ai-warfare?traffic_source=rss)
 
 ---
 
-### 8. Yemen gov’t forces advance in Taiz as Houthis claim attack on Saudi Arabia
+### 8. Why Saudi Arabia’s East-West pipeline matters for global oil
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Yemeni government forces have advanced in western Taiz after successfully repelling a Houthi offensive.
+The 1,200km (745-mile) pipeline has been temporarily closed, affecting up to 5 percent of global oil supply.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/14/yemen-govt-forces-advance-in-taiz-as-houthis-claim-attack-on-saudi-arabia?traffic_source=rss](https://www.aljazeera.com/news/2026/9/14/yemen-govt-forces-advance-in-taiz-as-houthis-claim-attack-on-saudi-arabia?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/14/why-saudi-arabias-east-west-pipeline-matters-for-global-oil?traffic_source=rss](https://www.aljazeera.com/news/2026/9/14/why-saudi-arabias-east-west-pipeline-matters-for-global-oil?traffic_source=rss)
 
 ---
 
-### 9. Lamine Yamal says he ‘deserves’ Ballon d’Or but Mbappe his main rival
+### 9. Israel working to eliminate Palestinian presence from West Bank, NGO warns
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-&#039;Mbappe and I are the two best in the world,&#039; Yamal says before claiming he&#039;d deserve to win the prestigious award.
+Israeli human rights group B’Tselem details five mechanisms used by Israel to dismantle Palestinian collective life.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/14/lamine-yamal-says-he-deserves-ballon-dor-but-mbappe-his-main-rival?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/14/lamine-yamal-says-he-deserves-ballon-dor-but-mbappe-his-main-rival?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/14/israel-working-to-eliminate-palestinian-presence-from-west-bank-ngo-warns?traffic_source=rss](https://www.aljazeera.com/news/2026/9/14/israel-working-to-eliminate-palestinian-presence-from-west-bank-ngo-warns?traffic_source=rss)
 
 ---
 

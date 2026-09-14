@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-14 08:00:44
+**Last Update:** 2026-09-14 10:02:43
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Nike exits the S&P 100 after 18 years and a $200B market-cap wipeout
+### 1. Who gets to define the rules for AI?
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://cohere.com/blog/who-gets-to-define-the-rules-for-ai">https://cohere.com/blog/who-gets-to-define-the-rules-for-ai</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49692118">https://news.ycombinator.com/item?id=49692118</a></p>
+<p>Points: 16</p>
+<p># Comments: 11</p>
+
+🔗 **Read more:** [https://cohere.com/blog/who-gets-to-define-the-rules-for-ai](https://cohere.com/blog/who-gets-to-define-the-rules-for-ai)
+
+---
+
+### 2. Chess.com Leak Exposes 7.3M Users, Evidence Points to Scraping
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://securityaffairs.com/197174/breaking-news/chess-com-leak-exposes-7-3-million-users-evidence-points-to-scraping.html">https://securityaffairs.com/197174/breaking-news/chess-com-leak-exposes-7-3-million-users-evidence-points-to-scraping.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49691584">https://news.ycombinator.com/item?id=49691584</a></p>
+<p>Points: 29</p>
+<p># Comments: 9</p>
+
+🔗 **Read more:** [https://securityaffairs.com/197174/breaking-news/chess-com-leak-exposes-7-3-million-users-evidence-points-to-scraping.html](https://securityaffairs.com/197174/breaking-news/chess-com-leak-exposes-7-3-million-users-evidence-points-to-scraping.html)
+
+---
+
+### 3. Nike exits the S&P 100 after 18 years and a $200B market-cap wipeout
 
 **Source:** Hacker News
 
@@ -20,54 +52,21 @@
 <p><a href="https://archive.ph/8NmSg" rel="nofollow">https://archive.ph/8NmSg</a></p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49691343">https://news.ycombinator.com/item?id=49691343</a></p>
-<p>Points: 41</p>
-<p># Comments: 22</p>
+<p>Points: 63</p>
+<p># Comments: 64</p>
 
 🔗 **Read more:** [https://fortune.com/2026/09/08/nike-stock-plummets-sp500-market-cap-index/](https://fortune.com/2026/09/08/nike-stock-plummets-sp500-market-cap-index/)
 
 ---
 
-### 2. Show HN: Is It Greg?
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>My friend Greg often posts incredible things he just made, just for fun.<p>Often, I don't realize that it's something HE made and then I see the URL, AND IT'S MY FRIEND, GREG!<p>A few things he made that I think are amazing:<p>- ikea complexity index: <a href="https://ikea.greg.technology/" rel="nofollow">https://ikea.greg.technology/</a><p>- Boing: <a href="https://boing.greg.technology/" rel="nofollow">https://boing.greg.technology/</a><p>I want to make sure I don't miss anything from him, so I created this Chrome extension that flags things posted by Greg, or linking to his website or a subdomain.<p>I hope other people will install the extension and never miss anything Greg made.</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49690943">https://news.ycombinator.com/item?id=49690943</a></p>
-<p>Points: 52</p>
-<p># Comments: 18</p>
-
-🔗 **Read more:** [https://github.com/antoineleclair/is-it-greg](https://github.com/antoineleclair/is-it-greg)
-
----
-
-### 3. The Malicious Use of Artificial Intelligence
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://arxiv.org/abs/1802.07228">https://arxiv.org/abs/1802.07228</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49690678">https://news.ycombinator.com/item?id=49690678</a></p>
-<p>Points: 25</p>
-<p># Comments: 6</p>
-
-🔗 **Read more:** [https://arxiv.org/abs/1802.07228](https://arxiv.org/abs/1802.07228)
-
----
-
-### 4. Committee calls for bill to address AI threat to human rights
+### 4. MPs and Lords call for new law to address AI threat to human rights
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-A cross-party group of MPs and peers identifies human rights risks that existing laws appear not to cover.
+Existing laws are not equipped to address the risks to human rights being posed by artificial intelligence, UK politicians say.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwyzvgj70y4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwyzvgj70y4o?at_medium=RSS&at_campaign=rss)
 
@@ -86,55 +85,55 @@ The former UK PM said: "I don't know what warped logic drove Putin to blow up a 
 
 ---
 
-### 6. Deep-fried food banned under new school dinner rules in England
+### 6. Watch: Why a Russian strike on train near Ukraine-Poland border could mark an escalation
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The government describes its new school food standards as "once-in-a-generation changes".
+No casualties were reported after a Russian drone struck a train shortly after Boris Johnson and top European officials left the area.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cy4zrepw78eo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cy4zrepw78eo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cx2z5gjj838o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cx2z5gjj838o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Israeli minister threatens to revoke filmmakers’ citizenship over Gaza film
+### 7. Animated map shows spread of illegal Israeli settlements across Palestine
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli Culture Minister Miki Zohar labels Gaza genocide film &#039;vile&#039; after it wins Venice Film Festival recognition.
+Some 750,000 settlers live across more than 500 illegal settlements and outposts, as Israeli pogroms hit record highs.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/14/israeli-minister-threatens-to-revoke-filmmakers-citizenship-over-gaza-film?traffic_source=rss](https://www.aljazeera.com/news/2026/9/14/israeli-minister-threatens-to-revoke-filmmakers-citizenship-over-gaza-film?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/14/animated-map-shows-spread-of-illegal-israeli-settlements-across-palestine?traffic_source=rss](https://www.aljazeera.com/news/2026/9/14/animated-map-shows-spread-of-illegal-israeli-settlements-across-palestine?traffic_source=rss)
 
 ---
 
-### 8. Turkish authorities launch anti-LGBTQ raids, detaining dozens
+### 8. Indonesia intensifies search for 129 people missing after ship capsizes
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Turkish police raid LGBTQ groups across major cities, detaining at least 63 in a major crackdown.
+Officials say more than 600 rescuers battle stormy seas in search for missing people.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/14/turkish-authorities-launch-anti-lgbtq-raids-detaining-dozens?traffic_source=rss](https://www.aljazeera.com/news/2026/9/14/turkish-authorities-launch-anti-lgbtq-raids-detaining-dozens?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/14/indonesia-intensifies-search-for-129-people-missing-after-ship-capsizes?traffic_source=rss](https://www.aljazeera.com/news/2026/9/14/indonesia-intensifies-search-for-129-people-missing-after-ship-capsizes?traffic_source=rss)
 
 ---
 
-### 9. Japanese PM-backed candidate wins Okinawa gubernatorial election
+### 9. Protests break out across Syria over fuel price increases
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Genta Koja beat two-term incumbent Denny Tamaki, who wants a major US military base to be moved out of Okinawa.
+Demonstrators burn tyres and block highways as protests over increased fuel prices grip Syrian cities.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/14/japanese-pm-backed-candidate-wins-okinawa-gubernatorial-election?traffic_source=rss](https://www.aljazeera.com/news/2026/9/14/japanese-pm-backed-candidate-wins-okinawa-gubernatorial-election?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/14/protests-break-out-across-syria-over-fuel-price-increases?traffic_source=rss](https://www.aljazeera.com/news/2026/9/14/protests-break-out-across-syria-over-fuel-price-increases?traffic_source=rss)
 
 ---
 

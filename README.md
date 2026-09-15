@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-16 01:02:41
+**Last Update:** 2026-09-16 01:28:16
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html">https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49718928">https://news.ycombinator.com/item?id=49718928</a></p>
-<p>Points: 8</p>
-<p># Comments: 0</p>
+<p>Points: 40</p>
+<p># Comments: 3</p>
 
 🔗 **Read more:** [https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html](https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Serre/">https://mathshistory.st-andrews.ac.uk/Biographies/Serre/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49718822">https://news.ycombinator.com/item?id=49718822</a></p>
-<p>Points: 19</p>
-<p># Comments: 0</p>
+<p>Points: 33</p>
+<p># Comments: 5</p>
 
 🔗 **Read more:** [https://mathshistory.st-andrews.ac.uk/Biographies/Serre/](https://mathshistory.st-andrews.ac.uk/Biographies/Serre/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.depletion.org">https://www.depletion.org</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49718025">https://news.ycombinator.com/item?id=49718025</a></p>
-<p>Points: 62</p>
-<p># Comments: 86</p>
+<p>Points: 69</p>
+<p># Comments: 100</p>
 
 🔗 **Read more:** [https://www.depletion.org](https://www.depletion.org)
 
@@ -97,7 +97,33 @@ Thomas said he has done nothing wrong as Gwent Police confirms arrest on suspici
 
 ---
 
-### 7. Romanian shepards and farmers clash with police
+### 7. US Senate crypto bill collapses in blow to industry
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The defeat dealt a major blow to efforts to establish the first comprehensive federal framework for digital-asset market
+
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/15/us-senate-crypto-bill-collapses-in-blow-to-industry?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/15/us-senate-crypto-bill-collapses-in-blow-to-industry?traffic_source=rss)
+
+---
+
+### 8. Hundreds protest in DR Congo against third presidential term
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Hundreds protest in DR Congo against third presidential term
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/15/hundreds-protest-in-dr-congo-against-third-presidential-term?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/15/hundreds-protest-in-dr-congo-against-third-presidential-term?traffic_source=rss)
+
+---
+
+### 9. Romanian shepards and farmers clash with police
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Thomas said he has done nothing wrong as Gwent Police confirms arrest on suspici
 Dozens injured as 2,000 farmers - backed by far-right groups - protest the extension of a livestock export ban.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/15/romanian-shepards-and-farmers-clash-with-police?traffic_source=rss](https://www.aljazeera.com/news/2026/9/15/romanian-shepards-and-farmers-clash-with-police?traffic_source=rss)
-
----
-
-### 8. What makes these midterms so pivotal?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The 2026 midterms could reshape Washington as voters weigh Trump, party divisions and the issues driving the election.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/lets-focus/2026/9/15/what-makes-these-midterms-so-pivotal?traffic_source=rss](https://www.aljazeera.com/video/lets-focus/2026/9/15/what-makes-these-midterms-so-pivotal?traffic_source=rss)
-
----
-
-### 9. Why do some African leaders gamble with term limits?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Protesters in the DRC denounce law that could extend president&#039;s term.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/9/15/why-do-some-african-leaders-gamble-with-term-limits-2?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/9/15/why-do-some-african-leaders-gamble-with-term-limits-2?traffic_source=rss)
 
 ---
 

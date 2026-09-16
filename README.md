@@ -1,32 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-17 02:14:21
+**Last Update:** 2026-09-17 02:34:00
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Common Crawl Data Stored on a Hugging Face Bucket
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://commoncrawl.org/blog/getting-started-with-common-crawl-data-on-hugging-face">https://commoncrawl.org/blog/getting-started-with-common-crawl-data-on-hugging-face</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49733435">https://news.ycombinator.com/item?id=49733435</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://commoncrawl.org/blog/getting-started-with-common-crawl-data-on-hugging-face](https://commoncrawl.org/blog/getting-started-with-common-crawl-data-on-hugging-face)
-
----
-
-### 2. Breaking the 1.58-bit Barrier for Ternary LLMs
+### 1. Breaking the 1.58-bit Barrier for Ternary LLMs
 
 **Source:** Hacker News
 
@@ -35,14 +19,14 @@
 **Description:**
 <p>Article URL: <a href="https://arxiv.org/abs/2609.16338">https://arxiv.org/abs/2609.16338</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49732931">https://news.ycombinator.com/item?id=49732931</a></p>
-<p>Points: 78</p>
-<p># Comments: 4</p>
+<p>Points: 82</p>
+<p># Comments: 5</p>
 
 🔗 **Read more:** [https://arxiv.org/abs/2609.16338](https://arxiv.org/abs/2609.16338)
 
 ---
 
-### 3. Backups Aren't Simple
+### 2. Backups Aren't Simple
 
 **Source:** Hacker News
 
@@ -51,10 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://filipovski.net/2026/09/16/backups-arent-simple.html">https://filipovski.net/2026/09/16/backups-arent-simple.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49732513">https://news.ycombinator.com/item?id=49732513</a></p>
-<p>Points: 4</p>
+<p>Points: 11</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://filipovski.net/2026/09/16/backups-arent-simple.html](https://filipovski.net/2026/09/16/backups-arent-simple.html)
+
+---
+
+### 3. Xiaomi Mimo 2.6 live post-training dashboard
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://mimo.xiaomi.com/rl/">https://mimo.xiaomi.com/rl/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49732270">https://news.ycombinator.com/item?id=49732270</a></p>
+<p>Points: 168</p>
+<p># Comments: 46</p>
+
+🔗 **Read more:** [https://mimo.xiaomi.com/rl/](https://mimo.xiaomi.com/rl/)
 
 ---
 
@@ -97,7 +97,20 @@ Diana's brother claimed the then-Prince of Wales said she would be forgotten "so
 
 ---
 
-### 7. Macklemore pledges $1m in tour earnings to Palestinian groups
+### 7. For checkpoint and settler attack news, Palestinians tune into the radio
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Palestinians in the West Bank navigate Israeli road closures and attacks with help from a local radio station.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/16/for-checkpoint-and-settler-attack-news-palestinians-tune-into-the-radio?traffic_source=rss](https://www.aljazeera.com/news/2026/9/16/for-checkpoint-and-settler-attack-news-palestinians-tune-into-the-radio?traffic_source=rss)
+
+---
+
+### 8. Macklemore pledges $1m in tour earnings to Palestinian groups
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ The rapper also challenged Robert Kraft to match the donation as fallout from hi
 
 ---
 
-### 8. Manchester United lose 3-2 to Brighton, crash out of League Cup
+### 9. Manchester United lose 3-2 to Brighton, crash out of League Cup
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ The rapper also challenged Robert Kraft to match the donation as fallout from hi
 Brighton come from two goals down to win 3-2 at Old Trafford, to shock Manchester United as slow start continues.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/16/manchester-united-lose-3-2-to-brighton-crash-out-of-league-cup?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/16/manchester-united-lose-3-2-to-brighton-crash-out-of-league-cup?traffic_source=rss)
-
----
-
-### 9. Rescue workers search for survivors after Gaza building collapse
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Rescue workers search for survivors after Gaza building collapse
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/16/rescue-workers-search-for-survivors-after-gaza-building-collapse?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/16/rescue-workers-search-for-survivors-after-gaza-building-collapse?traffic_source=rss)
 
 ---
 

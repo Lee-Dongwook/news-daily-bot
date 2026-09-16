@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-16 23:46:46
+**Last Update:** 2026-09-17 02:14:21
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. How good are frontier models at physics?
+### 1. Common Crawl Data Stored on a Hugging Face Bucket
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://arxiv.org/abs/2609.13009">https://arxiv.org/abs/2609.13009</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49731620">https://news.ycombinator.com/item?id=49731620</a></p>
-<p>Points: 17</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://commoncrawl.org/blog/getting-started-with-common-crawl-data-on-hugging-face">https://commoncrawl.org/blog/getting-started-with-common-crawl-data-on-hugging-face</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49733435">https://news.ycombinator.com/item?id=49733435</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://arxiv.org/abs/2609.13009](https://arxiv.org/abs/2609.13009)
+🔗 **Read more:** [https://commoncrawl.org/blog/getting-started-with-common-crawl-data-on-hugging-face](https://commoncrawl.org/blog/getting-started-with-common-crawl-data-on-hugging-face)
 
 ---
 
-### 2. Fed Raises Rates for First Time in Three Years
+### 2. Breaking the 1.58-bit Barrier for Ternary LLMs
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.wsj.com/economy/central-banking/fed-raises-rates-for-first-time-in-three-years-08539fbe">https://www.wsj.com/economy/central-banking/fed-raises-rates-for-first-time-in-three-years-08539fbe</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49731515">https://news.ycombinator.com/item?id=49731515</a></p>
-<p>Points: 15</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://arxiv.org/abs/2609.16338">https://arxiv.org/abs/2609.16338</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49732931">https://news.ycombinator.com/item?id=49732931</a></p>
+<p>Points: 78</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://www.wsj.com/economy/central-banking/fed-raises-rates-for-first-time-in-three-years-08539fbe](https://www.wsj.com/economy/central-banking/fed-raises-rates-for-first-time-in-three-years-08539fbe)
+🔗 **Read more:** [https://arxiv.org/abs/2609.16338](https://arxiv.org/abs/2609.16338)
 
 ---
 
-### 3. Accurate Models of AMD Matrix Cores
+### 3. Backups Aren't Simple
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://arxiv.org/abs/2609.14845">https://arxiv.org/abs/2609.14845</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49731360">https://news.ycombinator.com/item?id=49731360</a></p>
-<p>Points: 22</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://filipovski.net/2026/09/16/backups-arent-simple.html">https://filipovski.net/2026/09/16/backups-arent-simple.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49732513">https://news.ycombinator.com/item?id=49732513</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://arxiv.org/abs/2609.14845](https://arxiv.org/abs/2609.14845)
+🔗 **Read more:** [https://filipovski.net/2026/09/16/backups-arent-simple.html](https://filipovski.net/2026/09/16/backups-arent-simple.html)
 
 ---
 
@@ -71,68 +71,68 @@ Police divers discover child's body in a pond after Noah went missing from a pla
 
 ---
 
-### 5. Charles said Diana would be forgotten 'soon enough', Earl Spencer claims in book
+### 5. US interest rates raised for first time in three years
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Buckingham Palace has pushed back against the claim, saying grief can "colour memory" of events.
+Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. 'Grief can colour memory': Palace responds after Earl Spencer's claim in Diana book
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Diana's brother claimed the then-Prince of Wales said she would be forgotten "soon enough" days after her death.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c8e3rk47r4ego?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c8e3rk47r4ego?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. EU chief backs plan for Canada to become 'associate member'
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Canada is seeking closer ties with EU after a breakdown in relations with the US and its president Donald Trump.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. New video claims to show Saudi fighter jet Houthis say they shot down
+### 7. Macklemore pledges $1m in tour earnings to Palestinian groups
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Houthi forces have released a video claiming to show a Saudi fighter jet the group says was shot down in Yemen’s Marib.
+The rapper also challenged Robert Kraft to match the donation as fallout from his removal from Ed Sheeran’s tour grows.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/16/new-video-claims-to-show-saudi-fighter-jet-houthis-say-they-shot-down?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/16/new-video-claims-to-show-saudi-fighter-jet-houthis-say-they-shot-down?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/16/macklemore-pledges-1m-in-tour-earnings-to-palestinian-groups?traffic_source=rss](https://www.aljazeera.com/news/2026/9/16/macklemore-pledges-1m-in-tour-earnings-to-palestinian-groups?traffic_source=rss)
 
 ---
 
-### 8. Syria abolishes al-Assad-era ‘terrorism’ court as Kurdish tensions flare
+### 8. Manchester United lose 3-2 to Brighton, crash out of League Cup
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Discontent is testing President Ahmed al-Sharaa&#039;s ability to unify a country emerging from 14 years of conflict.
+Brighton come from two goals down to win 3-2 at Old Trafford, to shock Manchester United as slow start continues.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/16/syria-abolishes-al-assad-era-terrorism-court-as-kurdish-tensions-flare?traffic_source=rss](https://www.aljazeera.com/news/2026/9/16/syria-abolishes-al-assad-era-terrorism-court-as-kurdish-tensions-flare?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/16/manchester-united-lose-3-2-to-brighton-crash-out-of-league-cup?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/16/manchester-united-lose-3-2-to-brighton-crash-out-of-league-cup?traffic_source=rss)
 
 ---
 
-### 9. Efforts underway for Zelenskyy-Trump meeting at UN next week
+### 9. Rescue workers search for survivors after Gaza building collapse
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Trump pushes for a solution to end Moscow&#039;s war against Kyiv as civilian deaths in Ukraine rise.
+Rescue workers search for survivors after Gaza building collapse
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/16/efforts-underway-for-zelenskyy-trump-meeting-at-un-next-week?traffic_source=rss](https://www.aljazeera.com/news/2026/9/16/efforts-underway-for-zelenskyy-trump-meeting-at-un-next-week?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/16/rescue-workers-search-for-survivors-after-gaza-building-collapse?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/16/rescue-workers-search-for-survivors-after-gaza-building-collapse?traffic_source=rss)
 
 ---
 

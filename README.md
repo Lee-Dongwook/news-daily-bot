@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-16 23:23:02
+**Last Update:** 2026-09-16 23:46:46
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
@@ -19,26 +19,26 @@
 **Description:**
 <p>Article URL: <a href="https://arxiv.org/abs/2609.13009">https://arxiv.org/abs/2609.13009</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49731620">https://news.ycombinator.com/item?id=49731620</a></p>
-<p>Points: 12</p>
-<p># Comments: 2</p>
+<p>Points: 17</p>
+<p># Comments: 3</p>
 
 🔗 **Read more:** [https://arxiv.org/abs/2609.13009](https://arxiv.org/abs/2609.13009)
 
 ---
 
-### 2. A coffee shop owner used AI to make a menu poster. Then came the angry DMs
+### 2. Fed Raises Rates for First Time in Three Years
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.businessinsider.com/coffee-shop-owner-ai-menu-backlash-2026-9">https://www.businessinsider.com/coffee-shop-owner-ai-menu-backlash-2026-9</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49731395">https://news.ycombinator.com/item?id=49731395</a></p>
-<p>Points: 20</p>
-<p># Comments: 12</p>
+<p>Article URL: <a href="https://www.wsj.com/economy/central-banking/fed-raises-rates-for-first-time-in-three-years-08539fbe">https://www.wsj.com/economy/central-banking/fed-raises-rates-for-first-time-in-three-years-08539fbe</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49731515">https://news.ycombinator.com/item?id=49731515</a></p>
+<p>Points: 15</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://www.businessinsider.com/coffee-shop-owner-ai-menu-backlash-2026-9](https://www.businessinsider.com/coffee-shop-owner-ai-menu-backlash-2026-9)
+🔗 **Read more:** [https://www.wsj.com/economy/central-banking/fed-raises-rates-for-first-time-in-three-years-08539fbe](https://www.wsj.com/economy/central-banking/fed-raises-rates-for-first-time-in-three-years-08539fbe)
 
 ---
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://arxiv.org/abs/2609.14845">https://arxiv.org/abs/2609.14845</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49731360">https://news.ycombinator.com/item?id=49731360</a></p>
-<p>Points: 18</p>
-<p># Comments: 1</p>
+<p>Points: 22</p>
+<p># Comments: 2</p>
 
 🔗 **Read more:** [https://arxiv.org/abs/2609.14845](https://arxiv.org/abs/2609.14845)
 
@@ -97,42 +97,42 @@ Canada is seeking closer ties with EU after a breakdown in relations with the US
 
 ---
 
-### 7. Jerusalem Daily: US to send $2.8BN worth of weapons to Israel
+### 7. New video claims to show Saudi fighter jet Houthis say they shot down
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A 15-year-old boy was killed in a double-tap strike while trying to save a paramedic.
+Houthi forces have released a video claiming to show a Saudi fighter jet the group says was shot down in Yemen’s Marib.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/16/jerusalem-daily-us-to-send-2-8bn-worth-of-weapons-to-israel?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/16/jerusalem-daily-us-to-send-2-8bn-worth-of-weapons-to-israel?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/16/new-video-claims-to-show-saudi-fighter-jet-houthis-say-they-shot-down?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/16/new-video-claims-to-show-saudi-fighter-jet-houthis-say-they-shot-down?traffic_source=rss)
 
 ---
 
-### 8. US Fed raises interest rates for first time in three years
+### 8. Syria abolishes al-Assad-era ‘terrorism’ court as Kurdish tensions flare
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The 25 basis-point hike is the first raise in three years and comes ahead of critical midterm elections in the US.
+Discontent is testing President Ahmed al-Sharaa&#039;s ability to unify a country emerging from 14 years of conflict.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/16/us-fed-raises-interest-rates-as-inflation-weighs-on-economy?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/16/us-fed-raises-interest-rates-as-inflation-weighs-on-economy?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/16/syria-abolishes-al-assad-era-terrorism-court-as-kurdish-tensions-flare?traffic_source=rss](https://www.aljazeera.com/news/2026/9/16/syria-abolishes-al-assad-era-terrorism-court-as-kurdish-tensions-flare?traffic_source=rss)
 
 ---
 
-### 9. Geopolitical divides fueling UN Security Council inaction, Guterres warns
+### 9. Efforts underway for Zelenskyy-Trump meeting at UN next week
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Guterres calls for urgent Security Council reform, says geopolitical divides hindering action on global crises.
+Trump pushes for a solution to end Moscow&#039;s war against Kyiv as civilian deaths in Ukraine rise.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/16/geopolitical-divides-fueling-security-council-inaction-guterres-warns?traffic_source=rss](https://www.aljazeera.com/news/2026/9/16/geopolitical-divides-fueling-security-council-inaction-guterres-warns?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/16/efforts-underway-for-zelenskyy-trump-meeting-at-un-next-week?traffic_source=rss](https://www.aljazeera.com/news/2026/9/16/efforts-underway-for-zelenskyy-trump-meeting-at-un-next-week?traffic_source=rss)
 
 ---
 

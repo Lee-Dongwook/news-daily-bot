@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-16 19:56:32
+**Last Update:** 2026-09-16 20:40:00
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Code Is Crap
+### 1. Claude Cowork and chat are now one Claude
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://claude.com/blog/cowork-is-now-claude">https://claude.com/blog/cowork-is-now-claude</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49729412">https://news.ycombinator.com/item?id=49729412</a></p>
+<p>Points: 22</p>
+<p># Comments: 9</p>
+
+🔗 **Read more:** [https://claude.com/blog/cowork-is-now-claude](https://claude.com/blog/cowork-is-now-claude)
+
+---
+
+### 2. Code Is CRAP [2011]
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://testing.googleblog.com/2011/02/this-code-is-crap.html">https://testing.googleblog.com/2011/02/this-code-is-crap.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49729228">https://news.ycombinator.com/item?id=49729228</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
+<p>Points: 41</p>
+<p># Comments: 30</p>
 
 🔗 **Read more:** [https://testing.googleblog.com/2011/02/this-code-is-crap.html](https://testing.googleblog.com/2011/02/this-code-is-crap.html)
 
 ---
 
-### 2. Small Programming Tricks
+### 3. Small Programming Tricks
 
 **Source:** Hacker News
 
@@ -35,39 +51,23 @@
 **Description:**
 <p>Article URL: <a href="https://will-keleher.com/posts/small-programming-tricks-matter/">https://will-keleher.com/posts/small-programming-tricks-matter/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49729000">https://news.ycombinator.com/item?id=49729000</a></p>
-<p>Points: 18</p>
-<p># Comments: 4</p>
+<p>Points: 66</p>
+<p># Comments: 46</p>
 
 🔗 **Read more:** [https://will-keleher.com/posts/small-programming-tricks-matter/](https://will-keleher.com/posts/small-programming-tricks-matter/)
 
 ---
 
-### 3. Can we stop with the uptime percentages?
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://blog.jim-nielsen.com/2026/stop-with-the-uptime-percentage/">https://blog.jim-nielsen.com/2026/stop-with-the-uptime-percentage/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49728733">https://news.ycombinator.com/item?id=49728733</a></p>
-<p>Points: 32</p>
-<p># Comments: 19</p>
-
-🔗 **Read more:** [https://blog.jim-nielsen.com/2026/stop-with-the-uptime-percentage/](https://blog.jim-nielsen.com/2026/stop-with-the-uptime-percentage/)
-
----
-
-### 4. CCTV shows last sighting of Noah Woods
+### 4. EU chief backs plan for Canada to become 'associate member'
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Suffolk Police released CCTV of the last confirmed sighting of Noah in the park in Brantham at 14:37 BST on Tuesday.
+Canada is seeking closer ties with EU after a breakdown in relations with the US and its president Donald Trump.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cw1mv721kedlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cw1mv721kedlo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -84,55 +84,55 @@ Nicholas Brandram was a suspect in the incident where a woman was shoved into th
 
 ---
 
-### 6. EU chief backs plan for Canada to become 'associate member'
+### 6. Photos show widespread damage at US sites from Iranian attacks
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Canada is seeking closer ties with EU after a breakdown in relations with the US and its president Donald Trump.
+A wrecked air force plane and destroyed buildings are among the images obtained by the BBC's partner CBS News.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Sweden expels Iran embassy employee, citing security concerns
+### 7. Malaysia offers to invite Myanmar leader in Rohingya repatriation push
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Stockholm says Iran-backed groups are plotting against &#039;Jewish and Israeli interests&#039; in the country.
+Malaysia has invited Myanmar’s military ruler for a visit to the country in a bid to expedite Rohingya repatriation.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/16/sweden-expels-iran-embassy-employee-citing-security-concerns?traffic_source=rss](https://www.aljazeera.com/news/2026/9/16/sweden-expels-iran-embassy-employee-citing-security-concerns?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/16/malaysia-offers-to-invite-myanmar-leader-in-rohingya-repatriation-push?traffic_source=rss](https://www.aljazeera.com/news/2026/9/16/malaysia-offers-to-invite-myanmar-leader-in-rohingya-repatriation-push?traffic_source=rss)
 
 ---
 
-### 8. Ex-Trump ally Marjorie Taylor Greene says war on Iran must ‘stop’
+### 8. Angry Dutch farmers blamed for railway sabotage: What happened?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Former Republican Congresswoman Marjorie Taylor Greene slammed US President Donald Trump’s war on Iran.
+Farmers in the Netherlands have taken action in the past, protesting against the government’s nitrogen policy.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/16/ex-trump-ally-marjorie-taylor-greene-says-war-on-iran-must?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/16/ex-trump-ally-marjorie-taylor-greene-says-war-on-iran-must?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/16/angry-farmers-blamed-for-dutch-railways-sabotage-what-happened?traffic_source=rss](https://www.aljazeera.com/news/2026/9/16/angry-farmers-blamed-for-dutch-railways-sabotage-what-happened?traffic_source=rss)
 
 ---
 
-### 9. Djibouti calls for assistance as thousands of Yemenis flee to country
+### 9. Ebola fight in DRC ‘far from over,’ warns WHO chief
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Djibouti&#039;s interior minister has warned that number of people arriving in the country already exceeds national capacity.
+The DRC faces a growing Ebola threat as cases soar in North Kivu, despite progress in other regions, says Tedros
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/16/djibouti-calls-for-assistance-as-thousands-of-yemenis-flee-to-country?traffic_source=rss](https://www.aljazeera.com/news/2026/9/16/djibouti-calls-for-assistance-as-thousands-of-yemenis-flee-to-country?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/16/ebola-fight-in-drc-far-from-over-warns-who-chief?traffic_source=rss](https://www.aljazeera.com/news/2026/9/16/ebola-fight-in-drc-far-from-over-warns-who-chief?traffic_source=rss)
 
 ---
 

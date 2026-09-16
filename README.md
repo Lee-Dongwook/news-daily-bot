@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-16 09:16:36
+**Last Update:** 2026-09-16 09:44:13
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
@@ -19,7 +19,7 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/rapiddweller/datamimic">https://github.com/rapiddweller/datamimic</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49722276">https://news.ycombinator.com/item?id=49722276</a></p>
-<p>Points: 5</p>
+<p>Points: 9</p>
 <p># Comments: 2</p>
 
 🔗 **Read more:** [https://github.com/rapiddweller/datamimic](https://github.com/rapiddweller/datamimic)
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/">https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49721548">https://news.ycombinator.com/item?id=49721548</a></p>
-<p>Points: 56</p>
-<p># Comments: 16</p>
+<p>Points: 60</p>
+<p># Comments: 17</p>
 
 🔗 **Read more:** [https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/](https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/)
 
@@ -51,14 +51,14 @@
 **Description:**
 <p>Article URL: <a href="https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/">https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49721435">https://news.ycombinator.com/item?id=49721435</a></p>
-<p>Points: 44</p>
-<p># Comments: 29</p>
+<p>Points: 47</p>
+<p># Comments: 30</p>
 
 🔗 **Read more:** [https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/](https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/)
 
 ---
 
-### 4. OpenAI boss says world 'right to be afraid' but 'should trust' AI firms
+### 4. OpenAI boss says world 'right to be afraid' but should trust AI firms
 
 **Source:** BBC
 
@@ -97,7 +97,33 @@ Supporters of the scheme say the bank would enable governments to get cheaper lo
 
 ---
 
-### 7. What’s the Pinglu Canal, China’s new gateway to Southeast Asia?
+### 7. US House votes to end Iran war, 7 Republicans join in favour
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+For a third time, the US House approved a war powers resolution, halting Trump&#039;s ability to continue military action.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/16/us-house-votes-to-end-iran-war-7-republicans-join-in-favour?traffic_source=rss](https://www.aljazeera.com/news/2026/9/16/us-house-votes-to-end-iran-war-7-republicans-join-in-favour?traffic_source=rss)
+
+---
+
+### 8. Seoul court orders North Korea to pay $32.5m for blowing up office
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Pyongyang blew up the Inter-Korean Liaison Office building in June 2020 after days of rising tensions.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/16/seoul-court-orders-north-korea-to-pay-32-5m-for-blowing-up-office?traffic_source=rss](https://www.aljazeera.com/news/2026/9/16/seoul-court-orders-north-korea-to-pay-32-5m-for-blowing-up-office?traffic_source=rss)
+
+---
+
+### 9. What’s the Pinglu Canal, China’s new gateway to Southeast Asia?
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Supporters of the scheme say the bank would enable governments to get cheaper lo
 China&#039;s first modern river-to-sea canal could significantly cut down time and costs of trade to Southeast Asia.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/16/whats-the-pinglu-canal-chinas-new-gateway-to-southeast-asia?traffic_source=rss](https://www.aljazeera.com/news/2026/9/16/whats-the-pinglu-canal-chinas-new-gateway-to-southeast-asia?traffic_source=rss)
-
----
-
-### 8. Republican forces Congress to hold impeachment vote for Pete Hegseth
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-United States Representative Thomas Massie is forcing fellow Republicans to vote whether to impeach Secretary of Defense
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/16/republican-forces-congress-to-hold-impeachment-vote-for-pete-hegseth?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/16/republican-forces-congress-to-hold-impeachment-vote-for-pete-hegseth?traffic_source=rss)
-
----
-
-### 9. At least 10 dead, dozens missing in Gaza building collapse
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-At least 10 Palestinians are dead and up to 70 more are believed missing after a building collapsed in Gaza City.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/16/at-least-10-dead-dozens-missing-in-gaza-building-collapse?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/16/at-least-10-dead-dozens-missing-in-gaza-building-collapse?traffic_source=rss)
 
 ---
 

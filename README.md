@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-16 04:04:16
+**Last Update:** 2026-09-16 09:16:36
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Saving Jet Fuel
+### 1. Datamimic – don't let your coding agent invent its own test world
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html">https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49720164">https://news.ycombinator.com/item?id=49720164</a></p>
-<p>Points: 16</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://github.com/rapiddweller/datamimic">https://github.com/rapiddweller/datamimic</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49722276">https://news.ycombinator.com/item?id=49722276</a></p>
+<p>Points: 5</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html](https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html)
+🔗 **Read more:** [https://github.com/rapiddweller/datamimic](https://github.com/rapiddweller/datamimic)
 
 ---
 
-### 2. German Rheinmetall open-sources its Battlesuite connected weapon system protcol
+### 2. Negativland, Culture Jamming, and the Art of Making Something New
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html">https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49718928">https://news.ycombinator.com/item?id=49718928</a></p>
-<p>Points: 105</p>
-<p># Comments: 28</p>
+<p>Article URL: <a href="https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/">https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49721548">https://news.ycombinator.com/item?id=49721548</a></p>
+<p>Points: 56</p>
+<p># Comments: 16</p>
 
-🔗 **Read more:** [https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html](https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html)
+🔗 **Read more:** [https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/](https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/)
 
 ---
 
-### 3. Jean-Pierre Serre is 100 years old today
+### 3. Stay discoverable in search while disallowing AI training
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Serre/">https://mathshistory.st-andrews.ac.uk/Biographies/Serre/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49718822">https://news.ycombinator.com/item?id=49718822</a></p>
-<p>Points: 76</p>
-<p># Comments: 13</p>
+<p>Article URL: <a href="https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/">https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49721435">https://news.ycombinator.com/item?id=49721435</a></p>
+<p>Points: 44</p>
+<p># Comments: 29</p>
 
-🔗 **Read more:** [https://mathshistory.st-andrews.ac.uk/Biographies/Serre/](https://mathshistory.st-andrews.ac.uk/Biographies/Serre/)
+🔗 **Read more:** [https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/](https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/)
 
 ---
 
@@ -84,55 +84,55 @@ The star said he was not responsible for Macklemore being dropped from the line-
 
 ---
 
-### 6. Letby doctor says inquiry 'grim reading' and he wishes 'we had been brave enough to follow suspicions'
+### 6. UK in talks about joining global defence bank led by Canada
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Consultant Dr John Gibbs worked at the hospital during the period in 2015 to 2016 when Letby murdered seven babies.
+Supporters of the scheme say the bank would enable governments to get cheaper loans to spend on defence projects.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm3eqdv90977o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm3eqdv90977o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6e30e98v7j1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6e30e98v7j1o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Iran war live: Iran’s top diplomat heads to China as war drags on
+### 7. What’s the Pinglu Canal, China’s new gateway to Southeast Asia?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Iranian foreign minister heads to China as Beijing seeks to mediate an end to the war.
+China&#039;s first modern river-to-sea canal could significantly cut down time and costs of trade to Southeast Asia.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/9/16/iran-war-live-irans-top-diplomat-heads-to-china-as-war-drags-on?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/9/16/iran-war-live-irans-top-diplomat-heads-to-china-as-war-drags-on?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/16/whats-the-pinglu-canal-chinas-new-gateway-to-southeast-asia?traffic_source=rss](https://www.aljazeera.com/news/2026/9/16/whats-the-pinglu-canal-chinas-new-gateway-to-southeast-asia?traffic_source=rss)
 
 ---
 
-### 8. Panic on board Iranian plane as violent shaking rips cabin apart
+### 8. Republican forces Congress to hold impeachment vote for Pete Hegseth
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A Sepehran Airlines Boeing 737 cabin rips apart after an emergency landing in Mashhad, Iran.
+United States Representative Thomas Massie is forcing fellow Republicans to vote whether to impeach Secretary of Defense
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/15/aje-onl-nf_iranian-plane-violent-shaking-rips-cabin-apart-150926?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/15/aje-onl-nf_iranian-plane-violent-shaking-rips-cabin-apart-150926?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/16/republican-forces-congress-to-hold-impeachment-vote-for-pete-hegseth?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/16/republican-forces-congress-to-hold-impeachment-vote-for-pete-hegseth?traffic_source=rss)
 
 ---
 
-### 9. Argentina intensifies campaign against Falklands oil companies
+### 9. At least 10 dead, dozens missing in Gaza building collapse
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Government says new legal complaints to be filed against firms exploring for oil near the Falkland Islands.
+At least 10 Palestinians are dead and up to 70 more are believed missing after a building collapsed in Gaza City.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/15/argentina-intensifies-campaign-against-falklands-oil-companies?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/15/argentina-intensifies-campaign-against-falklands-oil-companies?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/16/at-least-10-dead-dozens-missing-in-gaza-building-collapse?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/16/at-least-10-dead-dozens-missing-in-gaza-building-collapse?traffic_source=rss)
 
 ---
 

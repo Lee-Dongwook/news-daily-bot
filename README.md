@@ -1,64 +1,90 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-16 20:40:00
+**Last Update:** 2026-09-16 23:23:02
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Claude Cowork and chat are now one Claude
+### 1. How good are frontier models at physics?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://claude.com/blog/cowork-is-now-claude">https://claude.com/blog/cowork-is-now-claude</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49729412">https://news.ycombinator.com/item?id=49729412</a></p>
-<p>Points: 22</p>
-<p># Comments: 9</p>
+<p>Article URL: <a href="https://arxiv.org/abs/2609.13009">https://arxiv.org/abs/2609.13009</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49731620">https://news.ycombinator.com/item?id=49731620</a></p>
+<p>Points: 12</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://claude.com/blog/cowork-is-now-claude](https://claude.com/blog/cowork-is-now-claude)
+🔗 **Read more:** [https://arxiv.org/abs/2609.13009](https://arxiv.org/abs/2609.13009)
 
 ---
 
-### 2. Code Is CRAP [2011]
+### 2. A coffee shop owner used AI to make a menu poster. Then came the angry DMs
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://testing.googleblog.com/2011/02/this-code-is-crap.html">https://testing.googleblog.com/2011/02/this-code-is-crap.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49729228">https://news.ycombinator.com/item?id=49729228</a></p>
-<p>Points: 41</p>
-<p># Comments: 30</p>
+<p>Article URL: <a href="https://www.businessinsider.com/coffee-shop-owner-ai-menu-backlash-2026-9">https://www.businessinsider.com/coffee-shop-owner-ai-menu-backlash-2026-9</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49731395">https://news.ycombinator.com/item?id=49731395</a></p>
+<p>Points: 20</p>
+<p># Comments: 12</p>
 
-🔗 **Read more:** [https://testing.googleblog.com/2011/02/this-code-is-crap.html](https://testing.googleblog.com/2011/02/this-code-is-crap.html)
+🔗 **Read more:** [https://www.businessinsider.com/coffee-shop-owner-ai-menu-backlash-2026-9](https://www.businessinsider.com/coffee-shop-owner-ai-menu-backlash-2026-9)
 
 ---
 
-### 3. Small Programming Tricks
+### 3. Accurate Models of AMD Matrix Cores
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://will-keleher.com/posts/small-programming-tricks-matter/">https://will-keleher.com/posts/small-programming-tricks-matter/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49729000">https://news.ycombinator.com/item?id=49729000</a></p>
-<p>Points: 66</p>
-<p># Comments: 46</p>
+<p>Article URL: <a href="https://arxiv.org/abs/2609.14845">https://arxiv.org/abs/2609.14845</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49731360">https://news.ycombinator.com/item?id=49731360</a></p>
+<p>Points: 18</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://will-keleher.com/posts/small-programming-tricks-matter/](https://will-keleher.com/posts/small-programming-tricks-matter/)
+🔗 **Read more:** [https://arxiv.org/abs/2609.14845](https://arxiv.org/abs/2609.14845)
 
 ---
 
-### 4. EU chief backs plan for Canada to become 'associate member'
+### 4. Body found in search for missing three-year-old Noah Woods
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Police divers discover child's body in a pond after Noah went missing from a playground on Tuesday.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm93v1573vqro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm93v1573vqro?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Charles said Diana would be forgotten 'soon enough', Earl Spencer claims in book
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Buckingham Palace has pushed back against the claim, saying grief can "colour memory" of events.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c8e3rk47r4ego?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c8e3rk47r4ego?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. EU chief backs plan for Canada to become 'associate member'
 
 **Source:** BBC
 
@@ -71,68 +97,42 @@ Canada is seeking closer ties with EU after a breakdown in relations with the US
 
 ---
 
-### 5. 'Putney pusher' suspect found dead at home
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Nicholas Brandram was a suspect in the incident where a woman was shoved into the path of a bus nine years ago.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6783ekp0yn8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6783ekp0yn8o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Photos show widespread damage at US sites from Iranian attacks
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-A wrecked air force plane and destroyed buildings are among the images obtained by the BBC's partner CBS News.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Malaysia offers to invite Myanmar leader in Rohingya repatriation push
+### 7. Jerusalem Daily: US to send $2.8BN worth of weapons to Israel
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Malaysia has invited Myanmar’s military ruler for a visit to the country in a bid to expedite Rohingya repatriation.
+A 15-year-old boy was killed in a double-tap strike while trying to save a paramedic.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/16/malaysia-offers-to-invite-myanmar-leader-in-rohingya-repatriation-push?traffic_source=rss](https://www.aljazeera.com/news/2026/9/16/malaysia-offers-to-invite-myanmar-leader-in-rohingya-repatriation-push?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/16/jerusalem-daily-us-to-send-2-8bn-worth-of-weapons-to-israel?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/16/jerusalem-daily-us-to-send-2-8bn-worth-of-weapons-to-israel?traffic_source=rss)
 
 ---
 
-### 8. Angry Dutch farmers blamed for railway sabotage: What happened?
+### 8. US Fed raises interest rates for first time in three years
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Farmers in the Netherlands have taken action in the past, protesting against the government’s nitrogen policy.
+The 25 basis-point hike is the first raise in three years and comes ahead of critical midterm elections in the US.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/16/angry-farmers-blamed-for-dutch-railways-sabotage-what-happened?traffic_source=rss](https://www.aljazeera.com/news/2026/9/16/angry-farmers-blamed-for-dutch-railways-sabotage-what-happened?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/16/us-fed-raises-interest-rates-as-inflation-weighs-on-economy?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/16/us-fed-raises-interest-rates-as-inflation-weighs-on-economy?traffic_source=rss)
 
 ---
 
-### 9. Ebola fight in DRC ‘far from over,’ warns WHO chief
+### 9. Geopolitical divides fueling UN Security Council inaction, Guterres warns
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The DRC faces a growing Ebola threat as cases soar in North Kivu, despite progress in other regions, says Tedros
+Guterres calls for urgent Security Council reform, says geopolitical divides hindering action on global crises.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/16/ebola-fight-in-drc-far-from-over-warns-who-chief?traffic_source=rss](https://www.aljazeera.com/news/2026/9/16/ebola-fight-in-drc-far-from-over-warns-who-chief?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/16/geopolitical-divides-fueling-security-council-inaction-guterres-warns?traffic_source=rss](https://www.aljazeera.com/news/2026/9/16/geopolitical-divides-fueling-security-council-inaction-guterres-warns?traffic_source=rss)
 
 ---
 

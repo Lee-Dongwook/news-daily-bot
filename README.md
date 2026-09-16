@@ -1,77 +1,90 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-16 15:21:10
+**Last Update:** 2026-09-16 19:56:32
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. The Google Play app review process now regularly takes longer than a week
+### 1. Code Is Crap
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://gultsch.social/@daniel/117280438824908947">https://gultsch.social/@daniel/117280438824908947</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49724927">https://news.ycombinator.com/item?id=49724927</a></p>
-<p>Points: 8</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://testing.googleblog.com/2011/02/this-code-is-crap.html">https://testing.googleblog.com/2011/02/this-code-is-crap.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49729228">https://news.ycombinator.com/item?id=49729228</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://gultsch.social/@daniel/117280438824908947](https://gultsch.social/@daniel/117280438824908947)
+🔗 **Read more:** [https://testing.googleblog.com/2011/02/this-code-is-crap.html](https://testing.googleblog.com/2011/02/this-code-is-crap.html)
 
 ---
 
-### 2. Devastated father says his 9-year-old son spent $118,000 on YouTube ads
+### 2. Small Programming Tricks
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.tomshardware.com/video-games/devastated-father-says-his-9-year-old-son-spent-usd118-000-on-youtube-ad-campaigns-for-his-minecraft-channel-using-a-company-credit-card-bill-racked-up-in-just-three-weeks-was-supposed-to-be-one-usd20-promotion">https://www.tomshardware.com/video-games/devastated-father-says-his-9-year-old-son-spent-usd118-000-on-youtube-ad-campaigns-for-his-minecraft-channel-using-a-company-credit-card-bill-racked-up-in-just-three-weeks-was-supposed-to-be-one-usd20-promotion</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49724849">https://news.ycombinator.com/item?id=49724849</a></p>
-<p>Points: 9</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://will-keleher.com/posts/small-programming-tricks-matter/">https://will-keleher.com/posts/small-programming-tricks-matter/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49729000">https://news.ycombinator.com/item?id=49729000</a></p>
+<p>Points: 18</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://www.tomshardware.com/video-games/devastated-father-says-his-9-year-old-son-spent-usd118-000-on-youtube-ad-campaigns-for-his-minecraft-channel-using-a-company-credit-card-bill-racked-up-in-just-three-weeks-was-supposed-to-be-one-usd20-promotion](https://www.tomshardware.com/video-games/devastated-father-says-his-9-year-old-son-spent-usd118-000-on-youtube-ad-campaigns-for-his-minecraft-channel-using-a-company-credit-card-bill-racked-up-in-just-three-weeks-was-supposed-to-be-one-usd20-promotion)
+🔗 **Read more:** [https://will-keleher.com/posts/small-programming-tricks-matter/](https://will-keleher.com/posts/small-programming-tricks-matter/)
 
 ---
 
-### 3. Salesforce Global Outage
+### 3. Can we stop with the uptime percentages?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://status.salesforce.com/products/all">https://status.salesforce.com/products/all</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49724488">https://news.ycombinator.com/item?id=49724488</a></p>
-<p>Points: 44</p>
-<p># Comments: 28</p>
+<p>Article URL: <a href="https://blog.jim-nielsen.com/2026/stop-with-the-uptime-percentage/">https://blog.jim-nielsen.com/2026/stop-with-the-uptime-percentage/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49728733">https://news.ycombinator.com/item?id=49728733</a></p>
+<p>Points: 32</p>
+<p># Comments: 19</p>
 
-🔗 **Read more:** [https://status.salesforce.com/products/all](https://status.salesforce.com/products/all)
+🔗 **Read more:** [https://blog.jim-nielsen.com/2026/stop-with-the-uptime-percentage/](https://blog.jim-nielsen.com/2026/stop-with-the-uptime-percentage/)
 
 ---
 
-### 4. Petrol and diesel price rises push UK inflation higher
+### 4. CCTV shows last sighting of Noah Woods
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Summer holidays and disruption to global oil supplies by the Middle East conflict stoked price growth.
+Suffolk Police released CCTV of the last confirmed sighting of Noah in the park in Brantham at 14:37 BST on Tuesday.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cv2dw7lw4rkpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cv2dw7lw4rkpo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cw1mv721kedlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cw1mv721kedlo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. EU chief backs plan for Canada to become 'associate member'
+### 5. 'Putney pusher' suspect found dead at home
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Nicholas Brandram was a suspect in the incident where a woman was shoved into the path of a bus nine years ago.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6783ekp0yn8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6783ekp0yn8o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. EU chief backs plan for Canada to become 'associate member'
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ Canada is seeking closer ties with EU after a breakdown in relations with the US
 
 ---
 
-### 6. Support acts quit Ed Sheeran tour after Macklemore dropped over pro-Palestine comments
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The star said he was not responsible for Macklemore being dropped from the line-up after he made pro-Palestinian statements on stage.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Alex Eala firm on Asian Games participation despite threat of WTA fine
+### 7. Sweden expels Iran embassy employee, citing security concerns
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-National lawmakers propose paying her fine should WTA impose it on her for skipping the concurrent mandatory China Open.
+Stockholm says Iran-backed groups are plotting against &#039;Jewish and Israeli interests&#039; in the country.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/16/alex-eala-firm-on-asian-games-participation-despite-threat-of-wta-fine?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/16/alex-eala-firm-on-asian-games-participation-despite-threat-of-wta-fine?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/16/sweden-expels-iran-embassy-employee-citing-security-concerns?traffic_source=rss](https://www.aljazeera.com/news/2026/9/16/sweden-expels-iran-embassy-employee-citing-security-concerns?traffic_source=rss)
 
 ---
 
-### 8. Moment Kash Patel’s senate hearing takes bizarre turn
+### 8. Ex-Trump ally Marjorie Taylor Greene says war on Iran must ‘stop’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Moment Kash Patel&#039;s senate hearing takes bizarre turn
+Former Republican Congresswoman Marjorie Taylor Greene slammed US President Donald Trump’s war on Iran.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/16/moment-kash-patels-senate-hearing-takes-bizarre-turn?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/16/moment-kash-patels-senate-hearing-takes-bizarre-turn?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/16/ex-trump-ally-marjorie-taylor-greene-says-war-on-iran-must?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/16/ex-trump-ally-marjorie-taylor-greene-says-war-on-iran-must?traffic_source=rss)
 
 ---
 
-### 9. India summons Pakistani diplomat after incident in Arabian Sea
+### 9. Djibouti calls for assistance as thousands of Yemenis flee to country
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-India accuses Pakistan of ignoring bilateral agreement after collison between the two countries&#039; navies.
+Djibouti&#039;s interior minister has warned that number of people arriving in the country already exceeds national capacity.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/16/india-summons-pakistani-diplomat-after-incident-in-arabian-sea?traffic_source=rss](https://www.aljazeera.com/news/2026/9/16/india-summons-pakistani-diplomat-after-incident-in-arabian-sea?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/16/djibouti-calls-for-assistance-as-thousands-of-yemenis-flee-to-country?traffic_source=rss](https://www.aljazeera.com/news/2026/9/16/djibouti-calls-for-assistance-as-thousands-of-yemenis-flee-to-country?traffic_source=rss)
 
 ---
 

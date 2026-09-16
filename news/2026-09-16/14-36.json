@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-16T14:36:40+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Tech Fascism Has Come for American Democracy",
+            "description": "<p>Article URL: <a href=\"https://techwontsave.us/episode/342_tech_fascism_has_come_for_american_democracy_w_gil_duran\">https://techwontsave.us/episode/342_tech_fascism_has_come_for_american_democracy_w_gil_duran</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49724194\">https://news.ycombinator.com/item?id=49724194</a></p>\n<p>Points: 25</p>\n<p># Comments: 3</p>",
+            "url": "https://techwontsave.us/episode/342_tech_fascism_has_come_for_american_democracy_w_gil_duran",
+            "published": "Wed, 16 Sep 2026 10:00:36 +0000",
+            "fetched": "2026-09-16T14:36:40+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "EU chief opens door for Canada to become 'associate member'",
+            "description": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cjwyzrr9d3dko\">https://www.bbc.com/news/articles/cjwyzrr9d3dko</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49724141\">https://news.ycombinator.com/item?id=49724141</a></p>\n<p>Points: 30</p>\n<p># Comments: 1</p>",
+            "url": "https://www.bbc.com/news/articles/cjwyzrr9d3dko",
+            "published": "Wed, 16 Sep 2026 09:54:05 +0000",
+            "fetched": "2026-09-16T14:36:40+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Learning Programming in an Age of LLMs",
+            "description": "<p>Article URL: <a href=\"https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/\">https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49723873\">https://news.ycombinator.com/item?id=49723873</a></p>\n<p>Points: 47</p>\n<p># Comments: 26</p>",
+            "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/",
+            "published": "Wed, 16 Sep 2026 09:12:34 +0000",
+            "fetched": "2026-09-16T14:36:40+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Petrol and diesel price rises push UK inflation higher",
+            "description": "Summer holidays and disruption to global oil supplies by the Middle East conflict stoked price growth.",
+            "url": "https://www.bbc.co.uk/news/articles/cv2dw7lw4rkpo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 16 Sep 2026 10:33:42 GMT",
+            "fetched": "2026-09-16T14:36:40+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Support acts quit Ed Sheeran tour after Macklemore dropped over pro-Palestine comments",
+            "description": "The star said he was not responsible for Macklemore being dropped from the line-up after he made pro-Palestinian statements on stage.",
+            "url": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 16 Sep 2026 09:36:54 GMT",
+            "fetched": "2026-09-16T14:36:40+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "EU chief backs plan for Canada to become 'associate member'",
+            "description": "Canada is seeking closer ties with EU after a breakdown in relations with the US and its president Donald Trump.",
+            "url": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 16 Sep 2026 10:59:53 GMT",
+            "fetched": "2026-09-16T14:36:40+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "India summons Pakistani diplomat after incident in Arabian Sea",
+            "description": "India accuses Pakistan of ignoring bilateral agreement after collison between the two countries&#039; navies.",
+            "url": "https://www.aljazeera.com/news/2026/9/16/india-summons-pakistani-diplomat-after-incident-in-arabian-sea?traffic_source=rss",
+            "published": "Wed, 16 Sep 2026 10:46:34 +0000",
+            "fetched": "2026-09-16T14:36:40+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli double-tap strike kills 15-year-old and paramedic in Gaza",
+            "description": "A child has been killed in an Israeli double-tap strike as he rushed to help a paramedic wounded in an earlier attack.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/09-16-sv-gaza-double-tap-strike?traffic_source=rss",
+            "published": "Wed, 16 Sep 2026 10:21:49 +0000",
+            "fetched": "2026-09-16T14:36:40+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Real Madrid stars appear to hide Ceuta solidarity message",
+            "description": "Three Real Madrid players covered a ‘We are all Caballas’ message on shirts worn in solidarity with Spain’s Ceuta.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/real-madrid-stars-appear-to-hide-ceuta-solidarity-message?traffic_source=rss",
+            "published": "Wed, 16 Sep 2026 10:11:54 +0000",
+            "fetched": "2026-09-16T14:36:40+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Cyclone Norbert",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184",
+            "published": "2026-09-10T06:00:00Z",
+            "fetched": "2026-09-16T14:36:40+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire MEERS, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189",
+            "published": "2026-09-08T16:57:00Z",
+            "fetched": "2026-09-16T14:36:40+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Kurk, San Saba, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185",
+            "published": "2026-09-08T16:39:00Z",
+            "fetched": "2026-09-16T14:36:40+03:30"
+        }
+    ]
+}

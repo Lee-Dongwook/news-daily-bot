@@ -1,77 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-16 09:44:13
+**Last Update:** 2026-09-16 14:36:40
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Datamimic – don't let your coding agent invent its own test world
+### 1. Tech Fascism Has Come for American Democracy
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/rapiddweller/datamimic">https://github.com/rapiddweller/datamimic</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49722276">https://news.ycombinator.com/item?id=49722276</a></p>
-<p>Points: 9</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://techwontsave.us/episode/342_tech_fascism_has_come_for_american_democracy_w_gil_duran">https://techwontsave.us/episode/342_tech_fascism_has_come_for_american_democracy_w_gil_duran</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49724194">https://news.ycombinator.com/item?id=49724194</a></p>
+<p>Points: 25</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://github.com/rapiddweller/datamimic](https://github.com/rapiddweller/datamimic)
+🔗 **Read more:** [https://techwontsave.us/episode/342_tech_fascism_has_come_for_american_democracy_w_gil_duran](https://techwontsave.us/episode/342_tech_fascism_has_come_for_american_democracy_w_gil_duran)
 
 ---
 
-### 2. Negativland, Culture Jamming, and the Art of Making Something New
+### 2. EU chief opens door for Canada to become 'associate member'
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/">https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49721548">https://news.ycombinator.com/item?id=49721548</a></p>
-<p>Points: 60</p>
-<p># Comments: 17</p>
+<p>Article URL: <a href="https://www.bbc.com/news/articles/cjwyzrr9d3dko">https://www.bbc.com/news/articles/cjwyzrr9d3dko</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49724141">https://news.ycombinator.com/item?id=49724141</a></p>
+<p>Points: 30</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/](https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/)
+🔗 **Read more:** [https://www.bbc.com/news/articles/cjwyzrr9d3dko](https://www.bbc.com/news/articles/cjwyzrr9d3dko)
 
 ---
 
-### 3. Stay discoverable in search while disallowing AI training
+### 3. Learning Programming in an Age of LLMs
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/">https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49721435">https://news.ycombinator.com/item?id=49721435</a></p>
+<p>Article URL: <a href="https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/">https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49723873">https://news.ycombinator.com/item?id=49723873</a></p>
 <p>Points: 47</p>
-<p># Comments: 30</p>
+<p># Comments: 26</p>
 
-🔗 **Read more:** [https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/](https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/)
+🔗 **Read more:** [https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/](https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/)
 
 ---
 
-### 4. OpenAI boss says world 'right to be afraid' but should trust AI firms
+### 4. Petrol and diesel price rises push UK inflation higher
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.
+Summer holidays and disruption to global oil supplies by the Middle East conflict stoked price growth.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cv2dw7lw4rkpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cv2dw7lw4rkpo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. All support acts on Ed Sheeran's US tour quit after Macklemore dropped
+### 5. Support acts quit Ed Sheeran tour after Macklemore dropped over pro-Palestine comments
 
 **Source:** BBC
 
@@ -84,55 +84,55 @@ The star said he was not responsible for Macklemore being dropped from the line-
 
 ---
 
-### 6. UK in talks about joining global defence bank led by Canada
+### 6. EU chief backs plan for Canada to become 'associate member'
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Supporters of the scheme say the bank would enable governments to get cheaper loans to spend on defence projects.
+Canada is seeking closer ties with EU after a breakdown in relations with the US and its president Donald Trump.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6e30e98v7j1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6e30e98v7j1o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. US House votes to end Iran war, 7 Republicans join in favour
+### 7. India summons Pakistani diplomat after incident in Arabian Sea
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-For a third time, the US House approved a war powers resolution, halting Trump&#039;s ability to continue military action.
+India accuses Pakistan of ignoring bilateral agreement after collison between the two countries&#039; navies.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/16/us-house-votes-to-end-iran-war-7-republicans-join-in-favour?traffic_source=rss](https://www.aljazeera.com/news/2026/9/16/us-house-votes-to-end-iran-war-7-republicans-join-in-favour?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/16/india-summons-pakistani-diplomat-after-incident-in-arabian-sea?traffic_source=rss](https://www.aljazeera.com/news/2026/9/16/india-summons-pakistani-diplomat-after-incident-in-arabian-sea?traffic_source=rss)
 
 ---
 
-### 8. Seoul court orders North Korea to pay $32.5m for blowing up office
+### 8. Israeli double-tap strike kills 15-year-old and paramedic in Gaza
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Pyongyang blew up the Inter-Korean Liaison Office building in June 2020 after days of rising tensions.
+A child has been killed in an Israeli double-tap strike as he rushed to help a paramedic wounded in an earlier attack.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/16/seoul-court-orders-north-korea-to-pay-32-5m-for-blowing-up-office?traffic_source=rss](https://www.aljazeera.com/news/2026/9/16/seoul-court-orders-north-korea-to-pay-32-5m-for-blowing-up-office?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/16/09-16-sv-gaza-double-tap-strike?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/16/09-16-sv-gaza-double-tap-strike?traffic_source=rss)
 
 ---
 
-### 9. What’s the Pinglu Canal, China’s new gateway to Southeast Asia?
+### 9. Real Madrid stars appear to hide Ceuta solidarity message
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-China&#039;s first modern river-to-sea canal could significantly cut down time and costs of trade to Southeast Asia.
+Three Real Madrid players covered a ‘We are all Caballas’ message on shirts worn in solidarity with Spain’s Ceuta.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/16/whats-the-pinglu-canal-chinas-new-gateway-to-southeast-asia?traffic_source=rss](https://www.aljazeera.com/news/2026/9/16/whats-the-pinglu-canal-chinas-new-gateway-to-southeast-asia?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/16/real-madrid-stars-appear-to-hide-ceuta-solidarity-message?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/16/real-madrid-stars-appear-to-hide-ceuta-solidarity-message?traffic_source=rss)
 
 ---
 

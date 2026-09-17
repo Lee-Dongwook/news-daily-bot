@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-18 01:02:11
+**Last Update:** 2026-09-18 01:27:48
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Bend
+### 1. I Hate You Microsoft
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://bend-lang.com/">https://bend-lang.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49746163">https://news.ycombinator.com/item?id=49746163</a></p>
-<p>Points: 74</p>
-<p># Comments: 18</p>
+<p>Article URL: <a href="https://henriquenunez.eu/posts/you_did_it_again_ms/">https://henriquenunez.eu/posts/you_did_it_again_ms/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49746986">https://news.ycombinator.com/item?id=49746986</a></p>
+<p>Points: 16</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://bend-lang.com/](https://bend-lang.com/)
+🔗 **Read more:** [https://henriquenunez.eu/posts/you_did_it_again_ms/](https://henriquenunez.eu/posts/you_did_it_again_ms/)
 
 ---
 
-### 2. Astra for Law
+### 2. Sex, AI, and the Apocalypse
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://openai.com/index/astra-for-law/">https://openai.com/index/astra-for-law/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49745940">https://news.ycombinator.com/item?id=49745940</a></p>
-<p>Points: 116</p>
-<p># Comments: 85</p>
+<p>Article URL: <a href="https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/">https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49746654">https://news.ycombinator.com/item?id=49746654</a></p>
+<p>Points: 5</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://openai.com/index/astra-for-law/](https://openai.com/index/astra-for-law/)
+🔗 **Read more:** [https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/](https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/)
 
 ---
 
-### 3. Everybody's Lost Their Minds
+### 3. How Uber Protects Against Retry Storms
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.netmeister.org/blog/everybodys-lost-their-minds.html">https://www.netmeister.org/blog/everybodys-lost-their-minds.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49745570">https://news.ycombinator.com/item?id=49745570</a></p>
-<p>Points: 138</p>
-<p># Comments: 53</p>
+<p>Article URL: <a href="https://www.uber.com/us/en/blog/protecting-against-retry-storms/">https://www.uber.com/us/en/blog/protecting-against-retry-storms/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49746628">https://news.ycombinator.com/item?id=49746628</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.netmeister.org/blog/everybodys-lost-their-minds.html](https://www.netmeister.org/blog/everybodys-lost-their-minds.html)
+🔗 **Read more:** [https://www.uber.com/us/en/blog/protecting-against-retry-storms/](https://www.uber.com/us/en/blog/protecting-against-retry-storms/)
 
 ---
 
@@ -97,7 +97,20 @@ Rates are held for the sixth time in a row but the Bank of England says high ene
 
 ---
 
-### 7. US approves visas for top Iranian leaders to attend UN General Assembly
+### 7. Yemenis recount journey to Djibouti as refugee arrivals surge
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Djibouti has appealed to the international community to help provide humanitarian assistance as thousand flee Yemen.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/17/yemenis-recount-journey-to-djibouti-as-refugee-arrivals-surge?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/17/yemenis-recount-journey-to-djibouti-as-refugee-arrivals-surge?traffic_source=rss)
+
+---
+
+### 8. US approves visas for top Iranian leaders to attend UN General Assembly
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Iran&#039;s delegation to UNGA will be smaller this year, with travel restrictio
 
 ---
 
-### 8. Pennsylvania seeks CDC help amid dispute over US measles deaths
+### 9. Pennsylvania seeks CDC help amid dispute over US measles deaths
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Iran&#039;s delegation to UNGA will be smaller this year, with travel restrictio
 The CDC and officials from the US state differ over how four deaths should be classified as cases continue to spread.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/17/pennsylvania-seeks-cdc-help-amid-dispute-over-us-measles-deaths?traffic_source=rss](https://www.aljazeera.com/news/2026/9/17/pennsylvania-seeks-cdc-help-amid-dispute-over-us-measles-deaths?traffic_source=rss)
-
----
-
-### 9. Russia, China veto UN mandate to monitor Iran sanctions
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Move ends the Security Council’s watchdog panel on Iran sanctions.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/17/russia-china-veto-un-mandate-to-monitor-iran-sanctions?traffic_source=rss](https://www.aljazeera.com/news/2026/9/17/russia-china-veto-un-mandate-to-monitor-iran-sanctions?traffic_source=rss)
 
 ---
 

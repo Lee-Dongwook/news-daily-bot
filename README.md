@@ -1,141 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-17 17:08:02
+**Last Update:** 2026-09-17 21:30:51
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: I built a new version of my fun spatial 3D online meeting app
+### 1. Economic Policy for AGI
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Hi HN!<p>flat.social is a fun spatial online meeting app for remote teams and communities. It's largely built like a web multiplayer game, and the 3D virtual spaces are highly customisable with elements and activities (I recently added surfing!).<p>Live demo to try it out: <a href="https://app.flat.social/f/demo-flat" rel="nofollow">https://app.flat.social/f/demo-flat</a><p>Here's a quick demo video: <a href="https://www.youtube.com/watch?v=GeinBNqL23s" rel="nofollow">https://www.youtube.com/watch?v=GeinBNqL23s</a><p>It's a solo, bootstrapped project built with Three.js, LiveKit and Rapier for physics. I built the first version during the pandemic and posted it here back then: <a href="https://news.ycombinator.com/item?id=31833415">https://news.ycombinator.com/item?id=31833415</a><p>I had a couple of months off this year, so I locked myself in an (almost) jungle house in Brazil and rebuilt it into what I've always wanted it to be.<p>Would love to hear what you think!</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49740047">https://news.ycombinator.com/item?id=49740047</a></p>
-<p>Points: 20</p>
-<p># Comments: 9</p>
+<p>Article URL: <a href="https://institute.deepmind.com/essays/economic-policy-for-agi/">https://institute.deepmind.com/essays/economic-policy-for-agi/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49743685">https://news.ycombinator.com/item?id=49743685</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://flat.social](https://flat.social)
+🔗 **Read more:** [https://institute.deepmind.com/essays/economic-policy-for-agi/](https://institute.deepmind.com/essays/economic-policy-for-agi/)
 
 ---
 
-### 2. Neovim have a ~$800k Bitcoin donation sitting untouched since 2023
+### 2. Zettascale (YC S24) Is Hiring ASIC/FPGA Engineers to Build Chips for ASI
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>I was looking at neovim's donation footer at the bottom of their site and saw a bitcoin donation address.<p>Thought I'd check how much in donations they've gotten. And I saw this massive 10 Bitcoin donation from back in 2023 (worth $800,000 now...)<p>From the activity history, neovim last sent bitcoin out of the address in 2019 so it's been max 7 years since they've definitely had access.<p>Does anyone from the neovim project know about this? 
-Seems like a pretty significant amount of funding to have sitting there. Hope it can come to good use as I use neovim daily.<p>https://www.blockchain.com/explorer/addresses/btc/1Evu6wPrzjsjrNPdCYbHy3HT6ry2EzXFyQ</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49738879">https://news.ycombinator.com/item?id=49738879</a></p>
-<p>Points: 213</p>
-<p># Comments: 125</p>
+<p>Article URL: <a href="https://zscc.ai/careers?job_id=109821">https://zscc.ai/careers?job_id=109821</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49743567">https://news.ycombinator.com/item?id=49743567</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://news.ycombinator.com/item?id=49738879](https://news.ycombinator.com/item?id=49738879)
+🔗 **Read more:** [https://zscc.ai/careers?job_id=109821](https://zscc.ai/careers?job_id=109821)
 
 ---
 
-### 3. Better Vector Search for Long Documents: Chunking Inside Manticore Search
+### 3. Towards Self-Driving Codebases
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://manticoresearch.com/blog/auto-chunking/">https://manticoresearch.com/blog/auto-chunking/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49738766">https://news.ycombinator.com/item?id=49738766</a></p>
-<p>Points: 35</p>
-<p># Comments: 5</p>
+<p>Article URL: <a href="https://blog.detail.dev/posts/towards-self-driving-codebases/">https://blog.detail.dev/posts/towards-self-driving-codebases/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49743527">https://news.ycombinator.com/item?id=49743527</a></p>
+<p>Points: 5</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://manticoresearch.com/blog/auto-chunking/](https://manticoresearch.com/blog/auto-chunking/)
+🔗 **Read more:** [https://blog.detail.dev/posts/towards-self-driving-codebases/](https://blog.detail.dev/posts/towards-self-driving-codebases/)
 
 ---
 
-### 4. King Charles warns of 'existential danger' of AI falling into wrong hands
+### 4. Remains found after wildfire identified as mother-of-three missing since 2019
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The comments were made at a summit in Scotland with participants from AI giants such as Nvidia, OpenAI and Anthropic.
+A 56-year-old man is arrested after the remains of Joanne Sheen were found in London almost seven years after she went missing.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c65ymj7njvl7o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c65ymj7njvl7o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9e8e21x3vp4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9e8e21x3vp4o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Father's tribute to 'sweetest little boy' Noah Woods
+### 5. Interest rates held but Bank signals rise if energy prices stay high
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Rhys Woods pays tribute to his three-year-old son and offers "deepest gratitude" for community support.
+Rates are held for the sixth time in a row but the Bank of England says high energy prices make a future rise more likely.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Father's tribute to 'sweetest little boy' Noah Woods
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Rhys Woods pays tribute to his three-year-old son and offers "deepest gratitude" to local people.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmkg71ygwny7o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmkg71ygwny7o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Family of 'Putney pusher' suspect say he was innocent and blame police for his death
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The family of Nicholas Brandram said there was no forensic evidence linking him to the incident.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckg59nq6y990o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckg59nq6y990o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. US tariffs against Russian oil buyers pass: What it means for China, India
+### 7. The UK’s King Charles warns AI leaders of ‘existential dangers’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US sanctions aim to weaken Russian oil exports, heavily targeting China and India as Moscow&#039;s largest energy buyers.
+British monarch highlights AI&#039;s potential darker capacities, urging safety and humanity-focused development.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/9/17/us-tariffs-against-russian-oil-buyers-pass-what-it-means-for-china?traffic_source=rss](https://www.aljazeera.com/features/2026/9/17/us-tariffs-against-russian-oil-buyers-pass-what-it-means-for-china?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/17/the-uks-king-charles-warns-ai-leaders-of-existential-dangers?traffic_source=rss](https://www.aljazeera.com/news/2026/9/17/the-uks-king-charles-warns-ai-leaders-of-existential-dangers?traffic_source=rss)
 
 ---
 
-### 8. Canada’s Carney welcomes EU’s associated membership proposal
+### 8. UN fact-finding mission says US committed possible war crimes in Iran
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-In address to European parliament, Canadian Prime Minister Mark Carney listed areas where he wants to boost cooperation.
+The mission also said Iranian authorities committed crimes against humanity during their crackdown on recent protests.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/17/canadas-carney-welcomes-eus-associated-membership-proposal?traffic_source=rss](https://www.aljazeera.com/news/2026/9/17/canadas-carney-welcomes-eus-associated-membership-proposal?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/17/un-fact-finding-mission-says-us-committed-possible-war-crimes-in-iran?traffic_source=rss](https://www.aljazeera.com/news/2026/9/17/un-fact-finding-mission-says-us-committed-possible-war-crimes-in-iran?traffic_source=rss)
 
 ---
 
-### 9. Syrian court sentences three linked to coastal violence
+### 9. Xabi Alonso says Chelsea ambitions ‘very clear’ as Boehly era ends
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Former member of gov&#039;t forces sentenced to 20 years, as two Assad supporters receive death sentence and life in prison.
+Chelsea announce that Clearlake will acquire the stakes of Todd Boehly and director Mark Walter.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/17/syrian-court-sentences-three-linked-to-coastal-violence?traffic_source=rss](https://www.aljazeera.com/news/2026/9/17/syrian-court-sentences-three-linked-to-coastal-violence?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/17/xabi-alonso-says-chelsea-ambitions-very-clear-as-boehly-era-ends?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/17/xabi-alonso-says-chelsea-ambitions-very-clear-as-boehly-era-ends?traffic_source=rss)
 
 ---
 

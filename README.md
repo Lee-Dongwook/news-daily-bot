@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-18 14:18:42
+**Last Update:** 2026-09-18 15:01:07
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/">https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49752056">https://news.ycombinator.com/item?id=49752056</a></p>
-<p>Points: 65</p>
-<p># Comments: 23</p>
+<p>Points: 143</p>
+<p># Comments: 79</p>
 
 🔗 **Read more:** [https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/](https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://openjev.com/">https://openjev.com/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49752041">https://news.ycombinator.com/item?id=49752041</a></p>
-<p>Points: 80</p>
-<p># Comments: 32</p>
+<p>Points: 118</p>
+<p># Comments: 58</p>
 
 🔗 **Read more:** [https://openjev.com/](https://openjev.com/)
 
@@ -51,14 +51,27 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/jemalloc/jemalloc/releases/tag/5.4.0">https://github.com/jemalloc/jemalloc/releases/tag/5.4.0</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49750152">https://news.ycombinator.com/item?id=49750152</a></p>
-<p>Points: 163</p>
-<p># Comments: 47</p>
+<p>Points: 171</p>
+<p># Comments: 49</p>
 
 🔗 **Read more:** [https://github.com/jemalloc/jemalloc/releases/tag/5.4.0](https://github.com/jemalloc/jemalloc/releases/tag/5.4.0)
 
 ---
 
-### 4. Women told breasts removed needlessly as NHS trust finds more than 300 suffered harm
+### 4. MI5 accepts it gave evidence based on lies in neo-Nazi spy case
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+It is the first time MI5 has confirmed the BBC's revelation that it gave evidence based on lies in court while defending the abusive informant.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3j4jz07e2v8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3j4jz07e2v8o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Women told breasts removed needlessly as NHS trust finds more than 300 suffered harm
 
 **Source:** BBC
 
@@ -71,7 +84,7 @@ The trust's new chief executive says he apologises unreservedly - "What happened
 
 ---
 
-### 5. Woman tells BBC of trauma after unnecessary breast cancer surgery
+### 6. Woman tells BBC of trauma after unnecessary breast cancer surgery
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ Denise Howarth is one of several women who have been told by the NHS that their 
 
 ---
 
-### 6. Our brother did not match description of 'Putney pusher', suspect's sisters tell BBC
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Nicholas Brandram's sisters give the BBC a list of reasons as to why their brother was not the jogger who pushed a woman into the path of a bus on Putney Bridge.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cxnvl6pp1609o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cxnvl6pp1609o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Bomb attack at Pakistan mosque kills at least 15, injures 50
+### 7. Palmer and Alexander-Arnold recalled after England World Cup snub
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-This is a breaking news story.
+Cole Palmer and Trent Alexander-Arnold back for Thomas Tuchel in Nations League, but still no place for Phil Foden.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/18/bomb-attack-at-pakistan-mosque-kills-at-least-15-injures-50?traffic_source=rss](https://www.aljazeera.com/news/2026/9/18/bomb-attack-at-pakistan-mosque-kills-at-least-15-injures-50?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/18/palmer-and-alexander-arnold-recalled-after-england-world-cup-snub?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/18/palmer-and-alexander-arnold-recalled-after-england-world-cup-snub?traffic_source=rss)
 
 ---
 
-### 8. ‘This is a war’: South Africa battles femicide as women’s bodies pile up
+### 8. United Nations says US may have committed war crimes in Iran: What it means
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Bodies of nine women have been found in a Johannesburg neighbourhood in two months, as worries grow over women&#039;s safety.
+UN probe finds US unlawfully struck an Iranian school and sports centre, killing children; White House rejects findings.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/18/this-is-a-war-south-africa-battles-femicide-as-womens-bodies-pile-up?traffic_source=rss](https://www.aljazeera.com/news/2026/9/18/this-is-a-war-south-africa-battles-femicide-as-womens-bodies-pile-up?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/18/united-nations-says-us-may-have-committed-war-crimes-in-iran-what-it-means?traffic_source=rss](https://www.aljazeera.com/news/2026/9/18/united-nations-says-us-may-have-committed-war-crimes-in-iran-what-it-means?traffic_source=rss)
 
 ---
 
-### 9. India star Sooryavanshi urged to be patient by coach Gambhir
+### 9. ‘My children did not attack Iran’: 2bn South Asians suffer from distant war
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Vaibhav Sooryavanshi told to be patient after playing back up to Abhishek Sharma and Sanju Samson in Sri Lanka series.
+A quarter of the world’s population faces a surging cost of living crisis because of the wars in the Middle East.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/18/india-star-sooryavanshi-urged-to-be-patient-says-coach-gambhir?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/18/india-star-sooryavanshi-urged-to-be-patient-says-coach-gambhir?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/18/my-children-did-not-attack-iran-2bn-south-asians-suffer-from-distant-war?traffic_source=rss](https://www.aljazeera.com/news/2026/9/18/my-children-did-not-attack-iran-2bn-south-asians-suffer-from-distant-war?traffic_source=rss)
 
 ---
 

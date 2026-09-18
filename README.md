@@ -1,28 +1,28 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-18 01:27:48
+**Last Update:** 2026-09-18 03:34:05
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. I Hate You Microsoft
+### 1. How to Write with an LLM
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://henriquenunez.eu/posts/you_did_it_again_ms/">https://henriquenunez.eu/posts/you_did_it_again_ms/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49746986">https://news.ycombinator.com/item?id=49746986</a></p>
-<p>Points: 16</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/">https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49747070">https://news.ycombinator.com/item?id=49747070</a></p>
+<p>Points: 46</p>
+<p># Comments: 31</p>
 
-🔗 **Read more:** [https://henriquenunez.eu/posts/you_did_it_again_ms/](https://henriquenunez.eu/posts/you_did_it_again_ms/)
+🔗 **Read more:** [https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/](https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/)
 
 ---
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/">https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49746654">https://news.ycombinator.com/item?id=49746654</a></p>
-<p>Points: 5</p>
-<p># Comments: 1</p>
+<p>Points: 102</p>
+<p># Comments: 75</p>
 
 🔗 **Read more:** [https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/](https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.uber.com/us/en/blog/protecting-against-retry-storms/">https://www.uber.com/us/en/blog/protecting-against-retry-storms/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49746628">https://news.ycombinator.com/item?id=49746628</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
+<p>Points: 19</p>
+<p># Comments: 9</p>
 
 🔗 **Read more:** [https://www.uber.com/us/en/blog/protecting-against-retry-storms/](https://www.uber.com/us/en/blog/protecting-against-retry-storms/)
 
@@ -84,55 +84,55 @@ Buckingham Palace has strongly pushed back against claims in a new book by the l
 
 ---
 
-### 6. Interest rates held but Bank signals rise if energy prices stay high
+### 6. Father's tribute to 'sweetest little boy' Noah Woods
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Rates are held for the sixth time in a row but the Bank of England says high energy prices make a future rise more likely.
+Rhys Woods pays tribute to his three-year-old son and offers "deepest gratitude" to local people.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmkg71ygwny7o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmkg71ygwny7o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Yemenis recount journey to Djibouti as refugee arrivals surge
+### 7. Migrant crossings to Europe by sea drop sharply amid heightened risks: IOM
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Djibouti has appealed to the international community to help provide humanitarian assistance as thousand flee Yemen.
+More than 2,200 migrants died or vanished at sea in 2026, despite declining crossings into Europe, says IOM.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/17/yemenis-recount-journey-to-djibouti-as-refugee-arrivals-surge?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/17/yemenis-recount-journey-to-djibouti-as-refugee-arrivals-surge?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/17/migrant-crossings-to-europe-by-sea-drop-sharply-amid-heightened-risks-iom?traffic_source=rss](https://www.aljazeera.com/news/2026/9/17/migrant-crossings-to-europe-by-sea-drop-sharply-amid-heightened-risks-iom?traffic_source=rss)
 
 ---
 
-### 8. US approves visas for top Iranian leaders to attend UN General Assembly
+### 8. US approves $414M uranium investment in Niger, two years after troops left
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Iran&#039;s delegation to UNGA will be smaller this year, with travel restrictions and limits on luxury goods purchases.
+Uranium project investment could mark a turning point in US-Niger and US-Canada relations.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/17/us-approves-visas-for-top-iranian-leaders-to-attend-un-general-assembly?traffic_source=rss](https://www.aljazeera.com/news/2026/9/17/us-approves-visas-for-top-iranian-leaders-to-attend-un-general-assembly?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/17/us-approves-414m-uranium-investment-in-niger-two-years-after-troops-left?traffic_source=rss](https://www.aljazeera.com/news/2026/9/17/us-approves-414m-uranium-investment-in-niger-two-years-after-troops-left?traffic_source=rss)
 
 ---
 
-### 9. Pennsylvania seeks CDC help amid dispute over US measles deaths
+### 9. Russia election: Could other parties challenge United Russia?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The CDC and officials from the US state differ over how four deaths should be classified as cases continue to spread.
+Russians vote for the first time since 2022. Can opposition parties challenge Putin-backed United Russia in this vote?
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/17/pennsylvania-seeks-cdc-help-amid-dispute-over-us-measles-deaths?traffic_source=rss](https://www.aljazeera.com/news/2026/9/17/pennsylvania-seeks-cdc-help-amid-dispute-over-us-measles-deaths?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/17/aje-onl-nf_medvedenkod-parties_challenge_united_russia-170926?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/17/aje-onl-nf_medvedenkod-parties_challenge_united_russia-170926?traffic_source=rss)
 
 ---
 

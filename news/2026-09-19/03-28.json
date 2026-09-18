@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-09-19T03:28:36+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
+            "description": "Trump said the agreement will give the US \"permanent control over security, and all other needs, in Greenland\", though specifics haven't been confirmed by Danish officials.",
+            "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 18 Sep 2026 22:58:55 GMT",
+            "fetched": "2026-09-19T03:28:36+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'I'm telling the truth': Earl Spencer defends Diana book claims about Charles in BBC interview",
+            "description": "Princess Diana's brother tells the BBC's Laura Kuenssberg that \"we'll forget her soon enough\" were \"exactly\" the words used by the then-Prince of Wales.",
+            "url": "https://www.bbc.co.uk/news/articles/cmqxvd1drd35o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 18 Sep 2026 15:59:59 GMT",
+            "fetched": "2026-09-19T03:28:36+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Flight chaos caused by software defect in space of a millisecond, report says",
+            "description": "The failure led to more than 2,000 flights being cancelled and hundreds of thousands of passengers affected.",
+            "url": "https://www.bbc.co.uk/news/articles/cw0kl1571lpmo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 18 Sep 2026 15:48:58 GMT",
+            "fetched": "2026-09-19T03:28:36+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Super Macklemore 64: Video game mocks Sheeran concert controversy",
+            "description": "In Super Macklemore 64, players are chased by a giant Ed Sheeran, dodge tiny billionaire Robert Krafts.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/18/super-macklemore-64-video-game-mocks-sheeran-concert-controversy?traffic_source=rss",
+            "published": "Fri, 18 Sep 2026 23:17:15 +0000",
+            "fetched": "2026-09-19T03:28:36+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Houthis accuse Saudi Arabia of launching 26 strikes in 24 hours",
+            "description": "The war in Yemen intensifies with mounting clashes and reciprocal attacks between Saudi forces and the Houthis.",
+            "url": "https://www.aljazeera.com/news/2026/9/18/houthis-accuse-saudi-arabia-of-launching-26-strikes-in-24-hours?traffic_source=rss",
+            "published": "Fri, 18 Sep 2026 23:14:00 +0000",
+            "fetched": "2026-09-19T03:28:36+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump claims deal with Denmark gives US ‘permanent control’ over Greenland",
+            "description": "Denmark and Greenland plan to sign a US defence pact next week, pending approval from both parliaments.",
+            "url": "https://www.aljazeera.com/news/2026/9/18/trump-claims-deal-with-denmark-gives-us-permanent-control-over-greenland?traffic_source=rss",
+            "published": "Fri, 18 Sep 2026 22:01:35 +0000",
+            "fetched": "2026-09-19T03:28:36+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Breezy, Starr, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24483",
+            "published": "2026-09-16T20:17:00Z",
+            "fetched": "2026-09-19T03:28:36+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire FLORISTON, Nevada, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24488",
+            "published": "2026-09-16T13:01:00Z",
+            "fetched": "2026-09-19T03:28:36+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Dujuan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24317",
+            "published": "2026-09-16T12:00:00Z",
+            "fetched": "2026-09-19T03:28:36+03:30"
+        }
+    ]
+}

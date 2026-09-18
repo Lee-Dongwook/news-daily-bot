@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-18 21:39:06
+**Last Update:** 2026-09-18 23:17:03
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. US Military had close call after using AI for hallucinated intelligence report
+### 1. Android 17 is the first since 3.x to add new APIs without releasing to the AOSP
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship">https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49757520">https://news.ycombinator.com/item?id=49757520</a></p>
-<p>Points: 10</p>
+<p>Article URL: <a href="https://grapheneos.social/@GrapheneOS/117282080803799576">https://grapheneos.social/@GrapheneOS/117282080803799576</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49758736">https://news.ycombinator.com/item?id=49758736</a></p>
+<p>Points: 9</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://grapheneos.social/@GrapheneOS/117282080803799576](https://grapheneos.social/@GrapheneOS/117282080803799576)
+
+---
+
+### 2. The Implications of Linguistic Illegibility for LLM Security
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://arxiv.org/abs/2609.02852">https://arxiv.org/abs/2609.02852</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49758689">https://news.ycombinator.com/item?id=49758689</a></p>
+<p>Points: 9</p>
 <p># Comments: 3</p>
 
-🔗 **Read more:** [https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship](https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship)
+🔗 **Read more:** [https://arxiv.org/abs/2609.02852](https://arxiv.org/abs/2609.02852)
 
 ---
 
-### 2. There's no point at which turning your brain off will work
+### 3. Cache-to-Cache: Direct Semantic Communication Between Large Language Models
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://danluu.com/brain-off/">https://danluu.com/brain-off/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49757178">https://news.ycombinator.com/item?id=49757178</a></p>
-<p>Points: 99</p>
-<p># Comments: 60</p>
+<p>Article URL: <a href="https://arxiv.org/abs/2510.03215">https://arxiv.org/abs/2510.03215</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49758615">https://news.ycombinator.com/item?id=49758615</a></p>
+<p>Points: 7</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://danluu.com/brain-off/](https://danluu.com/brain-off/)
-
----
-
-### 3. Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/">https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49757050">https://news.ycombinator.com/item?id=49757050</a></p>
-<p>Points: 28</p>
-<p># Comments: 6</p>
-
-🔗 **Read more:** [https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/](https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/)
+🔗 **Read more:** [https://arxiv.org/abs/2510.03215](https://arxiv.org/abs/2510.03215)
 
 ---
 
@@ -97,42 +97,42 @@ It is the first time MI5 has confirmed the BBC's revelation that it gave evidenc
 
 ---
 
-### 7. Iranians rally in biggest show of defiance against US since war began
+### 7. England fast bowler Carse to face no charges over alleged nightclub assault
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Volunteers rallied through downtown Tehran to join campaign highlighting &#039;self-sacrifice&#039; for Iran.
+Derbyshire Police said they were investigating an alleged assault but have now decided no further action will be taken.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/18/iranians-rally-in-biggest-show-of-defiance-against-us-since-war-began?traffic_source=rss](https://www.aljazeera.com/news/2026/9/18/iranians-rally-in-biggest-show-of-defiance-against-us-since-war-began?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/18/england-fast-bowler-carse-to-face-no-charges-over-alleged-nightclub-assault?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/18/england-fast-bowler-carse-to-face-no-charges-over-alleged-nightclub-assault?traffic_source=rss)
 
 ---
 
-### 8. UEFA, CONCACAF challenge FIFA on reserves and demand $10m payout to members
+### 8. Pentagon resumes paused testosterone policy amid medical experts’ concerns
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Confederation chiefs call on Gianni Infantino to make $2.1bn payout to all FIFA&#039;s 211 member associations.
+New policy mandates testosterone testing for US service members over 30, citing readiness while experts warn of risks.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/18/uefa-concacaf-challenge-fifa-on-reserves-and-demand-10m-payout-to-members?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/18/uefa-concacaf-challenge-fifa-on-reserves-and-demand-10m-payout-to-members?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/18/pentagon-resumes-paused-testosterone-policy-amid-medical-experts-concerns?traffic_source=rss](https://www.aljazeera.com/news/2026/9/18/pentagon-resumes-paused-testosterone-policy-amid-medical-experts-concerns?traffic_source=rss)
 
 ---
 
-### 9. Jerusalem Daily: Netanyahu says he will ‘change the face of the Middle East
+### 9. Mexico’s Sheinbaum says she spoke with Trump as trade negotiations continue
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli Prime Minister Benjamin Netanyahu says he will ‘change the face of the Middle East’
+Mexican president says she is seeking a decrease in tariffs as both countries seek new bilateral trade deal.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/18/jerusalem-daily-netanyahu-says-he-will-change-the-face-of-the-middle-east?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/18/jerusalem-daily-netanyahu-says-he-will-change-the-face-of-the-middle-east?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/18/mexicos-sheinbaum-says-she-spoke-with-trump-as-trade-negotiations-continue?traffic_source=rss](https://www.aljazeera.com/news/2026/9/18/mexicos-sheinbaum-says-she-spoke-with-trump-as-trade-negotiations-continue?traffic_source=rss)
 
 ---
 

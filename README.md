@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-19 00:59:39
+**Last Update:** 2026-09-19 02:11:04
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://code.claude.com/docs/en/changelog">https://code.claude.com/docs/en/changelog</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49760187">https://news.ycombinator.com/item?id=49760187</a></p>
-<p>Points: 43</p>
-<p># Comments: 15</p>
+<p>Points: 237</p>
+<p># Comments: 93</p>
 
 🔗 **Read more:** [https://code.claude.com/docs/en/changelog](https://code.claude.com/docs/en/changelog)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899">https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49759466">https://news.ycombinator.com/item?id=49759466</a></p>
-<p>Points: 160</p>
-<p># Comments: 43</p>
+<p>Points: 208</p>
+<p># Comments: 65</p>
 
 🔗 **Read more:** [https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899](https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899)
 
@@ -51,14 +51,27 @@
 **Description:**
 <p>Article URL: <a href="https://grapheneos.social/@GrapheneOS/117282080803799576">https://grapheneos.social/@GrapheneOS/117282080803799576</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49758736">https://news.ycombinator.com/item?id=49758736</a></p>
-<p>Points: 278</p>
-<p># Comments: 123</p>
+<p>Points: 368</p>
+<p># Comments: 170</p>
 
 🔗 **Read more:** [https://grapheneos.social/@GrapheneOS/117282080803799576](https://grapheneos.social/@GrapheneOS/117282080803799576)
 
 ---
 
-### 4. 'I'm telling the truth': Earl Spencer defends Diana book claims about Charles in BBC interview
+### 4. US and Denmark reach deal over Greenland's security
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Trump said the agreement will give the US "permanent control over security, and all other needs, in Greenland", though specifics haven't been confirmed by Danish officials.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. 'I'm telling the truth': Earl Spencer defends Diana book claims about Charles in BBC interview
 
 **Source:** BBC
 
@@ -68,19 +81,6 @@
 Princess Diana's brother tells the BBC's Laura Kuenssberg that "we'll forget her soon enough" were "exactly" the words used by the then-Prince of Wales.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmqxvd1drd35o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmqxvd1drd35o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Watch: Diana's brother says Charles 'went ballistic' in phone call after her death
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Earl Spencer spoke exclusively with the BBC's Laura Kuenssberg about claims he has made in a new book.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c317j8k4lvy9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c317j8k4lvy9o?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,7 +97,33 @@ It is the first time MI5 has confirmed the BBC's revelation that it gave evidenc
 
 ---
 
-### 7. New cat species found, first in more than 100 years
+### 7. Trump claims deal with Denmark gives US ‘permanent control’ over Greenland
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+This is a breaking news story.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/18/trump-claims-deal-with-denmark-gives-us-permanent-control-over-greenland?traffic_source=rss](https://www.aljazeera.com/news/2026/9/18/trump-claims-deal-with-denmark-gives-us-permanent-control-over-greenland?traffic_source=rss)
+
+---
+
+### 8. Brighton vs Arsenal: Premier League – predictions, teams, lineups
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Premier League holders Arsenal have won all seven of their matches to start the new season.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/18/brighton-vs-arsenal-premier-league-predictions-teams-lineups?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/18/brighton-vs-arsenal-premier-league-predictions-teams-lineups?traffic_source=rss)
+
+---
+
+### 9. New cat species found, first in more than 100 years
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ It is the first time MI5 has confirmed the BBC's revelation that it gave evidenc
 A new species of living cat has been identified for the first time in more than a century.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/18/new-cat-species-found-first-in-more-than-100-years?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/18/new-cat-species-found-first-in-more-than-100-years?traffic_source=rss)
-
----
-
-### 8. Germany receives first F-35 jet from US as NATO boosts military spending
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Germany received the first of nearly three dozen F-35 stealth warplanes it ordered four years ago from Lockheed Martin.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/18/germany-receives-first-f-35-jet-from-us-as-nato-boosts-military-spending?traffic_source=rss](https://www.aljazeera.com/news/2026/9/18/germany-receives-first-f-35-jet-from-us-as-nato-boosts-military-spending?traffic_source=rss)
-
----
-
-### 9. UK court clears woman of voicing support for Hamas in university speech
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Sarah Cotte said her comments were not in support of Hamas, but in support of Palestinians&#039; right to resist.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/18/uk-court-clears-woman-of-voicing-support-for-hamas-in-university-speech?traffic_source=rss](https://www.aljazeera.com/news/2026/9/18/uk-court-clears-woman-of-voicing-support-for-hamas-in-university-speech?traffic_source=rss)
 
 ---
 

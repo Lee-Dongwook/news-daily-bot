@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-18 09:08:12
+**Last Update:** 2026-09-18 09:35:50
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. The Scourge of x86 Emulation
+### 1. Jemalloc 5.4.0
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/jemalloc/jemalloc/releases/tag/5.4.0">https://github.com/jemalloc/jemalloc/releases/tag/5.4.0</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49750152">https://news.ycombinator.com/item?id=49750152</a></p>
+<p>Points: 12</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://github.com/jemalloc/jemalloc/releases/tag/5.4.0](https://github.com/jemalloc/jemalloc/releases/tag/5.4.0)
+
+---
+
+### 2. The Scourge of x86 Emulation
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://fex-emu.com/Scourge-of-emulation/">https://fex-emu.com/Scourge-of-emulation/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49750094">https://news.ycombinator.com/item?id=49750094</a></p>
-<p>Points: 10</p>
+<p>Points: 16</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://fex-emu.com/Scourge-of-emulation/](https://fex-emu.com/Scourge-of-emulation/)
 
 ---
 
-### 2. Waymo in Singapore
+### 3. Waymo in Singapore
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://waymo.com/waymo-in-singapore/">https://waymo.com/waymo-in-singapore/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49749981">https://news.ycombinator.com/item?id=49749981</a></p>
-<p>Points: 56</p>
-<p># Comments: 22</p>
+<p>Points: 65</p>
+<p># Comments: 33</p>
 
 🔗 **Read more:** [https://waymo.com/waymo-in-singapore/](https://waymo.com/waymo-in-singapore/)
-
----
-
-### 3. Pre-Greek: The lost language hidden within Ancient Greek
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://linguisticdiscovery.com/posts/pre-greek/">https://linguisticdiscovery.com/posts/pre-greek/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49749771">https://news.ycombinator.com/item?id=49749771</a></p>
-<p>Points: 28</p>
-<p># Comments: 5</p>
-
-🔗 **Read more:** [https://linguisticdiscovery.com/posts/pre-greek/](https://linguisticdiscovery.com/posts/pre-greek/)
 
 ---
 
@@ -97,42 +97,42 @@ The military and government say the risk of conflict is growing, but we may not 
 
 ---
 
-### 7. Fire engulfs Zaporizhzhia shopping centre after Russian strike
+### 7. Russia’s parliamentary election: Who’s on the ballot, and why it matters
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A Russian strike hit a shopping centre in Zaporizhzhia, southeastern Ukraine, sparking a major fire.
+United Russia won more than two-thirds of the Duma&#039;s seats in the 2021 election and is poised to dominate the body again
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/18/fire-engulfs-zaporizhzhia-shopping-centre-after-russian-strike?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/18/fire-engulfs-zaporizhzhia-shopping-centre-after-russian-strike?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/18/russias-parliamentary-election-whos-on-the-ballot-and-why-it-matters?traffic_source=rss](https://www.aljazeera.com/news/2026/9/18/russias-parliamentary-election-whos-on-the-ballot-and-why-it-matters?traffic_source=rss)
 
 ---
 
-### 8. Australia to detain tourists who overstay visas amid immigration crackdown
+### 8. UN mission alleges crimes against humanity in Iranian protest crackdown
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-More than 77,000 visa overstayers face detention or departure as Australia cracks down on immigration violations.
+A UN fact-finding mission has concluded Iranian forces committed crimes against humanity.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/18/australia-to-detain-tourists-who-overstay-visas-amid-immigration-crackdown?traffic_source=rss](https://www.aljazeera.com/news/2026/9/18/australia-to-detain-tourists-who-overstay-visas-amid-immigration-crackdown?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/18/un-mission-alleges-crimes-against-humanity-in-iranian-protest-crackdown?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/18/un-mission-alleges-crimes-against-humanity-in-iranian-protest-crackdown?traffic_source=rss)
 
 ---
 
-### 9. Could this economic squeeze sway US voters?
+### 9. South Korea says US-North Korea talks possible, rules out Hormuz deployment
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Americans on the lower end of the economy are feeling the impact of higher borrowing costs and weaker purchasing power.
+South Korean president will facilitate US-North Korea talks but will not deploy troops in US war on Iran.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/18/aje-onl-nf_could-this-economic-squeeze-sway-us-voters-180926?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/18/aje-onl-nf_could-this-economic-squeeze-sway-us-voters-180926?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/18/south-korea-says-us-north-korea-talks-possible-rules-out-hormuz-deployment?traffic_source=rss](https://www.aljazeera.com/news/2026/9/18/south-korea-says-us-north-korea-talks-possible-rules-out-hormuz-deployment?traffic_source=rss)
 
 ---
 

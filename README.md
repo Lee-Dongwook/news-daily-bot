@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-18 20:04:45
+**Last Update:** 2026-09-18 21:39:06
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. US Treasuries Have Become Unappetizing for Foreign Central Banks and Governments
+### 1. US Military had close call after using AI for hallucinated intelligence report
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://wolfstreet.com/2026/09/17/treasuries-have-become-badly-unappetizing-for-foreign-central-banks-governments/">https://wolfstreet.com/2026/09/17/treasuries-have-become-badly-unappetizing-for-foreign-central-banks-governments/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49756171">https://news.ycombinator.com/item?id=49756171</a></p>
-<p>Points: 34</p>
-<p># Comments: 9</p>
+<p>Article URL: <a href="https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship">https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49757520">https://news.ycombinator.com/item?id=49757520</a></p>
+<p>Points: 10</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://wolfstreet.com/2026/09/17/treasuries-have-become-badly-unappetizing-for-foreign-central-banks-governments/](https://wolfstreet.com/2026/09/17/treasuries-have-become-badly-unappetizing-for-foreign-central-banks-governments/)
+🔗 **Read more:** [https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship](https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship)
 
 ---
 
-### 2. AI is an elite crime spree
+### 2. There's no point at which turning your brain off will work
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree">https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49755590">https://news.ycombinator.com/item?id=49755590</a></p>
-<p>Points: 44</p>
-<p># Comments: 9</p>
+<p>Article URL: <a href="https://danluu.com/brain-off/">https://danluu.com/brain-off/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49757178">https://news.ycombinator.com/item?id=49757178</a></p>
+<p>Points: 99</p>
+<p># Comments: 60</p>
 
-🔗 **Read more:** [https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree](https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree)
+🔗 **Read more:** [https://danluu.com/brain-off/](https://danluu.com/brain-off/)
 
 ---
 
-### 3. GrassLobster: AI Agentic Generation of Parametric Geometry Workflows
+### 3. Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.miro.vision/index.php/2026/09/17/grasslobbster/">https://www.miro.vision/index.php/2026/09/17/grasslobbster/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49755431">https://news.ycombinator.com/item?id=49755431</a></p>
-<p>Points: 14</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/">https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49757050">https://news.ycombinator.com/item?id=49757050</a></p>
+<p>Points: 28</p>
+<p># Comments: 6</p>
 
-🔗 **Read more:** [https://www.miro.vision/index.php/2026/09/17/grasslobbster/](https://www.miro.vision/index.php/2026/09/17/grasslobbster/)
+🔗 **Read more:** [https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/](https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/)
 
 ---
 
@@ -65,7 +65,7 @@
 **Category:** world
 
 **Description:**
-Exclusive: Princess Diana's brother tells the BBC's Laura Kuenssberg that "we'll forget her soon enough" were "exactly" the words used by the then-Prince of Wales.
+Princess Diana's brother tells the BBC's Laura Kuenssberg that "we'll forget her soon enough" were "exactly" the words used by the then-Prince of Wales.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmqxvd1drd35o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmqxvd1drd35o?at_medium=RSS&at_campaign=rss)
 
@@ -97,42 +97,42 @@ It is the first time MI5 has confirmed the BBC's revelation that it gave evidenc
 
 ---
 
-### 7. More than 112,000 displaced by Yemen fighting; thousands flee to Djibouti
+### 7. Iranians rally in biggest show of defiance against US since war began
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-United Nations says 22 million people need humanitarian aid as conflict intensifies.
+Volunteers rallied through downtown Tehran to join campaign highlighting &#039;self-sacrifice&#039; for Iran.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/18/more-than-112000-displaced-by-yemen-fighting-thousands-flee-to-djibouti?traffic_source=rss](https://www.aljazeera.com/news/2026/9/18/more-than-112000-displaced-by-yemen-fighting-thousands-flee-to-djibouti?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/18/iranians-rally-in-biggest-show-of-defiance-against-us-since-war-began?traffic_source=rss](https://www.aljazeera.com/news/2026/9/18/iranians-rally-in-biggest-show-of-defiance-against-us-since-war-began?traffic_source=rss)
 
 ---
 
-### 8. Nigerian forces fire at protesters rallying over deaths of detained miners
+### 8. UEFA, CONCACAF challenge FIFA on reserves and demand $10m payout to members
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Government has promised to fully investigate after 37 miners died while being held in police custody in Niger State.
+Confederation chiefs call on Gianni Infantino to make $2.1bn payout to all FIFA&#039;s 211 member associations.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/18/nigerian-forces-fire-at-protesters-rallying-over-deaths-of-detained-miners?traffic_source=rss](https://www.aljazeera.com/news/2026/9/18/nigerian-forces-fire-at-protesters-rallying-over-deaths-of-detained-miners?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/18/uefa-concacaf-challenge-fifa-on-reserves-and-demand-10m-payout-to-members?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/18/uefa-concacaf-challenge-fifa-on-reserves-and-demand-10m-payout-to-members?traffic_source=rss)
 
 ---
 
-### 9. Police hit migrants with batons during camp transfer in Ceuta
+### 9. Jerusalem Daily: Netanyahu says he will ‘change the face of the Middle East
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Police in Ceuta used batons and fired shots into the air as they began moving migrants from beaches to a new camp.
+Israeli Prime Minister Benjamin Netanyahu says he will ‘change the face of the Middle East’
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/18/police-hit-migrants-with-batons-during-camp-transfer-in-ceuta?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/18/police-hit-migrants-with-batons-during-camp-transfer-in-ceuta?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/18/jerusalem-daily-netanyahu-says-he-will-change-the-face-of-the-middle-east?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/18/jerusalem-daily-netanyahu-says-he-will-change-the-face-of-the-middle-east?traffic_source=rss)
 
 ---
 

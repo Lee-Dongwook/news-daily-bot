@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-18 09:35:50
+**Last Update:** 2026-09-18 14:18:42
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Jemalloc 5.4.0
+### 1. Microsoft exec called AI scraping 'the largest theft of labor in human history'
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/">https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49752056">https://news.ycombinator.com/item?id=49752056</a></p>
+<p>Points: 65</p>
+<p># Comments: 23</p>
+
+🔗 **Read more:** [https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/](https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/)
+
+---
+
+### 2. OpenJev
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://openjev.com/">https://openjev.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49752041">https://news.ycombinator.com/item?id=49752041</a></p>
+<p>Points: 80</p>
+<p># Comments: 32</p>
+
+🔗 **Read more:** [https://openjev.com/](https://openjev.com/)
+
+---
+
+### 3. Jemalloc 5.4.0
 
 **Source:** Hacker News
 
@@ -19,120 +51,88 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/jemalloc/jemalloc/releases/tag/5.4.0">https://github.com/jemalloc/jemalloc/releases/tag/5.4.0</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49750152">https://news.ycombinator.com/item?id=49750152</a></p>
-<p>Points: 12</p>
-<p># Comments: 0</p>
+<p>Points: 163</p>
+<p># Comments: 47</p>
 
 🔗 **Read more:** [https://github.com/jemalloc/jemalloc/releases/tag/5.4.0](https://github.com/jemalloc/jemalloc/releases/tag/5.4.0)
 
 ---
 
-### 2. The Scourge of x86 Emulation
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://fex-emu.com/Scourge-of-emulation/">https://fex-emu.com/Scourge-of-emulation/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49750094">https://news.ycombinator.com/item?id=49750094</a></p>
-<p>Points: 16</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://fex-emu.com/Scourge-of-emulation/](https://fex-emu.com/Scourge-of-emulation/)
-
----
-
-### 3. Waymo in Singapore
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://waymo.com/waymo-in-singapore/">https://waymo.com/waymo-in-singapore/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49749981">https://news.ycombinator.com/item?id=49749981</a></p>
-<p>Points: 65</p>
-<p># Comments: 33</p>
-
-🔗 **Read more:** [https://waymo.com/waymo-in-singapore/](https://waymo.com/waymo-in-singapore/)
-
----
-
-### 4. Twenty women had breasts removed unnecessarily during cancer treatment, NHS trust admits
+### 4. Women told breasts removed needlessly as NHS trust finds more than 300 suffered harm
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The women were among hundreds who were harmed by their treatment at County Durham health trust.
+The trust's new chief executive says he apologises unreservedly - "What happened was utterly unacceptable."
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9qrn3y72dxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9qrn3y72dxo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Charles 'sounded giddily elated' after Diana died, Earl Spencer claims
+### 5. Woman tells BBC of trauma after unnecessary breast cancer surgery
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Buckingham Palace has strongly pushed back against claims in a new book by the late Princess of Wales's brother.
+Denise Howarth is one of several women who have been told by the NHS that their breast was removed unnecessarily.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqkg083ve78ro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqkg083ve78ro?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c9lyk2xj62yro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c9lyk2xj62yro?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. War may be coming. Are we psychologically ready?
+### 6. Our brother did not match description of 'Putney pusher', suspect's sisters tell BBC
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The military and government say the risk of conflict is growing, but we may not be mentally ready for it
+Nicholas Brandram's sisters give the BBC a list of reasons as to why their brother was not the jogger who pushed a woman into the path of a bus on Putney Bridge.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmn0jke547r5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmn0jke547r5o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cxnvl6pp1609o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cxnvl6pp1609o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Russia’s parliamentary election: Who’s on the ballot, and why it matters
+### 7. Bomb attack at Pakistan mosque kills at least 15, injures 50
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-United Russia won more than two-thirds of the Duma&#039;s seats in the 2021 election and is poised to dominate the body again
+This is a breaking news story.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/18/russias-parliamentary-election-whos-on-the-ballot-and-why-it-matters?traffic_source=rss](https://www.aljazeera.com/news/2026/9/18/russias-parliamentary-election-whos-on-the-ballot-and-why-it-matters?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/18/bomb-attack-at-pakistan-mosque-kills-at-least-15-injures-50?traffic_source=rss](https://www.aljazeera.com/news/2026/9/18/bomb-attack-at-pakistan-mosque-kills-at-least-15-injures-50?traffic_source=rss)
 
 ---
 
-### 8. UN mission alleges crimes against humanity in Iranian protest crackdown
+### 8. ‘This is a war’: South Africa battles femicide as women’s bodies pile up
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A UN fact-finding mission has concluded Iranian forces committed crimes against humanity.
+Bodies of nine women have been found in a Johannesburg neighbourhood in two months, as worries grow over women&#039;s safety.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/18/un-mission-alleges-crimes-against-humanity-in-iranian-protest-crackdown?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/18/un-mission-alleges-crimes-against-humanity-in-iranian-protest-crackdown?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/18/this-is-a-war-south-africa-battles-femicide-as-womens-bodies-pile-up?traffic_source=rss](https://www.aljazeera.com/news/2026/9/18/this-is-a-war-south-africa-battles-femicide-as-womens-bodies-pile-up?traffic_source=rss)
 
 ---
 
-### 9. South Korea says US-North Korea talks possible, rules out Hormuz deployment
+### 9. India star Sooryavanshi urged to be patient by coach Gambhir
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-South Korean president will facilitate US-North Korea talks but will not deploy troops in US war on Iran.
+Vaibhav Sooryavanshi told to be patient after playing back up to Abhishek Sharma and Sanju Samson in Sri Lanka series.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/18/south-korea-says-us-north-korea-talks-possible-rules-out-hormuz-deployment?traffic_source=rss](https://www.aljazeera.com/news/2026/9/18/south-korea-says-us-north-korea-talks-possible-rules-out-hormuz-deployment?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/18/india-star-sooryavanshi-urged-to-be-patient-says-coach-gambhir?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/18/india-star-sooryavanshi-urged-to-be-patient-says-coach-gambhir?traffic_source=rss)
 
 ---
 

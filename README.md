@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-18 15:01:07
+**Last Update:** 2026-09-18 18:19:44
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Microsoft exec called AI scraping 'the largest theft of labor in human history'
+### 1. AI chatbots becoming experts at changing people's minds. What's their secret?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/">https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49752056">https://news.ycombinator.com/item?id=49752056</a></p>
-<p>Points: 143</p>
-<p># Comments: 79</p>
+<p>Article URL: <a href="https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret">https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49754250">https://news.ycombinator.com/item?id=49754250</a></p>
+<p>Points: 30</p>
+<p># Comments: 25</p>
 
-🔗 **Read more:** [https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/](https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/)
+🔗 **Read more:** [https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret](https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret)
 
 ---
 
-### 2. OpenJev
+### 2. NATS publishes preliminary report on technical incident of 8 September
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://openjev.com/">https://openjev.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49752041">https://news.ycombinator.com/item?id=49752041</a></p>
-<p>Points: 118</p>
-<p># Comments: 58</p>
+<p>Article URL: <a href="https://www.nats.aero/news/nats-publishes-preliminary-report-on-technical-incident-of-8-september/">https://www.nats.aero/news/nats-publishes-preliminary-report-on-technical-incident-of-8-september/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49754064">https://news.ycombinator.com/item?id=49754064</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://openjev.com/](https://openjev.com/)
+🔗 **Read more:** [https://www.nats.aero/news/nats-publishes-preliminary-report-on-technical-incident-of-8-september/](https://www.nats.aero/news/nats-publishes-preliminary-report-on-technical-incident-of-8-september/)
 
 ---
 
-### 3. Jemalloc 5.4.0
+### 3. An Empirical Study of Harness Design for Coding Agents
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/jemalloc/jemalloc/releases/tag/5.4.0">https://github.com/jemalloc/jemalloc/releases/tag/5.4.0</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49750152">https://news.ycombinator.com/item?id=49750152</a></p>
-<p>Points: 171</p>
-<p># Comments: 49</p>
+<p>Article URL: <a href="https://arxiv.org/abs/2609.20804">https://arxiv.org/abs/2609.20804</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49753878">https://news.ycombinator.com/item?id=49753878</a></p>
+<p>Points: 53</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://github.com/jemalloc/jemalloc/releases/tag/5.4.0](https://github.com/jemalloc/jemalloc/releases/tag/5.4.0)
+🔗 **Read more:** [https://arxiv.org/abs/2609.20804](https://arxiv.org/abs/2609.20804)
 
 ---
 
-### 4. MI5 accepts it gave evidence based on lies in neo-Nazi spy case
+### 4. Flight chaos caused by software defect in space of a millisecond, report says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-It is the first time MI5 has confirmed the BBC's revelation that it gave evidence based on lies in court while defending the abusive informant.
+The failure led to more than 2,000 flights being cancelled and hundreds of thousands of passengers affected.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw0kl1571lpmo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw0kl1571lpmo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. MI5 accepts it gave evidence based on lies in neo-Nazi spy case
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+It is the first time MI5 has confirmed the BBC's revelation that it gave evidence based on lies in court while defending the violent informant.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3j4jz07e2v8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3j4jz07e2v8o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Women told breasts removed needlessly as NHS trust finds more than 300 suffered harm
+### 6. Russian hybrid attacks against Europe intensifying, says Macron
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The trust's new chief executive says he apologises unreservedly - "What happened was utterly unacceptable."
+The French president says he has tasked the government with protecting critical infrastructure and defence industry sites.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9qrn3y72dxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9qrn3y72dxo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Woman tells BBC of trauma after unnecessary breast cancer surgery
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Denise Howarth is one of several women who have been told by the NHS that their breast was removed unnecessarily.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c9lyk2xj62yro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c9lyk2xj62yro?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Palmer and Alexander-Arnold recalled after England World Cup snub
+### 7. Real Madrid President says Ceuta visit not related to ‘recent news’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Cole Palmer and Trent Alexander-Arnold back for Thomas Tuchel in Nations League, but still no place for Phil Foden.
+Real Madrid stars including Kylian Mbappe rolled up T-shirts showing support for Ceuta, but President trip &#039;unrelated&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/18/palmer-and-alexander-arnold-recalled-after-england-world-cup-snub?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/18/palmer-and-alexander-arnold-recalled-after-england-world-cup-snub?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/18/real-madrid-president-says-ceuta-visit-not-related-to-recent-news?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/18/real-madrid-president-says-ceuta-visit-not-related-to-recent-news?traffic_source=rss)
 
 ---
 
-### 8. United Nations says US may have committed war crimes in Iran: What it means
+### 8. Real Madrid’s Kylian Mbappe ends Nike partnership to join Swiss brand On
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-UN probe finds US unlawfully struck an Iranian school and sports centre, killing children; White House rejects findings.
+On, which is set to launch its first football boots next year, also appointed Thierry Henry as its football director.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/18/united-nations-says-us-may-have-committed-war-crimes-in-iran-what-it-means?traffic_source=rss](https://www.aljazeera.com/news/2026/9/18/united-nations-says-us-may-have-committed-war-crimes-in-iran-what-it-means?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/18/real-madrids-kylian-mbappe-ends-nike-partnership-to-join-swiss-brand-on?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/18/real-madrids-kylian-mbappe-ends-nike-partnership-to-join-swiss-brand-on?traffic_source=rss)
 
 ---
 
-### 9. ‘My children did not attack Iran’: 2bn South Asians suffer from distant war
+### 9. New Bolivian cat claws its way into species list: What we meow
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A quarter of the world’s population faces a surging cost of living crisis because of the wars in the Middle East.
+Purrfectly new to science: the first new wild cat found in over a century proves that cats do have nine (secret) lives.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/18/my-children-did-not-attack-iran-2bn-south-asians-suffer-from-distant-war?traffic_source=rss](https://www.aljazeera.com/news/2026/9/18/my-children-did-not-attack-iran-2bn-south-asians-suffer-from-distant-war?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/18/new-bolivian-cat-claws-its-way-into-species-list-what-we-meow?traffic_source=rss](https://www.aljazeera.com/news/2026/9/18/new-bolivian-cat-claws-its-way-into-species-list-what-we-meow?traffic_source=rss)
 
 ---
 

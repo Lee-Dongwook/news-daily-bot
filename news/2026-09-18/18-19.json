@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-18T18:19:44+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "AI chatbots becoming experts at changing people's minds. What's their secret?",
+            "description": "<p>Article URL: <a href=\"https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret\">https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49754250\">https://news.ycombinator.com/item?id=49754250</a></p>\n<p>Points: 30</p>\n<p># Comments: 25</p>",
+            "url": "https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret",
+            "published": "Fri, 18 Sep 2026 13:39:27 +0000",
+            "fetched": "2026-09-18T18:19:44+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "NATS publishes preliminary report on technical incident of 8 September",
+            "description": "<p>Article URL: <a href=\"https://www.nats.aero/news/nats-publishes-preliminary-report-on-technical-incident-of-8-september/\">https://www.nats.aero/news/nats-publishes-preliminary-report-on-technical-incident-of-8-september/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49754064\">https://news.ycombinator.com/item?id=49754064</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://www.nats.aero/news/nats-publishes-preliminary-report-on-technical-incident-of-8-september/",
+            "published": "Fri, 18 Sep 2026 13:24:35 +0000",
+            "fetched": "2026-09-18T18:19:44+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "An Empirical Study of Harness Design for Coding Agents",
+            "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2609.20804\">https://arxiv.org/abs/2609.20804</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49753878\">https://news.ycombinator.com/item?id=49753878</a></p>\n<p>Points: 53</p>\n<p># Comments: 5</p>",
+            "url": "https://arxiv.org/abs/2609.20804",
+            "published": "Fri, 18 Sep 2026 13:06:30 +0000",
+            "fetched": "2026-09-18T18:19:44+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Flight chaos caused by software defect in space of a millisecond, report says",
+            "description": "The failure led to more than 2,000 flights being cancelled and hundreds of thousands of passengers affected.",
+            "url": "https://www.bbc.co.uk/news/articles/cw0kl1571lpmo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 18 Sep 2026 14:24:30 GMT",
+            "fetched": "2026-09-18T18:19:44+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "MI5 accepts it gave evidence based on lies in neo-Nazi spy case",
+            "description": "It is the first time MI5 has confirmed the BBC's revelation that it gave evidence based on lies in court while defending the violent informant.",
+            "url": "https://www.bbc.co.uk/news/articles/c3j4jz07e2v8o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 18 Sep 2026 12:30:16 GMT",
+            "fetched": "2026-09-18T18:19:44+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Russian hybrid attacks against Europe intensifying, says Macron",
+            "description": "The French president says he has tasked the government with protecting critical infrastructure and defence industry sites.",
+            "url": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 18 Sep 2026 14:42:01 GMT",
+            "fetched": "2026-09-18T18:19:44+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Real Madrid President says Ceuta visit not related to ‘recent news’",
+            "description": "Real Madrid stars including Kylian Mbappe rolled up T-shirts showing support for Ceuta, but President trip &#039;unrelated&#039;.",
+            "url": "https://www.aljazeera.com/sports/2026/9/18/real-madrid-president-says-ceuta-visit-not-related-to-recent-news?traffic_source=rss",
+            "published": "Fri, 18 Sep 2026 14:37:30 +0000",
+            "fetched": "2026-09-18T18:19:44+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Real Madrid’s Kylian Mbappe ends Nike partnership to join Swiss brand On",
+            "description": "On, which is set to launch its first football boots next year, also appointed Thierry Henry as its football director.",
+            "url": "https://www.aljazeera.com/sports/2026/9/18/real-madrids-kylian-mbappe-ends-nike-partnership-to-join-swiss-brand-on?traffic_source=rss",
+            "published": "Fri, 18 Sep 2026 14:30:18 +0000",
+            "fetched": "2026-09-18T18:19:44+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "New Bolivian cat claws its way into species list: What we meow",
+            "description": "Purrfectly new to science: the first new wild cat found in over a century proves that cats do have nine (secret) lives.",
+            "url": "https://www.aljazeera.com/news/2026/9/18/new-bolivian-cat-claws-its-way-into-species-list-what-we-meow?traffic_source=rss",
+            "published": "Fri, 18 Sep 2026 14:25:53 +0000",
+            "fetched": "2026-09-18T18:19:44+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Breezy, Starr, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24483",
+            "published": "2026-09-16T20:17:00Z",
+            "fetched": "2026-09-18T18:19:44+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire FLORISTON, Nevada, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24488",
+            "published": "2026-09-16T13:01:00Z",
+            "fetched": "2026-09-18T18:19:44+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Dujuan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24317",
+            "published": "2026-09-16T12:00:00Z",
+            "fetched": "2026-09-18T18:19:44+03:30"
+        }
+    ]
+}

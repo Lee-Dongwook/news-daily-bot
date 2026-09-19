@@ -1,16 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-19 04:49:16
+**Last Update:** 2026-09-19 07:56:59
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. US and Denmark reach deal over Greenland after Trump annexation threats
+### 1. SDCC – Small Device C Compiler
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://sdcc.sourceforge.net/">https://sdcc.sourceforge.net/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49762744">https://news.ycombinator.com/item?id=49762744</a></p>
+<p>Points: 22</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://sdcc.sourceforge.net/](https://sdcc.sourceforge.net/)
+
+---
+
+### 2. Science Is Open Software
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://jepedersen.dk/blog/202505_research/">https://jepedersen.dk/blog/202505_research/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49762687">https://news.ycombinator.com/item?id=49762687</a></p>
+<p>Points: 35</p>
+<p># Comments: 15</p>
+
+🔗 **Read more:** [https://jepedersen.dk/blog/202505_research/](https://jepedersen.dk/blog/202505_research/)
+
+---
+
+### 3. Show HN: LiveWorld – Every 24/7 YouTube live camera on one globe
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://liveworld.info/">https://liveworld.info/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49762099">https://news.ycombinator.com/item?id=49762099</a></p>
+<p>Points: 25</p>
+<p># Comments: 28</p>
+
+🔗 **Read more:** [https://liveworld.info/](https://liveworld.info/)
+
+---
+
+### 4. US and Denmark reach deal over Greenland after Trump annexation threats
 
 **Source:** BBC
 
@@ -23,7 +71,7 @@ Trump said the agreement will give the US "permanent control over security, and 
 
 ---
 
-### 2. 'I'm telling the truth': Earl Spencer defends Diana book claims about Charles in BBC interview
+### 5. 'I'm telling the truth': Earl Spencer defends Diana book claims about Charles in BBC interview
 
 **Source:** BBC
 
@@ -36,7 +84,7 @@ Princess Diana's brother tells the BBC's Laura Kuenssberg that "we'll forget her
 
 ---
 
-### 3. Watch: Diana's brother says Charles 'went ballistic' in phone call after her death
+### 6. Watch: Diana's brother says Charles 'went ballistic' in phone call after her death
 
 **Source:** BBC
 
@@ -49,46 +97,46 @@ Earl Spencer spoke exclusively with the BBC's Laura Kuenssberg about claims he h
 
 ---
 
-### 4. Trump signs sweeping Russia sanctions over Ukraine war
+### 7. North Korea dismisses UN nuclear watchdog resolution
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-New US law imposes harsh measures on Russia, aims to weaken the Kremlin&#039;s war funding and push for Ukraine negotiations.
+The country rebukes the UN atomic agency&#039;s &#039;double standards&#039; and says nuclear status is &#039;irreversible&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/19/trump-signs-sweeping-russia-sanctions-over-ukraine-war?traffic_source=rss](https://www.aljazeera.com/news/2026/9/19/trump-signs-sweeping-russia-sanctions-over-ukraine-war?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/19/north-korea-dismisses-un-nuclear-watchdog-resolution?traffic_source=rss](https://www.aljazeera.com/news/2026/9/19/north-korea-dismisses-un-nuclear-watchdog-resolution?traffic_source=rss)
 
 ---
 
-### 5. Israeli strike on motorcycle kills Palestinian in Gaza City, injures child
+### 8. Report: More US troops have died in Iran war than Pentagon says
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Separate attacks struck central refugee camps as officials warned Gaza&#039;s health sector faces total collapse.
+The Pentagon publicly lists 18 US military deaths since the Iran war began.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/19/israeli-strike-on-motorcycle-in-gaza-city-kills-one-injures-child?traffic_source=rss](https://www.aljazeera.com/news/2026/9/19/israeli-strike-on-motorcycle-in-gaza-city-kills-one-injures-child?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/19/report-more-us-troops-have-died-in-iran-war-than-pentagon-says?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/19/report-more-us-troops-have-died-in-iran-war-than-pentagon-says?traffic_source=rss)
 
 ---
 
-### 6. Iran war live: Trump extends sanctions on Iran, Houthi supporters in Sanaa
+### 9. South Africans voice their anger as hundreds hold femicide vigil
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Thousands take to the streets in support of Houthis in Sanaa, Trump extends sanctions on Iran.
+Hundreds of people gathered at the University of Cape Town on Friday at a vigil for victims of femicide in South Africa.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/9/19/iran-war-live-trump-extends-sanctions-on-iran-houthi-supporters-in-sanaa?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/9/19/iran-war-live-trump-extends-sanctions-on-iran-houthi-supporters-in-sanaa?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/19/south-africans-voice-their-anger-as-hundreds-hold-femicide-vigil?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/19/south-africans-voice-their-anger-as-hundreds-hold-femicide-vigil?traffic_source=rss)
 
 ---
 
-### 7. Wildfire Breezy, Starr, Texas
+### 10. Wildfire Breezy, Starr, Texas
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Wildfires
 
 ---
 
-### 8. Wildfire FLORISTON, Nevada, California
+### 11. Wildfire FLORISTON, Nevada, California
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Wildfires
 
 ---
 
-### 9. Typhoon Dujuan
+### 12. Typhoon Dujuan
 
 **Source:** NASA
 

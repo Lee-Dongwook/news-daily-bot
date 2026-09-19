@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-09-19T23:45:36+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
+            "description": "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory.",
+            "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 19 Sep 2026 11:36:55 GMT",
+            "fetched": "2026-09-19T23:45:36+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Major seaside hotel fire that evacuated guests during night treated as suspicious",
+            "description": "About 280 people were evacuated from the premises at Folkestone's Grand Burstin Hotel.",
+            "url": "https://www.bbc.co.uk/news/articles/c6ly70gz4008o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 19 Sep 2026 20:11:35 GMT",
+            "fetched": "2026-09-19T23:45:36+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Houthis claim attack on Saudi capital after smoke seen rising near Riyadh airport",
+            "description": "The King Khalid International Airport incident caused hours of flight disruptions and comes amid an escalating conflict with Houthi rebels in Yemen.",
+            "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 19 Sep 2026 19:09:49 GMT",
+            "fetched": "2026-09-19T23:45:36+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Denmark says ‘binding’ US deal on Greenland won’t compromise sovereignty",
+            "description": "Trump has wanted a foothold in Greenland for some time, as a strategic battle unfolds for supremacy in warming Arctic.",
+            "url": "https://www.aljazeera.com/news/2026/9/19/denmark-says-binding-us-deal-on-greenland-wont-compromise-sovereignty?traffic_source=rss",
+            "published": "Sat, 19 Sep 2026 20:03:23 +0000",
+            "fetched": "2026-09-19T23:45:36+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Canadians warm to EU ‘associate membership’ proposal",
+            "description": "From work and study to trade, Canadians see new possibilities in closer ties with the European Union.",
+            "url": "https://www.aljazeera.com/news/2026/9/19/canadians-warm-to-eu-associate-membership-proposal?traffic_source=rss",
+            "published": "Sat, 19 Sep 2026 19:53:55 +0000",
+            "fetched": "2026-09-19T23:45:36+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump says he will create ‘AI Force’ with new ‘AI czar’",
+            "description": "The announcements come as AI faces mounting concerns from populations across the United States.",
+            "url": "https://www.aljazeera.com/news/2026/9/19/trump-says-he-will-create-ai-force-with-new-ai-czar?traffic_source=rss",
+            "published": "Sat, 19 Sep 2026 19:50:10 +0000",
+            "fetched": "2026-09-19T23:45:36+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Breezy, Starr, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24483",
+            "published": "2026-09-16T20:17:00Z",
+            "fetched": "2026-09-19T23:45:36+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire FLORISTON, Nevada, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24488",
+            "published": "2026-09-16T13:01:00Z",
+            "fetched": "2026-09-19T23:45:36+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Dujuan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24317",
+            "published": "2026-09-16T12:00:00Z",
+            "fetched": "2026-09-19T23:45:36+03:30"
+        }
+    ]
+}

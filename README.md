@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-19 21:37:38
+**Last Update:** 2026-09-19 23:45:36
 
 **Total News:** 9
 
@@ -23,7 +23,7 @@ Denmark and the US have reached an agreement after months of threats from Donald
 
 ---
 
-### 2. Major seaside hotel fire treated as suspicious
+### 2. Major seaside hotel fire that evacuated guests during night treated as suspicious
 
 **Source:** BBC
 
@@ -49,42 +49,42 @@ The King Khalid International Airport incident caused hours of flight disruption
 
 ---
 
-### 4. Dutch riot police break up violent far-right protest in The Hague
+### 4. Denmark says ‘binding’ US deal on Greenland won’t compromise sovereignty
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Justice minister condemns &#039;Hitler salutes, antisemitic slogans, violence&#039; at the anti-immigration rally.
+Trump has wanted a foothold in Greenland for some time, as a strategic battle unfolds for supremacy in warming Arctic.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/19/dutch-riot-police-break-up-violent-far-right-protest-in-the-hague?traffic_source=rss](https://www.aljazeera.com/news/2026/9/19/dutch-riot-police-break-up-violent-far-right-protest-in-the-hague?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/19/denmark-says-binding-us-deal-on-greenland-wont-compromise-sovereignty?traffic_source=rss](https://www.aljazeera.com/news/2026/9/19/denmark-says-binding-us-deal-on-greenland-wont-compromise-sovereignty?traffic_source=rss)
 
 ---
 
-### 5. A ‘ban on the free press’: White House bars journalists from three outlets
+### 5. Canadians warm to EU ‘associate membership’ proposal
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Reporters from CNN, MS NOW, and Politico were denied access to White House on Saturday.
+From work and study to trade, Canadians see new possibilities in closer ties with the European Union.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/19/a-ban-on-the-free-press-white-house-bars-journalists-from-three-outlets?traffic_source=rss](https://www.aljazeera.com/news/2026/9/19/a-ban-on-the-free-press-white-house-bars-journalists-from-three-outlets?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/19/canadians-warm-to-eu-associate-membership-proposal?traffic_source=rss](https://www.aljazeera.com/news/2026/9/19/canadians-warm-to-eu-associate-membership-proposal?traffic_source=rss)
 
 ---
 
-### 6. Ed Sheeran concert set to go ahead after outcry over Gaza
+### 6. Trump says he will create ‘AI Force’ with new ‘AI czar’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Sheeran may perform solo after musicians dropped out of tour over expulsion of Macklemore for supporting Palestine.
+The announcements come as AI faces mounting concerns from populations across the United States.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/19/ed-sheeran-concert-set-to-go-ahead-after-outcry-over-gaza?traffic_source=rss](https://www.aljazeera.com/news/2026/9/19/ed-sheeran-concert-set-to-go-ahead-after-outcry-over-gaza?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/19/trump-says-he-will-create-ai-force-with-new-ai-czar?traffic_source=rss](https://www.aljazeera.com/news/2026/9/19/trump-says-he-will-create-ai-force-with-new-ai-czar?traffic_source=rss)
 
 ---
 

@@ -1,73 +1,73 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-20 00:21:27
+**Last Update:** 2026-09-20 02:15:17
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Measure internet censorship. Contribute to the largest open dataset
+### 1. Mayday Mysteries
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://ooni.org/install">https://ooni.org/install</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49769676">https://news.ycombinator.com/item?id=49769676</a></p>
-<p>Points: 7</p>
+<p>Article URL: <a href="http://www.maydaymystery.org/mayday/">http://www.maydaymystery.org/mayday/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49770362">https://news.ycombinator.com/item?id=49770362</a></p>
+<p>Points: 10</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [http://www.maydaymystery.org/mayday/](http://www.maydaymystery.org/mayday/)
+
+---
+
+### 2. How Hacker News ranking works: scoring, controversy, and penalties (2013)
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html">https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49770293">https://news.ycombinator.com/item?id=49770293</a></p>
+<p>Points: 22</p>
 <p># Comments: 2</p>
 
-🔗 **Read more:** [https://ooni.org/install](https://ooni.org/install)
+🔗 **Read more:** [https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html](https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html)
 
 ---
 
-### 2. ZK-JPEG: Zero-Knowledge Image Editing and Compression
+### 3. You can defeat the Dream Devourer from Chrono Trigger using an int overflow
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://eprint.iacr.org/2026/2039">https://eprint.iacr.org/2026/2039</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49769405">https://news.ycombinator.com/item?id=49769405</a></p>
-<p>Points: 11</p>
+<p>Article URL: <a href="https://chrono.fandom.com/wiki/Dream_Devourer">https://chrono.fandom.com/wiki/Dream_Devourer</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49770256">https://news.ycombinator.com/item?id=49770256</a></p>
+<p>Points: 5</p>
 <p># Comments: 1</p>
 
-🔗 **Read more:** [https://eprint.iacr.org/2026/2039](https://eprint.iacr.org/2026/2039)
+🔗 **Read more:** [https://chrono.fandom.com/wiki/Dream_Devourer](https://chrono.fandom.com/wiki/Dream_Devourer)
 
 ---
 
-### 3. Btrfs/ZFS/bcachefs under workloads classic benchmarks skip
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://bartosz.fenski.pl/modern-fs-benchmark/">https://bartosz.fenski.pl/modern-fs-benchmark/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49768833">https://news.ycombinator.com/item?id=49768833</a></p>
-<p>Points: 60</p>
-<p># Comments: 47</p>
-
-🔗 **Read more:** [https://bartosz.fenski.pl/modern-fs-benchmark/](https://bartosz.fenski.pl/modern-fs-benchmark/)
-
----
-
-### 4. Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'
+### 4. Houthis say they targeted Saudi capital with ballistic missiles
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory.
+A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -84,20 +84,46 @@ About 280 people were evacuated from the premises at Folkestone's Grand Burstin 
 
 ---
 
-### 6. Houthis say they targeted Saudi capital with ballistic missiles
+### 6. Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as conflict between Saudi Arabia and the Yemen-based group continues.
+Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Israel’s president pardons soldier who killed wounded Palestinian in 2016
+### 7. Saudi-led coalition says defences intercept Houthi missile fired at Riyadh
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+This was the first time an alert was sounded in Riyadh since an escalation between the Houthis in Yemen and the Saudis.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/19/saudi-led-coalition-says-defences-intercept-houthi-missile-fired-at-riyadh?traffic_source=rss](https://www.aljazeera.com/news/2026/9/19/saudi-led-coalition-says-defences-intercept-houthi-missile-fired-at-riyadh?traffic_source=rss)
+
+---
+
+### 8. Fulham vs Manchester United: Premier League – prediction, teams, lineups
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Man United have won only one league game this season, putting Michael Carrick under pressure ahead of Fulham trip.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/19/fulham-vs-manchester-united-premier-league-prediction-teams-lineups?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/19/fulham-vs-manchester-united-premier-league-prediction-teams-lineups?traffic_source=rss)
+
+---
+
+### 9. Israel’s president pardons soldier who killed wounded Palestinian in 2016
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, a
 Elor Azaria had shot a Palestinian who had already been incapacitated by Israeli troops, in controversial case.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/19/israels-president-pardons-soldier-who-killed-wounded-palestinian-in-2016?traffic_source=rss](https://www.aljazeera.com/news/2026/9/19/israels-president-pardons-soldier-who-killed-wounded-palestinian-in-2016?traffic_source=rss)
-
----
-
-### 8. Lacking equipment, but not ambition: Gaza students try to keep up with tech
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Gaza&#039;s IT industry has been devastated from three-years of bombing and destruction.
-
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/9/19/lacking-equipment-but-not-ambition-gaza-students-try-to-keep-up-with-tech?traffic_source=rss](https://www.aljazeera.com/features/2026/9/19/lacking-equipment-but-not-ambition-gaza-students-try-to-keep-up-with-tech?traffic_source=rss)
-
----
-
-### 9. Hegseth kicks off ‘Send Me Tour’ amid Iran war backlash
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-US Secretary of Defence Pete Hegseth has kicked off his ‘Send Me Tour’ in Texas amid Iran war backlash.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/19/hegseth-kicks-off-send-me-tour-amid-iran-war-backlash?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/19/hegseth-kicks-off-send-me-tour-amid-iran-war-backlash?traffic_source=rss)
 
 ---
 

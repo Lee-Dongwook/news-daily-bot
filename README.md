@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-19 03:28:36
+**Last Update:** 2026-09-19 04:49:16
 
 **Total News:** 9
 
@@ -36,55 +36,55 @@ Princess Diana's brother tells the BBC's Laura Kuenssberg that "we'll forget her
 
 ---
 
-### 3. Flight chaos caused by software defect in space of a millisecond, report says
+### 3. Watch: Diana's brother says Charles 'went ballistic' in phone call after her death
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The failure led to more than 2,000 flights being cancelled and hundreds of thousands of passengers affected.
+Earl Spencer spoke exclusively with the BBC's Laura Kuenssberg about claims he has made in a new book.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw0kl1571lpmo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw0kl1571lpmo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c317j8k4lvy9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c317j8k4lvy9o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. Super Macklemore 64: Video game mocks Sheeran concert controversy
+### 4. Trump signs sweeping Russia sanctions over Ukraine war
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-In Super Macklemore 64, players are chased by a giant Ed Sheeran, dodge tiny billionaire Robert Krafts.
+New US law imposes harsh measures on Russia, aims to weaken the Kremlin&#039;s war funding and push for Ukraine negotiations.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/18/super-macklemore-64-video-game-mocks-sheeran-concert-controversy?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/18/super-macklemore-64-video-game-mocks-sheeran-concert-controversy?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/19/trump-signs-sweeping-russia-sanctions-over-ukraine-war?traffic_source=rss](https://www.aljazeera.com/news/2026/9/19/trump-signs-sweeping-russia-sanctions-over-ukraine-war?traffic_source=rss)
 
 ---
 
-### 5. Houthis accuse Saudi Arabia of launching 26 strikes in 24 hours
+### 5. Israeli strike on motorcycle kills Palestinian in Gaza City, injures child
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The war in Yemen intensifies with mounting clashes and reciprocal attacks between Saudi forces and the Houthis.
+Separate attacks struck central refugee camps as officials warned Gaza&#039;s health sector faces total collapse.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/18/houthis-accuse-saudi-arabia-of-launching-26-strikes-in-24-hours?traffic_source=rss](https://www.aljazeera.com/news/2026/9/18/houthis-accuse-saudi-arabia-of-launching-26-strikes-in-24-hours?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/19/israeli-strike-on-motorcycle-in-gaza-city-kills-one-injures-child?traffic_source=rss](https://www.aljazeera.com/news/2026/9/19/israeli-strike-on-motorcycle-in-gaza-city-kills-one-injures-child?traffic_source=rss)
 
 ---
 
-### 6. Trump claims deal with Denmark gives US ‘permanent control’ over Greenland
+### 6. Iran war live: Trump extends sanctions on Iran, Houthi supporters in Sanaa
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Denmark and Greenland plan to sign a US defence pact next week, pending approval from both parliaments.
+Thousands take to the streets in support of Houthis in Sanaa, Trump extends sanctions on Iran.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/18/trump-claims-deal-with-denmark-gives-us-permanent-control-over-greenland?traffic_source=rss](https://www.aljazeera.com/news/2026/9/18/trump-claims-deal-with-denmark-gives-us-permanent-control-over-greenland?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/9/19/iran-war-live-trump-extends-sanctions-on-iran-houthi-supporters-in-sanaa?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/9/19/iran-war-live-trump-extends-sanctions-on-iran-houthi-supporters-in-sanaa?traffic_source=rss)
 
 ---
 

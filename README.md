@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-19 07:56:59
+**Last Update:** 2026-09-19 09:35:14
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. SDCC – Small Device C Compiler
+### 1. NASA-IBM Lunar Foundation open-Source Geospatial AI Model
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/">https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49763379">https://news.ycombinator.com/item?id=49763379</a></p>
+<p>Points: 7</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/](https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/)
+
+---
+
+### 2. San Francisco Onion Futures Company
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://onionfutures.com/">https://onionfutures.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49763296">https://news.ycombinator.com/item?id=49763296</a></p>
+<p>Points: 100</p>
+<p># Comments: 31</p>
+
+🔗 **Read more:** [https://onionfutures.com/](https://onionfutures.com/)
+
+---
+
+### 3. SDCC – Small Device C Compiler
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://sdcc.sourceforge.net/">https://sdcc.sourceforge.net/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49762744">https://news.ycombinator.com/item?id=49762744</a></p>
-<p>Points: 22</p>
-<p># Comments: 4</p>
+<p>Points: 44</p>
+<p># Comments: 9</p>
 
 🔗 **Read more:** [https://sdcc.sourceforge.net/](https://sdcc.sourceforge.net/)
-
----
-
-### 2. Science Is Open Software
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://jepedersen.dk/blog/202505_research/">https://jepedersen.dk/blog/202505_research/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49762687">https://news.ycombinator.com/item?id=49762687</a></p>
-<p>Points: 35</p>
-<p># Comments: 15</p>
-
-🔗 **Read more:** [https://jepedersen.dk/blog/202505_research/](https://jepedersen.dk/blog/202505_research/)
-
----
-
-### 3. Show HN: LiveWorld – Every 24/7 YouTube live camera on one globe
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://liveworld.info/">https://liveworld.info/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49762099">https://news.ycombinator.com/item?id=49762099</a></p>
-<p>Points: 25</p>
-<p># Comments: 28</p>
-
-🔗 **Read more:** [https://liveworld.info/](https://liveworld.info/)
 
 ---
 
@@ -65,7 +65,7 @@
 **Category:** world
 
 **Description:**
-Trump said the agreement will give the US "permanent control over security, and all other needs, in Greenland", though specifics haven't been confirmed by Danish officials.
+Trump says the agreement will give the US "permanent control over security, and all other needs, in Greenland", though specifics have not been confirmed by Danish officials.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss)
 
@@ -97,42 +97,42 @@ Earl Spencer spoke exclusively with the BBC's Laura Kuenssberg about claims he h
 
 ---
 
-### 7. North Korea dismisses UN nuclear watchdog resolution
+### 7. Trump’s threats to demolish Kennedy Center sparks protest
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The country rebukes the UN atomic agency&#039;s &#039;double standards&#039; and says nuclear status is &#039;irreversible&#039;.
+Protestors gathered outside Washington’s Kennedy Center after President Trump’s plans to close the arts venue.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/19/north-korea-dismisses-un-nuclear-watchdog-resolution?traffic_source=rss](https://www.aljazeera.com/news/2026/9/19/north-korea-dismisses-un-nuclear-watchdog-resolution?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/19/trumps-threats-to-demolish-kennedy-center-sparks-protest?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/19/trumps-threats-to-demolish-kennedy-center-sparks-protest?traffic_source=rss)
 
 ---
 
-### 8. Report: More US troops have died in Iran war than Pentagon says
+### 8. Brazilian police capture suspected serial killer disguised as a woman
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The Pentagon publicly lists 18 US military deaths since the Iran war began.
+Brazilian police say they will reopen dozens of cases after they arrested a self-confessed serial killer.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/19/report-more-us-troops-have-died-in-iran-war-than-pentagon-says?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/19/report-more-us-troops-have-died-in-iran-war-than-pentagon-says?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/19/brazilian-police-capture-suspected-serial-killer-disguised-as-a-woman?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/19/brazilian-police-capture-suspected-serial-killer-disguised-as-a-woman?traffic_source=rss)
 
 ---
 
-### 9. South Africans voice their anger as hundreds hold femicide vigil
+### 9. Indonesia ferry search: Divers retrieve three bodies, 126 people missing
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Hundreds of people gathered at the University of Cape Town on Friday at a vigil for victims of femicide in South Africa.
+Bad weather has pushed authorities to begin operations to right the capsized ferry.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/19/south-africans-voice-their-anger-as-hundreds-hold-femicide-vigil?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/19/south-africans-voice-their-anger-as-hundreds-hold-femicide-vigil?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/19/operations-to-right-capsized-ferry-begin-as-126-people-remain-missing?traffic_source=rss](https://www.aljazeera.com/news/2026/9/19/operations-to-right-capsized-ferry-begin-as-126-people-remain-missing?traffic_source=rss)
 
 ---
 

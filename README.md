@@ -1,64 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-19 09:35:14
+**Last Update:** 2026-09-19 12:46:09
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** NASA, Hacker News, Al Jazeera, BBC
+**Sources:** NASA, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. NASA-IBM Lunar Foundation open-Source Geospatial AI Model
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/">https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49763379">https://news.ycombinator.com/item?id=49763379</a></p>
-<p>Points: 7</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/](https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/)
-
----
-
-### 2. San Francisco Onion Futures Company
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://onionfutures.com/">https://onionfutures.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49763296">https://news.ycombinator.com/item?id=49763296</a></p>
-<p>Points: 100</p>
-<p># Comments: 31</p>
-
-🔗 **Read more:** [https://onionfutures.com/](https://onionfutures.com/)
-
----
-
-### 3. SDCC – Small Device C Compiler
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://sdcc.sourceforge.net/">https://sdcc.sourceforge.net/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49762744">https://news.ycombinator.com/item?id=49762744</a></p>
-<p>Points: 44</p>
-<p># Comments: 9</p>
-
-🔗 **Read more:** [https://sdcc.sourceforge.net/](https://sdcc.sourceforge.net/)
-
----
-
-### 4. US and Denmark reach deal over Greenland after Trump annexation threats
+### 1. US and Denmark reach deal over Greenland after Trump annexation threats
 
 **Source:** BBC
 
@@ -71,7 +23,7 @@ Trump says the agreement will give the US "permanent control over security, and 
 
 ---
 
-### 5. 'I'm telling the truth': Earl Spencer defends Diana book claims about Charles in BBC interview
+### 2. 'I'm telling the truth': Earl Spencer defends Diana book claims about Charles in BBC interview
 
 **Source:** BBC
 
@@ -84,7 +36,7 @@ Princess Diana's brother tells the BBC's Laura Kuenssberg that "we'll forget her
 
 ---
 
-### 6. Watch: Diana's brother says Charles 'went ballistic' in phone call after her death
+### 3. Watch: Diana's brother says Charles 'went ballistic' in phone call after her death
 
 **Source:** BBC
 
@@ -97,46 +49,46 @@ Earl Spencer spoke exclusively with the BBC's Laura Kuenssberg about claims he h
 
 ---
 
-### 7. Trump’s threats to demolish Kennedy Center sparks protest
+### 4. EU urges US to lift travel ban on Palestinian delegation for UNGA meeting
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Protestors gathered outside Washington’s Kennedy Center after President Trump’s plans to close the arts venue.
+The United Nations General Assembly will allow Palestinian President Mahmoud Abbas to address via a prerecorded video.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/19/trumps-threats-to-demolish-kennedy-center-sparks-protest?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/19/trumps-threats-to-demolish-kennedy-center-sparks-protest?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/19/eu-urges-us-to-lift-travel-ban-on-palestinian-delegation-for-unga-meeting?traffic_source=rss](https://www.aljazeera.com/news/2026/9/19/eu-urges-us-to-lift-travel-ban-on-palestinian-delegation-for-unga-meeting?traffic_source=rss)
 
 ---
 
-### 8. Brazilian police capture suspected serial killer disguised as a woman
+### 5. Can Trump ban CNN, news outlets he doesn’t like from the White House?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Brazilian police say they will reopen dozens of cases after they arrested a self-confessed serial killer.
+The ban is the latest attack by Trump on media outlets that he perceives as unfavourable to his administration.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/19/brazilian-police-capture-suspected-serial-killer-disguised-as-a-woman?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/19/brazilian-police-capture-suspected-serial-killer-disguised-as-a-woman?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/19/can-trump-ban-cnn-news-outlets-he-doesnt-like-from-the-white-house?traffic_source=rss](https://www.aljazeera.com/news/2026/9/19/can-trump-ban-cnn-news-outlets-he-doesnt-like-from-the-white-house?traffic_source=rss)
 
 ---
 
-### 9. Indonesia ferry search: Divers retrieve three bodies, 126 people missing
+### 6. Turkiye revokes operating licence of Iran’s Bank Mellat in Istanbul
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Bad weather has pushed authorities to begin operations to right the capsized ferry.
+The Iranian lender has faced years of Western sanctions over alleged ties to Tehran&#039;s nuclear programme.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/19/operations-to-right-capsized-ferry-begin-as-126-people-remain-missing?traffic_source=rss](https://www.aljazeera.com/news/2026/9/19/operations-to-right-capsized-ferry-begin-as-126-people-remain-missing?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/19/turkiye-revokes-operating-licence-of-irans-bank-mellat?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/19/turkiye-revokes-operating-licence-of-irans-bank-mellat?traffic_source=rss)
 
 ---
 
-### 10. Wildfire Breezy, Starr, Texas
+### 7. Wildfire Breezy, Starr, Texas
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Wildfires
 
 ---
 
-### 11. Wildfire FLORISTON, Nevada, California
+### 8. Wildfire FLORISTON, Nevada, California
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Typhoon Dujuan
+### 9. Typhoon Dujuan
 
 **Source:** NASA
 

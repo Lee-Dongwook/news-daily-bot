@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-20T14:26:02+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Benchmarking Wild vs. Mold",
+            "description": "<p>Article URL: <a href=\"https://davidlattimore.github.io/posts/2026/09/18/benchmarking-wild-vs-mold.html\">https://davidlattimore.github.io/posts/2026/09/18/benchmarking-wild-vs-mold.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49774000\">https://news.ycombinator.com/item?id=49774000</a></p>\n<p>Points: 16</p>\n<p># Comments: 0</p>",
+            "url": "https://davidlattimore.github.io/posts/2026/09/18/benchmarking-wild-vs-mold.html",
+            "published": "Sun, 20 Sep 2026 09:09:14 +0000",
+            "fetched": "2026-09-20T14:26:02+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Microsoft agentically ports Copilot runtime to Rust for $120K",
+            "description": "<p>Article URL: <a href=\"https://www.theregister.com/devops/2026/09/18/microsoft-agentically-ports-copilot-runtime-to-rust-for-120k/5297549\">https://www.theregister.com/devops/2026/09/18/microsoft-agentically-ports-copilot-runtime-to-rust-for-120k/5297549</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49773998\">https://news.ycombinator.com/item?id=49773998</a></p>\n<p>Points: 17</p>\n<p># Comments: 10</p>",
+            "url": "https://www.theregister.com/devops/2026/09/18/microsoft-agentically-ports-copilot-runtime-to-rust-for-120k/5297549",
+            "published": "Sun, 20 Sep 2026 09:08:52 +0000",
+            "fetched": "2026-09-20T14:26:02+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Don't Be Nice",
+            "description": "<p>Article URL: <a href=\"https://roe.dev/blog/dont-be-nice\">https://roe.dev/blog/dont-be-nice</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49773951\">https://news.ycombinator.com/item?id=49773951</a></p>\n<p>Points: 7</p>\n<p># Comments: 2</p>",
+            "url": "https://roe.dev/blog/dont-be-nice",
+            "published": "Sun, 20 Sep 2026 09:01:42 +0000",
+            "fetched": "2026-09-20T14:26:02+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Harry and Meghan's media treatment echoes what happened to Diana, Earl Spencer tells BBC",
+            "description": "Princess Diana's brother describes press coverage of Prince Harry and Meghan as a \"cancerous influence in their life\" and says he saw his sister cry \"tears of despair\" over interest in her.",
+            "url": "https://www.bbc.co.uk/news/articles/cwj3d7zrgvk1o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 20 Sep 2026 05:00:07 GMT",
+            "fetched": "2026-09-20T14:26:02+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Diana's brother says press has 'cancerous influence' on Harry and Meghan's lives",
+            "description": "Earl Spencer says that he can see echoes of Princess Diana's treatment from the press in the way Harry and Meghan are scrutinised.",
+            "url": "https://www.bbc.co.uk/news/videos/cv1j4794gn6po?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 20 Sep 2026 05:06:37 GMT",
+            "fetched": "2026-09-20T14:26:02+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Two killed in 'massive' Ukrainian drone attack on Moscow region, Russia says",
+            "description": "A major oil refinery was also hit as Moscow's mayor says 450 drones were downed during the \"unprecedented attack\".",
+            "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 20 Sep 2026 10:45:39 GMT",
+            "fetched": "2026-09-20T14:26:02+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump’s Greenland deal: A triumph of optics?",
+            "description": "It seems the new agreement may not be that &#039;new&#039;.",
+            "url": "https://www.aljazeera.com/opinions/2026/9/20/trumps-greenland-deal-a-triumph-of-optics?traffic_source=rss",
+            "published": "Sun, 20 Sep 2026 10:49:10 +0000",
+            "fetched": "2026-09-20T14:26:02+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Turkish FM says ready to meet Saudi defence needs – what does that mean?",
+            "description": "Ankara expresses readiness to assist Riyadh as Houthi attacks escalate, testing a recent trilateral defence agreement.",
+            "url": "https://www.aljazeera.com/news/2026/9/20/turkish-fm-says-ready-to-meet-saudi-defence-needs-what-does-that-mean?traffic_source=rss",
+            "published": "Sun, 20 Sep 2026 10:23:33 +0000",
+            "fetched": "2026-09-20T14:26:02+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Salah scores hat-trick as Trabzonspor beat Galatasaray in Turkish league",
+            "description": "Mohamed Salah scored three goals and created the fourth as the Turkish champions were defeated 4–0 by Trabzonspor.",
+            "url": "https://www.aljazeera.com/sports/2026/9/20/salah-scores-hat-trick-as-trabzonspor-beat-galatasaray-in-turkish-league?traffic_source=rss",
+            "published": "Sun, 20 Sep 2026 09:52:30 +0000",
+            "fetched": "2026-09-20T14:26:02+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Breezy, Starr, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24483",
+            "published": "2026-09-16T20:17:00Z",
+            "fetched": "2026-09-20T14:26:02+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire FLORISTON, Nevada, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24488",
+            "published": "2026-09-16T13:01:00Z",
+            "fetched": "2026-09-20T14:26:02+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Dujuan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24317",
+            "published": "2026-09-16T12:00:00Z",
+            "fetched": "2026-09-20T14:26:02+03:30"
+        }
+    ]
+}

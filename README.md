@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-20 22:25:02
+**Last Update:** 2026-09-21 00:46:33
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. A Necessary History of the Oddest Letter: W
+### 1. OpenAI's Sam Altman to Brief UN Security Council Next Week
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://lithub.com/a-necessary-history-of-the-oddest-letter-w/">https://lithub.com/a-necessary-history-of-the-oddest-letter-w/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49778195">https://news.ycombinator.com/item?id=49778195</a></p>
-<p>Points: 26</p>
-<p># Comments: 11</p>
+<p>Article URL: <a href="https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18/">https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49779802">https://news.ycombinator.com/item?id=49779802</a></p>
+<p>Points: 14</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://lithub.com/a-necessary-history-of-the-oddest-letter-w/](https://lithub.com/a-necessary-history-of-the-oddest-letter-w/)
+🔗 **Read more:** [https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18/](https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18/)
 
 ---
 
-### 2. I turned Jev into a (lousy) chatbot
+### 2. Frontier Labs Are Selling Garbage to Fools in Washington
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/kyle-pena-nlp/jevchat/">https://github.com/kyle-pena-nlp/jevchat/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49778162">https://news.ycombinator.com/item?id=49778162</a></p>
-<p>Points: 29</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://deadneurons.substack.com/p/frontier-labs-are-selling-garbage">https://deadneurons.substack.com/p/frontier-labs-are-selling-garbage</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49779432">https://news.ycombinator.com/item?id=49779432</a></p>
+<p>Points: 48</p>
+<p># Comments: 12</p>
 
-🔗 **Read more:** [https://github.com/kyle-pena-nlp/jevchat/](https://github.com/kyle-pena-nlp/jevchat/)
+🔗 **Read more:** [https://deadneurons.substack.com/p/frontier-labs-are-selling-garbage](https://deadneurons.substack.com/p/frontier-labs-are-selling-garbage)
 
 ---
 
-### 3. Self-hosted inference orchestrators compared: LocalAI, exo, GPUStack, vLLM
+### 3. The Hierarchy of Money
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.nexlab.net/articles/self-hosted-inference-orchestrators-compared-2026/">https://www.nexlab.net/articles/self-hosted-inference-orchestrators-compared-2026/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49778078">https://news.ycombinator.com/item?id=49778078</a></p>
-<p>Points: 11</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://gregorygundersen.com/blog/2026/09/20/hierarchy-of-money/">https://gregorygundersen.com/blog/2026/09/20/hierarchy-of-money/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49779253">https://news.ycombinator.com/item?id=49779253</a></p>
+<p>Points: 30</p>
+<p># Comments: 6</p>
 
-🔗 **Read more:** [https://www.nexlab.net/articles/self-hosted-inference-orchestrators-compared-2026/](https://www.nexlab.net/articles/self-hosted-inference-orchestrators-compared-2026/)
+🔗 **Read more:** [https://gregorygundersen.com/blog/2026/09/20/hierarchy-of-money/](https://gregorygundersen.com/blog/2026/09/20/hierarchy-of-money/)
 
 ---
 
@@ -97,42 +97,42 @@ Earl Spencer speaks to the BBC's Laura Kuenssberg ahead of the publication of hi
 
 ---
 
-### 7. How will Saudi Arabia deal with the Houthis?
+### 7. Qatar PM urges Gulf security framework with Iran
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Yemeni group warns of further attacks on the kingdom.
+Qatar’s PM says, the Gulf won&#039;t be the same unless there&#039;s a framework ensuring no one is a threat to each other.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/9/20/how-will-saudi-arabia-deal-with-the-houthis?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/9/20/how-will-saudi-arabia-deal-with-the-houthis?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/20/qatar-pm-urges-gulf-security-framework-with-iran?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/20/qatar-pm-urges-gulf-security-framework-with-iran?traffic_source=rss)
 
 ---
 
-### 8. Man Utd salvage Fulham draw as pressure mounts on Carrick
+### 8. Argentina’s Left stages ‘March of Anger’ over Milei’s austerity measures
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Matheus Cunha strikes late as Manchester United seal a 1-1 draw at Fulham, but pressure mounts on Michael Carrick.
+Thousands of protesters took to the streets of Buenos Aires for the ‘March of Anger’.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/20/man-utd-salvage-fulham-draw-as-pressure-mounts-on-carrick?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/20/man-utd-salvage-fulham-draw-as-pressure-mounts-on-carrick?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/20/argentinas-left-stages-march-of-anger-over-mileis-austerity-measures?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/20/argentinas-left-stages-march-of-anger-over-mileis-austerity-measures?traffic_source=rss)
 
 ---
 
-### 9. Gaza artists honour Macklemore for supporting Palestine
+### 9. Eighteen suspects extradited to US over Haitian president’s 2021 killing
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Artists in Gaza are painting murals on destroyed walls, honouring US rapper Macklemore for his support for Palestine.
+Federal court in Florida to try men accused of orchestrating the transnational plot to kill Jovenel Moise from US soil.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/20/gaza-artists-honour-macklemore-for-supporting-palestine?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/20/gaza-artists-honour-macklemore-for-supporting-palestine?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/20/eighteen-suspects-extradited-to-us-over-haitian-presidents-2021-killing?traffic_source=rss](https://www.aljazeera.com/news/2026/9/20/eighteen-suspects-extradited-to-us-over-haitian-presidents-2021-killing?traffic_source=rss)
 
 ---
 

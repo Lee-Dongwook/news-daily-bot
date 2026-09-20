@@ -1,16 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-20 15:13:01
+**Last Update:** 2026-09-20 18:06:44
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Harry and Meghan's media treatment echoes what happened to Diana, Earl Spencer tells BBC
+### 1. Do birds have accents? the regional differences in birdsong
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://theconversation.com/do-birds-have-accents-the-fascinating-regional-differences-in-birdsong-278108">https://theconversation.com/do-birds-have-accents-the-fascinating-regional-differences-in-birdsong-278108</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49775579">https://news.ycombinator.com/item?id=49775579</a></p>
+<p>Points: 16</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://theconversation.com/do-birds-have-accents-the-fascinating-regional-differences-in-birdsong-278108](https://theconversation.com/do-birds-have-accents-the-fascinating-regional-differences-in-birdsong-278108)
+
+---
+
+### 2. Qwen-Image-2.1: Compact, efficient, and unified image creation
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://qwen.ai/blog?id=qwen-image-2.1">https://qwen.ai/blog?id=qwen-image-2.1</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49775499">https://news.ycombinator.com/item?id=49775499</a></p>
+<p>Points: 77</p>
+<p># Comments: 27</p>
+
+🔗 **Read more:** [https://qwen.ai/blog?id=qwen-image-2.1](https://qwen.ai/blog?id=qwen-image-2.1)
+
+---
+
+### 3. Chat-based Large Language Models replicate the mechanisms of a psychic's con
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://softwarecrisis.dev/letters/llmentalist/">https://softwarecrisis.dev/letters/llmentalist/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49775104">https://news.ycombinator.com/item?id=49775104</a></p>
+<p>Points: 64</p>
+<p># Comments: 36</p>
+
+🔗 **Read more:** [https://softwarecrisis.dev/letters/llmentalist/](https://softwarecrisis.dev/letters/llmentalist/)
+
+---
+
+### 4. Harry and Meghan's media treatment echoes what happened to Diana, Earl Spencer tells BBC
 
 **Source:** BBC
 
@@ -23,7 +71,7 @@ Princess Diana's brother describes press coverage of Prince Harry and Meghan as 
 
 ---
 
-### 2. Watch: Diana's brother says press has 'cancerous influence' on Harry and Meghan's lives
+### 5. Watch: Diana's brother says press has 'cancerous influence' on Harry and Meghan's lives
 
 **Source:** BBC
 
@@ -36,7 +84,7 @@ Earl Spencer says that he can see echoes of Princess Diana's treatment from the 
 
 ---
 
-### 3. Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says
+### 6. Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says
 
 **Source:** BBC
 
@@ -49,46 +97,46 @@ Moscow's mayor says 450 drones were downed during the overnight barrage, in whic
 
 ---
 
-### 4. What are Iran’s latest conditions to end its war with the US?
+### 7. Humanoid robots fight in cage match in Shanghai
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Iran&#039;s latest set of conditions come as growing regional escalations causes oil prices to cross $100 per barrel.
+Humanoid robots fight in cage match in Shanghai
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/20/what-are-irans-new-conditions-to-end-its-war-with-the-us?traffic_source=rss](https://www.aljazeera.com/news/2026/9/20/what-are-irans-new-conditions-to-end-its-war-with-the-us?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/20/humanoid-robots-fight-in-cage-match-in-shanghai?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/20/humanoid-robots-fight-in-cage-match-in-shanghai?traffic_source=rss)
 
 ---
 
-### 5. Anthems, transport, housing: What’s gone wrong at the Asian Games in Japan?
+### 8. The pro-Israel censors are starting to lose
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Accommodation crisis, transport gaffes, and national anthem mix-ups headlined the Games ahead their opening in Japan.
+The Macklemore controversy demonstrates that the cost of speaking up for Palestine is diminishing.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/20/anthems-transport-housing-whats-gone-wrong-at-the-asian-games-in-japan?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/20/anthems-transport-housing-whats-gone-wrong-at-the-asian-games-in-japan?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/9/20/the-pro-israel-censors-are-starting-to-lose?traffic_source=rss](https://www.aljazeera.com/opinions/2026/9/20/the-pro-israel-censors-are-starting-to-lose?traffic_source=rss)
 
 ---
 
-### 6. LIVE: Atletico Madrid vs Real Madrid – La Liga
+### 9. Jews and Muslims lived together for centuries. Did Zionism tear them apart?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Follow updates from the Madrid derby, including the build-up, analysis and live text commentary of the game.
+On Deja Vu, Rabbi Haim Sofer explores the history of the Neturei Karta movement’s opposition to Zionism.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/liveblog/2026/9/20/live-atletico-madrid-vs-real-madrid-la-liga-2?traffic_source=rss](https://www.aljazeera.com/sports/liveblog/2026/9/20/live-atletico-madrid-vs-real-madrid-la-liga-2?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/deja-vu-2/2026/9/20/jews-and-muslims-lived-together-for-centuries-did-zionism-tear-them-apart-2?traffic_source=rss](https://www.aljazeera.com/video/deja-vu-2/2026/9/20/jews-and-muslims-lived-together-for-centuries-did-zionism-tear-them-apart-2?traffic_source=rss)
 
 ---
 
-### 7. Wildfire Breezy, Starr, Texas
+### 10. Wildfire Breezy, Starr, Texas
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Wildfires
 
 ---
 
-### 8. Wildfire FLORISTON, Nevada, California
+### 11. Wildfire FLORISTON, Nevada, California
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Wildfires
 
 ---
 
-### 9. Typhoon Dujuan
+### 12. Typhoon Dujuan
 
 **Source:** NASA
 

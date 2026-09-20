@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-20 18:06:44
+**Last Update:** 2026-09-20 19:49:07
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Do birds have accents? the regional differences in birdsong
+### 1. One-Electron Universe
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://theconversation.com/do-birds-have-accents-the-fascinating-regional-differences-in-birdsong-278108">https://theconversation.com/do-birds-have-accents-the-fascinating-regional-differences-in-birdsong-278108</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49775579">https://news.ycombinator.com/item?id=49775579</a></p>
-<p>Points: 16</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://en.wikipedia.org/wiki/One-electron_universe">https://en.wikipedia.org/wiki/One-electron_universe</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49776826">https://news.ycombinator.com/item?id=49776826</a></p>
+<p>Points: 19</p>
+<p># Comments: 6</p>
 
-🔗 **Read more:** [https://theconversation.com/do-birds-have-accents-the-fascinating-regional-differences-in-birdsong-278108](https://theconversation.com/do-birds-have-accents-the-fascinating-regional-differences-in-birdsong-278108)
+🔗 **Read more:** [https://en.wikipedia.org/wiki/One-electron_universe](https://en.wikipedia.org/wiki/One-electron_universe)
 
 ---
 
-### 2. Qwen-Image-2.1: Compact, efficient, and unified image creation
+### 2. Singapore Is Paying People to Put Down Their Phones and Read Books
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://qwen.ai/blog?id=qwen-image-2.1">https://qwen.ai/blog?id=qwen-image-2.1</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49775499">https://news.ycombinator.com/item?id=49775499</a></p>
-<p>Points: 77</p>
-<p># Comments: 27</p>
+<p>Article URL: <a href="https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books">https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49776717">https://news.ycombinator.com/item?id=49776717</a></p>
+<p>Points: 35</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://qwen.ai/blog?id=qwen-image-2.1](https://qwen.ai/blog?id=qwen-image-2.1)
+🔗 **Read more:** [https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books](https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books)
 
 ---
 
-### 3. Chat-based Large Language Models replicate the mechanisms of a psychic's con
+### 3. Pirate Face Rescues LLM Models from Deletion
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://softwarecrisis.dev/letters/llmentalist/">https://softwarecrisis.dev/letters/llmentalist/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49775104">https://news.ycombinator.com/item?id=49775104</a></p>
-<p>Points: 64</p>
-<p># Comments: 36</p>
+<p>Article URL: <a href="https://pirateface.co/">https://pirateface.co/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49776699">https://news.ycombinator.com/item?id=49776699</a></p>
+<p>Points: 30</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://softwarecrisis.dev/letters/llmentalist/](https://softwarecrisis.dev/letters/llmentalist/)
+🔗 **Read more:** [https://pirateface.co/](https://pirateface.co/)
 
 ---
 
@@ -71,68 +71,68 @@ Princess Diana's brother describes press coverage of Prince Harry and Meghan as 
 
 ---
 
-### 5. Watch: Diana's brother says press has 'cancerous influence' on Harry and Meghan's lives
+### 5. Key takeaways from BBC interview as Earl Spencer defends claims about King
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Earl Spencer says that he can see echoes of Princess Diana's treatment from the press in the way Harry and Meghan are scrutinised.
+Earl Spencer speaks to the BBC's Laura Kuenssberg ahead of the publication of his book about his sister Diana, Princess of Wales.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cv1j4794gn6po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cv1j4794gn6po?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cry4z1xykeleo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cry4z1xykeleo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says
+### 6. Watch: Emotional Earl Spencer says he misses sister Diana every day
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Moscow's mayor says 450 drones were downed during the overnight barrage, in which two people died.
+"This is my swan song too. I'm not here to bang on about Diana, this is my final word, celebration of her", Earl Spencer told presenter Laura Kuenssberg.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cw62mdrjll18o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cw62mdrjll18o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Humanoid robots fight in cage match in Shanghai
+### 7. Kenya’s Ngetich breaks women-only half-marathon world record by a second
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Humanoid robots fight in cage match in Shanghai
+Agnes Ngetich finished 50 seconds ahead of compatriot Veronica Loleo, who came second.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/20/humanoid-robots-fight-in-cage-match-in-shanghai?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/20/humanoid-robots-fight-in-cage-match-in-shanghai?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/20/kenyas-ngetich-breaks-women-only-half-marathon-world-record-by-a-second?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/20/kenyas-ngetich-breaks-women-only-half-marathon-world-record-by-a-second?traffic_source=rss)
 
 ---
 
-### 8. The pro-Israel censors are starting to lose
+### 8. Trump says monumental arch in Washington, DC will also be military complex
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The Macklemore controversy demonstrates that the cost of speaking up for Palestine is diminishing.
+Plans for the arch had been met with opposition along with other projects by the US president to reshape capital city.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/9/20/the-pro-israel-censors-are-starting-to-lose?traffic_source=rss](https://www.aljazeera.com/opinions/2026/9/20/the-pro-israel-censors-are-starting-to-lose?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/20/trump-says-monumental-arch-in-washington-dc-will-also-be-military-complex?traffic_source=rss](https://www.aljazeera.com/news/2026/9/20/trump-says-monumental-arch-in-washington-dc-will-also-be-military-complex?traffic_source=rss)
 
 ---
 
-### 9. Jews and Muslims lived together for centuries. Did Zionism tear them apart?
+### 9. Venezuela quakes rescue dog ‘Tsunami’ honoured with statue
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-On Deja Vu, Rabbi Haim Sofer explores the history of the Neturei Karta movement’s opposition to Zionism.
+A Venezuelan rescue dog has been honoured with a statue for his search-and-rescue work after earthquakes in June.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/deja-vu-2/2026/9/20/jews-and-muslims-lived-together-for-centuries-did-zionism-tear-them-apart-2?traffic_source=rss](https://www.aljazeera.com/video/deja-vu-2/2026/9/20/jews-and-muslims-lived-together-for-centuries-did-zionism-tear-them-apart-2?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/20/venezuela-quakes-rescue-dog-tsunami-honoured-with-statue?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/20/venezuela-quakes-rescue-dog-tsunami-honoured-with-statue?traffic_source=rss)
 
 ---
 

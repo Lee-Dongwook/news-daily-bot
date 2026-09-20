@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-20T19:49:07+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "One-Electron Universe",
+            "description": "<p>Article URL: <a href=\"https://en.wikipedia.org/wiki/One-electron_universe\">https://en.wikipedia.org/wiki/One-electron_universe</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49776826\">https://news.ycombinator.com/item?id=49776826</a></p>\n<p>Points: 19</p>\n<p># Comments: 6</p>",
+            "url": "https://en.wikipedia.org/wiki/One-electron_universe",
+            "published": "Sun, 20 Sep 2026 15:28:05 +0000",
+            "fetched": "2026-09-20T19:49:07+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Singapore Is Paying People to Put Down Their Phones and Read Books",
+            "description": "<p>Article URL: <a href=\"https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books\">https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49776717\">https://news.ycombinator.com/item?id=49776717</a></p>\n<p>Points: 35</p>\n<p># Comments: 2</p>",
+            "url": "https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books",
+            "published": "Sun, 20 Sep 2026 15:18:05 +0000",
+            "fetched": "2026-09-20T19:49:07+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Pirate Face Rescues LLM Models from Deletion",
+            "description": "<p>Article URL: <a href=\"https://pirateface.co/\">https://pirateface.co/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49776699\">https://news.ycombinator.com/item?id=49776699</a></p>\n<p>Points: 30</p>\n<p># Comments: 4</p>",
+            "url": "https://pirateface.co/",
+            "published": "Sun, 20 Sep 2026 15:16:07 +0000",
+            "fetched": "2026-09-20T19:49:07+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Harry and Meghan's media treatment echoes what happened to Diana, Earl Spencer tells BBC",
+            "description": "Princess Diana's brother describes press coverage of Prince Harry and Meghan as a \"cancerous influence in their life\" and says he saw his sister cry \"tears of despair\" over interest in her.",
+            "url": "https://www.bbc.co.uk/news/articles/cwj3d7zrgvk1o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 20 Sep 2026 12:23:05 GMT",
+            "fetched": "2026-09-20T19:49:07+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Key takeaways from BBC interview as Earl Spencer defends claims about King",
+            "description": "Earl Spencer speaks to the BBC's Laura Kuenssberg ahead of the publication of his book about his sister Diana, Princess of Wales.",
+            "url": "https://www.bbc.co.uk/news/articles/cry4z1xykeleo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 20 Sep 2026 15:21:19 GMT",
+            "fetched": "2026-09-20T19:49:07+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Emotional Earl Spencer says he misses sister Diana every day",
+            "description": "\"This is my swan song too. I'm not here to bang on about Diana, this is my final word, celebration of her\", Earl Spencer told presenter Laura Kuenssberg.",
+            "url": "https://www.bbc.co.uk/news/videos/cw62mdrjll18o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 20 Sep 2026 15:00:09 GMT",
+            "fetched": "2026-09-20T19:49:07+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Kenya’s Ngetich breaks women-only half-marathon world record by a second",
+            "description": "Agnes Ngetich finished 50 seconds ahead of compatriot Veronica Loleo, who came second.",
+            "url": "https://www.aljazeera.com/sports/2026/9/20/kenyas-ngetich-breaks-women-only-half-marathon-world-record-by-a-second?traffic_source=rss",
+            "published": "Sun, 20 Sep 2026 15:30:10 +0000",
+            "fetched": "2026-09-20T19:49:07+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump says monumental arch in Washington, DC will also be military complex",
+            "description": "Plans for the arch had been met with opposition along with other projects by the US president to reshape capital city.",
+            "url": "https://www.aljazeera.com/news/2026/9/20/trump-says-monumental-arch-in-washington-dc-will-also-be-military-complex?traffic_source=rss",
+            "published": "Sun, 20 Sep 2026 15:16:38 +0000",
+            "fetched": "2026-09-20T19:49:07+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Venezuela quakes rescue dog ‘Tsunami’ honoured with statue",
+            "description": "A Venezuelan rescue dog has been honoured with a statue for his search-and-rescue work after earthquakes in June.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/venezuela-quakes-rescue-dog-tsunami-honoured-with-statue?traffic_source=rss",
+            "published": "Sun, 20 Sep 2026 14:43:49 +0000",
+            "fetched": "2026-09-20T19:49:07+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Breezy, Starr, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24483",
+            "published": "2026-09-16T20:17:00Z",
+            "fetched": "2026-09-20T19:49:07+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire FLORISTON, Nevada, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24488",
+            "published": "2026-09-16T13:01:00Z",
+            "fetched": "2026-09-20T19:49:07+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Dujuan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24317",
+            "published": "2026-09-16T12:00:00Z",
+            "fetched": "2026-09-20T19:49:07+03:30"
+        }
+    ]
+}

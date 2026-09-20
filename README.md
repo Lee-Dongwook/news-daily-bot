@@ -1,73 +1,74 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-20 19:49:07
+**Last Update:** 2026-09-20 21:35:53
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. One-Electron Universe
+### 1. People hate Flock so much its employees are now demoralized and quitting
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://en.wikipedia.org/wiki/One-electron_universe">https://en.wikipedia.org/wiki/One-electron_universe</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49776826">https://news.ycombinator.com/item?id=49776826</a></p>
-<p>Points: 19</p>
-<p># Comments: 6</p>
-
-🔗 **Read more:** [https://en.wikipedia.org/wiki/One-electron_universe](https://en.wikipedia.org/wiki/One-electron_universe)
-
----
-
-### 2. Singapore Is Paying People to Put Down Their Phones and Read Books
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books">https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49776717">https://news.ycombinator.com/item?id=49776717</a></p>
-<p>Points: 35</p>
+<p>Article URL: <a href="https://www.neowin.net/news/people-hate-flock-so-much-that-its-employees-are-now-demoralized-and-thinking-of-quitting/">https://www.neowin.net/news/people-hate-flock-so-much-that-its-employees-are-now-demoralized-and-thinking-of-quitting/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49777872">https://news.ycombinator.com/item?id=49777872</a></p>
+<p>Points: 14</p>
 <p># Comments: 2</p>
 
-🔗 **Read more:** [https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books](https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books)
+🔗 **Read more:** [https://www.neowin.net/news/people-hate-flock-so-much-that-its-employees-are-now-demoralized-and-thinking-of-quitting/](https://www.neowin.net/news/people-hate-flock-so-much-that-its-employees-are-now-demoralized-and-thinking-of-quitting/)
 
 ---
 
-### 3. Pirate Face Rescues LLM Models from Deletion
+### 2. Show HN: Radius – A Meetup.com Alternative
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://pirateface.co/">https://pirateface.co/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49776699">https://news.ycombinator.com/item?id=49776699</a></p>
-<p>Points: 30</p>
-<p># Comments: 4</p>
+<p>Hello HN!<p>I'm relaunching Radius [1] - far too long after the original Show HN [2] (I'll blame the day job for that).<p>Radius started out from my frustration with not knowing what was going on around me.  The initial plan was to "show all and every type of event" from big to small, but over time I narrowed the focus to communities, groups, events, and helping people connect through them.<p>The initial Show HN gave me 150+ comments (surprising, looking back, given how terrible the plain Bootstrap UI was...) with a huge amount of useful feedback and feature requests.  I've spent the time since then working through that, along with additional requests from groups using Radius, and it finally feels ready for a proper relaunch.<p>I've also recently added "Activities" [3] - which are lightweight events, independent of groups, intended to help people find others to do things with - for example:<p>> John is going for a cycle and a coffee in New York at 10am<p>People can join and vote for a time that works for them.<p>I've got a bunch of ideas for where to go next with this, including things like open sourcing and federation, but those are for another day!<p>Any feedback would be greatly appreciated!<p>P.S. it's built with Ruby on Rails, for those interested.  I highly suspect it would have taken me 2 more years to get to this point without Rails!<p>[1] <a href="https://radius.to/" rel="nofollow">https://radius.to/</a><p>[2] <a href="https://news.ycombinator.com/item?id=40717398">https://news.ycombinator.com/item?id=40717398</a><p>[3] <a href="https://radius.to/documentation/activities/post-an-activity" rel="nofollow">https://radius.to/documentation/activities/post-an-activity</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49777539">https://news.ycombinator.com/item?id=49777539</a></p>
+<p>Points: 23</p>
+<p># Comments: 10</p>
 
-🔗 **Read more:** [https://pirateface.co/](https://pirateface.co/)
+🔗 **Read more:** [https://radius.to/](https://radius.to/)
 
 ---
 
-### 4. Harry and Meghan's media treatment echoes what happened to Diana, Earl Spencer tells BBC
+### 3. Prompts Aren't Real
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://evaluation.club">https://evaluation.club</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49777111">https://news.ycombinator.com/item?id=49777111</a></p>
+<p>Points: 40</p>
+<p># Comments: 17</p>
+
+🔗 **Read more:** [https://evaluation.club](https://evaluation.club)
+
+---
+
+### 4. German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Princess Diana's brother describes press coverage of Prince Harry and Meghan as a "cancerous influence in their life" and says he saw his sister cry "tears of despair" over interest in her.
+Exit polls show damaging losses for Merz's centre-right CDU party in the states of Berlin and Mecklenburg-Vorpommern.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwj3d7zrgvk1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwj3d7zrgvk1o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +98,42 @@ Earl Spencer speaks to the BBC's Laura Kuenssberg ahead of the publication of hi
 
 ---
 
-### 7. Kenya’s Ngetich breaks women-only half-marathon world record by a second
+### 7. Trump tariffs hit Canada’s dairy farmers as US sales stall
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Agnes Ngetich finished 50 seconds ahead of compatriot Veronica Loleo, who came second.
+A 50 percent tariff has disrupted dairy exports, leaving Canadian farmers with milk that cannot be redirected overnight.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/20/kenyas-ngetich-breaks-women-only-half-marathon-world-record-by-a-second?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/20/kenyas-ngetich-breaks-women-only-half-marathon-world-record-by-a-second?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/9/20/trump-tariffs-hit-canadas-dairy-farmers-as-us-sales-stall?traffic_source=rss](https://www.aljazeera.com/features/2026/9/20/trump-tariffs-hit-canadas-dairy-farmers-as-us-sales-stall?traffic_source=rss)
 
 ---
 
-### 8. Trump says monumental arch in Washington, DC will also be military complex
+### 8. Meloni promises to ban burqas, niqabs in Italy’s schools
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Plans for the arch had been met with opposition along with other projects by the US president to reshape capital city.
+Prime minister of Italy&#039;s longest serving government since WW2 faces election threat from far-right rival party.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/20/trump-says-monumental-arch-in-washington-dc-will-also-be-military-complex?traffic_source=rss](https://www.aljazeera.com/news/2026/9/20/trump-says-monumental-arch-in-washington-dc-will-also-be-military-complex?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/20/meloni-promises-to-ban-burqas-niqabs-in-italys-schools?traffic_source=rss](https://www.aljazeera.com/news/2026/9/20/meloni-promises-to-ban-burqas-niqabs-in-italys-schools?traffic_source=rss)
 
 ---
 
-### 9. Venezuela quakes rescue dog ‘Tsunami’ honoured with statue
+### 9. Central Colombia forest fire threatens tourist town of Villa de Leyva
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A Venezuelan rescue dog has been honoured with a statue for his search-and-rescue work after earthquakes in June.
+The country has battled multiple wildfires amid record-breaking temperatures fuelled by El Nino and drought conditions.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/20/venezuela-quakes-rescue-dog-tsunami-honoured-with-statue?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/20/venezuela-quakes-rescue-dog-tsunami-honoured-with-statue?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/20/central-colombia-forest-fire-threatens-tourist-town-of-villa-de-leyva?traffic_source=rss](https://www.aljazeera.com/news/2026/9/20/central-colombia-forest-fire-threatens-tourist-town-of-villa-de-leyva?traffic_source=rss)
 
 ---
 

@@ -1,64 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-21 01:10:28
+**Last Update:** 2026-09-21 03:27:23
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Nobody pays for FOSS, we can force them to
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/">https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49780064">https://news.ycombinator.com/item?id=49780064</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/](https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/)
-
----
-
-### 2. OpenAI's Sam Altman to Brief UN Security Council Next Week
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18/">https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49779802">https://news.ycombinator.com/item?id=49779802</a></p>
-<p>Points: 15</p>
-<p># Comments: 5</p>
-
-🔗 **Read more:** [https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18/](https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18/)
-
----
-
-### 3. Frontier Labs Are Selling Garbage to Fools in Washington
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://deadneurons.substack.com/p/frontier-labs-are-selling-garbage">https://deadneurons.substack.com/p/frontier-labs-are-selling-garbage</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49779432">https://news.ycombinator.com/item?id=49779432</a></p>
-<p>Points: 54</p>
-<p># Comments: 13</p>
-
-🔗 **Read more:** [https://deadneurons.substack.com/p/frontier-labs-are-selling-garbage](https://deadneurons.substack.com/p/frontier-labs-are-selling-garbage)
-
----
-
-### 4. German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on
+### 1. German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on
 
 **Source:** BBC
 
@@ -71,7 +23,7 @@ Exit polls show damaging losses for Merz's centre-right CDU party in the states 
 
 ---
 
-### 5. Key takeaways from BBC interview as Earl Spencer defends claims about King
+### 2. Key takeaways from BBC interview as Earl Spencer defends claims about King
 
 **Source:** BBC
 
@@ -84,20 +36,46 @@ Earl Spencer speaks to the BBC's Laura Kuenssberg ahead of the publication of hi
 
 ---
 
-### 6. Watch: Emotional Earl Spencer says he misses sister Diana every day
+### 3. Specialist courts for rape cases to be rolled out across England and Wales
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-"This is my swan song too. I'm not here to bang on about Diana, this is my final word, celebration of her", Earl Spencer told presenter Laura Kuenssberg.
+Funding will allow victims to view proceedings remotely and give evidence from a separate room via video link, the government says.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cw62mdrjll18o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cw62mdrjll18o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5lympv9nw3jo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5lympv9nw3jo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Qatar PM urges Gulf security framework with Iran
+### 4. Polls close in Russian wartime election with ruling party set to dominate
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Russian President Vladimir Putin has cast the vote as a test of support for his ongoing war in Ukraine.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/20/polls-close-in-russian-wartime-election-with-ruling-party-set-to-dominate?traffic_source=rss](https://www.aljazeera.com/news/2026/9/20/polls-close-in-russian-wartime-election-with-ruling-party-set-to-dominate?traffic_source=rss)
+
+---
+
+### 5. France to summon Iran envoy after language centre closure in Tehran
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Iran accuses the French language centre of conducting &#039;illegal acts that violated diplomatic conventions&#039;.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/20/france-to-summon-iran-envoy-after-language-centre-closure-in-tehran?traffic_source=rss](https://www.aljazeera.com/news/2026/9/20/france-to-summon-iran-envoy-after-language-centre-closure-in-tehran?traffic_source=rss)
+
+---
+
+### 6. Qatar PM urges Gulf security framework with Iran
 
 **Source:** Al Jazeera
 
@@ -110,33 +88,7 @@ Qatar’s PM says, the Gulf won&#039;t be the same unless there&#039;s a framewo
 
 ---
 
-### 8. Argentina’s Left stages ‘March of Anger’ over Milei’s austerity measures
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Thousands of protesters took to the streets of Buenos Aires for the ‘March of Anger’.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/20/argentinas-left-stages-march-of-anger-over-mileis-austerity-measures?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/20/argentinas-left-stages-march-of-anger-over-mileis-austerity-measures?traffic_source=rss)
-
----
-
-### 9. Eighteen suspects extradited to US over Haitian president’s 2021 killing
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Federal court in Florida to try men accused of orchestrating the transnational plot to kill Jovenel Moise from US soil.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/20/eighteen-suspects-extradited-to-us-over-haitian-presidents-2021-killing?traffic_source=rss](https://www.aljazeera.com/news/2026/9/20/eighteen-suspects-extradited-to-us-over-haitian-presidents-2021-killing?traffic_source=rss)
-
----
-
-### 10. Wildfire Breezy, Starr, Texas
+### 7. Wildfire Breezy, Starr, Texas
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Wildfires
 
 ---
 
-### 11. Wildfire FLORISTON, Nevada, California
+### 8. Wildfire FLORISTON, Nevada, California
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Typhoon Dujuan
+### 9. Typhoon Dujuan
 
 **Source:** NASA
 

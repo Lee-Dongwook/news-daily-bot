@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-09-21T03:27:23+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
+            "description": "Exit polls show damaging losses for Merz's centre-right CDU party in the states of Berlin and Mecklenburg-Vorpommern.",
+            "url": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 20 Sep 2026 20:21:40 GMT",
+            "fetched": "2026-09-21T03:27:23+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Key takeaways from BBC interview as Earl Spencer defends claims about King",
+            "description": "Earl Spencer speaks to the BBC's Laura Kuenssberg ahead of the publication of his book about his sister Diana, Princess of Wales.",
+            "url": "https://www.bbc.co.uk/news/articles/cry4z1xykeleo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 20 Sep 2026 15:21:19 GMT",
+            "fetched": "2026-09-21T03:27:23+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Specialist courts for rape cases to be rolled out across England and Wales",
+            "description": "Funding will allow victims to view proceedings remotely and give evidence from a separate room via video link, the government says.",
+            "url": "https://www.bbc.co.uk/news/articles/c5lympv9nw3jo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 20 Sep 2026 22:43:31 GMT",
+            "fetched": "2026-09-21T03:27:23+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Polls close in Russian wartime election with ruling party set to dominate",
+            "description": "Russian President Vladimir Putin has cast the vote as a test of support for his ongoing war in Ukraine.",
+            "url": "https://www.aljazeera.com/news/2026/9/20/polls-close-in-russian-wartime-election-with-ruling-party-set-to-dominate?traffic_source=rss",
+            "published": "Sun, 20 Sep 2026 22:54:00 +0000",
+            "fetched": "2026-09-21T03:27:23+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "France to summon Iran envoy after language centre closure in Tehran",
+            "description": "Iran accuses the French language centre of conducting &#039;illegal acts that violated diplomatic conventions&#039;.",
+            "url": "https://www.aljazeera.com/news/2026/9/20/france-to-summon-iran-envoy-after-language-centre-closure-in-tehran?traffic_source=rss",
+            "published": "Sun, 20 Sep 2026 22:06:22 +0000",
+            "fetched": "2026-09-21T03:27:23+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Qatar PM urges Gulf security framework with Iran",
+            "description": "Qatar’s PM says, the Gulf won&#039;t be the same unless there&#039;s a framework ensuring no one is a threat to each other.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/qatar-pm-urges-gulf-security-framework-with-iran?traffic_source=rss",
+            "published": "Sun, 20 Sep 2026 21:00:15 +0000",
+            "fetched": "2026-09-21T03:27:23+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Breezy, Starr, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24483",
+            "published": "2026-09-16T20:17:00Z",
+            "fetched": "2026-09-21T03:27:23+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire FLORISTON, Nevada, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24488",
+            "published": "2026-09-16T13:01:00Z",
+            "fetched": "2026-09-21T03:27:23+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Dujuan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24317",
+            "published": "2026-09-16T12:00:00Z",
+            "fetched": "2026-09-21T03:27:23+03:30"
+        }
+    ]
+}

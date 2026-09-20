@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-21 00:46:33
+**Last Update:** 2026-09-21 01:10:28
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. OpenAI's Sam Altman to Brief UN Security Council Next Week
+### 1. Nobody pays for FOSS, we can force them to
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/">https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49780064">https://news.ycombinator.com/item?id=49780064</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/](https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/)
+
+---
+
+### 2. OpenAI's Sam Altman to Brief UN Security Council Next Week
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18/">https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49779802">https://news.ycombinator.com/item?id=49779802</a></p>
-<p>Points: 14</p>
+<p>Points: 15</p>
 <p># Comments: 5</p>
 
 🔗 **Read more:** [https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18/](https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18/)
 
 ---
 
-### 2. Frontier Labs Are Selling Garbage to Fools in Washington
+### 3. Frontier Labs Are Selling Garbage to Fools in Washington
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://deadneurons.substack.com/p/frontier-labs-are-selling-garbage">https://deadneurons.substack.com/p/frontier-labs-are-selling-garbage</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49779432">https://news.ycombinator.com/item?id=49779432</a></p>
-<p>Points: 48</p>
-<p># Comments: 12</p>
+<p>Points: 54</p>
+<p># Comments: 13</p>
 
 🔗 **Read more:** [https://deadneurons.substack.com/p/frontier-labs-are-selling-garbage](https://deadneurons.substack.com/p/frontier-labs-are-selling-garbage)
-
----
-
-### 3. The Hierarchy of Money
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://gregorygundersen.com/blog/2026/09/20/hierarchy-of-money/">https://gregorygundersen.com/blog/2026/09/20/hierarchy-of-money/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49779253">https://news.ycombinator.com/item?id=49779253</a></p>
-<p>Points: 30</p>
-<p># Comments: 6</p>
-
-🔗 **Read more:** [https://gregorygundersen.com/blog/2026/09/20/hierarchy-of-money/](https://gregorygundersen.com/blog/2026/09/20/hierarchy-of-money/)
 
 ---
 

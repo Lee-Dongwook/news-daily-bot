@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-22 00:22:04
+**Last Update:** 2026-09-22 00:39:04
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://mimo.xiaomi.com/mimo-v2-6">https://mimo.xiaomi.com/mimo-v2-6</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49792730">https://news.ycombinator.com/item?id=49792730</a></p>
-<p>Points: 74</p>
-<p># Comments: 12</p>
+<p>Points: 130</p>
+<p># Comments: 38</p>
 
 🔗 **Read more:** [https://mimo.xiaomi.com/mimo-v2-6](https://mimo.xiaomi.com/mimo-v2-6)
 
@@ -35,7 +35,7 @@
 **Description:**
 <p>Article URL: <a href="https://poloclub.github.io/transformer-explainer/">https://poloclub.github.io/transformer-explainer/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49792342">https://news.ycombinator.com/item?id=49792342</a></p>
-<p>Points: 9</p>
+<p>Points: 20</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://poloclub.github.io/transformer-explainer/](https://poloclub.github.io/transformer-explainer/)
@@ -52,8 +52,8 @@
 <p>The US Department of Agriculture (USDA) publishes daily food price data for about 290 commodities on:<p>- what growers were paid at shipping point<p>- what buyers paid at the big city wholesale markets<p>- what prices supermarkets advertised in their weekly ads<p>This data comes out as dozens of separate text reports and PDFs, one per market, with no history and no way to see how prices change over time.<p>I think this should be public data that is easy to access and understand, so I built an open-source tracker for it.<p>Github: <a href="https://github.com/kadoa-org/food-price-monitor" rel="nofollow">https://github.com/kadoa-org/food-price-monitor</a></p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49792076">https://news.ycombinator.com/item?id=49792076</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
+<p>Points: 10</p>
+<p># Comments: 2</p>
 
 🔗 **Read more:** [https://www.kadoa.com/food-prices](https://www.kadoa.com/food-prices)
 
@@ -72,7 +72,20 @@ Prime Minister Andy Burnham said further issues today "cause even greater concer
 
 ---
 
-### 5. Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war
+### 5. UK to provide Saudi Arabia with 'defensive' military support, says Burnham
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The prime minister "defensive air-to-air refuelling" is to be provided following a request from Saudi Arabia, after it faced attacks from Houthi militants in Yemen.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqlykpe4dk0yo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqlykpe4dk0yo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war
 
 **Source:** BBC
 
@@ -82,19 +95,6 @@ Prime Minister Andy Burnham said further issues today "cause even greater concer
 The BBC's Frank Gardner speaks to some of those who have fled the war by crossing the Red Sea to Djibouti.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. First UK charges brought over 1994 Rwanda genocide
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Dr Vincent Brown, formerly Dr Vincent Bajinya, 65, will appear at Westminster Magistrates’ Court on Tuesday charged with seven offences.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr2092216nywo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr2092216nywo?at_medium=RSS&at_campaign=rss)
 
 ---
 

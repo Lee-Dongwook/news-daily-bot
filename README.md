@@ -1,73 +1,73 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-21 08:40:09
+**Last Update:** 2026-09-21 13:59:11
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. AI chatbots give wrong answers to financial queries 'most of the time'
+### 1. Jev-Leftpad
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666">https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49783062">https://news.ycombinator.com/item?id=49783062</a></p>
-<p>Points: 10</p>
+<p>Article URL: <a href="https://github.com/f/jev-leftpad">https://github.com/f/jev-leftpad</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49784706">https://news.ycombinator.com/item?id=49784706</a></p>
+<p>Points: 33</p>
+<p># Comments: 13</p>
+
+🔗 **Read more:** [https://github.com/f/jev-leftpad](https://github.com/f/jev-leftpad)
+
+---
+
+### 2. Kev: Tiny Jev-like family of decision models built on top of Qwen3.5
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/jaredpalmer/kev/tree/main">https://github.com/jaredpalmer/kev/tree/main</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49783999">https://news.ycombinator.com/item?id=49783999</a></p>
+<p>Points: 93</p>
+<p># Comments: 46</p>
+
+🔗 **Read more:** [https://github.com/jaredpalmer/kev/tree/main](https://github.com/jaredpalmer/kev/tree/main)
+
+---
+
+### 3. Elektron Machinedrum in the Browser
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://machinedrum-study.pages.dev/">https://machinedrum-study.pages.dev/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49783568">https://news.ycombinator.com/item?id=49783568</a></p>
+<p>Points: 8</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666](https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666)
+🔗 **Read more:** [https://machinedrum-study.pages.dev/](https://machinedrum-study.pages.dev/)
 
 ---
 
-### 2. Winning the Visa Lottery
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.aeaweb.org/research/immigration-restrictions-firms-workers">https://www.aeaweb.org/research/immigration-restrictions-firms-workers</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49782775">https://news.ycombinator.com/item?id=49782775</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://www.aeaweb.org/research/immigration-restrictions-firms-workers](https://www.aeaweb.org/research/immigration-restrictions-firms-workers)
-
----
-
-### 3. Deterministic Core, Non-Deterministic Shell
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://outdata.net/blog/260803">https://outdata.net/blog/260803</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49782220">https://news.ycombinator.com/item?id=49782220</a></p>
-<p>Points: 18</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://outdata.net/blog/260803](https://outdata.net/blog/260803)
-
----
-
-### 4. Specialist courts for rape cases to be rolled out across England and Wales
+### 4. Young people aren't snowflakes - mental distress is rising, says head of official review
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Funding will allow victims to view proceedings remotely and give evidence from a separate room via video link, the government says.
+Speaking exclusively to the BBC, Prof Peter Fonagy says being young is much harder now than it was.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5lympv9nw3jo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5lympv9nw3jo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqzrz0z4plk1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqzrz0z4plk1o?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +97,42 @@ Men who sexually abused them as underage girls are still walking around the city
 
 ---
 
-### 7. Massive explosions at Syrian army weapons depot near Aleppo
+### 7. Mystery object spotted hovering over Tehran
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Explosions rocked a Syrian army ammunition depot south of Aleppo, injuring at least four people.
+A mysterious object filmed hovering over Tehran has sparked online speculation.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/21/09-21-aleppo-depot-explosions-reported-mp4?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/21/09-21-aleppo-depot-explosions-reported-mp4?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/21/mystery-object-spotted-hovering-over-tehran?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/21/mystery-object-spotted-hovering-over-tehran?traffic_source=rss)
 
 ---
 
-### 8. Imran Khan’s family says three sisters detained ahead of Islamabad march
+### 8. A simple guide to the Yemen conflict
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Imran Khan’s family says three of his sisters have been detained in Lahore ahead of a march demanding his release.
+Here’s a brief history of Yemen’s war - from the Houthi takeover in 2014 to the latest escalation.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/21/09-21-aleema-khan-arrest-sv?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/21/09-21-aleema-khan-arrest-sv?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/21/a-brief-history-of-the-yemen-conflict?traffic_source=rss](https://www.aljazeera.com/news/2026/9/21/a-brief-history-of-the-yemen-conflict?traffic_source=rss)
 
 ---
 
-### 9. Powerful explosions at Syrian army site near Aleppo injure at least four
+### 9. Do Israelis feel any safer now than they did on October 6, 2023?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Officials urge civilians to stay away from the site in al-Eis near Aleppo after a series of explosions.
+Despite having rarely been more secure, public concerns about security continue to dominate the election.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/21/powerful-explosions-at-syrian-army-site-near-aleppo-injures-at-least-four?traffic_source=rss](https://www.aljazeera.com/news/2026/9/21/powerful-explosions-at-syrian-army-site-near-aleppo-injures-at-least-four?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/21/do-israelis-feel-any-safer-now-than-they-did-on-october-6-2023?traffic_source=rss](https://www.aljazeera.com/news/2026/9/21/do-israelis-feel-any-safer-now-than-they-did-on-october-6-2023?traffic_source=rss)
 
 ---
 

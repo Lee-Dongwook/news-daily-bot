@@ -1,72 +1,61 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-21 20:37:32
+**Last Update:** 2026-09-22 00:22:04
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: Foremerge – Catch Intent Conflicts Between Parallel Coding Agents
+### 1. Xiaomi MiMo v2.6
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>At, GPTree, we run several coding agents across our team on one repo using parallel worktrees. Apart from wasted time reviewing and fixing conflicts at PR time, the failures that hurt the most are when multiple plans or tickets cause architecture changes that cannot both be true. Ex. one agent replaces a class while another one is in the process of extending it. Git only notices if the resulting patches happen to touch the same lines and the review only catches it if they are familiar with both tickets.<p>Foremerge is a local "git like" coordination layer that sits above git (ie. does not interact with or change the way git and worktrees function), Before editing each agent publishes an intent and the scopes it will change, with the operation it plans to complete on each one.<p><pre><code>    foremerge intent publish --agent "$A" \
-        --summary "Replace PaymentService with StripePaymentService" \
-        --scope symbol:PaymentService=replace
-    foremerge intent publish --agent "$B" \
-        --summary "Add PayPal support to PaymentService" \
-        --scope symbol:PaymentService=extend
-</code></pre>
-The publish by the 2nd agent returns a HIGH destructive_vs_additive finding before writing any code. Agents keep their own worktrees and the shared state is one SQLite file in gits common direectory. No hooks, no merge drivers, nothing rewrites your history.<p>It ships as one Rust binary with a CLI and MCP server with 18 tools and `foremerge setup all` wires it into Claude Code, Codex and Cursor. Because the protocol has nothing provider specific, a Claude agent and a Codex agent coordinate through the same store. Before any work is accepted, Foremerge runs a named check that you configured against the exact git state of the change. An agent that says tests pass is recorded but it dosnt satisfy the acceptance gate without running the check itself.<p>Detection is deterministic, no judge model reading your code. HIGH conflicts are only asserted for declared operations, ie. matches inferred from prose cap out below high. Claims are advisory leases, not locks so two agents can still hold the same scope without deadlock. The open source version is single matching and so not a distributed consensus.<p>We have tested this up to 98 parallel agents all working on the same repo with zero conflicts (was supposed to be 100 but 2 agents failed to run due to resource limitations)<p>I replayed 76 intents on my own agents from a build last week in the order they happened. The sample had exactly 1 conflict (which was flagged) and the review found a blind spot where one agent claimed scope by class name and the other claimed it by an internal method. We are working on fixing that for the next release.<p>Setup is a 30s install by pasting the quickstart instructions from the readme.md into your agent or manually: 
-`curl -fsSL <a href="https://foremerge.com/install.sh" rel="nofollow">https://foremerge.com/install.sh</a> | sh` or `cargo install
---locked foremerge`, then `foremerge init && foremerge setup all` in a repo.
-Apache-2.0.<p>The feedback I want most is which conflicts between your agents plans would you actually want flagged and which would you tollerate as noise?<p>Repo here: <a href="https://github.com/naw103/foremerge" rel="nofollow">https://github.com/naw103/foremerge</a>
-Website: <a href="https://foremerge.com" rel="nofollow">https://foremerge.com</a><p>More information on the problems this solves: <a href="https://foremerge.com/blog/" rel="nofollow">https://foremerge.com/blog/</a></p>
+<p>Article URL: <a href="https://mimo.xiaomi.com/mimo-v2-6">https://mimo.xiaomi.com/mimo-v2-6</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49792730">https://news.ycombinator.com/item?id=49792730</a></p>
+<p>Points: 74</p>
+<p># Comments: 12</p>
+
+🔗 **Read more:** [https://mimo.xiaomi.com/mimo-v2-6](https://mimo.xiaomi.com/mimo-v2-6)
+
+---
+
+### 2. Transformers Explained Visually
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://poloclub.github.io/transformer-explainer/">https://poloclub.github.io/transformer-explainer/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49792342">https://news.ycombinator.com/item?id=49792342</a></p>
+<p>Points: 9</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://poloclub.github.io/transformer-explainer/](https://poloclub.github.io/transformer-explainer/)
+
+---
+
+### 3. Show HN: A website that tracks US food prices every day
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>The US Department of Agriculture (USDA) publishes daily food price data for about 290 commodities on:<p>- what growers were paid at shipping point<p>- what buyers paid at the big city wholesale markets<p>- what prices supermarkets advertised in their weekly ads<p>This data comes out as dozens of separate text reports and PDFs, one per market, with no history and no way to see how prices change over time.<p>I think this should be public data that is easy to access and understand, so I built an open-source tracker for it.<p>Github: <a href="https://github.com/kadoa-org/food-price-monitor" rel="nofollow">https://github.com/kadoa-org/food-price-monitor</a></p>
 <hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49789356">https://news.ycombinator.com/item?id=49789356</a></p>
-<p>Points: 8</p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49792076">https://news.ycombinator.com/item?id=49792076</a></p>
+<p>Points: 6</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://github.com/naw103/foremerge](https://github.com/naw103/foremerge)
-
----
-
-### 2. This Digital Radio Gets Messages to the World’s Remotest Locations
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://spectrum.ieee.org/hermes-shortwave-radio-digital-data">https://spectrum.ieee.org/hermes-shortwave-radio-digital-data</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49789228">https://news.ycombinator.com/item?id=49789228</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://spectrum.ieee.org/hermes-shortwave-radio-digital-data](https://spectrum.ieee.org/hermes-shortwave-radio-digital-data)
-
----
-
-### 3. Fable 5 – Median thinking declined in August
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://twitter.com/Lon/status/2101793422487204027">https://twitter.com/Lon/status/2101793422487204027</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49789224">https://news.ycombinator.com/item?id=49789224</a></p>
-<p>Points: 23</p>
-<p># Comments: 8</p>
-
-🔗 **Read more:** [https://twitter.com/Lon/status/2101793422487204027](https://twitter.com/Lon/status/2101793422487204027)
+🔗 **Read more:** [https://www.kadoa.com/food-prices](https://www.kadoa.com/food-prices)
 
 ---
 
@@ -77,7 +66,7 @@ Website: <a href="https://foremerge.com" rel="nofollow">https://foremerge.com</a
 **Category:** world
 
 **Description:**
-Airlines are angry about the delays, with EasyJet saying the latest incident "once again calls into question the resilience" of the system.
+Prime Minister Andy Burnham said further issues today "cause even greater concern" about the UK's air traffic control and the head of the organisation that runs it.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqp80p78mxx5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqp80p78mxx5o?at_medium=RSS&at_campaign=rss)
 
@@ -109,42 +98,42 @@ Dr Vincent Brown, formerly Dr Vincent Bajinya, 65, will appear at Westminster Ma
 
 ---
 
-### 7. State of world getting worse as UN Security Council paralysed: Guterres
+### 7. Trump speech inaudible as US networks boycott White House event
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The UN chief&#039;s mandate ends on December 31 this year, with a successor yet to be named.
+US President Trump unveiled a new White House helicopter pad as major US TV networks stayed away in protest.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/21/state-of-world-getting-worse-as-un-security-council-paralysed-guterres?traffic_source=rss](https://www.aljazeera.com/news/2026/9/21/state-of-world-getting-worse-as-un-security-council-paralysed-guterres?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/21/trump-speech-inaudible-as-us-networks-boycott-white-house-event?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/21/trump-speech-inaudible-as-us-networks-boycott-white-house-event?traffic_source=rss)
 
 ---
 
-### 8. Antonio Guterres: Can the UN still meet today’s global crises?
+### 8. Putin’s party wins supermajority in Russia’s parliamentary vote
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Al Jazeera’s James Bays sits down with United Nations Secretary-General Antonio Guterres.
+Victory of United Russia party strengthens Putin&#039;s hand even as the war with Ukraine grows more unpopular.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/on-the-record/2026/9/21/antonio-guterres-can-the-un-still-meet-todays-global-crises?traffic_source=rss](https://www.aljazeera.com/video/on-the-record/2026/9/21/antonio-guterres-can-the-un-still-meet-todays-global-crises?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/21/pro-putin-party-wins-supermajority-amid-ramped-up-ukrainian-attacks?traffic_source=rss](https://www.aljazeera.com/news/2026/9/21/pro-putin-party-wins-supermajority-amid-ramped-up-ukrainian-attacks?traffic_source=rss)
 
 ---
 
-### 9. US threatens to ground Iranian airlines worldwide from Wednesday
+### 9. UN Chief Guterres calls for ban on ‘killer robots’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Treasury Secretary says airports and companies servicing Iranian carriers risk being cut off from the US dollar system.
+In this episode of On the Record, UN Secretary-General António Guterres calls for ban on autonomous ‘killer robots’.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/21/us-threatens-to-ground-iranian-airlines-worldwide-from-wednesday?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/21/us-threatens-to-ground-iranian-airlines-worldwide-from-wednesday?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/21/un-chief-guterres-calls-for-ban-on-killer?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/21/un-chief-guterres-calls-for-ban-on-killer?traffic_source=rss)
 
 ---
 

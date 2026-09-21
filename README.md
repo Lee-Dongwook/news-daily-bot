@@ -1,61 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-22 00:39:04
+**Last Update:** 2026-09-22 03:24:54
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Xiaomi MiMo v2.6
+### 1. Spymarks, Not Watermarks
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://mimo.xiaomi.com/mimo-v2-6">https://mimo.xiaomi.com/mimo-v2-6</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49792730">https://news.ycombinator.com/item?id=49792730</a></p>
-<p>Points: 130</p>
-<p># Comments: 38</p>
+<p>Article URL: <a href="https://brand.io/article/spymarks/">https://brand.io/article/spymarks/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49794615">https://news.ycombinator.com/item?id=49794615</a></p>
+<p>Points: 16</p>
+<p># Comments: 6</p>
 
-🔗 **Read more:** [https://mimo.xiaomi.com/mimo-v2-6](https://mimo.xiaomi.com/mimo-v2-6)
+🔗 **Read more:** [https://brand.io/article/spymarks/](https://brand.io/article/spymarks/)
 
 ---
 
-### 2. Transformers Explained Visually
+### 2. Data Protection Commission fines Google €403M over processing of location data
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://poloclub.github.io/transformer-explainer/">https://poloclub.github.io/transformer-explainer/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49792342">https://news.ycombinator.com/item?id=49792342</a></p>
-<p>Points: 20</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.dataprotection.ie/en/news-media/latest-news/data-protection-commission-fines-google-eu403-million-following-inquiry-googles-processing-location">https://www.dataprotection.ie/en/news-media/latest-news/data-protection-commission-fines-google-eu403-million-following-inquiry-googles-processing-location</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49794354">https://news.ycombinator.com/item?id=49794354</a></p>
+<p>Points: 48</p>
+<p># Comments: 12</p>
 
-🔗 **Read more:** [https://poloclub.github.io/transformer-explainer/](https://poloclub.github.io/transformer-explainer/)
+🔗 **Read more:** [https://www.dataprotection.ie/en/news-media/latest-news/data-protection-commission-fines-google-eu403-million-following-inquiry-googles-processing-location](https://www.dataprotection.ie/en/news-media/latest-news/data-protection-commission-fines-google-eu403-million-following-inquiry-googles-processing-location)
 
 ---
 
-### 3. Show HN: A website that tracks US food prices every day
+### 3. I don't want to read what you didn't write
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>The US Department of Agriculture (USDA) publishes daily food price data for about 290 commodities on:<p>- what growers were paid at shipping point<p>- what buyers paid at the big city wholesale markets<p>- what prices supermarkets advertised in their weekly ads<p>This data comes out as dozens of separate text reports and PDFs, one per market, with no history and no way to see how prices change over time.<p>I think this should be public data that is easy to access and understand, so I built an open-source tracker for it.<p>Github: <a href="https://github.com/kadoa-org/food-price-monitor" rel="nofollow">https://github.com/kadoa-org/food-price-monitor</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49792076">https://news.ycombinator.com/item?id=49792076</a></p>
-<p>Points: 10</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/">https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49794330">https://news.ycombinator.com/item?id=49794330</a></p>
+<p>Points: 106</p>
+<p># Comments: 35</p>
 
-🔗 **Read more:** [https://www.kadoa.com/food-prices](https://www.kadoa.com/food-prices)
+🔗 **Read more:** [https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/](https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/)
 
 ---
 
@@ -79,7 +78,7 @@ Prime Minister Andy Burnham said further issues today "cause even greater concer
 **Category:** world
 
 **Description:**
-The prime minister "defensive air-to-air refuelling" is to be provided following a request from Saudi Arabia, after it faced attacks from Houthi militants in Yemen.
+The prime minister says "defensive air-to-air refuelling" is to be provided following a request from Saudi Arabia, after it faced attacks from the Houthis in Yemen.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqlykpe4dk0yo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqlykpe4dk0yo?at_medium=RSS&at_campaign=rss)
 
@@ -98,7 +97,33 @@ The BBC's Frank Gardner speaks to some of those who have fled the war by crossin
 
 ---
 
-### 7. Trump speech inaudible as US networks boycott White House event
+### 7. How thousands of migrants stranded in Ceuta are surviving
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Authorities estimate that at least 10,000 people remain in the enclave of Ceuta after a record surge in July.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/21/how-thousands-of-migrants-stranded-in-ceuta-are-surviving?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/21/how-thousands-of-migrants-stranded-in-ceuta-are-surviving?traffic_source=rss)
+
+---
+
+### 8. Former ‘death squad’ leader appears in military trial in The Gambia
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Sanna Manjang faces court for deserting army in 2017 after end of Jammeh&#039;s 20-year rule.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/21/former-death-squad-leader-appears-in-military-trial-in-the-gambia?traffic_source=rss](https://www.aljazeera.com/news/2026/9/21/former-death-squad-leader-appears-in-military-trial-in-the-gambia?traffic_source=rss)
+
+---
+
+### 9. Trump speech inaudible as US networks boycott White House event
 
 **Source:** Al Jazeera
 
@@ -108,32 +133,6 @@ The BBC's Frank Gardner speaks to some of those who have fled the war by crossin
 US President Trump unveiled a new White House helicopter pad as major US TV networks stayed away in protest.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/21/trump-speech-inaudible-as-us-networks-boycott-white-house-event?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/21/trump-speech-inaudible-as-us-networks-boycott-white-house-event?traffic_source=rss)
-
----
-
-### 8. Putin’s party wins supermajority in Russia’s parliamentary vote
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Victory of United Russia party strengthens Putin&#039;s hand even as the war with Ukraine grows more unpopular.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/21/pro-putin-party-wins-supermajority-amid-ramped-up-ukrainian-attacks?traffic_source=rss](https://www.aljazeera.com/news/2026/9/21/pro-putin-party-wins-supermajority-amid-ramped-up-ukrainian-attacks?traffic_source=rss)
-
----
-
-### 9. UN Chief Guterres calls for ban on ‘killer robots’
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-In this episode of On the Record, UN Secretary-General António Guterres calls for ban on autonomous ‘killer robots’.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/21/un-chief-guterres-calls-for-ban-on-killer?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/21/un-chief-guterres-calls-for-ban-on-killer?traffic_source=rss)
 
 ---
 

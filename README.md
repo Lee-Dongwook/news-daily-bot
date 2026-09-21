@@ -1,139 +1,150 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-21 14:22:46
+**Last Update:** 2026-09-21 20:21:28
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: Bitcoin-rs – An AI-assisted Bitcoin full node in Rust
+### 1. Show HN: Foremerge – Catch Intent Conflicts Between Parallel Coding Agents
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>I’m building bitcoin-rs, an independent Bitcoin full node in Rust, using AI aggressively for implementation.<p>I think Bitcoin is a particularly good target for AI-era development because implementations can be verified against strong external references. In bitcoin-rs, I use libbitcoinkernel as one of the main compatibility oracles.</p>
+<p>At, GPTree, we run several coding agents across our team on one repo using parallel worktrees. Apart from wasted time reviewing and fixing conflicts at PR time, the failures that hurt the most are when multiple plans or tickets cause architecture changes that cannot both be true. Ex. one agent replaces a class while another one is in the process of extending it. Git only notices if the resulting patches happen to touch the same lines and the review only catches it if they are familiar with both tickets.<p>Foremerge is a local "git like" coordination layer that sits above git (ie. does not interact with or change the way git and worktrees function), Before editing each agent publishes an intent and the scopes it will change, with the operation it plans to complete on each one.<p><pre><code>    foremerge intent publish --agent "$A" \
+        --summary "Replace PaymentService with StripePaymentService" \
+        --scope symbol:PaymentService=replace
+    foremerge intent publish --agent "$B" \
+        --summary "Add PayPal support to PaymentService" \
+        --scope symbol:PaymentService=extend
+</code></pre>
+The publish by the 2nd agent returns a HIGH destructive_vs_additive finding before writing any code. Agents keep their own worktrees and the shared state is one SQLite file in gits common direectory. No hooks, no merge drivers, nothing rewrites your history.<p>It ships as one Rust binary with a CLI and MCP server with 18 tools and `foremerge setup all` wires it into Claude Code, Codex and Cursor. Because the protocol has nothing provider specific, a Claude agent and a Codex agent coordinate through the same store. Before any work is accepted, Foremerge runs a named check that you configured against the exact git state of the change. An agent that says tests pass is recorded but it dosnt satisfy the acceptance gate without running the check itself.<p>Detection is deterministic, no judge model reading your code. HIGH conflicts are only asserted for declared operations, ie. matches inferred from prose cap out below high. Claims are advisory leases, not locks so two agents can still hold the same scope without deadlock. The open source version is single matching and so not a distributed consensus.<p>We have tested this up to 98 parallel agents all working on the same repo with zero conflicts (was supposed to be 100 but 2 agents failed to run due to resource limitations)<p>I replayed 76 intents on my own agents from a build last week in the order they happened. The sample had exactly 1 conflict (which was flagged) and the review found a blind spot where one agent claimed scope by class name and the other claimed it by an internal method. We are working on fixing that for the next release.<p>Setup is a 30s install by pasting the quickstart instructions from the readme.md into your agent or manually: 
+`curl -fsSL <a href="https://foremerge.com/install.sh" rel="nofollow">https://foremerge.com/install.sh</a> | sh` or `cargo install
+--locked foremerge`, then `foremerge init && foremerge setup all` in a repo.
+Apache-2.0.<p>The feedback I want most is which conflicts between your agents plans would you actually want flagged and which would you tollerate as noise?<p>Repo here: <a href="https://github.com/naw103/foremerge" rel="nofollow">https://github.com/naw103/foremerge</a>
+Website: <a href="https://foremerge.com" rel="nofollow">https://foremerge.com</a><p>More information on the problems this solves: <a href="https://foremerge.com/blog/" rel="nofollow">https://foremerge.com/blog/</a></p>
 <hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49784873">https://news.ycombinator.com/item?id=49784873</a></p>
-<p>Points: 7</p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49789356">https://news.ycombinator.com/item?id=49789356</a></p>
+<p>Points: 4</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://github.com/gosuda/bitcoin-rs](https://github.com/gosuda/bitcoin-rs)
+🔗 **Read more:** [https://github.com/naw103/foremerge](https://github.com/naw103/foremerge)
 
 ---
 
-### 2. Jev-Leftpad
+### 2. Fable 5 – Median thinking declined in August
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/f/jev-leftpad">https://github.com/f/jev-leftpad</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49784706">https://news.ycombinator.com/item?id=49784706</a></p>
-<p>Points: 44</p>
-<p># Comments: 24</p>
+<p>Article URL: <a href="https://twitter.com/Lon/status/2101793422487204027">https://twitter.com/Lon/status/2101793422487204027</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49789224">https://news.ycombinator.com/item?id=49789224</a></p>
+<p>Points: 9</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://github.com/f/jev-leftpad](https://github.com/f/jev-leftpad)
+🔗 **Read more:** [https://twitter.com/Lon/status/2101793422487204027](https://twitter.com/Lon/status/2101793422487204027)
 
 ---
 
-### 3. Kev: Tiny Jev-like family of decision models built on top of Qwen3.5
+### 3. How do Traffic Signals Work (2019)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/jaredpalmer/kev/tree/main">https://github.com/jaredpalmer/kev/tree/main</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49783999">https://news.ycombinator.com/item?id=49783999</a></p>
-<p>Points: 100</p>
-<p># Comments: 49</p>
+<p>Article URL: <a href="https://practical.engineering/blog/2019/5/11/how-do-traffic-signals-work">https://practical.engineering/blog/2019/5/11/how-do-traffic-signals-work</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49789081">https://news.ycombinator.com/item?id=49789081</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://github.com/jaredpalmer/kev/tree/main](https://github.com/jaredpalmer/kev/tree/main)
+🔗 **Read more:** [https://practical.engineering/blog/2019/5/11/how-do-traffic-signals-work](https://practical.engineering/blog/2019/5/11/how-do-traffic-signals-work)
 
 ---
 
-### 4. Young people aren't snowflakes - mental distress is rising, says head of official review
+### 4. Airlines criticise air traffic control as second glitch causes more disruption
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Speaking exclusively to the BBC, Prof Peter Fonagy says being young is much harder now than it was.
+Airlines are angry about the delays, with EasyJet saying the latest incident "once again calls into question the resilience" of the system.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqzrz0z4plk1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqzrz0z4plk1o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqp80p78mxx5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqp80p78mxx5o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on
+### 5. Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Exit polls show damaging losses for Merz's centre-right CDU party in the state of Mecklenburg-Vorpommern and Berlin.
+The BBC's Frank Gardner speaks to some of those who have fled the war by crossing the Red Sea to Djibouti.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Oxford grooming gang survivors tell BBC 'hundreds' of abusers still free
+### 6. First UK charges brought over 1994 Rwanda genocide
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Men who sexually abused them as underage girls are still walking around the city, they say.
+Dr Vincent Brown, formerly Dr Vincent Bajinya, 65, will appear at Westminster Magistrates’ Court on Tuesday charged with seven offences.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmpwln09gknzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmpwln09gknzo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr2092216nywo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr2092216nywo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Mystery object spotted hovering over Tehran
+### 7. Antonio Guterres: Can the UN still meet today’s global crises?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A mysterious object filmed hovering over Tehran has sparked online speculation.
+Al Jazeera’s James Bays sits down with United Nations Secretary-General Antonio Guterres.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/21/mystery-object-spotted-hovering-over-tehran?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/21/mystery-object-spotted-hovering-over-tehran?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/on-the-record/2026/9/21/antonio-guterres-can-the-un-still-meet-todays-global-crises?traffic_source=rss](https://www.aljazeera.com/video/on-the-record/2026/9/21/antonio-guterres-can-the-un-still-meet-todays-global-crises?traffic_source=rss)
 
 ---
 
-### 8. A simple guide to the Yemen conflict
+### 8. US threatens to ground Iranian airlines worldwide from Wednesday
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Here’s a brief history of Yemen’s war - from the Houthi takeover in 2014 to the latest escalation.
+Treasury Secretary says airports and companies servicing Iranian carriers risk being cut off from the US dollar system.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/21/a-brief-history-of-the-yemen-conflict?traffic_source=rss](https://www.aljazeera.com/news/2026/9/21/a-brief-history-of-the-yemen-conflict?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/21/us-threatens-to-ground-iranian-airlines-worldwide-from-wednesday?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/21/us-threatens-to-ground-iranian-airlines-worldwide-from-wednesday?traffic_source=rss)
 
 ---
 
-### 9. Do Israelis feel any safer now than they did on October 6, 2023?
+### 9. Poor storage or sabotage? Series of explosions in Syria raises fears
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Despite having rarely been more secure, public concerns about security continue to dominate the election.
+Repeated blasts at military sites expose the risks facing Syria as it rebuilds its army after years of war.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/21/do-israelis-feel-any-safer-now-than-they-did-on-october-6-2023?traffic_source=rss](https://www.aljazeera.com/news/2026/9/21/do-israelis-feel-any-safer-now-than-they-did-on-october-6-2023?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/21/poor-storage-or-sabotage-series-of-explosions-in-syria-raises-fears?traffic_source=rss](https://www.aljazeera.com/news/2026/9/21/poor-storage-or-sabotage-series-of-explosions-in-syria-raises-fears?traffic_source=rss)
 
 ---
 

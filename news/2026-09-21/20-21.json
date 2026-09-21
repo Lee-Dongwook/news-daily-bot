@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-21T20:21:28+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Foremerge – Catch Intent Conflicts Between Parallel Coding Agents",
+            "description": "<p>At, GPTree, we run several coding agents across our team on one repo using parallel worktrees. Apart from wasted time reviewing and fixing conflicts at PR time, the failures that hurt the most are when multiple plans or tickets cause architecture changes that cannot both be true. Ex. one agent replaces a class while another one is in the process of extending it. Git only notices if the resulting patches happen to touch the same lines and the review only catches it if they are familiar with both tickets.<p>Foremerge is a local \"git like\" coordination layer that sits above git (ie. does not interact with or change the way git and worktrees function), Before editing each agent publishes an intent and the scopes it will change, with the operation it plans to complete on each one.<p><pre><code>    foremerge intent publish --agent \"$A\" \\\n        --summary \"Replace PaymentService with StripePaymentService\" \\\n        --scope symbol:PaymentService=replace\n    foremerge intent publish --agent \"$B\" \\\n        --summary \"Add PayPal support to PaymentService\" \\\n        --scope symbol:PaymentService=extend\n</code></pre>\nThe publish by the 2nd agent returns a HIGH destructive_vs_additive finding before writing any code. Agents keep their own worktrees and the shared state is one SQLite file in gits common direectory. No hooks, no merge drivers, nothing rewrites your history.<p>It ships as one Rust binary with a CLI and MCP server with 18 tools and `foremerge setup all` wires it into Claude Code, Codex and Cursor. Because the protocol has nothing provider specific, a Claude agent and a Codex agent coordinate through the same store. Before any work is accepted, Foremerge runs a named check that you configured against the exact git state of the change. An agent that says tests pass is recorded but it dosnt satisfy the acceptance gate without running the check itself.<p>Detection is deterministic, no judge model reading your code. HIGH conflicts are only asserted for declared operations, ie. matches inferred from prose cap out below high. Claims are advisory leases, not locks so two agents can still hold the same scope without deadlock. The open source version is single matching and so not a distributed consensus.<p>We have tested this up to 98 parallel agents all working on the same repo with zero conflicts (was supposed to be 100 but 2 agents failed to run due to resource limitations)<p>I replayed 76 intents on my own agents from a build last week in the order they happened. The sample had exactly 1 conflict (which was flagged) and the review found a blind spot where one agent claimed scope by class name and the other claimed it by an internal method. We are working on fixing that for the next release.<p>Setup is a 30s install by pasting the quickstart instructions from the readme.md into your agent or manually: \n`curl -fsSL <a href=\"https://foremerge.com/install.sh\" rel=\"nofollow\">https://foremerge.com/install.sh</a> | sh` or `cargo install\n--locked foremerge`, then `foremerge init && foremerge setup all` in a repo.\nApache-2.0.<p>The feedback I want most is which conflicts between your agents plans would you actually want flagged and which would you tollerate as noise?<p>Repo here: <a href=\"https://github.com/naw103/foremerge\" rel=\"nofollow\">https://github.com/naw103/foremerge</a>\nWebsite: <a href=\"https://foremerge.com\" rel=\"nofollow\">https://foremerge.com</a><p>More information on the problems this solves: <a href=\"https://foremerge.com/blog/\" rel=\"nofollow\">https://foremerge.com/blog/</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49789356\">https://news.ycombinator.com/item?id=49789356</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://github.com/naw103/foremerge",
+            "published": "Mon, 21 Sep 2026 16:22:06 +0000",
+            "fetched": "2026-09-21T20:21:28+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Fable 5 – Median thinking declined in August",
+            "description": "<p>Article URL: <a href=\"https://twitter.com/Lon/status/2101793422487204027\">https://twitter.com/Lon/status/2101793422487204027</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49789224\">https://news.ycombinator.com/item?id=49789224</a></p>\n<p>Points: 9</p>\n<p># Comments: 0</p>",
+            "url": "https://twitter.com/Lon/status/2101793422487204027",
+            "published": "Mon, 21 Sep 2026 16:13:57 +0000",
+            "fetched": "2026-09-21T20:21:28+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "How do Traffic Signals Work (2019)",
+            "description": "<p>Article URL: <a href=\"https://practical.engineering/blog/2019/5/11/how-do-traffic-signals-work\">https://practical.engineering/blog/2019/5/11/how-do-traffic-signals-work</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49789081\">https://news.ycombinator.com/item?id=49789081</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://practical.engineering/blog/2019/5/11/how-do-traffic-signals-work",
+            "published": "Mon, 21 Sep 2026 16:06:44 +0000",
+            "fetched": "2026-09-21T20:21:28+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Airlines criticise air traffic control as second glitch causes more disruption",
+            "description": "Airlines are angry about the delays, with EasyJet saying the latest incident \"once again calls into question the resilience\" of the system.",
+            "url": "https://www.bbc.co.uk/news/articles/cqp80p78mxx5o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 21 Sep 2026 16:39:16 GMT",
+            "fetched": "2026-09-21T20:21:28+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
+            "description": "The BBC's Frank Gardner speaks to some of those who have fled the war by crossing the Red Sea to Djibouti.",
+            "url": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 21 Sep 2026 14:14:16 GMT",
+            "fetched": "2026-09-21T20:21:28+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "First UK charges brought over 1994 Rwanda genocide",
+            "description": "Dr Vincent Brown, formerly Dr Vincent Bajinya, 65, will appear at Westminster Magistrates’ Court on Tuesday charged with seven offences.",
+            "url": "https://www.bbc.co.uk/news/articles/cr2092216nywo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 21 Sep 2026 16:33:02 GMT",
+            "fetched": "2026-09-21T20:21:28+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Antonio Guterres: Can the UN still meet today’s global crises?",
+            "description": "Al Jazeera’s James Bays sits down with United Nations Secretary-General Antonio Guterres.",
+            "url": "https://www.aljazeera.com/video/on-the-record/2026/9/21/antonio-guterres-can-the-un-still-meet-todays-global-crises?traffic_source=rss",
+            "published": "Mon, 21 Sep 2026 15:21:52 +0000",
+            "fetched": "2026-09-21T20:21:28+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US threatens to ground Iranian airlines worldwide from Wednesday",
+            "description": "Treasury Secretary says airports and companies servicing Iranian carriers risk being cut off from the US dollar system.",
+            "url": "https://www.aljazeera.com/economy/2026/9/21/us-threatens-to-ground-iranian-airlines-worldwide-from-wednesday?traffic_source=rss",
+            "published": "Mon, 21 Sep 2026 15:18:12 +0000",
+            "fetched": "2026-09-21T20:21:28+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Poor storage or sabotage? Series of explosions in Syria raises fears",
+            "description": "Repeated blasts at military sites expose the risks facing Syria as it rebuilds its army after years of war.",
+            "url": "https://www.aljazeera.com/news/2026/9/21/poor-storage-or-sabotage-series-of-explosions-in-syria-raises-fears?traffic_source=rss",
+            "published": "Mon, 21 Sep 2026 15:16:03 +0000",
+            "fetched": "2026-09-21T20:21:28+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Breezy, Starr, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24483",
+            "published": "2026-09-16T20:17:00Z",
+            "fetched": "2026-09-21T20:21:28+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire FLORISTON, Nevada, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24488",
+            "published": "2026-09-16T13:01:00Z",
+            "fetched": "2026-09-21T20:21:28+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Dujuan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24317",
+            "published": "2026-09-16T12:00:00Z",
+            "fetched": "2026-09-21T20:21:28+03:30"
+        }
+    ]
+}

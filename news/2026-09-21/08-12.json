@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-21T08:12:13+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Deterministic Core, Non-Deterministic Shell",
+            "description": "<p>Article URL: <a href=\"https://outdata.net/blog/260803\">https://outdata.net/blog/260803</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49782220\">https://news.ycombinator.com/item?id=49782220</a></p>\n<p>Points: 15</p>\n<p># Comments: 2</p>",
+            "url": "https://outdata.net/blog/260803",
+            "published": "Mon, 21 Sep 2026 02:02:45 +0000",
+            "fetched": "2026-09-21T08:12:13+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Why back propagation goes backward",
+            "description": "<p>Article URL: <a href=\"https://gregorygundersen.com/blog/2018/04/15/backprop/\">https://gregorygundersen.com/blog/2018/04/15/backprop/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49781693\">https://news.ycombinator.com/item?id=49781693</a></p>\n<p>Points: 17</p>\n<p># Comments: 4</p>",
+            "url": "https://gregorygundersen.com/blog/2018/04/15/backprop/",
+            "published": "Mon, 21 Sep 2026 00:42:14 +0000",
+            "fetched": "2026-09-21T08:12:13+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Amiga Unix, Again",
+            "description": "<p>Article URL: <a href=\"https://amigaux.org/\">https://amigaux.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49781436\">https://news.ycombinator.com/item?id=49781436</a></p>\n<p>Points: 33</p>\n<p># Comments: 14</p>",
+            "url": "https://amigaux.org/",
+            "published": "Sun, 20 Sep 2026 23:57:10 +0000",
+            "fetched": "2026-09-21T08:12:13+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Specialist courts for rape cases to be rolled out across England and Wales",
+            "description": "Funding will allow victims to view proceedings remotely and give evidence from a separate room via video link, the government says.",
+            "url": "https://www.bbc.co.uk/news/articles/c5lympv9nw3jo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 20 Sep 2026 22:43:31 GMT",
+            "fetched": "2026-09-21T08:12:13+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
+            "description": "Exit polls show damaging losses for Merz's centre-right CDU party in the state of Mecklenburg-Vorpommern and Berlin.",
+            "url": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 21 Sep 2026 03:22:44 GMT",
+            "fetched": "2026-09-21T08:12:13+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Union calls for halt to graded Ofsted inspections over health concerns",
+            "description": "The National Association of Head Teachers says inspections in England may pose a \"risk to life\" for school leaders.",
+            "url": "https://www.bbc.co.uk/news/articles/cv1j4k1nez76o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 20 Sep 2026 23:02:05 GMT",
+            "fetched": "2026-09-21T08:12:13+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Imran Khan’s family says three sisters detained ahead of Islamabad march",
+            "description": "Imran Khan’s family says three of his sisters have been detained in Lahore ahead of a march demanding his release.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/21/09-21-aleema-khan-arrest-sv?traffic_source=rss",
+            "published": "Mon, 21 Sep 2026 02:31:37 +0000",
+            "fetched": "2026-09-21T08:12:13+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Powerful explosions at Syrian army site near Aleppo injure at least four",
+            "description": "Officials urge civilians to stay away from the site in al-Eis near Aleppo after a series of explosions.",
+            "url": "https://www.aljazeera.com/news/2026/9/21/powerful-explosions-at-syrian-army-site-near-aleppo-injures-at-least-four?traffic_source=rss",
+            "published": "Mon, 21 Sep 2026 01:30:46 +0000",
+            "fetched": "2026-09-21T08:12:13+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump administration readies sweeping sanctions against ICC, reports say",
+            "description": "Measures targeting the court itself could disrupt payments, IT services and investigations.",
+            "url": "https://www.aljazeera.com/news/2026/9/21/trump-administration-readies-sweeping-sanctions-against-icc-reports-say?traffic_source=rss",
+            "published": "Mon, 21 Sep 2026 01:19:42 +0000",
+            "fetched": "2026-09-21T08:12:13+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Breezy, Starr, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24483",
+            "published": "2026-09-16T20:17:00Z",
+            "fetched": "2026-09-21T08:12:13+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire FLORISTON, Nevada, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24488",
+            "published": "2026-09-16T13:01:00Z",
+            "fetched": "2026-09-21T08:12:13+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Dujuan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24317",
+            "published": "2026-09-16T12:00:00Z",
+            "fetched": "2026-09-21T08:12:13+03:30"
+        }
+    ]
+}

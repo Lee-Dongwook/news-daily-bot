@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-21 08:12:13
+**Last Update:** 2026-09-21 08:40:09
 
 **Total News:** 12
 
@@ -10,7 +10,39 @@
 
 ## 📰 Latest News
 
-### 1. Deterministic Core, Non-Deterministic Shell
+### 1. AI chatbots give wrong answers to financial queries 'most of the time'
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666">https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49783062">https://news.ycombinator.com/item?id=49783062</a></p>
+<p>Points: 10</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666](https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666)
+
+---
+
+### 2. Winning the Visa Lottery
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.aeaweb.org/research/immigration-restrictions-firms-workers">https://www.aeaweb.org/research/immigration-restrictions-firms-workers</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49782775">https://news.ycombinator.com/item?id=49782775</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.aeaweb.org/research/immigration-restrictions-firms-workers](https://www.aeaweb.org/research/immigration-restrictions-firms-workers)
+
+---
+
+### 3. Deterministic Core, Non-Deterministic Shell
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://outdata.net/blog/260803">https://outdata.net/blog/260803</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49782220">https://news.ycombinator.com/item?id=49782220</a></p>
-<p>Points: 15</p>
+<p>Points: 18</p>
 <p># Comments: 2</p>
 
 🔗 **Read more:** [https://outdata.net/blog/260803](https://outdata.net/blog/260803)
-
----
-
-### 2. Why back propagation goes backward
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://gregorygundersen.com/blog/2018/04/15/backprop/">https://gregorygundersen.com/blog/2018/04/15/backprop/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49781693">https://news.ycombinator.com/item?id=49781693</a></p>
-<p>Points: 17</p>
-<p># Comments: 4</p>
-
-🔗 **Read more:** [https://gregorygundersen.com/blog/2018/04/15/backprop/](https://gregorygundersen.com/blog/2018/04/15/backprop/)
-
----
-
-### 3. Amiga Unix, Again
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://amigaux.org/">https://amigaux.org/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49781436">https://news.ycombinator.com/item?id=49781436</a></p>
-<p>Points: 33</p>
-<p># Comments: 14</p>
-
-🔗 **Read more:** [https://amigaux.org/](https://amigaux.org/)
 
 ---
 
@@ -84,20 +84,33 @@ Exit polls show damaging losses for Merz's centre-right CDU party in the state o
 
 ---
 
-### 6. Union calls for halt to graded Ofsted inspections over health concerns
+### 6. Oxford grooming gang survivors tell BBC 'hundreds' of abusers still free
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The National Association of Head Teachers says inspections in England may pose a "risk to life" for school leaders.
+Men who sexually abused them as underage girls are still walking around the city, they say.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cv1j4k1nez76o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cv1j4k1nez76o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmpwln09gknzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmpwln09gknzo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Imran Khan’s family says three sisters detained ahead of Islamabad march
+### 7. Massive explosions at Syrian army weapons depot near Aleppo
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Explosions rocked a Syrian army ammunition depot south of Aleppo, injuring at least four people.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/21/09-21-aleppo-depot-explosions-reported-mp4?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/21/09-21-aleppo-depot-explosions-reported-mp4?traffic_source=rss)
+
+---
+
+### 8. Imran Khan’s family says three sisters detained ahead of Islamabad march
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Imran Khan’s family says three of his sisters have been detained in Lahore ahe
 
 ---
 
-### 8. Powerful explosions at Syrian army site near Aleppo injure at least four
+### 9. Powerful explosions at Syrian army site near Aleppo injure at least four
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Imran Khan’s family says three of his sisters have been detained in Lahore ahe
 Officials urge civilians to stay away from the site in al-Eis near Aleppo after a series of explosions.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/21/powerful-explosions-at-syrian-army-site-near-aleppo-injures-at-least-four?traffic_source=rss](https://www.aljazeera.com/news/2026/9/21/powerful-explosions-at-syrian-army-site-near-aleppo-injures-at-least-four?traffic_source=rss)
-
----
-
-### 9. Trump administration readies sweeping sanctions against ICC, reports say
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Measures targeting the court itself could disrupt payments, IT services and investigations.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/21/trump-administration-readies-sweeping-sanctions-against-icc-reports-say?traffic_source=rss](https://www.aljazeera.com/news/2026/9/21/trump-administration-readies-sweeping-sanctions-against-icc-reports-say?traffic_source=rss)
 
 ---
 

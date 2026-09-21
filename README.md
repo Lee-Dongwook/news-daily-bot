@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-21 20:21:28
+**Last Update:** 2026-09-21 20:37:32
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
@@ -31,14 +31,30 @@ Apache-2.0.<p>The feedback I want most is which conflicts between your agents pl
 Website: <a href="https://foremerge.com" rel="nofollow">https://foremerge.com</a><p>More information on the problems this solves: <a href="https://foremerge.com/blog/" rel="nofollow">https://foremerge.com/blog/</a></p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49789356">https://news.ycombinator.com/item?id=49789356</a></p>
-<p>Points: 4</p>
+<p>Points: 8</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://github.com/naw103/foremerge](https://github.com/naw103/foremerge)
 
 ---
 
-### 2. Fable 5 – Median thinking declined in August
+### 2. This Digital Radio Gets Messages to the World’s Remotest Locations
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://spectrum.ieee.org/hermes-shortwave-radio-digital-data">https://spectrum.ieee.org/hermes-shortwave-radio-digital-data</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49789228">https://news.ycombinator.com/item?id=49789228</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://spectrum.ieee.org/hermes-shortwave-radio-digital-data](https://spectrum.ieee.org/hermes-shortwave-radio-digital-data)
+
+---
+
+### 3. Fable 5 – Median thinking declined in August
 
 **Source:** Hacker News
 
@@ -47,26 +63,10 @@ Website: <a href="https://foremerge.com" rel="nofollow">https://foremerge.com</a
 **Description:**
 <p>Article URL: <a href="https://twitter.com/Lon/status/2101793422487204027">https://twitter.com/Lon/status/2101793422487204027</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49789224">https://news.ycombinator.com/item?id=49789224</a></p>
-<p>Points: 9</p>
-<p># Comments: 0</p>
+<p>Points: 23</p>
+<p># Comments: 8</p>
 
 🔗 **Read more:** [https://twitter.com/Lon/status/2101793422487204027](https://twitter.com/Lon/status/2101793422487204027)
-
----
-
-### 3. How do Traffic Signals Work (2019)
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://practical.engineering/blog/2019/5/11/how-do-traffic-signals-work">https://practical.engineering/blog/2019/5/11/how-do-traffic-signals-work</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49789081">https://news.ycombinator.com/item?id=49789081</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://practical.engineering/blog/2019/5/11/how-do-traffic-signals-work](https://practical.engineering/blog/2019/5/11/how-do-traffic-signals-work)
 
 ---
 
@@ -109,7 +109,20 @@ Dr Vincent Brown, formerly Dr Vincent Bajinya, 65, will appear at Westminster Ma
 
 ---
 
-### 7. Antonio Guterres: Can the UN still meet today’s global crises?
+### 7. State of world getting worse as UN Security Council paralysed: Guterres
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The UN chief&#039;s mandate ends on December 31 this year, with a successor yet to be named.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/21/state-of-world-getting-worse-as-un-security-council-paralysed-guterres?traffic_source=rss](https://www.aljazeera.com/news/2026/9/21/state-of-world-getting-worse-as-un-security-council-paralysed-guterres?traffic_source=rss)
+
+---
+
+### 8. Antonio Guterres: Can the UN still meet today’s global crises?
 
 **Source:** Al Jazeera
 
@@ -122,7 +135,7 @@ Al Jazeera’s James Bays sits down with United Nations Secretary-General Antoni
 
 ---
 
-### 8. US threatens to ground Iranian airlines worldwide from Wednesday
+### 9. US threatens to ground Iranian airlines worldwide from Wednesday
 
 **Source:** Al Jazeera
 
@@ -132,19 +145,6 @@ Al Jazeera’s James Bays sits down with United Nations Secretary-General Antoni
 Treasury Secretary says airports and companies servicing Iranian carriers risk being cut off from the US dollar system.
 
 🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/21/us-threatens-to-ground-iranian-airlines-worldwide-from-wednesday?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/21/us-threatens-to-ground-iranian-airlines-worldwide-from-wednesday?traffic_source=rss)
-
----
-
-### 9. Poor storage or sabotage? Series of explosions in Syria raises fears
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Repeated blasts at military sites expose the risks facing Syria as it rebuilds its army after years of war.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/21/poor-storage-or-sabotage-series-of-explosions-in-syria-raises-fears?traffic_source=rss](https://www.aljazeera.com/news/2026/9/21/poor-storage-or-sabotage-series-of-explosions-in-syria-raises-fears?traffic_source=rss)
 
 ---
 

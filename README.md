@@ -1,16 +1,33 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-21 13:59:11
+**Last Update:** 2026-09-21 14:22:46
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Jev-Leftpad
+### 1. Show HN: Bitcoin-rs – An AI-assisted Bitcoin full node in Rust
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>I’m building bitcoin-rs, an independent Bitcoin full node in Rust, using AI aggressively for implementation.<p>I think Bitcoin is a particularly good target for AI-era development because implementations can be verified against strong external references. In bitcoin-rs, I use libbitcoinkernel as one of the main compatibility oracles.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49784873">https://news.ycombinator.com/item?id=49784873</a></p>
+<p>Points: 7</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://github.com/gosuda/bitcoin-rs](https://github.com/gosuda/bitcoin-rs)
+
+---
+
+### 2. Jev-Leftpad
 
 **Source:** Hacker News
 
@@ -19,14 +36,14 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/f/jev-leftpad">https://github.com/f/jev-leftpad</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49784706">https://news.ycombinator.com/item?id=49784706</a></p>
-<p>Points: 33</p>
-<p># Comments: 13</p>
+<p>Points: 44</p>
+<p># Comments: 24</p>
 
 🔗 **Read more:** [https://github.com/f/jev-leftpad](https://github.com/f/jev-leftpad)
 
 ---
 
-### 2. Kev: Tiny Jev-like family of decision models built on top of Qwen3.5
+### 3. Kev: Tiny Jev-like family of decision models built on top of Qwen3.5
 
 **Source:** Hacker News
 
@@ -35,26 +52,10 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/jaredpalmer/kev/tree/main">https://github.com/jaredpalmer/kev/tree/main</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49783999">https://news.ycombinator.com/item?id=49783999</a></p>
-<p>Points: 93</p>
-<p># Comments: 46</p>
+<p>Points: 100</p>
+<p># Comments: 49</p>
 
 🔗 **Read more:** [https://github.com/jaredpalmer/kev/tree/main](https://github.com/jaredpalmer/kev/tree/main)
-
----
-
-### 3. Elektron Machinedrum in the Browser
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://machinedrum-study.pages.dev/">https://machinedrum-study.pages.dev/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49783568">https://news.ycombinator.com/item?id=49783568</a></p>
-<p>Points: 8</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://machinedrum-study.pages.dev/](https://machinedrum-study.pages.dev/)
 
 ---
 

@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-21T14:22:46+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Bitcoin-rs – An AI-assisted Bitcoin full node in Rust",
+            "description": "<p>I’m building bitcoin-rs, an independent Bitcoin full node in Rust, using AI aggressively for implementation.<p>I think Bitcoin is a particularly good target for AI-era development because implementations can be verified against strong external references. In bitcoin-rs, I use libbitcoinkernel as one of the main compatibility oracles.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49784873\">https://news.ycombinator.com/item?id=49784873</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
+            "url": "https://github.com/gosuda/bitcoin-rs",
+            "published": "Mon, 21 Sep 2026 09:03:05 +0000",
+            "fetched": "2026-09-21T14:22:46+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Jev-Leftpad",
+            "description": "<p>Article URL: <a href=\"https://github.com/f/jev-leftpad\">https://github.com/f/jev-leftpad</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49784706\">https://news.ycombinator.com/item?id=49784706</a></p>\n<p>Points: 44</p>\n<p># Comments: 24</p>",
+            "url": "https://github.com/f/jev-leftpad",
+            "published": "Mon, 21 Sep 2026 08:39:32 +0000",
+            "fetched": "2026-09-21T14:22:46+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
+            "description": "<p>Article URL: <a href=\"https://github.com/jaredpalmer/kev/tree/main\">https://github.com/jaredpalmer/kev/tree/main</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49783999\">https://news.ycombinator.com/item?id=49783999</a></p>\n<p>Points: 100</p>\n<p># Comments: 49</p>",
+            "url": "https://github.com/jaredpalmer/kev/tree/main",
+            "published": "Mon, 21 Sep 2026 07:11:55 +0000",
+            "fetched": "2026-09-21T14:22:46+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Young people aren't snowflakes - mental distress is rising, says head of official review",
+            "description": "Speaking exclusively to the BBC, Prof Peter Fonagy says being young is much harder now than it was.",
+            "url": "https://www.bbc.co.uk/news/articles/cqzrz0z4plk1o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 21 Sep 2026 04:00:05 GMT",
+            "fetched": "2026-09-21T14:22:46+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
+            "description": "Exit polls show damaging losses for Merz's centre-right CDU party in the state of Mecklenburg-Vorpommern and Berlin.",
+            "url": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 21 Sep 2026 08:56:27 GMT",
+            "fetched": "2026-09-21T14:22:46+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Oxford grooming gang survivors tell BBC 'hundreds' of abusers still free",
+            "description": "Men who sexually abused them as underage girls are still walking around the city, they say.",
+            "url": "https://www.bbc.co.uk/news/articles/cmpwln09gknzo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 21 Sep 2026 05:00:34 GMT",
+            "fetched": "2026-09-21T14:22:46+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Mystery object spotted hovering over Tehran",
+            "description": "A mysterious object filmed hovering over Tehran has sparked online speculation.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/21/mystery-object-spotted-hovering-over-tehran?traffic_source=rss",
+            "published": "Mon, 21 Sep 2026 10:10:14 +0000",
+            "fetched": "2026-09-21T14:22:46+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "A simple guide to the Yemen conflict",
+            "description": "Here’s a brief history of Yemen’s war - from the Houthi takeover in 2014 to the latest escalation.",
+            "url": "https://www.aljazeera.com/news/2026/9/21/a-brief-history-of-the-yemen-conflict?traffic_source=rss",
+            "published": "Mon, 21 Sep 2026 10:01:30 +0000",
+            "fetched": "2026-09-21T14:22:46+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Do Israelis feel any safer now than they did on October 6, 2023?",
+            "description": "Despite having rarely been more secure, public concerns about security continue to dominate the election.",
+            "url": "https://www.aljazeera.com/news/2026/9/21/do-israelis-feel-any-safer-now-than-they-did-on-october-6-2023?traffic_source=rss",
+            "published": "Mon, 21 Sep 2026 09:54:05 +0000",
+            "fetched": "2026-09-21T14:22:46+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Breezy, Starr, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24483",
+            "published": "2026-09-16T20:17:00Z",
+            "fetched": "2026-09-21T14:22:46+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire FLORISTON, Nevada, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24488",
+            "published": "2026-09-16T13:01:00Z",
+            "fetched": "2026-09-21T14:22:46+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Dujuan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24317",
+            "published": "2026-09-16T12:00:00Z",
+            "fetched": "2026-09-21T14:22:46+03:30"
+        }
+    ]
+}

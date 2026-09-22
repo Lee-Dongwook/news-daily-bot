@@ -1,64 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-22 13:37:24
+**Last Update:** 2026-09-22 17:58:38
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Study: Young users (9 to 18Y) ditch Google for AI, with unknown consequences
+### 1. OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://norwegianscitechnews.com/2026/09/young-users-ditch-google-for-ai-with-unknown-consequences/">https://norwegianscitechnews.com/2026/09/young-users-ditch-google-for-ai-with-unknown-consequences/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49798451">https://news.ycombinator.com/item?id=49798451</a></p>
-<p>Points: 16</p>
-<p># Comments: 13</p>
+<p>Article URL: <a href="https://www.cryptocellar.org/bgac/the-mvueh-break.html">https://www.cryptocellar.org/bgac/the-mvueh-break.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49801324">https://news.ycombinator.com/item?id=49801324</a></p>
+<p>Points: 17</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://norwegianscitechnews.com/2026/09/young-users-ditch-google-for-ai-with-unknown-consequences/](https://norwegianscitechnews.com/2026/09/young-users-ditch-google-for-ai-with-unknown-consequences/)
+🔗 **Read more:** [https://www.cryptocellar.org/bgac/the-mvueh-break.html](https://www.cryptocellar.org/bgac/the-mvueh-break.html)
 
 ---
 
-### 2. AMD's random number generator can't generate a 0?
+### 2. People Training OpenAI's AI Fired for Using AI to Train the AI
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://board.flatassembler.net/topic.php?t=24261">https://board.flatassembler.net/topic.php?t=24261</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49798204">https://news.ycombinator.com/item?id=49798204</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.404media.co/people-training-openais-ai-fired-for-using-ai-to-train-the-ai/">https://www.404media.co/people-training-openais-ai-fired-for-using-ai-to-train-the-ai/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49800953">https://news.ycombinator.com/item?id=49800953</a></p>
+<p>Points: 11</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://board.flatassembler.net/topic.php?t=24261](https://board.flatassembler.net/topic.php?t=24261)
+🔗 **Read more:** [https://www.404media.co/people-training-openais-ai-fired-for-using-ai-to-train-the-ai/](https://www.404media.co/people-training-openais-ai-fired-for-using-ai-to-train-the-ai/)
 
 ---
 
-### 3. I said no and Apple said yes
+### 3. AI Has No Wisdom and Neither Will You
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://dbushell.com/2026/09/22/apple-intelligence/">https://dbushell.com/2026/09/22/apple-intelligence/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49797982">https://news.ycombinator.com/item?id=49797982</a></p>
-<p>Points: 116</p>
-<p># Comments: 52</p>
+<p>Article URL: <a href="https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/">https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49799965">https://news.ycombinator.com/item?id=49799965</a></p>
+<p>Points: 231</p>
+<p># Comments: 295</p>
 
-🔗 **Read more:** [https://dbushell.com/2026/09/22/apple-intelligence/](https://dbushell.com/2026/09/22/apple-intelligence/)
+🔗 **Read more:** [https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/](https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/)
 
 ---
 
-### 4. Martha's Rule rolled out at every A&E department in England
+### 4. New EU industry rules would damage UK, warns Burnham
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The prime minister says he will raise his concerns when he meets the European Commission President later.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cv2dwylkl7weo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cv2dwylkl7weo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Martha's Rule rolled out at every A&E department in England
 
 **Source:** BBC
 
@@ -71,68 +84,55 @@ The rule is named after 13-year-old Martha Mills, whose family's concerns about 
 
 ---
 
-### 5. Unexpected UK borrowing surge adds to pre-Budget pressure on chancellor
+### 6. Father admits causing death of his son in hotel fall
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Borrowing was higher than expected in August as inflation piles pressure on the government ahead of the Budget.
+The two-year-old boy fell from the window of a hotel in Cyprus in July, a Paphos court hears.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c68049m18435o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c68049m18435o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Burnham expects to find 'common ground' with Trump in first meeting
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-In New York, the prime minister will also deliver a speech to the UN General Assembly expected to be focused on AI.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqevwpmvpekeo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqevwpmvpekeo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm4gvyz2vlkvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm4gvyz2vlkvo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. India defeat Sri Lanka by 147 runs as Mandhana shines in Asian Games final
+### 7. Colombia eases gun restrictions despite fears of more violence
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Sri Lanka were bowled out for 69 runs, 10 less than Mandhana&#039;s belligerent match-winning innings as India retained gold.
+Colombia has loosened gun laws after more than a decade of restrictions. Some fear it will lead to even more violence.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/22/india-defeat-sri-lanka-by-147-runs-as-mandhana-shines-in-asian-games-final?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/22/india-defeat-sri-lanka-by-147-runs-as-mandhana-shines-in-asian-games-final?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/22/colombia-eases-gun-restrictions-despite-fears-of-more-violence?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/22/colombia-eases-gun-restrictions-despite-fears-of-more-violence?traffic_source=rss)
 
 ---
 
-### 8. Gunman opens fire near high school in western Turkiye, wounding eight
+### 8. Iran delegation to present narrative of resilience, diplomacy at UNGA
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Police arrest suspect in shooting near high school as injured are rushed to local hospitals for treatment.
+Iran’s delegation has arrived to New York for the UNGA where the war with the United States will be raised.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/22/gunman-wounds-eight-in-shooting-near-high-school-in-western-turkiye?traffic_source=rss](https://www.aljazeera.com/news/2026/9/22/gunman-wounds-eight-in-shooting-near-high-school-in-western-turkiye?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/22/iran-delegation-to-present-narrative-of-resilience-diplomacy-at-unga?traffic_source=rss](https://www.aljazeera.com/news/2026/9/22/iran-delegation-to-present-narrative-of-resilience-diplomacy-at-unga?traffic_source=rss)
 
 ---
 
-### 9. ‘Deadly hazards’: Behind Sudan gold mine collapse, a wartime desperation
+### 9. Hundreds flee homes in Far North Cameroon after armed group raid kills 15
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Nearly 100 people have died in recent days in the scramble for gold, whose value has grown in a shattered economy.
+No group claims responsibility for attack, but suspicion falls on ISIL affiliate.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/22/deadly-hazards-behind-sudan-gold-mine-collapse-a-wartime-desperation?traffic_source=rss](https://www.aljazeera.com/news/2026/9/22/deadly-hazards-behind-sudan-gold-mine-collapse-a-wartime-desperation?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/22/hundreds-flee-homes-in-far-north-cameroon-after-armed-group-raid-kills-15?traffic_source=rss](https://www.aljazeera.com/news/2026/9/22/hundreds-flee-homes-in-far-north-cameroon-after-armed-group-raid-kills-15?traffic_source=rss)
 
 ---
 

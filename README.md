@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-22 17:58:38
+**Last Update:** 2026-09-22 18:33:39
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, Al Jazeera, BBC
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005
+### 1. OpenAI is about to eat Jev's lunch – Arcturus Labs
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.cryptocellar.org/bgac/the-mvueh-break.html">https://www.cryptocellar.org/bgac/the-mvueh-break.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49801324">https://news.ycombinator.com/item?id=49801324</a></p>
-<p>Points: 17</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/">https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49802161">https://news.ycombinator.com/item?id=49802161</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.cryptocellar.org/bgac/the-mvueh-break.html](https://www.cryptocellar.org/bgac/the-mvueh-break.html)
+🔗 **Read more:** [https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/](https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/)
 
 ---
 
-### 2. People Training OpenAI's AI Fired for Using AI to Train the AI
+### 2. Apple has added persistent 'ads' to iOS, and it's driving users crazy
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.404media.co/people-training-openais-ai-fired-for-using-ai-to-train-the-ai/">https://www.404media.co/people-training-openais-ai-fired-for-using-ai-to-train-the-ai/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49800953">https://news.ycombinator.com/item?id=49800953</a></p>
-<p>Points: 11</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://www.techradar.com/phones/iphone/i-wish-apple-would-just-stop-that-crap-apple-has-added-persistent-ads-to-ios-and-its-driving-users-crazy">https://www.techradar.com/phones/iphone/i-wish-apple-would-just-stop-that-crap-apple-has-added-persistent-ads-to-ios-and-its-driving-users-crazy</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49801939">https://news.ycombinator.com/item?id=49801939</a></p>
+<p>Points: 40</p>
+<p># Comments: 13</p>
 
-🔗 **Read more:** [https://www.404media.co/people-training-openais-ai-fired-for-using-ai-to-train-the-ai/](https://www.404media.co/people-training-openais-ai-fired-for-using-ai-to-train-the-ai/)
+🔗 **Read more:** [https://www.techradar.com/phones/iphone/i-wish-apple-would-just-stop-that-crap-apple-has-added-persistent-ads-to-ios-and-its-driving-users-crazy](https://www.techradar.com/phones/iphone/i-wish-apple-would-just-stop-that-crap-apple-has-added-persistent-ads-to-ios-and-its-driving-users-crazy)
 
 ---
 
-### 3. AI Has No Wisdom and Neither Will You
+### 3. Stanford R&DE Uses AI to Race Swap Students for Advertising
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/">https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49799965">https://news.ycombinator.com/item?id=49799965</a></p>
-<p>Points: 231</p>
-<p># Comments: 295</p>
+<p>Article URL: <a href="https://stanfordreview.org/stanford-r-de-uses-ai-to-race-swap-students-for-advertising/">https://stanfordreview.org/stanford-r-de-uses-ai-to-race-swap-students-for-advertising/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49801330">https://news.ycombinator.com/item?id=49801330</a></p>
+<p>Points: 42</p>
+<p># Comments: 26</p>
 
-🔗 **Read more:** [https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/](https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/)
+🔗 **Read more:** [https://stanfordreview.org/stanford-r-de-uses-ai-to-race-swap-students-for-advertising/](https://stanfordreview.org/stanford-r-de-uses-ai-to-race-swap-students-for-advertising/)
 
 ---
 
@@ -71,16 +71,16 @@ The prime minister says he will raise his concerns when he meets the European Co
 
 ---
 
-### 5. Martha's Rule rolled out at every A&E department in England
+### 5. Tim Westwood charged with two more sexual offences
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The rule is named after 13-year-old Martha Mills, whose family's concerns about her care were not listened to before her death.
+The alleged sexual offences date back to 1991 and 2004.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6lyep7l7qppo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6lyep7l7qppo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckx2zv0rx0nqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckx2zv0rx0nqo?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +97,42 @@ The two-year-old boy fell from the window of a hotel in Cyprus in July, a Paphos
 
 ---
 
-### 7. Colombia eases gun restrictions despite fears of more violence
+### 7. UN Chief condemns Gaza destruction, West Bank settlements
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Colombia has loosened gun laws after more than a decade of restrictions. Some fear it will lead to even more violence.
+In his final UN General Assembly address as secretary-general, Antonio Guterres condemned the killing in Gaza.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/22/colombia-eases-gun-restrictions-despite-fears-of-more-violence?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/22/colombia-eases-gun-restrictions-despite-fears-of-more-violence?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/22/un-chief-condemns-gaza-destruction-west-bank-settlements?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/22/un-chief-condemns-gaza-destruction-west-bank-settlements?traffic_source=rss)
 
 ---
 
-### 8. Iran delegation to present narrative of resilience, diplomacy at UNGA
+### 8. Where is the US opening new military bases in Greenland?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Iran’s delegation has arrived to New York for the UNGA where the war with the United States will be raised.
+At least two new US bases will be established as part of a deal with Denmark and Greenland.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/22/iran-delegation-to-present-narrative-of-resilience-diplomacy-at-unga?traffic_source=rss](https://www.aljazeera.com/news/2026/9/22/iran-delegation-to-present-narrative-of-resilience-diplomacy-at-unga?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/22/where-is-the-us-opening-new-military-bases-in?traffic_source=rss](https://www.aljazeera.com/news/2026/9/22/where-is-the-us-opening-new-military-bases-in?traffic_source=rss)
 
 ---
 
-### 9. Hundreds flee homes in Far North Cameroon after armed group raid kills 15
+### 9. Jerusalem Daily: Israel besieges Palestinian town
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-No group claims responsibility for attack, but suspicion falls on ISIL affiliate.
+Israeli forces have effectively turned the Palestinian town of Biddu into military barracks.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/22/hundreds-flee-homes-in-far-north-cameroon-after-armed-group-raid-kills-15?traffic_source=rss](https://www.aljazeera.com/news/2026/9/22/hundreds-flee-homes-in-far-north-cameroon-after-armed-group-raid-kills-15?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/22/jerusalem-daily-israel-besieges-palestinian-town?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/22/jerusalem-daily-israel-besieges-palestinian-town?traffic_source=rss)
 
 ---
 

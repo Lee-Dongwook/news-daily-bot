@@ -1,32 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-22 07:30:32
+**Last Update:** 2026-09-22 08:41:15
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Robin Williams' Daughter to Fans Creating AI Videos: 'Have Some Shame'
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568/">https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49795718">https://news.ycombinator.com/item?id=49795718</a></p>
-<p>Points: 76</p>
-<p># Comments: 38</p>
-
-🔗 **Read more:** [https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568/](https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568/)
-
----
-
-### 2. Claude Status – Elevated errors for multiple models
+### 1. Claude Status – Elevated errors for multiple models
 
 **Source:** Hacker News
 
@@ -35,14 +19,14 @@
 **Description:**
 <p>Article URL: <a href="https://status.claude.com/incidents/7g1qpkyz5gxh">https://status.claude.com/incidents/7g1qpkyz5gxh</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49795579">https://news.ycombinator.com/item?id=49795579</a></p>
-<p>Points: 74</p>
-<p># Comments: 59</p>
+<p>Points: 84</p>
+<p># Comments: 62</p>
 
 🔗 **Read more:** [https://status.claude.com/incidents/7g1qpkyz5gxh](https://status.claude.com/incidents/7g1qpkyz5gxh)
 
 ---
 
-### 3. Socrates vs. the Written Word (2011)
+### 2. Socrates vs. the Written Word (2011)
 
 **Source:** Hacker News
 
@@ -51,10 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://wondermark.com/socrates-vs-writing/">https://wondermark.com/socrates-vs-writing/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49795122">https://news.ycombinator.com/item?id=49795122</a></p>
-<p>Points: 17</p>
-<p># Comments: 4</p>
+<p>Points: 25</p>
+<p># Comments: 7</p>
 
 🔗 **Read more:** [https://wondermark.com/socrates-vs-writing/](https://wondermark.com/socrates-vs-writing/)
+
+---
+
+### 3. Looking forward to Git 2.56 – and 3.0
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/">https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49794736">https://news.ycombinator.com/item?id=49794736</a></p>
+<p>Points: 63</p>
+<p># Comments: 24</p>
+
+🔗 **Read more:** [https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/](https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/)
 
 ---
 
@@ -97,7 +97,33 @@ The rule is named after 13-year-old Martha Mills, whose family's concerns about 
 
 ---
 
-### 7. 20 countries propose global oversight body to manage AI dangers
+### 7. Houthis battle for strategic heights in Yemen as thousands more flee homes
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Fighting intensifies as US media say Trump called off strikes against Houthis at the last minute on Sunday.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/22/houthis-battle-for-strategic-heights-in-yemen-as-thousands-more-flee-homes?traffic_source=rss](https://www.aljazeera.com/news/2026/9/22/houthis-battle-for-strategic-heights-in-yemen-as-thousands-more-flee-homes?traffic_source=rss)
+
+---
+
+### 8. US strikes on alleged drug boats may be ‘crimes against humanity’, UN says
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+UN expert says US forces have killed 223 people in 68 attacks in the Caribbean and the Pacific in the past year.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/22/us-strikes-on-alleged-drug-boats-may-be-crimes-against-humanity-un-says?traffic_source=rss](https://www.aljazeera.com/news/2026/9/22/us-strikes-on-alleged-drug-boats-may-be-crimes-against-humanity-un-says?traffic_source=rss)
+
+---
+
+### 9. 20 countries propose global oversight body to manage AI dangers
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ The rule is named after 13-year-old Martha Mills, whose family's concerns about 
 Countries including Germany, South Africa and Canada suggest international institution to set and enforce standards.
 
 🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/22/20-countries-propose-global-oversight-body-to-manage-ai-dangers?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/22/20-countries-propose-global-oversight-body-to-manage-ai-dangers?traffic_source=rss)
-
----
-
-### 8. India vs Sri Lanka live: Asian Games – Women’s cricket final
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Follow our live build-up, team news, score and text commentary stream from the match in Nisshin, Japan, at 05:00 GMT.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/liveblog/2026/9/22/india-vs-sri-lanka-live-asian-games-womens-cricket-final?traffic_source=rss](https://www.aljazeera.com/sports/liveblog/2026/9/22/india-vs-sri-lanka-live-asian-games-womens-cricket-final?traffic_source=rss)
-
----
-
-### 9. Brazil election: Lula and Flavio Bolsonaro tied in latest polls
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Luiz Inacio Lula da Silva is running in October&#039;s election for a fourth non-consecutive term as Brazil&#039;s president.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/22/brazil-election-lula-and-flavio-bolsonaro-tied-in-latest-polls?traffic_source=rss](https://www.aljazeera.com/news/2026/9/22/brazil-election-lula-and-flavio-bolsonaro-tied-in-latest-polls?traffic_source=rss)
 
 ---
 

@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-22 13:11:04
+**Last Update:** 2026-09-22 13:37:24
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
@@ -19,27 +19,26 @@
 **Description:**
 <p>Article URL: <a href="https://norwegianscitechnews.com/2026/09/young-users-ditch-google-for-ai-with-unknown-consequences/">https://norwegianscitechnews.com/2026/09/young-users-ditch-google-for-ai-with-unknown-consequences/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49798451">https://news.ycombinator.com/item?id=49798451</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Points: 16</p>
+<p># Comments: 13</p>
 
 🔗 **Read more:** [https://norwegianscitechnews.com/2026/09/young-users-ditch-google-for-ai-with-unknown-consequences/](https://norwegianscitechnews.com/2026/09/young-users-ditch-google-for-ai-with-unknown-consequences/)
 
 ---
 
-### 2. Tell HN: Claude Code just accepted and signed a contract for me. Without asking
+### 2. AMD's random number generator can't generate a 0?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>I told it to push a project further. It has an outside dependency where the (unread by me) contract was in my Gmail. It downloaded the PDF contract. Found a saved signature PNG on my computer, placed it at the right spot within the contract and prepared to send it when I intervened.</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49798257">https://news.ycombinator.com/item?id=49798257</a></p>
-<p>Points: 24</p>
-<p># Comments: 31</p>
+<p>Article URL: <a href="https://board.flatassembler.net/topic.php?t=24261">https://board.flatassembler.net/topic.php?t=24261</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49798204">https://news.ycombinator.com/item?id=49798204</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://news.ycombinator.com/item?id=49798257](https://news.ycombinator.com/item?id=49798257)
+🔗 **Read more:** [https://board.flatassembler.net/topic.php?t=24261](https://board.flatassembler.net/topic.php?t=24261)
 
 ---
 
@@ -52,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://dbushell.com/2026/09/22/apple-intelligence/">https://dbushell.com/2026/09/22/apple-intelligence/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49797982">https://news.ycombinator.com/item?id=49797982</a></p>
-<p>Points: 37</p>
-<p># Comments: 12</p>
+<p>Points: 116</p>
+<p># Comments: 52</p>
 
 🔗 **Read more:** [https://dbushell.com/2026/09/22/apple-intelligence/](https://dbushell.com/2026/09/22/apple-intelligence/)
 

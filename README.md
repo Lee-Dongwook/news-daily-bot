@@ -1,90 +1,65 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-22 08:41:15
+**Last Update:** 2026-09-22 13:11:04
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Claude Status – Elevated errors for multiple models
+### 1. Study: Young users (9 to 18Y) ditch Google for AI, with unknown consequences
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://status.claude.com/incidents/7g1qpkyz5gxh">https://status.claude.com/incidents/7g1qpkyz5gxh</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49795579">https://news.ycombinator.com/item?id=49795579</a></p>
-<p>Points: 84</p>
-<p># Comments: 62</p>
+<p>Article URL: <a href="https://norwegianscitechnews.com/2026/09/young-users-ditch-google-for-ai-with-unknown-consequences/">https://norwegianscitechnews.com/2026/09/young-users-ditch-google-for-ai-with-unknown-consequences/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49798451">https://news.ycombinator.com/item?id=49798451</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://status.claude.com/incidents/7g1qpkyz5gxh](https://status.claude.com/incidents/7g1qpkyz5gxh)
+🔗 **Read more:** [https://norwegianscitechnews.com/2026/09/young-users-ditch-google-for-ai-with-unknown-consequences/](https://norwegianscitechnews.com/2026/09/young-users-ditch-google-for-ai-with-unknown-consequences/)
 
 ---
 
-### 2. Socrates vs. the Written Word (2011)
+### 2. Tell HN: Claude Code just accepted and signed a contract for me. Without asking
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://wondermark.com/socrates-vs-writing/">https://wondermark.com/socrates-vs-writing/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49795122">https://news.ycombinator.com/item?id=49795122</a></p>
-<p>Points: 25</p>
-<p># Comments: 7</p>
+<p>I told it to push a project further. It has an outside dependency where the (unread by me) contract was in my Gmail. It downloaded the PDF contract. Found a saved signature PNG on my computer, placed it at the right spot within the contract and prepared to send it when I intervened.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49798257">https://news.ycombinator.com/item?id=49798257</a></p>
+<p>Points: 24</p>
+<p># Comments: 31</p>
 
-🔗 **Read more:** [https://wondermark.com/socrates-vs-writing/](https://wondermark.com/socrates-vs-writing/)
+🔗 **Read more:** [https://news.ycombinator.com/item?id=49798257](https://news.ycombinator.com/item?id=49798257)
 
 ---
 
-### 3. Looking forward to Git 2.56 – and 3.0
+### 3. I said no and Apple said yes
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/">https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49794736">https://news.ycombinator.com/item?id=49794736</a></p>
-<p>Points: 63</p>
-<p># Comments: 24</p>
+<p>Article URL: <a href="https://dbushell.com/2026/09/22/apple-intelligence/">https://dbushell.com/2026/09/22/apple-intelligence/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49797982">https://news.ycombinator.com/item?id=49797982</a></p>
+<p>Points: 37</p>
+<p># Comments: 12</p>
 
-🔗 **Read more:** [https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/](https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/)
-
----
-
-### 4. Burnham expects to find 'common ground' with Trump in first meeting
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-In New York, the prime minister will also deliver a speech to the UN General Assembly expected to be focused on AI.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqevwpmvpekeo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqevwpmvpekeo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://dbushell.com/2026/09/22/apple-intelligence/](https://dbushell.com/2026/09/22/apple-intelligence/)
 
 ---
 
-### 5. UK to provide Saudi Arabia with 'defensive' military support, says Burnham
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The prime minister says "defensive air-to-air refuelling" is to be provided following a request from Saudi Arabia, after it faced attacks from the Houthis in Yemen.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqlykpe4dk0yo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqlykpe4dk0yo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Martha's Rule rolled out at every A&E department in England
+### 4. Martha's Rule rolled out at every A&E department in England
 
 **Source:** BBC
 
@@ -97,42 +72,68 @@ The rule is named after 13-year-old Martha Mills, whose family's concerns about 
 
 ---
 
-### 7. Houthis battle for strategic heights in Yemen as thousands more flee homes
+### 5. Unexpected UK borrowing surge adds to pre-Budget pressure on chancellor
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-Fighting intensifies as US media say Trump called off strikes against Houthis at the last minute on Sunday.
+Borrowing was higher than expected in August as inflation piles pressure on the government ahead of the Budget.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/22/houthis-battle-for-strategic-heights-in-yemen-as-thousands-more-flee-homes?traffic_source=rss](https://www.aljazeera.com/news/2026/9/22/houthis-battle-for-strategic-heights-in-yemen-as-thousands-more-flee-homes?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c68049m18435o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c68049m18435o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. US strikes on alleged drug boats may be ‘crimes against humanity’, UN says
+### 6. Burnham expects to find 'common ground' with Trump in first meeting
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-UN expert says US forces have killed 223 people in 68 attacks in the Caribbean and the Pacific in the past year.
+In New York, the prime minister will also deliver a speech to the UN General Assembly expected to be focused on AI.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/22/us-strikes-on-alleged-drug-boats-may-be-crimes-against-humanity-un-says?traffic_source=rss](https://www.aljazeera.com/news/2026/9/22/us-strikes-on-alleged-drug-boats-may-be-crimes-against-humanity-un-says?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqevwpmvpekeo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqevwpmvpekeo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 9. 20 countries propose global oversight body to manage AI dangers
+### 7. India defeat Sri Lanka by 147 runs as Mandhana shines in Asian Games final
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Countries including Germany, South Africa and Canada suggest international institution to set and enforce standards.
+Sri Lanka were bowled out for 69 runs, 10 less than Mandhana&#039;s belligerent match-winning innings as India retained gold.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/22/20-countries-propose-global-oversight-body-to-manage-ai-dangers?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/22/20-countries-propose-global-oversight-body-to-manage-ai-dangers?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/22/india-defeat-sri-lanka-by-147-runs-as-mandhana-shines-in-asian-games-final?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/22/india-defeat-sri-lanka-by-147-runs-as-mandhana-shines-in-asian-games-final?traffic_source=rss)
+
+---
+
+### 8. Gunman opens fire near high school in western Turkiye, wounding eight
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Police arrest suspect in shooting near high school as injured are rushed to local hospitals for treatment.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/22/gunman-wounds-eight-in-shooting-near-high-school-in-western-turkiye?traffic_source=rss](https://www.aljazeera.com/news/2026/9/22/gunman-wounds-eight-in-shooting-near-high-school-in-western-turkiye?traffic_source=rss)
+
+---
+
+### 9. ‘Deadly hazards’: Behind Sudan gold mine collapse, a wartime desperation
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Nearly 100 people have died in recent days in the scramble for gold, whose value has grown in a shattered economy.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/22/deadly-hazards-behind-sudan-gold-mine-collapse-a-wartime-desperation?traffic_source=rss](https://www.aljazeera.com/news/2026/9/22/deadly-hazards-behind-sudan-gold-mine-collapse-a-wartime-desperation?traffic_source=rss)
 
 ---
 

@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-22 03:24:54
+**Last Update:** 2026-09-22 03:41:41
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Spymarks, Not Watermarks
+### 1. 7 out of 9 Planetary Boundaries are breached
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.planetaryhealthcheck.org/">https://www.planetaryhealthcheck.org/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49795019">https://news.ycombinator.com/item?id=49795019</a></p>
+<p>Points: 5</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://www.planetaryhealthcheck.org/](https://www.planetaryhealthcheck.org/)
+
+---
+
+### 2. Spymarks, Not Watermarks
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://brand.io/article/spymarks/">https://brand.io/article/spymarks/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49794615">https://news.ycombinator.com/item?id=49794615</a></p>
-<p>Points: 16</p>
-<p># Comments: 6</p>
+<p>Points: 27</p>
+<p># Comments: 7</p>
 
 🔗 **Read more:** [https://brand.io/article/spymarks/](https://brand.io/article/spymarks/)
 
 ---
 
-### 2. Data Protection Commission fines Google €403M over processing of location data
+### 3. Data Protection Commission fines Google €403M over processing of location data
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.dataprotection.ie/en/news-media/latest-news/data-protection-commission-fines-google-eu403-million-following-inquiry-googles-processing-location">https://www.dataprotection.ie/en/news-media/latest-news/data-protection-commission-fines-google-eu403-million-following-inquiry-googles-processing-location</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49794354">https://news.ycombinator.com/item?id=49794354</a></p>
-<p>Points: 48</p>
-<p># Comments: 12</p>
+<p>Points: 54</p>
+<p># Comments: 20</p>
 
 🔗 **Read more:** [https://www.dataprotection.ie/en/news-media/latest-news/data-protection-commission-fines-google-eu403-million-following-inquiry-googles-processing-location](https://www.dataprotection.ie/en/news-media/latest-news/data-protection-commission-fines-google-eu403-million-following-inquiry-googles-processing-location)
-
----
-
-### 3. I don't want to read what you didn't write
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/">https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49794330">https://news.ycombinator.com/item?id=49794330</a></p>
-<p>Points: 106</p>
-<p># Comments: 35</p>
-
-🔗 **Read more:** [https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/](https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/)
 
 ---
 

@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-23 23:30:42
+**Last Update:** 2026-09-24 00:02:50
 
 **Total News:** 12
 
@@ -10,7 +10,39 @@
 
 ## 📰 Latest News
 
-### 1. How we made claude.ai 3x faster in two weeks
+### 1. How can this Amazon scammer keep going, not shipping any goods?
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.amazon.de/sp?language=en&amp;ie=UTF8&amp;seller=A29EBN4DXM8UCL&amp;asin=B0CGBFF8K9&amp;ref_=dp_merchant_link">https://www.amazon.de/sp?language=en&amp;ie=UTF8&amp;seller=A29EBN4DXM8UCL&amp;asin=B0CGBFF8K9&amp;ref_=dp_merchant_link</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49821925">https://news.ycombinator.com/item?id=49821925</a></p>
+<p>Points: 10</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://www.amazon.de/sp?language=en&ie=UTF8&seller=A29EBN4DXM8UCL&asin=B0CGBFF8K9&ref_=dp_merchant_link](https://www.amazon.de/sp?language=en&ie=UTF8&seller=A29EBN4DXM8UCL&asin=B0CGBFF8K9&ref_=dp_merchant_link)
+
+---
+
+### 2. DoorDash Spent $1.4M Trying to Stop Mamdani from Becoming Mayor. Now We Know Why
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://theintercept.com/2026/09/23/doordash-delivery-nyc-mamdani-wage-theft-settlement/">https://theintercept.com/2026/09/23/doordash-delivery-nyc-mamdani-wage-theft-settlement/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49821608">https://news.ycombinator.com/item?id=49821608</a></p>
+<p>Points: 66</p>
+<p># Comments: 12</p>
+
+🔗 **Read more:** [https://theintercept.com/2026/09/23/doordash-delivery-nyc-mamdani-wage-theft-settlement/](https://theintercept.com/2026/09/23/doordash-delivery-nyc-mamdani-wage-theft-settlement/)
+
+---
+
+### 3. How we made claude.ai 3x faster in two weeks
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://claude.dev/blog/how-we-made-claude-ai-faster/">https://claude.dev/blog/how-we-made-claude-ai-faster/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49821196">https://news.ycombinator.com/item?id=49821196</a></p>
-<p>Points: 45</p>
-<p># Comments: 8</p>
+<p>Points: 70</p>
+<p># Comments: 36</p>
 
 🔗 **Read more:** [https://claude.dev/blog/how-we-made-claude-ai-faster/](https://claude.dev/blog/how-we-made-claude-ai-faster/)
-
----
-
-### 2. Cloud Agents Are Inevitable AI Prisons
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://normanponte.io/19df691f">https://normanponte.io/19df691f</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49820267">https://news.ycombinator.com/item?id=49820267</a></p>
-<p>Points: 29</p>
-<p># Comments: 14</p>
-
-🔗 **Read more:** [https://normanponte.io/19df691f](https://normanponte.io/19df691f)
-
----
-
-### 3. Claude discovers a novel enzyme system with CRISPR-like repeats
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.anthropic.com/news/claude-discovers-novel-enzyme-system">https://www.anthropic.com/news/claude-discovers-novel-enzyme-system</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49820134">https://news.ycombinator.com/item?id=49820134</a></p>
-<p>Points: 179</p>
-<p># Comments: 157</p>
-
-🔗 **Read more:** [https://www.anthropic.com/news/claude-discovers-novel-enzyme-system](https://www.anthropic.com/news/claude-discovers-novel-enzyme-system)
 
 ---
 
@@ -97,7 +97,33 @@ The two pilots ejected from the jet before crash and sustained minor injuries.
 
 ---
 
-### 7. Ivory Coast vs Ghana: AFCON 2027 qualifier, kick-off time, lineups, teams
+### 7. As major powers act unilaterally, experts say UN faces crisis in New York
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Experts warn the UN faces crises of funding, relevance, and Security Council gridlock.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/23/as-major-powers-act-unilaterally-experts-say-un-faces-crisis-in-new-york?traffic_source=rss](https://www.aljazeera.com/news/2026/9/23/as-major-powers-act-unilaterally-experts-say-un-faces-crisis-in-new-york?traffic_source=rss)
+
+---
+
+### 8. Manchester United losses jump nearly a third to $57m despite record revenue
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Manchester United&#039;s debt remains over 1 billion pounds ($1.3bn) despite record revenues that are unable to prevent loss.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/23/man-utd-losses-jump-almost-a-third-despite-record-revenues?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/23/man-utd-losses-jump-almost-a-third-despite-record-revenues?traffic_source=rss)
+
+---
+
+### 9. Ivory Coast vs Ghana: AFCON 2027 qualifier, kick-off time, lineups, teams
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ The two pilots ejected from the jet before crash and sustained minor injuries.
 A star-studded opening to AFCON 2027 qualifying sees Real Madrid&#039;s Yan Diomande lead Ivory Coast against depleted Ghana.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/23/ivory-coast-vs-ghana-caf-afcon-qualifier-prediction-teams-lineups?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/23/ivory-coast-vs-ghana-caf-afcon-qualifier-prediction-teams-lineups?traffic_source=rss)
-
----
-
-### 8. Ukraine’s Zelenskyy calls for sustained pressure to end ‘Putin’s crazy war’
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Ukrainian president urges world leaders to keep choking Russia&#039;s revenues to impede its war efforts.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/23/zelenskyy-calls-for-sustained-pressure-on-patient-zero-putin-in-un-speech?traffic_source=rss](https://www.aljazeera.com/news/2026/9/23/zelenskyy-calls-for-sustained-pressure-on-patient-zero-putin-in-un-speech?traffic_source=rss)
-
----
-
-### 9. Israeli soldier wounded in car-ramming attack in occupied West Bank
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Israeli soldier Neria Leiter wounded in a suspected car-ramming attack near the illegal settlement of Beit Horon.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/23/23-09-sv-israeli-solider-injured-leiter-il?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/23/23-09-sv-israeli-solider-injured-leiter-il?traffic_source=rss)
 
 ---
 

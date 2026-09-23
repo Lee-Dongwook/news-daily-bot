@@ -1,32 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-23 19:54:52
+**Last Update:** 2026-09-23 20:48:13
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Woman Arrested, Dragged Away After Speaking About Flock at City Council Meeting
+### 1. 28% of job postings on company career sites have been open over 90 days
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.404media.co/woman-arrested-after-city-council-denies-residents-right-to-speak-on-flock-cameras/">https://www.404media.co/woman-arrested-after-city-council-denies-residents-right-to-speak-on-flock-cameras/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49817877">https://news.ycombinator.com/item?id=49817877</a></p>
-<p>Points: 47</p>
-<p># Comments: 10</p>
+<p>Article URL: <a href="https://unlisted.careers/ghost-jobs/report/2026-09">https://unlisted.careers/ghost-jobs/report/2026-09</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49818698">https://news.ycombinator.com/item?id=49818698</a></p>
+<p>Points: 23</p>
+<p># Comments: 19</p>
 
-🔗 **Read more:** [https://www.404media.co/woman-arrested-after-city-council-denies-residents-right-to-speak-on-flock-cameras/](https://www.404media.co/woman-arrested-after-city-council-denies-residents-right-to-speak-on-flock-cameras/)
+🔗 **Read more:** [https://unlisted.careers/ghost-jobs/report/2026-09](https://unlisted.careers/ghost-jobs/report/2026-09)
 
 ---
 
-### 2. Gemini 3.8 text-to-speech says hello
+### 2. Gemini 3.8 text-to-speech
 
 **Source:** Hacker News
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/">https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49817615">https://news.ycombinator.com/item?id=49817615</a></p>
-<p>Points: 8</p>
-<p># Comments: 0</p>
+<p>Points: 78</p>
+<p># Comments: 39</p>
 
 🔗 **Read more:** [https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/)
 
@@ -51,27 +51,40 @@
 **Description:**
 <p>Article URL: <a href="https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol">https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49817524">https://news.ycombinator.com/item?id=49817524</a></p>
-<p>Points: 17</p>
-<p># Comments: 3</p>
+<p>Points: 33</p>
+<p># Comments: 11</p>
 
 🔗 **Read more:** [https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol](https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol)
 
 ---
 
-### 4. Government orders urgent investigation after two migrant boats reach UK undetected
+### 4. UK military jamming other nation's satellites to defend itself, BBC told
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Usually brought ashore by Border Security Command or the RNLI, these are the first uncontrolled landings since 2025.
+The head of the RAF says the UK faces "unprecedented threats" from adversaries in space, as a new unit is created to defend Britain's satellites.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c32l8y8kygdvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c32l8y8kygdvo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Home secretary says undetected migrant landings 'unacceptable'
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The arrivals of two unescorted migrant boats mark the first uncontrolled landings recorded in the UK since 2025.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm5yjzj8l5k5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm5yjzj8l5k5o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Watch: Moment pilots eject as RAF jet crashes in Anglesey
+### 6. Watch: Moment pilots eject as RAF jet crashes in Anglesey
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ The two pilots ejected from the jet before crash and sustained minor injuries.
 
 ---
 
-### 6. Iran's president tells Trump it will never 'bend the knee'
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Masoud Pezeshkian's defiant speech to the UN comes after the US president threatened to "annihilate" Iran if a peace deal is not agreed soon.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. KPMG manager says she was fired after facing harassment over her keffiyeh
+### 7. Israel’s destruction leaves Lebanon’s border villages in ruins
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-KPMG manager says she was fired after facing harassment over her keffiyeh
+Israel’s destruction leaves Lebanon’s border villages in ruins
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/23/kpmg-manager-says-she-was-fired-after-facing-harassment-over-her-keffiyeh?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/23/kpmg-manager-says-she-was-fired-after-facing-harassment-over-her-keffiyeh?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/23/israels-destruction-leaves-lebanons-border-villages-in-ruins?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/23/israels-destruction-leaves-lebanons-border-villages-in-ruins?traffic_source=rss)
 
 ---
 
-### 8. ‘They kill, we are punished’: Iran calls out Western hypocrisy
+### 8. Syria’s al-Sharaa warns Israeli attacks endanger delicate post-war recovery
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Iranian President Masoud Pezeshkian has accused Israel and the US of applying ‘double standards’.
+President Ahmed al-Sharaa calls for Israeli withdrawal, condemning its attacks as Syria emerges from civil war.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/23/they-kill-we-are-punished-iran-calls-out-western-hypocrisy?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/23/they-kill-we-are-punished-iran-calls-out-western-hypocrisy?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/23/syrias-al-sharaa-warns-israeli-attacks-endanger-delicate-post-war-recovery?traffic_source=rss](https://www.aljazeera.com/news/2026/9/23/syrias-al-sharaa-warns-israeli-attacks-endanger-delicate-post-war-recovery?traffic_source=rss)
 
 ---
 
-### 9. UEFA Nations League 2026-27: Groups, teams, top players, format
+### 9. How and why the UN General Assembly is gaining prominence
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-All to know about the fifth edition of the competition as its league phase begins on Thursday.
+The gridlock in the UNSC and emerging multipolarity are shifting political weight to the UNGA.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/23/uefa-nations-league-2026-27-format-teams-players-schedule?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/23/uefa-nations-league-2026-27-format-teams-players-schedule?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/9/23/how-and-why-the-un-general-assembly-is-gaining-prominence?traffic_source=rss](https://www.aljazeera.com/opinions/2026/9/23/how-and-why-the-un-general-assembly-is-gaining-prominence?traffic_source=rss)
 
 ---
 

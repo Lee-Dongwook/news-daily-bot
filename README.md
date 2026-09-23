@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-23 15:23:01
+**Last Update:** 2026-09-23 19:54:52
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. The Download: why AI's latest breakthroughs and fears may be more hype than rea
+### 1. Woman Arrested, Dragged Away After Speaking About Flock at City Council Meeting
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/">https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49814211">https://news.ycombinator.com/item?id=49814211</a></p>
-<p>Points: 10</p>
+<p>Article URL: <a href="https://www.404media.co/woman-arrested-after-city-council-denies-residents-right-to-speak-on-flock-cameras/">https://www.404media.co/woman-arrested-after-city-council-denies-residents-right-to-speak-on-flock-cameras/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49817877">https://news.ycombinator.com/item?id=49817877</a></p>
+<p>Points: 47</p>
+<p># Comments: 10</p>
+
+🔗 **Read more:** [https://www.404media.co/woman-arrested-after-city-council-denies-residents-right-to-speak-on-flock-cameras/](https://www.404media.co/woman-arrested-after-city-council-denies-residents-right-to-speak-on-flock-cameras/)
+
+---
+
+### 2. Gemini 3.8 text-to-speech says hello
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/">https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49817615">https://news.ycombinator.com/item?id=49817615</a></p>
+<p>Points: 8</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/](https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/)
+🔗 **Read more:** [https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/)
 
 ---
 
-### 2. The darker side of being a doctor
+### 3. Radicle: Disclosure of Vulnerability in the Network Protocol
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://drericlevi.pages.dev/the-darker-side-of-being-a-doctor/">https://drericlevi.pages.dev/the-darker-side-of-being-a-doctor/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49814159">https://news.ycombinator.com/item?id=49814159</a></p>
-<p>Points: 56</p>
-<p># Comments: 13</p>
+<p>Article URL: <a href="https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol">https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49817524">https://news.ycombinator.com/item?id=49817524</a></p>
+<p>Points: 17</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://drericlevi.pages.dev/the-darker-side-of-being-a-doctor/](https://drericlevi.pages.dev/the-darker-side-of-being-a-doctor/)
-
----
-
-### 3. I am done with this shit
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.reddit.com/r/ClaudeAI/comments/1wm5c21/i_am_done_with_this_shit/">https://www.reddit.com/r/ClaudeAI/comments/1wm5c21/i_am_done_with_this_shit/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49812975">https://news.ycombinator.com/item?id=49812975</a></p>
-<p>Points: 94</p>
-<p># Comments: 40</p>
-
-🔗 **Read more:** [https://www.reddit.com/r/ClaudeAI/comments/1wm5c21/i_am_done_with_this_shit/](https://www.reddit.com/r/ClaudeAI/comments/1wm5c21/i_am_done_with_this_shit/)
+🔗 **Read more:** [https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol](https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol)
 
 ---
 
-### 4. UK to review Chagos Islands deal over lack of US support, Streeting tells BBC
+### 4. Government orders urgent investigation after two migrant boats reach UK undetected
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Defence Secretary Wes Streeting has confirmed the review after Donald Trump told Andy Burnham the deal was "terrible".
+Usually brought ashore by Border Security Command or the RNLI, these are the first uncontrolled landings since 2025.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck3wjy3pdwdno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck3wjy3pdwdno?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm5yjzj8l5k5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm5yjzj8l5k5o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Chris Mason: From inside the room, how Burnham survived first Trump meeting
+### 5. Watch: Moment pilots eject as RAF jet crashes in Anglesey
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Burnham seemed nervous at first, knowing how explosive these encounters with Trump can be, writes BBC political editor Chris Mason.
+The two pilots ejected from the jet before crash and sustained minor injuries.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm158y74n5vxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm158y74n5vxo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c6wyz0zlx10qo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c6wyz0zlx10qo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Open wounds and eyes that can't close - women warn about cheap bleph eyelid surgery
+### 6. Iran's president tells Trump it will never 'bend the knee'
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-A concerning number of patients are reporting problems from treatment abroad, say doctors.
+Masoud Pezeshkian's defiant speech to the UN comes after the US president threatened to "annihilate" Iran if a peace deal is not agreed soon.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9rk3rdp644mo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9rk3rdp644mo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Qatar on mediation efforts: ‘We can’t let diplomacy fail’
+### 7. KPMG manager says she was fired after facing harassment over her keffiyeh
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Qatar’s Majed al-Ansari says Doha is determined to make diplomacy work to end the US-Iran conflict.
+KPMG manager says she was fired after facing harassment over her keffiyeh
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/23/qatar-on-mediation-efforts-we-cant-let-diplomacy?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/23/qatar-on-mediation-efforts-we-cant-let-diplomacy?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/23/kpmg-manager-says-she-was-fired-after-facing-harassment-over-her-keffiyeh?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/23/kpmg-manager-says-she-was-fired-after-facing-harassment-over-her-keffiyeh?traffic_source=rss)
 
 ---
 
-### 8. China’s swimming prodigy Yu Zidi bags third gold in Asian Games record
+### 8. ‘They kill, we are punished’: Iran calls out Western hypocrisy
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The 13-year-old beat the previous 400m Asian Games record, set by China’s Ye Shiwen in 2014, by about 4.5 seconds.
+Iranian President Masoud Pezeshkian has accused Israel and the US of applying ‘double standards’.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/23/chinas-swimming-prodigy-yu-zidi-bags-third-gold-in-asian-games-record?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/23/chinas-swimming-prodigy-yu-zidi-bags-third-gold-in-asian-games-record?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/23/they-kill-we-are-punished-iran-calls-out-western-hypocrisy?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/23/they-kill-we-are-punished-iran-calls-out-western-hypocrisy?traffic_source=rss)
 
 ---
 
-### 9. Powerful El Nino could cause more than 450,000 deaths, scientists say
+### 9. UEFA Nations League 2026-27: Groups, teams, top players, format
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Heaviest toll expected in poorer countries, already struggling with food insecurity and high energy costs, report says.
+All to know about the fifth edition of the competition as its league phase begins on Thursday.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/23/powerful-el-nino-could-cause-450000-deaths-scientists-say?traffic_source=rss](https://www.aljazeera.com/news/2026/9/23/powerful-el-nino-could-cause-450000-deaths-scientists-say?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/23/uefa-nations-league-2026-27-format-teams-players-schedule?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/23/uefa-nations-league-2026-27-format-teams-players-schedule?traffic_source=rss)
 
 ---
 

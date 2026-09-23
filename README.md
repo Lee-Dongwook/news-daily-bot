@@ -1,32 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-23 14:33:39
+**Last Update:** 2026-09-23 15:23:01
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. What Is an AI Software Factory? Lessons from 3 Client Deployments
+### 1. The Download: why AI's latest breakthroughs and fears may be more hype than rea
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://camplight.net/ai/ai-software-factory/">https://camplight.net/ai/ai-software-factory/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49813704">https://news.ycombinator.com/item?id=49813704</a></p>
-<p>Points: 6</p>
+<p>Article URL: <a href="https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/">https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49814211">https://news.ycombinator.com/item?id=49814211</a></p>
+<p>Points: 10</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://camplight.net/ai/ai-software-factory/](https://camplight.net/ai/ai-software-factory/)
+🔗 **Read more:** [https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/](https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/)
 
 ---
 
-### 2. I am done with this shit
+### 2. The darker side of being a doctor
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://drericlevi.pages.dev/the-darker-side-of-being-a-doctor/">https://drericlevi.pages.dev/the-darker-side-of-being-a-doctor/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49814159">https://news.ycombinator.com/item?id=49814159</a></p>
+<p>Points: 56</p>
+<p># Comments: 13</p>
+
+🔗 **Read more:** [https://drericlevi.pages.dev/the-darker-side-of-being-a-doctor/](https://drericlevi.pages.dev/the-darker-side-of-being-a-doctor/)
+
+---
+
+### 3. I am done with this shit
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.reddit.com/r/ClaudeAI/comments/1wm5c21/i_am_done_with_this_shit/">https://www.reddit.com/r/ClaudeAI/comments/1wm5c21/i_am_done_with_this_shit/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49812975">https://news.ycombinator.com/item?id=49812975</a></p>
-<p>Points: 44</p>
-<p># Comments: 9</p>
+<p>Points: 94</p>
+<p># Comments: 40</p>
 
 🔗 **Read more:** [https://www.reddit.com/r/ClaudeAI/comments/1wm5c21/i_am_done_with_this_shit/](https://www.reddit.com/r/ClaudeAI/comments/1wm5c21/i_am_done_with_this_shit/)
-
----
-
-### 3. Jev in 25 Lines of Python
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.nobodywho.ai/posts/jev-in-25-lines/">https://www.nobodywho.ai/posts/jev-in-25-lines/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49812769">https://news.ycombinator.com/item?id=49812769</a></p>
-<p>Points: 193</p>
-<p># Comments: 62</p>
-
-🔗 **Read more:** [https://www.nobodywho.ai/posts/jev-in-25-lines/](https://www.nobodywho.ai/posts/jev-in-25-lines/)
 
 ---
 
@@ -71,20 +71,7 @@ Defence Secretary Wes Streeting has confirmed the review after Donald Trump told
 
 ---
 
-### 5. UK to step up fight against Russian disinformation and push global AI standards, PM says
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The UK could act as "an honest broker" on AI and other global challenges, the prime minister tells world leaders at the UN.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6rerlq99w30o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6rerlq99w30o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Chris Mason: From inside the room, how Burnham survived first Trump meeting
+### 5. Chris Mason: From inside the room, how Burnham survived first Trump meeting
 
 **Source:** BBC
 
@@ -97,7 +84,33 @@ Burnham seemed nervous at first, knowing how explosive these encounters with Tru
 
 ---
 
-### 7. China’s swimming prodigy Yu Zidi bags third gold in Asian Games record
+### 6. Open wounds and eyes that can't close - women warn about cheap bleph eyelid surgery
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+A concerning number of patients are reporting problems from treatment abroad, say doctors.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9rk3rdp644mo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9rk3rdp644mo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 7. Qatar on mediation efforts: ‘We can’t let diplomacy fail’
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Qatar’s Majed al-Ansari says Doha is determined to make diplomacy work to end the US-Iran conflict.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/23/qatar-on-mediation-efforts-we-cant-let-diplomacy?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/23/qatar-on-mediation-efforts-we-cant-let-diplomacy?traffic_source=rss)
+
+---
+
+### 8. China’s swimming prodigy Yu Zidi bags third gold in Asian Games record
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ The 13-year-old beat the previous 400m Asian Games record, set by China’s Ye S
 
 ---
 
-### 8. Powerful El Nino could cause more than 450,000 deaths, scientists say
+### 9. Powerful El Nino could cause more than 450,000 deaths, scientists say
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ The 13-year-old beat the previous 400m Asian Games record, set by China’s Ye S
 Heaviest toll expected in poorer countries, already struggling with food insecurity and high energy costs, report says.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/23/powerful-el-nino-could-cause-450000-deaths-scientists-say?traffic_source=rss](https://www.aljazeera.com/news/2026/9/23/powerful-el-nino-could-cause-450000-deaths-scientists-say?traffic_source=rss)
-
----
-
-### 9. As AI leaders warn of catastrophe, US and China shun slowdown calls
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Presidents Donald Trump and Xi Jinping are expected to agree to only limited cooperation on AI safety at summit.
-
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/23/as-ai-leaders-warn-of-catastrophe-us-and-china-shun-slowdown-calls?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/23/as-ai-leaders-warn-of-catastrophe-us-and-china-shun-slowdown-calls?traffic_source=rss)
 
 ---
 

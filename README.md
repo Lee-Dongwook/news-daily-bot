@@ -1,64 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-23 09:39:14
+**Last Update:** 2026-09-23 14:33:39
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Grammarly will send unhinged messages to all your users if you try to cancel
+### 1. What Is an AI Software Factory? Lessons from 3 Client Deployments
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.reddit.com/r/sysadmin/comments/1wjdpgx/psa_grammarly_will_send_unhinged_messages_to_all/">https://www.reddit.com/r/sysadmin/comments/1wjdpgx/psa_grammarly_will_send_unhinged_messages_to_all/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49811484">https://news.ycombinator.com/item?id=49811484</a></p>
-<p>Points: 35</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://camplight.net/ai/ai-software-factory/">https://camplight.net/ai/ai-software-factory/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49813704">https://news.ycombinator.com/item?id=49813704</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.reddit.com/r/sysadmin/comments/1wjdpgx/psa_grammarly_will_send_unhinged_messages_to_all/](https://www.reddit.com/r/sysadmin/comments/1wjdpgx/psa_grammarly_will_send_unhinged_messages_to_all/)
+🔗 **Read more:** [https://camplight.net/ai/ai-software-factory/](https://camplight.net/ai/ai-software-factory/)
 
 ---
 
-### 2. Data-only attacks are easier than you think (2024)
+### 2. I am done with this shit
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think">https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49811429">https://news.ycombinator.com/item?id=49811429</a></p>
-<p>Points: 18</p>
-<p># Comments: 7</p>
+<p>Article URL: <a href="https://www.reddit.com/r/ClaudeAI/comments/1wm5c21/i_am_done_with_this_shit/">https://www.reddit.com/r/ClaudeAI/comments/1wm5c21/i_am_done_with_this_shit/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49812975">https://news.ycombinator.com/item?id=49812975</a></p>
+<p>Points: 44</p>
+<p># Comments: 9</p>
 
-🔗 **Read more:** [https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think](https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think)
+🔗 **Read more:** [https://www.reddit.com/r/ClaudeAI/comments/1wm5c21/i_am_done_with_this_shit/](https://www.reddit.com/r/ClaudeAI/comments/1wm5c21/i_am_done_with_this_shit/)
 
 ---
 
-### 3. Transit rewards (Waymo pays you to take the train)
+### 3. Jev in 25 Lines of Python
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://waymo.com/blog/2026/09/transit-rewards/">https://waymo.com/blog/2026/09/transit-rewards/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49811065">https://news.ycombinator.com/item?id=49811065</a></p>
-<p>Points: 93</p>
-<p># Comments: 68</p>
+<p>Article URL: <a href="https://www.nobodywho.ai/posts/jev-in-25-lines/">https://www.nobodywho.ai/posts/jev-in-25-lines/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49812769">https://news.ycombinator.com/item?id=49812769</a></p>
+<p>Points: 193</p>
+<p># Comments: 62</p>
 
-🔗 **Read more:** [https://waymo.com/blog/2026/09/transit-rewards/](https://waymo.com/blog/2026/09/transit-rewards/)
+🔗 **Read more:** [https://www.nobodywho.ai/posts/jev-in-25-lines/](https://www.nobodywho.ai/posts/jev-in-25-lines/)
 
 ---
 
-### 4. UK to fight Russian disinformation and push new global AI standards, Burnham says
+### 4. UK to review Chagos Islands deal over lack of US support, Streeting tells BBC
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Defence Secretary Wes Streeting has confirmed the review after Donald Trump told Andy Burnham the deal was "terrible".
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck3wjy3pdwdno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck3wjy3pdwdno?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. UK to step up fight against Russian disinformation and push global AI standards, PM says
 
 **Source:** BBC
 
@@ -68,19 +81,6 @@
 The UK could act as "an honest broker" on AI and other global challenges, the prime minister tells world leaders at the UN.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6rerlq99w30o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6rerlq99w30o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Watch: Key moments from Andy Burnham's first UN speech
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-In his first speech to the UN as UK prime minister, Burnham highlighted the risks posed by Russian disinformation.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cq5y4zpn655ko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cq5y4zpn655ko?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +97,42 @@ Burnham seemed nervous at first, knowing how explosive these encounters with Tru
 
 ---
 
-### 7. Trump rallies Shield of the Americas coalition against drug cartels
+### 7. China’s swimming prodigy Yu Zidi bags third gold in Asian Games record
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US-led anti-cartel alliance backs sanctions against crime groups after Trump urges stronger action.
+The 13-year-old beat the previous 400m Asian Games record, set by China’s Ye Shiwen in 2014, by about 4.5 seconds.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/23/trump-rallies-shield-of-the-americas-coalition-against-drug-cartels?traffic_source=rss](https://www.aljazeera.com/news/2026/9/23/trump-rallies-shield-of-the-americas-coalition-against-drug-cartels?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/23/chinas-swimming-prodigy-yu-zidi-bags-third-gold-in-asian-games-record?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/23/chinas-swimming-prodigy-yu-zidi-bags-third-gold-in-asian-games-record?traffic_source=rss)
 
 ---
 
-### 8. Cooperation is the goal at the UNGA, but is it possible?
+### 8. Powerful El Nino could cause more than 450,000 deaths, scientists say
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Debate opened at the UN General Assembly and leaders from across the world made their arguments.
+Heaviest toll expected in poorer countries, already struggling with food insecurity and high energy costs, report says.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/23/cooperation-is-the-goal-at-the-unga-but-is-it-possible?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/23/cooperation-is-the-goal-at-the-unga-but-is-it-possible?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/23/powerful-el-nino-could-cause-450000-deaths-scientists-say?traffic_source=rss](https://www.aljazeera.com/news/2026/9/23/powerful-el-nino-could-cause-450000-deaths-scientists-say?traffic_source=rss)
 
 ---
 
-### 9. Six-year-old sets Rubik’s Cube world record twice in three days
+### 9. As AI leaders warn of catastrophe, US and China shun slowdown calls
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Six-year-old Lian Yunzhi broke the women’s Rubik’s Cube world record twice in three days, averaging under 4.5 seconds.
+Presidents Donald Trump and Xi Jinping are expected to agree to only limited cooperation on AI safety at summit.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/23/six-year-old-sets-rubiks-cube-world-record-twice-in-three-days?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/23/six-year-old-sets-rubiks-cube-world-record-twice-in-three-days?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/23/as-ai-leaders-warn-of-catastrophe-us-and-china-shun-slowdown-calls?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/23/as-ai-leaders-warn-of-catastrophe-us-and-china-shun-slowdown-calls?traffic_source=rss)
 
 ---
 

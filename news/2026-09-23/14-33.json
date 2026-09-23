@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-23T14:33:39+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "What Is an AI Software Factory? Lessons from 3 Client Deployments",
+            "description": "<p>Article URL: <a href=\"https://camplight.net/ai/ai-software-factory/\">https://camplight.net/ai/ai-software-factory/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49813704\">https://news.ycombinator.com/item?id=49813704</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+            "url": "https://camplight.net/ai/ai-software-factory/",
+            "published": "Wed, 23 Sep 2026 09:57:06 +0000",
+            "fetched": "2026-09-23T14:33:39+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "I am done with this shit",
+            "description": "<p>Article URL: <a href=\"https://www.reddit.com/r/ClaudeAI/comments/1wm5c21/i_am_done_with_this_shit/\">https://www.reddit.com/r/ClaudeAI/comments/1wm5c21/i_am_done_with_this_shit/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49812975\">https://news.ycombinator.com/item?id=49812975</a></p>\n<p>Points: 44</p>\n<p># Comments: 9</p>",
+            "url": "https://www.reddit.com/r/ClaudeAI/comments/1wm5c21/i_am_done_with_this_shit/",
+            "published": "Wed, 23 Sep 2026 07:59:14 +0000",
+            "fetched": "2026-09-23T14:33:39+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Jev in 25 Lines of Python",
+            "description": "<p>Article URL: <a href=\"https://www.nobodywho.ai/posts/jev-in-25-lines/\">https://www.nobodywho.ai/posts/jev-in-25-lines/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49812769\">https://news.ycombinator.com/item?id=49812769</a></p>\n<p>Points: 193</p>\n<p># Comments: 62</p>",
+            "url": "https://www.nobodywho.ai/posts/jev-in-25-lines/",
+            "published": "Wed, 23 Sep 2026 07:26:23 +0000",
+            "fetched": "2026-09-23T14:33:39+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK to review Chagos Islands deal over lack of US support, Streeting tells BBC",
+            "description": "Defence Secretary Wes Streeting has confirmed the review after Donald Trump told Andy Burnham the deal was \"terrible\".",
+            "url": "https://www.bbc.co.uk/news/articles/ck3wjy3pdwdno?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 23 Sep 2026 10:49:44 GMT",
+            "fetched": "2026-09-23T14:33:39+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK to step up fight against Russian disinformation and push global AI standards, PM says",
+            "description": "The UK could act as \"an honest broker\" on AI and other global challenges, the prime minister tells world leaders at the UN.",
+            "url": "https://www.bbc.co.uk/news/articles/c6rerlq99w30o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 23 Sep 2026 07:07:20 GMT",
+            "fetched": "2026-09-23T14:33:39+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Chris Mason: From inside the room, how Burnham survived first Trump meeting",
+            "description": "Burnham seemed nervous at first, knowing how explosive these encounters with Trump can be, writes BBC political editor Chris Mason.",
+            "url": "https://www.bbc.co.uk/news/articles/cm158y74n5vxo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 23 Sep 2026 04:32:59 GMT",
+            "fetched": "2026-09-23T14:33:39+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "China’s swimming prodigy Yu Zidi bags third gold in Asian Games record",
+            "description": "The 13-year-old beat the previous 400m Asian Games record, set by China’s Ye Shiwen in 2014, by about 4.5 seconds.",
+            "url": "https://www.aljazeera.com/sports/2026/9/23/chinas-swimming-prodigy-yu-zidi-bags-third-gold-in-asian-games-record?traffic_source=rss",
+            "published": "Wed, 23 Sep 2026 10:50:43 +0000",
+            "fetched": "2026-09-23T14:33:39+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Powerful El Nino could cause more than 450,000 deaths, scientists say",
+            "description": "Heaviest toll expected in poorer countries, already struggling with food insecurity and high energy costs, report says.",
+            "url": "https://www.aljazeera.com/news/2026/9/23/powerful-el-nino-could-cause-450000-deaths-scientists-say?traffic_source=rss",
+            "published": "Wed, 23 Sep 2026 10:44:52 +0000",
+            "fetched": "2026-09-23T14:33:39+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "As AI leaders warn of catastrophe, US and China shun slowdown calls",
+            "description": "Presidents Donald Trump and Xi Jinping are expected to agree to only limited cooperation on AI safety at summit.",
+            "url": "https://www.aljazeera.com/economy/2026/9/23/as-ai-leaders-warn-of-catastrophe-us-and-china-shun-slowdown-calls?traffic_source=rss",
+            "published": "Wed, 23 Sep 2026 10:27:38 +0000",
+            "fetched": "2026-09-23T14:33:39+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Polo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24721",
+            "published": "2026-09-21T00:00:00Z",
+            "fetched": "2026-09-23T14:33:39+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Round Prarie, Morehouse, Louisiana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24710",
+            "published": "2026-09-20T17:32:00Z",
+            "fetched": "2026-09-23T14:33:39+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Fay",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24722",
+            "published": "2026-09-20T09:00:00Z",
+            "fetched": "2026-09-23T14:33:39+03:30"
+        }
+    ]
+}

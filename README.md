@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-23 09:08:28
+**Last Update:** 2026-09-23 09:39:14
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Data-only attacks are easier than you think (2024)
+### 1. Grammarly will send unhinged messages to all your users if you try to cancel
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.reddit.com/r/sysadmin/comments/1wjdpgx/psa_grammarly_will_send_unhinged_messages_to_all/">https://www.reddit.com/r/sysadmin/comments/1wjdpgx/psa_grammarly_will_send_unhinged_messages_to_all/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49811484">https://news.ycombinator.com/item?id=49811484</a></p>
+<p>Points: 35</p>
+<p># Comments: 6</p>
+
+🔗 **Read more:** [https://www.reddit.com/r/sysadmin/comments/1wjdpgx/psa_grammarly_will_send_unhinged_messages_to_all/](https://www.reddit.com/r/sysadmin/comments/1wjdpgx/psa_grammarly_will_send_unhinged_messages_to_all/)
+
+---
+
+### 2. Data-only attacks are easier than you think (2024)
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think">https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49811429">https://news.ycombinator.com/item?id=49811429</a></p>
-<p>Points: 15</p>
-<p># Comments: 4</p>
+<p>Points: 18</p>
+<p># Comments: 7</p>
 
 🔗 **Read more:** [https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think](https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think)
 
 ---
 
-### 2. Transit rewards (Waymo pays you to take the train)
+### 3. Transit rewards (Waymo pays you to take the train)
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://waymo.com/blog/2026/09/transit-rewards/">https://waymo.com/blog/2026/09/transit-rewards/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49811065">https://news.ycombinator.com/item?id=49811065</a></p>
-<p>Points: 63</p>
-<p># Comments: 42</p>
+<p>Points: 93</p>
+<p># Comments: 68</p>
 
 🔗 **Read more:** [https://waymo.com/blog/2026/09/transit-rewards/](https://waymo.com/blog/2026/09/transit-rewards/)
-
----
-
-### 3. The current balance of power in open models
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.interconnects.ai/p/the-current-balance-of-power-in-open">https://www.interconnects.ai/p/the-current-balance-of-power-in-open</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49808816">https://news.ycombinator.com/item?id=49808816</a></p>
-<p>Points: 65</p>
-<p># Comments: 21</p>
-
-🔗 **Read more:** [https://www.interconnects.ai/p/the-current-balance-of-power-in-open](https://www.interconnects.ai/p/the-current-balance-of-power-in-open)
 
 ---
 
@@ -84,20 +84,33 @@ In his first speech to the UN as UK prime minister, Burnham highlighted the risk
 
 ---
 
-### 6. Open wounds and eyes that can't close - women warn about cheap bleph eyelid surgery
+### 6. Chris Mason: From inside the room, how Burnham survived first Trump meeting
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-A concerning number of patients are reporting problems from treatment abroad, say doctors.
+Burnham seemed nervous at first, knowing how explosive these encounters with Trump can be, writes BBC political editor Chris Mason.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9rk3rdp644mo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9rk3rdp644mo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm158y74n5vxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm158y74n5vxo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Cooperation is the goal at the UNGA, but is it possible?
+### 7. Trump rallies Shield of the Americas coalition against drug cartels
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+US-led anti-cartel alliance backs sanctions against crime groups after Trump urges stronger action.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/23/trump-rallies-shield-of-the-americas-coalition-against-drug-cartels?traffic_source=rss](https://www.aljazeera.com/news/2026/9/23/trump-rallies-shield-of-the-americas-coalition-against-drug-cartels?traffic_source=rss)
+
+---
+
+### 8. Cooperation is the goal at the UNGA, but is it possible?
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Debate opened at the UN General Assembly and leaders from across the world made 
 
 ---
 
-### 8. Six-year-old sets Rubik’s Cube world record twice in three days
+### 9. Six-year-old sets Rubik’s Cube world record twice in three days
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Debate opened at the UN General Assembly and leaders from across the world made 
 Six-year-old Lian Yunzhi broke the women’s Rubik’s Cube world record twice in three days, averaging under 4.5 seconds.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/23/six-year-old-sets-rubiks-cube-world-record-twice-in-three-days?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/23/six-year-old-sets-rubiks-cube-world-record-twice-in-three-days?traffic_source=rss)
-
----
-
-### 9. US, Iran hold mediated UNGA talks on ending war, opening Strait of Hormuz
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Tehran ties diplomatic progress to lifting shipping blockades and unfreezing assets during New York negotiations.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/23/us-iran-hold-mediated-unga-talks-on-ending-war-opening-strait-of-hormuz?traffic_source=rss](https://www.aljazeera.com/news/2026/9/23/us-iran-hold-mediated-unga-talks-on-ending-war-opening-strait-of-hormuz?traffic_source=rss)
 
 ---
 

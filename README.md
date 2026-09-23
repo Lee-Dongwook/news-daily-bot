@@ -1,32 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-23 04:15:50
+**Last Update:** 2026-09-23 09:08:28
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. The new CC, an AI agent built for families
+### 1. Data-only attacks are easier than you think (2024)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/">https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49809806">https://news.ycombinator.com/item?id=49809806</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think">https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49811429">https://news.ycombinator.com/item?id=49811429</a></p>
+<p>Points: 15</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/](https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/)
+🔗 **Read more:** [https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think](https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think)
 
 ---
 
-### 2. The current balance of power in open models
+### 2. Transit rewards (Waymo pays you to take the train)
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://waymo.com/blog/2026/09/transit-rewards/">https://waymo.com/blog/2026/09/transit-rewards/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49811065">https://news.ycombinator.com/item?id=49811065</a></p>
+<p>Points: 63</p>
+<p># Comments: 42</p>
+
+🔗 **Read more:** [https://waymo.com/blog/2026/09/transit-rewards/](https://waymo.com/blog/2026/09/transit-rewards/)
+
+---
+
+### 3. The current balance of power in open models
 
 **Source:** Hacker News
 
@@ -35,104 +51,88 @@
 **Description:**
 <p>Article URL: <a href="https://www.interconnects.ai/p/the-current-balance-of-power-in-open">https://www.interconnects.ai/p/the-current-balance-of-power-in-open</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49808816">https://news.ycombinator.com/item?id=49808816</a></p>
-<p>Points: 27</p>
-<p># Comments: 7</p>
+<p>Points: 65</p>
+<p># Comments: 21</p>
 
 🔗 **Read more:** [https://www.interconnects.ai/p/the-current-balance-of-power-in-open](https://www.interconnects.ai/p/the-current-balance-of-power-in-open)
 
 ---
 
-### 3. The UV index is not the warm sensation of sunlight on bare skin
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://blog.asciitweezers.com/the-uv-index-is-not-the-warm-sensation-of-sunlight-on-bare-skin/">https://blog.asciitweezers.com/the-uv-index-is-not-the-warm-sensation-of-sunlight-on-bare-skin/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49808109">https://news.ycombinator.com/item?id=49808109</a></p>
-<p>Points: 53</p>
-<p># Comments: 48</p>
-
-🔗 **Read more:** [https://blog.asciitweezers.com/the-uv-index-is-not-the-warm-sensation-of-sunlight-on-bare-skin/](https://blog.asciitweezers.com/the-uv-index-is-not-the-warm-sensation-of-sunlight-on-bare-skin/)
-
----
-
-### 4. Trump says he can do business with Burnham but criticises 'terrible' Chagos deal
+### 4. UK to fight Russian disinformation and push new global AI standards, Burnham says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The UK has proposed handing the Chagos Islands to Mauritius and paying to lease back an important military base.
+The UK could act as "an honest broker" on AI and other global challenges, the prime minister tells world leaders at the UN.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq2dwye3r7k4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq2dwye3r7k4o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6rerlq99w30o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6rerlq99w30o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Watch: Burnham 'gets it' says Trump, as the two leaders meet for first time
+### 5. Watch: Key moments from Andy Burnham's first UN speech
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Donald Trump says he can do business with Andy Burnham at their first face-to-face meeting in New York, but criticises the "terrible" Chagos deal.
+In his first speech to the UN as UK prime minister, Burnham highlighted the risks posed by Russian disinformation.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cxly57mv4767o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cxly57mv4767o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cq5y4zpn655ko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cq5y4zpn655ko?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Plot targeting Manchester's Jewish community disrupted, say police
+### 6. Open wounds and eyes that can't close - women warn about cheap bleph eyelid surgery
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Two men were arrested in Manchester on Sunday, say counter-terror police.
+A concerning number of patients are reporting problems from treatment abroad, say doctors.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq07ly8xzvn4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq07ly8xzvn4o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9rk3rdp644mo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9rk3rdp644mo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Iran war live: Trump confirms ‘very good’ meeting with Iran at UN
+### 7. Cooperation is the goal at the UNGA, but is it possible?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-President Trump says US officials held a &#039;very good&#039; meeting on Tuesday with the Iranian delegation at UN.
+Debate opened at the UN General Assembly and leaders from across the world made their arguments.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/9/23/iran-war-live-trump-confirms-very-good-meeting-with-iran-at-un?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/9/23/iran-war-live-trump-confirms-very-good-meeting-with-iran-at-un?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/23/cooperation-is-the-goal-at-the-unga-but-is-it-possible?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/23/cooperation-is-the-goal-at-the-unga-but-is-it-possible?traffic_source=rss)
 
 ---
 
-### 8. Iran flights to Baghdad, Muscat cancelled ahead of US aviation sanctions
+### 8. Six-year-old sets Rubik’s Cube world record twice in three days
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Iran&#039;s aviation officials negotiate with Oman and Iraq as US&#039;s Bessent targets carriers seven months into the conflict.
+Six-year-old Lian Yunzhi broke the women’s Rubik’s Cube world record twice in three days, averaging under 4.5 seconds.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/22/iran-flights-to-baghdad-muscat-cancelled-ahead-of-us-aviation-sanctions?traffic_source=rss](https://www.aljazeera.com/news/2026/9/22/iran-flights-to-baghdad-muscat-cancelled-ahead-of-us-aviation-sanctions?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/23/six-year-old-sets-rubiks-cube-world-record-twice-in-three-days?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/23/six-year-old-sets-rubiks-cube-world-record-twice-in-three-days?traffic_source=rss)
 
 ---
 
-### 9. Kamala Harris campaigns with Abdul El-Sayed to unify Democratic voters
+### 9. US, Iran hold mediated UNGA talks on ending war, opening Strait of Hormuz
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The former vice president joins Abdul El-Sayed in Detroit to bolster Democratic unity in swing-state Michigan.
+Tehran ties diplomatic progress to lifting shipping blockades and unfreezing assets during New York negotiations.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/22/kamala-harris-campaigns-with-abdul-el-sayed-to-unify-democratic-voters?traffic_source=rss](https://www.aljazeera.com/news/2026/9/22/kamala-harris-campaigns-with-abdul-el-sayed-to-unify-democratic-voters?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/23/us-iran-hold-mediated-unga-talks-on-ending-war-opening-strait-of-hormuz?traffic_source=rss](https://www.aljazeera.com/news/2026/9/23/us-iran-hold-mediated-unga-talks-on-ending-war-opening-strait-of-hormuz?traffic_source=rss)
 
 ---
 

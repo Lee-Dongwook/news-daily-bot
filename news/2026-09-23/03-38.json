@@ -1,0 +1,65 @@
+{
+    "update_time": "2026-09-23T03:38:35+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 6,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump says he can do business with Burnham but criticises 'terrible' Chagos deal",
+            "description": "The UK has proposed handing the Chagos Islands to Mauritius and paying to lease back an important military base.",
+            "url": "https://www.bbc.co.uk/news/articles/cq2dwye3r7k4o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 22 Sep 2026 21:22:36 GMT",
+            "fetched": "2026-09-23T03:38:35+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Burnham 'gets it' says Trump, as the two leaders meet for first time",
+            "description": "Donald Trump says he can do business with Andy Burnham at their first face-to-face meeting in New York, but criticises the \"terrible\" Chagos deal.",
+            "url": "https://www.bbc.co.uk/news/videos/cxly57mv4767o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 22 Sep 2026 19:15:57 GMT",
+            "fetched": "2026-09-23T03:38:35+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Plot targeting Manchester's Jewish community disrupted, say police",
+            "description": "Two men were arrested in Manchester on Sunday, say counter-terror police.",
+            "url": "https://www.bbc.co.uk/news/articles/cq07ly8xzvn4o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 22 Sep 2026 20:54:49 GMT",
+            "fetched": "2026-09-23T03:38:35+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran flights to Baghdad, Muscat cancelled ahead of US aviation sanctions",
+            "description": "Iran&#039;s aviation officials negotiate with Oman and Iraq as US&#039;s Bessent targets carriers seven months into the conflict.",
+            "url": "https://www.aljazeera.com/news/2026/9/22/iran-flights-to-baghdad-muscat-cancelled-ahead-of-us-aviation-sanctions?traffic_source=rss",
+            "published": "Tue, 22 Sep 2026 23:46:06 +0000",
+            "fetched": "2026-09-23T03:38:35+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Kamala Harris campaigns with Abdul El-Sayed to unify Democratic voters",
+            "description": "The former vice president joins Abdul El-Sayed in Detroit to bolster Democratic unity in swing-state Michigan.",
+            "url": "https://www.aljazeera.com/news/2026/9/22/kamala-harris-campaigns-with-abdul-el-sayed-to-unify-democratic-voters?traffic_source=rss",
+            "published": "Tue, 22 Sep 2026 23:20:17 +0000",
+            "fetched": "2026-09-23T03:38:35+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "UNGA Day 1: US and Iran hold talks despite Trump’s threat",
+            "description": "The US and Iran hold talks on UNGA’s first day, despite Trump threatening to ‘annihilate’ Iran in his opening address.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/unga-day-1-us-and-iran-hold-talks-despite-trumps-threat?traffic_source=rss",
+            "published": "Tue, 22 Sep 2026 22:48:56 +0000",
+            "fetched": "2026-09-23T03:38:35+03:30"
+        }
+    ]
+}

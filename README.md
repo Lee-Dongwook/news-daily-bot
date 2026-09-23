@@ -1,64 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-23 01:50:22
+**Last Update:** 2026-09-23 03:38:35
 
-**Total News:** 12
+**Total News:** 6
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. The UV index is not the warm sensation of sunlight on bare skin
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://blog.asciitweezers.com/the-uv-index-is-not-the-warm-sensation-of-sunlight-on-bare-skin/">https://blog.asciitweezers.com/the-uv-index-is-not-the-warm-sensation-of-sunlight-on-bare-skin/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49808109">https://news.ycombinator.com/item?id=49808109</a></p>
-<p>Points: 31</p>
-<p># Comments: 15</p>
-
-🔗 **Read more:** [https://blog.asciitweezers.com/the-uv-index-is-not-the-warm-sensation-of-sunlight-on-bare-skin/](https://blog.asciitweezers.com/the-uv-index-is-not-the-warm-sensation-of-sunlight-on-bare-skin/)
-
----
-
-### 2. Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://foxscript.org/">https://foxscript.org/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49808023">https://news.ycombinator.com/item?id=49808023</a></p>
-<p>Points: 71</p>
-<p># Comments: 43</p>
-
-🔗 **Read more:** [https://foxscript.org/](https://foxscript.org/)
-
----
-
-### 3. LLM Ass Bench
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.assbench.com/">https://www.assbench.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49807688">https://news.ycombinator.com/item?id=49807688</a></p>
-<p>Points: 113</p>
-<p># Comments: 35</p>
-
-🔗 **Read more:** [https://www.assbench.com/](https://www.assbench.com/)
-
----
-
-### 4. Trump says he can do business with Burnham but criticises 'terrible' Chagos deal
+### 1. Trump says he can do business with Burnham but criticises 'terrible' Chagos deal
 
 **Source:** BBC
 
@@ -71,7 +23,7 @@ The UK has proposed handing the Chagos Islands to Mauritius and paying to lease 
 
 ---
 
-### 5. Watch: Burnham 'gets it' says Trump, as the two leaders meet for first time
+### 2. Watch: Burnham 'gets it' says Trump, as the two leaders meet for first time
 
 **Source:** BBC
 
@@ -84,7 +36,7 @@ Donald Trump says he can do business with Andy Burnham at their first face-to-fa
 
 ---
 
-### 6. Plot targeting Manchester's Jewish community disrupted, say police
+### 3. Plot targeting Manchester's Jewish community disrupted, say police
 
 **Source:** BBC
 
@@ -97,81 +49,42 @@ Two men were arrested in Manchester on Sunday, say counter-terror police.
 
 ---
 
-### 7. Palestinian Americans meet US lawmakers as Trump seeks $2.8bn for Israel
+### 4. Iran flights to Baghdad, Muscat cancelled ahead of US aviation sanctions
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Organisers say more than 300 constituents met with House and Senate members from 26 states to demand US policy shift.
+Iran&#039;s aviation officials negotiate with Oman and Iraq as US&#039;s Bessent targets carriers seven months into the conflict.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/22/palestinian-americans-meet-us-lawmakers-as-trump-seeks-2-8bn-for-israel?traffic_source=rss](https://www.aljazeera.com/news/2026/9/22/palestinian-americans-meet-us-lawmakers-as-trump-seeks-2-8bn-for-israel?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/22/iran-flights-to-baghdad-muscat-cancelled-ahead-of-us-aviation-sanctions?traffic_source=rss](https://www.aljazeera.com/news/2026/9/22/iran-flights-to-baghdad-muscat-cancelled-ahead-of-us-aviation-sanctions?traffic_source=rss)
 
 ---
 
-### 8. US signs ‘tremendous’ security deal with Denmark and Greenland
+### 5. Kamala Harris campaigns with Abdul El-Sayed to unify Democratic voters
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Trump and leaders of Greenland and Denmark have signed a deal allowing an expanded US military presence in Greenland.
+The former vice president joins Abdul El-Sayed in Detroit to bolster Democratic unity in swing-state Michigan.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/22/us-signs-tremendous-security-deal-with-denmark-and-greenland?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/22/us-signs-tremendous-security-deal-with-denmark-and-greenland?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/22/kamala-harris-campaigns-with-abdul-el-sayed-to-unify-democratic-voters?traffic_source=rss](https://www.aljazeera.com/news/2026/9/22/kamala-harris-campaigns-with-abdul-el-sayed-to-unify-democratic-voters?traffic_source=rss)
 
 ---
 
-### 9. Qatari Emir says country won’t ‘limit’ itself as Gulf ‘mediator’
+### 6. UNGA Day 1: US and Iran hold talks despite Trump’s threat
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Qatari Emir Sheikh Tamim bin Hamad Al Thani told the UN General Assembly that Qatar is more than a mediator.
+The US and Iran hold talks on UNGA’s first day, despite Trump threatening to ‘annihilate’ Iran in his opening address.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/22/qatari-emir-says-country-wont-limit-itself-as-gulf?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/22/qatari-emir-says-country-wont-limit-itself-as-gulf?traffic_source=rss)
-
----
-
-### 10. Hurricane Polo
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24721](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24721)
-
----
-
-### 11. Wildfire Round Prarie, Morehouse, Louisiana
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24710](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24710)
-
----
-
-### 12. Tropical Storm Fay
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24722](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24722)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/22/unga-day-1-us-and-iran-hold-talks-despite-trumps-threat?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/22/unga-day-1-us-and-iran-hold-talks-despite-trumps-threat?traffic_source=rss)
 
 ---
 

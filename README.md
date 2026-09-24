@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-24 18:12:38
+**Last Update:** 2026-09-24 18:47:53
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Best LLM for every budget, updated daily
+### 1. Dynamic Abliteration: Non-Destructive Refusal Suppression via Engram Steering
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://blog.madhukaraphatak.in/non-destructive-refusal-supression-using-engram">https://blog.madhukaraphatak.in/non-destructive-refusal-supression-using-engram</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49831201">https://news.ycombinator.com/item?id=49831201</a></p>
+<p>Points: 13</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://blog.madhukaraphatak.in/non-destructive-refusal-supression-using-engram](https://blog.madhukaraphatak.in/non-destructive-refusal-supression-using-engram)
+
+---
+
+### 2. Best LLM for every budget, updated daily
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://bestmodelforyourbudget.terrydjony.com/">https://bestmodelforyourbudget.terrydjony.com/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49830866">https://news.ycombinator.com/item?id=49830866</a></p>
-<p>Points: 10</p>
-<p># Comments: 10</p>
+<p>Points: 52</p>
+<p># Comments: 33</p>
 
 🔗 **Read more:** [https://bestmodelforyourbudget.terrydjony.com/](https://bestmodelforyourbudget.terrydjony.com/)
 
 ---
 
-### 2. Oracle Cites 'Force Majeure' to Shield Itself on Controversial Data Center
+### 3. Oracle Cites 'Force Majeure' to Shield Itself on Controversial Data Center
 
 **Source:** Hacker News
 
@@ -35,30 +51,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.bloomberg.com/news/articles/2026-09-24/oracle-cites-force-majeure-to-shield-itself-on-controversial-data-center">https://www.bloomberg.com/news/articles/2026-09-24/oracle-cites-force-majeure-to-shield-itself-on-controversial-data-center</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49830037">https://news.ycombinator.com/item?id=49830037</a></p>
-<p>Points: 31</p>
-<p># Comments: 17</p>
+<p>Points: 45</p>
+<p># Comments: 25</p>
 
 🔗 **Read more:** [https://www.bloomberg.com/news/articles/2026-09-24/oracle-cites-force-majeure-to-shield-itself-on-controversial-data-center](https://www.bloomberg.com/news/articles/2026-09-24/oracle-cites-force-majeure-to-shield-itself-on-controversial-data-center)
 
 ---
 
-### 3. Owners mourn spoiled food after firmware update bricks Samsung smart fridges
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/">https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49829960">https://news.ycombinator.com/item?id=49829960</a></p>
-<p>Points: 116</p>
-<p># Comments: 107</p>
-
-🔗 **Read more:** [https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/](https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/)
-
----
-
-### 4. Some reporters denied White House access despite judge overturning Trump media ban
+### 4. White House 'repeatedly violated' court order to restore press access, say media outlets
 
 **Source:** BBC
 
@@ -97,7 +97,33 @@ The satellite station is used in part to provide internet coverage to neighbouri
 
 ---
 
-### 7. ‘Unstoppable’ Rumesh revives Sri Lanka’s glory, one javelin throw at a time
+### 7. Why are Ireland vs Israel football matches so controversial?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Ireland and Israel will play two football matches despite growing Irish calls for a boycott due to the genocide in Gaza.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/24/ireland-vs-israel-football-match-nations-league-controversy-explained?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/24/ireland-vs-israel-football-match-nations-league-controversy-explained?traffic_source=rss)
+
+---
+
+### 8. Forever Chemicals: Ground Zero
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Pervasive, persistent and poisonous: How one US company helped pollute the world with forever chemicals.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/people-power/2026/9/24/forever-chemicals-ground-zero?traffic_source=rss](https://www.aljazeera.com/video/people-power/2026/9/24/forever-chemicals-ground-zero?traffic_source=rss)
+
+---
+
+### 9. ‘Unstoppable’ Rumesh revives Sri Lanka’s glory, one javelin throw at a time
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ The satellite station is used in part to provide internet coverage to neighbouri
 A gold at the Asian Games will cap off an unprecedented season for the world number one.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/24/unstoppable-rumesh-revives-sri-lankas-glory-one-javelin-throw-at-a-time?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/24/unstoppable-rumesh-revives-sri-lankas-glory-one-javelin-throw-at-a-time?traffic_source=rss)
-
----
-
-### 8. Rubio warns of Iraq ‘Balkanisation’: Is that a real threat?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-US secretary of state&#039;s warning comes after he and Trump met the Iraqi PM on the sidelines of the UNGA.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/24/rubio-warns-of-iraq-balkanisation-is-that-a-real-threat?traffic_source=rss](https://www.aljazeera.com/news/2026/9/24/rubio-warns-of-iraq-balkanisation-is-that-a-real-threat?traffic_source=rss)
-
----
-
-### 9. Israel offers cash to firms hit by trade ban; Europe dithers on new rules
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Israel hopes to redirect goods from illegal Israeli settlements towards markets in Asia and South America.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/24/israel-offers-cash-to-firms-hit-by-trade-ban-europe-dithers-on-new-rules?traffic_source=rss](https://www.aljazeera.com/news/2026/9/24/israel-offers-cash-to-firms-hit-by-trade-ban-europe-dithers-on-new-rules?traffic_source=rss)
 
 ---
 

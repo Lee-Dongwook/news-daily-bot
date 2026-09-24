@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-24 12:37:40
+**Last Update:** 2026-09-24 13:45:12
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** Al Jazeera, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Meta takes down a critical video about meta AI Glasses after filming at Meta
+### 1. AI has no intent and no motivation
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.i-programmer.info/news/245-view-point/19164-ai-has-no-motivation.html">https://www.i-programmer.info/news/245-view-point/19164-ai-has-no-motivation.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49828133">https://news.ycombinator.com/item?id=49828133</a></p>
+<p>Points: 14</p>
+<p># Comments: 8</p>
+
+🔗 **Read more:** [https://www.i-programmer.info/news/245-view-point/19164-ai-has-no-motivation.html](https://www.i-programmer.info/news/245-view-point/19164-ai-has-no-motivation.html)
+
+---
+
+### 2. Meta takes down a critical video about meta AI Glasses after filming at Meta
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/">https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49827794">https://news.ycombinator.com/item?id=49827794</a></p>
-<p>Points: 28</p>
-<p># Comments: 2</p>
+<p>Points: 105</p>
+<p># Comments: 47</p>
 
 🔗 **Read more:** [https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/](https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/)
 
 ---
 
-### 2. Early rogue AI agent activity and attempts to hack found on urlquery.net
+### 3. Early rogue AI agent activity and attempts to hack found on urlquery.net
 
 **Source:** Hacker News
 
@@ -35,37 +51,21 @@
 **Description:**
 <p>Article URL: <a href="https://transluce.org/agent-activity">https://transluce.org/agent-activity</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49826565">https://news.ycombinator.com/item?id=49826565</a></p>
-<p>Points: 98</p>
-<p># Comments: 62</p>
+<p>Points: 127</p>
+<p># Comments: 87</p>
 
 🔗 **Read more:** [https://transluce.org/agent-activity](https://transluce.org/agent-activity)
 
 ---
 
-### 3. Six-year-old breaks women's world Rubik's Cube record [video]
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.youtube.com/watch?v=UCMRgvyTm08">https://www.youtube.com/watch?v=UCMRgvyTm08</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49826482">https://news.ycombinator.com/item?id=49826482</a></p>
-<p>Points: 46</p>
-<p># Comments: 25</p>
-
-🔗 **Read more:** [https://www.youtube.com/watch?v=UCMRgvyTm08](https://www.youtube.com/watch?v=UCMRgvyTm08)
-
----
-
-### 4. Breast cancer NHS trust to review 4,500 more cases
+### 4. NHS trust to review 4,500 breast cancer cases after unnecessary surgeries found
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Hospital chiefs in County Durham agree to a review after failings including unnecessary surgeries.
+The BBC has spoken to women who suffered unnecessary surgery, delayed diagnoses and a lack of care.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckddvje77m2zo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckddvje77m2zo?at_medium=RSS&at_campaign=rss)
 
@@ -97,81 +97,42 @@ The two B-1 bombers that flew overhead are a key part of the US's combat arsenal
 
 ---
 
-### 7. Greenland’s delegation gets hero’s welcome after signing US-Denmark pact
+### 7. To the victor belong Venezuela’s spoils: Delcy Rodriguez’s UNGA about-face
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Greenland’s delegation returned home to a hero’s welcome after signing a new pact with the US and Denmark.
+Seven years after warning against US regime change, Venezuela’s interim president thanked the man who delivered it.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/24/greenlands-delegation-gets-heros-welcome-after-signing-us-denmark-pact?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/24/greenlands-delegation-gets-heros-welcome-after-signing-us-denmark-pact?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/9/24/to-the-victor-belong-venezuelas-spoils-delcy-rodriguezs-unga-about-face?traffic_source=rss](https://www.aljazeera.com/opinions/2026/9/24/to-the-victor-belong-venezuelas-spoils-delcy-rodriguezs-unga-about-face?traffic_source=rss)
 
 ---
 
-### 8. US judge blocks Trump’s White House ban on CNN, MS NOW, and Politico
+### 8. Yemeni forces say they repel Houthi attacks in Taiz as fighting rages
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Trump-nominated judge rules that outlets are likely to succeed in claim they were denied due process.
+Government forces say dozens of Houthis killed in southwestern governorate during battles for strategic highlands.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/24/us-judge-blocks-trumps-white-house-ban-on-cnn-ms-now-and-politico?traffic_source=rss](https://www.aljazeera.com/news/2026/9/24/us-judge-blocks-trumps-white-house-ban-on-cnn-ms-now-and-politico?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/24/yemeni-forces-claim-repelling-houthi-attacks-in-taiz-as-fighting-rages-on?traffic_source=rss](https://www.aljazeera.com/news/2026/9/24/yemeni-forces-claim-repelling-houthi-attacks-in-taiz-as-fighting-rages-on?traffic_source=rss)
 
 ---
 
-### 9. Netanyahu takes UN stage with one eye on Israel’s election
+### 9. ‘Partial satisfaction’: Sri Lankans hail 2019 bombings ruling with a caveat
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-As criticism of Israel intensifies, Israeli PM Netanyahu heads to the UN with his own political future in focus.
+As 15 men are given long prison terms, a father who lost teen daughter wants to know if it was a political conspiracy.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/24/netanyahus-un-speech-a-high-stakes-test-for-audiences-at-home?traffic_source=rss](https://www.aljazeera.com/news/2026/9/24/netanyahus-un-speech-a-high-stakes-test-for-audiences-at-home?traffic_source=rss)
-
----
-
-### 10. Tropical Cyclone 01B
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24785](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24785)
-
----
-
-### 11. Hurricane Polo
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24721](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24721)
-
----
-
-### 12. Wildfire Round Prarie, Morehouse, Louisiana
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24710](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24710)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/24/partial-satisfaction-sri-lankans-hail-2019-bombings-ruling-with-a-caveat?traffic_source=rss](https://www.aljazeera.com/news/2026/9/24/partial-satisfaction-sri-lankans-hail-2019-bombings-ruling-with-a-caveat?traffic_source=rss)
 
 ---
 

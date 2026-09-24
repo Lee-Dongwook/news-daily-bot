@@ -1,16 +1,49 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-24 07:21:35
+**Last Update:** 2026-09-24 08:35:37
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Australia says OpenAI agent hacked into government website
+### 1. Show HN: How long do I need to work at my salary before I can coast, or retire?
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>I made a financial planning tool in a couple hours that can model various stages of life and potentially guide job searching and work timelines.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49826059">https://news.ycombinator.com/item?id=49826059</a></p>
+<p>Points: 25</p>
+<p># Comments: 13</p>
+
+🔗 **Read more:** [https://github.com/karmanyaahm/budget-tools/tree/main/fire](https://github.com/karmanyaahm/budget-tools/tree/main/fire)
+
+---
+
+### 2. Ideas on modernizing the open-source desktop
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://lwn.net/SubscriberLink/1095425/2d9f411252325784/">https://lwn.net/SubscriberLink/1095425/2d9f411252325784/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49825642">https://news.ycombinator.com/item?id=49825642</a></p>
+<p>Points: 14</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://lwn.net/SubscriberLink/1095425/2d9f411252325784/](https://lwn.net/SubscriberLink/1095425/2d9f411252325784/)
+
+---
+
+### 3. Australia says OpenAI agent hacked into government website
 
 **Source:** Hacker News
 
@@ -19,42 +52,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411">https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49825024">https://news.ycombinator.com/item?id=49825024</a></p>
-<p>Points: 43</p>
-<p># Comments: 28</p>
+<p>Points: 69</p>
+<p># Comments: 49</p>
 
 🔗 **Read more:** [https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411](https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411)
-
----
-
-### 2. FLAWED's Flaws and What This Means for Industry Research
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/">https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49824969">https://news.ycombinator.com/item?id=49824969</a></p>
-<p>Points: 13</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/](https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/)
-
----
-
-### 3. Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/nestrilabs/virtio-nvgpu">https://github.com/nestrilabs/virtio-nvgpu</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49824864">https://news.ycombinator.com/item?id=49824864</a></p>
-<p>Points: 22</p>
-<p># Comments: 16</p>
-
-🔗 **Read more:** [https://github.com/nestrilabs/virtio-nvgpu](https://github.com/nestrilabs/virtio-nvgpu)
 
 ---
 
@@ -84,20 +85,33 @@ The RAF said training on their Hawk jets had been "temporarily" paused while an 
 
 ---
 
-### 6. A red carpet and military flyover - How Trump welcomed Xi
+### 6. Trump offers warm welcome as China's Xi arrives for US visit
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The two B-1 bombers that flew overhead are a key part of the US's combat arsenal, and produce a notoriously loud roar when they pass by.
+The US treasury secretary said that the US and China had reached an agreement to extend a trade truce as Xi began his visit.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c6804ne8knklo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c6804ne8knklo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqgmrk7187lzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqgmrk7187lzo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. ‘They uprooted it all’: Israel bulldozes Palestinian-owned olive groves
+### 7. AI model Claude discovers CRISPR-like enzyme system, Anthropic says
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+AI giant announces discovery amid global debate about how to safeguard against catastrophic risks.
+
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/24/ai-model-claude-discovers-crispr-like-enzyme-system-anthropic-says?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/24/ai-model-claude-discovers-crispr-like-enzyme-system-anthropic-says?traffic_source=rss)
+
+---
+
+### 8. ‘They uprooted it all’: Israel bulldozes Palestinian-owned olive groves
 
 **Source:** Al Jazeera
 
@@ -110,7 +124,7 @@ Israeli bulldozers uprooted olive groves near Ramallah in the occupied West Bank
 
 ---
 
-### 8. Spain’s Sanchez warns of far-right threat in UNGA speech
+### 9. Spain’s Sanchez warns of far-right threat in UNGA speech
 
 **Source:** Al Jazeera
 
@@ -120,19 +134,6 @@ Israeli bulldozers uprooted olive groves near Ramallah in the occupied West Bank
 Spanish PM Pedro Sanchez has warned of the growing power of ‘selfish, ignorant and cruel’ forces undermining humanity.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/24/aje-onl-nf_spains-sanchez-warns-of-far-right-in-unga-speech-230926?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/24/aje-onl-nf_spains-sanchez-warns-of-far-right-in-unga-speech-230926?traffic_source=rss)
-
----
-
-### 9. Australia says OpenAI agent hacked Medicare portal
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Canberra expressed extreme concern to Sam Altman after OpenAI took three months to report the breach.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/24/australia-says-openai-agent-hacked-medicare-portal?traffic_source=rss](https://www.aljazeera.com/news/2026/9/24/australia-says-openai-agent-hacked-medicare-portal?traffic_source=rss)
 
 ---
 

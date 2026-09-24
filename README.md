@@ -1,139 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-24 08:35:37
+**Last Update:** 2026-09-24 12:37:40
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: How long do I need to work at my salary before I can coast, or retire?
+### 1. Meta takes down a critical video about meta AI Glasses after filming at Meta
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>I made a financial planning tool in a couple hours that can model various stages of life and potentially guide job searching and work timelines.</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49826059">https://news.ycombinator.com/item?id=49826059</a></p>
-<p>Points: 25</p>
-<p># Comments: 13</p>
+<p>Article URL: <a href="https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/">https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49827794">https://news.ycombinator.com/item?id=49827794</a></p>
+<p>Points: 28</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://github.com/karmanyaahm/budget-tools/tree/main/fire](https://github.com/karmanyaahm/budget-tools/tree/main/fire)
+🔗 **Read more:** [https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/](https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/)
 
 ---
 
-### 2. Ideas on modernizing the open-source desktop
+### 2. Early rogue AI agent activity and attempts to hack found on urlquery.net
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://lwn.net/SubscriberLink/1095425/2d9f411252325784/">https://lwn.net/SubscriberLink/1095425/2d9f411252325784/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49825642">https://news.ycombinator.com/item?id=49825642</a></p>
-<p>Points: 14</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://transluce.org/agent-activity">https://transluce.org/agent-activity</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49826565">https://news.ycombinator.com/item?id=49826565</a></p>
+<p>Points: 98</p>
+<p># Comments: 62</p>
 
-🔗 **Read more:** [https://lwn.net/SubscriberLink/1095425/2d9f411252325784/](https://lwn.net/SubscriberLink/1095425/2d9f411252325784/)
+🔗 **Read more:** [https://transluce.org/agent-activity](https://transluce.org/agent-activity)
 
 ---
 
-### 3. Australia says OpenAI agent hacked into government website
+### 3. Six-year-old breaks women's world Rubik's Cube record [video]
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411">https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49825024">https://news.ycombinator.com/item?id=49825024</a></p>
-<p>Points: 69</p>
-<p># Comments: 49</p>
+<p>Article URL: <a href="https://www.youtube.com/watch?v=UCMRgvyTm08">https://www.youtube.com/watch?v=UCMRgvyTm08</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49826482">https://news.ycombinator.com/item?id=49826482</a></p>
+<p>Points: 46</p>
+<p># Comments: 25</p>
 
-🔗 **Read more:** [https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411](https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411)
+🔗 **Read more:** [https://www.youtube.com/watch?v=UCMRgvyTm08](https://www.youtube.com/watch?v=UCMRgvyTm08)
 
 ---
 
-### 4. Blood tests find high level of cancer-causing forever chemical in residents near factory
+### 4. Breast cancer NHS trust to review 4,500 more cases
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-People living near a major chemical factory in Lancashire are told they could be at risk of serious health conditions.
+Hospital chiefs in County Durham agree to a review after failings including unnecessary surgeries.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cjly4rv0q3l0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cjly4rv0q3l0o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckddvje77m2zo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckddvje77m2zo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. What video footage tells us about RAF training jet crash
+### 5. Anti-migrant activist arrested over video of dinghy slashing
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The RAF said training on their Hawk jets had been "temporarily" paused while an investigation is under way.
+Police had been looking into footage appearing to show the man, also known as Danny Tommo, slashing at a boat in the English Channel with a knife.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw8d32vv4l7vo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw8d32vv4l7vo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6eq8e98wnr7o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6eq8e98wnr7o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Trump offers warm welcome as China's Xi arrives for US visit
+### 6. Watch: Trump greets China's Xi beside plane in rare presidential welcome for foreign leader
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The US treasury secretary said that the US and China had reached an agreement to extend a trade truce as Xi began his visit.
+The two B-1 bombers that flew overhead are a key part of the US's combat arsenal, and produce a notoriously loud roar when they pass by.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqgmrk7187lzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqgmrk7187lzo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c6804ne8knklo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c6804ne8knklo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. AI model Claude discovers CRISPR-like enzyme system, Anthropic says
+### 7. Greenland’s delegation gets hero’s welcome after signing US-Denmark pact
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-AI giant announces discovery amid global debate about how to safeguard against catastrophic risks.
+Greenland’s delegation returned home to a hero’s welcome after signing a new pact with the US and Denmark.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/24/ai-model-claude-discovers-crispr-like-enzyme-system-anthropic-says?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/24/ai-model-claude-discovers-crispr-like-enzyme-system-anthropic-says?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/24/greenlands-delegation-gets-heros-welcome-after-signing-us-denmark-pact?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/24/greenlands-delegation-gets-heros-welcome-after-signing-us-denmark-pact?traffic_source=rss)
 
 ---
 
-### 8. ‘They uprooted it all’: Israel bulldozes Palestinian-owned olive groves
+### 8. US judge blocks Trump’s White House ban on CNN, MS NOW, and Politico
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli bulldozers uprooted olive groves near Ramallah in the occupied West Bank weeks before the annual harvest.
+Trump-nominated judge rules that outlets are likely to succeed in claim they were denied due process.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/24/they-uprooted-it-all-israel-bulldozes-palestinian-owned-olive-groves?traffic_source=rss](https://www.aljazeera.com/news/2026/9/24/they-uprooted-it-all-israel-bulldozes-palestinian-owned-olive-groves?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/24/us-judge-blocks-trumps-white-house-ban-on-cnn-ms-now-and-politico?traffic_source=rss](https://www.aljazeera.com/news/2026/9/24/us-judge-blocks-trumps-white-house-ban-on-cnn-ms-now-and-politico?traffic_source=rss)
 
 ---
 
-### 9. Spain’s Sanchez warns of far-right threat in UNGA speech
+### 9. Netanyahu takes UN stage with one eye on Israel’s election
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Spanish PM Pedro Sanchez has warned of the growing power of ‘selfish, ignorant and cruel’ forces undermining humanity.
+As criticism of Israel intensifies, Israeli PM Netanyahu heads to the UN with his own political future in focus.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/24/aje-onl-nf_spains-sanchez-warns-of-far-right-in-unga-speech-230926?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/24/aje-onl-nf_spains-sanchez-warns-of-far-right-in-unga-speech-230926?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/24/netanyahus-un-speech-a-high-stakes-test-for-audiences-at-home?traffic_source=rss](https://www.aljazeera.com/news/2026/9/24/netanyahus-un-speech-a-high-stakes-test-for-audiences-at-home?traffic_source=rss)
 
 ---
 

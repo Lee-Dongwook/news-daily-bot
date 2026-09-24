@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-24 03:18:26
+**Last Update:** 2026-09-24 07:21:35
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Linux support is coming to Snapdragon X2 Series
+### 1. Australia says OpenAI agent hacked into government website
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux">https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49823582">https://news.ycombinator.com/item?id=49823582</a></p>
-<p>Points: 44</p>
-<p># Comments: 15</p>
+<p>Article URL: <a href="https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411">https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49825024">https://news.ycombinator.com/item?id=49825024</a></p>
+<p>Points: 43</p>
+<p># Comments: 28</p>
 
-🔗 **Read more:** [https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux](https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux)
+🔗 **Read more:** [https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411](https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411)
 
 ---
 
-### 2. Mercury 2.5 LLM hits 770 tokens per second
+### 2. FLAWED's Flaws and What This Means for Industry Research
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://artificialanalysis.ai/models/mercury-2-5">https://artificialanalysis.ai/models/mercury-2-5</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49823348">https://news.ycombinator.com/item?id=49823348</a></p>
-<p>Points: 11</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/">https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49824969">https://news.ycombinator.com/item?id=49824969</a></p>
+<p>Points: 13</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://artificialanalysis.ai/models/mercury-2-5](https://artificialanalysis.ai/models/mercury-2-5)
+🔗 **Read more:** [https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/](https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/)
 
 ---
 
-### 3. We just shipped support for the ugliest part of HTTP: Vary – Cloudflare Blog
+### 3. Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.cloudflare.com/vary-support/">https://blog.cloudflare.com/vary-support/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49823195">https://news.ycombinator.com/item?id=49823195</a></p>
-<p>Points: 25</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://github.com/nestrilabs/virtio-nvgpu">https://github.com/nestrilabs/virtio-nvgpu</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49824864">https://news.ycombinator.com/item?id=49824864</a></p>
+<p>Points: 22</p>
+<p># Comments: 16</p>
 
-🔗 **Read more:** [https://blog.cloudflare.com/vary-support/](https://blog.cloudflare.com/vary-support/)
+🔗 **Read more:** [https://github.com/nestrilabs/virtio-nvgpu](https://github.com/nestrilabs/virtio-nvgpu)
 
 ---
 
@@ -84,55 +84,55 @@ The RAF said training on their Hawk jets had been "temporarily" paused while an 
 
 ---
 
-### 6. UK military jamming other nations' satellites to defend itself, BBC told
+### 6. A red carpet and military flyover - How Trump welcomed Xi
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The head of the RAF says the UK faces "unprecedented threats" from adversaries in space, as a new unit is created to defend Britain's satellites.
+The two B-1 bombers that flew overhead are a key part of the US's combat arsenal, and produce a notoriously loud roar when they pass by.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c32l8y8kygdvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c32l8y8kygdvo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c6804ne8knklo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c6804ne8knklo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. China’s Xi arrives to Trump welcome on state visit
+### 7. ‘They uprooted it all’: Israel bulldozes Palestinian-owned olive groves
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-China&#039;s President Xi Jinping has touched down at Joint Base Andrews as he begins a much anticipated official state visit
+Israeli bulldozers uprooted olive groves near Ramallah in the occupied West Bank weeks before the annual harvest.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/23/chinas-xi-arrives-to-trump-welcome-on-state-visit?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/23/chinas-xi-arrives-to-trump-welcome-on-state-visit?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/24/they-uprooted-it-all-israel-bulldozes-palestinian-owned-olive-groves?traffic_source=rss](https://www.aljazeera.com/news/2026/9/24/they-uprooted-it-all-israel-bulldozes-palestinian-owned-olive-groves?traffic_source=rss)
 
 ---
 
-### 8. Trump greets China’s Xi Jinping on arrival for three-day US trip
+### 8. Spain’s Sanchez warns of far-right threat in UNGA speech
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Trump takes rare step of meeting foreign leader at the airport, underscoring significance of US-China relationship.
+Spanish PM Pedro Sanchez has warned of the growing power of ‘selfish, ignorant and cruel’ forces undermining humanity.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/23/trump-meets-chinas-xi-jinping-at-us-airport-on-arrival-for-three-day-trip?traffic_source=rss](https://www.aljazeera.com/news/2026/9/23/trump-meets-chinas-xi-jinping-at-us-airport-on-arrival-for-three-day-trip?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/24/aje-onl-nf_spains-sanchez-warns-of-far-right-in-unga-speech-230926?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/24/aje-onl-nf_spains-sanchez-warns-of-far-right-in-unga-speech-230926?traffic_source=rss)
 
 ---
 
-### 9. FBI says investigating breach of ‘very sensitive’ data by hackers
+### 9. Australia says OpenAI agent hacked Medicare portal
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Hacker group ShinyHunters claims to have detailed data on thousands of FBI employees.
+Canberra expressed extreme concern to Sam Altman after OpenAI took three months to report the breach.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/23/fbi-says-investigating-breach-of-very-sensitive-data-by-hackers?traffic_source=rss](https://www.aljazeera.com/news/2026/9/23/fbi-says-investigating-breach-of-very-sensitive-data-by-hackers?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/24/australia-says-openai-agent-hacked-medicare-portal?traffic_source=rss](https://www.aljazeera.com/news/2026/9/24/australia-says-openai-agent-hacked-medicare-portal?traffic_source=rss)
 
 ---
 

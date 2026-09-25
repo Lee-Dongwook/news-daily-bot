@@ -1,65 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-25 22:15:14
+**Last Update:** 2026-09-26 01:34:22
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Ollaya – Ollama for open-source, Jev-style decision models
+### 1. Carnegie: China Passes US as Top AI Talent Hub, 40.6% to 34.2%
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://ollaya.dev/">https://ollaya.dev/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49848269">https://news.ycombinator.com/item?id=49848269</a></p>
+<p>Article URL: <a href="https://aiweekly.co/alerts/carnegie-china-passes-us-as-top-ai-talent-hub-406-to-342">https://aiweekly.co/alerts/carnegie-china-passes-us-as-top-ai-talent-hub-406-to-342</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49850114">https://news.ycombinator.com/item?id=49850114</a></p>
 <p>Points: 4</p>
-<p># Comments: 0</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://ollaya.dev/](https://ollaya.dev/)
+🔗 **Read more:** [https://aiweekly.co/alerts/carnegie-china-passes-us-as-top-ai-talent-hub-406-to-342](https://aiweekly.co/alerts/carnegie-china-passes-us-as-top-ai-talent-hub-406-to-342)
 
 ---
 
-### 2. Yes, Claude can do Nine Loops
+### 2. Revealing the details of how OpenAI agents hacked Hugging Face
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.anthropic.com/research/yes-claude-can-do-nine-loops">https://www.anthropic.com/research/yes-claude-can-do-nine-loops</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49848033">https://news.ycombinator.com/item?id=49848033</a></p>
-<p>Points: 9</p>
+<p>Article URL: <a href="https://swarmtraces.org/">https://swarmtraces.org/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49849985">https://news.ycombinator.com/item?id=49849985</a></p>
+<p>Points: 5</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.anthropic.com/research/yes-claude-can-do-nine-loops](https://www.anthropic.com/research/yes-claude-can-do-nine-loops)
+🔗 **Read more:** [https://swarmtraces.org/](https://swarmtraces.org/)
 
 ---
 
-### 3. Show HN: Doom or Bloom, map your AI worldview with Jev
+### 3. Too AI; Didn't Read
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Map your AI worldview by answering a few questions, and see how you compare with others.<p>only takes a few minutes && free & open source && private by default && powered by Jev<p>I think this is a really important question for everyone to be asking themselves, and my hope is that this lil project helps to move our conversations around AI futures in a more balanced, productive direction.</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49846953">https://news.ycombinator.com/item?id=49846953</a></p>
-<p>Points: 12</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://www.tai-dr.com/">https://www.tai-dr.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49849625">https://news.ycombinator.com/item?id=49849625</a></p>
+<p>Points: 86</p>
+<p># Comments: 76</p>
 
-🔗 **Read more:** [https://www.doom-or-bloom.com](https://www.doom-or-bloom.com)
+🔗 **Read more:** [https://www.tai-dr.com/](https://www.tai-dr.com/)
 
 ---
 
-### 4. Watch: What could the potential sanctions for Man City be?
+### 4. Man City found guilty of majority of 115 financial rule breaches
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The club, which denies all wrongdoing, is accused of breaching the Premier League's financial rules between 2009 and 2018.
+
+🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/cw7v44ezry5go?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/cw7v44ezry5go?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Watch: What could the potential sanctions for Man City be?
 
 **Source:** BBC
 
@@ -72,68 +84,55 @@ Football finance expert Kieran Maguire says the potential sanctions for Manchest
 
 ---
 
-### 5. I'm not tempted to call an early election, Burnham says
+### 6. Iran offers US deal to reopen Strait of Hormuz in seven days
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The prime minister told the BBC an early poll would throw the country into a "backward-looking process".
+Tehran says "necessary conditions" must be met, referring to the Memorandum of Understanding earlier agreed with the US.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqwyzz79mdgjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqwyzz79mdgjo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Special agents' blood and urine test results stolen in FBI hack
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Experts say the hack could leave agents vulnerable to scams, blackmail and targeted attacks.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Iraqi airports halt Iranian flights after new US aviation sanctions
+### 7. Netanyahu calls Al Jazeera a ‘toxic media outlet’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Baghdad, Najaf, Erbil and Sulaimaniyah airports suspend flights as US ramps up pressure on Iran&#039;s aviation sector.
+Israeli Prime Minister Benjamin Netanyahu called Al Jazeera a “toxic media outlet.”
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/25/iraqi-airports-halt-iranian-flights-after-new-us-aviation-sanctions?traffic_source=rss](https://www.aljazeera.com/news/2026/9/25/iraqi-airports-halt-iranian-flights-after-new-us-aviation-sanctions?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/25/netanyahu-calls-al-jazeera-a-toxic-media?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/25/netanyahu-calls-al-jazeera-a-toxic-media?traffic_source=rss)
 
 ---
 
-### 8. India’s Cockroach movement joins opposition push to oust election chief
+### 8. Mbappe goal overshadowed by knee injury to mar Zidane debut France win
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-India’s youth-led Cockroach Janta Party has joined opposition calls for election chief Gyanesh Kumar to resign.
+Kylian Mbappe scores the only goal of France&#039;s win in Turkiye, but Real Madrid striker immediately forced off by injury.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/25/09-25-india-election-chief-protests-sv?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/25/09-25-india-election-chief-protests-sv?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/25/mbappe-goal-overshadowed-by-knee-injury-to-mar-zidane-debut-france-win?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/25/mbappe-goal-overshadowed-by-knee-injury-to-mar-zidane-debut-france-win?traffic_source=rss)
 
 ---
 
-### 9. Families fleeing Yemen’s war face displacement, hunger and water shortages
+### 9. What would a US diesel export ban mean for global fuel prices?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Fighting between Houthi and government-aligned forces forces families out of their homes in Yemen.
+Energy experts warn US diesel export ban could increase fuel costs domestically and internationally.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/25/families-fleeing-yemens-war-face-displacement-hunger-and-water-shortages?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/25/families-fleeing-yemens-war-face-displacement-hunger-and-water-shortages?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/25/what-would-a-us-diesel-export-ban-mean-for-global-fuel-prices?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/25/what-would-a-us-diesel-export-ban-mean-for-global-fuel-prices?traffic_source=rss)
 
 ---
 

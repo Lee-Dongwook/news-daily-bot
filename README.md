@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-25 04:44:48
+**Last Update:** 2026-09-25 05:09:24
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
@@ -20,7 +20,7 @@
 <p>Article URL: <a href="https://status.gitlab.com/">https://status.gitlab.com/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49838034">https://news.ycombinator.com/item?id=49838034</a></p>
 <p>Points: 49</p>
-<p># Comments: 20</p>
+<p># Comments: 21</p>
 
 🔗 **Read more:** [https://status.gitlab.com/](https://status.gitlab.com/)
 
@@ -36,8 +36,8 @@
 <p><a href="https://archive.ph/j6oeD" rel="nofollow">https://archive.ph/j6oeD</a></p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49837473">https://news.ycombinator.com/item?id=49837473</a></p>
-<p>Points: 63</p>
-<p># Comments: 48</p>
+<p>Points: 70</p>
+<p># Comments: 57</p>
 
 🔗 **Read more:** [https://www.economist.com/leaders/2026/09/24/back-and-shoulder-surgery-is-often-worse-than-useless](https://www.economist.com/leaders/2026/09/24/back-and-shoulder-surgery-is-often-worse-than-useless)
 
@@ -53,23 +53,23 @@
 <p>Hi there. My name is Paul. I’m a developer, an explorer and I’ve got ADHD. As of the beginning of August, I’m also unemployed.<p>This last part, along with everything else this past year, has caused me a great deal of stress.<p>While our balcony zen garden project is yet to be completed, I had an idea to create a virtual one that everyone can use.<p>It's an idea that, unfortunately, I’ve been postponing for a while now, mostly because I have no fucking idea how to do it as I don’t know JavaScript, and I don't have the capacity to learn it right now.<p>So I let perfect be the enemy of good and, well... just kept the idea to myself.<p>Then I said "fuck it" and used AI to make the thing I really wanted to make.<p>I realized I didn't want "perfect". I wanted "good enough".<p>I tweaked, added, removed, drew, researched, questioned, tested... I just wasn't the one coding it.<p>So now, instead of occupying my brain, it now lives on the internet for others to enjoy.<p>Yes, there’s something noble about making something entirely on your own, but what good is an idea that just sits in my head?<p>So here I am. I made the thing. The weird, little, quiet koi pond.<p>The silly project of passion. The little corner of the internet to let strangers watch fish quietly, together.<p>I hope this pond helps you as much as it helped me.</p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49837006">https://news.ycombinator.com/item?id=49837006</a></p>
-<p>Points: 119</p>
-<p># Comments: 27</p>
+<p>Points: 123</p>
+<p># Comments: 28</p>
 
 🔗 **Read more:** [https://koi.rest](https://koi.rest)
 
 ---
 
-### 4. Watch: Why has Trump been so eager to welcome Xi?
+### 4. Watch: The world’s two most powerful men just met. How did it go?
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-President Donald Trump has been talking about Chinese President Xi Jinping's visit for months, the BBC's Sarah Smith looks at why.
+The BBC’s China correspondent Laura Bicker unpacks how the trip panned out for Beijing and Washington.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c914d17zn6kxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c914d17zn6kxo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cm790gjyw1qxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cm790gjyw1qxo?at_medium=RSS&at_campaign=rss)
 
 ---
 

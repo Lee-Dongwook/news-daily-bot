@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-25 10:54:59
+**Last Update:** 2026-09-25 11:29:54
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
@@ -19,26 +19,26 @@
 **Description:**
 <p>Article URL: <a href="https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2">https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49841115">https://news.ycombinator.com/item?id=49841115</a></p>
-<p>Points: 3</p>
+<p>Points: 16</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2](https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2)
 
 ---
 
-### 2. Goodbye Google
+### 2. The Efficiency-Throughput Gap with GitHub Copilot
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://robert.ocallahan.org/2026/09/goodbye-google.html">https://robert.ocallahan.org/2026/09/goodbye-google.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49840314">https://news.ycombinator.com/item?id=49840314</a></p>
-<p>Points: 160</p>
-<p># Comments: 162</p>
+<p>Article URL: <a href="https://cacm.acm.org/research/beyond-the-hype-the-efficiency-throughput-gap-with-github-copilot/">https://cacm.acm.org/research/beyond-the-hype-the-efficiency-throughput-gap-with-github-copilot/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49841103">https://news.ycombinator.com/item?id=49841103</a></p>
+<p>Points: 4</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://robert.ocallahan.org/2026/09/goodbye-google.html](https://robert.ocallahan.org/2026/09/goodbye-google.html)
+🔗 **Read more:** [https://cacm.acm.org/research/beyond-the-hype-the-efficiency-throughput-gap-with-github-copilot/](https://cacm.acm.org/research/beyond-the-hype-the-efficiency-throughput-gap-with-github-copilot/)
 
 ---
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/egma-ai/jev-code-reviewer">https://github.com/egma-ai/jev-code-reviewer</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49840300">https://news.ycombinator.com/item?id=49840300</a></p>
-<p>Points: 5</p>
-<p># Comments: 2</p>
+<p>Points: 14</p>
+<p># Comments: 5</p>
 
 🔗 **Read more:** [https://github.com/egma-ai/jev-code-reviewer](https://github.com/egma-ai/jev-code-reviewer)
 
@@ -84,16 +84,16 @@ The BBC’s China correspondent Laura Bicker unpacks how the trip panned out for
 
 ---
 
-### 6. Just how hot and dry was your summer? Use our postcode lookup to find out
+### 6. Brain tumour diagnosis cut from weeks to hours with rapid new test
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Most of us experienced drought and heatwaves - but temperatures and rainfall were not the same everywhere.
+The test means patients can start treatment sooner and are spared weeks of uncertainty.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cy9zvw47v90o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cy9zvw47v90o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr3wj04d88ywo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr3wj04d88ywo?at_medium=RSS&at_campaign=rss)
 
 ---
 

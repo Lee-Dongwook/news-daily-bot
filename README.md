@@ -1,142 +1,155 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-25 17:28:02
+**Last Update:** 2026-09-25 21:49:39
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Nobody Asked for a Crab Chair
+### 1. Gravity Seems Holographic. What Does That Mean for Reality?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://newmobility.com/nobody-asked-for-a-crab-chair/">https://newmobility.com/nobody-asked-for-a-crab-chair/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49843899">https://news.ycombinator.com/item?id=49843899</a></p>
-<p>Points: 18</p>
-<p># Comments: 15</p>
+<p>Article URL: <a href="https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/">https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49845998">https://news.ycombinator.com/item?id=49845998</a></p>
+<p>Points: 45</p>
+<p># Comments: 55</p>
 
-🔗 **Read more:** [https://newmobility.com/nobody-asked-for-a-crab-chair/](https://newmobility.com/nobody-asked-for-a-crab-chair/)
+🔗 **Read more:** [https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/](https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/)
 
 ---
 
-### 2. The Test
+### 2. U.S. appeals court upholds designation of Anthropic as supply chain risk
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://tante.cc/2026/09/24/the-test/">https://tante.cc/2026/09/24/the-test/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49843550">https://news.ycombinator.com/item?id=49843550</a></p>
-<p>Points: 34</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html">https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49845977">https://news.ycombinator.com/item?id=49845977</a></p>
+<p>Points: 203</p>
+<p># Comments: 276</p>
 
-🔗 **Read more:** [https://tante.cc/2026/09/24/the-test/](https://tante.cc/2026/09/24/the-test/)
+🔗 **Read more:** [https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html](https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html)
 
 ---
 
-### 3. I'm Tired of Being on the Network
+### 3. Classified Estimates Show the NSA Is Paying Billions to Test AI Models
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://matduggan.com/im-tired-of-being-on-the-network/">https://matduggan.com/im-tired-of-being-on-the-network/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49843547">https://news.ycombinator.com/item?id=49843547</a></p>
-<p>Points: 70</p>
-<p># Comments: 57</p>
+<p>Article URL: <a href="https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models">https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49845952">https://news.ycombinator.com/item?id=49845952</a></p>
+<p>Points: 123</p>
+<p># Comments: 67</p>
 
-🔗 **Read more:** [https://matduggan.com/im-tired-of-being-on-the-network/](https://matduggan.com/im-tired-of-being-on-the-network/)
+🔗 **Read more:** [https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models](https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models)
 
 ---
 
-### 4. Noah Woods left playground through gap in fence, inquest hears
+### 4. Watch: What could the potential sanctions for Man City be?
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Noah's mother tells parents to "hold their children a little tighter and cherish every moment".
+Football finance expert Kieran Maguire says the potential sanctions for Manchester City will be 'significant' after the sources told BBC Sport that the club has been found guilty of breaking the majority of the 115 financial rules they were accused of breaching.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqgk54vg053po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqgk54vg053po?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/sport/football/videos/cj62ee3zydxlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/videos/cj62ee3zydxlo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Daniel Thomas pleads not guilty after dinghy slashed
+### 5. I'm not tempted to call an early election, Burnham says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Daniel Thomas is accused of criminal damage after a video appeared to show him slashing at a dinghy.
+The prime minister told the BBC an early poll would throw the country into a "backward-looking process".
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq0lr5r46z5jo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq0lr5r46z5jo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqwyzz79mdgjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqwyzz79mdgjo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. NHS to suspend staff suspected of snooping on patient records
+### 6. Special agents' blood and urine test results stolen in FBI hack
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-There have been too many cases of staff abusing patient trust, and enough is enough, the head of the NHS in England says.
+Experts say the hack could leave agents vulnerable to scams, blackmail and targeted attacks.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cjr4v9g14vygo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cjr4v9g14vygo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. India’s ‘cockroach’ movement demands election chief’s resignation
+### 7. Poland boosts air defence after ‘Russian provocations’ amid Ukraine war
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Youth group threatens return to mass protests, sets deadline for Gyanesh Kumar to quit over reports of meddling.
+Alleged incursions put NATO nations on alert as Ukraine launches strikes on Russia during parliamentary voting.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/25/indias-cockroach-movement-demands-election-chiefs-resignation?traffic_source=rss](https://www.aljazeera.com/news/2026/9/25/indias-cockroach-movement-demands-election-chiefs-resignation?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/25/poland-boosts-air-defence-after-russian-provocations-amid-ukraine-war?traffic_source=rss](https://www.aljazeera.com/news/2026/9/25/poland-boosts-air-defence-after-russian-provocations-amid-ukraine-war?traffic_source=rss)
 
 ---
 
-### 8. Israeli official takes notes after UN walkout against Netanyahu
+### 8. US top court allows Trump to use controversial voter verification system
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-An Israeli official was filmed taking notes after UN delegates staged a walk out during a speech by Netanyahu.
+Voting rights groups have warned system may falsely identify voters as non-citizens, leading to disenfranchisement.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/25/israeli-official-takes-notes-after-un-walkout-against-netanyahu?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/25/israeli-official-takes-notes-after-un-walkout-against-netanyahu?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/25/us-top-court-allows-trump-to-use-controversial-voter-verification-system?traffic_source=rss](https://www.aljazeera.com/news/2026/9/25/us-top-court-allows-trump-to-use-controversial-voter-verification-system?traffic_source=rss)
 
 ---
 
-### 9. Fighting in northern Ethiopia spurs fears of blackout and blockade
+### 9. Lebanese in Brazil, Brazilian in Lebanon
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Tigray was cut off from the world during the 2020-2022 civil war, which killed around 600,000 people.
+Their families left Lebanon generations ago. For some Lebanese Brazilians, Lebanon’s pull never disappeared.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/25/fighting-in-northern-ethiopia-spurs-fears-of-blackout-and-blockade?traffic_source=rss](https://www.aljazeera.com/news/2026/9/25/fighting-in-northern-ethiopia-spurs-fears-of-blackout-and-blockade?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/longform/2026/9/25/lebanese-in-brazil-brazilian-in-lebanon?traffic_source=rss](https://www.aljazeera.com/features/longform/2026/9/25/lebanese-in-brazil-brazilian-in-lebanon?traffic_source=rss)
 
 ---
 
-### 10. Hurricane Nolo
+### 10. Tropical Storm Gonzalo
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24811](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24811)
+
+---
+
+### 11. Hurricane Nolo
 
 **Source:** NASA
 
@@ -149,7 +162,7 @@ Natural event: Severe Storms
 
 ---
 
-### 11. Tropical Storm Surigae
+### 12. Tropical Storm Surigae
 
 **Source:** NASA
 
@@ -159,19 +172,6 @@ Natural event: Severe Storms
 Natural event: Severe Storms
 
 🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24787](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24787)
-
----
-
-### 12. Wildfire Merit Creek, Greene, Mississippi
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24809](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24809)
 
 ---
 

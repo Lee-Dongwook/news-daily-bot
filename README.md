@@ -1,60 +1,61 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-25 21:49:39
+**Last Update:** 2026-09-25 22:15:14
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Gravity Seems Holographic. What Does That Mean for Reality?
+### 1. Ollaya – Ollama for open-source, Jev-style decision models
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/">https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49845998">https://news.ycombinator.com/item?id=49845998</a></p>
-<p>Points: 45</p>
-<p># Comments: 55</p>
+<p>Article URL: <a href="https://ollaya.dev/">https://ollaya.dev/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49848269">https://news.ycombinator.com/item?id=49848269</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/](https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/)
+🔗 **Read more:** [https://ollaya.dev/](https://ollaya.dev/)
 
 ---
 
-### 2. U.S. appeals court upholds designation of Anthropic as supply chain risk
+### 2. Yes, Claude can do Nine Loops
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html">https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49845977">https://news.ycombinator.com/item?id=49845977</a></p>
-<p>Points: 203</p>
-<p># Comments: 276</p>
+<p>Article URL: <a href="https://www.anthropic.com/research/yes-claude-can-do-nine-loops">https://www.anthropic.com/research/yes-claude-can-do-nine-loops</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49848033">https://news.ycombinator.com/item?id=49848033</a></p>
+<p>Points: 9</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html](https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html)
+🔗 **Read more:** [https://www.anthropic.com/research/yes-claude-can-do-nine-loops](https://www.anthropic.com/research/yes-claude-can-do-nine-loops)
 
 ---
 
-### 3. Classified Estimates Show the NSA Is Paying Billions to Test AI Models
+### 3. Show HN: Doom or Bloom, map your AI worldview with Jev
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models">https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49845952">https://news.ycombinator.com/item?id=49845952</a></p>
-<p>Points: 123</p>
-<p># Comments: 67</p>
+<p>Map your AI worldview by answering a few questions, and see how you compare with others.<p>only takes a few minutes && free & open source && private by default && powered by Jev<p>I think this is a really important question for everyone to be asking themselves, and my hope is that this lil project helps to move our conversations around AI futures in a more balanced, productive direction.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49846953">https://news.ycombinator.com/item?id=49846953</a></p>
+<p>Points: 12</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models](https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models)
+🔗 **Read more:** [https://www.doom-or-bloom.com](https://www.doom-or-bloom.com)
 
 ---
 
@@ -97,42 +98,42 @@ Experts say the hack could leave agents vulnerable to scams, blackmail and targe
 
 ---
 
-### 7. Poland boosts air defence after ‘Russian provocations’ amid Ukraine war
+### 7. Iraqi airports halt Iranian flights after new US aviation sanctions
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Alleged incursions put NATO nations on alert as Ukraine launches strikes on Russia during parliamentary voting.
+Baghdad, Najaf, Erbil and Sulaimaniyah airports suspend flights as US ramps up pressure on Iran&#039;s aviation sector.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/25/poland-boosts-air-defence-after-russian-provocations-amid-ukraine-war?traffic_source=rss](https://www.aljazeera.com/news/2026/9/25/poland-boosts-air-defence-after-russian-provocations-amid-ukraine-war?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/25/iraqi-airports-halt-iranian-flights-after-new-us-aviation-sanctions?traffic_source=rss](https://www.aljazeera.com/news/2026/9/25/iraqi-airports-halt-iranian-flights-after-new-us-aviation-sanctions?traffic_source=rss)
 
 ---
 
-### 8. US top court allows Trump to use controversial voter verification system
+### 8. India’s Cockroach movement joins opposition push to oust election chief
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Voting rights groups have warned system may falsely identify voters as non-citizens, leading to disenfranchisement.
+India’s youth-led Cockroach Janta Party has joined opposition calls for election chief Gyanesh Kumar to resign.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/25/us-top-court-allows-trump-to-use-controversial-voter-verification-system?traffic_source=rss](https://www.aljazeera.com/news/2026/9/25/us-top-court-allows-trump-to-use-controversial-voter-verification-system?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/25/09-25-india-election-chief-protests-sv?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/25/09-25-india-election-chief-protests-sv?traffic_source=rss)
 
 ---
 
-### 9. Lebanese in Brazil, Brazilian in Lebanon
+### 9. Families fleeing Yemen’s war face displacement, hunger and water shortages
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Their families left Lebanon generations ago. For some Lebanese Brazilians, Lebanon’s pull never disappeared.
+Fighting between Houthi and government-aligned forces forces families out of their homes in Yemen.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/longform/2026/9/25/lebanese-in-brazil-brazilian-in-lebanon?traffic_source=rss](https://www.aljazeera.com/features/longform/2026/9/25/lebanese-in-brazil-brazilian-in-lebanon?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/25/families-fleeing-yemens-war-face-displacement-hunger-and-water-shortages?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/25/families-fleeing-yemens-war-face-displacement-hunger-and-water-shortages?traffic_source=rss)
 
 ---
 

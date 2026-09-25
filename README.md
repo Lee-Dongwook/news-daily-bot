@@ -1,28 +1,28 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-26 01:34:22
+**Last Update:** 2026-09-26 02:03:24
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Carnegie: China Passes US as Top AI Talent Hub, 40.6% to 34.2%
+### 1. What Even Is an OS Now?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://aiweekly.co/alerts/carnegie-china-passes-us-as-top-ai-talent-hub-406-to-342">https://aiweekly.co/alerts/carnegie-china-passes-us-as-top-ai-talent-hub-406-to-342</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49850114">https://news.ycombinator.com/item?id=49850114</a></p>
-<p>Points: 4</p>
+<p>Article URL: <a href="https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/">https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49850305">https://news.ycombinator.com/item?id=49850305</a></p>
+<p>Points: 5</p>
 <p># Comments: 1</p>
 
-🔗 **Read more:** [https://aiweekly.co/alerts/carnegie-china-passes-us-as-top-ai-talent-hub-406-to-342](https://aiweekly.co/alerts/carnegie-china-passes-us-as-top-ai-talent-hub-406-to-342)
+🔗 **Read more:** [https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/](https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/)
 
 ---
 
@@ -35,26 +35,27 @@
 **Description:**
 <p>Article URL: <a href="https://swarmtraces.org/">https://swarmtraces.org/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49849985">https://news.ycombinator.com/item?id=49849985</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
+<p>Points: 45</p>
+<p># Comments: 19</p>
 
 🔗 **Read more:** [https://swarmtraces.org/](https://swarmtraces.org/)
 
 ---
 
-### 3. Too AI; Didn't Read
+### 3. Excel now supports multiple values in a single cell
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.tai-dr.com/">https://www.tai-dr.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49849625">https://news.ycombinator.com/item?id=49849625</a></p>
-<p>Points: 86</p>
-<p># Comments: 76</p>
+<p>Related: <a href="https://techcommunity.microsoft.com/blog/microsoft365insiderblog/put-multiple-values-in-one-cell-with-lists-and-arrays-in-excel/4559395" rel="nofollow">https://techcommunity.microsoft.com/blog/microsoft365insider...</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49849832">https://news.ycombinator.com/item?id=49849832</a></p>
+<p>Points: 14</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://www.tai-dr.com/](https://www.tai-dr.com/)
+🔗 **Read more:** [https://techcommunity.microsoft.com/blog/excelblog/excel-now-supports-multiple-values-in-a-single-cell/4549756](https://techcommunity.microsoft.com/blog/excelblog/excel-now-supports-multiple-values-in-a-single-cell/4549756)
 
 ---
 
@@ -91,7 +92,7 @@ Football finance expert Kieran Maguire says the potential sanctions for Manchest
 **Category:** world
 
 **Description:**
-Tehran says "necessary conditions" must be met, referring to the Memorandum of Understanding earlier agreed with the US.
+Asked about the Iranian offer, a US official said discussions were taking place through mediators.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss)
 

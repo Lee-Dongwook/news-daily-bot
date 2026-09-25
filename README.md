@@ -1,16 +1,49 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-25 02:04:11
+**Last Update:** 2026-09-25 04:44:48
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: Koi.rest – watch some fish and regain your balance
+### 1. GitLab Outage
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://status.gitlab.com/">https://status.gitlab.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49838034">https://news.ycombinator.com/item?id=49838034</a></p>
+<p>Points: 49</p>
+<p># Comments: 20</p>
+
+🔗 **Read more:** [https://status.gitlab.com/](https://status.gitlab.com/)
+
+---
+
+### 2. Back and shoulder surgery is often worse than useless
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p><a href="https://archive.ph/j6oeD" rel="nofollow">https://archive.ph/j6oeD</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49837473">https://news.ycombinator.com/item?id=49837473</a></p>
+<p>Points: 63</p>
+<p># Comments: 48</p>
+
+🔗 **Read more:** [https://www.economist.com/leaders/2026/09/24/back-and-shoulder-surgery-is-often-worse-than-useless](https://www.economist.com/leaders/2026/09/24/back-and-shoulder-surgery-is-often-worse-than-useless)
+
+---
+
+### 3. Show HN: Koi.rest – watch some fish and regain your balance
 
 **Source:** Hacker News
 
@@ -20,42 +53,10 @@
 <p>Hi there. My name is Paul. I’m a developer, an explorer and I’ve got ADHD. As of the beginning of August, I’m also unemployed.<p>This last part, along with everything else this past year, has caused me a great deal of stress.<p>While our balcony zen garden project is yet to be completed, I had an idea to create a virtual one that everyone can use.<p>It's an idea that, unfortunately, I’ve been postponing for a while now, mostly because I have no fucking idea how to do it as I don’t know JavaScript, and I don't have the capacity to learn it right now.<p>So I let perfect be the enemy of good and, well... just kept the idea to myself.<p>Then I said "fuck it" and used AI to make the thing I really wanted to make.<p>I realized I didn't want "perfect". I wanted "good enough".<p>I tweaked, added, removed, drew, researched, questioned, tested... I just wasn't the one coding it.<p>So now, instead of occupying my brain, it now lives on the internet for others to enjoy.<p>Yes, there’s something noble about making something entirely on your own, but what good is an idea that just sits in my head?<p>So here I am. I made the thing. The weird, little, quiet koi pond.<p>The silly project of passion. The little corner of the internet to let strangers watch fish quietly, together.<p>I hope this pond helps you as much as it helped me.</p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49837006">https://news.ycombinator.com/item?id=49837006</a></p>
-<p>Points: 21</p>
-<p># Comments: 1</p>
+<p>Points: 119</p>
+<p># Comments: 27</p>
 
 🔗 **Read more:** [https://koi.rest](https://koi.rest)
-
----
-
-### 2. International observers to investigate Swedish election fraud
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.tv4.se/artikel/37VDHaUBmbgXCIRAP1bR8f/internationell-valobservatoer-ska-foelja-upp-misstaenkta-valfusken">https://www.tv4.se/artikel/37VDHaUBmbgXCIRAP1bR8f/internationell-valobservatoer-ska-foelja-upp-misstaenkta-valfusken</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49836612">https://news.ycombinator.com/item?id=49836612</a></p>
-<p>Points: 6</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://www.tv4.se/artikel/37VDHaUBmbgXCIRAP1bR8f/internationell-valobservatoer-ska-foelja-upp-misstaenkta-valfusken](https://www.tv4.se/artikel/37VDHaUBmbgXCIRAP1bR8f/internationell-valobservatoer-ska-foelja-upp-misstaenkta-valfusken)
-
----
-
-### 3. The Board Game of the Alpha Nerds (2014)
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/">https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49836590">https://news.ycombinator.com/item?id=49836590</a></p>
-<p>Points: 19</p>
-<p># Comments: 16</p>
-
-🔗 **Read more:** [https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/](https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/)
 
 ---
 
@@ -85,55 +86,55 @@ Activist Daniel Thomas is charged in connection with an incident in the English 
 
 ---
 
-### 6. White House restores access to media outlets banned by Trump after judge's order
+### 6. From weeks to hours - the rapid new test transforming brain tumour diagnosis
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Lawyers for CNN, Politico and MS Now are seeking an emergency court hearing, saying the White House "repeatedly violated" the order.
+The test means patients can start treatment sooner and are spared weeks of uncertainty.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr3wj04d88ywo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr3wj04d88ywo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. DR Congo and Ivory Coast top Africa Cup of Nations qualifying opening wins
+### 7. At least 41 die as boat capsizes in DRC’s Lake Tanganyika
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-DR Congo beat Equatorial Guinea, while Ivory Coast cruise by Ghana and Cameroon beat Comoros as AFCON qualifiers begin.
+Forty-nine passengers have been rescued and a search is under way for the missing.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/24/dr-congo-and-ivory-coast-top-africa-cup-of-nations-qualifying-opening-wins?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/24/dr-congo-and-ivory-coast-top-africa-cup-of-nations-qualifying-opening-wins?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/25/at-least-41-die-as-boat-capsizes-in-drcs-lake-tanganyika?traffic_source=rss](https://www.aljazeera.com/news/2026/9/25/at-least-41-die-as-boat-capsizes-in-drcs-lake-tanganyika?traffic_source=rss)
 
 ---
 
-### 8. Croatian court approves extradition in Nord Stream bombing case
+### 8. Brazil’s Lula and Flavio Bolsonaro still essentially tied in new poll
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Nord Stream sabotage suspect to be extradited from Croatia; court ruling faces appeal with final decision still pending.
+Luiz Inacio Lula da Silva is up two points, but that&#039;s still within the poll&#039;s margin of error.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/24/croatian-court-approves-extradition-in-nord-stream-bombing-case?traffic_source=rss](https://www.aljazeera.com/news/2026/9/24/croatian-court-approves-extradition-in-nord-stream-bombing-case?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/25/brazils-lula-and-flavio-bolsonaro-still-essentially-tied-in-new-poll?traffic_source=rss](https://www.aljazeera.com/news/2026/9/25/brazils-lula-and-flavio-bolsonaro-still-essentially-tied-in-new-poll?traffic_source=rss)
 
 ---
 
-### 9. Trump and Xi hold critical talks at White House summit
+### 9. UAE bars Iranian airlines as US sanctions squeeze Iran’s aviation sector
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US President Donald Trump welcomed Chinese President Xi Jinping to Washington for talks on trade, AI, Taiwan and Iran.
+UAE joins Oman, Iraq, Azerbaijan, Georgia and Turkmenistan in restricting access to Iranian airlines.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/24/trump-and-xi-hold-critical-talks-at-white-house-summit?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/24/trump-and-xi-hold-critical-talks-at-white-house-summit?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/25/uae-bars-iranian-airlines-as-us-sanctions-squeeze-irans-aviation-sector?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/25/uae-bars-iranian-airlines-as-us-sanctions-squeeze-irans-aviation-sector?traffic_source=rss)
 
 ---
 
@@ -163,16 +164,16 @@ Natural event: Severe Storms
 
 ---
 
-### 12. Tropical Cyclone 01B
+### 12. Wildfire Merit Creek, Greene, Mississippi
 
 **Source:** NASA
 
 **Category:** nature
 
 **Description:**
-Natural event: Severe Storms
+Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24785](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24785)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24809](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24809)
 
 ---
 

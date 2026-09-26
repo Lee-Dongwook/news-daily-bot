@@ -1,65 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-26 20:26:19
+**Last Update:** 2026-09-26 20:47:52
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Automattic has a new board after failed attempt to put CEO on leave
+### 1. I'm the Mom in That Viral Giants Clip. Let Me Tell You About My Husband
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/">https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49857572">https://news.ycombinator.com/item?id=49857572</a></p>
-<p>Points: 21</p>
-<p># Comments: 18</p>
+<p>Article URL: <a href="https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip">https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49857899">https://news.ycombinator.com/item?id=49857899</a></p>
+<p>Points: 59</p>
+<p># Comments: 14</p>
 
-🔗 **Read more:** [https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/](https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/)
+🔗 **Read more:** [https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip](https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip)
 
 ---
 
-### 2. Show HN: A Claude Code skill to analyze your chess games
+### 2. Make Claude your assistant in excalidraw
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Hello HN,<p>It started as an experiment: can Claude play chess properly if it uses vision instead of PGN notation? Somehow it can.<p>The next experiment was to see whether Claude + Stockfish could explain a game. Somehow it can too.<p>A few sessions later, I had a system that takes my live audio notes (or text, for that matter) and a vague instruction like "analyze my last lichess game", and gives me a commented video of the game. The result is not perfect and it takes time to deliver (an hour or so), but for me it is a much more pleasant and memorable experience than clicking around Stockfish branches. It burns tokens, so make sure you have enough quota. From the session logs, the last analyzed game would have cost around $15 at API prices.<p>The fact that it reflects on my own thinking during the game makes it interesting from a teaching point of view, so I thought it was worth sharing.</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49857528">https://news.ycombinator.com/item?id=49857528</a></p>
-<p>Points: 16</p>
-<p># Comments: 8</p>
+<p>Article URL: <a href="https://tangled.org/yanndegat.tngl.sh/drawgent">https://tangled.org/yanndegat.tngl.sh/drawgent</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49857729">https://news.ycombinator.com/item?id=49857729</a></p>
+<p>Points: 6</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://github.com/brumar/chess-postmortem-skills](https://github.com/brumar/chess-postmortem-skills)
+🔗 **Read more:** [https://tangled.org/yanndegat.tngl.sh/drawgent](https://tangled.org/yanndegat.tngl.sh/drawgent)
 
 ---
 
-### 3. Plunging test scores are a slow-moving catastrophe
+### 3. Banks and Credit Unions to Team Up Against Apple Pay Fees
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.economist.com/leaders/2026/09/10/plunging-test-scores-are-a-slow-moving-catastrophe">https://www.economist.com/leaders/2026/09/10/plunging-test-scores-are-a-slow-moving-catastrophe</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49857442">https://news.ycombinator.com/item?id=49857442</a></p>
-<p>Points: 60</p>
-<p># Comments: 71</p>
+<p>Article URL: <a href="https://www.macrumors.com/2026/09/25/apple-pay-antitrust-lawsuit-advances/">https://www.macrumors.com/2026/09/25/apple-pay-antitrust-lawsuit-advances/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49857651">https://news.ycombinator.com/item?id=49857651</a></p>
+<p>Points: 18</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://www.economist.com/leaders/2026/09/10/plunging-test-scores-are-a-slow-moving-catastrophe](https://www.economist.com/leaders/2026/09/10/plunging-test-scores-are-a-slow-moving-catastrophe)
+🔗 **Read more:** [https://www.macrumors.com/2026/09/25/apple-pay-antitrust-lawsuit-advances/](https://www.macrumors.com/2026/09/25/apple-pay-antitrust-lawsuit-advances/)
 
 ---
 
-### 4. Heathrow Airport warns third runway could be delayed by four years
+### 4. Burnham announces scheme to help first-time buyers onto housing ladder
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The prime minister says he wants people without support from the "bank of mum and dad" to receive help.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cv8e33gdw17no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cv8e33gdw17no?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Heathrow Airport warns third runway could be delayed by four years
 
 **Source:** BBC
 
@@ -72,33 +84,33 @@ The UK's busiest airport cautions it may miss the government target of 2035 as m
 
 ---
 
-### 5. Man City chairman confident club will prove innocence
+### 6. Trump rejects Iran deal to reopen Strait of Hormuz in seven days
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Christian Purslow's comments come after Manchester City was found guilty of dozens of financial rule charges brought by the Premier League.
+The US president says Tehran had only put forward the proposal because it is losing the war.
 
-🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/c6d944ylqkkeo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/c6d944ylqkkeo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. How long can Labour's feel-good factor last?
+### 7. Venezuelan government, opposition agree to work towards reform of top court
 
-**Source:** BBC
+**Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The party’s spirits have been transformed since Burnham became PM, but what's coming down the tracks, asks Laura Kuenssberg.
+The two sides appointed a committee to review selection of candidates for Supreme Court of Justice.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwn8mn0rzkzlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwn8mn0rzkzlo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/26/venezuelan-government-opposition-agree-to-work-towards-reform-of-top-court?traffic_source=rss](https://www.aljazeera.com/news/2026/9/26/venezuelan-government-opposition-agree-to-work-towards-reform-of-top-court?traffic_source=rss)
 
 ---
 
-### 7. Women take up arms as sexual violence ravages eastern DRC
+### 8. Women take up arms as sexual violence ravages eastern DRC
 
 **Source:** Al Jazeera
 
@@ -111,29 +123,16 @@ As war and sexual violence rage in eastern DRC, women are joining pro-government
 
 ---
 
-### 8. At least 10 people killed in Russian and Ukrainian attacks
+### 9. At least 10 people killed in Russian and Ukrainian attacks
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-New strikes come after the US proposes a fresh round of Russia-Ukraine ceasefire talks in the UAE.
+New strikes come as Russian FM accuses Europe of doing &#039;everything it can to thwart peace talks&#039; with Ukraine.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/26/at-least-10-people-killed-in-russian-and-ukrainian-attacks?traffic_source=rss](https://www.aljazeera.com/news/2026/9/26/at-least-10-people-killed-in-russian-and-ukrainian-attacks?traffic_source=rss)
-
----
-
-### 9. Jerusalem Daily: violence continues as the world watches the UNGA
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-As the UN General Assembly enters its fifth day, with world leaders denouncing Israeli violence against Palestinians.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/26/jerusalem-daily-violence-continues-as-the-world-watches-the-unga?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/26/jerusalem-daily-violence-continues-as-the-world-watches-the-unga?traffic_source=rss)
 
 ---
 

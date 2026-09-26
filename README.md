@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-26 16:17:05
+**Last Update:** 2026-09-26 16:45:15
 
 **Total News:** 12
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://gultsch.de/posts/breaking-up-with-google-play/">https://gultsch.de/posts/breaking-up-with-google-play/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49855315">https://news.ycombinator.com/item?id=49855315</a></p>
-<p>Points: 134</p>
-<p># Comments: 28</p>
+<p>Points: 161</p>
+<p># Comments: 42</p>
 
 🔗 **Read more:** [https://gultsch.de/posts/breaking-up-with-google-play/](https://gultsch.de/posts/breaking-up-with-google-play/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html">https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49855018">https://news.ycombinator.com/item?id=49855018</a></p>
-<p>Points: 82</p>
-<p># Comments: 59</p>
+<p>Points: 87</p>
+<p># Comments: 75</p>
 
 🔗 **Read more:** [https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html](https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding">https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49854945">https://news.ycombinator.com/item?id=49854945</a></p>
-<p>Points: 23</p>
-<p># Comments: 4</p>
+<p>Points: 29</p>
+<p># Comments: 8</p>
 
 🔗 **Read more:** [https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding](https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding)
 
@@ -71,7 +71,20 @@ Christian Purslow's comments come after Manchester City was found guilty of doze
 
 ---
 
-### 5. How long can Labour's feel-good factor last?
+### 5. British national among six dead in building explosion close to Acropolis in Athens
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Four Americans and a Greek national are among those killed in a suspected gas explosion, officials said.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. How long can Labour's feel-good factor last?
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ The party’s spirits have been transformed since Burnham became PM, but what's 
 
 ---
 
-### 6. Rayner criticises visa rule proposals ahead of Labour conference
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The housing secretary says the government's plans to change wait times for permanent residency are unfair because they "change the goalposts".
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmx2zz035q99o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmx2zz035q99o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Pressure to boycott Israel game grows as Ireland preparations stall
+### 7. Manchester City face ‘drastic’ sanctions, says club’s former chairman
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ireland are due to play Israel in the Nations League in Hungary on Sunday, but boycott pressure mounts on and off-field.
+Manchester City are understood to be ready to appeal any guilty verdict, but could face &#039;severe penalty&#039; says ex-chair.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/26/pressure-to-boycott-israel-game-grows-as-ireland-preparations-stall?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/26/pressure-to-boycott-israel-game-grows-as-ireland-preparations-stall?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/26/man-city-face-drastic-sanctions-according-to-clubs-former-chairman?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/26/man-city-face-drastic-sanctions-according-to-clubs-former-chairman?traffic_source=rss)
 
 ---
 
-### 8. Blast in Pakistan’s Dera Ismail Khan kills several people
+### 8. Mecca defence alliance chiefs meet amid Houthi attacks
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Tehreek-e-Taliban Pakistan (Pakistan Taliban or TTP) claims responsibility for attack in Khyber Pakhtunkhwa province.
+Defence chiefs from Saudi Arabia, Turkiye and Pakistan have been meeting in Riyadh to discuss support for Saudi Arabia.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/26/blast-in-pakistans-dera-ismail-khan-kills-several-people?traffic_source=rss](https://www.aljazeera.com/news/2026/9/26/blast-in-pakistans-dera-ismail-khan-kills-several-people?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/26/26-09-sv-saudi-turkiye-pakistan-chiefs-riy-ks?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/26/26-09-sv-saudi-turkiye-pakistan-chiefs-riy-ks?traffic_source=rss)
 
 ---
 
-### 9. Pezeshkian says Iran ‘no longer trusts talks with Washington’
+### 9. Fury says boxing bout with Joshua in jeopardy over promoters’ clash
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-In an interview with Al Jazeera, the Iranian president says Qatar and Pakistan are relaying Tehran&#039;s messages to the US.
+The long-awaited fight, one of the biggest in British boxing history, was recently set for December 11 in Cardiff.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/26/pezeshkian-says-iran-no-longer-trusts-talks-with-washington?traffic_source=rss](https://www.aljazeera.com/news/2026/9/26/pezeshkian-says-iran-no-longer-trusts-talks-with-washington?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/26/fury-says-boxing-bout-with-joshua-in-jeopardy-over-promoters-clash?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/26/fury-says-boxing-bout-with-joshua-in-jeopardy-over-promoters-clash?traffic_source=rss)
 
 ---
 

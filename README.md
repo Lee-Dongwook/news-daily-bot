@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-26 23:08:30
+**Last Update:** 2026-09-26 23:29:17
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
@@ -20,30 +20,14 @@
 <p>I love making diagrams to help understand, plan, etc. However, the options are (A) auto-placement languages like Mermaid or Graphviz (which don't let me decide how the diagram looks), or (B) software like Draw.io which are powerful but are very time consuming (and inefficient for agents to manipulate).<p>I wanted to have the benefits of both, where you can define a diagram in a diagram language, but also retain a high degree of control over what the diagram looks like.<p>I also wanted this to work well for humans and agents.<p>On the Github link, there's a playground where you can try it out without installation. There's also instructions for a simple npm install and for installing a skill you can use with Claude or other agents.</p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49858513">https://news.ycombinator.com/item?id=49858513</a></p>
-<p>Points: 22</p>
-<p># Comments: 4</p>
+<p>Points: 28</p>
+<p># Comments: 6</p>
 
 🔗 **Read more:** [https://github.com/reladraw/reladraw](https://github.com/reladraw/reladraw)
 
 ---
 
-### 2. US jury says Apple owes record $5.7B in haptic technology patent case
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.reuters.com/legal/litigation/us-jury-says-apple-owes-record-57-billion-haptic-technology-patent-case-2026-09-26/">https://www.reuters.com/legal/litigation/us-jury-says-apple-owes-record-57-billion-haptic-technology-patent-case-2026-09-26/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49858253">https://news.ycombinator.com/item?id=49858253</a></p>
-<p>Points: 48</p>
-<p># Comments: 39</p>
-
-🔗 **Read more:** [https://www.reuters.com/legal/litigation/us-jury-says-apple-owes-record-57-billion-haptic-technology-patent-case-2026-09-26/](https://www.reuters.com/legal/litigation/us-jury-says-apple-owes-record-57-billion-haptic-technology-patent-case-2026-09-26/)
-
----
-
-### 3. I'm the mom in that viral Giants clip. Let me tell you about my husband
+### 2. I'm the mom in that viral Giants clip. Let me tell you about my husband
 
 **Source:** Hacker News
 
@@ -52,10 +36,26 @@
 **Description:**
 <p>Article URL: <a href="https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip">https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49857899">https://news.ycombinator.com/item?id=49857899</a></p>
-<p>Points: 287</p>
-<p># Comments: 125</p>
+<p>Points: 305</p>
+<p># Comments: 132</p>
 
 🔗 **Read more:** [https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip](https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip)
+
+---
+
+### 3. Drawgent: Coding agent on a live Excalidraw canvas
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://tangled.org/yanndegat.tngl.sh/drawgent">https://tangled.org/yanndegat.tngl.sh/drawgent</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49857729">https://news.ycombinator.com/item?id=49857729</a></p>
+<p>Points: 52</p>
+<p># Comments: 17</p>
+
+🔗 **Read more:** [https://tangled.org/yanndegat.tngl.sh/drawgent](https://tangled.org/yanndegat.tngl.sh/drawgent)
 
 ---
 
@@ -98,42 +98,42 @@ The US president says Tehran had only put forward the proposal because it is los
 
 ---
 
-### 7. Colombia extradites leader of armed group to US in shift towards Washington
+### 7. Saudi FM accuses Iran of ‘flagrant attacks’ and condemns Houthis at UNGA
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Colombian President Abelardo De La Espriella has emerged as close ally the of Trump administration in South America.
+At the UN, Saudi Arabia accused Iran of attacks across the region and called for action against the Houthis.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/26/colombia-extradites-leader-of-armed-group-to-us-in-shift-towards-washington?traffic_source=rss](https://www.aljazeera.com/news/2026/9/26/colombia-extradites-leader-of-armed-group-to-us-in-shift-towards-washington?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/26/saudi-fm-accuses-iran-of-flagrant-attacks-and-condemns-houthis-at-unga?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/26/saudi-fm-accuses-iran-of-flagrant-attacks-and-condemns-houthis-at-unga?traffic_source=rss)
 
 ---
 
-### 8. South African police discover body of 10th woman near Johannesburg
+### 8. Ireland decide to play Israel in Nations League after squad vote
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Police are investigating the killings in a country with one of the highest femicide rates in the world.
+Ireland&#039;s players have voted to proceed with their Nations League fixture against Israel on Sunday.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/26/south-african-police-discover-body-of-10th-woman-near-johannesburg?traffic_source=rss](https://www.aljazeera.com/news/2026/9/26/south-african-police-discover-body-of-10th-woman-near-johannesburg?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/26/ireland-decide-to-play-israel-in-nations-league-after-squad-vote?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/26/ireland-decide-to-play-israel-in-nations-league-after-squad-vote?traffic_source=rss)
 
 ---
 
-### 9. Trump rejects Iranian offer to reopen Strait of Hormuz
+### 9. Lavrov: Russia’s war in Ukraine will continue ‘through to the end’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US President Donald Trump has rejected Iran’s latest proposal to reopen the Strait of Hormuz to shipping.
+Russian Foreign Minister Sergey Lavrov vowed that the objectives of Moscow’s military operation will be achieved.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/26/trump-rejects-iranian-offer-to-reopen-strait-of-hormuz?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/26/trump-rejects-iranian-offer-to-reopen-strait-of-hormuz?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/26/lavrov-russias-war-in-ukraine-will-continue-through-to-the?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/26/lavrov-russias-war-in-ukraine-will-continue-through-to-the?traffic_source=rss)
 
 ---
 

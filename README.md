@@ -1,64 +1,78 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-26 16:45:15
+**Last Update:** 2026-09-26 20:26:19
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Breaking Up with Google Play: Why Conversations Is Now Free
+### 1. Automattic has a new board after failed attempt to put CEO on leave
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://gultsch.de/posts/breaking-up-with-google-play/">https://gultsch.de/posts/breaking-up-with-google-play/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49855315">https://news.ycombinator.com/item?id=49855315</a></p>
-<p>Points: 161</p>
-<p># Comments: 42</p>
+<p>Article URL: <a href="https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/">https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49857572">https://news.ycombinator.com/item?id=49857572</a></p>
+<p>Points: 21</p>
+<p># Comments: 18</p>
 
-🔗 **Read more:** [https://gultsch.de/posts/breaking-up-with-google-play/](https://gultsch.de/posts/breaking-up-with-google-play/)
+🔗 **Read more:** [https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/](https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/)
 
 ---
 
-### 2. One Month Without AI
+### 2. Show HN: A Claude Code skill to analyze your chess games
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html">https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49855018">https://news.ycombinator.com/item?id=49855018</a></p>
-<p>Points: 87</p>
-<p># Comments: 75</p>
-
-🔗 **Read more:** [https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html](https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html)
-
----
-
-### 3. The Copilot+ PC brand is dead
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding">https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49854945">https://news.ycombinator.com/item?id=49854945</a></p>
-<p>Points: 29</p>
+<p>Hello HN,<p>It started as an experiment: can Claude play chess properly if it uses vision instead of PGN notation? Somehow it can.<p>The next experiment was to see whether Claude + Stockfish could explain a game. Somehow it can too.<p>A few sessions later, I had a system that takes my live audio notes (or text, for that matter) and a vague instruction like "analyze my last lichess game", and gives me a commented video of the game. The result is not perfect and it takes time to deliver (an hour or so), but for me it is a much more pleasant and memorable experience than clicking around Stockfish branches. It burns tokens, so make sure you have enough quota. From the session logs, the last analyzed game would have cost around $15 at API prices.<p>The fact that it reflects on my own thinking during the game makes it interesting from a teaching point of view, so I thought it was worth sharing.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49857528">https://news.ycombinator.com/item?id=49857528</a></p>
+<p>Points: 16</p>
 <p># Comments: 8</p>
 
-🔗 **Read more:** [https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding](https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding)
+🔗 **Read more:** [https://github.com/brumar/chess-postmortem-skills](https://github.com/brumar/chess-postmortem-skills)
 
 ---
 
-### 4. Man City legal fight could spiral out of control, former Premier League club executive warns
+### 3. Plunging test scores are a slow-moving catastrophe
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.economist.com/leaders/2026/09/10/plunging-test-scores-are-a-slow-moving-catastrophe">https://www.economist.com/leaders/2026/09/10/plunging-test-scores-are-a-slow-moving-catastrophe</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49857442">https://news.ycombinator.com/item?id=49857442</a></p>
+<p>Points: 60</p>
+<p># Comments: 71</p>
+
+🔗 **Read more:** [https://www.economist.com/leaders/2026/09/10/plunging-test-scores-are-a-slow-moving-catastrophe](https://www.economist.com/leaders/2026/09/10/plunging-test-scores-are-a-slow-moving-catastrophe)
+
+---
+
+### 4. Heathrow Airport warns third runway could be delayed by four years
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The UK's busiest airport cautions it may miss the government target of 2035 as ministers say the deadline has "always been ambitious".
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crx2zz401935o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crx2zz401935o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Man City chairman confident club will prove innocence
 
 **Source:** BBC
 
@@ -68,19 +82,6 @@
 Christian Purslow's comments come after Manchester City was found guilty of dozens of financial rule charges brought by the Premier League.
 
 🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/c6d944ylqkkeo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/c6d944ylqkkeo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. British national among six dead in building explosion close to Acropolis in Athens
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Four Americans and a Greek national are among those killed in a suspected gas explosion, officials said.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +98,42 @@ The party’s spirits have been transformed since Burnham became PM, but what's 
 
 ---
 
-### 7. Manchester City face ‘drastic’ sanctions, says club’s former chairman
+### 7. Women take up arms as sexual violence ravages eastern DRC
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Manchester City are understood to be ready to appeal any guilty verdict, but could face &#039;severe penalty&#039; says ex-chair.
+As war and sexual violence rage in eastern DRC, women are joining pro-government Wazalendo fighters to defend themselves
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/26/man-city-face-drastic-sanctions-according-to-clubs-former-chairman?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/26/man-city-face-drastic-sanctions-according-to-clubs-former-chairman?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/26/09-26-drc-women-fighters-sv-mp4?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/26/09-26-drc-women-fighters-sv-mp4?traffic_source=rss)
 
 ---
 
-### 8. Mecca defence alliance chiefs meet amid Houthi attacks
+### 8. At least 10 people killed in Russian and Ukrainian attacks
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Defence chiefs from Saudi Arabia, Turkiye and Pakistan have been meeting in Riyadh to discuss support for Saudi Arabia.
+New strikes come after the US proposes a fresh round of Russia-Ukraine ceasefire talks in the UAE.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/26/26-09-sv-saudi-turkiye-pakistan-chiefs-riy-ks?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/26/26-09-sv-saudi-turkiye-pakistan-chiefs-riy-ks?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/26/at-least-10-people-killed-in-russian-and-ukrainian-attacks?traffic_source=rss](https://www.aljazeera.com/news/2026/9/26/at-least-10-people-killed-in-russian-and-ukrainian-attacks?traffic_source=rss)
 
 ---
 
-### 9. Fury says boxing bout with Joshua in jeopardy over promoters’ clash
+### 9. Jerusalem Daily: violence continues as the world watches the UNGA
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The long-awaited fight, one of the biggest in British boxing history, was recently set for December 11 in Cardiff.
+As the UN General Assembly enters its fifth day, with world leaders denouncing Israeli violence against Palestinians.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/26/fury-says-boxing-bout-with-joshua-in-jeopardy-over-promoters-clash?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/26/fury-says-boxing-bout-with-joshua-in-jeopardy-over-promoters-clash?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/26/jerusalem-daily-violence-continues-as-the-world-watches-the-unga?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/26/jerusalem-daily-violence-continues-as-the-world-watches-the-unga?traffic_source=rss)
 
 ---
 

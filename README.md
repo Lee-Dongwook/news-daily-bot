@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-26 11:22:43
+**Last Update:** 2026-09-26 16:17:05
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. A single function Jev-like wrapper for LLMs, including vision models
+### 1. Breaking Up with Google Play: Why Conversations Is Now Free
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html">http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49853175">https://news.ycombinator.com/item?id=49853175</a></p>
-<p>Points: 47</p>
+<p>Article URL: <a href="https://gultsch.de/posts/breaking-up-with-google-play/">https://gultsch.de/posts/breaking-up-with-google-play/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49855315">https://news.ycombinator.com/item?id=49855315</a></p>
+<p>Points: 134</p>
+<p># Comments: 28</p>
+
+🔗 **Read more:** [https://gultsch.de/posts/breaking-up-with-google-play/](https://gultsch.de/posts/breaking-up-with-google-play/)
+
+---
+
+### 2. One Month Without AI
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html">https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49855018">https://news.ycombinator.com/item?id=49855018</a></p>
+<p>Points: 82</p>
+<p># Comments: 59</p>
+
+🔗 **Read more:** [https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html](https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html)
+
+---
+
+### 3. The Copilot+ PC brand is dead
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding">https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49854945">https://news.ycombinator.com/item?id=49854945</a></p>
+<p>Points: 23</p>
 <p># Comments: 4</p>
 
-🔗 **Read more:** [http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html](http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html)
+🔗 **Read more:** [https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding](https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding)
 
 ---
 
-### 2. We're gonna need a lot more mathematicians
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/">https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49852717">https://news.ycombinator.com/item?id=49852717</a></p>
-<p>Points: 93</p>
-<p># Comments: 89</p>
-
-🔗 **Read more:** [https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/](https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/)
-
----
-
-### 3. HomelabFest will be in St. Louis in September 2027
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.homelabfest.org">https://www.homelabfest.org</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49852462">https://news.ycombinator.com/item?id=49852462</a></p>
-<p>Points: 22</p>
-<p># Comments: 10</p>
-
-🔗 **Read more:** [https://www.homelabfest.org](https://www.homelabfest.org)
-
----
-
-### 4. Clubs seek legal advice after Man City found guilty over financial rule breaches
+### 4. Man City legal fight could spiral out of control, former Premier League club executive warns
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Premier League clubs are seeking legal advice as to whether they would have a case for financial compensation as a result of City's breaches.
+Christian Purslow's comments come after Manchester City was found guilty of dozens of financial rule charges brought by the Premier League.
 
-🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/cr89jjwy4nqpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/cr89jjwy4nqpo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/c6d944ylqkkeo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/c6d944ylqkkeo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. The computer hacker who tried to take down Man City
+### 5. How long can Labour's feel-good factor last?
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-BBC Sport travelled to Portugal to find out more about Rui Pinto - the computer hacker who sparked the Manchester City investigation.
+The party’s spirits have been transformed since Burnham became PM, but what's coming down the tracks, asks Laura Kuenssberg.
 
-🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/cwywld5v28jo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/cwywld5v28jo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwn8mn0rzkzlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwn8mn0rzkzlo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. OpenAI bots meddled with multiple US government agency sites
+### 6. Rayner criticises visa rule proposals ahead of Labour conference
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-OpenAI said its bots accessed public data from a range of institutions during test exercises.
+The housing secretary says the government's plans to change wait times for permanent residency are unfair because they "change the goalposts".
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmx2zz035q99o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmx2zz035q99o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Yuki Kurihara, Japan’s 11-year-old e-sports prodigy, wins Asian Games gold
+### 7. Pressure to boycott Israel game grows as Ireland preparations stall
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Gold medallist Yuki Kurihara, a primary school student, is youngest athlete in host country Japan&#039;s Asian Games history.
+Ireland are due to play Israel in the Nations League in Hungary on Sunday, but boycott pressure mounts on and off-field.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/26/yuki-kurihara-esports-gold-medal-japan-asian-games-2026-aichi-nagoya?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/26/yuki-kurihara-esports-gold-medal-japan-asian-games-2026-aichi-nagoya?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/26/pressure-to-boycott-israel-game-grows-as-ireland-preparations-stall?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/26/pressure-to-boycott-israel-game-grows-as-ireland-preparations-stall?traffic_source=rss)
 
 ---
 
-### 8. ‘Nowhere else to go’: Gaza families shelter in buildings that may collapse
+### 8. Blast in Pakistan’s Dera Ismail Khan kills several people
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Three years of Israel&#039;s war has left families in Gaza living in damaged buildings, with few safe alternatives available.
+Tehreek-e-Taliban Pakistan (Pakistan Taliban or TTP) claims responsibility for attack in Khyber Pakhtunkhwa province.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/9/26/nowhere-else-to-go-gaza-families-shelter-in-buildings-that-may-collapse?traffic_source=rss](https://www.aljazeera.com/features/2026/9/26/nowhere-else-to-go-gaza-families-shelter-in-buildings-that-may-collapse?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/26/blast-in-pakistans-dera-ismail-khan-kills-several-people?traffic_source=rss](https://www.aljazeera.com/news/2026/9/26/blast-in-pakistans-dera-ismail-khan-kills-several-people?traffic_source=rss)
 
 ---
 
-### 9. Huckabee blames ‘biblical illiteracy’ for waning support for Israel in US
+### 9. Pezeshkian says Iran ‘no longer trusts talks with Washington’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A Pew Research poll in April indicated 60 percent of the US adult population held an unfavourable view of Israel.
+In an interview with Al Jazeera, the Iranian president says Qatar and Pakistan are relaying Tehran&#039;s messages to the US.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/26/huckabee-blames-biblical-illiteracy-for-declining-us-support-for-israel?traffic_source=rss](https://www.aljazeera.com/news/2026/9/26/huckabee-blames-biblical-illiteracy-for-declining-us-support-for-israel?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/26/pezeshkian-says-iran-no-longer-trusts-talks-with-washington?traffic_source=rss](https://www.aljazeera.com/news/2026/9/26/pezeshkian-says-iran-no-longer-trusts-talks-with-washington?traffic_source=rss)
 
 ---
 
@@ -162,7 +162,7 @@ Natural event: Severe Storms
 
 ---
 
-### 12. Tropical Storm Surigae
+### 12. Typhoon Surigae
 
 **Source:** NASA
 

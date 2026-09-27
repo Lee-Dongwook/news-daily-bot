@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-27 21:37:36
+**Last Update:** 2026-09-27 22:02:28
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
@@ -19,26 +19,26 @@
 **Description:**
 <p>Article URL: <a href="https://www.youtube.com/watch?v=-Nvne3LzBls">https://www.youtube.com/watch?v=-Nvne3LzBls</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49868831">https://news.ycombinator.com/item?id=49868831</a></p>
-<p>Points: 15</p>
-<p># Comments: 1</p>
+<p>Points: 80</p>
+<p># Comments: 11</p>
 
 🔗 **Read more:** [https://www.youtube.com/watch?v=-Nvne3LzBls](https://www.youtube.com/watch?v=-Nvne3LzBls)
 
 ---
 
-### 2. Don't couple your Go code to GitHub
+### 2. Ember-1
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://iain.rocks/blog/dont-couple-your-go-code-to-github">https://iain.rocks/blog/dont-couple-your-go-code-to-github</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49868404">https://news.ycombinator.com/item?id=49868404</a></p>
-<p>Points: 8</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://fireworks.ai/blog/ember-1">https://fireworks.ai/blog/ember-1</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49868830">https://news.ycombinator.com/item?id=49868830</a></p>
+<p>Points: 52</p>
+<p># Comments: 13</p>
 
-🔗 **Read more:** [https://iain.rocks/blog/dont-couple-your-go-code-to-github](https://iain.rocks/blog/dont-couple-your-go-code-to-github)
+🔗 **Read more:** [https://fireworks.ai/blog/ember-1](https://fireworks.ai/blog/ember-1)
 
 ---
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents">https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49868083">https://news.ycombinator.com/item?id=49868083</a></p>
-<p>Points: 110</p>
-<p># Comments: 65</p>
+<p>Points: 169</p>
+<p># Comments: 108</p>
 
 🔗 **Read more:** [https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents](https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents)
 
@@ -97,7 +97,20 @@ The dispute over the controversial parade is a reminder that the peace process i
 
 ---
 
-### 7. Mike Waltz: US offered to sell Iran uranium for civilian programme
+### 7. ‘Iran ready for doomsday war’, FM Araghchi says
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Foreign Minister Abbas Araghchi says Iran is prepared for war to resume, ‘even if it comes to a doomsday war’.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/27/iran-ready-for-doomsday-war-fm-araghchi-says?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/27/iran-ready-for-doomsday-war-fm-araghchi-says?traffic_source=rss)
+
+---
+
+### 8. Mike Waltz: US offered to sell Iran uranium for civilian programme
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ US ambassador says Iran refused to agree to an arrangement where uranium would b
 
 ---
 
-### 8. One month after Nepal’s catastrophic floods, thousands remain missing
+### 9. One month after Nepal’s catastrophic floods, thousands remain missing
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ US ambassador says Iran refused to agree to an arrangement where uranium would b
 A month after floods tore through Nepal, 5,285 people remain missing and more than 1,100 are still in holding centres.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/27/09-27-nepal-floods-one-month-sv-mp4?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/27/09-27-nepal-floods-one-month-sv-mp4?traffic_source=rss)
-
----
-
-### 9. Giant pandas arrive in Atlanta as part of 10-year US-China agreement
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The two pandas, Ping Ping and Fu Shuang, arrived from southwestern China.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/27/giant-pandas-arrive-in-atlanta-as-part-of-10-year-us-china-agreement?traffic_source=rss](https://www.aljazeera.com/news/2026/9/27/giant-pandas-arrive-in-atlanta-as-part-of-10-year-us-china-agreement?traffic_source=rss)
 
 ---
 

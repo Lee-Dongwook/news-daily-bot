@@ -1,32 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-27 11:53:37
+**Last Update:** 2026-09-27 17:09:40
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Kidnapping kids remains legal in USA, this site has you experience it first-hand
+### 1. "As a Language Model": Chat Template Switches LLM Self-Referential Voice
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://elan.school/">https://elan.school/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49864064">https://news.ycombinator.com/item?id=49864064</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://arxiv.org/abs/2609.25021">https://arxiv.org/abs/2609.25021</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49865343">https://news.ycombinator.com/item?id=49865343</a></p>
+<p>Points: 64</p>
+<p># Comments: 61</p>
 
-🔗 **Read more:** [https://elan.school/](https://elan.school/)
+🔗 **Read more:** [https://arxiv.org/abs/2609.25021](https://arxiv.org/abs/2609.25021)
 
 ---
 
-### 2. OpenAI Feared "Optics" of what might appear on Hacker News
+### 2. Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/">https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49864642">https://news.ycombinator.com/item?id=49864642</a></p>
+<p>Points: 274</p>
+<p># Comments: 194</p>
+
+🔗 **Read more:** [https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/](https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/)
+
+---
+
+### 3. OpenAI Feared "Optics" of what might appear on Hacker News
 
 **Source:** Hacker News
 
@@ -35,43 +51,40 @@
 **Description:**
 <p>Article URL: <a href="https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/">https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49863864">https://news.ycombinator.com/item?id=49863864</a></p>
-<p>Points: 12</p>
-<p># Comments: 1</p>
+<p>Points: 372</p>
+<p># Comments: 308</p>
 
 🔗 **Read more:** [https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/](https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/)
 
 ---
 
-### 3. What is the size of Yemen? (2024)
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://theborys.substack.com/p/what-is-the-size-of-yemen">https://theborys.substack.com/p/what-is-the-size-of-yemen</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49862809">https://news.ycombinator.com/item?id=49862809</a></p>
-<p>Points: 145</p>
-<p># Comments: 28</p>
-
-🔗 **Read more:** [https://theborys.substack.com/p/what-is-the-size-of-yemen](https://theborys.substack.com/p/what-is-the-size-of-yemen)
-
----
-
-### 4. Men arrested and houses evacuated in major incident near RAF Fairford
+### 4. Burnham proposes NHS-style social care system for England
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-A major incident is declared and villagers have been evacuated from their homes in Whelford near RAF Fairford.
+The prime minister told the BBC that social care in England is "as unfair as American healthcare".
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqrm99mm9l84o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqrm99mm9l84o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crwyzd3gv519o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crwyzd3gv519o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Ten NHS staff removed over Noah Woods data breach
+### 5. 'Broken social care will in the end break the NHS,' says Burnham
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Andy Burnham said the proposed care service would be laid out in detail and put on the ballot at the next general election.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c6ge4lyy9x0no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c6ge4lyy9x0no?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Ten NHS staff removed over Noah Woods data breach
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ East Suffolk and North Essex NHS Foundation Trust says it has launched an "urgen
 
 ---
 
-### 6. Faisal Islam: The two big calls the chancellor has to make ahead of the Budget
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-He must consider the longevity of Iran war economic pressures and how to sustain modest optimism, writes the BBC's Faisal Islam.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cklye5e40531o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cklye5e40531o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Kylian Mbappe’s knee injury to keep him out for two weeks
+### 7. ‘Better deal’: What’s behind Trump’s rejection of Iran’s truce offer?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Mbappe suffers hyperextension of left knee against Turkiye but is expected to be fit to face Barcelona in El Clasico.
+Experts say Trump sees economic sanctions as key to extracting more concessions but he risks losing leverage.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/27/kylian-mbappes-knee-injury-to-keep-him-out-for-two-weeks?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/27/kylian-mbappes-knee-injury-to-keep-him-out-for-two-weeks?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/27/better-deal-whats-behind-trumps-rejection-of-irans-truce-offer?traffic_source=rss](https://www.aljazeera.com/news/2026/9/27/better-deal-whats-behind-trumps-rejection-of-irans-truce-offer?traffic_source=rss)
 
 ---
 
-### 8. Norway vs Portugal: UEFA Nations League – Ronaldo, Haaland, teams, form
+### 8. Swiss voters set to reject tighter neutrality rules in referendum
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Norway host two-time UEFA Nations League winners Portugal in Oslo in the second match of the league phase.
+About 71 percent of voters oppose initiative to impose stricter limits on neutrality, projection suggests.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/27/norway-portugal-uefa-nations-league-ronaldo-haaland-team-news?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/27/norway-portugal-uefa-nations-league-ronaldo-haaland-team-news?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/27/swiss-voters-set-to-reject-tighter-neutrality-rules-in-referendum?traffic_source=rss](https://www.aljazeera.com/news/2026/9/27/swiss-voters-set-to-reject-tighter-neutrality-rules-in-referendum?traffic_source=rss)
 
 ---
 
-### 9. Australia summons OpenAI and Anthropic CEOs to appear at AI inquiry
+### 9. Political rallies fill Brazil’s streets a week before elections
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Call to face Senate inquiry follows security breach of Australia&#039;s Medicare portal by rogue OpenAI bot in June.
+Rival political rallies have been held in Brazil as campaigns intensify with one week to go until election day.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/27/australia-summons-openai-and-anthropic-ceos-to-appear-at-ai-inquiry?traffic_source=rss](https://www.aljazeera.com/news/2026/9/27/australia-summons-openai-and-anthropic-ceos-to-appear-at-ai-inquiry?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/27/political-rallies-fill-brazils-streets-a-week-before-elections?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/27/political-rallies-fill-brazils-streets-a-week-before-elections?traffic_source=rss)
 
 ---
 

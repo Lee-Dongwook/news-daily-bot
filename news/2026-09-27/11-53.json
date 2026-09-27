@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-27T11:53:37+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Kidnapping kids remains legal in USA, this site has you experience it first-hand",
+            "description": "<p>Article URL: <a href=\"https://elan.school/\">https://elan.school/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49864064\">https://news.ycombinator.com/item?id=49864064</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://elan.school/",
+            "published": "Sun, 27 Sep 2026 06:53:51 +0000",
+            "fetched": "2026-09-27T11:53:37+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
+            "description": "<p>Article URL: <a href=\"https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/\">https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49863864\">https://news.ycombinator.com/item?id=49863864</a></p>\n<p>Points: 12</p>\n<p># Comments: 1</p>",
+            "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
+            "published": "Sun, 27 Sep 2026 06:19:33 +0000",
+            "fetched": "2026-09-27T11:53:37+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "What is the size of Yemen? (2024)",
+            "description": "<p>Article URL: <a href=\"https://theborys.substack.com/p/what-is-the-size-of-yemen\">https://theborys.substack.com/p/what-is-the-size-of-yemen</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49862809\">https://news.ycombinator.com/item?id=49862809</a></p>\n<p>Points: 145</p>\n<p># Comments: 28</p>",
+            "url": "https://theborys.substack.com/p/what-is-the-size-of-yemen",
+            "published": "Sun, 27 Sep 2026 02:40:26 +0000",
+            "fetched": "2026-09-27T11:53:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Men arrested and houses evacuated in major incident near RAF Fairford",
+            "description": "A major incident is declared and villagers have been evacuated from their homes in Whelford near RAF Fairford.",
+            "url": "https://www.bbc.co.uk/news/articles/cqrm99mm9l84o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 27 Sep 2026 08:03:20 GMT",
+            "fetched": "2026-09-27T11:53:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Ten NHS staff removed over Noah Woods data breach",
+            "description": "East Suffolk and North Essex NHS Foundation Trust says it has launched an \"urgent\" investigation.",
+            "url": "https://www.bbc.co.uk/news/articles/cmqjkk55qg25o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 27 Sep 2026 07:37:25 GMT",
+            "fetched": "2026-09-27T11:53:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Faisal Islam: The two big calls the chancellor has to make ahead of the Budget",
+            "description": "He must consider the longevity of Iran war economic pressures and how to sustain modest optimism, writes the BBC's Faisal Islam.",
+            "url": "https://www.bbc.co.uk/news/articles/cklye5e40531o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 26 Sep 2026 23:00:42 GMT",
+            "fetched": "2026-09-27T11:53:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Kylian Mbappe’s knee injury to keep him out for two weeks",
+            "description": "Mbappe suffers hyperextension of left knee against Turkiye but is expected to be fit to face Barcelona in El Clasico.",
+            "url": "https://www.aljazeera.com/sports/2026/9/27/kylian-mbappes-knee-injury-to-keep-him-out-for-two-weeks?traffic_source=rss",
+            "published": "Sun, 27 Sep 2026 07:32:20 +0000",
+            "fetched": "2026-09-27T11:53:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Norway vs Portugal: UEFA Nations League – Ronaldo, Haaland, teams, form",
+            "description": "Norway host two-time UEFA Nations League winners Portugal in Oslo in the second match of the league phase.",
+            "url": "https://www.aljazeera.com/sports/2026/9/27/norway-portugal-uefa-nations-league-ronaldo-haaland-team-news?traffic_source=rss",
+            "published": "Sun, 27 Sep 2026 07:23:33 +0000",
+            "fetched": "2026-09-27T11:53:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Australia summons OpenAI and Anthropic CEOs to appear at AI inquiry",
+            "description": "Call to face Senate inquiry follows security breach of Australia&#039;s Medicare portal by rogue OpenAI bot in June.",
+            "url": "https://www.aljazeera.com/news/2026/9/27/australia-summons-openai-and-anthropic-ceos-to-appear-at-ai-inquiry?traffic_source=rss",
+            "published": "Sun, 27 Sep 2026 07:08:28 +0000",
+            "fetched": "2026-09-27T11:53:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Gonzalo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24811",
+            "published": "2026-09-25T03:00:00Z",
+            "fetched": "2026-09-27T11:53:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Nolo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24786",
+            "published": "2026-09-24T00:00:00Z",
+            "fetched": "2026-09-27T11:53:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Surigae",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24787",
+            "published": "2026-09-23T18:00:00Z",
+            "fetched": "2026-09-27T11:53:37+03:30"
+        }
+    ]
+}

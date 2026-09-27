@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-27T04:41:04+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Things You Notice Rewatching Ed, Edd N Eddy as an Adult",
+            "description": "<p>Article URL: <a href=\"https://noxluneworld.com/darkest-cartoon-network-episodes/\">https://noxluneworld.com/darkest-cartoon-network-episodes/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49861659\">https://news.ycombinator.com/item?id=49861659</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://noxluneworld.com/darkest-cartoon-network-episodes/",
+            "published": "Sat, 26 Sep 2026 23:35:34 +0000",
+            "fetched": "2026-09-27T04:41:04+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Palantir's Co-Founder Wants Us Less Judgmental About Deadly Iran School Strike",
+            "description": "<p>Article URL: <a href=\"https://www.motherjones.com/politics/2026/09/palantirs-co-founder-thinks-we-should-be-less-judgmental-about-that-deadly-iran-school-strike/\">https://www.motherjones.com/politics/2026/09/palantirs-co-founder-thinks-we-should-be-less-judgmental-about-that-deadly-iran-school-strike/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49861062\">https://news.ycombinator.com/item?id=49861062</a></p>\n<p>Points: 30</p>\n<p># Comments: 8</p>",
+            "url": "https://www.motherjones.com/politics/2026/09/palantirs-co-founder-thinks-we-should-be-less-judgmental-about-that-deadly-iran-school-strike/",
+            "published": "Sat, 26 Sep 2026 22:16:46 +0000",
+            "fetched": "2026-09-27T04:41:04+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Welcome to the Medical Clinic at the Interplanetary Relay Station",
+            "description": "<p>Article URL: <a href=\"https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/\">https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49860074\">https://news.ycombinator.com/item?id=49860074</a></p>\n<p>Points: 41</p>\n<p># Comments: 7</p>",
+            "url": "https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/",
+            "published": "Sat, 26 Sep 2026 20:08:50 +0000",
+            "fetched": "2026-09-27T04:41:04+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham announces scheme to help first-time buyers on to housing ladder",
+            "description": "The prime minister says he wants people without support from the \"bank of mum and dad\" to receive help.",
+            "url": "https://www.bbc.co.uk/news/articles/cv8e33gdw17no?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 26 Sep 2026 18:50:02 GMT",
+            "fetched": "2026-09-27T04:41:04+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Appeal court judges overturn ban on controversial Drumcree parade",
+            "description": "The Court of Appeal overturned an earlier ban on the Orange Order parading down the mainly nationalist Garvaghy Road in Portadown for the first time since the late 1990s.",
+            "url": "https://www.bbc.co.uk/news/articles/ckjrxx22wqgdo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 27 Sep 2026 00:49:02 GMT",
+            "fetched": "2026-09-27T04:41:04+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Faisal Islam: The two big calls the chancellor has to make ahead of the Budget",
+            "description": "He must consider the longevity of Iran war economic pressures and how to sustain modest optimism, writes the BBC's Faisal Islam.",
+            "url": "https://www.bbc.co.uk/news/articles/cklye5e40531o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 26 Sep 2026 23:00:42 GMT",
+            "fetched": "2026-09-27T04:41:04+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran war live: Tehran awaits official response as Trump rejects Hormuz plan",
+            "description": "US president rejects Iran&#039;s seven-day plan to reopen the Strait of Hormuz, saying the deal is not &#039;acceptable&#039;.",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/9/27/iran-war-live-tehran-awaits-official-response-as-trump-rejects-hormuz-plan?traffic_source=rss",
+            "published": "Sun, 27 Sep 2026 00:00:00 +0000",
+            "fetched": "2026-09-27T04:41:04+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Pezeshkian says Iran ‘no longer trusts talks with Washington’",
+            "description": "Iran’s Pezeshkian says Tehran no longer trusts US talks, shortly before Trump rejected its Hormuz proposal.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/pezeshkian-says-iran-no-longer-trusts-talks-with?traffic_source=rss",
+            "published": "Sat, 26 Sep 2026 23:49:30 +0000",
+            "fetched": "2026-09-27T04:41:04+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Four American tourists among 6 killed in suspected gas leak blast in Athens",
+            "description": "Two women reportedly injured after building collapse in Athens&#039; historic Plaka district.",
+            "url": "https://www.aljazeera.com/news/2026/9/26/four-american-tourists-among-6-killed-in-suspected-gas-leak-blast-in-athens?traffic_source=rss",
+            "published": "Sat, 26 Sep 2026 23:26:31 +0000",
+            "fetched": "2026-09-27T04:41:04+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Gonzalo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24811",
+            "published": "2026-09-25T03:00:00Z",
+            "fetched": "2026-09-27T04:41:04+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Nolo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24786",
+            "published": "2026-09-24T00:00:00Z",
+            "fetched": "2026-09-27T04:41:04+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Surigae",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24787",
+            "published": "2026-09-23T18:00:00Z",
+            "fetched": "2026-09-27T04:41:04+03:30"
+        }
+    ]
+}

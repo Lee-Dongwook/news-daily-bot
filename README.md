@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-27 02:30:08
+**Last Update:** 2026-09-27 04:41:04
 
 **Total News:** 12
 
@@ -10,7 +10,39 @@
 
 ## 📰 Latest News
 
-### 1. Welcome to the Medical Clinic at the Interplanetary Relay Station
+### 1. Things You Notice Rewatching Ed, Edd N Eddy as an Adult
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://noxluneworld.com/darkest-cartoon-network-episodes/">https://noxluneworld.com/darkest-cartoon-network-episodes/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49861659">https://news.ycombinator.com/item?id=49861659</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://noxluneworld.com/darkest-cartoon-network-episodes/](https://noxluneworld.com/darkest-cartoon-network-episodes/)
+
+---
+
+### 2. Palantir's Co-Founder Wants Us Less Judgmental About Deadly Iran School Strike
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.motherjones.com/politics/2026/09/palantirs-co-founder-thinks-we-should-be-less-judgmental-about-that-deadly-iran-school-strike/">https://www.motherjones.com/politics/2026/09/palantirs-co-founder-thinks-we-should-be-less-judgmental-about-that-deadly-iran-school-strike/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49861062">https://news.ycombinator.com/item?id=49861062</a></p>
+<p>Points: 30</p>
+<p># Comments: 8</p>
+
+🔗 **Read more:** [https://www.motherjones.com/politics/2026/09/palantirs-co-founder-thinks-we-should-be-less-judgmental-about-that-deadly-iran-school-strike/](https://www.motherjones.com/politics/2026/09/palantirs-co-founder-thinks-we-should-be-less-judgmental-about-that-deadly-iran-school-strike/)
+
+---
+
+### 3. Welcome to the Medical Clinic at the Interplanetary Relay Station
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/">https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49860074">https://news.ycombinator.com/item?id=49860074</a></p>
-<p>Points: 25</p>
-<p># Comments: 3</p>
+<p>Points: 41</p>
+<p># Comments: 7</p>
 
 🔗 **Read more:** [https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/](https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/)
-
----
-
-### 2. DeepSeek Elastic Compute (DSec)
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://arxiv.org/abs/2609.22978">https://arxiv.org/abs/2609.22978</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49859112">https://news.ycombinator.com/item?id=49859112</a></p>
-<p>Points: 103</p>
-<p># Comments: 23</p>
-
-🔗 **Read more:** [https://arxiv.org/abs/2609.22978](https://arxiv.org/abs/2609.22978)
-
----
-
-### 3. Japan moves to tighten rules for foreigners
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt">https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49858810">https://news.ycombinator.com/item?id=49858810</a></p>
-<p>Points: 77</p>
-<p># Comments: 143</p>
-
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt](https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt)
 
 ---
 
@@ -71,68 +71,68 @@ The prime minister says he wants people without support from the "bank of mum an
 
 ---
 
-### 5. Heathrow Airport warns third runway could be delayed by four years
+### 5. Appeal court judges overturn ban on controversial Drumcree parade
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The UK's busiest airport cautions it may miss the government target of 2035 as ministers say the deadline has "always been ambitious".
+The Court of Appeal overturned an earlier ban on the Orange Order parading down the mainly nationalist Garvaghy Road in Portadown for the first time since the late 1990s.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crx2zz401935o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crx2zz401935o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckjrxx22wqgdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckjrxx22wqgdo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Trump rejects Iran deal to reopen Strait of Hormuz in seven days
+### 6. Faisal Islam: The two big calls the chancellor has to make ahead of the Budget
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Iran's foreign minister acknowledges Trump's comments, but adds that Tehran is waiting for the "definitive views" of mediators.
+He must consider the longevity of Iran war economic pressures and how to sustain modest optimism, writes the BBC's Faisal Islam.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cklye5e40531o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cklye5e40531o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Student protesters disrupt NVIDIA AI climate panel
+### 7. Iran war live: Tehran awaits official response as Trump rejects Hormuz plan
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Student protesters have interrupted an NVIDIA panel during NYC Climate Week.
+US president rejects Iran&#039;s seven-day plan to reopen the Strait of Hormuz, saying the deal is not &#039;acceptable&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/26/student-protesters-disrupt-nvidia-ai-climate-panel?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/26/student-protesters-disrupt-nvidia-ai-climate-panel?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/9/27/iran-war-live-tehran-awaits-official-response-as-trump-rejects-hormuz-plan?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/9/27/iran-war-live-tehran-awaits-official-response-as-trump-rejects-hormuz-plan?traffic_source=rss)
 
 ---
 
-### 8. Trump says he is rolling back Biden-era US fuel economy rules for cars
+### 8. Pezeshkian says Iran ‘no longer trusts talks with Washington’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The US president said he would end a so-called &#039;EV mandate&#039; that steered consumers to electric vehicles.
+Iran’s Pezeshkian says Tehran no longer trusts US talks, shortly before Trump rejected its Hormuz proposal.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/26/trump-says-he-is-rolling-back-biden-era-us-fuel-economy-rules-for-cars?traffic_source=rss](https://www.aljazeera.com/news/2026/9/26/trump-says-he-is-rolling-back-biden-era-us-fuel-economy-rules-for-cars?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/26/pezeshkian-says-iran-no-longer-trusts-talks-with?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/26/pezeshkian-says-iran-no-longer-trusts-talks-with?traffic_source=rss)
 
 ---
 
-### 9. Yamal nets in Spain’s 3-2 comeback win against England in Nations League
+### 9. Four American tourists among 6 killed in suspected gas leak blast in Athens
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Lamine Yamal goal opens the scoring, but Spain made to comeback in Nations League win as Harry Kane misses penalty.
+Two women reportedly injured after building collapse in Athens&#039; historic Plaka district.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/26/yamal-nets-in-spains-3-2-comeback-win-against-england-in-nations-league?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/26/yamal-nets-in-spains-3-2-comeback-win-against-england-in-nations-league?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/26/four-american-tourists-among-6-killed-in-suspected-gas-leak-blast-in-athens?traffic_source=rss](https://www.aljazeera.com/news/2026/9/26/four-american-tourists-among-6-killed-in-suspected-gas-leak-blast-in-athens?traffic_source=rss)
 
 ---
 

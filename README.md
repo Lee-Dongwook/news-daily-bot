@@ -1,64 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-27 17:38:24
+**Last Update:** 2026-09-27 21:37:36
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. "As a Language Model": Chat Template Switches LLM Self-Referential Voice
+### 1. SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://arxiv.org/abs/2609.25021">https://arxiv.org/abs/2609.25021</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49865343">https://news.ycombinator.com/item?id=49865343</a></p>
-<p>Points: 69</p>
-<p># Comments: 67</p>
+<p>Article URL: <a href="https://www.youtube.com/watch?v=-Nvne3LzBls">https://www.youtube.com/watch?v=-Nvne3LzBls</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49868831">https://news.ycombinator.com/item?id=49868831</a></p>
+<p>Points: 15</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://arxiv.org/abs/2609.25021](https://arxiv.org/abs/2609.25021)
+🔗 **Read more:** [https://www.youtube.com/watch?v=-Nvne3LzBls](https://www.youtube.com/watch?v=-Nvne3LzBls)
 
 ---
 
-### 2. Rusty thoughts on "Parse, don't validate"
+### 2. Don't couple your Go code to GitHub
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/">https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49864743">https://news.ycombinator.com/item?id=49864743</a></p>
+<p>Article URL: <a href="https://iain.rocks/blog/dont-couple-your-go-code-to-github">https://iain.rocks/blog/dont-couple-your-go-code-to-github</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49868404">https://news.ycombinator.com/item?id=49868404</a></p>
 <p>Points: 8</p>
 <p># Comments: 1</p>
 
-🔗 **Read more:** [https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/](https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/)
+🔗 **Read more:** [https://iain.rocks/blog/dont-couple-your-go-code-to-github](https://iain.rocks/blog/dont-couple-your-go-code-to-github)
 
 ---
 
-### 3. Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election
+### 3. There are no "rogue" AI agents
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/">https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49864642">https://news.ycombinator.com/item?id=49864642</a></p>
-<p>Points: 303</p>
-<p># Comments: 216</p>
+<p>Article URL: <a href="https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents">https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49868083">https://news.ycombinator.com/item?id=49868083</a></p>
+<p>Points: 110</p>
+<p># Comments: 65</p>
 
-🔗 **Read more:** [https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/](https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/)
+🔗 **Read more:** [https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents](https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents)
 
 ---
 
-### 4. Burnham proposes NHS-style social care system for England
+### 4. What we know about RAF base counter-terror investigation
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Five men have been arrested as counter-terror police lead an investigation into a major incident near the airbase.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c85ydnwqpzyzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c85ydnwqpzyzo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Burnham proposes NHS-style social care system for England
 
 **Source:** BBC
 
@@ -71,68 +84,55 @@ The prime minister told the BBC that social care in England is "as unfair as Ame
 
 ---
 
-### 5. 'Broken social care will in the end break the NHS,' says Burnham
+### 6. Orange Order march row goes to heart of ongoing divisions in Northern Ireland
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Andy Burnham said the proposed care service would be laid out in detail and put on the ballot at the next general election.
+The dispute over the controversial parade is a reminder that the peace process is not over.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c6ge4lyy9x0no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c6ge4lyy9x0no?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Ten NHS staff removed over Noah Woods data breach
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-East Suffolk and North Essex NHS Foundation Trust says it has launched an "urgent" investigation.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmqjkk55qg25o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmqjkk55qg25o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckx2zq7x32wro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckx2zq7x32wro?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. US installation commemorates victims of South African ‘white genocide’
+### 7. Mike Waltz: US offered to sell Iran uranium for civilian programme
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Memorial crosses installed in the US have revived erroneous claims of a ‘white genocide’ against farmers in South Africa
+US ambassador says Iran refused to agree to an arrangement where uranium would be supplied by Washington.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/27/us-installation-commemorates-victims-of-south-african-white?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/27/us-installation-commemorates-victims-of-south-african-white?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/27/mike-waltz-us-offered-to-sell-iran-uranium-for-civilian-programme?traffic_source=rss](https://www.aljazeera.com/news/2026/9/27/mike-waltz-us-offered-to-sell-iran-uranium-for-civilian-programme?traffic_source=rss)
 
 ---
 
-### 8. Ethiopians celebrate Meskel and call for peace amid fighting
+### 8. One month after Nepal’s catastrophic floods, thousands remain missing
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ethiopians celebrate Meskel and call for peace amid fighting
+A month after floods tore through Nepal, 5,285 people remain missing and more than 1,100 are still in holding centres.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/27/ethiopians-celebrate-meskel-and-call-for-peace-amid-fighting?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/27/ethiopians-celebrate-meskel-and-call-for-peace-amid-fighting?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/27/09-27-nepal-floods-one-month-sv-mp4?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/27/09-27-nepal-floods-one-month-sv-mp4?traffic_source=rss)
 
 ---
 
-### 9. ‘Better deal’: What’s behind Trump’s rejection of Iran’s truce offer?
+### 9. Giant pandas arrive in Atlanta as part of 10-year US-China agreement
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Experts say Trump sees economic sanctions as key to extracting more concessions but he risks losing leverage.
+The two pandas, Ping Ping and Fu Shuang, arrived from southwestern China.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/27/better-deal-whats-behind-trumps-rejection-of-irans-truce-offer?traffic_source=rss](https://www.aljazeera.com/news/2026/9/27/better-deal-whats-behind-trumps-rejection-of-irans-truce-offer?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/27/giant-pandas-arrive-in-atlanta-as-part-of-10-year-us-china-agreement?traffic_source=rss](https://www.aljazeera.com/news/2026/9/27/giant-pandas-arrive-in-atlanta-as-part-of-10-year-us-china-agreement?traffic_source=rss)
 
 ---
 

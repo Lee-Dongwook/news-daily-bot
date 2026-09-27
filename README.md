@@ -1,64 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-27 22:02:28
+**Last Update:** 2026-09-28 01:24:22
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]
+### 1. Lunar Terminator Paradox
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.youtube.com/watch?v=-Nvne3LzBls">https://www.youtube.com/watch?v=-Nvne3LzBls</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49868831">https://news.ycombinator.com/item?id=49868831</a></p>
-<p>Points: 80</p>
-<p># Comments: 11</p>
+<p>Article URL: <a href="https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html">https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49870837">https://news.ycombinator.com/item?id=49870837</a></p>
+<p>Points: 17</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.youtube.com/watch?v=-Nvne3LzBls](https://www.youtube.com/watch?v=-Nvne3LzBls)
+🔗 **Read more:** [https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html](https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html)
 
 ---
 
-### 2. Ember-1
+### 2. When did Google get so weird?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://fireworks.ai/blog/ember-1">https://fireworks.ai/blog/ember-1</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49868830">https://news.ycombinator.com/item?id=49868830</a></p>
-<p>Points: 52</p>
-<p># Comments: 13</p>
+<p>Article URL: <a href="https://sancho.bearblog.dev/google-weird/">https://sancho.bearblog.dev/google-weird/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49870367">https://news.ycombinator.com/item?id=49870367</a></p>
+<p>Points: 298</p>
+<p># Comments: 157</p>
 
-🔗 **Read more:** [https://fireworks.ai/blog/ember-1](https://fireworks.ai/blog/ember-1)
+🔗 **Read more:** [https://sancho.bearblog.dev/google-weird/](https://sancho.bearblog.dev/google-weird/)
 
 ---
 
-### 3. There are no "rogue" AI agents
+### 3. Alan Kay's answer to "Did the ENIAC have a BIOS"?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents">https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49868083">https://news.ycombinator.com/item?id=49868083</a></p>
-<p>Points: 169</p>
-<p># Comments: 108</p>
+<p>Article URL: <a href="https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11">https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49870070">https://news.ycombinator.com/item?id=49870070</a></p>
+<p>Points: 42</p>
+<p># Comments: 17</p>
 
-🔗 **Read more:** [https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents](https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents)
+🔗 **Read more:** [https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11](https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11)
 
 ---
 
-### 4. What we know about RAF base counter-terror investigation
+### 4. Five arrested as counter-terror police investigate major incident near RAF Fairford
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The men have been detained on suspicion of preparation of a terrorist act after three suspicious vehicles were reported to be travelling towards the base.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqrm99mm9l84o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqrm99mm9l84o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. What we know about RAF Fairford counter-terror probe
 
 **Source:** BBC
 
@@ -71,7 +84,7 @@ Five men have been arrested as counter-terror police lead an investigation into 
 
 ---
 
-### 5. Burnham proposes NHS-style social care system for England
+### 6. Burnham proposes NHS-style social care system for England
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ The prime minister told the BBC that social care in England is "as unfair as Ame
 
 ---
 
-### 6. Orange Order march row goes to heart of ongoing divisions in Northern Ireland
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The dispute over the controversial parade is a reminder that the peace process is not over.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckx2zq7x32wro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckx2zq7x32wro?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. ‘Iran ready for doomsday war’, FM Araghchi says
+### 7. Ireland defeats Israel in controversial UEFA Nations League match
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Foreign Minister Abbas Araghchi says Iran is prepared for war to resume, ‘even if it comes to a doomsday war’.
+Ireland&#039;s players wore black armbands in support of Palestine, bowed their heads, and refused pre-match handshakes.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/27/iran-ready-for-doomsday-war-fm-araghchi-says?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/27/iran-ready-for-doomsday-war-fm-araghchi-says?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/27/ireland-defeats-israel-in-controversial-uefa-nations-league-match?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/27/ireland-defeats-israel-in-controversial-uefa-nations-league-match?traffic_source=rss)
 
 ---
 
-### 8. Mike Waltz: US offered to sell Iran uranium for civilian programme
+### 8. Alleged rape on campus sparks violent protest at Indian university
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US ambassador says Iran refused to agree to an arrangement where uranium would be supplied by Washington.
+Student protests at an Indian university have turned violent following claims that a female student was raped on campus.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/27/mike-waltz-us-offered-to-sell-iran-uranium-for-civilian-programme?traffic_source=rss](https://www.aljazeera.com/news/2026/9/27/mike-waltz-us-offered-to-sell-iran-uranium-for-civilian-programme?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/27/alleged-rape-on-campus-sparks-violent-protest-at-indian-university?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/27/alleged-rape-on-campus-sparks-violent-protest-at-indian-university?traffic_source=rss)
 
 ---
 
-### 9. One month after Nepal’s catastrophic floods, thousands remain missing
+### 9. Floods inundate roads in southeastern Algeria
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A month after floods tore through Nepal, 5,285 people remain missing and more than 1,100 are still in holding centres.
+Circulating footage showed significant flooding, following heavy rain in southeastern Algeria.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/27/09-27-nepal-floods-one-month-sv-mp4?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/27/09-27-nepal-floods-one-month-sv-mp4?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/27/floods-inundate-roads-in-southeastern-algeria?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/27/floods-inundate-roads-in-southeastern-algeria?traffic_source=rss)
 
 ---
 

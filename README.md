@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-27 17:09:40
+**Last Update:** 2026-09-27 17:38:24
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
@@ -19,14 +19,30 @@
 **Description:**
 <p>Article URL: <a href="https://arxiv.org/abs/2609.25021">https://arxiv.org/abs/2609.25021</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49865343">https://news.ycombinator.com/item?id=49865343</a></p>
-<p>Points: 64</p>
-<p># Comments: 61</p>
+<p>Points: 69</p>
+<p># Comments: 67</p>
 
 🔗 **Read more:** [https://arxiv.org/abs/2609.25021](https://arxiv.org/abs/2609.25021)
 
 ---
 
-### 2. Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election
+### 2. Rusty thoughts on "Parse, don't validate"
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/">https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49864743">https://news.ycombinator.com/item?id=49864743</a></p>
+<p>Points: 8</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/](https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/)
+
+---
+
+### 3. Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/">https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49864642">https://news.ycombinator.com/item?id=49864642</a></p>
-<p>Points: 274</p>
-<p># Comments: 194</p>
+<p>Points: 303</p>
+<p># Comments: 216</p>
 
 🔗 **Read more:** [https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/](https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/)
-
----
-
-### 3. OpenAI Feared "Optics" of what might appear on Hacker News
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/">https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49863864">https://news.ycombinator.com/item?id=49863864</a></p>
-<p>Points: 372</p>
-<p># Comments: 308</p>
-
-🔗 **Read more:** [https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/](https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/)
 
 ---
 
@@ -97,7 +97,33 @@ East Suffolk and North Essex NHS Foundation Trust says it has launched an "urgen
 
 ---
 
-### 7. ‘Better deal’: What’s behind Trump’s rejection of Iran’s truce offer?
+### 7. US installation commemorates victims of South African ‘white genocide’
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Memorial crosses installed in the US have revived erroneous claims of a ‘white genocide’ against farmers in South Africa
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/27/us-installation-commemorates-victims-of-south-african-white?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/27/us-installation-commemorates-victims-of-south-african-white?traffic_source=rss)
+
+---
+
+### 8. Ethiopians celebrate Meskel and call for peace amid fighting
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Ethiopians celebrate Meskel and call for peace amid fighting
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/27/ethiopians-celebrate-meskel-and-call-for-peace-amid-fighting?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/27/ethiopians-celebrate-meskel-and-call-for-peace-amid-fighting?traffic_source=rss)
+
+---
+
+### 9. ‘Better deal’: What’s behind Trump’s rejection of Iran’s truce offer?
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ East Suffolk and North Essex NHS Foundation Trust says it has launched an "urgen
 Experts say Trump sees economic sanctions as key to extracting more concessions but he risks losing leverage.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/27/better-deal-whats-behind-trumps-rejection-of-irans-truce-offer?traffic_source=rss](https://www.aljazeera.com/news/2026/9/27/better-deal-whats-behind-trumps-rejection-of-irans-truce-offer?traffic_source=rss)
-
----
-
-### 8. Swiss voters set to reject tighter neutrality rules in referendum
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-About 71 percent of voters oppose initiative to impose stricter limits on neutrality, projection suggests.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/27/swiss-voters-set-to-reject-tighter-neutrality-rules-in-referendum?traffic_source=rss](https://www.aljazeera.com/news/2026/9/27/swiss-voters-set-to-reject-tighter-neutrality-rules-in-referendum?traffic_source=rss)
-
----
-
-### 9. Political rallies fill Brazil’s streets a week before elections
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Rival political rallies have been held in Brazil as campaigns intensify with one week to go until election day.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/27/political-rallies-fill-brazils-streets-a-week-before-elections?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/27/political-rallies-fill-brazils-streets-a-week-before-elections?traffic_source=rss)
 
 ---
 

@@ -1,44 +1,44 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-27 05:05:30
+**Last Update:** 2026-09-27 11:17:33
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. OpenAI (2015)
+### 1. What is the size of Yemen? (2024)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://openai.com/index/introducing-openai/">https://openai.com/index/introducing-openai/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49862120">https://news.ycombinator.com/item?id=49862120</a></p>
-<p>Points: 3</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://theborys.substack.com/p/what-is-the-size-of-yemen">https://theborys.substack.com/p/what-is-the-size-of-yemen</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49862809">https://news.ycombinator.com/item?id=49862809</a></p>
+<p>Points: 129</p>
+<p># Comments: 23</p>
 
-🔗 **Read more:** [https://openai.com/index/introducing-openai/](https://openai.com/index/introducing-openai/)
+🔗 **Read more:** [https://theborys.substack.com/p/what-is-the-size-of-yemen](https://theborys.substack.com/p/what-is-the-size-of-yemen)
 
 ---
 
-### 2. Sousveillance
+### 2. Real-time feedback: My closing move in every interview
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://en.wikipedia.org/wiki/Sousveillance">https://en.wikipedia.org/wiki/Sousveillance</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49861992">https://news.ycombinator.com/item?id=49861992</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://mgrebler.substack.com/p/real-time-feedback-my-closing-move">https://mgrebler.substack.com/p/real-time-feedback-my-closing-move</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49862244">https://news.ycombinator.com/item?id=49862244</a></p>
+<p>Points: 27</p>
+<p># Comments: 24</p>
 
-🔗 **Read more:** [https://en.wikipedia.org/wiki/Sousveillance](https://en.wikipedia.org/wiki/Sousveillance)
+🔗 **Read more:** [https://mgrebler.substack.com/p/real-time-feedback-my-closing-move](https://mgrebler.substack.com/p/real-time-feedback-my-closing-move)
 
 ---
 
@@ -51,36 +51,36 @@
 **Description:**
 <p>Article URL: <a href="https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/">https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49860074">https://news.ycombinator.com/item?id=49860074</a></p>
-<p>Points: 44</p>
-<p># Comments: 8</p>
+<p>Points: 66</p>
+<p># Comments: 12</p>
 
 🔗 **Read more:** [https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/](https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/)
 
 ---
 
-### 4. Burnham announces scheme to help first-time buyers on to housing ladder
+### 4. Ten NHS staff removed over Noah Woods data breach
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The prime minister says he wants people without support from the "bank of mum and dad" to receive help.
+East Suffolk and North Essex NHS Foundation Trust says it has launched an "urgent" investigation.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cv8e33gdw17no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cv8e33gdw17no?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmqjkk55qg25o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmqjkk55qg25o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Appeal court judges overturn ban on controversial Drumcree parade
+### 5. Major incident in village near RAF base
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The Court of Appeal overturned an earlier ban on the Orange Order parading down the mainly nationalist Garvaghy Road in Portadown for the first time since the late 1990s.
+A major incident is declared and villagers have been evacuated from their homes in Whelford near RAF Fairford.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckjrxx22wqgdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckjrxx22wqgdo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqrm99mm9l84o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqrm99mm9l84o?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +97,42 @@ He must consider the longevity of Iran war economic pressures and how to sustain
 
 ---
 
-### 7. Araghchi ignores Trump, waits for mediators’ response on Hormuz
+### 7. Kylian Mbappe’s knee injury to keep him out for two weeks
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Iran says it’s still waiting for an official response from the US on its proposal to reopen the Strait of Hormuz.
+Mbappe suffered a hyperextension of his left knee against Turkiye but will be fit to face Barcelona in El Clasico.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/27/araghchi-ignores-trump-waits-for-mediators-response-on-hormuz?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/27/araghchi-ignores-trump-waits-for-mediators-response-on-hormuz?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/27/kylian-mbappes-knee-injury-to-keep-him-out-for-two-weeks?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/27/kylian-mbappes-knee-injury-to-keep-him-out-for-two-weeks?traffic_source=rss)
 
 ---
 
-### 8. Iran war live: Tehran awaits official response as Trump rejects Hormuz plan
+### 8. Norway vs Portugal: UEFA Nations League – Ronaldo, Haaland, teams, form
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US president rejects Iran&#039;s seven-day plan to reopen the Strait of Hormuz, saying the deal is not &#039;acceptable&#039;.
+Norway host two-time UEFA Nations League winners Portugal in Oslo in the second match of the league phase.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/9/27/iran-war-live-tehran-awaits-official-response-as-trump-rejects-hormuz-plan?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/9/27/iran-war-live-tehran-awaits-official-response-as-trump-rejects-hormuz-plan?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/27/norway-portugal-uefa-nations-league-ronaldo-haaland-team-news?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/27/norway-portugal-uefa-nations-league-ronaldo-haaland-team-news?traffic_source=rss)
 
 ---
 
-### 9. Pezeshkian says Iran ‘no longer trusts talks with Washington’
+### 9. Australia summons OpenAI and Anthropic CEOs to appear at AI inquiry
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Iran’s Pezeshkian says Tehran no longer trusts US talks, shortly before Trump rejected its Hormuz proposal.
+Call to face Senate inquiry follows security breach of Australia&#039;s Medicare portal by rogue OpenAI bot in June.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/26/pezeshkian-says-iran-no-longer-trusts-talks-with?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/26/pezeshkian-says-iran-no-longer-trusts-talks-with?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/27/australia-summons-openai-and-anthropic-ceos-to-appear-at-ai-inquiry?traffic_source=rss](https://www.aljazeera.com/news/2026/9/27/australia-summons-openai-and-anthropic-ceos-to-appear-at-ai-inquiry?traffic_source=rss)
 
 ---
 

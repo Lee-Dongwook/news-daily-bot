@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-28T18:36:06+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Coding Is Not Solved – Alex Ewerlöf Notes",
+            "description": "<p>Article URL: <a href=\"https://blog.alexewerlof.com/p/coding-is-not-solved\">https://blog.alexewerlof.com/p/coding-is-not-solved</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49877988\">https://news.ycombinator.com/item?id=49877988</a></p>\n<p>Points: 89</p>\n<p># Comments: 86</p>",
+            "url": "https://blog.alexewerlof.com/p/coding-is-not-solved",
+            "published": "Mon, 28 Sep 2026 13:52:57 +0000",
+            "fetched": "2026-09-28T18:36:06+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Has Violence Against Teachers Become Accepted by Society?",
+            "description": "<p>Article URL: <a href=\"https://theeducatorsroom.com/has-violence-against-teachers-become-accepted-by-society/\">https://theeducatorsroom.com/has-violence-against-teachers-become-accepted-by-society/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49877813\">https://news.ycombinator.com/item?id=49877813</a></p>\n<p>Points: 78</p>\n<p># Comments: 65</p>",
+            "url": "https://theeducatorsroom.com/has-violence-against-teachers-become-accepted-by-society/",
+            "published": "Mon, 28 Sep 2026 13:40:28 +0000",
+            "fetched": "2026-09-28T18:36:06+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Hntui – A TUI for Hacker News",
+            "description": "<p>hi there! i'd like you to try out a tui i made for browsing hackernews. it's built using opentui and also effect (learning experiment). i really like it and i think you will too!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49876760\">https://news.ycombinator.com/item?id=49876760</a></p>\n<p>Points: 69</p>\n<p># Comments: 32</p>",
+            "url": "https://github.com/ahmd-sh/hntui",
+            "published": "Mon, 28 Sep 2026 12:11:20 +0000",
+            "fetched": "2026-09-28T18:36:06+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "What we know about RAF Fairford counter-terror probe",
+            "description": "Five men have been arrested as counter-terror police lead an investigation into a major incident near the airbase.",
+            "url": "https://www.bbc.co.uk/news/articles/c85ydnwqpzyzo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 28 Sep 2026 14:37:17 GMT",
+            "fetched": "2026-09-28T18:36:06+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Best thing we can offer young people is a job, not benefits, says chancellor",
+            "description": "John Healey's speech comes ahead of next month's Budget, as he faces pressure to bring down government borrowing costs.",
+            "url": "https://www.bbc.co.uk/news/articles/c3x2zw18ge59o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 28 Sep 2026 13:32:46 GMT",
+            "fetched": "2026-09-28T18:36:06+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK diesel price hits all-time high, the RAC says",
+            "description": "The US-Israel war with Iran has caused fuel prices to soar due to disruption of global oil supplies.",
+            "url": "https://www.bbc.co.uk/news/articles/c6n4k987k981o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 28 Sep 2026 10:00:18 GMT",
+            "fetched": "2026-09-28T18:36:06+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Ben-Gvir joins hundreds of Israelis to storm Al-Aqsa Mosque compound",
+            "description": "Israeli national security minister declares &#039;we are the owners of the place in Al-Aqsa&#039; amid heavily guarded incursion.",
+            "url": "https://www.aljazeera.com/news/2026/9/28/ben-gvir-joins-hundreds-of-israelis-to-storm-al-aqsa-mosque-compound?traffic_source=rss",
+            "published": "Mon, 28 Sep 2026 14:03:55 +0000",
+            "fetched": "2026-09-28T18:36:06+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Athletes criticise organisational, logistical mishaps at ‘sad’ Asian Games",
+            "description": "Athletes transported to the wrong venues, three matches in 18 hours and an accommodation crisis add to organisers&#039; woes.",
+            "url": "https://www.aljazeera.com/sports/2026/9/28/athletes-criticise-organisational-logistical-mishaps-at-sad-asian-games?traffic_source=rss",
+            "published": "Mon, 28 Sep 2026 14:03:47 +0000",
+            "fetched": "2026-09-28T18:36:06+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Cattle to feed: Why a global meat crisis is looming",
+            "description": "World&#039;s top three beef producers witness a decline in cattle stocks because of rising input costs, droughts and biology.",
+            "url": "https://www.aljazeera.com/news/2026/9/28/cattle-to-feed-why-a-global-meat-crisis-is-looming?traffic_source=rss",
+            "published": "Mon, 28 Sep 2026 13:56:03 +0000",
+            "fetched": "2026-09-28T18:36:06+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Rachel",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24875",
+            "published": "2026-09-27T18:00:00Z",
+            "fetched": "2026-09-28T18:36:06+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Gonzalo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24811",
+            "published": "2026-09-25T03:00:00Z",
+            "fetched": "2026-09-28T18:36:06+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Nolo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24786",
+            "published": "2026-09-24T00:00:00Z",
+            "fetched": "2026-09-28T18:36:06+03:30"
+        }
+    ]
+}

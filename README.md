@@ -1,60 +1,61 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-28 10:37:20
+**Last Update:** 2026-09-28 18:36:06
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Thinking fast and slow in AI: The role of metacognition (2021)
+### 1. Coding Is Not Solved – Alex Ewerlöf Notes
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://arxiv.org/abs/2110.01834">https://arxiv.org/abs/2110.01834</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49873241">https://news.ycombinator.com/item?id=49873241</a></p>
-<p>Points: 64</p>
-<p># Comments: 9</p>
+<p>Article URL: <a href="https://blog.alexewerlof.com/p/coding-is-not-solved">https://blog.alexewerlof.com/p/coding-is-not-solved</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49877988">https://news.ycombinator.com/item?id=49877988</a></p>
+<p>Points: 89</p>
+<p># Comments: 86</p>
 
-🔗 **Read more:** [https://arxiv.org/abs/2110.01834](https://arxiv.org/abs/2110.01834)
+🔗 **Read more:** [https://blog.alexewerlof.com/p/coding-is-not-solved](https://blog.alexewerlof.com/p/coding-is-not-solved)
 
 ---
 
-### 2. TabPFN and TabICL vs. tuned XGBoost: the model that doesn't train won 14/14
+### 2. Has Violence Against Teachers Become Accepted by Society?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://efraingaray.com/en/blog/tabpfn-vs-xgboost/">https://efraingaray.com/en/blog/tabpfn-vs-xgboost/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49872864">https://news.ycombinator.com/item?id=49872864</a></p>
-<p>Points: 17</p>
-<p># Comments: 9</p>
+<p>Article URL: <a href="https://theeducatorsroom.com/has-violence-against-teachers-become-accepted-by-society/">https://theeducatorsroom.com/has-violence-against-teachers-become-accepted-by-society/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49877813">https://news.ycombinator.com/item?id=49877813</a></p>
+<p>Points: 78</p>
+<p># Comments: 65</p>
 
-🔗 **Read more:** [https://efraingaray.com/en/blog/tabpfn-vs-xgboost/](https://efraingaray.com/en/blog/tabpfn-vs-xgboost/)
+🔗 **Read more:** [https://theeducatorsroom.com/has-violence-against-teachers-become-accepted-by-society/](https://theeducatorsroom.com/has-violence-against-teachers-become-accepted-by-society/)
 
 ---
 
-### 3. Owed a billion dollars in Nvidia stock
+### 3. Show HN: Hntui – A TUI for Hacker News
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://colo.to/nvidia-stock-narrative.html">https://colo.to/nvidia-stock-narrative.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49872723">https://news.ycombinator.com/item?id=49872723</a></p>
-<p>Points: 471</p>
-<p># Comments: 194</p>
+<p>hi there! i'd like you to try out a tui i made for browsing hackernews. it's built using opentui and also effect (learning experiment). i really like it and i think you will too!</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49876760">https://news.ycombinator.com/item?id=49876760</a></p>
+<p>Points: 69</p>
+<p># Comments: 32</p>
 
-🔗 **Read more:** [https://colo.to/nvidia-stock-narrative.html](https://colo.to/nvidia-stock-narrative.html)
+🔗 **Read more:** [https://github.com/ahmd-sh/hntui](https://github.com/ahmd-sh/hntui)
 
 ---
 
@@ -71,68 +72,68 @@ Five men have been arrested as counter-terror police lead an investigation into 
 
 ---
 
-### 5. Police block Orange Order from controversial parade route
+### 5. Best thing we can offer young people is a job, not benefits, says chancellor
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-They had been unable to make the permitted parade on Sunday morning because protesters had gathered on the mainly-nationalist Garvaghy Road.
+John Healey's speech comes ahead of next month's Budget, as he faces pressure to bring down government borrowing costs.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmqlwn60yyq9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmqlwn60yyq9o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3x2zw18ge59o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3x2zw18ge59o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Inside Yemen's front-line city as Houthis battle for control
+### 6. UK diesel price hits all-time high, the RAC says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers.
+The US-Israel war with Iran has caused fuel prices to soar due to disruption of global oil supplies.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6n4k987k981o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6n4k987k981o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. US, China list goods recommended for tariff cuts following Trump-Xi summit
+### 7. Ben-Gvir joins hundreds of Israelis to storm Al-Aqsa Mosque compound
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Washington and Beijing announce details of agreement to reduce tariffs on $60bn of trade.
+Israeli national security minister declares &#039;we are the owners of the place in Al-Aqsa&#039; amid heavily guarded incursion.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/28/us-china-list-goods-recommended-for-tariff-cuts-following-trump-xi-summit?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/28/us-china-list-goods-recommended-for-tariff-cuts-following-trump-xi-summit?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/28/ben-gvir-joins-hundreds-of-israelis-to-storm-al-aqsa-mosque-compound?traffic_source=rss](https://www.aljazeera.com/news/2026/9/28/ben-gvir-joins-hundreds-of-israelis-to-storm-al-aqsa-mosque-compound?traffic_source=rss)
 
 ---
 
-### 8. Serbia’s snap election: Can Vucic outmanoeuvre the student revolt?
+### 8. Athletes criticise organisational, logistical mishaps at ‘sad’ Asian Games
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The country&#039;s early parliamentary elections won’t end its crisis or defuse Vucic’s troubles, analysts say.
+Athletes transported to the wrong venues, three matches in 18 hours and an accommodation crisis add to organisers&#039; woes.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/9/28/serbias-snap-election-can-vucic-outmanoeuvre-the-student-revolt?traffic_source=rss](https://www.aljazeera.com/features/2026/9/28/serbias-snap-election-can-vucic-outmanoeuvre-the-student-revolt?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/28/athletes-criticise-organisational-logistical-mishaps-at-sad-asian-games?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/28/athletes-criticise-organisational-logistical-mishaps-at-sad-asian-games?traffic_source=rss)
 
 ---
 
-### 9. Virat Kohli passes 15,000 ODI runs as India beat West Indies
+### 9. Cattle to feed: Why a global meat crisis is looming
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Kohli remained not out on 139 off 88 balls as the hosts romped to an eight-wicket win in their first ODI of the series.
+World&#039;s top three beef producers witness a decline in cattle stocks because of rising input costs, droughts and biology.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/28/virat-kohli-passes-15000-odi-runs-as-india-beat-west-indies?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/28/virat-kohli-passes-15000-odi-runs-as-india-beat-west-indies?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/28/cattle-to-feed-why-a-global-meat-crisis-is-looming?traffic_source=rss](https://www.aljazeera.com/news/2026/9/28/cattle-to-feed-why-a-global-meat-crisis-is-looming?traffic_source=rss)
 
 ---
 

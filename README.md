@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-28 09:57:32
+**Last Update:** 2026-09-28 10:37:20
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://arxiv.org/abs/2110.01834">https://arxiv.org/abs/2110.01834</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49873241">https://news.ycombinator.com/item?id=49873241</a></p>
-<p>Points: 53</p>
-<p># Comments: 8</p>
+<p>Points: 64</p>
+<p># Comments: 9</p>
 
 🔗 **Read more:** [https://arxiv.org/abs/2110.01834](https://arxiv.org/abs/2110.01834)
 
@@ -35,7 +35,7 @@
 **Description:**
 <p>Article URL: <a href="https://efraingaray.com/en/blog/tabpfn-vs-xgboost/">https://efraingaray.com/en/blog/tabpfn-vs-xgboost/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49872864">https://news.ycombinator.com/item?id=49872864</a></p>
-<p>Points: 14</p>
+<p>Points: 17</p>
 <p># Comments: 9</p>
 
 🔗 **Read more:** [https://efraingaray.com/en/blog/tabpfn-vs-xgboost/](https://efraingaray.com/en/blog/tabpfn-vs-xgboost/)
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://colo.to/nvidia-stock-narrative.html">https://colo.to/nvidia-stock-narrative.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49872723">https://news.ycombinator.com/item?id=49872723</a></p>
-<p>Points: 412</p>
-<p># Comments: 180</p>
+<p>Points: 471</p>
+<p># Comments: 194</p>
 
 🔗 **Read more:** [https://colo.to/nvidia-stock-narrative.html](https://colo.to/nvidia-stock-narrative.html)
 
@@ -97,7 +97,33 @@ In rare access to Yemen's conflict zone the BBC travels to the front line with p
 
 ---
 
-### 7. Virat Kohli passes 15,000 ODI runs as India beat West Indies
+### 7. US, China list goods recommended for tariff cuts following Trump-Xi summit
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Washington and Beijing announce details of agreement to reduce tariffs on $60bn of trade.
+
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/28/us-china-list-goods-recommended-for-tariff-cuts-following-trump-xi-summit?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/28/us-china-list-goods-recommended-for-tariff-cuts-following-trump-xi-summit?traffic_source=rss)
+
+---
+
+### 8. Serbia’s snap election: Can Vucic outmanoeuvre the student revolt?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The country&#039;s early parliamentary elections won’t end its crisis or defuse Vucic’s troubles, analysts say.
+
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/9/28/serbias-snap-election-can-vucic-outmanoeuvre-the-student-revolt?traffic_source=rss](https://www.aljazeera.com/features/2026/9/28/serbias-snap-election-can-vucic-outmanoeuvre-the-student-revolt?traffic_source=rss)
+
+---
+
+### 9. Virat Kohli passes 15,000 ODI runs as India beat West Indies
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ In rare access to Yemen's conflict zone the BBC travels to the front line with p
 Kohli remained not out on 139 off 88 balls as the hosts romped to an eight-wicket win in their first ODI of the series.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/28/virat-kohli-passes-15000-odi-runs-as-india-beat-west-indies?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/28/virat-kohli-passes-15000-odi-runs-as-india-beat-west-indies?traffic_source=rss)
-
----
-
-### 8. ‘Still a lockdown’: Deadly floods hit Nepal tourism as peak season begins
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-As Himalayan nation recovers from devastating floods, a million people dependent on tourism struggle to make ends meet.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/28/still-a-lockdown-deadly-floods-hit-nepal-tourism-as-peak-season-begins?traffic_source=rss](https://www.aljazeera.com/news/2026/9/28/still-a-lockdown-deadly-floods-hit-nepal-tourism-as-peak-season-begins?traffic_source=rss)
-
----
-
-### 9. Russian strikes kill eight, injure dozens across Ukraine
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Ukrainian leader Zelenskyy says Moscow launched nearly 4,000 drones, aerial bombs and missiles on Ukraine in past week.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/28/russian-strikes-kill-eight-injure-dozens-across-ukraine?traffic_source=rss](https://www.aljazeera.com/news/2026/9/28/russian-strikes-kill-eight-injure-dozens-across-ukraine?traffic_source=rss)
 
 ---
 

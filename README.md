@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-29 01:10:45
+**Last Update:** 2026-09-29 01:40:22
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://theintercept.com/2026/09/24/how-many-flock-devices-in-united-states-300000/">https://theintercept.com/2026/09/24/how-many-flock-devices-in-united-states-300000/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49884363">https://news.ycombinator.com/item?id=49884363</a></p>
-<p>Points: 17</p>
-<p># Comments: 3</p>
+<p>Points: 45</p>
+<p># Comments: 13</p>
 
 🔗 **Read more:** [https://theintercept.com/2026/09/24/how-many-flock-devices-in-united-states-300000/](https://theintercept.com/2026/09/24/how-many-flock-devices-in-united-states-300000/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.arctictoday.com/palantir-founder-purchases-large-swath-of-forest-in-sweden/">https://www.arctictoday.com/palantir-founder-purchases-large-swath-of-forest-in-sweden/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49884169">https://news.ycombinator.com/item?id=49884169</a></p>
-<p>Points: 53</p>
-<p># Comments: 45</p>
+<p>Points: 69</p>
+<p># Comments: 59</p>
 
 🔗 **Read more:** [https://www.arctictoday.com/palantir-founder-purchases-large-swath-of-forest-in-sweden/](https://www.arctictoday.com/palantir-founder-purchases-large-swath-of-forest-in-sweden/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.lesswrong.com/posts/Nm4ewbYovtjq69dvH/pacing-the-frontier-is-not-the-actual-goal-for-ai-labs">https://www.lesswrong.com/posts/Nm4ewbYovtjq69dvH/pacing-the-frontier-is-not-the-actual-goal-for-ai-labs</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49884119">https://news.ycombinator.com/item?id=49884119</a></p>
-<p>Points: 14</p>
-<p># Comments: 6</p>
+<p>Points: 32</p>
+<p># Comments: 24</p>
 
 🔗 **Read more:** [https://www.lesswrong.com/posts/Nm4ewbYovtjq69dvH/pacing-the-frontier-is-not-the-actual-goal-for-ai-labs](https://www.lesswrong.com/posts/Nm4ewbYovtjq69dvH/pacing-the-frontier-is-not-the-actual-goal-for-ai-labs)
 
@@ -97,7 +97,20 @@ John Healey said the government is in talks with the US over Donald Trump's thre
 
 ---
 
-### 7. Hundreds set up tent encampments in Madrid over housing crisis
+### 7. Gold falls amid rising oil prices and higher US dollar
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Gold hits seven-week low; silver follows suit and records a nearly 5 percent loss.
+
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/28/gold-falls-amid-rising-oil-prices-and-higher-us-dollar?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/28/gold-falls-amid-rising-oil-prices-and-higher-us-dollar?traffic_source=rss)
+
+---
+
+### 8. Hundreds set up tent encampments in Madrid over housing crisis
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Protesters have set up tent encampments in central Madrid to demand government a
 
 ---
 
-### 8. Olise scores late to grab France 1-0 Nations League win at Belgium
+### 9. Olise scores late to grab France 1-0 Nations League win at Belgium
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Protesters have set up tent encampments in central Madrid to demand government a
 Bayern Munich star Olise set off from inside his own half to score the winner in the 88th minute.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/28/olise-scores-late-to-grab-france-1-0-nations-league-win-at-belgium?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/28/olise-scores-late-to-grab-france-1-0-nations-league-win-at-belgium?traffic_source=rss)
-
----
-
-### 9. ‘Friendship pandas’ arrive in Atlanta, marking US-China relations moment
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Two giant pandas from China have landed in the United States and are heading to Zoo Atlanta.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/28/friendship-pandas-arrive-in-atlanta-marking-us-china-relations-moment?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/28/friendship-pandas-arrive-in-atlanta-marking-us-china-relations-moment?traffic_source=rss)
 
 ---
 

@@ -1,142 +1,155 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-28 19:10:33
+**Last Update:** 2026-09-29 01:10:45
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Jensen Huang says AI distillation is 'competition.'
+### 1. Flock Wants the Most Detailed Map of Its Surveillance Cameras Taken Offline
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.cnbc.com/2026/09/28/nvidias-jensen-huang-ai-distillation-china.html">https://www.cnbc.com/2026/09/28/nvidias-jensen-huang-ai-distillation-china.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49879032">https://news.ycombinator.com/item?id=49879032</a></p>
-<p>Points: 26</p>
-<p># Comments: 11</p>
-
-🔗 **Read more:** [https://www.cnbc.com/2026/09/28/nvidias-jensen-huang-ai-distillation-china.html](https://www.cnbc.com/2026/09/28/nvidias-jensen-huang-ai-distillation-china.html)
-
----
-
-### 2. MongoDB CEO resigns "effective immediately" to join Meta, stock drops 20%
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.reuters.com/technology/mongodb-ceo-desai-steps-down-lead-metas-enterprise-platform-2026-09-28/">https://www.reuters.com/technology/mongodb-ceo-desai-steps-down-lead-metas-enterprise-platform-2026-09-28/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49879000">https://news.ycombinator.com/item?id=49879000</a></p>
+<p>Article URL: <a href="https://theintercept.com/2026/09/24/how-many-flock-devices-in-united-states-300000/">https://theintercept.com/2026/09/24/how-many-flock-devices-in-united-states-300000/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49884363">https://news.ycombinator.com/item?id=49884363</a></p>
 <p>Points: 17</p>
-<p># Comments: 11</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://www.reuters.com/technology/mongodb-ceo-desai-steps-down-lead-metas-enterprise-platform-2026-09-28/](https://www.reuters.com/technology/mongodb-ceo-desai-steps-down-lead-metas-enterprise-platform-2026-09-28/)
+🔗 **Read more:** [https://theintercept.com/2026/09/24/how-many-flock-devices-in-united-states-300000/](https://theintercept.com/2026/09/24/how-many-flock-devices-in-united-states-300000/)
 
 ---
 
-### 3. What Heraldry and Mon Can Teach Us About Building Visual-Identity Generators
+### 2. Palantir founder purchases large swath of forest in Sweden
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://benovermyer.com/blog/2026/09/japanese-vs-western-heraldry/">https://benovermyer.com/blog/2026/09/japanese-vs-western-heraldry/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49878900">https://news.ycombinator.com/item?id=49878900</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.arctictoday.com/palantir-founder-purchases-large-swath-of-forest-in-sweden/">https://www.arctictoday.com/palantir-founder-purchases-large-swath-of-forest-in-sweden/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49884169">https://news.ycombinator.com/item?id=49884169</a></p>
+<p>Points: 53</p>
+<p># Comments: 45</p>
 
-🔗 **Read more:** [https://benovermyer.com/blog/2026/09/japanese-vs-western-heraldry/](https://benovermyer.com/blog/2026/09/japanese-vs-western-heraldry/)
+🔗 **Read more:** [https://www.arctictoday.com/palantir-founder-purchases-large-swath-of-forest-in-sweden/](https://www.arctictoday.com/palantir-founder-purchases-large-swath-of-forest-in-sweden/)
 
 ---
 
-### 4. What we know about RAF Fairford counter-terror probe
+### 3. Pacing the Frontier is not the actual goal for AI labs
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.lesswrong.com/posts/Nm4ewbYovtjq69dvH/pacing-the-frontier-is-not-the-actual-goal-for-ai-labs">https://www.lesswrong.com/posts/Nm4ewbYovtjq69dvH/pacing-the-frontier-is-not-the-actual-goal-for-ai-labs</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49884119">https://news.ycombinator.com/item?id=49884119</a></p>
+<p>Points: 14</p>
+<p># Comments: 6</p>
+
+🔗 **Read more:** [https://www.lesswrong.com/posts/Nm4ewbYovtjq69dvH/pacing-the-frontier-is-not-the-actual-goal-for-ai-labs](https://www.lesswrong.com/posts/Nm4ewbYovtjq69dvH/pacing-the-frontier-is-not-the-actual-goal-for-ai-labs)
+
+---
+
+### 4. Five men arrested in RAF Fairford incident released on police bail
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Five men have been arrested as counter-terror police lead an investigation into a major incident near the airbase.
+Police are exploring whether proxies or individuals working on behalf of a foreign state are involved.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c85ydnwqpzyzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c85ydnwqpzyzo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6e9elmpvglno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6e9elmpvglno?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Best thing we can offer young people is a job, not benefits, says chancellor
+### 5. Watch: RAF Fairford suspects are bailed, what happens now?
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-John Healey's speech comes ahead of next month's Budget, as he faces pressure to bring down government borrowing costs.
+The men were all UK nationals in their 20s who live in London and were arrested under the Explosives Act and on suspicion of preparing a terrorist act.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3x2zw18ge59o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3x2zw18ge59o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cw33kxk3707jo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cw33kxk3707jo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. UK diesel price hits all-time high, the RAC says
+### 6. UK tries to stop Trump's diesel export ban
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The US-Israel war with Iran has caused fuel prices to soar due to disruption of global oil supplies.
+John Healey said the government is in talks with the US over Donald Trump's threat to stop exports.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6n4k987k981o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6n4k987k981o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmx2z3vgy5xwo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmx2z3vgy5xwo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Iran denies link to attack on airbase as UK minister warns of ‘proxies’
+### 7. Hundreds set up tent encampments in Madrid over housing crisis
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Tehran condemns &#039;unfounded and malicious speculation&#039;; British FM vows to &#039;act against the proxies of Iran&#039;.
+Protesters have set up tent encampments in central Madrid to demand government action on soaring housing costs.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/28/iran-denies-link-to-attack-on-airbase-as-uk-minister-warns-of-proxies?traffic_source=rss](https://www.aljazeera.com/news/2026/9/28/iran-denies-link-to-attack-on-airbase-as-uk-minister-warns-of-proxies?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/28/hundreds-set-up-tent-encampments-in-madrid-over-housing-crisis?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/28/hundreds-set-up-tent-encampments-in-madrid-over-housing-crisis?traffic_source=rss)
 
 ---
 
-### 8. SpaceX’s showpiece Starship rocket reaches orbit for first time
+### 8. Olise scores late to grab France 1-0 Nations League win at Belgium
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Founder Elon Musk&#039;s rocket, the largest ever built, is meant to carry NASA mission to moon and beyond.
+Bayern Munich star Olise set off from inside his own half to score the winner in the 88th minute.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/28/spacexs-showpiece-starship-rocket-reaches-orbit-for-first-time?traffic_source=rss](https://www.aljazeera.com/news/2026/9/28/spacexs-showpiece-starship-rocket-reaches-orbit-for-first-time?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/28/olise-scores-late-to-grab-france-1-0-nations-league-win-at-belgium?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/28/olise-scores-late-to-grab-france-1-0-nations-league-win-at-belgium?traffic_source=rss)
 
 ---
 
-### 9. Ben-Gvir joins hundreds of Israelis to storm Al-Aqsa Mosque compound
+### 9. ‘Friendship pandas’ arrive in Atlanta, marking US-China relations moment
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli national security minister declares &#039;we are the owners of the place in Al-Aqsa&#039; amid heavily guarded incursion.
+Two giant pandas from China have landed in the United States and are heading to Zoo Atlanta.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/28/ben-gvir-joins-hundreds-of-israelis-to-storm-al-aqsa-mosque-compound?traffic_source=rss](https://www.aljazeera.com/news/2026/9/28/ben-gvir-joins-hundreds-of-israelis-to-storm-al-aqsa-mosque-compound?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/28/friendship-pandas-arrive-in-atlanta-marking-us-china-relations-moment?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/28/friendship-pandas-arrive-in-atlanta-marking-us-china-relations-moment?traffic_source=rss)
 
 ---
 
-### 10. Tropical Storm Rachel
+### 10. Tropical Storm Hanna
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24909](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24909)
+
+---
+
+### 11. Tropical Storm Rachel
 
 **Source:** NASA
 
@@ -149,29 +162,16 @@ Natural event: Severe Storms
 
 ---
 
-### 11. Tropical Storm Gonzalo
+### 12. Wildfire Rafter 4B, Schleicher, Texas
 
 **Source:** NASA
 
 **Category:** nature
 
 **Description:**
-Natural event: Severe Storms
+Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24811](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24811)
-
----
-
-### 12. Hurricane Nolo
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24786](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24786)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24904](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24904)
 
 ---
 

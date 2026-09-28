@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-28T09:57:32+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Thinking fast and slow in AI: The role of metacognition (2021)",
+            "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2110.01834\">https://arxiv.org/abs/2110.01834</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49873241\">https://news.ycombinator.com/item?id=49873241</a></p>\n<p>Points: 53</p>\n<p># Comments: 8</p>",
+            "url": "https://arxiv.org/abs/2110.01834",
+            "published": "Mon, 28 Sep 2026 03:23:53 +0000",
+            "fetched": "2026-09-28T09:57:32+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "TabPFN and TabICL vs. tuned XGBoost: the model that doesn't train won 14/14",
+            "description": "<p>Article URL: <a href=\"https://efraingaray.com/en/blog/tabpfn-vs-xgboost/\">https://efraingaray.com/en/blog/tabpfn-vs-xgboost/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49872864\">https://news.ycombinator.com/item?id=49872864</a></p>\n<p>Points: 14</p>\n<p># Comments: 9</p>",
+            "url": "https://efraingaray.com/en/blog/tabpfn-vs-xgboost/",
+            "published": "Mon, 28 Sep 2026 02:27:40 +0000",
+            "fetched": "2026-09-28T09:57:32+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Owed a billion dollars in Nvidia stock",
+            "description": "<p>Article URL: <a href=\"https://colo.to/nvidia-stock-narrative.html\">https://colo.to/nvidia-stock-narrative.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49872723\">https://news.ycombinator.com/item?id=49872723</a></p>\n<p>Points: 412</p>\n<p># Comments: 180</p>",
+            "url": "https://colo.to/nvidia-stock-narrative.html",
+            "published": "Mon, 28 Sep 2026 02:05:13 +0000",
+            "fetched": "2026-09-28T09:57:32+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "What we know about RAF Fairford counter-terror probe",
+            "description": "Five men have been arrested as counter-terror police lead an investigation into a major incident near the airbase.",
+            "url": "https://www.bbc.co.uk/news/articles/c85ydnwqpzyzo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 28 Sep 2026 05:41:43 GMT",
+            "fetched": "2026-09-28T09:57:32+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Police block Orange Order from controversial parade route",
+            "description": "They had been unable to make the permitted parade on Sunday morning because protesters had gathered on the mainly-nationalist Garvaghy Road.",
+            "url": "https://www.bbc.co.uk/news/articles/cmqlwn60yyq9o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 28 Sep 2026 06:04:40 GMT",
+            "fetched": "2026-09-28T09:57:32+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Inside Yemen's front-line city as Houthis battle for control",
+            "description": "In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers.",
+            "url": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 27 Sep 2026 21:16:31 GMT",
+            "fetched": "2026-09-28T09:57:32+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Virat Kohli passes 15,000 ODI runs as India beat West Indies",
+            "description": "Kohli remained not out on 139 off 88 balls as the hosts romped to an eight-wicket win in their first ODI of the series.",
+            "url": "https://www.aljazeera.com/sports/2026/9/28/virat-kohli-passes-15000-odi-runs-as-india-beat-west-indies?traffic_source=rss",
+            "published": "Mon, 28 Sep 2026 05:40:06 +0000",
+            "fetched": "2026-09-28T09:57:32+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘Still a lockdown’: Deadly floods hit Nepal tourism as peak season begins",
+            "description": "As Himalayan nation recovers from devastating floods, a million people dependent on tourism struggle to make ends meet.",
+            "url": "https://www.aljazeera.com/news/2026/9/28/still-a-lockdown-deadly-floods-hit-nepal-tourism-as-peak-season-begins?traffic_source=rss",
+            "published": "Mon, 28 Sep 2026 05:28:29 +0000",
+            "fetched": "2026-09-28T09:57:32+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Russian strikes kill eight, injure dozens across Ukraine",
+            "description": "Ukrainian leader Zelenskyy says Moscow launched nearly 4,000 drones, aerial bombs and missiles on Ukraine in past week.",
+            "url": "https://www.aljazeera.com/news/2026/9/28/russian-strikes-kill-eight-injure-dozens-across-ukraine?traffic_source=rss",
+            "published": "Mon, 28 Sep 2026 05:06:11 +0000",
+            "fetched": "2026-09-28T09:57:32+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Rachel",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24875",
+            "published": "2026-09-27T18:00:00Z",
+            "fetched": "2026-09-28T09:57:32+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Gonzalo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24811",
+            "published": "2026-09-25T03:00:00Z",
+            "fetched": "2026-09-28T09:57:32+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Nolo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24786",
+            "published": "2026-09-24T00:00:00Z",
+            "fetched": "2026-09-28T09:57:32+03:30"
+        }
+    ]
+}

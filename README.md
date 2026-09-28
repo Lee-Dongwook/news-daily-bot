@@ -1,77 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-28 04:27:09
+**Last Update:** 2026-09-28 09:57:32
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Lunar Terminator Paradox
+### 1. Thinking fast and slow in AI: The role of metacognition (2021)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html">https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49870837">https://news.ycombinator.com/item?id=49870837</a></p>
-<p>Points: 41</p>
-<p># Comments: 25</p>
-
-🔗 **Read more:** [https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html](https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html)
-
----
-
-### 2. My Recent Woodworking Projects
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://notoriousbfg.com/recent-woodworking-projects/">https://notoriousbfg.com/recent-woodworking-projects/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49870541">https://news.ycombinator.com/item?id=49870541</a></p>
-<p>Points: 23</p>
+<p>Article URL: <a href="https://arxiv.org/abs/2110.01834">https://arxiv.org/abs/2110.01834</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49873241">https://news.ycombinator.com/item?id=49873241</a></p>
+<p>Points: 53</p>
 <p># Comments: 8</p>
 
-🔗 **Read more:** [https://notoriousbfg.com/recent-woodworking-projects/](https://notoriousbfg.com/recent-woodworking-projects/)
+🔗 **Read more:** [https://arxiv.org/abs/2110.01834](https://arxiv.org/abs/2110.01834)
 
 ---
 
-### 3. Show HN: Cartopolis, interactive globe-sized 3D world
+### 2. TabPFN and TabICL vs. tuned XGBoost: the model that doesn't train won 14/14
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://code.garage44.eu/jeroen/cartopolis">https://code.garage44.eu/jeroen/cartopolis</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49870394">https://news.ycombinator.com/item?id=49870394</a></p>
-<p>Points: 10</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://efraingaray.com/en/blog/tabpfn-vs-xgboost/">https://efraingaray.com/en/blog/tabpfn-vs-xgboost/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49872864">https://news.ycombinator.com/item?id=49872864</a></p>
+<p>Points: 14</p>
+<p># Comments: 9</p>
 
-🔗 **Read more:** [https://code.garage44.eu/jeroen/cartopolis](https://code.garage44.eu/jeroen/cartopolis)
+🔗 **Read more:** [https://efraingaray.com/en/blog/tabpfn-vs-xgboost/](https://efraingaray.com/en/blog/tabpfn-vs-xgboost/)
 
 ---
 
-### 4. Five arrested as counter-terror police investigate major incident near RAF Fairford
+### 3. Owed a billion dollars in Nvidia stock
 
-**Source:** BBC
+**Source:** Hacker News
 
-**Category:** world
+**Category:** technology
 
 **Description:**
-The men have been detained on suspicion of preparation of a terrorist act after three suspicious vehicles were reported to be travelling towards the base.
+<p>Article URL: <a href="https://colo.to/nvidia-stock-narrative.html">https://colo.to/nvidia-stock-narrative.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49872723">https://news.ycombinator.com/item?id=49872723</a></p>
+<p>Points: 412</p>
+<p># Comments: 180</p>
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqrm99mm9l84o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqrm99mm9l84o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://colo.to/nvidia-stock-narrative.html](https://colo.to/nvidia-stock-narrative.html)
 
 ---
 
-### 5. What we know about RAF Fairford counter-terror probe
+### 4. What we know about RAF Fairford counter-terror probe
 
 **Source:** BBC
 
@@ -84,59 +71,85 @@ Five men have been arrested as counter-terror police lead an investigation into 
 
 ---
 
-### 6. Protesters disperse after blocking contentious Orange Order parade
+### 5. Police block Orange Order from controversial parade route
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Northern Ireland Secretary Sir Chris Bryant, who returned from the Labour Party conference for talks, urged both sides of the dispute to "double down on compromise".
+They had been unable to make the permitted parade on Sunday morning because protesters had gathered on the mainly-nationalist Garvaghy Road.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6qjkk55wd47o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6qjkk55wd47o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmqlwn60yyq9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmqlwn60yyq9o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Refugees in South Africa fear new attacks as September 30 deadline looms
+### 6. Inside Yemen's front-line city as Houthis battle for control
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 7. Virat Kohli passes 15,000 ODI runs as India beat West Indies
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Refugees in Durban say they have nowhere safe to return to after being forced from a makeshift camp.
+Kohli remained not out on 139 off 88 balls as the hosts romped to an eight-wicket win in their first ODI of the series.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/28/refugees-in-south-africa-fear-new-attacks-as-september-30-deadline-looms?traffic_source=rss](https://www.aljazeera.com/news/2026/9/28/refugees-in-south-africa-fear-new-attacks-as-september-30-deadline-looms?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/28/virat-kohli-passes-15000-odi-runs-as-india-beat-west-indies?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/28/virat-kohli-passes-15000-odi-runs-as-india-beat-west-indies?traffic_source=rss)
 
 ---
 
-### 8. South African police discover body of 11th woman near Johannesburg
+### 8. ‘Still a lockdown’: Deadly floods hit Nepal tourism as peak season begins
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Police are investigating the killings in a country with one of the highest femicide rates in the world.
+As Himalayan nation recovers from devastating floods, a million people dependent on tourism struggle to make ends meet.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/28/south-african-police-discover-body-of-10th-woman-near-johannesburg?traffic_source=rss](https://www.aljazeera.com/news/2026/9/28/south-african-police-discover-body-of-10th-woman-near-johannesburg?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/28/still-a-lockdown-deadly-floods-hit-nepal-tourism-as-peak-season-begins?traffic_source=rss](https://www.aljazeera.com/news/2026/9/28/still-a-lockdown-deadly-floods-hit-nepal-tourism-as-peak-season-begins?traffic_source=rss)
 
 ---
 
-### 9. Iran war live: Tehran says it’s fully prepared for war amid Hormuz tensions
+### 9. Russian strikes kill eight, injure dozens across Ukraine
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Abbas Araghchi&#039;s warning comes after Washington rejected a seven-day roadmap to end the war and reopen Strait of Hormuz.
+Ukrainian leader Zelenskyy says Moscow launched nearly 4,000 drones, aerial bombs and missiles on Ukraine in past week.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/9/28/iran-war-live-tehran-warns-its-fully-prepared-for-war-amid-hormuz-tensions?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/9/28/iran-war-live-tehran-warns-its-fully-prepared-for-war-amid-hormuz-tensions?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/28/russian-strikes-kill-eight-injure-dozens-across-ukraine?traffic_source=rss](https://www.aljazeera.com/news/2026/9/28/russian-strikes-kill-eight-injure-dozens-across-ukraine?traffic_source=rss)
 
 ---
 
-### 10. Tropical Storm Gonzalo
+### 10. Tropical Storm Rachel
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24875](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24875)
+
+---
+
+### 11. Tropical Storm Gonzalo
 
 **Source:** NASA
 
@@ -149,7 +162,7 @@ Natural event: Severe Storms
 
 ---
 
-### 11. Hurricane Nolo
+### 12. Hurricane Nolo
 
 **Source:** NASA
 
@@ -159,19 +172,6 @@ Natural event: Severe Storms
 Natural event: Severe Storms
 
 🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24786](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24786)
-
----
-
-### 12. Typhoon Surigae
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24787](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24787)
 
 ---
 

@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-28 01:53:29
+**Last Update:** 2026-09-28 03:53:57
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
@@ -19,42 +19,42 @@
 **Description:**
 <p>Article URL: <a href="https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html">https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49870837">https://news.ycombinator.com/item?id=49870837</a></p>
-<p>Points: 23</p>
-<p># Comments: 4</p>
+<p>Points: 37</p>
+<p># Comments: 23</p>
 
 🔗 **Read more:** [https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html](https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html)
 
 ---
 
-### 2. When did Google get so weird?
+### 2. My Recent Woodworking Projects
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://sancho.bearblog.dev/google-weird/">https://sancho.bearblog.dev/google-weird/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49870367">https://news.ycombinator.com/item?id=49870367</a></p>
-<p>Points: 399</p>
-<p># Comments: 199</p>
+<p>Article URL: <a href="https://notoriousbfg.com/recent-woodworking-projects/">https://notoriousbfg.com/recent-woodworking-projects/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49870541">https://news.ycombinator.com/item?id=49870541</a></p>
+<p>Points: 15</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://sancho.bearblog.dev/google-weird/](https://sancho.bearblog.dev/google-weird/)
+🔗 **Read more:** [https://notoriousbfg.com/recent-woodworking-projects/](https://notoriousbfg.com/recent-woodworking-projects/)
 
 ---
 
-### 3. Alan Kay's answer to "Did the ENIAC have a BIOS"?
+### 3. Show HN: Cartopolis, interactive globe-sized 3D world
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11">https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49870070">https://news.ycombinator.com/item?id=49870070</a></p>
-<p>Points: 44</p>
-<p># Comments: 17</p>
+<p>Article URL: <a href="https://code.garage44.eu/jeroen/cartopolis">https://code.garage44.eu/jeroen/cartopolis</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49870394">https://news.ycombinator.com/item?id=49870394</a></p>
+<p>Points: 9</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11](https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11)
+🔗 **Read more:** [https://code.garage44.eu/jeroen/cartopolis](https://code.garage44.eu/jeroen/cartopolis)
 
 ---
 
@@ -84,55 +84,55 @@ Five men have been arrested as counter-terror police lead an investigation into 
 
 ---
 
-### 6. Burnham proposes NHS-style social care system for England
+### 6. Protesters disperse after blocking contentious Orange Order parade
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The prime minister told the BBC that social care in England is "as unfair as American healthcare".
+Northern Ireland Secretary Sir Chris Bryant, who returned from the Labour Party conference for talks, urged both sides of the dispute to "double down on compromise".
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crwyzd3gv519o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crwyzd3gv519o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6qjkk55wd47o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6qjkk55wd47o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Ireland defeats Israel in controversial UEFA Nations League match
+### 7. Iran war live: Tehran says it’s fully prepared for war amid Hormuz tensions
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ireland&#039;s players wore black armbands in support of Palestine, bowed their heads, and refused pre-match handshakes.
+Abbas Araghchi&#039;s warning comes after Washington rejected a seven-day roadmap to end the war and reopen Strait of Hormuz.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/27/ireland-defeats-israel-in-controversial-uefa-nations-league-match?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/27/ireland-defeats-israel-in-controversial-uefa-nations-league-match?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/9/28/iran-war-live-tehran-warns-its-fully-prepared-for-war-amid-hormuz-tensions?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/9/28/iran-war-live-tehran-warns-its-fully-prepared-for-war-amid-hormuz-tensions?traffic_source=rss)
 
 ---
 
-### 8. Alleged rape on campus sparks violent protest at Indian university
+### 8. Pope pledges action on clergy child abuse in meeting with French survivors
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Student protests at an Indian university have turned violent following claims that a female student was raped on campus.
+Head of the Roman Catholic Church holds &#039;emotional&#039; two-hour meeting with seven abuse victims in French town of Lourdes.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/27/alleged-rape-on-campus-sparks-violent-protest-at-indian-university?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/27/alleged-rape-on-campus-sparks-violent-protest-at-indian-university?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/27/pope-pledges-action-on-clergy-child-abuse-in-meeting-with-french-survivors?traffic_source=rss](https://www.aljazeera.com/news/2026/9/27/pope-pledges-action-on-clergy-child-abuse-in-meeting-with-french-survivors?traffic_source=rss)
 
 ---
 
-### 9. Floods inundate roads in southeastern Algeria
+### 9. Man City’s 115 Charges — The Scandal, The Escape, and Pep’s Own Past
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Circulating footage showed significant flooding, following heavy rain in southeastern Algeria.
+Man City just got found guilty on 114 of 115 financial charges — but the story behind it is much more complex.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/27/floods-inundate-roads-in-southeastern-algeria?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/27/floods-inundate-roads-in-southeastern-algeria?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/27/man-citys-115-charges-the-scandal-the-escape-and-peps-own?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/27/man-citys-115-charges-the-scandal-the-escape-and-peps-own?traffic_source=rss)
 
 ---
 

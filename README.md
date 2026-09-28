@@ -1,61 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-28 18:36:06
+**Last Update:** 2026-09-28 19:10:33
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Coding Is Not Solved – Alex Ewerlöf Notes
+### 1. Jensen Huang says AI distillation is 'competition.'
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.alexewerlof.com/p/coding-is-not-solved">https://blog.alexewerlof.com/p/coding-is-not-solved</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49877988">https://news.ycombinator.com/item?id=49877988</a></p>
-<p>Points: 89</p>
-<p># Comments: 86</p>
+<p>Article URL: <a href="https://www.cnbc.com/2026/09/28/nvidias-jensen-huang-ai-distillation-china.html">https://www.cnbc.com/2026/09/28/nvidias-jensen-huang-ai-distillation-china.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49879032">https://news.ycombinator.com/item?id=49879032</a></p>
+<p>Points: 26</p>
+<p># Comments: 11</p>
 
-🔗 **Read more:** [https://blog.alexewerlof.com/p/coding-is-not-solved](https://blog.alexewerlof.com/p/coding-is-not-solved)
+🔗 **Read more:** [https://www.cnbc.com/2026/09/28/nvidias-jensen-huang-ai-distillation-china.html](https://www.cnbc.com/2026/09/28/nvidias-jensen-huang-ai-distillation-china.html)
 
 ---
 
-### 2. Has Violence Against Teachers Become Accepted by Society?
+### 2. MongoDB CEO resigns "effective immediately" to join Meta, stock drops 20%
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://theeducatorsroom.com/has-violence-against-teachers-become-accepted-by-society/">https://theeducatorsroom.com/has-violence-against-teachers-become-accepted-by-society/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49877813">https://news.ycombinator.com/item?id=49877813</a></p>
-<p>Points: 78</p>
-<p># Comments: 65</p>
+<p>Article URL: <a href="https://www.reuters.com/technology/mongodb-ceo-desai-steps-down-lead-metas-enterprise-platform-2026-09-28/">https://www.reuters.com/technology/mongodb-ceo-desai-steps-down-lead-metas-enterprise-platform-2026-09-28/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49879000">https://news.ycombinator.com/item?id=49879000</a></p>
+<p>Points: 17</p>
+<p># Comments: 11</p>
 
-🔗 **Read more:** [https://theeducatorsroom.com/has-violence-against-teachers-become-accepted-by-society/](https://theeducatorsroom.com/has-violence-against-teachers-become-accepted-by-society/)
+🔗 **Read more:** [https://www.reuters.com/technology/mongodb-ceo-desai-steps-down-lead-metas-enterprise-platform-2026-09-28/](https://www.reuters.com/technology/mongodb-ceo-desai-steps-down-lead-metas-enterprise-platform-2026-09-28/)
 
 ---
 
-### 3. Show HN: Hntui – A TUI for Hacker News
+### 3. What Heraldry and Mon Can Teach Us About Building Visual-Identity Generators
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>hi there! i'd like you to try out a tui i made for browsing hackernews. it's built using opentui and also effect (learning experiment). i really like it and i think you will too!</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49876760">https://news.ycombinator.com/item?id=49876760</a></p>
-<p>Points: 69</p>
-<p># Comments: 32</p>
+<p>Article URL: <a href="https://benovermyer.com/blog/2026/09/japanese-vs-western-heraldry/">https://benovermyer.com/blog/2026/09/japanese-vs-western-heraldry/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49878900">https://news.ycombinator.com/item?id=49878900</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://github.com/ahmd-sh/hntui](https://github.com/ahmd-sh/hntui)
+🔗 **Read more:** [https://benovermyer.com/blog/2026/09/japanese-vs-western-heraldry/](https://benovermyer.com/blog/2026/09/japanese-vs-western-heraldry/)
 
 ---
 
@@ -98,7 +97,33 @@ The US-Israel war with Iran has caused fuel prices to soar due to disruption of 
 
 ---
 
-### 7. Ben-Gvir joins hundreds of Israelis to storm Al-Aqsa Mosque compound
+### 7. Iran denies link to attack on airbase as UK minister warns of ‘proxies’
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Tehran condemns &#039;unfounded and malicious speculation&#039;; British FM vows to &#039;act against the proxies of Iran&#039;.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/28/iran-denies-link-to-attack-on-airbase-as-uk-minister-warns-of-proxies?traffic_source=rss](https://www.aljazeera.com/news/2026/9/28/iran-denies-link-to-attack-on-airbase-as-uk-minister-warns-of-proxies?traffic_source=rss)
+
+---
+
+### 8. SpaceX’s showpiece Starship rocket reaches orbit for first time
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Founder Elon Musk&#039;s rocket, the largest ever built, is meant to carry NASA mission to moon and beyond.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/28/spacexs-showpiece-starship-rocket-reaches-orbit-for-first-time?traffic_source=rss](https://www.aljazeera.com/news/2026/9/28/spacexs-showpiece-starship-rocket-reaches-orbit-for-first-time?traffic_source=rss)
+
+---
+
+### 9. Ben-Gvir joins hundreds of Israelis to storm Al-Aqsa Mosque compound
 
 **Source:** Al Jazeera
 
@@ -108,32 +133,6 @@ The US-Israel war with Iran has caused fuel prices to soar due to disruption of 
 Israeli national security minister declares &#039;we are the owners of the place in Al-Aqsa&#039; amid heavily guarded incursion.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/28/ben-gvir-joins-hundreds-of-israelis-to-storm-al-aqsa-mosque-compound?traffic_source=rss](https://www.aljazeera.com/news/2026/9/28/ben-gvir-joins-hundreds-of-israelis-to-storm-al-aqsa-mosque-compound?traffic_source=rss)
-
----
-
-### 8. Athletes criticise organisational, logistical mishaps at ‘sad’ Asian Games
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Athletes transported to the wrong venues, three matches in 18 hours and an accommodation crisis add to organisers&#039; woes.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/28/athletes-criticise-organisational-logistical-mishaps-at-sad-asian-games?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/28/athletes-criticise-organisational-logistical-mishaps-at-sad-asian-games?traffic_source=rss)
-
----
-
-### 9. Cattle to feed: Why a global meat crisis is looming
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-World&#039;s top three beef producers witness a decline in cattle stocks because of rising input costs, droughts and biology.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/28/cattle-to-feed-why-a-global-meat-crisis-is-looming?traffic_source=rss](https://www.aljazeera.com/news/2026/9/28/cattle-to-feed-why-a-global-meat-crisis-is-looming?traffic_source=rss)
 
 ---
 

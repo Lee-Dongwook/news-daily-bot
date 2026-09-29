@@ -1,32 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-29 05:05:27
+**Last Update:** 2026-09-29 05:35:54
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. OpenAI Says It Will Not Release Newest A.I. Model Over Safety Concerns
+### 1. We found 24 Android vulnerabilities using our open source AI security agent
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.nytimes.com/2026/09/28/technology/openai-astra-safety.html">https://www.nytimes.com/2026/09/28/technology/openai-astra-safety.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49886416">https://news.ycombinator.com/item?id=49886416</a></p>
-<p>Points: 28</p>
-<p># Comments: 26</p>
+<p>Article URL: <a href="https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/">https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49886609">https://news.ycombinator.com/item?id=49886609</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.nytimes.com/2026/09/28/technology/openai-astra-safety.html](https://www.nytimes.com/2026/09/28/technology/openai-astra-safety.html)
+🔗 **Read more:** [https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/](https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/)
 
 ---
 
-### 2. 1996 chat room simulator connected to Win95 and System 7 web desktops
+### 2. Tank Body Problem
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="http://www.jimsitu.com">http://www.jimsitu.com</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49886482">https://news.ycombinator.com/item?id=49886482</a></p>
+<p>Points: 4</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [http://www.jimsitu.com](http://www.jimsitu.com)
+
+---
+
+### 3. 1996 chat room simulator connected to Win95 and System 7 web desktops
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://lolchat.rip/">https://lolchat.rip/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49886195">https://news.ycombinator.com/item?id=49886195</a></p>
-<p>Points: 11</p>
-<p># Comments: 5</p>
+<p>Points: 15</p>
+<p># Comments: 8</p>
 
 🔗 **Read more:** [https://lolchat.rip/](https://lolchat.rip/)
-
----
-
-### 3. ESP32S3 cluster running 1.58-bit (BitNet) Language model
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster">https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49884625">https://news.ycombinator.com/item?id=49884625</a></p>
-<p>Points: 17</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster](https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster)
 
 ---
 
@@ -91,7 +91,7 @@ The men were all UK nationals in their 20s who live in London and were arrested 
 **Category:** world
 
 **Description:**
-The AI giant's safety chief said the model 'didn't quite meet the bar' of the firm's security standards.
+OpenAI also issued an update on incidents in which its models accessed Australian government systems.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss)
 

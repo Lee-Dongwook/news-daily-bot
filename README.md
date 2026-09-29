@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-29 01:40:22
+**Last Update:** 2026-09-29 05:05:27
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Flock Wants the Most Detailed Map of Its Surveillance Cameras Taken Offline
+### 1. OpenAI Says It Will Not Release Newest A.I. Model Over Safety Concerns
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://theintercept.com/2026/09/24/how-many-flock-devices-in-united-states-300000/">https://theintercept.com/2026/09/24/how-many-flock-devices-in-united-states-300000/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49884363">https://news.ycombinator.com/item?id=49884363</a></p>
-<p>Points: 45</p>
-<p># Comments: 13</p>
+<p>Article URL: <a href="https://www.nytimes.com/2026/09/28/technology/openai-astra-safety.html">https://www.nytimes.com/2026/09/28/technology/openai-astra-safety.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49886416">https://news.ycombinator.com/item?id=49886416</a></p>
+<p>Points: 28</p>
+<p># Comments: 26</p>
 
-🔗 **Read more:** [https://theintercept.com/2026/09/24/how-many-flock-devices-in-united-states-300000/](https://theintercept.com/2026/09/24/how-many-flock-devices-in-united-states-300000/)
+🔗 **Read more:** [https://www.nytimes.com/2026/09/28/technology/openai-astra-safety.html](https://www.nytimes.com/2026/09/28/technology/openai-astra-safety.html)
 
 ---
 
-### 2. Palantir founder purchases large swath of forest in Sweden
+### 2. 1996 chat room simulator connected to Win95 and System 7 web desktops
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.arctictoday.com/palantir-founder-purchases-large-swath-of-forest-in-sweden/">https://www.arctictoday.com/palantir-founder-purchases-large-swath-of-forest-in-sweden/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49884169">https://news.ycombinator.com/item?id=49884169</a></p>
-<p>Points: 69</p>
-<p># Comments: 59</p>
+<p>Article URL: <a href="https://lolchat.rip/">https://lolchat.rip/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49886195">https://news.ycombinator.com/item?id=49886195</a></p>
+<p>Points: 11</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://www.arctictoday.com/palantir-founder-purchases-large-swath-of-forest-in-sweden/](https://www.arctictoday.com/palantir-founder-purchases-large-swath-of-forest-in-sweden/)
+🔗 **Read more:** [https://lolchat.rip/](https://lolchat.rip/)
 
 ---
 
-### 3. Pacing the Frontier is not the actual goal for AI labs
+### 3. ESP32S3 cluster running 1.58-bit (BitNet) Language model
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.lesswrong.com/posts/Nm4ewbYovtjq69dvH/pacing-the-frontier-is-not-the-actual-goal-for-ai-labs">https://www.lesswrong.com/posts/Nm4ewbYovtjq69dvH/pacing-the-frontier-is-not-the-actual-goal-for-ai-labs</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49884119">https://news.ycombinator.com/item?id=49884119</a></p>
-<p>Points: 32</p>
-<p># Comments: 24</p>
+<p>Article URL: <a href="https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster">https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49884625">https://news.ycombinator.com/item?id=49884625</a></p>
+<p>Points: 17</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.lesswrong.com/posts/Nm4ewbYovtjq69dvH/pacing-the-frontier-is-not-the-actual-goal-for-ai-labs](https://www.lesswrong.com/posts/Nm4ewbYovtjq69dvH/pacing-the-frontier-is-not-the-actual-goal-for-ai-labs)
+🔗 **Read more:** [https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster](https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster)
 
 ---
 
@@ -84,55 +84,55 @@ The men were all UK nationals in their 20s who live in London and were arrested 
 
 ---
 
-### 6. UK tries to stop Trump's diesel export ban
+### 6. OpenAI scraps rollout of new model over safety concerns
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-John Healey said the government is in talks with the US over Donald Trump's threat to stop exports.
+The AI giant's safety chief said the model 'didn't quite meet the bar' of the firm's security standards.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmx2z3vgy5xwo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmx2z3vgy5xwo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Gold falls amid rising oil prices and higher US dollar
+### 7. Hungary lifts immunity of Prime Minister Magyar, two Orban-era ministers
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Gold hits seven-week low; silver follows suit and records a nearly 5 percent loss.
+Hungary&#039;s Parliament lifts immunity of incumbent leader and two former ministers, clearing the way for criminal probes.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/28/gold-falls-amid-rising-oil-prices-and-higher-us-dollar?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/28/gold-falls-amid-rising-oil-prices-and-higher-us-dollar?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/29/hungary-lifts-immunity-of-prime-minister-magyar-two-orban-era-ministers?traffic_source=rss](https://www.aljazeera.com/news/2026/9/29/hungary-lifts-immunity-of-prime-minister-magyar-two-orban-era-ministers?traffic_source=rss)
 
 ---
 
-### 8. Hundreds set up tent encampments in Madrid over housing crisis
+### 8. OpenAI scraps release of latest AI model over safety concerns
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Protesters have set up tent encampments in central Madrid to demand government action on soaring housing costs.
+AI giant says GPT-6.1 Astra failed to meet alignment standards during internal testing.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/28/hundreds-set-up-tent-encampments-in-madrid-over-housing-crisis?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/28/hundreds-set-up-tent-encampments-in-madrid-over-housing-crisis?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/29/openai-scraps-release-of-latest-ai-model-over-safety-concerns?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/29/openai-scraps-release-of-latest-ai-model-over-safety-concerns?traffic_source=rss)
 
 ---
 
-### 9. Olise scores late to grab France 1-0 Nations League win at Belgium
+### 9. Africa’s space ambitions are moving from policy to practice
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Bayern Munich star Olise set off from inside his own half to score the winner in the 88th minute.
+As the Africa Space Expo closes in Abidjan, African innovators are showing what the continent can build.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/28/olise-scores-late-to-grab-france-1-0-nations-league-win-at-belgium?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/28/olise-scores-late-to-grab-france-1-0-nations-league-win-at-belgium?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/29/africas-space-ambitions-are-moving-from-policy-to-practice?traffic_source=rss](https://www.aljazeera.com/news/2026/9/29/africas-space-ambitions-are-moving-from-policy-to-practice?traffic_source=rss)
 
 ---
 

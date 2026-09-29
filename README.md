@@ -1,64 +1,90 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-29 12:15:22
+**Last Update:** 2026-09-29 18:59:52
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Uncensored and Offensive Security AI Models Benchmark
+### 1. macOS Golden Gate Is a Buggy Mess
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/JoasASantos/Offensive-Security-AI-Models">https://github.com/JoasASantos/Offensive-Security-AI-Models</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49888937">https://news.ycombinator.com/item?id=49888937</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.squareorbits.com/blog/2026/09/macos-golden-gate-is-a-buggy-mess/">https://www.squareorbits.com/blog/2026/09/macos-golden-gate-is-a-buggy-mess/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49894005">https://news.ycombinator.com/item?id=49894005</a></p>
+<p>Points: 107</p>
+<p># Comments: 50</p>
 
-🔗 **Read more:** [https://github.com/JoasASantos/Offensive-Security-AI-Models](https://github.com/JoasASantos/Offensive-Security-AI-Models)
+🔗 **Read more:** [https://www.squareorbits.com/blog/2026/09/macos-golden-gate-is-a-buggy-mess/](https://www.squareorbits.com/blog/2026/09/macos-golden-gate-is-a-buggy-mess/)
 
 ---
 
-### 2. Tank Body Problem
+### 2. Claude partial outage
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="http://www.jimsitu.com">http://www.jimsitu.com</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49886482">https://news.ycombinator.com/item?id=49886482</a></p>
-<p>Points: 96</p>
-<p># Comments: 21</p>
+<p>Article URL: <a href="https://status.claude.com/incidents/4xvtc2gnq73l">https://status.claude.com/incidents/4xvtc2gnq73l</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49893876">https://news.ycombinator.com/item?id=49893876</a></p>
+<p>Points: 121</p>
+<p># Comments: 80</p>
 
-🔗 **Read more:** [http://www.jimsitu.com](http://www.jimsitu.com)
+🔗 **Read more:** [https://status.claude.com/incidents/4xvtc2gnq73l](https://status.claude.com/incidents/4xvtc2gnq73l)
 
 ---
 
-### 3. 1996 chat room simulator connected to Win95 and System 7 web desktops
+### 3. Why Doesn't Anyone Want to Fix One of America's Scariest Roads?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://lolchat.rip/">https://lolchat.rip/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49886195">https://news.ycombinator.com/item?id=49886195</a></p>
-<p>Points: 106</p>
-<p># Comments: 44</p>
+<p>Article URL: <a href="https://www.newyorker.com/magazine/2026/10/05/why-doesnt-anyone-want-to-fix-one-of-americas-scariest-roads">https://www.newyorker.com/magazine/2026/10/05/why-doesnt-anyone-want-to-fix-one-of-americas-scariest-roads</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49893850">https://news.ycombinator.com/item?id=49893850</a></p>
+<p>Points: 7</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://lolchat.rip/](https://lolchat.rip/)
+🔗 **Read more:** [https://www.newyorker.com/magazine/2026/10/05/why-doesnt-anyone-want-to-fix-one-of-americas-scariest-roads](https://www.newyorker.com/magazine/2026/10/05/why-doesnt-anyone-want-to-fix-one-of-americas-scariest-roads)
 
 ---
 
-### 4. OpenAI scraps rollout of new model over safety concerns
+### 4. Rayner announces crackdown on 'cowboy' leasehold property agents
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The housing secretary used her Labour conference speech to announce protections for leaseholders facing 'injustice'.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cjr4vgnq71kpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cjr4vgnq71kpo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Daniel Sandford on what's next in the RAF Fairford investigation
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+BBC correspondent Daniel Sandford explains where the investigation goes from here.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cmvgy21872nyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cmvgy21872nyo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. OpenAI scraps rollout of new model over safety concerns
 
 **Source:** BBC
 
@@ -71,68 +97,42 @@ The firm also issued an update on incidents in which its models accessed Austral
 
 ---
 
-### 5. Sir Ranulph Fiennes' relatives tell BBC it's 'very painful' not being able to visit him
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-It has been alleged that Sir Ranulph has been admitted to a number of care homes under assumed names.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqy7zr6d2lj4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqy7zr6d2lj4o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Lives 'will be lost' unless UK does more to combat wildfires, committee chairwoman says
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Baroness Brown says there must be better training and planning, after a record year for wildfires in England and Wales.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6r7dyx2x7pdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6r7dyx2x7pdo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Fighting in Ethiopia intensifies: What’s the latest?
+### 7. US-Iran talks in New York: What’s the latest?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Capture of key town could pave the way for federal forces to push towards Tigray&#039;s capital, Mekelle.
+Both sides remain interested in a diplomatic settlement but differ on how to achieve one.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/29/fighting-in-ethiopia-intensifies-whats-the-latest?traffic_source=rss](https://www.aljazeera.com/news/2026/9/29/fighting-in-ethiopia-intensifies-whats-the-latest?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/29/us-iran-talks-in-new-york-whats-the-latest?traffic_source=rss](https://www.aljazeera.com/news/2026/9/29/us-iran-talks-in-new-york-whats-the-latest?traffic_source=rss)
 
 ---
 
-### 8. US-Iran talks continue, but ‘deal unlikely’ before midterm elections
+### 8. CDC reports two measles deaths US as cases hit 35-year high
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The US and Iran are talking through mediators, but there are major differences over what a deal should look like.
+Pennsylvania reports over 900 measles cases, leading a nationwide outbreak with the highest numbers in 35 years.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/29/us-iran-talks-continue-but-deal-unlikely-before-midterm-elections?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/29/us-iran-talks-continue-but-deal-unlikely-before-midterm-elections?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/29/cdc-reports-two-measles-deaths-us-as-cases-hit-35-year-high?traffic_source=rss](https://www.aljazeera.com/news/2026/9/29/cdc-reports-two-measles-deaths-us-as-cases-hit-35-year-high?traffic_source=rss)
 
 ---
 
-### 9. Thousands of drivers strike in the Philippines over rising fuel prices
+### 9. Photos: French students protest, public workers strike before budget cuts
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Transport workers blame US-Israel war on Iran for rising fuel prices as government offers free rides for commuters.
+About 40 people have been arrested and 10 injured as protesting students clash with police.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/29/thousands-of-drivers-strike-in-the-philippines-over-rising-fuel-prices?traffic_source=rss](https://www.aljazeera.com/news/2026/9/29/thousands-of-drivers-strike-in-the-philippines-over-rising-fuel-prices?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/9/29/photos-french-studentspublic-workers-protest-macrons-planned-budget-cuts?traffic_source=rss](https://www.aljazeera.com/gallery/2026/9/29/photos-french-studentspublic-workers-protest-macrons-planned-budget-cuts?traffic_source=rss)
 
 ---
 

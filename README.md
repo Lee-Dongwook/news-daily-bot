@@ -1,16 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-30 00:01:49
+**Last Update:** 2026-09-30 00:25:13
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. USPS shuts down site that sold 5M counterfeit postage labels for $2 each
+### 1. U.S. postal inspectors shut down website selling counterfeit postage labels
 
 **Source:** Hacker News
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/">https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49899090">https://news.ycombinator.com/item?id=49899090</a></p>
-<p>Points: 6</p>
-<p># Comments: 5</p>
+<p>Points: 37</p>
+<p># Comments: 24</p>
 
 🔗 **Read more:** [https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/](https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://gamersnexus.net/news-features/memory-companies-have-destroyed-consumer-market">https://gamersnexus.net/news-features/memory-companies-have-destroyed-consumer-market</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49899051">https://news.ycombinator.com/item?id=49899051</a></p>
-<p>Points: 26</p>
-<p># Comments: 4</p>
+<p>Points: 45</p>
+<p># Comments: 13</p>
 
 🔗 **Read more:** [https://gamersnexus.net/news-features/memory-companies-have-destroyed-consumer-market](https://gamersnexus.net/news-features/memory-companies-have-destroyed-consumer-market)
 
@@ -51,7 +51,7 @@
 **Description:**
 <p>Article URL: <a href="https://icm.museum/blog/?p=698">https://icm.museum/blog/?p=698</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49899004">https://news.ycombinator.com/item?id=49899004</a></p>
-<p>Points: 3</p>
+<p>Points: 5</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://icm.museum/blog/?p=698](https://icm.museum/blog/?p=698)
@@ -97,7 +97,20 @@ The Premier League confirms that Manchester City have been found guilty of all c
 
 ---
 
-### 7. US ban on $1bn of Canadian goods takes effect in Trump’s latest retaliation
+### 7. US sanctions 10 entities for allegedly supporting Iran’s military
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Individuals and firms in China, Pakistan, Turkiye, Iran and Saudi Arabia sanctioned as part of a pressure campaign.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/29/us-sanctions-10-entities-for-allegedly-supporting-irans-military?traffic_source=rss](https://www.aljazeera.com/news/2026/9/29/us-sanctions-10-entities-for-allegedly-supporting-irans-military?traffic_source=rss)
+
+---
+
+### 8. US ban on $1bn of Canadian goods takes effect in Trump’s latest retaliation
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Trump retaliated against Canada&#039;s counter-tariffs on $20bn worth of US impo
 
 ---
 
-### 8. Has Gaza broken the Israel consensus in the US?
+### 9. Has Gaza broken the Israel consensus in the US?
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Trump retaliated against Canada&#039;s counter-tariffs on $20bn worth of US impo
 For decades, Israel was untouchable in Washington. Gaza changed that. Josh Rushing investigates how and what comes next.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/lets-focus/2026/9/29/has-gaza-broken-the-israel-consensus-in-the-us?traffic_source=rss](https://www.aljazeera.com/video/lets-focus/2026/9/29/has-gaza-broken-the-israel-consensus-in-the-us?traffic_source=rss)
-
----
-
-### 9. US troops fully withdraw from Baghdad base after two decades
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-US Army soldiers have fully withdrawn from the US base in Baghdad.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/29/us-troops-fully-withdraw-from-baghdad-base-after-two-decades?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/29/us-troops-fully-withdraw-from-baghdad-base-after-two-decades?traffic_source=rss)
 
 ---
 

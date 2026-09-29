@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-29 18:59:52
+**Last Update:** 2026-09-29 19:30:45
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.squareorbits.com/blog/2026/09/macos-golden-gate-is-a-buggy-mess/">https://www.squareorbits.com/blog/2026/09/macos-golden-gate-is-a-buggy-mess/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49894005">https://news.ycombinator.com/item?id=49894005</a></p>
-<p>Points: 107</p>
-<p># Comments: 50</p>
+<p>Points: 176</p>
+<p># Comments: 115</p>
 
 🔗 **Read more:** [https://www.squareorbits.com/blog/2026/09/macos-golden-gate-is-a-buggy-mess/](https://www.squareorbits.com/blog/2026/09/macos-golden-gate-is-a-buggy-mess/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://status.claude.com/incidents/4xvtc2gnq73l">https://status.claude.com/incidents/4xvtc2gnq73l</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49893876">https://news.ycombinator.com/item?id=49893876</a></p>
-<p>Points: 121</p>
-<p># Comments: 80</p>
+<p>Points: 142</p>
+<p># Comments: 104</p>
 
 🔗 **Read more:** [https://status.claude.com/incidents/4xvtc2gnq73l](https://status.claude.com/incidents/4xvtc2gnq73l)
 
@@ -51,14 +51,27 @@
 **Description:**
 <p>Article URL: <a href="https://www.newyorker.com/magazine/2026/10/05/why-doesnt-anyone-want-to-fix-one-of-americas-scariest-roads">https://www.newyorker.com/magazine/2026/10/05/why-doesnt-anyone-want-to-fix-one-of-americas-scariest-roads</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49893850">https://news.ycombinator.com/item?id=49893850</a></p>
-<p>Points: 7</p>
-<p># Comments: 5</p>
+<p>Points: 11</p>
+<p># Comments: 8</p>
 
 🔗 **Read more:** [https://www.newyorker.com/magazine/2026/10/05/why-doesnt-anyone-want-to-fix-one-of-americas-scariest-roads](https://www.newyorker.com/magazine/2026/10/05/why-doesnt-anyone-want-to-fix-one-of-americas-scariest-roads)
 
 ---
 
-### 4. Rayner announces crackdown on 'cowboy' leasehold property agents
+### 4. Watch: How did Burnham's speech go down in the conference hall?
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The PM received a standing ovation as he spoke about his late dad while setting out reforms to social care.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cwz0zk9d1497o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cwz0zk9d1497o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Rayner announces crackdown on 'cowboy' leasehold property agents
 
 **Source:** BBC
 
@@ -71,7 +84,7 @@ The housing secretary used her Labour conference speech to announce protections 
 
 ---
 
-### 5. Daniel Sandford on what's next in the RAF Fairford investigation
+### 6. Daniel Sandford on what's next in the RAF Fairford investigation
 
 **Source:** BBC
 
@@ -84,20 +97,20 @@ BBC correspondent Daniel Sandford explains where the investigation goes from her
 
 ---
 
-### 6. OpenAI scraps rollout of new model over safety concerns
+### 7. Ireland undecided on approach for next game against Israel, coach says
 
-**Source:** BBC
+**Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The firm also issued an update on incidents in which its models accessed Australian government systems.
+Ireland played the first Nations League game despite unease among some players over Israel&#039;s genocidal war in Gaza.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/29/ireland-undecided-on-approach-for-next-game-against-israel-coach-says?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/29/ireland-undecided-on-approach-for-next-game-against-israel-coach-says?traffic_source=rss)
 
 ---
 
-### 7. US-Iran talks in New York: What’s the latest?
+### 8. US-Iran talks in New York: What’s the latest?
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Both sides remain interested in a diplomatic settlement but differ on how to ach
 
 ---
 
-### 8. CDC reports two measles deaths US as cases hit 35-year high
+### 9. CDC reports two measles deaths in US as cases hit 35-year high
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Both sides remain interested in a diplomatic settlement but differ on how to ach
 Pennsylvania reports over 900 measles cases, leading a nationwide outbreak with the highest numbers in 35 years.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/29/cdc-reports-two-measles-deaths-us-as-cases-hit-35-year-high?traffic_source=rss](https://www.aljazeera.com/news/2026/9/29/cdc-reports-two-measles-deaths-us-as-cases-hit-35-year-high?traffic_source=rss)
-
----
-
-### 9. Photos: French students protest, public workers strike before budget cuts
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-About 40 people have been arrested and 10 injured as protesting students clash with police.
-
-🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/9/29/photos-french-studentspublic-workers-protest-macrons-planned-budget-cuts?traffic_source=rss](https://www.aljazeera.com/gallery/2026/9/29/photos-french-studentspublic-workers-protest-macrons-planned-budget-cuts?traffic_source=rss)
 
 ---
 

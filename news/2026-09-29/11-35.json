@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-29T11:35:20+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "OpenAI: Tomorrow we are re-opening the Pro $200 subscription",
+            "description": "<p>Article URL: <a href=\"https://twitter.com/thsottiaux/status/2104823812042940713\">https://twitter.com/thsottiaux/status/2104823812042940713</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49889306\">https://news.ycombinator.com/item?id=49889306</a></p>\n<p>Points: 27</p>\n<p># Comments: 18</p>",
+            "url": "https://twitter.com/thsottiaux/status/2104823812042940713",
+            "published": "Tue, 29 Sep 2026 07:07:53 +0000",
+            "fetched": "2026-09-29T11:35:20+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Tank Body Problem",
+            "description": "<p>Article URL: <a href=\"http://www.jimsitu.com\">http://www.jimsitu.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49886482\">https://news.ycombinator.com/item?id=49886482</a></p>\n<p>Points: 85</p>\n<p># Comments: 19</p>",
+            "url": "http://www.jimsitu.com",
+            "published": "Tue, 29 Sep 2026 00:41:45 +0000",
+            "fetched": "2026-09-29T11:35:20+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "1996 chat room simulator connected to Win95 and System 7 web desktops",
+            "description": "<p>Article URL: <a href=\"https://lolchat.rip/\">https://lolchat.rip/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49886195\">https://news.ycombinator.com/item?id=49886195</a></p>\n<p>Points: 106</p>\n<p># Comments: 44</p>",
+            "url": "https://lolchat.rip/",
+            "published": "Tue, 29 Sep 2026 00:06:48 +0000",
+            "fetched": "2026-09-29T11:35:20+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham to unveil public body to invest in electricity grid",
+            "description": "The prime minister will say he wants to reduce energy costs in his first conference speech as Labour leader.",
+            "url": "https://www.bbc.co.uk/news/articles/cqn4k9nypxjro?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 29 Sep 2026 06:54:10 GMT",
+            "fetched": "2026-09-29T11:35:20+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: RAF Fairford suspects are bailed, what happens now?",
+            "description": "The men were all UK nationals in their 20s who live in London and were arrested under the Explosives Act and on suspicion of preparing a terrorist act.",
+            "url": "https://www.bbc.co.uk/news/videos/cw33kxk3707jo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 28 Sep 2026 19:28:54 GMT",
+            "fetched": "2026-09-29T11:35:20+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "OpenAI scraps rollout of new model over safety concerns",
+            "description": "The firm also issued an update on incidents in which its models accessed Australian government systems.",
+            "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 29 Sep 2026 04:30:13 GMT",
+            "fetched": "2026-09-29T11:35:20+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli settlers attack Jalud village in occupied West Bank, torch homes",
+            "description": "A group of settlers attacked two homes belonging to the Al-Tubasi family in northern West Bank village.",
+            "url": "https://www.aljazeera.com/news/2026/9/29/israeli-settlers-attack-jalud-village-in-occupied-west-bank-torch-homes?traffic_source=rss",
+            "published": "Tue, 29 Sep 2026 08:01:14 +0000",
+            "fetched": "2026-09-29T11:35:20+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israel’s West Bank road closures turn routine journeys into long ordeals",
+            "description": "Palestinians face delayed medical care and long journeys as Israel tightens movement restrictions across the West Bank.",
+            "url": "https://www.aljazeera.com/news/2026/9/29/israels-west-bank-road-closures-turn-routine-journeys-into-long-ordeals?traffic_source=rss",
+            "published": "Tue, 29 Sep 2026 07:44:06 +0000",
+            "fetched": "2026-09-29T11:35:20+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Satellite images show Gaza in ruins three years into Israel’s genocidal war",
+            "description": "Google Maps images show scale of Israel&#039;s destruction of Gaza, where more than 74,000 Palestinians have been killed.",
+            "url": "https://www.aljazeera.com/news/2026/9/29/satellite-images-show-gaza-in-ruins-three-years-into-israels-genocidal-war?traffic_source=rss",
+            "published": "Tue, 29 Sep 2026 07:41:59 +0000",
+            "fetched": "2026-09-29T11:35:20+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Hanna",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24909",
+            "published": "2026-09-28T15:00:00Z",
+            "fetched": "2026-09-29T11:35:20+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Rachel",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24875",
+            "published": "2026-09-27T18:00:00Z",
+            "fetched": "2026-09-29T11:35:20+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Rafter 4B, Schleicher, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24904",
+            "published": "2026-09-26T15:18:00Z",
+            "fetched": "2026-09-29T11:35:20+03:30"
+        }
+    ]
+}

@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-30 03:38:28
+**Last Update:** 2026-09-30 04:06:10
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://railcode.dev/blog/vibe-coded-website">https://railcode.dev/blog/vibe-coded-website</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49901973">https://news.ycombinator.com/item?id=49901973</a></p>
-<p>Points: 31</p>
-<p># Comments: 20</p>
+<p>Points: 48</p>
+<p># Comments: 29</p>
 
 🔗 **Read more:** [https://railcode.dev/blog/vibe-coded-website](https://railcode.dev/blog/vibe-coded-website)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/ninjahawk/livenerf">https://github.com/ninjahawk/livenerf</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49901736">https://news.ycombinator.com/item?id=49901736</a></p>
-<p>Points: 94</p>
-<p># Comments: 55</p>
+<p>Points: 135</p>
+<p># Comments: 73</p>
 
 🔗 **Read more:** [https://github.com/ninjahawk/livenerf](https://github.com/ninjahawk/livenerf)
 
@@ -51,14 +51,40 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/hmofet/unodos">https://github.com/hmofet/unodos</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49901437">https://news.ycombinator.com/item?id=49901437</a></p>
-<p>Points: 11</p>
-<p># Comments: 5</p>
+<p>Points: 13</p>
+<p># Comments: 7</p>
 
 🔗 **Read more:** [https://github.com/hmofet/unodos](https://github.com/hmofet/unodos)
 
 ---
 
-### 4. Burnham vows to end existing pension triple lock in 2030 to help fund care
+### 4. One of the five men arrested near RAF Fairford called 999 himself
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+He made the call almost an hour before a farmer also called police after seeing men in balaclavas.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqn8m342rgk9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqn8m342rgk9o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. How did the RAF Fairford incident go from 'suspected bomb plot' to police bail?
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Detectives are entering a vital stage of the investigation, with a number of options still open, the BBC's Daniel Sandford writes.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6p3kelx4epwo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6p3kelx4epwo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Burnham vows to end existing pension triple lock in 2030 to help fund care
 
 **Source:** BBC
 
@@ -71,68 +97,42 @@ The PM was at times emotional during his conference speech in which he outlined 
 
 ---
 
-### 5. Chris Mason: Burnham delivers deeply political speech with a personal core
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The key thing to understand about Andy Burnham's speech is these were the words and the delivery of both a new prime minister and a grieving son, the BBC's political editor writes.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmeq847qxde5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmeq847qxde5o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. 'Quantity of petrol' but no explosives found in three vehicles near RAF Fairford
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Police say the decision to release five men on bail is one "grounded in experience and strategy".
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqn8m342rgk9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqn8m342rgk9o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Trump, top tech firms sign accord to ‘self-police’ AI development
+### 7. Iran war live: Trump claims war will end ‘very soon’, gives no details
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Accord says companies will implement &#039;robust internal controls&#039; for their AI systems as concerns mount over safety.
+US President Donald Trump reiterates that Tehran will not have a nuclear weapon.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/29/trump-top-tech-firms-sign-accord-to-self-police-ai-development?traffic_source=rss](https://www.aljazeera.com/news/2026/9/29/trump-top-tech-firms-sign-accord-to-self-police-ai-development?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/9/30/iran-war-live-trump-claims-war-will-end-very-soon-provides-no-details?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/9/30/iran-war-live-trump-claims-war-will-end-very-soon-provides-no-details?traffic_source=rss)
 
 ---
 
-### 8. Jack Smith defends investigations into Trump during tense US Senate hearing
+### 8. Trump says he plans to campaign for 32 days before midterm elections
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Former US special counsel rejects claims that his probes improperly targeted Republicans and conservative groups.
+US president brushes aside concerns about his popularity as voters express frustration over cost of living, war on Iran.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/29/jack-smith-defends-investigations-into-trump-during-tense-us-senate-hearing?traffic_source=rss](https://www.aljazeera.com/news/2026/9/29/jack-smith-defends-investigations-into-trump-during-tense-us-senate-hearing?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/29/trump-says-he-plans-to-campaign-for-32-days-before-midterm-elections?traffic_source=rss](https://www.aljazeera.com/news/2026/9/29/trump-says-he-plans-to-campaign-for-32-days-before-midterm-elections?traffic_source=rss)
 
 ---
 
-### 9. Venezuelan man shot by ICE officer in Texas is charged with assault
+### 9. ‘Nothing is justifying this’: Qatari PM slams atrocities in Gaza
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Wilber Rafael Garces Perez has disputed the government&#039;s account of what led to his shooting during a DoorDash delivery.
+Qatari leader tells Piers Morgan that Doha will continue to uphold diplomacy and mediate for peace in the Middle East.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/29/venezuelan-man-shot-by-ice-officer-in-texas-is-charged-with-assault?traffic_source=rss](https://www.aljazeera.com/news/2026/9/29/venezuelan-man-shot-by-ice-officer-in-texas-is-charged-with-assault?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/29/nothing-is-justifying-this-qatari-pm-slams-atrocities-in-gaza?traffic_source=rss](https://www.aljazeera.com/news/2026/9/29/nothing-is-justifying-this-qatari-pm-slams-atrocities-in-gaza?traffic_source=rss)
 
 ---
 

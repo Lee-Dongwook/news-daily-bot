@@ -1,64 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-01 02:21:50
+**Last Update:** 2026-10-01 03:29:36
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Why the Bronze Age Collapsed
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.worksinprogress.news/p/why-really-caused-the-bronze-age">https://www.worksinprogress.news/p/why-really-caused-the-bronze-age</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49915221">https://news.ycombinator.com/item?id=49915221</a></p>
-<p>Points: 3</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://www.worksinprogress.news/p/why-really-caused-the-bronze-age](https://www.worksinprogress.news/p/why-really-caused-the-bronze-age)
-
----
-
-### 2. Automating Wi-Fi setup testing on the ESP32
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://groundrun.io/blog/automating-wi-fi-setup-testing-on-the-esp32/">https://groundrun.io/blog/automating-wi-fi-setup-testing-on-the-esp32/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49915119">https://news.ycombinator.com/item?id=49915119</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://groundrun.io/blog/automating-wi-fi-setup-testing-on-the-esp32/](https://groundrun.io/blog/automating-wi-fi-setup-testing-on-the-esp32/)
-
----
-
-### 3. The top secret URSALA, RAQUEL, and FARRAH satellites
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.thespacereview.com/article/4951/1">https://www.thespacereview.com/article/4951/1</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49915082">https://news.ycombinator.com/item?id=49915082</a></p>
-<p>Points: 46</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://www.thespacereview.com/article/4951/1](https://www.thespacereview.com/article/4951/1)
-
----
-
-### 4. Veteran broadcaster Dame Esther Rantzen dies aged 86
+### 1. Veteran broadcaster Dame Esther Rantzen dies aged 86
 
 **Source:** BBC
 
@@ -71,7 +23,7 @@ Rantzen, who fronted the BBC's That's Life for two decades, went on to found Chi
 
 ---
 
-### 5. Dame Esther Rantzen: A presenter who campaigned for change
+### 2. Dame Esther Rantzen: A presenter who campaigned for change
 
 **Source:** BBC
 
@@ -84,59 +36,59 @@ The veteran broadcaster's career spanned street interviews, national campaigns a
 
 ---
 
-### 6. UK believes Iran involved in RAF Fairford incident, PM says
+### 3. US Supreme Court allows execution of Christa Pike to go ahead
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Iran's foreign minister has responded, saying the PM was "barking up the wrong tree".
+The death by lethal injection was scheduled to happen earlier on Wednesday before a lower court paused the execution.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cjwyz59k5y75o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cjwyz59k5y75o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Hong Kong journalist arrested on sedition charge
+### 4. Trump amazed that an ‘Israeli plumber’ helped land Flydubai flight
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Authorities detain media founder over Prince Edward station clash video, as press freedom groups voice concern.
+An amazed US President Donald Trump relayed the story of how an ‘Israeli plumber’ helped land a Flydubai flight.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/30/hong-kong-journalist-arrested-on-sedition-charge?traffic_source=rss](https://www.aljazeera.com/news/2026/9/30/hong-kong-journalist-arrested-on-sedition-charge?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/30/trump-amazed-that-an-israeli-plumber-helped-land-flydubai-flight?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/30/trump-amazed-that-an-israeli-plumber-helped-land-flydubai-flight?traffic_source=rss)
 
 ---
 
-### 8. Russian drone crashes into Kyiv playground without exploding
+### 5. Pennsylvania confirms fifth measles-associated death as US outbreak grows
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A Russian attack drone crashed into a children’s playground in Kyiv, Ukraine without exploding.
+Cases have more than doubled since August as a dispute with federal health officials over the death count continues.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/30/aje-onl-nf_russian-drone-crashes-on-kyiv-playground-300926?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/30/aje-onl-nf_russian-drone-crashes-on-kyiv-playground-300926?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/30/pennsylvania-confirms-fifth-measles-associated-death-as-us-outbreak-grows?traffic_source=rss](https://www.aljazeera.com/news/2026/9/30/pennsylvania-confirms-fifth-measles-associated-death-as-us-outbreak-grows?traffic_source=rss)
 
 ---
 
-### 9. It’s the ‘closest thing to an HIV vaccine’, but who gets access?
+### 6. US judge approves settlement allowing Paramount to acquire Warner Bros
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A twice-yearly injection could revolutionise HIV prevention, but who gets access raises bigger questions.
+Mammoth deal has raised questions about corporate consolidation and editorial independence in media.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/30/its-the-closest-thing-to-an-hiv-vaccine-but-who-gets-access?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/30/its-the-closest-thing-to-an-hiv-vaccine-but-who-gets-access?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/30/us-judge-approves-settlement-allowing-paramount-to-acquire-warner-bros?traffic_source=rss](https://www.aljazeera.com/news/2026/9/30/us-judge-approves-settlement-allowing-paramount-to-acquire-warner-bros?traffic_source=rss)
 
 ---
 
-### 10. Tropical Storm Hanna
+### 7. Tropical Storm Hanna
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Severe Storms
 
 ---
 
-### 11. Hurricane Rachel
+### 8. Hurricane Rachel
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Severe Storms
 
 ---
 
-### 12. Wildfire Rafter 4B, Schleicher, Texas
+### 9. Wildfire Rafter 4B, Schleicher, Texas
 
 **Source:** NASA
 

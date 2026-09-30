@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-30 16:55:51
+**Last Update:** 2026-09-30 17:28:04
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. The last time my family was replaced by technology
+### 1. Upgrade your desktop: Ubuntu 26.04.1 LTS is now available
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://ubuntu.com/blog/upgrade-your-desktop-ubuntu-26-04-lts">https://ubuntu.com/blog/upgrade-your-desktop-ubuntu-26-04-lts</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49908757">https://news.ycombinator.com/item?id=49908757</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://ubuntu.com/blog/upgrade-your-desktop-ubuntu-26-04-lts](https://ubuntu.com/blog/upgrade-your-desktop-ubuntu-26-04-lts)
+
+---
+
+### 2. The last time my family was replaced by technology
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://manuel.darcemont.fr/posts/the-last-time-my-family-was-replaced-by-technology/">https://manuel.darcemont.fr/posts/the-last-time-my-family-was-replaced-by-technology/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49908394">https://news.ycombinator.com/item?id=49908394</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Points: 34</p>
+<p># Comments: 38</p>
 
 🔗 **Read more:** [https://manuel.darcemont.fr/posts/the-last-time-my-family-was-replaced-by-technology/](https://manuel.darcemont.fr/posts/the-last-time-my-family-was-replaced-by-technology/)
 
 ---
 
-### 2. Most data centers refusing to say how much water, electricity they use
+### 3. Most data centers refusing to say how much water, electricity they use
 
 **Source:** Hacker News
 
@@ -35,43 +51,14 @@
 **Description:**
 <p>Article URL: <a href="https://nltimes.nl/2026/09/30/data-centers-refusing-say-much-water-electricity-use">https://nltimes.nl/2026/09/30/data-centers-refusing-say-much-water-electricity-use</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49907057">https://news.ycombinator.com/item?id=49907057</a></p>
-<p>Points: 96</p>
-<p># Comments: 74</p>
+<p>Points: 116</p>
+<p># Comments: 112</p>
 
 🔗 **Read more:** [https://nltimes.nl/2026/09/30/data-centers-refusing-say-much-water-electricity-use](https://nltimes.nl/2026/09/30/data-centers-refusing-say-much-water-electricity-use)
 
 ---
 
-### 3. Pi.dev: You Said No MCP
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://earendil.com/posts/you-said-no-mcp/">https://earendil.com/posts/you-said-no-mcp/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49906637">https://news.ycombinator.com/item?id=49906637</a></p>
-<p>Points: 234</p>
-<p># Comments: 102</p>
-
-🔗 **Read more:** [https://earendil.com/posts/you-said-no-mcp/](https://earendil.com/posts/you-said-no-mcp/)
-
----
-
-### 4. What we know about the Dubai-Israel plane diversion
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The Saudi Arabian airport where the FlyDubai plane was diverted to said the captain and first officer were injured.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Move to rejoin EU among options for UK, says Burnham
+### 4. Move to rejoin EU among options for UK, says Burnham
 
 **Source:** BBC
 
@@ -84,7 +71,7 @@ The prime minister tells the BBC the current Brexit settlement has caused "more 
 
 ---
 
-### 6. Watch: Detail about new call to police changes RAF Fairford timeline
+### 5. Watch: Detail about new call to police changes RAF Fairford timeline
 
 **Source:** BBC
 
@@ -97,7 +84,33 @@ One of five men arrested near RAF Fairford in the early hours of Sunday morning 
 
 ---
 
-### 7. Christa Pike seeks firing squad, not lethal injection: Inside US executions
+### 6. Sussexes condemn 'reckless intrusion' after men spotted near Archie and Lilibet's school
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+One of the men seen outside the UK school attended by the children is understood to be an international press photographer.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw0kl62zn0p7o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw0kl62zn0p7o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 7. Why Israel is interfering in Palestinian education
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The occupation authorities are trying to censor Palestinian school curricula because they teach national consciousness.
+
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/9/30/why-israel-is-interfering-in-palestinian-education?traffic_source=rss](https://www.aljazeera.com/opinions/2026/9/30/why-israel-is-interfering-in-palestinian-education?traffic_source=rss)
+
+---
+
+### 8. Christa Pike seeks firing squad, not lethal injection: Inside US executions
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Women make up about 1 percent of US executions. How do states put people to deat
 
 ---
 
-### 8. Israeli attacks on Gaza kill seven as ‘ceasefire’ violations continue
+### 9. Israeli attacks on Gaza kill seven as ‘ceasefire’ violations continue
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Women make up about 1 percent of US executions. How do states put people to deat
 At least six people killed in drone attack on passenger van and one person killed in strike on residential apartment.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/30/israeli-attacks-on-gaza-kill-several-as-ceasefire-violations-continue?traffic_source=rss](https://www.aljazeera.com/news/2026/9/30/israeli-attacks-on-gaza-kill-several-as-ceasefire-violations-continue?traffic_source=rss)
-
----
-
-### 9. Settlers closing in on Ramallah
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Israeli settlers are encroaching ever closer to Ramallah,  the de facto capital of the occupied West Bank.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/30/settlers-closing-in-on-ramallah?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/30/settlers-closing-in-on-ramallah?traffic_source=rss)
 
 ---
 

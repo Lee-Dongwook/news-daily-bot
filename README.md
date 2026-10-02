@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-02 11:37:58
+**Last Update:** 2026-10-02 16:24:41
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. US tells France and Germany to release diesel stocks or face US export ban
+### 1. Harvard particle physicist Matthew Schwartz drops 36 papers authored with Claude
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.reuters.com/business/energy/us-tells-france-germany-release-diesel-stocks-or-face-us-export-ban-sources-say-2026-10-01/">https://www.reuters.com/business/energy/us-tells-france-germany-release-diesel-stocks-or-face-us-export-ban-sources-say-2026-10-01/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49930086">https://news.ycombinator.com/item?id=49930086</a></p>
-<p>Points: 34</p>
-<p># Comments: 28</p>
+<p>Article URL: <a href="https://www.reddit.com/r/Physics/comments/1wvin77/harvard_particle_physicist_matthew_schwartz_drops/">https://www.reddit.com/r/Physics/comments/1wvin77/harvard_particle_physicist_matthew_schwartz_drops/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49932606">https://news.ycombinator.com/item?id=49932606</a></p>
+<p>Points: 26</p>
+<p># Comments: 20</p>
 
-🔗 **Read more:** [https://www.reuters.com/business/energy/us-tells-france-germany-release-diesel-stocks-or-face-us-export-ban-sources-say-2026-10-01/](https://www.reuters.com/business/energy/us-tells-france-germany-release-diesel-stocks-or-face-us-export-ban-sources-say-2026-10-01/)
+🔗 **Read more:** [https://www.reddit.com/r/Physics/comments/1wvin77/harvard_particle_physicist_matthew_schwartz_drops/](https://www.reddit.com/r/Physics/comments/1wvin77/harvard_particle_physicist_matthew_schwartz_drops/)
 
 ---
 
-### 2. Shimano Bicycle Museum Review
+### 2. European payments groups join forces to challenge US dominance
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://inrng.com/2026/10/shimano-bicycle-museum/">https://inrng.com/2026/10/shimano-bicycle-museum/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49930047">https://news.ycombinator.com/item?id=49930047</a></p>
-<p>Points: 53</p>
-<p># Comments: 7</p>
+<p>Article URL: <a href="https://www.rte.ie/news/business/2026/1001/1593639-european-payments-group/">https://www.rte.ie/news/business/2026/1001/1593639-european-payments-group/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49932383">https://news.ycombinator.com/item?id=49932383</a></p>
+<p>Points: 28</p>
+<p># Comments: 35</p>
 
-🔗 **Read more:** [https://inrng.com/2026/10/shimano-bicycle-museum/](https://inrng.com/2026/10/shimano-bicycle-museum/)
+🔗 **Read more:** [https://www.rte.ie/news/business/2026/1001/1593639-european-payments-group/](https://www.rte.ie/news/business/2026/1001/1593639-european-payments-group/)
 
 ---
 
-### 3. Building reliable (and fast) directory sync
+### 3. Show HN: Audionaut – an open-source cross-platform multitrack audio editor
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.firezone.dev/blog/building-reliable-directory-sync">https://www.firezone.dev/blog/building-reliable-directory-sync</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49929925">https://news.ycombinator.com/item?id=49929925</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://github.com/kvoltmer/Audionaut">https://github.com/kvoltmer/Audionaut</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49931031">https://news.ycombinator.com/item?id=49931031</a></p>
+<p>Points: 46</p>
+<p># Comments: 14</p>
 
-🔗 **Read more:** [https://www.firezone.dev/blog/building-reliable-directory-sync](https://www.firezone.dev/blog/building-reliable-directory-sync)
+🔗 **Read more:** [https://github.com/kvoltmer/Audionaut](https://github.com/kvoltmer/Audionaut)
 
 ---
 
@@ -65,74 +65,74 @@
 **Category:** world
 
 **Description:**
-Capt Smit Machchhar, who was stabbed during the flight, speaks to Indian Prime Minister Narendra Modi.
+Capt Smit Machchhar tells Indian Prime Minister Narendra Modi he opened the cockpit door to let others in during the attack.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. US pressures Europe to release diesel reserves as Trump threatens export ban
+### 5. Watch: Emotional pilot recounts moment of Flydubai attack
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-President Donald Trump has threatened to ban diesel exports in a bid to ease prices in the US ahead of the November elections.
+He has been hailed a hero for opening the cockpit door, allowing passengers to overpower his co-pilot.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c914d43y7xn4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c914d43y7xn4o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Chris Mason: Why Andy Burnham's about-turn on Manchester City matters
+### 6. Man City lodge appeal after being found guilty of breaching financial rules
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The prime minister's comments on Man City were revealing on several levels - and leapt on by many in football, the BBC's political editor writes.
+The club's statement says the ruling contains "clear material errors, of law, principle and fact, and is unsafe".
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5kg0gwwpyx8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5kg0gwwpyx8o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/cqn7470513n0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/cqn7470513n0o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. How the fighting in Ethiopia spread beyond Tigray, in maps and charts
+### 7. Moment mother bear slams into car to protect cub
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Old rivalries, territorial disputes and new alliances are reshaping the conflict in Ethiopia’s north.
+This mother bear was not going to let a driver in Japan pass her cub without a warning.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/2/how-the-fighting-in-ethiopia-spread-beyond-tigray-in-maps-and-charts?traffic_source=rss](https://www.aljazeera.com/news/2026/10/2/how-the-fighting-in-ethiopia-spread-beyond-tigray-in-maps-and-charts?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/2/2-10-clip-mother-bear-crashes-into-a-car-in-japan-jp?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/2/2-10-clip-mother-bear-crashes-into-a-car-in-japan-jp?traffic_source=rss)
 
 ---
 
-### 8. Miami judge rules federal noncitizen voting law violates US Constitution
+### 8. 12 minutes of madness: How Flydubai pilot, passengers saved plane midfall
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Judge Leibowitz&#039;s decision underscores state jurisdiction over voter qualifications.
+As it plunged 17,000ft in under two minutes, a quick-thinking captain and passengers saved plane from crashing.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/2/miami-judge-rules-federal-noncitizen-voting-law-violates-us-constitution?traffic_source=rss](https://www.aljazeera.com/news/2026/10/2/miami-judge-rules-federal-noncitizen-voting-law-violates-us-constitution?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/2/12-minutes-of-madness-how-flydubai-pilot-passengers-saved-plane-midfall?traffic_source=rss](https://www.aljazeera.com/news/2026/10/2/12-minutes-of-madness-how-flydubai-pilot-passengers-saved-plane-midfall?traffic_source=rss)
 
 ---
 
-### 9. Greece pushes EU to suspend asylum during mass migration surges
+### 9. Ethiopian gov’t-aligned group claims close to full control of Tigray region
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-EU migration pact improvements face criticism for insufficient tools to manage large-scale migration emergencies.
+Claim comes as violence flares across northern Ethiopia, deteriorating diplomatic, humanitarian situations.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/2/greece-pushes-eu-to-suspend-asylum-during-mass-migration-surges?traffic_source=rss](https://www.aljazeera.com/news/2026/10/2/greece-pushes-eu-to-suspend-asylum-during-mass-migration-surges?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/2/ethiopian-govt-aligned-group-claims-close-to-full-control-of-tigray-region?traffic_source=rss](https://www.aljazeera.com/news/2026/10/2/ethiopian-govt-aligned-group-claims-close-to-full-control-of-tigray-region?traffic_source=rss)
 
 ---
 

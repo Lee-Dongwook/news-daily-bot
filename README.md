@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-02 03:28:45
+**Last Update:** 2026-10-02 04:54:06
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Apple's smart home camera reportedly won't record video
+### 1. Butterflies use optical illusions to dodge predators
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators">https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49928152">https://news.ycombinator.com/item?id=49928152</a></p>
+<p>Points: 9</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators](https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators)
+
+---
+
+### 2. Several vulnerabilities have been discovered in the Linux kernel
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://lwn.net/Articles/1097401/">https://lwn.net/Articles/1097401/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49928121">https://news.ycombinator.com/item?id=49928121</a></p>
+<p>Points: 61</p>
+<p># Comments: 31</p>
+
+🔗 **Read more:** [https://lwn.net/Articles/1097401/](https://lwn.net/Articles/1097401/)
+
+---
+
+### 3. Apple's smart home camera reportedly won't record video
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.theapplepost.com/2026/10/01/72882/apples-smart-home-camera-reportedly-wont-record-video/">https://www.theapplepost.com/2026/10/01/72882/apples-smart-home-camera-reportedly-wont-record-video/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49928054">https://news.ycombinator.com/item?id=49928054</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Points: 10</p>
+<p># Comments: 18</p>
 
 🔗 **Read more:** [https://www.theapplepost.com/2026/10/01/72882/apples-smart-home-camera-reportedly-wont-record-video/](https://www.theapplepost.com/2026/10/01/72882/apples-smart-home-camera-reportedly-wont-record-video/)
-
----
-
-### 2. 2026 International Utility Locate Rodeo
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://locaterodeo.net/">https://locaterodeo.net/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49927844">https://news.ycombinator.com/item?id=49927844</a></p>
-<p>Points: 7</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://locaterodeo.net/](https://locaterodeo.net/)
-
----
-
-### 3. Aweb – Communication for AI Agents
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://aweb.ai">https://aweb.ai</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49927587">https://news.ycombinator.com/item?id=49927587</a></p>
-<p>Points: 9</p>
-<p># Comments: 3</p>
-
-🔗 **Read more:** [https://aweb.ai](https://aweb.ai)
 
 ---
 
@@ -97,7 +97,33 @@ President Donald Trump has threatened to ban diesel exports in a bid to ease pri
 
 ---
 
-### 7. Israeli drone kills Palestinian in Gaza, settlers kill another in West Bank
+### 7. UK-Mauritius Chagos sovereignty deal stalls amid fears of further delays
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Renewed talks over the stalled agreement have revived hope of resettlement, but ageing Chagossians fear time is running.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/2/uk-mauritius-chagos-sovereignty-deal-stalls-amid-fears-of-further-delays?traffic_source=rss](https://www.aljazeera.com/news/2026/10/2/uk-mauritius-chagos-sovereignty-deal-stalls-amid-fears-of-further-delays?traffic_source=rss)
+
+---
+
+### 8. Iran war live: US moves 2,000 Marines to Middle East, tanker hit in Hormuz
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+US deploys Roosevelt strike group and 2,000 Marines to the Middle East as part of a wider buildup around Iran.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/10/2/iran-war-live-us-moves-2000-marines-to-middle-east-tanker-hit-in-hormuz?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/10/2/iran-war-live-us-moves-2000-marines-to-middle-east-tanker-hit-in-hormuz?traffic_source=rss)
+
+---
+
+### 9. Israeli drone kills Palestinian in Gaza, settlers kill another in West Bank
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ President Donald Trump has threatened to ban diesel exports in a bid to ease pri
 1,439 Palestinians have been killed in Gaza and 5,052 injured since the &#039;ceasefire&#039; began in October 2025.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/1/israeli-drone-kills-palestinian-in-gaza-settlers-kill-another-in-west-bank?traffic_source=rss](https://www.aljazeera.com/news/2026/10/1/israeli-drone-kills-palestinian-in-gaza-settlers-kill-another-in-west-bank?traffic_source=rss)
-
----
-
-### 8. Brazilian government calls for probe into US funding of far-right causes
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Report stating that Trump administration directed funds towards right-wing groups comes ahead of presidential election.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/1/brazilian-government-calls-for-probe-into-us-funding-of-far-right-causes?traffic_source=rss](https://www.aljazeera.com/news/2026/10/1/brazilian-government-calls-for-probe-into-us-funding-of-far-right-causes?traffic_source=rss)
-
----
-
-### 9. 94-year-old Jewish barrister arrested for supporting Palestine Action
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-A 94-year-old Jewish activist was detained at a pro-Palestine rally in the UK for supporting Palestine Action.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/1/94-year-old-jewish-barrister-arrested-for-supporting-palestine-action?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/1/94-year-old-jewish-barrister-arrested-for-supporting-palestine-action?traffic_source=rss)
 
 ---
 

@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-02T11:37:58+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "US tells France and Germany to release diesel stocks or face US export ban",
+            "description": "<p>Article URL: <a href=\"https://www.reuters.com/business/energy/us-tells-france-germany-release-diesel-stocks-or-face-us-export-ban-sources-say-2026-10-01/\">https://www.reuters.com/business/energy/us-tells-france-germany-release-diesel-stocks-or-face-us-export-ban-sources-say-2026-10-01/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49930086\">https://news.ycombinator.com/item?id=49930086</a></p>\n<p>Points: 34</p>\n<p># Comments: 28</p>",
+            "url": "https://www.reuters.com/business/energy/us-tells-france-germany-release-diesel-stocks-or-face-us-export-ban-sources-say-2026-10-01/",
+            "published": "Fri, 02 Oct 2026 05:22:20 +0000",
+            "fetched": "2026-10-02T11:37:58+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Shimano Bicycle Museum Review",
+            "description": "<p>Article URL: <a href=\"https://inrng.com/2026/10/shimano-bicycle-museum/\">https://inrng.com/2026/10/shimano-bicycle-museum/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49930047\">https://news.ycombinator.com/item?id=49930047</a></p>\n<p>Points: 53</p>\n<p># Comments: 7</p>",
+            "url": "https://inrng.com/2026/10/shimano-bicycle-museum/",
+            "published": "Fri, 02 Oct 2026 05:12:58 +0000",
+            "fetched": "2026-10-02T11:37:58+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Building reliable (and fast) directory sync",
+            "description": "<p>Article URL: <a href=\"https://www.firezone.dev/blog/building-reliable-directory-sync\">https://www.firezone.dev/blog/building-reliable-directory-sync</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49929925\">https://news.ycombinator.com/item?id=49929925</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+            "url": "https://www.firezone.dev/blog/building-reliable-directory-sync",
+            "published": "Fri, 02 Oct 2026 04:45:36 +0000",
+            "fetched": "2026-10-02T11:37:58+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
+            "description": "Capt Smit Machchhar, who was stabbed during the flight, speaks to Indian Prime Minister Narendra Modi.",
+            "url": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 02 Oct 2026 07:42:09 GMT",
+            "fetched": "2026-10-02T11:37:58+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "US pressures Europe to release diesel reserves as Trump threatens export ban",
+            "description": "President Donald Trump has threatened to ban diesel exports in a bid to ease prices in the US ahead of the November elections.",
+            "url": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 02 Oct 2026 07:31:52 GMT",
+            "fetched": "2026-10-02T11:37:58+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Chris Mason: Why Andy Burnham's about-turn on Manchester City matters",
+            "description": "The prime minister's comments on Man City were revealing on several levels - and leapt on by many in football, the BBC's political editor writes.",
+            "url": "https://www.bbc.co.uk/news/articles/c5kg0gwwpyx8o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 01 Oct 2026 22:22:43 GMT",
+            "fetched": "2026-10-02T11:37:58+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "How the fighting in Ethiopia spread beyond Tigray, in maps and charts",
+            "description": "Old rivalries, territorial disputes and new alliances are reshaping the conflict in Ethiopia’s north.",
+            "url": "https://www.aljazeera.com/news/2026/10/2/how-the-fighting-in-ethiopia-spread-beyond-tigray-in-maps-and-charts?traffic_source=rss",
+            "published": "Fri, 02 Oct 2026 07:17:02 +0000",
+            "fetched": "2026-10-02T11:37:58+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Miami judge rules federal noncitizen voting law violates US Constitution",
+            "description": "Judge Leibowitz&#039;s decision underscores state jurisdiction over voter qualifications.",
+            "url": "https://www.aljazeera.com/news/2026/10/2/miami-judge-rules-federal-noncitizen-voting-law-violates-us-constitution?traffic_source=rss",
+            "published": "Fri, 02 Oct 2026 06:26:48 +0000",
+            "fetched": "2026-10-02T11:37:58+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Greece pushes EU to suspend asylum during mass migration surges",
+            "description": "EU migration pact improvements face criticism for insufficient tools to manage large-scale migration emergencies.",
+            "url": "https://www.aljazeera.com/news/2026/10/2/greece-pushes-eu-to-suspend-asylum-during-mass-migration-surges?traffic_source=rss",
+            "published": "Fri, 02 Oct 2026 06:16:14 +0000",
+            "fetched": "2026-10-02T11:37:58+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Choi-wan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24962",
+            "published": "2026-09-30T12:00:00Z",
+            "fetched": "2026-10-02T11:37:58+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire SAN FRANCISCO 2, Starr, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24964",
+            "published": "2026-09-30T08:56:00Z",
+            "fetched": "2026-10-02T11:37:58+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Hatch Grade, Walla Walla, Washington",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24963",
+            "published": "2026-09-29T19:50:00Z",
+            "fetched": "2026-10-02T11:37:58+03:30"
+        }
+    ]
+}

@@ -1,77 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-02 16:24:41
+**Last Update:** 2026-10-02 19:01:56
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Harvard particle physicist Matthew Schwartz drops 36 papers authored with Claude
+### 1. Big Tech ruined the cloud, so we're renaming ours
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.reddit.com/r/Physics/comments/1wvin77/harvard_particle_physicist_matthew_schwartz_drops/">https://www.reddit.com/r/Physics/comments/1wvin77/harvard_particle_physicist_matthew_schwartz_drops/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49932606">https://news.ycombinator.com/item?id=49932606</a></p>
-<p>Points: 26</p>
-<p># Comments: 20</p>
+<p>Article URL: <a href="https://www.home-assistant.io/blog/2026/10/02/big-tech-ruined-the-cloud-so-were-renaming-ours/">https://www.home-assistant.io/blog/2026/10/02/big-tech-ruined-the-cloud-so-were-renaming-ours/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49934228">https://news.ycombinator.com/item?id=49934228</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.reddit.com/r/Physics/comments/1wvin77/harvard_particle_physicist_matthew_schwartz_drops/](https://www.reddit.com/r/Physics/comments/1wvin77/harvard_particle_physicist_matthew_schwartz_drops/)
+🔗 **Read more:** [https://www.home-assistant.io/blog/2026/10/02/big-tech-ruined-the-cloud-so-were-renaming-ours/](https://www.home-assistant.io/blog/2026/10/02/big-tech-ruined-the-cloud-so-were-renaming-ours/)
 
 ---
 
-### 2. European payments groups join forces to challenge US dominance
+### 2. Amazon seeks to offload $8B of Nvidia chips to investors
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.rte.ie/news/business/2026/1001/1593639-european-payments-group/">https://www.rte.ie/news/business/2026/1001/1593639-european-payments-group/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49932383">https://news.ycombinator.com/item?id=49932383</a></p>
-<p>Points: 28</p>
-<p># Comments: 35</p>
+<p>Article URL: <a href="https://www.reuters.com/business/retail-consumer/amazon-seeks-offload-8-billion-nvidia-chips-investors-ft-reports-2026-10-02/">https://www.reuters.com/business/retail-consumer/amazon-seeks-offload-8-billion-nvidia-chips-investors-ft-reports-2026-10-02/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49933958">https://news.ycombinator.com/item?id=49933958</a></p>
+<p>Points: 57</p>
+<p># Comments: 59</p>
 
-🔗 **Read more:** [https://www.rte.ie/news/business/2026/1001/1593639-european-payments-group/](https://www.rte.ie/news/business/2026/1001/1593639-european-payments-group/)
+🔗 **Read more:** [https://www.reuters.com/business/retail-consumer/amazon-seeks-offload-8-billion-nvidia-chips-investors-ft-reports-2026-10-02/](https://www.reuters.com/business/retail-consumer/amazon-seeks-offload-8-billion-nvidia-chips-investors-ft-reports-2026-10-02/)
 
 ---
 
-### 3. Show HN: Audionaut – an open-source cross-platform multitrack audio editor
+### 3. The Legend of von Neumann [pdf]
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/kvoltmer/Audionaut">https://github.com/kvoltmer/Audionaut</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49931031">https://news.ycombinator.com/item?id=49931031</a></p>
-<p>Points: 46</p>
-<p># Comments: 14</p>
+<p>Article URL: <a href="https://gwern.net/doc/math/1973-halmos.pdf">https://gwern.net/doc/math/1973-halmos.pdf</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49933235">https://news.ycombinator.com/item?id=49933235</a></p>
+<p>Points: 77</p>
+<p># Comments: 40</p>
 
-🔗 **Read more:** [https://github.com/kvoltmer/Audionaut](https://github.com/kvoltmer/Audionaut)
+🔗 **Read more:** [https://gwern.net/doc/math/1973-halmos.pdf](https://gwern.net/doc/math/1973-halmos.pdf)
 
 ---
 
-### 4. 'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot
+### 4. School protests send shivers down French government's spine
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Capt Smit Machchhar tells Indian Prime Minister Narendra Modi he opened the cockpit door to let others in during the attack.
+A movement that started nearly two weeks ago has spread, and in France young people on the streets spells trouble, writes Hugh Schofield.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c69wzjjxex8po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c69wzjjxex8po?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Watch: Emotional pilot recounts moment of Flydubai attack
+### 5. Watch: 'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot
 
 **Source:** BBC
 
@@ -84,55 +84,55 @@ He has been hailed a hero for opening the cockpit door, allowing passengers to o
 
 ---
 
-### 6. Man City lodge appeal after being found guilty of breaching financial rules
+### 6. I've seen nearly 500 executions - but never one like Christa Pike's
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The club's statement says the ruling contains "clear material errors, of law, principle and fact, and is unsafe".
+Texas reporter Michael Graczyk has seen botched executions in his time, but not one in which an inmate survived.
 
-🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/cqn7470513n0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/cqn7470513n0o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6d949gq47x9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6d949gq47x9o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Moment mother bear slams into car to protect cub
+### 7. Spain’s parliament rejects gov’t housing decrees amid mass protests
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-This mother bear was not going to let a driver in Japan pass her cub without a warning.
+Both decrees to tackle housing affordability crisis shot down as critics say measures would tighten the housing market.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/2/2-10-clip-mother-bear-crashes-into-a-car-in-japan-jp?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/2/2-10-clip-mother-bear-crashes-into-a-car-in-japan-jp?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/2/spains-parliament-rejects-govt-housing-decrees-amid-mass-protests?traffic_source=rss](https://www.aljazeera.com/news/2026/10/2/spains-parliament-rejects-govt-housing-decrees-amid-mass-protests?traffic_source=rss)
 
 ---
 
-### 8. 12 minutes of madness: How Flydubai pilot, passengers saved plane midfall
+### 8. G7 announces oil reserve release, as Trump hails Europe diesel deal
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-As it plunged 17,000ft in under two minutes, a quick-thinking captain and passengers saved plane from crashing.
+Macron says G7 will release 100 million barrels over four months; diesel release to be &#039;frontloaded&#039;
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/2/12-minutes-of-madness-how-flydubai-pilot-passengers-saved-plane-midfall?traffic_source=rss](https://www.aljazeera.com/news/2026/10/2/12-minutes-of-madness-how-flydubai-pilot-passengers-saved-plane-midfall?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/2/trump-says-europe-agrees-to-release-massive-amount-diesel-stockpile?traffic_source=rss](https://www.aljazeera.com/news/2026/10/2/trump-says-europe-agrees-to-release-massive-amount-diesel-stockpile?traffic_source=rss)
 
 ---
 
-### 9. Ethiopian gov’t-aligned group claims close to full control of Tigray region
+### 9. Ethiopia, Eritrea break ties: Does the conflict risk becoming regional war?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Claim comes as violence flares across northern Ethiopia, deteriorating diplomatic, humanitarian situations.
+Analysts warn unrest is likely to spill into neighbouring states and could further destabilise war-torn Sudan.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/2/ethiopian-govt-aligned-group-claims-close-to-full-control-of-tigray-region?traffic_source=rss](https://www.aljazeera.com/news/2026/10/2/ethiopian-govt-aligned-group-claims-close-to-full-control-of-tigray-region?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/2/ethiopia-eritrea-break-ties-does-the-conflict-risk-becoming-regional-war?traffic_source=rss](https://www.aljazeera.com/news/2026/10/2/ethiopia-eritrea-break-ties-does-the-conflict-risk-becoming-regional-war?traffic_source=rss)
 
 ---
 

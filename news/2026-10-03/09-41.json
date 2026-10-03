@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-10-03T09:41:27+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Widdecombe suspect charged with planning terror act against Farage",
+            "description": "Counter terror police say the further charge comes after a \"hugely intensive and complex investigation\".",
+            "url": "https://www.bbc.co.uk/news/articles/cv1j3lgrl6gko?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 02 Oct 2026 21:32:25 GMT",
+            "fetched": "2026-10-03T09:41:27+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
+            "description": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
+            "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 03 Oct 2026 04:38:31 GMT",
+            "fetched": "2026-10-03T09:41:27+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Men charged over alleged plot to target Manchester Jewish community",
+            "description": "The pair were arrested in the Northern Quarter area of the city on the eve of Yom Kippur.",
+            "url": "https://www.bbc.co.uk/news/articles/cqx29nke55kno?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 02 Oct 2026 21:38:05 GMT",
+            "fetched": "2026-10-03T09:41:27+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Gaza voters want jobs and security as Palestinian elections approach",
+            "description": "Ahead of first Palestinian national elections in 20 years, people in Gaza hope to rebuild after Israeli destruction.",
+            "url": "https://www.aljazeera.com/news/2026/10/3/gaza-voters-want-jobs-and-security-as-palestinian-elections-approach?traffic_source=rss",
+            "published": "Sat, 03 Oct 2026 05:39:29 +0000",
+            "fetched": "2026-10-03T09:41:27+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "India vs Pakistan live: Asian Games cricket final",
+            "description": "Our live updates on team news, weather forecast, prediction, toss, score and text commentary from the gold-medal match.",
+            "url": "https://www.aljazeera.com/sports/liveblog/2026/10/3/india-vs-pakistan-live-asian-games-cricket-final?traffic_source=rss",
+            "published": "Sat, 03 Oct 2026 05:35:31 +0000",
+            "fetched": "2026-10-03T09:41:27+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "New claims that Netanyahu rejected Hamas offer to release captives",
+            "description": "Reports are building that Israel rejected a Hamas offer to release all civilian hostages taken on October 7, 2023.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/new-claims-that-netanyahu-rejected-hamas-offer-to-release-captives?traffic_source=rss",
+            "published": "Sat, 03 Oct 2026 04:58:43 +0000",
+            "fetched": "2026-10-03T09:41:27+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Choi-wan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24962",
+            "published": "2026-09-30T12:00:00Z",
+            "fetched": "2026-10-03T09:41:27+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire SAN FRANCISCO 2, Starr, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24964",
+            "published": "2026-09-30T08:56:00Z",
+            "fetched": "2026-10-03T09:41:27+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Hatch Grade, Walla Walla, Washington",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24963",
+            "published": "2026-09-29T19:50:00Z",
+            "fetched": "2026-10-03T09:41:27+03:30"
+        }
+    ]
+}

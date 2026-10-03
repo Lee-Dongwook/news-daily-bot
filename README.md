@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-03 05:37:45
+**Last Update:** 2026-10-03 09:41:27
 
 **Total News:** 9
 
-**Sources:** NASA, BBC, Al Jazeera
+**Sources:** Al Jazeera, BBC, NASA
 
 ---
 
@@ -23,7 +23,7 @@ Counter terror police say the further charge comes after a "hugely intensive and
 
 ---
 
-### 2. G7 to release 100 million barrels of oil and diesel after Trump export ban threat
+### 2. G7 to release millions of barrels of oil and diesel after Trump threat
 
 **Source:** BBC
 
@@ -36,55 +36,55 @@ The co-ordinated release is aimed at heading off further price spikes and avoidi
 
 ---
 
-### 3. Watch: Why has UK diesel price hit an all time high?
+### 3. Men charged over alleged plot to target Manchester Jewish community
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Diesel has now hit an average of £2 a litre in the UK, the RAC motoring group says, with petrol prices also rising.
+The pair were arrested in the Northern Quarter area of the city on the eve of Yom Kippur.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c6m2d3mpm7r8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c6m2d3mpm7r8o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqx29nke55kno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqx29nke55kno?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. Schools ablaze as student protests spread across France
+### 4. Gaza voters want jobs and security as Palestinian elections approach
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Students have set fire to schools and clashed with police as protests spread across France
+Ahead of first Palestinian national elections in 20 years, people in Gaza hope to rebuild after Israeli destruction.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/3/schools-ablaze-as-student-protests-spread-across-france?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/3/schools-ablaze-as-student-protests-spread-across-france?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/3/gaza-voters-want-jobs-and-security-as-palestinian-elections-approach?traffic_source=rss](https://www.aljazeera.com/news/2026/10/3/gaza-voters-want-jobs-and-security-as-palestinian-elections-approach?traffic_source=rss)
 
 ---
 
-### 5. US and Australia suspend diplomatic operations in Brazil before election
+### 5. India vs Pakistan live: Asian Games cricket final
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Security threats prompt US and Australia to suspend diplomatic operations in Brazil before pivotal election day.
+Our live updates on team news, weather forecast, prediction, toss, score and text commentary from the gold-medal match.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/3/us-and-australia-suspend-diplomatic-operations-in-brazil-before-election?traffic_source=rss](https://www.aljazeera.com/news/2026/10/3/us-and-australia-suspend-diplomatic-operations-in-brazil-before-election?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/liveblog/2026/10/3/india-vs-pakistan-live-asian-games-cricket-final?traffic_source=rss](https://www.aljazeera.com/sports/liveblog/2026/10/3/india-vs-pakistan-live-asian-games-cricket-final?traffic_source=rss)
 
 ---
 
-### 6. Iran war live: Fighting intensifies in Yemen, hundreds killed or injured
+### 6. New claims that Netanyahu rejected Hamas offer to release captives
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Fighting intensifies across Yemen as the army says 474 attacks in 24 hours killed or wounded 1,540 Houthi fighters.
+Reports are building that Israel rejected a Hamas offer to release all civilian hostages taken on October 7, 2023.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/10/3/iran-war-live-fighting-intensifies-in-yemen-hundreds-killed-or-injured?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/10/3/iran-war-live-fighting-intensifies-in-yemen-hundreds-killed-or-injured?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/3/new-claims-that-netanyahu-rejected-hamas-offer-to-release-captives?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/3/new-claims-that-netanyahu-rejected-hamas-offer-to-release-captives?traffic_source=rss)
 
 ---
 

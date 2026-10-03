@@ -1,64 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-03 03:45:27
+**Last Update:** 2026-10-03 05:37:45
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** NASA, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Open-sourcing AstaBrief, the fast report-generation model in Asta
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://allenai.org/blog/astabrief">https://allenai.org/blog/astabrief</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49938783">https://news.ycombinator.com/item?id=49938783</a></p>
-<p>Points: 15</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://allenai.org/blog/astabrief](https://allenai.org/blog/astabrief)
-
----
-
-### 2. Every SaaS business will become a harness around a model
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://blog.sshh.io/p/the-harness-is-the-company">https://blog.sshh.io/p/the-harness-is-the-company</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49938616">https://news.ycombinator.com/item?id=49938616</a></p>
-<p>Points: 77</p>
-<p># Comments: 57</p>
-
-🔗 **Read more:** [https://blog.sshh.io/p/the-harness-is-the-company](https://blog.sshh.io/p/the-harness-is-the-company)
-
----
-
-### 3. Zig v0.17.0
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://ziglang.org/download/0.17.0/release-notes.html">https://ziglang.org/download/0.17.0/release-notes.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49938521">https://news.ycombinator.com/item?id=49938521</a></p>
-<p>Points: 191</p>
-<p># Comments: 101</p>
-
-🔗 **Read more:** [https://ziglang.org/download/0.17.0/release-notes.html](https://ziglang.org/download/0.17.0/release-notes.html)
-
----
-
-### 4. Widdecombe suspect charged with planning terror act against Farage
+### 1. Widdecombe suspect charged with planning terror act against Farage
 
 **Source:** BBC
 
@@ -71,20 +23,20 @@ Counter terror police say the further charge comes after a "hugely intensive and
 
 ---
 
-### 5. G7 to release 100 million barrels of oil and diesel after Trump export ban threat
+### 2. G7 to release 100 million barrels of oil and diesel after Trump export ban threat
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The coordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.
+The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Watch: Why has UK diesel price hit an all time high?
+### 3. Watch: Why has UK diesel price hit an all time high?
 
 **Source:** BBC
 
@@ -97,7 +49,33 @@ Diesel has now hit an average of £2 a litre in the UK, the RAC motoring group s
 
 ---
 
-### 7. Iran war live: Fighting intensifies in Yemen, hundreds killed or injured
+### 4. Schools ablaze as student protests spread across France
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Students have set fire to schools and clashed with police as protests spread across France
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/3/schools-ablaze-as-student-protests-spread-across-france?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/3/schools-ablaze-as-student-protests-spread-across-france?traffic_source=rss)
+
+---
+
+### 5. US and Australia suspend diplomatic operations in Brazil before election
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Security threats prompt US and Australia to suspend diplomatic operations in Brazil before pivotal election day.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/3/us-and-australia-suspend-diplomatic-operations-in-brazil-before-election?traffic_source=rss](https://www.aljazeera.com/news/2026/10/3/us-and-australia-suspend-diplomatic-operations-in-brazil-before-election?traffic_source=rss)
+
+---
+
+### 6. Iran war live: Fighting intensifies in Yemen, hundreds killed or injured
 
 **Source:** Al Jazeera
 
@@ -110,33 +88,7 @@ Fighting intensifies across Yemen as the army says 474 attacks in 24 hours kille
 
 ---
 
-### 8. North Korea fires ballistic missile towards the sea, South Korea says
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-A ballistic missile is fired from the North Korean port city of Wonsan, South Korea&#039;s military says.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/2/north-korea-fires-ballistic-missile-towards-the-sea-south-korea-says?traffic_source=rss](https://www.aljazeera.com/news/2026/10/2/north-korea-fires-ballistic-missile-towards-the-sea-south-korea-says?traffic_source=rss)
-
----
-
-### 9. Dutch royal house helped slave trade to survive, study finds
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-In-depth study also says the royal house made huge profits from Dutch colonial policies in past centuries.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/2/dutch-royal-house-helped-slave-trade-to-survive-study-finds?traffic_source=rss](https://www.aljazeera.com/news/2026/10/2/dutch-royal-house-helped-slave-trade-to-survive-study-finds?traffic_source=rss)
-
----
-
-### 10. Typhoon Choi-wan
+### 7. Typhoon Choi-wan
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Severe Storms
 
 ---
 
-### 11. Wildfire SAN FRANCISCO 2, Starr, Texas
+### 8. Wildfire SAN FRANCISCO 2, Starr, Texas
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Wildfire Hatch Grade, Walla Walla, Washington
+### 9. Wildfire Hatch Grade, Walla Walla, Washington
 
 **Source:** NASA
 

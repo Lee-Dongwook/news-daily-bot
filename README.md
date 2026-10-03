@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-04 01:01:26
+**Last Update:** 2026-10-04 03:05:56
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. We want you to build the next Git platform on Cloudflare
+### 1. Big Balls Now Exposed to Serious Criminal Charges in at Least Six States
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.cloudflare.com/next-git-platform-on-cloudflare/">https://blog.cloudflare.com/next-git-platform-on-cloudflare/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49947051">https://news.ycombinator.com/item?id=49947051</a></p>
-<p>Points: 53</p>
-<p># Comments: 38</p>
+<p>Article URL: <a href="https://medium.com/@carmitage/big-balls-now-exposed-to-serious-criminal-charges-in-at-least-six-states-ca865e1d6305">https://medium.com/@carmitage/big-balls-now-exposed-to-serious-criminal-charges-in-at-least-six-states-ca865e1d6305</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49948438">https://news.ycombinator.com/item?id=49948438</a></p>
+<p>Points: 36</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://blog.cloudflare.com/next-git-platform-on-cloudflare/](https://blog.cloudflare.com/next-git-platform-on-cloudflare/)
+🔗 **Read more:** [https://medium.com/@carmitage/big-balls-now-exposed-to-serious-criminal-charges-in-at-least-six-states-ca865e1d6305](https://medium.com/@carmitage/big-balls-now-exposed-to-serious-criminal-charges-in-at-least-six-states-ca865e1d6305)
 
 ---
 
-### 2. Anthropic tried to persuade Pope that AI could be conscious being
+### 2. Writing code by hand is over, forever
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being/">https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49947050">https://news.ycombinator.com/item?id=49947050</a></p>
-<p>Points: 33</p>
-<p># Comments: 36</p>
+<p>Article URL: <a href="https://eliocapella.com/blog/writing-code-by-hand-is-over/">https://eliocapella.com/blog/writing-code-by-hand-is-over/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49948364">https://news.ycombinator.com/item?id=49948364</a></p>
+<p>Points: 12</p>
+<p># Comments: 9</p>
 
-🔗 **Read more:** [https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being/](https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being/)
+🔗 **Read more:** [https://eliocapella.com/blog/writing-code-by-hand-is-over/](https://eliocapella.com/blog/writing-code-by-hand-is-over/)
 
 ---
 
-### 3. Our AI Midwife
+### 3. OpenAI safety leader quits, warning AI company's culture is 'broken'
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.astralcodexten.com/p/our-ai-midwife">https://www.astralcodexten.com/p/our-ai-midwife</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49946873">https://news.ycombinator.com/item?id=49946873</a></p>
-<p>Points: 46</p>
-<p># Comments: 20</p>
+<p>Article URL: <a href="https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken">https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49948332">https://news.ycombinator.com/item?id=49948332</a></p>
+<p>Points: 36</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://www.astralcodexten.com/p/our-ai-midwife](https://www.astralcodexten.com/p/our-ai-midwife)
+🔗 **Read more:** [https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken](https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken)
 
 ---
 
@@ -97,42 +97,42 @@ The 25-year-old man was arrested in the London borough of Westminster on Thursda
 
 ---
 
-### 7. Fernandes denies Portugal rift, hails Ronaldo after walk out
+### 7. Air ambulance missing on flight from Bermuda to Boston
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Bruno Fernandes says he has spoken to Cristiano Ronaldo and denies a rift within Portugal’s squad.
+The US coastguard says it has dispatched air and surface crews to search for the plane near Nantucket.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/3/fernandes-denies-portugal-rift-hails-ronaldo-after-walk-out?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/3/fernandes-denies-portugal-rift-hails-ronaldo-after-walk-out?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/3/air-ambulance-missing-on-flight-from-bermuda-to-boston?traffic_source=rss](https://www.aljazeera.com/news/2026/10/3/air-ambulance-missing-on-flight-from-bermuda-to-boston?traffic_source=rss)
 
 ---
 
-### 8. Trump ramps up pressure on US Republicans to end US clock switching
+### 8. Pelosi-backed US candidate calls for ‘full arms embargo’ on Israel
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The US president published a lawmaker&#039;s cell phone number as he called for the passage of a bill making DST permanent.
+Connie Chan, endorsed by Nancy Pelosi to succeed her in California, says she will vote to &#039;end a genocide in Gaza&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/3/trump-ramps-up-pressure-on-us-republicans-to-end-us-clock-switching?traffic_source=rss](https://www.aljazeera.com/news/2026/10/3/trump-ramps-up-pressure-on-us-republicans-to-end-us-clock-switching?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/3/pelosi-backed-us-candidate-calls-for-full-arms-embargo-on-israel?traffic_source=rss](https://www.aljazeera.com/news/2026/10/3/pelosi-backed-us-candidate-calls-for-full-arms-embargo-on-israel?traffic_source=rss)
 
 ---
 
-### 9. Funeral held at Gaza church for mother and daughter killed in Gaza strike
+### 9. Israeli settlers attack Palestinian farmers during olive harvest
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Funeral prayers were held at Gaza City’s Saint Porphyrius Greek Orthodox Church for a Palestinian mother and daughter.
+Israeli settlers attack Palestinian farmers during olive harvest
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/3/funeral-held-at-gaza-church-for-mother-and-daughter-killed-in-gaza-strike?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/3/funeral-held-at-gaza-church-for-mother-and-daughter-killed-in-gaza-strike?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/2026/10/3/israeli-settlers-attack-palestinian-farmers-during-olive-harvest-2?traffic_source=rss](https://www.aljazeera.com/video/2026/10/3/israeli-settlers-attack-palestinian-farmers-during-olive-harvest-2?traffic_source=rss)
 
 ---
 

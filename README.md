@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-04 00:16:04
+**Last Update:** 2026-10-04 01:01:26
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://blog.cloudflare.com/next-git-platform-on-cloudflare/">https://blog.cloudflare.com/next-git-platform-on-cloudflare/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49947051">https://news.ycombinator.com/item?id=49947051</a></p>
-<p>Points: 15</p>
-<p># Comments: 17</p>
+<p>Points: 53</p>
+<p># Comments: 38</p>
 
 🔗 **Read more:** [https://blog.cloudflare.com/next-git-platform-on-cloudflare/](https://blog.cloudflare.com/next-git-platform-on-cloudflare/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being/">https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49947050">https://news.ycombinator.com/item?id=49947050</a></p>
-<p>Points: 15</p>
-<p># Comments: 9</p>
+<p>Points: 33</p>
+<p># Comments: 36</p>
 
 🔗 **Read more:** [https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being/](https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.astralcodexten.com/p/our-ai-midwife">https://www.astralcodexten.com/p/our-ai-midwife</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49946873">https://news.ycombinator.com/item?id=49946873</a></p>
-<p>Points: 25</p>
-<p># Comments: 1</p>
+<p>Points: 46</p>
+<p># Comments: 20</p>
 
 🔗 **Read more:** [https://www.astralcodexten.com/p/our-ai-midwife](https://www.astralcodexten.com/p/our-ai-midwife)
 
@@ -71,7 +71,20 @@ The man accused of trying to take over the Israel-bound jet is named as Hamam al
 
 ---
 
-### 5. UK-Iranian dual national arrested over RAF Fairford released on bail
+### 5. Tories pledge to scrap £100,000 childcare 'cliff edge'
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Party leader Kemi Badenoch tells the BBC that she wants to see "people who work harder" not getting punished for doing so.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmn06l362ypeo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmn06l362ypeo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. UK-Iranian dual national arrested over RAF Fairford released on bail
 
 **Source:** BBC
 
@@ -84,20 +97,20 @@ The 25-year-old man was arrested in the London borough of Westminster on Thursda
 
 ---
 
-### 6. Tennessee prison chief to resign after Christa Pike's failed execution
+### 7. Fernandes denies Portugal rift, hails Ronaldo after walk out
 
-**Source:** BBC
+**Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Pike's lawyers said the failure "goes far beyond any one person". Pike is in critical condition after surviving two lethal injections.
+Bruno Fernandes says he has spoken to Cristiano Ronaldo and denies a rift within Portugal’s squad.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/3/fernandes-denies-portugal-rift-hails-ronaldo-after-walk-out?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/3/fernandes-denies-portugal-rift-hails-ronaldo-after-walk-out?traffic_source=rss)
 
 ---
 
-### 7. Trump ramps up pressure on US Republicans to end US clock switching
+### 8. Trump ramps up pressure on US Republicans to end US clock switching
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ The US president published a lawmaker&#039;s cell phone number as he called for 
 
 ---
 
-### 8. Funeral held at Gaza church for mother and daughter killed in Gaza strike
+### 9. Funeral held at Gaza church for mother and daughter killed in Gaza strike
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ The US president published a lawmaker&#039;s cell phone number as he called for 
 Funeral prayers were held at Gaza City’s Saint Porphyrius Greek Orthodox Church for a Palestinian mother and daughter.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/3/funeral-held-at-gaza-church-for-mother-and-daughter-killed-in-gaza-strike?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/3/funeral-held-at-gaza-church-for-mother-and-daughter-killed-in-gaza-strike?traffic_source=rss)
-
----
-
-### 9. Remains of Bulgaria’s Czar Samuel return ‘home’ after 1,000 years
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The emperor is a symbol of Bulgarian national identity whose repatriation stoked tensions with Greece.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/3/remains-of-bulgarias-czar-samuel-return-home-after-1000-years?traffic_source=rss](https://www.aljazeera.com/news/2026/10/3/remains-of-bulgarias-czar-samuel-return-home-after-1000-years?traffic_source=rss)
 
 ---
 

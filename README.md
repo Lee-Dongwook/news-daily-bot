@@ -1,16 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-03 09:41:27
+**Last Update:** 2026-10-03 11:51:09
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Widdecombe suspect charged with planning terror act against Farage
+### 1. Understanding Frontier Artificial Intelligence
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://casp.ac/reports/intelligence-explosion">https://casp.ac/reports/intelligence-explosion</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49942002">https://news.ycombinator.com/item?id=49942002</a></p>
+<p>Points: 13</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://casp.ac/reports/intelligence-explosion](https://casp.ac/reports/intelligence-explosion)
+
+---
+
+### 2. An Update on Orion for Linux and Windows
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://blog.kagi.com/update-orion-linux-windows">https://blog.kagi.com/update-orion-linux-windows</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49941447">https://news.ycombinator.com/item?id=49941447</a></p>
+<p>Points: 28</p>
+<p># Comments: 10</p>
+
+🔗 **Read more:** [https://blog.kagi.com/update-orion-linux-windows](https://blog.kagi.com/update-orion-linux-windows)
+
+---
+
+### 3. Extra Big Ass Intelligence
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.extrabigassintelligence.com/">https://www.extrabigassintelligence.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49941114">https://news.ycombinator.com/item?id=49941114</a></p>
+<p>Points: 232</p>
+<p># Comments: 50</p>
+
+🔗 **Read more:** [https://www.extrabigassintelligence.com/](https://www.extrabigassintelligence.com/)
+
+---
+
+### 4. Widdecombe suspect charged with planning terror act against Farage
 
 **Source:** BBC
 
@@ -23,72 +71,72 @@ Counter terror police say the further charge comes after a "hugely intensive and
 
 ---
 
-### 2. G7 to release millions of barrels of oil and diesel after Trump threat
+### 5. Flydubai co-pilot attacked captain with axe, UAE official says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.
+The flydubai plane plunged more than 17,000ft two and a half hours into its journey before passengers and crew overpowered the attacker.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 3. Men charged over alleged plot to target Manchester Jewish community
+### 6. Russia strikes second major bridge in Kyiv, mayor says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The pair were arrested in the Northern Quarter area of the city on the eve of Yom Kippur.
+The strike on Northern Bridge comes after repeat attacks on another major bridge in recent days.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqx29nke55kno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqx29nke55kno?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. Gaza voters want jobs and security as Palestinian elections approach
+### 7. Man City whistleblower Pinto to lose witness protection amid death threats
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ahead of first Palestinian national elections in 20 years, people in Gaza hope to rebuild after Israeli destruction.
+Pinto says he will go into hiding for an indefinite period following the Premier League&#039;s guilty verdict against City.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/3/gaza-voters-want-jobs-and-security-as-palestinian-elections-approach?traffic_source=rss](https://www.aljazeera.com/news/2026/10/3/gaza-voters-want-jobs-and-security-as-palestinian-elections-approach?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/3/man-city-whistleblower-pinto-to-lose-witness-protection-amid-death-threats?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/3/man-city-whistleblower-pinto-to-lose-witness-protection-amid-death-threats?traffic_source=rss)
 
 ---
 
-### 5. India vs Pakistan live: Asian Games cricket final
+### 8. Bosnian Serb leader says Bosnia is ‘dead’ ahead of election
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Our live updates on team news, weather forecast, prediction, toss, score and text commentary from the gold-medal match.
+Bosnian Serb leader Milorad Dodik says Bosnia and Herzegovina is ‘dead’ at a final campaign rally ahead of elections.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/liveblog/2026/10/3/india-vs-pakistan-live-asian-games-cricket-final?traffic_source=rss](https://www.aljazeera.com/sports/liveblog/2026/10/3/india-vs-pakistan-live-asian-games-cricket-final?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/3/bosnian-serb-leader-says-bosnia-is-dead-ahead-of-election?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/3/bosnian-serb-leader-says-bosnia-is-dead-ahead-of-election?traffic_source=rss)
 
 ---
 
-### 6. New claims that Netanyahu rejected Hamas offer to release captives
+### 9. Israeli air attack on residential apartment in Gaza kills 5 Palestinians
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Reports are building that Israel rejected a Hamas offer to release all civilian hostages taken on October 7, 2023.
+An Israeli air attack on a residential apartment in Gaza City has killed at least five Palestinians.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/3/new-claims-that-netanyahu-rejected-hamas-offer-to-release-captives?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/3/new-claims-that-netanyahu-rejected-hamas-offer-to-release-captives?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/3/israeli-air-attack-on-residential-apartment-in-gaza-kills-5-palestinians?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/3/israeli-air-attack-on-residential-apartment-in-gaza-kills-5-palestinians?traffic_source=rss)
 
 ---
 
-### 7. Typhoon Choi-wan
+### 10. Typhoon Choi-wan
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Severe Storms
 
 ---
 
-### 8. Wildfire SAN FRANCISCO 2, Starr, Texas
+### 11. Wildfire SAN FRANCISCO 2, Starr, Texas
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Wildfires
 
 ---
 
-### 9. Wildfire Hatch Grade, Walla Walla, Washington
+### 12. Wildfire Hatch Grade, Walla Walla, Washington
 
 **Source:** NASA
 

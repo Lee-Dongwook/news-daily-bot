@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-03 21:32:35
+**Last Update:** 2026-10-04 00:16:04
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. RetailReady (YC W24) Is Hiring
+### 1. We want you to build the next Git platform on Cloudflare
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations">https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49945904">https://news.ycombinator.com/item?id=49945904</a></p>
-<p>Points: 0</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://blog.cloudflare.com/next-git-platform-on-cloudflare/">https://blog.cloudflare.com/next-git-platform-on-cloudflare/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49947051">https://news.ycombinator.com/item?id=49947051</a></p>
+<p>Points: 15</p>
+<p># Comments: 17</p>
 
-🔗 **Read more:** [https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations](https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations)
+🔗 **Read more:** [https://blog.cloudflare.com/next-git-platform-on-cloudflare/](https://blog.cloudflare.com/next-git-platform-on-cloudflare/)
 
 ---
 
-### 2. City building games have a Soul Problem pt.2
+### 2. Anthropic tried to persuade Pope that AI could be conscious being
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.radical-elements.com/minor-epiphanies/city-building-games-have-a-soul-problem-pt2">https://www.radical-elements.com/minor-epiphanies/city-building-games-have-a-soul-problem-pt2</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49945323">https://news.ycombinator.com/item?id=49945323</a></p>
-<p>Points: 77</p>
-<p># Comments: 68</p>
+<p>Article URL: <a href="https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being/">https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49947050">https://news.ycombinator.com/item?id=49947050</a></p>
+<p>Points: 15</p>
+<p># Comments: 9</p>
 
-🔗 **Read more:** [https://www.radical-elements.com/minor-epiphanies/city-building-games-have-a-soul-problem-pt2](https://www.radical-elements.com/minor-epiphanies/city-building-games-have-a-soul-problem-pt2)
+🔗 **Read more:** [https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being/](https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being/)
 
 ---
 
-### 3. FTL: A new operating system for clouds
+### 3. Our AI Midwife
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://ftl-os.org/">https://ftl-os.org/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49944912">https://news.ycombinator.com/item?id=49944912</a></p>
-<p>Points: 62</p>
-<p># Comments: 23</p>
+<p>Article URL: <a href="https://www.astralcodexten.com/p/our-ai-midwife">https://www.astralcodexten.com/p/our-ai-midwife</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49946873">https://news.ycombinator.com/item?id=49946873</a></p>
+<p>Points: 25</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://ftl-os.org/](https://ftl-os.org/)
+🔗 **Read more:** [https://www.astralcodexten.com/p/our-ai-midwife](https://www.astralcodexten.com/p/our-ai-midwife)
 
 ---
 
@@ -84,55 +84,55 @@ The 25-year-old man was arrested in the London borough of Westminster on Thursda
 
 ---
 
-### 6. Kemi Badenoch has cemented her image. Now she wants to put her party back on the big stage
+### 6. Tennessee prison chief to resign after Christa Pike's failed execution
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The Conservative leader is expected to set out a return to core conservative principles at the party’s annual conference.
+Pike's lawyers said the failure "goes far beyond any one person". Pike is in critical condition after surviving two lethal injections.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmn8e887716vo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmn8e887716vo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Tennessee prisons official resigns after Christa Pike’s failed US execution
+### 7. Trump ramps up pressure on US Republicans to end US clock switching
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The state&#039;s governor said Frank Strada would step down as an independent review examines what went wrong.
+The US president published a lawmaker&#039;s cell phone number as he called for the passage of a bill making DST permanent.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/3/tennessee-prisons-official-resigns-after-christa-pikes-failed-us-execution?traffic_source=rss](https://www.aljazeera.com/news/2026/10/3/tennessee-prisons-official-resigns-after-christa-pikes-failed-us-execution?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/3/trump-ramps-up-pressure-on-us-republicans-to-end-us-clock-switching?traffic_source=rss](https://www.aljazeera.com/news/2026/10/3/trump-ramps-up-pressure-on-us-republicans-to-end-us-clock-switching?traffic_source=rss)
 
 ---
 
-### 8. Israeli reporter’s ‘verbal attack’ ends Ireland football news conference
+### 8. Funeral held at Gaza church for mother and daughter killed in Gaza strike
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli journalists asked coach Hallgrimsson about the Flydubai attack and alleged racist abuse by Ireland&#039;s players.
+Funeral prayers were held at Gaza City’s Saint Porphyrius Greek Orthodox Church for a Palestinian mother and daughter.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/3/israeli-reporters-verbal-attack-ends-ireland-football-news-conference?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/3/israeli-reporters-verbal-attack-ends-ireland-football-news-conference?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/3/funeral-held-at-gaza-church-for-mother-and-daughter-killed-in-gaza-strike?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/3/funeral-held-at-gaza-church-for-mother-and-daughter-killed-in-gaza-strike?traffic_source=rss)
 
 ---
 
-### 9. Somalia won’t accept Israeli presence ‘under any circumstances’: President
+### 9. Remains of Bulgaria’s Czar Samuel return ‘home’ after 1,000 years
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-In exclusive Al Jazeera interview, President Hassan Sheikh Mohamud says Israel planning a naval base in Berbera.
+The emperor is a symbol of Bulgarian national identity whose repatriation stoked tensions with Greece.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/3/somalia-wont-accept-israeli-presence-under-any-circumstances-president?traffic_source=rss](https://www.aljazeera.com/news/2026/10/3/somalia-wont-accept-israeli-presence-under-any-circumstances-president?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/3/remains-of-bulgarias-czar-samuel-return-home-after-1000-years?traffic_source=rss](https://www.aljazeera.com/news/2026/10/3/remains-of-bulgarias-czar-samuel-return-home-after-1000-years?traffic_source=rss)
 
 ---
 

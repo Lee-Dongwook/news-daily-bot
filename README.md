@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-03 15:49:41
+**Last Update:** 2026-10-03 17:02:58
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
@@ -26,35 +26,35 @@
 
 ---
 
-### 2. GitHub's new dashboard experience now the default
+### 2. The Escalation of War in Ethiopia
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default/">https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49942818">https://news.ycombinator.com/item?id=49942818</a></p>
-<p>Points: 29</p>
-<p># Comments: 35</p>
+<p>Article URL: <a href="https://www.africanistperspective.com/p/on-the-escalation-of-war-in-ethiopia">https://www.africanistperspective.com/p/on-the-escalation-of-war-in-ethiopia</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49943451">https://news.ycombinator.com/item?id=49943451</a></p>
+<p>Points: 20</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default/](https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default/)
+🔗 **Read more:** [https://www.africanistperspective.com/p/on-the-escalation-of-war-in-ethiopia](https://www.africanistperspective.com/p/on-the-escalation-of-war-in-ethiopia)
 
 ---
 
-### 3. Gemini ending free use of Flash and Pro models
+### 3. Show HN: Germany's new sovereign AI model Kolibri
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.reddit.com/r/GeminiAI/comments/1wwalmc/wtf_google_getting_rid_of_free_gemini_flash_and/">https://www.reddit.com/r/GeminiAI/comments/1wwalmc/wtf_google_getting_rid_of_free_gemini_flash_and/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49942592">https://news.ycombinator.com/item?id=49942592</a></p>
-<p>Points: 34</p>
-<p># Comments: 25</p>
+<p>Article URL: <a href="https://tej.as/blog/aleph-alpha-kolibri">https://tej.as/blog/aleph-alpha-kolibri</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49943034">https://news.ycombinator.com/item?id=49943034</a></p>
+<p>Points: 59</p>
+<p># Comments: 20</p>
 
-🔗 **Read more:** [https://www.reddit.com/r/GeminiAI/comments/1wwalmc/wtf_google_getting_rid_of_free_gemini_flash_and/](https://www.reddit.com/r/GeminiAI/comments/1wwalmc/wtf_google_getting_rid_of_free_gemini_flash_and/)
+🔗 **Read more:** [https://tej.as/blog/aleph-alpha-kolibri](https://tej.as/blog/aleph-alpha-kolibri)
 
 ---
 
@@ -97,42 +97,42 @@ The Conservative leader is expected to set out a return to core conservative pri
 
 ---
 
-### 7. The double standards of a failed execution
+### 7. LIVE: Croatia vs England – UEFA Nations League
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Had Christa Pike faced the death penalty in the Middle East, there would be relentless outrage and condemnations.
+Follow the updates, with build-up, predictions, team news and full match coverage, from our live text commentary stream.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/10/3/the-double-standards-of-a-failed-execution?traffic_source=rss](https://www.aljazeera.com/opinions/2026/10/3/the-double-standards-of-a-failed-execution?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/liveblog/2026/10/3/live-croatia-vs-england-uefa-nations-league?traffic_source=rss](https://www.aljazeera.com/sports/liveblog/2026/10/3/live-croatia-vs-england-uefa-nations-league?traffic_source=rss)
 
 ---
 
-### 8. Ethiopia’s government forces retake airport from Tigray rebels in Mekelle
+### 8. Ethiopian gov’t forces advance in Tigray as rebels retreat: What to know
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The rebels have been seen leaving the capital of the northern Tigray region, according to local sources.
+Military, pro-government forces recapture airport in Tigray&#039;s capital as fighting also rages in Amhara and Afar regions.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/3/rebels-pulling-back-as-addis-ababas-forces-advance-reports-say?traffic_source=rss](https://www.aljazeera.com/news/2026/10/3/rebels-pulling-back-as-addis-ababas-forces-advance-reports-say?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/3/ethiopian-govt-forces-advance-in-tigray-as-rebels-retreat-what-to-know?traffic_source=rss](https://www.aljazeera.com/news/2026/10/3/ethiopian-govt-forces-advance-in-tigray-as-rebels-retreat-what-to-know?traffic_source=rss)
 
 ---
 
-### 9. Palestinians gather for football amid Gaza’s ruins
+### 9. French high school engulfed in flames as student protests continue
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Displaced Palestinians gathered to watch a friendly football match in Gaza’s Khan Younis.
+A French high school in Metz went up in flames as student protests over school conditions spread across the country.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/3/palestinians-gather-for-football-amid-gazas-ruins?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/3/palestinians-gather-for-football-amid-gazas-ruins?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/3/french-high-school-engulfed-in-flames-as-student-protests-continue?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/3/french-high-school-engulfed-in-flames-as-student-protests-continue?traffic_source=rss)
 
 ---
 

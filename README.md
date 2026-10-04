@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-04 20:08:46
+**Last Update:** 2026-10-04 22:11:35
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Caffè Corretto
+### 1. Show HN: Dataviz, ranked daily from GitHub, NPM, PyPI and CRAN
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://en.wikipedia.org/wiki/Caff%C3%A8_corretto">https://en.wikipedia.org/wiki/Caff%C3%A8_corretto</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49955232">https://news.ycombinator.com/item?id=49955232</a></p>
-<p>Points: 4</p>
+<p>Article URL: <a href="https://awesomedataviz.com/">https://awesomedataviz.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49956183">https://news.ycombinator.com/item?id=49956183</a></p>
+<p>Points: 7</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://awesomedataviz.com/](https://awesomedataviz.com/)
+
+---
+
+### 2. Building a RAG Pipeline for Semantic Code Search
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://blog.jetbrains.com/ai/2026/09/building-a-rag-pipeline-for-semantic-code-search-a-developer-diary-and-field-notes/">https://blog.jetbrains.com/ai/2026/09/building-a-rag-pipeline-for-semantic-code-search-a-developer-diary-and-field-notes/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49956148">https://news.ycombinator.com/item?id=49956148</a></p>
+<p>Points: 11</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://en.wikipedia.org/wiki/Caff%C3%A8_corretto](https://en.wikipedia.org/wiki/Caff%C3%A8_corretto)
+🔗 **Read more:** [https://blog.jetbrains.com/ai/2026/09/building-a-rag-pipeline-for-semantic-code-search-a-developer-diary-and-field-notes/](https://blog.jetbrains.com/ai/2026/09/building-a-rag-pipeline-for-semantic-code-search-a-developer-diary-and-field-notes/)
 
 ---
 
-### 2. Car is a smartphone on wheels. Here's who's listening
+### 3. Blindsight (Watts Novel)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://automatictransmission.khoury.northeastern.edu/">https://automatictransmission.khoury.northeastern.edu/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49954882">https://news.ycombinator.com/item?id=49954882</a></p>
-<p>Points: 55</p>
-<p># Comments: 19</p>
+<p>Article URL: <a href="https://en.wikipedia.org/wiki/Blindsight_(Watts_novel)">https://en.wikipedia.org/wiki/Blindsight_(Watts_novel)</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49955297">https://news.ycombinator.com/item?id=49955297</a></p>
+<p>Points: 40</p>
+<p># Comments: 26</p>
 
-🔗 **Read more:** [https://automatictransmission.khoury.northeastern.edu/](https://automatictransmission.khoury.northeastern.edu/)
-
----
-
-### 3. RuneScape's Position on Gen AI
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.reddit.com/r/2007scape/comments/1wxfyzp/runescapes_position_on_gen_ai/">https://www.reddit.com/r/2007scape/comments/1wxfyzp/runescapes_position_on_gen_ai/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49954745">https://news.ycombinator.com/item?id=49954745</a></p>
-<p>Points: 10</p>
-<p># Comments: 14</p>
-
-🔗 **Read more:** [https://www.reddit.com/r/2007scape/comments/1wxfyzp/runescapes_position_on_gen_ai/](https://www.reddit.com/r/2007scape/comments/1wxfyzp/runescapes_position_on_gen_ai/)
+🔗 **Read more:** [https://en.wikipedia.org/wiki/Blindsight_(Watts_novel)](https://en.wikipedia.org/wiki/Blindsight_(Watts_novel))
 
 ---
 
@@ -97,42 +97,42 @@ BBC Ukraine correspondent Dan Johnson is near Kyiv's Northern Bridge, which has 
 
 ---
 
-### 7. Three years of genocide in Gaza through one man’s camera
+### 7. Ku Klux Klan leader claims rising support ahead of US midterm elections
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-For almost three years, Ibrahim Rabaa has filmed fragments of his life through Israel’s genocide in Gaza.
+The Ku Klux Klan says support for its message is growing as it seeks to rebrand around family and faith.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/4/three-years-of-genocide-in-gaza-through-one-mans-camera?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/4/three-years-of-genocide-in-gaza-through-one-mans-camera?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/4/ku-klux-klan-leader-claims-rising-support-ahead-of-us-midterm-elections?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/4/ku-klux-klan-leader-claims-rising-support-ahead-of-us-midterm-elections?traffic_source=rss)
 
 ---
 
-### 8. Jerusalem Daily: Israeli forces arrest school children during raid
+### 8. Police investigating Flydubai co-pilot’s Australia ties
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Jerusalem Daily: Israeli forces arrest school children during raid
+Australian police and intelligence join the list of those probing the incident.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/4/jerusalem-daily-israeli-forces-arrest-school-children-during-raid?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/4/jerusalem-daily-israeli-forces-arrest-school-children-during-raid?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/4/police-investigating-flydubai-co-pilots-australia-ties?traffic_source=rss](https://www.aljazeera.com/news/2026/10/4/police-investigating-flydubai-co-pilots-australia-ties?traffic_source=rss)
 
 ---
 
-### 9. Philippines arrests 244 suspects in online scam crackdown
+### 9. Ukraine ready for US-backed talks with Russia: Zelenskyy
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Criminals accused of using Philippine offshore gaming operators (POGOs) as cover for human trafficking, fraud, murder.
+Trilateral talks could happen this month in UAE or another US-proposed venue, says the president.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/4/philippines-arrests-244-suspects-in-online-scam-crackdown?traffic_source=rss](https://www.aljazeera.com/news/2026/10/4/philippines-arrests-244-suspects-in-online-scam-crackdown?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/4/ukraine-ready-for-us-backed-talks-with-russia-zelenskyy?traffic_source=rss](https://www.aljazeera.com/news/2026/10/4/ukraine-ready-for-us-backed-talks-with-russia-zelenskyy?traffic_source=rss)
 
 ---
 

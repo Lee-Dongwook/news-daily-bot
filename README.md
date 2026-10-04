@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-05 01:53:10
+**Last Update:** 2026-10-05 02:25:40
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Homa: The end of TCP for AI clusters [video]
+### 1. AI doesn't need 'superintelligence' or evil intent to start a nuclear war
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://thebulletin.org/2026/10/ai-doesnt-need-superintelligence-or-evil-intent-to-start-a-nuclear-war/">https://thebulletin.org/2026/10/ai-doesnt-need-superintelligence-or-evil-intent-to-start-a-nuclear-war/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49958358">https://news.ycombinator.com/item?id=49958358</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://thebulletin.org/2026/10/ai-doesnt-need-superintelligence-or-evil-intent-to-start-a-nuclear-war/](https://thebulletin.org/2026/10/ai-doesnt-need-superintelligence-or-evil-intent-to-start-a-nuclear-war/)
+
+---
+
+### 2. Homa: The end of TCP for AI clusters [video]
 
 **Source:** Hacker News
 
@@ -21,14 +37,14 @@
 <a href="https://www.usenix.org/system/files/atc21-ousterhout.pdf" rel="nofollow">https://www.usenix.org/system/files/atc21-ousterhout.pdf</a><p>Related: <a href="https://lwn.net/Articles/1003059/" rel="nofollow">https://lwn.net/Articles/1003059/</a>, <a href="https://www.theregister.com/networks/2026/10/01/stanford-prof-is-beating-the-drum-for-a-new-protocol-to-replace-tcp/5300629" rel="nofollow">https://www.theregister.com/networks/2026/10/01/stanford-pro...</a></p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49957117">https://news.ycombinator.com/item?id=49957117</a></p>
-<p>Points: 34</p>
-<p># Comments: 5</p>
+<p>Points: 39</p>
+<p># Comments: 7</p>
 
 🔗 **Read more:** [https://www.youtube.com/watch?v=eZ8WWZzoaR0](https://www.youtube.com/watch?v=eZ8WWZzoaR0)
 
 ---
 
-### 2. Turn off Apple Intelligence on macOS 27 and get its disk space back
+### 3. Turn off Apple Intelligence on macOS 27 and get its disk space back
 
 **Source:** Hacker News
 
@@ -37,26 +53,10 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/omlahore/RemoveMacAI">https://github.com/omlahore/RemoveMacAI</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49957116">https://news.ycombinator.com/item?id=49957116</a></p>
-<p>Points: 200</p>
-<p># Comments: 109</p>
+<p>Points: 242</p>
+<p># Comments: 137</p>
 
 🔗 **Read more:** [https://github.com/omlahore/RemoveMacAI](https://github.com/omlahore/RemoveMacAI)
-
----
-
-### 3. Improper redaction reveals Google Data Center water and electricity usage
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/">https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49957068">https://news.ycombinator.com/item?id=49957068</a></p>
-<p>Points: 132</p>
-<p># Comments: 170</p>
-
-🔗 **Read more:** [https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/](https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/)
 
 ---
 

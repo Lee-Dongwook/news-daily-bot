@@ -1,73 +1,73 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-04 18:23:32
+**Last Update:** 2026-10-04 20:08:46
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s
+### 1. Caffè Corretto
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/Niko1221/Strata">https://github.com/Niko1221/Strata</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49953495">https://news.ycombinator.com/item?id=49953495</a></p>
-<p>Points: 144</p>
-<p># Comments: 54</p>
+<p>Article URL: <a href="https://en.wikipedia.org/wiki/Caff%C3%A8_corretto">https://en.wikipedia.org/wiki/Caff%C3%A8_corretto</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49955232">https://news.ycombinator.com/item?id=49955232</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://github.com/Niko1221/Strata](https://github.com/Niko1221/Strata)
+🔗 **Read more:** [https://en.wikipedia.org/wiki/Caff%C3%A8_corretto](https://en.wikipedia.org/wiki/Caff%C3%A8_corretto)
 
 ---
 
-### 2. Rejection Sensitivity in Gifted and Twice-Exceptional Children
+### 2. Car is a smartphone on wheels. Here's who's listening
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://teachyourkids.substack.com/p/rejection-sensitivity-in-gifted-and">https://teachyourkids.substack.com/p/rejection-sensitivity-in-gifted-and</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49953116">https://news.ycombinator.com/item?id=49953116</a></p>
-<p>Points: 57</p>
-<p># Comments: 20</p>
+<p>Article URL: <a href="https://automatictransmission.khoury.northeastern.edu/">https://automatictransmission.khoury.northeastern.edu/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49954882">https://news.ycombinator.com/item?id=49954882</a></p>
+<p>Points: 55</p>
+<p># Comments: 19</p>
 
-🔗 **Read more:** [https://teachyourkids.substack.com/p/rejection-sensitivity-in-gifted-and](https://teachyourkids.substack.com/p/rejection-sensitivity-in-gifted-and)
+🔗 **Read more:** [https://automatictransmission.khoury.northeastern.edu/](https://automatictransmission.khoury.northeastern.edu/)
 
 ---
 
-### 3. Show HN: AI search for every photo and every frame of video on macOS
+### 3. RuneScape's Position on Gen AI
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/allenv0/SCM">https://github.com/allenv0/SCM</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49952111">https://news.ycombinator.com/item?id=49952111</a></p>
-<p>Points: 39</p>
-<p># Comments: 24</p>
+<p>Article URL: <a href="https://www.reddit.com/r/2007scape/comments/1wxfyzp/runescapes_position_on_gen_ai/">https://www.reddit.com/r/2007scape/comments/1wxfyzp/runescapes_position_on_gen_ai/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49954745">https://news.ycombinator.com/item?id=49954745</a></p>
+<p>Points: 10</p>
+<p># Comments: 14</p>
 
-🔗 **Read more:** [https://github.com/allenv0/SCM](https://github.com/allenv0/SCM)
+🔗 **Read more:** [https://www.reddit.com/r/2007scape/comments/1wxfyzp/runescapes_position_on_gen_ai/](https://www.reddit.com/r/2007scape/comments/1wxfyzp/runescapes_position_on_gen_ai/)
 
 ---
 
-### 4. Courts backlog will fall despite scrapping of jury trial plan, minister says
+### 4. Green Party members back 'Zionism is racism' motion
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Speaking to the BBC, the justice secretary vows to reduce delays in the system after scrapping plans from the previous government.
+The vote has caused divisions among figures at the top of the party at its conference in Brighton.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crq5nd9dgz68o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crq5nd9dgz68o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6jdm5n1vy7go?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6jdm5n1vy7go?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -84,55 +84,55 @@ The Tory leader seeks to echo Margaret Thatcher as she sets out her guiding poli
 
 ---
 
-### 6. Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit
+### 6. Watch: What we know about Russian strikes on Kyiv bridges
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Footage shows a drone hitting the Pivnichyi (Northern) Bridge as vehicles move across it, creating a large fireball.
+BBC Ukraine correspondent Dan Johnson is near Kyiv's Northern Bridge, which has been hit for the second day in a row.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Dodik declared Bosnia ‘dead’. Irrelevant rhetoric or serious threat?
+### 7. Three years of genocide in Gaza through one man’s camera
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Bosnian Serb leader&#039;s controversial comments ahead of Bosnia and Herzegovina&#039;s high-stakes elections.
+For almost three years, Ibrahim Rabaa has filmed fragments of his life through Israel’s genocide in Gaza.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/4/dodik-declared-bosnia-dead-irrelevant-rhetoric-or-serious-threat?traffic_source=rss](https://www.aljazeera.com/news/2026/10/4/dodik-declared-bosnia-dead-irrelevant-rhetoric-or-serious-threat?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/4/three-years-of-genocide-in-gaza-through-one-mans-camera?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/4/three-years-of-genocide-in-gaza-through-one-mans-camera?traffic_source=rss)
 
 ---
 
-### 8. How was Flydubai co-pilot cleared despite being deemed a security risk?
+### 8. Jerusalem Daily: Israeli forces arrest school children during raid
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Aviation security protocols under scrutiny after co-pilot accused of attempted axe attack aboard Flydubai flight.
+Jerusalem Daily: Israeli forces arrest school children during raid
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/4/how-was-flydubai-co-pilot-cleared-despite-being-deemed-a-security-risk?traffic_source=rss](https://www.aljazeera.com/news/2026/10/4/how-was-flydubai-co-pilot-cleared-despite-being-deemed-a-security-risk?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/4/jerusalem-daily-israeli-forces-arrest-school-children-during-raid?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/4/jerusalem-daily-israeli-forces-arrest-school-children-during-raid?traffic_source=rss)
 
 ---
 
-### 9. Why is fighting intensifying in Yemen’s Taiz governorate?
+### 9. Philippines arrests 244 suspects in online scam crackdown
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Fighting escalates in Taiz governorate as Yemen&#039;s government and Houthis battle for control of key strategic locations.
+Criminals accused of using Philippine offshore gaming operators (POGOs) as cover for human trafficking, fraud, murder.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/4/why-is-fighting-intensifying-in-yemens-taiz-governorate?traffic_source=rss](https://www.aljazeera.com/news/2026/10/4/why-is-fighting-intensifying-in-yemens-taiz-governorate?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/4/philippines-arrests-244-suspects-in-online-scam-crackdown?traffic_source=rss](https://www.aljazeera.com/news/2026/10/4/philippines-arrests-244-suspects-in-online-scam-crackdown?traffic_source=rss)
 
 ---
 

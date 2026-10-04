@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-04T14:34:05+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "VGHF Digital Archive passes 5000 magazines. Here's what's next",
+            "description": "<p>Article URL: <a href=\"https://gamehistory.org/5k-magazines/\">https://gamehistory.org/5k-magazines/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49952029\">https://news.ycombinator.com/item?id=49952029</a></p>\n<p>Points: 24</p>\n<p># Comments: 2</p>",
+            "url": "https://gamehistory.org/5k-magazines/",
+            "published": "Sun, 04 Oct 2026 09:07:11 +0000",
+            "fetched": "2026-10-04T14:34:05+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "In Ukraine, distributed renewables foil Russia's assaults",
+            "description": "<p>Article URL: <a href=\"https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/\">https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49951881\">https://news.ycombinator.com/item?id=49951881</a></p>\n<p>Points: 83</p>\n<p># Comments: 59</p>",
+            "url": "https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/",
+            "published": "Sun, 04 Oct 2026 08:39:58 +0000",
+            "fetched": "2026-10-04T14:34:05+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Emitting metadata early makes building/checking Rust up to twice as fast",
+            "description": "<p>Article URL: <a href=\"https://github.com/PowderworksCode/headstart\">https://github.com/PowderworksCode/headstart</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49951218\">https://news.ycombinator.com/item?id=49951218</a></p>\n<p>Points: 8</p>\n<p># Comments: 0</p>",
+            "url": "https://github.com/PowderworksCode/headstart",
+            "published": "Sun, 04 Oct 2026 06:26:57 +0000",
+            "fetched": "2026-10-04T14:34:05+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Badenoch unveils plan to end £100,000 childcare 'cliff edge' ahead of Tory conference",
+            "description": "The Conservative leader tells the BBC the earnings threshold for government support stops people \"working harder\".",
+            "url": "https://www.bbc.co.uk/news/articles/cmn06l362ypeo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 04 Oct 2026 10:14:45 GMT",
+            "fetched": "2026-10-04T14:34:05+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham scraps controversial plans to curb jury trials",
+            "description": "The key policy idea announced by David Lammy when he was justice secretary will no longer go ahead.",
+            "url": "https://www.bbc.co.uk/news/articles/crq5nd9dgz68o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 04 Oct 2026 03:07:30 GMT",
+            "fetched": "2026-10-04T14:34:05+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Australia investigating Flydubai co-pilot's links to country",
+            "description": "State police and the country's security agency are looking into the co-pilot, who attempted to take control of a Flydubai plane travelling to Israel.",
+            "url": "https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 04 Oct 2026 06:19:17 GMT",
+            "fetched": "2026-10-04T14:34:05+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Spain protests flare after housing bill rejected: Will it cause snap poll?",
+            "description": "Measures pushed by Spain&#039;s leftist government fail to pass parliament as the protests spread.",
+            "url": "https://www.aljazeera.com/news/2026/10/4/spain-protests-flare-after-housing-bill-rejected-will-it-cause-snap-poll?traffic_source=rss",
+            "published": "Sun, 04 Oct 2026 10:16:49 +0000",
+            "fetched": "2026-10-04T14:34:05+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Netanyahu’s fight to own the election narrative",
+            "description": "What did Netanyahu know about October 7 before it happened?",
+            "url": "https://www.aljazeera.com/video/the-listening-post/2026/10/4/netanyahus-fight-to-own-the-election-narrative?traffic_source=rss",
+            "published": "Sun, 04 Oct 2026 10:05:53 +0000",
+            "fetched": "2026-10-04T14:34:05+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Tributes as Bosnian football star Edin Dzeko retires",
+            "description": "Bosnia and Herzegovina&#039;s legendary striker Edin Dzeko has bid farewell to international football after a final match.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/tributes-as-bosnian-football-star-edin-dzeko-retires?traffic_source=rss",
+            "published": "Sun, 04 Oct 2026 10:04:54 +0000",
+            "fetched": "2026-10-04T14:34:05+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Choi-wan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24962",
+            "published": "2026-09-30T12:00:00Z",
+            "fetched": "2026-10-04T14:34:05+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire SAN FRANCISCO 2, Starr, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24964",
+            "published": "2026-09-30T08:56:00Z",
+            "fetched": "2026-10-04T14:34:05+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Hatch Grade, Walla Walla, Washington",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24963",
+            "published": "2026-09-29T19:50:00Z",
+            "fetched": "2026-10-04T14:34:05+03:30"
+        }
+    ]
+}

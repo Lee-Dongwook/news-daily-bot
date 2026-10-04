@@ -1,65 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-04 12:06:16
+**Last Update:** 2026-10-04 14:34:05
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Why don't more developers “use the platform”?
+### 1. VGHF Digital Archive passes 5000 magazines. Here's what's next
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/">https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49950554">https://news.ycombinator.com/item?id=49950554</a></p>
-<p>Points: 103</p>
-<p># Comments: 70</p>
+<p>Article URL: <a href="https://gamehistory.org/5k-magazines/">https://gamehistory.org/5k-magazines/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49952029">https://news.ycombinator.com/item?id=49952029</a></p>
+<p>Points: 24</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/](https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/)
+🔗 **Read more:** [https://gamehistory.org/5k-magazines/](https://gamehistory.org/5k-magazines/)
 
 ---
 
-### 2. Religious scholars met with Anthropic
+### 2. In Ukraine, distributed renewables foil Russia's assaults
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p><a href="https://archive.is/y8FW0" rel="nofollow">https://archive.is/y8FW0</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49950052">https://news.ycombinator.com/item?id=49950052</a></p>
-<p>Points: 65</p>
-<p># Comments: 107</p>
+<p>Article URL: <a href="https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/">https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49951881">https://news.ycombinator.com/item?id=49951881</a></p>
+<p>Points: 83</p>
+<p># Comments: 59</p>
 
-🔗 **Read more:** [https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html](https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html)
+🔗 **Read more:** [https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/](https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/)
 
 ---
 
-### 3. We're working on a new RuneScape MMO
+### 3. Emitting metadata early makes building/checking Rust up to twice as fast
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://play.runescape.com/4">https://play.runescape.com/4</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49949588">https://news.ycombinator.com/item?id=49949588</a></p>
-<p>Points: 48</p>
-<p># Comments: 16</p>
+<p>Article URL: <a href="https://github.com/PowderworksCode/headstart">https://github.com/PowderworksCode/headstart</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49951218">https://news.ycombinator.com/item?id=49951218</a></p>
+<p>Points: 8</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://play.runescape.com/4](https://play.runescape.com/4)
+🔗 **Read more:** [https://github.com/PowderworksCode/headstart](https://github.com/PowderworksCode/headstart)
 
 ---
 
-### 4. Burnham scraps controversial plans to curb jury trials
+### 4. Badenoch unveils plan to end £100,000 childcare 'cliff edge' ahead of Tory conference
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The Conservative leader tells the BBC the earnings threshold for government support stops people "working harder".
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmn06l362ypeo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmn06l362ypeo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Burnham scraps controversial plans to curb jury trials
 
 **Source:** BBC
 
@@ -72,7 +84,7 @@ The key policy idea announced by David Lammy when he was justice secretary will 
 
 ---
 
-### 5. Australia investigating Flydubai co-pilot's links to country
+### 6. Australia investigating Flydubai co-pilot's links to country
 
 **Source:** BBC
 
@@ -85,55 +97,42 @@ State police and the country's security agency are looking into the co-pilot, wh
 
 ---
 
-### 6. Cornell president says university 'must do better' after frat house rape allegations
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Michael Kotlikoff described the allegations of a woman who says she was drugged and gang raped as "deeply disturbing".
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Sabalenka, Rybakina handed shock defeats at China Open tennis
+### 7. Spain protests flare after housing bill rejected: Will it cause snap poll?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The Belarusian’s exit follows top seed Rybakina losing to unseeded Charaeva in her first match as world number one.
+Measures pushed by Spain&#039;s leftist government fail to pass parliament as the protests spread.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/4/sabalenka-rybakina-handed-shock-defeats-at-china-open-tennis?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/4/sabalenka-rybakina-handed-shock-defeats-at-china-open-tennis?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/4/spain-protests-flare-after-housing-bill-rejected-will-it-cause-snap-poll?traffic_source=rss](https://www.aljazeera.com/news/2026/10/4/spain-protests-flare-after-housing-bill-rejected-will-it-cause-snap-poll?traffic_source=rss)
 
 ---
 
-### 8. Gaza’s Christians mourn mother and daughter killed in Israeli attack
+### 8. Netanyahu’s fight to own the election narrative
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Maysa Abu Daoud and her daughter Mary al-Najjar among five Palestinians killed in Gaza City attack.
+What did Netanyahu know about October 7 before it happened?
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/4/gazas-christians-mourn-mother-and-daughter-killed-in-israeli-attack?traffic_source=rss](https://www.aljazeera.com/news/2026/10/4/gazas-christians-mourn-mother-and-daughter-killed-in-israeli-attack?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/the-listening-post/2026/10/4/netanyahus-fight-to-own-the-election-narrative?traffic_source=rss](https://www.aljazeera.com/video/the-listening-post/2026/10/4/netanyahus-fight-to-own-the-election-narrative?traffic_source=rss)
 
 ---
 
-### 9. Saudi-led coalition dismisses ‘misleading’ Houthi claim of Riyadh attack
+### 9. Tributes as Bosnian football star Edin Dzeko retires
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The Saudi-led coalition spokesman says the Yemeni armed group is &#039;attempting to divert attention&#039; from its losses.
+Bosnia and Herzegovina&#039;s legendary striker Edin Dzeko has bid farewell to international football after a final match.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/4/houthi-claims-of-targeting-riyadh-are-misleading-saudi-led?traffic_source=rss](https://www.aljazeera.com/news/2026/10/4/houthi-claims-of-targeting-riyadh-are-misleading-saudi-led?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/4/tributes-as-bosnian-football-star-edin-dzeko-retires?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/4/tributes-as-bosnian-football-star-edin-dzeko-retires?traffic_source=rss)
 
 ---
 

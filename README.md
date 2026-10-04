@@ -1,16 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-04 08:29:32
+**Last Update:** 2026-10-04 12:06:16
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Why don't more developers "use the platform"?
+### 1. Why don't more developers “use the platform”?
 
 **Source:** Hacker News
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/">https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49950554">https://news.ycombinator.com/item?id=49950554</a></p>
-<p>Points: 25</p>
-<p># Comments: 9</p>
+<p>Points: 103</p>
+<p># Comments: 70</p>
 
 🔗 **Read more:** [https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/](https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/)
 
@@ -36,27 +36,26 @@
 <p><a href="https://archive.is/y8FW0" rel="nofollow">https://archive.is/y8FW0</a></p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49950052">https://news.ycombinator.com/item?id=49950052</a></p>
-<p>Points: 52</p>
-<p># Comments: 73</p>
+<p>Points: 65</p>
+<p># Comments: 107</p>
 
 🔗 **Read more:** [https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html](https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html)
 
 ---
 
-### 3. Tell HN: Bob Cringely has died
+### 3. We're working on a new RuneScape MMO
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>I heard from a friend of the family that Bob passed away in his sleep early Saturday. Very sad news. Bob, who's real name was Mark Stevens, was an early employee of Apple and was best known for his PBS documentaries, especially "Triumph of the Nerds". He will be missed.</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49949438">https://news.ycombinator.com/item?id=49949438</a></p>
-<p>Points: 267</p>
-<p># Comments: 47</p>
+<p>Article URL: <a href="https://play.runescape.com/4">https://play.runescape.com/4</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49949588">https://news.ycombinator.com/item?id=49949588</a></p>
+<p>Points: 48</p>
+<p># Comments: 16</p>
 
-🔗 **Read more:** [https://news.ycombinator.com/item?id=49949438](https://news.ycombinator.com/item?id=49949438)
+🔗 **Read more:** [https://play.runescape.com/4](https://play.runescape.com/4)
 
 ---
 
@@ -73,16 +72,16 @@ The key policy idea announced by David Lammy when he was justice secretary will 
 
 ---
 
-### 5. Tories pledge to remove £100,000 childcare 'cliff edge'
+### 5. Australia investigating Flydubai co-pilot's links to country
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Party leader Kemi Badenoch tells the BBC that she wants to see "people who work harder" not getting punished for doing so.
+State police and the country's security agency are looking into the co-pilot, who attempted to take control of a Flydubai plane travelling to Israel.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmn06l362ypeo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmn06l362ypeo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -99,81 +98,81 @@ Michael Kotlikoff described the allegations of a woman who says she was drugged 
 
 ---
 
-### 7. Trump defiant about midterm chances as he rallies for Republicans in Ohio
+### 7. Sabalenka, Rybakina handed shock defeats at China Open tennis
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US president tells a rally in Ohio that he believes there will be a &#039;big surprise&#039; in the upcoming elections.
+The Belarusian’s exit follows top seed Rybakina losing to unseeded Charaeva in her first match as world number one.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/4/trump-defiant-about-midterm-chances-as-he-rallies-for-republicans-in-ohio?traffic_source=rss](https://www.aljazeera.com/news/2026/10/4/trump-defiant-about-midterm-chances-as-he-rallies-for-republicans-in-ohio?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/4/sabalenka-rybakina-handed-shock-defeats-at-china-open-tennis?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/4/sabalenka-rybakina-handed-shock-defeats-at-china-open-tennis?traffic_source=rss)
 
 ---
 
-### 8. Saudi-backed Yemeni army says 700 Houthis killed in 24 hours
+### 8. Gaza’s Christians mourn mother and daughter killed in Israeli attack
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Yemen’s government forces claim to have killed hundreds of Houthi rebels as they attempt to retake lost territory.
+Maysa Abu Daoud and her daughter Mary al-Najjar among five Palestinians killed in Gaza City attack.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/4/saudi-backed-yemeni-army-says-700-houthis-killed-in-24-hours?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/4/saudi-backed-yemeni-army-says-700-houthis-killed-in-24-hours?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/4/gazas-christians-mourn-mother-and-daughter-killed-in-israeli-attack?traffic_source=rss](https://www.aljazeera.com/news/2026/10/4/gazas-christians-mourn-mother-and-daughter-killed-in-israeli-attack?traffic_source=rss)
 
 ---
 
-### 9. Pick-up truck overturns trying to carry military chopper in Russia
+### 9. Saudi-led coalition dismisses ‘misleading’ Houthi claim of Riyadh attack
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-An attempt by Russian stuntman Evgeny Chebotarev to carry an Mi-2 helicopter on a pickup truck went awfully wrong.
+The Saudi-led coalition spokesman says the Yemeni armed group is &#039;attempting to divert attention&#039; from its losses.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/4/pick-up-truck-overturns-trying-to-carry-military-chopper-in-russia?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/4/pick-up-truck-overturns-trying-to-carry-military-chopper-in-russia?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/4/houthi-claims-of-targeting-riyadh-are-misleading-saudi-led?traffic_source=rss](https://www.aljazeera.com/news/2026/10/4/houthi-claims-of-targeting-riyadh-are-misleading-saudi-led?traffic_source=rss)
 
 ---
 
-### 10. Iceberg A76C
+### 10. Typhoon Choi-wan
 
 **Source:** NASA
 
 **Category:** nature
 
 **Description:**
-Natural event: Sea and Lake Ice
+Natural event: Severe Storms
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_5359](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_5359)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24962](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24962)
 
 ---
 
-### 11. Iceberg D32
+### 11. Wildfire SAN FRANCISCO 2, Starr, Texas
 
 **Source:** NASA
 
 **Category:** nature
 
 **Description:**
-Natural event: Sea and Lake Ice
+Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6288](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6288)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24964](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24964)
 
 ---
 
-### 12. Iceberg A81
+### 12. Wildfire Hatch Grade, Walla Walla, Washington
 
 **Source:** NASA
 
 **Category:** nature
 
 **Description:**
-Natural event: Sea and Lake Ice
+Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6320](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6320)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24963](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24963)
 
 ---
 

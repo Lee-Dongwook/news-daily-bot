@@ -1,64 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-04 03:05:56
+**Last Update:** 2026-10-04 05:13:34
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Big Balls Now Exposed to Serious Criminal Charges in at Least Six States
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://medium.com/@carmitage/big-balls-now-exposed-to-serious-criminal-charges-in-at-least-six-states-ca865e1d6305">https://medium.com/@carmitage/big-balls-now-exposed-to-serious-criminal-charges-in-at-least-six-states-ca865e1d6305</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49948438">https://news.ycombinator.com/item?id=49948438</a></p>
-<p>Points: 36</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://medium.com/@carmitage/big-balls-now-exposed-to-serious-criminal-charges-in-at-least-six-states-ca865e1d6305](https://medium.com/@carmitage/big-balls-now-exposed-to-serious-criminal-charges-in-at-least-six-states-ca865e1d6305)
-
----
-
-### 2. Writing code by hand is over, forever
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://eliocapella.com/blog/writing-code-by-hand-is-over/">https://eliocapella.com/blog/writing-code-by-hand-is-over/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49948364">https://news.ycombinator.com/item?id=49948364</a></p>
-<p>Points: 12</p>
-<p># Comments: 9</p>
-
-🔗 **Read more:** [https://eliocapella.com/blog/writing-code-by-hand-is-over/](https://eliocapella.com/blog/writing-code-by-hand-is-over/)
-
----
-
-### 3. OpenAI safety leader quits, warning AI company's culture is 'broken'
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken">https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49948332">https://news.ycombinator.com/item?id=49948332</a></p>
-<p>Points: 36</p>
-<p># Comments: 5</p>
-
-🔗 **Read more:** [https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken](https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken)
-
----
-
-### 4. Flydubai co-pilot attacked captain with axe, UAE official says
+### 1. Flydubai co-pilot attacked captain with axe, UAE official says
 
 **Source:** BBC
 
@@ -71,7 +23,7 @@ The man accused of trying to take over the Israel-bound jet is named as Hamam al
 
 ---
 
-### 5. Tories pledge to scrap £100,000 childcare 'cliff edge'
+### 2. Tories pledge to scrap £100,000 childcare 'cliff edge'
 
 **Source:** BBC
 
@@ -84,59 +36,59 @@ Party leader Kemi Badenoch tells the BBC that she wants to see "people who work 
 
 ---
 
-### 6. UK-Iranian dual national arrested over RAF Fairford released on bail
+### 3. Tennessee prison chief to resign after Christa Pike's failed execution
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The 25-year-old man was arrested in the London borough of Westminster on Thursday.
+Pike's lawyers said the failure "goes far beyond any one person". Pike is in critical condition after surviving two lethal injections.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6d095ygggv1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6d095ygggv1o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Air ambulance missing on flight from Bermuda to Boston
+### 4. Cornell president vows transparency amid outrage over fraternity rape case
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The US coastguard says it has dispatched air and surface crews to search for the plane near Nantucket.
+Michael Kotlikoff expresses deep sorrow over the case, calling it one of the most challenging periods for Cornell.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/3/air-ambulance-missing-on-flight-from-bermuda-to-boston?traffic_source=rss](https://www.aljazeera.com/news/2026/10/3/air-ambulance-missing-on-flight-from-bermuda-to-boston?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/4/cornell-president-vows-transparency-amid-outrage-over-fraternity-rape-case?traffic_source=rss](https://www.aljazeera.com/news/2026/10/4/cornell-president-vows-transparency-amid-outrage-over-fraternity-rape-case?traffic_source=rss)
 
 ---
 
-### 8. Pelosi-backed US candidate calls for ‘full arms embargo’ on Israel
+### 5. Serbian populist leader Vucic launches campaign for prime minister
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Connie Chan, endorsed by Nancy Pelosi to succeed her in California, says she will vote to &#039;end a genocide in Gaza&#039;.
+Former Serbian President Aleksandar Vucic is seeking to extend his hold on power through a parliamentary vote.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/3/pelosi-backed-us-candidate-calls-for-full-arms-embargo-on-israel?traffic_source=rss](https://www.aljazeera.com/news/2026/10/3/pelosi-backed-us-candidate-calls-for-full-arms-embargo-on-israel?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/4/serbian-populist-leader-vucic-launches-campaign-for-prime-minister?traffic_source=rss](https://www.aljazeera.com/news/2026/10/4/serbian-populist-leader-vucic-launches-campaign-for-prime-minister?traffic_source=rss)
 
 ---
 
-### 9. Israeli settlers attack Palestinian farmers during olive harvest
+### 6. Mamdani, Irish PM play bingo, ‘split the G’ in New York
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli settlers attack Palestinian farmers during olive harvest
+New York City Mayor Zohran Mamdani shared a video riding the subway with Irish PM Micheal Martin during UN week.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/2026/10/3/israeli-settlers-attack-palestinian-farmers-during-olive-harvest-2?traffic_source=rss](https://www.aljazeera.com/video/2026/10/3/israeli-settlers-attack-palestinian-farmers-during-olive-harvest-2?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/4/mamdani-irish-pm-play-bingo-split-the-g-in-new-york?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/4/mamdani-irish-pm-play-bingo-split-the-g-in-new-york?traffic_source=rss)
 
 ---
 
-### 10. Typhoon Choi-wan
+### 7. Typhoon Choi-wan
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Severe Storms
 
 ---
 
-### 11. Wildfire SAN FRANCISCO 2, Starr, Texas
+### 8. Wildfire SAN FRANCISCO 2, Starr, Texas
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Wildfire Hatch Grade, Walla Walla, Washington
+### 9. Wildfire Hatch Grade, Walla Walla, Washington
 
 **Source:** NASA
 

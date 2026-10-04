@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-04T08:29:32+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Why don't more developers \"use the platform\"?",
+            "description": "<p>Article URL: <a href=\"https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/\">https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49950554\">https://news.ycombinator.com/item?id=49950554</a></p>\n<p>Points: 25</p>\n<p># Comments: 9</p>",
+            "url": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
+            "published": "Sun, 04 Oct 2026 04:10:47 +0000",
+            "fetched": "2026-10-04T08:29:32+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Religious scholars met with Anthropic",
+            "description": "<p><a href=\"https://archive.is/y8FW0\" rel=\"nofollow\">https://archive.is/y8FW0</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49950052\">https://news.ycombinator.com/item?id=49950052</a></p>\n<p>Points: 52</p>\n<p># Comments: 73</p>",
+            "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+            "published": "Sun, 04 Oct 2026 02:34:22 +0000",
+            "fetched": "2026-10-04T08:29:32+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Tell HN: Bob Cringely has died",
+            "description": "<p>I heard from a friend of the family that Bob passed away in his sleep early Saturday. Very sad news. Bob, who's real name was Mark Stevens, was an early employee of Apple and was best known for his PBS documentaries, especially \"Triumph of the Nerds\". He will be missed.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49949438\">https://news.ycombinator.com/item?id=49949438</a></p>\n<p>Points: 267</p>\n<p># Comments: 47</p>",
+            "url": "https://news.ycombinator.com/item?id=49949438",
+            "published": "Sun, 04 Oct 2026 00:50:52 +0000",
+            "fetched": "2026-10-04T08:29:32+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham scraps controversial plans to curb jury trials",
+            "description": "The key policy idea announced by David Lammy when he was justice secretary will no longer go ahead.",
+            "url": "https://www.bbc.co.uk/news/articles/crq5nd9dgz68o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 04 Oct 2026 03:07:30 GMT",
+            "fetched": "2026-10-04T08:29:32+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Tories pledge to remove £100,000 childcare 'cliff edge'",
+            "description": "Party leader Kemi Badenoch tells the BBC that she wants to see \"people who work harder\" not getting punished for doing so.",
+            "url": "https://www.bbc.co.uk/news/articles/cmn06l362ypeo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 03 Oct 2026 21:03:22 GMT",
+            "fetched": "2026-10-04T08:29:32+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Cornell president says university 'must do better' after frat house rape allegations",
+            "description": "Michael Kotlikoff described the allegations of a woman who says she was drugged and gang raped as \"deeply disturbing\".",
+            "url": "https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 04 Oct 2026 00:11:25 GMT",
+            "fetched": "2026-10-04T08:29:32+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump defiant about midterm chances as he rallies for Republicans in Ohio",
+            "description": "US president tells a rally in Ohio that he believes there will be a &#039;big surprise&#039; in the upcoming elections.",
+            "url": "https://www.aljazeera.com/news/2026/10/4/trump-defiant-about-midterm-chances-as-he-rallies-for-republicans-in-ohio?traffic_source=rss",
+            "published": "Sun, 04 Oct 2026 04:10:17 +0000",
+            "fetched": "2026-10-04T08:29:32+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Saudi-backed Yemeni army says 700 Houthis killed in 24 hours",
+            "description": "Yemen’s government forces claim to have killed hundreds of Houthi rebels as they attempt to retake lost territory.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/saudi-backed-yemeni-army-says-700-houthis-killed-in-24-hours?traffic_source=rss",
+            "published": "Sun, 04 Oct 2026 04:09:13 +0000",
+            "fetched": "2026-10-04T08:29:32+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Pick-up truck overturns trying to carry military chopper in Russia",
+            "description": "An attempt by Russian stuntman Evgeny Chebotarev to carry an Mi-2 helicopter on a pickup truck went awfully wrong.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/pick-up-truck-overturns-trying-to-carry-military-chopper-in-russia?traffic_source=rss",
+            "published": "Sun, 04 Oct 2026 04:06:05 +0000",
+            "fetched": "2026-10-04T08:29:32+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Iceberg A76C",
+            "description": "Natural event: Sea and Lake Ice",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_5359",
+            "published": "2021-05-28T00:00:00Z",
+            "fetched": "2026-10-04T08:29:32+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Iceberg D32",
+            "description": "Natural event: Sea and Lake Ice",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6288",
+            "published": "2022-10-21T00:00:00Z",
+            "fetched": "2026-10-04T08:29:32+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Iceberg A81",
+            "description": "Natural event: Sea and Lake Ice",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6320",
+            "published": "2023-01-27T00:00:00Z",
+            "fetched": "2026-10-04T08:29:32+03:30"
+        }
+    ]
+}

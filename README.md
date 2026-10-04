@@ -1,32 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-04 22:11:35
+**Last Update:** 2026-10-04 23:26:07
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: Dataviz, ranked daily from GitHub, NPM, PyPI and CRAN
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://awesomedataviz.com/">https://awesomedataviz.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49956183">https://news.ycombinator.com/item?id=49956183</a></p>
-<p>Points: 7</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://awesomedataviz.com/](https://awesomedataviz.com/)
-
----
-
-### 2. Building a RAG Pipeline for Semantic Code Search
+### 1. Building a RAG pipeline for semantic code search
 
 **Source:** Hacker News
 
@@ -35,26 +19,43 @@
 **Description:**
 <p>Article URL: <a href="https://blog.jetbrains.com/ai/2026/09/building-a-rag-pipeline-for-semantic-code-search-a-developer-diary-and-field-notes/">https://blog.jetbrains.com/ai/2026/09/building-a-rag-pipeline-for-semantic-code-search-a-developer-diary-and-field-notes/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49956148">https://news.ycombinator.com/item?id=49956148</a></p>
-<p>Points: 11</p>
-<p># Comments: 0</p>
+<p>Points: 22</p>
+<p># Comments: 3</p>
 
 🔗 **Read more:** [https://blog.jetbrains.com/ai/2026/09/building-a-rag-pipeline-for-semantic-code-search-a-developer-diary-and-field-notes/](https://blog.jetbrains.com/ai/2026/09/building-a-rag-pipeline-for-semantic-code-search-a-developer-diary-and-field-notes/)
 
 ---
 
-### 3. Blindsight (Watts Novel)
+### 2. Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://en.wikipedia.org/wiki/Blindsight_(Watts_novel)">https://en.wikipedia.org/wiki/Blindsight_(Watts_novel)</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49955297">https://news.ycombinator.com/item?id=49955297</a></p>
-<p>Points: 40</p>
-<p># Comments: 26</p>
+<p>Article URL: <a href="https://github.com/Niko1221/Strata">https://github.com/Niko1221/Strata</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49953495">https://news.ycombinator.com/item?id=49953495</a></p>
+<p>Points: 419</p>
+<p># Comments: 223</p>
 
-🔗 **Read more:** [https://en.wikipedia.org/wiki/Blindsight_(Watts_novel)](https://en.wikipedia.org/wiki/Blindsight_(Watts_novel))
+🔗 **Read more:** [https://github.com/Niko1221/Strata](https://github.com/Niko1221/Strata)
+
+---
+
+### 3. Bill Draper has died
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p><a href="https://archive.ph/YRgDY" rel="nofollow">https://archive.ph/YRgDY</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49953288">https://news.ycombinator.com/item?id=49953288</a></p>
+<p>Points: 16</p>
+<p># Comments: 6</p>
+
+🔗 **Read more:** [https://www.nytimes.com/2026/09/30/technology/william-draper-dead.html](https://www.nytimes.com/2026/09/30/technology/william-draper-dead.html)
 
 ---
 
@@ -97,46 +98,46 @@ BBC Ukraine correspondent Dan Johnson is near Kyiv's Northern Bridge, which has 
 
 ---
 
-### 7. Ku Klux Klan leader claims rising support ahead of US midterm elections
+### 7. Will elections bring change to multi-ethnic Bosnia and Herzegovina?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The Ku Klux Klan says support for its message is growing as it seeks to rebrand around family and faith.
+Balkan nation seeks EU membership, but divisions threaten that goal.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/4/ku-klux-klan-leader-claims-rising-support-ahead-of-us-midterm-elections?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/4/ku-klux-klan-leader-claims-rising-support-ahead-of-us-midterm-elections?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/10/4/will-elections-bring-change-to-multi-ethnic-bosnia-and-herzegovina?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/10/4/will-elections-bring-change-to-multi-ethnic-bosnia-and-herzegovina?traffic_source=rss)
 
 ---
 
-### 8. Police investigating Flydubai co-pilot’s Australia ties
+### 8. France to shutter up to 500 schools as more student protests called
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Australian police and intelligence join the list of those probing the incident.
+Education minister cites safety concerns for closures as organisers call for resumption of protests.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/4/police-investigating-flydubai-co-pilots-australia-ties?traffic_source=rss](https://www.aljazeera.com/news/2026/10/4/police-investigating-flydubai-co-pilots-australia-ties?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/4/france-to-shutter-up-to-500-schools-as-more-student-protests-called?traffic_source=rss](https://www.aljazeera.com/news/2026/10/4/france-to-shutter-up-to-500-schools-as-more-student-protests-called?traffic_source=rss)
 
 ---
 
-### 9. Ukraine ready for US-backed talks with Russia: Zelenskyy
+### 9. Pro-Imran Khan mass rally launched after Pakistan government talks fail
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Trilateral talks could happen this month in UAE or another US-proposed venue, says the president.
+Supporters of jailed former prime minister have set off from northwest Pakistan towards Islamabad.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/4/ukraine-ready-for-us-backed-talks-with-russia-zelenskyy?traffic_source=rss](https://www.aljazeera.com/news/2026/10/4/ukraine-ready-for-us-backed-talks-with-russia-zelenskyy?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/4/pro-imran-khan-mass-rally-launched-after-pakistan-government-talks-fail?traffic_source=rss](https://www.aljazeera.com/news/2026/10/4/pro-imran-khan-mass-rally-launched-after-pakistan-government-talks-fail?traffic_source=rss)
 
 ---
 
-### 10. Typhoon Choi-wan
+### 10. Super Typhoon Choi-wan
 
 **Source:** NASA
 

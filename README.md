@@ -1,16 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-05 04:33:40
+**Last Update:** 2026-10-05 05:15:28
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. US removes all bombers from RAF Fairford base
+### 1. The logic of gambling undergirds everything coming out of Silicon Valley
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.nytimes.com/2026/10/04/magazine/gambling-prediction-markets-statistics.html">https://www.nytimes.com/2026/10/04/magazine/gambling-prediction-markets-statistics.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49959583">https://news.ycombinator.com/item?id=49959583</a></p>
+<p>Points: 13</p>
+<p># Comments: 7</p>
+
+🔗 **Read more:** [https://www.nytimes.com/2026/10/04/magazine/gambling-prediction-markets-statistics.html](https://www.nytimes.com/2026/10/04/magazine/gambling-prediction-markets-statistics.html)
+
+---
+
+### 2. ArtCraft Apps – open-source Adobe compatible suite written in Rust
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://getartcraft.com/apps">https://getartcraft.com/apps</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49958850">https://news.ycombinator.com/item?id=49958850</a></p>
+<p>Points: 31</p>
+<p># Comments: 22</p>
+
+🔗 **Read more:** [https://getartcraft.com/apps](https://getartcraft.com/apps)
+
+---
+
+### 3. Self-hosted HTTP tunnels with SSH and Nginx
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://vincent.bernat.ch/en/blog/2026-http-over-ssh">https://vincent.bernat.ch/en/blog/2026-http-over-ssh</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49958569">https://news.ycombinator.com/item?id=49958569</a></p>
+<p>Points: 63</p>
+<p># Comments: 14</p>
+
+🔗 **Read more:** [https://vincent.bernat.ch/en/blog/2026-http-over-ssh](https://vincent.bernat.ch/en/blog/2026-http-over-ssh)
+
+---
+
+### 4. US removes all bombers from RAF Fairford base
 
 **Source:** BBC
 
@@ -23,7 +71,7 @@ A statement says all bombers deployed to RAF Fairford have been "re-deployed to 
 
 ---
 
-### 2. Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round
+### 5. Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round
 
 **Source:** BBC
 
@@ -36,7 +84,7 @@ With neither candidate getting more than 50% of the vote, the election will go t
 
 ---
 
-### 3. Green Party members back 'Zionism is racism' motion
+### 6. Polanski banned from Israel after party's motion declaring 'Zionism is racism'
 
 **Source:** BBC
 
@@ -49,7 +97,33 @@ The vote has caused divisions among figures at the top of the party at its confe
 
 ---
 
-### 4. Four African leaders issue joint declaration as Ethiopia war escalates
+### 7. Nearly 1,500 migrants arrive in Myanmar from Malaysia despite UN warnings
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Malaysia continues mass refugee deportations despite warnings from the UN about unsafe conditions in an active war zone.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/5/nearly-1500-migrants-arrive-in-myanmar-from-malaysia-despite-un-warnings?traffic_source=rss](https://www.aljazeera.com/news/2026/10/5/nearly-1500-migrants-arrive-in-myanmar-from-malaysia-despite-un-warnings?traffic_source=rss)
+
+---
+
+### 8. Ethiopia’s forces retake Mekelle amid renewed Tigray fighting
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The capture of Tigray’s regional capital revives fears of another prolonged conflict, displacement and crisis.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/5/ethiopias-forces-retake-mekelle-amid-renewed-tigray-fighting?traffic_source=rss](https://www.aljazeera.com/news/2026/10/5/ethiopias-forces-retake-mekelle-amid-renewed-tigray-fighting?traffic_source=rss)
+
+---
+
+### 9. Four African leaders issue joint declaration as Ethiopia war escalates
 
 **Source:** Al Jazeera
 
@@ -62,33 +136,7 @@ Egyptian, Eritrean, Somali and Sudanese leaders also call for talks to end the c
 
 ---
 
-### 5. Iran war live: Yemen fighting intensifies; Tehran says ready for US attacks
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Yemeni government announces major offensive against Houthis, as Iran says it is ready to defend itself if US attacks.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/10/5/iran-war-live-fighting-in-yemen-intensifies-tehran-says-ready-for-us-war?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/10/5/iran-war-live-fighting-in-yemen-intensifies-tehran-says-ready-for-us-war?traffic_source=rss)
-
----
-
-### 6. Israel face spitting allegation as Ireland boss ‘delighted’ ties after over
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Ireland manager says &#039;disciplinary committee will look at&#039; allegations Israel player spat at one of his coaching staff.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/4/israel-face-spitting-allegation-as-ireland-boss-delighted-ties-after-over?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/4/israel-face-spitting-allegation-as-ireland-boss-delighted-ties-after-over?traffic_source=rss)
-
----
-
-### 7. Super Typhoon Choi-wan
+### 10. Super Typhoon Choi-wan
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Severe Storms
 
 ---
 
-### 8. Wildfire SAN FRANCISCO 2, Starr, Texas
+### 11. Wildfire SAN FRANCISCO 2, Starr, Texas
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Wildfires
 
 ---
 
-### 9. Wildfire Hatch Grade, Walla Walla, Washington
+### 12. Wildfire Hatch Grade, Walla Walla, Washington
 
 **Source:** NASA
 

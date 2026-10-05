@@ -1,73 +1,73 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-05 19:43:47
+**Last Update:** 2026-10-05 21:37:13
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Borland Turbo Basic
+### 1. US closely monitoring case of lab worker who possibly died of plague in Siberia
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://dosdays.co.uk/topics/Software/borland_turbo_basic.php">https://dosdays.co.uk/topics/Software/borland_turbo_basic.php</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49965894">https://news.ycombinator.com/item?id=49965894</a></p>
-<p>Points: 11</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://www.theguardian.com/world/2026/oct/05/russia-lab-worker-possibly-dies-of-plague-siberia-quarantine-measures-irkutsk">https://www.theguardian.com/world/2026/oct/05/russia-lab-worker-possibly-dies-of-plague-siberia-quarantine-measures-irkutsk</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49967444">https://news.ycombinator.com/item?id=49967444</a></p>
+<p>Points: 62</p>
+<p># Comments: 27</p>
 
-🔗 **Read more:** [https://dosdays.co.uk/topics/Software/borland_turbo_basic.php](https://dosdays.co.uk/topics/Software/borland_turbo_basic.php)
+🔗 **Read more:** [https://www.theguardian.com/world/2026/oct/05/russia-lab-worker-possibly-dies-of-plague-siberia-quarantine-measures-irkutsk](https://www.theguardian.com/world/2026/oct/05/russia-lab-worker-possibly-dies-of-plague-siberia-quarantine-measures-irkutsk)
 
 ---
 
-### 2. Making a GTK application in Haskell, part 1
+### 2. Our approach to EU text provenance rules
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/">https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49965308">https://news.ycombinator.com/item?id=49965308</a></p>
-<p>Points: 16</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://openai.com/index/eu-text-provenance/">https://openai.com/index/eu-text-provenance/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49966293">https://news.ycombinator.com/item?id=49966293</a></p>
+<p>Points: 27</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/](https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/)
+🔗 **Read more:** [https://openai.com/index/eu-text-provenance/](https://openai.com/index/eu-text-provenance/)
 
 ---
 
-### 3. Picard 3.0 Released
+### 3. The future of independence is interdependence
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.metabrainz.org/2026/10/04/picard-3-0-released/">https://blog.metabrainz.org/2026/10/04/picard-3-0-released/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49965047">https://news.ycombinator.com/item?id=49965047</a></p>
-<p>Points: 18</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://onlys.ky/independence-is-interdependence/">https://onlys.ky/independence-is-interdependence/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49966163">https://news.ycombinator.com/item?id=49966163</a></p>
+<p>Points: 41</p>
+<p># Comments: 23</p>
 
-🔗 **Read more:** [https://blog.metabrainz.org/2026/10/04/picard-3-0-released/](https://blog.metabrainz.org/2026/10/04/picard-3-0-released/)
+🔗 **Read more:** [https://onlys.ky/independence-is-interdependence/](https://onlys.ky/independence-is-interdependence/)
 
 ---
 
-### 4. No 10 insists RAF Fairford is safe after US withdraws bombers
+### 4. King's funding for Andrew not to be used for legal action against police
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-US media reported a new threat led to the bombers being removed on Sunday, following an incident near the base last week.
+Andrew Mountbatten-Windsor is taking action over search warrants issued ahead of his arrest in February.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9ly0l028d1go?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9ly0l028d1go?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -84,55 +84,55 @@ Andrew Mountbatten-Windsor is taking legal action against Thames Valley Police o
 
 ---
 
-### 6. Teenager's hand blown off during confrontation between France school protesters and police
+### 6. No 10 insists RAF Fairford is safe after US withdraws bombers
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The prefect of Pas-de-Calais says the 15-year-old's life is "not in danger" after the "very serious" incident.
+US media reported a new threat led to the bombers being removed on Sunday, following an incident near the base last week.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9zrdmxp4vy6o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9zrdmxp4vy6o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Bosnia and Herzegovina elections: Return to a nationalist political order?
+### 7. Rubio: No direct link between US bombers removal and UK base incident
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Results raise the prospect of a new conservative alliance and further political polarisation, analysts say.
+Rubio visits Iceland, says no direct link between the removal of US bombers and suspicions of a terrorist act in the UK
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/5/nationalist-conservative-parties-enjoy-a-boost-in-bosnia-and-herzegovina?traffic_source=rss](https://www.aljazeera.com/news/2026/10/5/nationalist-conservative-parties-enjoy-a-boost-in-bosnia-and-herzegovina?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/5/rubio-no-direct-link-between-us-bombers-removal-and-uk-base-incident?traffic_source=rss](https://www.aljazeera.com/news/2026/10/5/rubio-no-direct-link-between-us-bombers-removal-and-uk-base-incident?traffic_source=rss)
 
 ---
 
-### 8. LIVE: France vs Belgium – UEFA Nations League
+### 8. Spain calls snap election amid housing crisis
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Build-up. teams and live text commentary stream of France&#039;s Nations League Group A1 game against Belgium in Paris
+Mounting anger over Spain’s housing crisis have led Prime Minister Sanchez to call an early election on November 29
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/liveblog/2026/10/5/live-france-vs-belgium-uefa-nations-league?traffic_source=rss](https://www.aljazeera.com/sports/liveblog/2026/10/5/live-france-vs-belgium-uefa-nations-league?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/5/spain-calls-snap-election-amid-housing-crisis?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/5/spain-calls-snap-election-amid-housing-crisis?traffic_source=rss)
 
 ---
 
-### 9. Nigeria launches rescue after military plane crashes with 32 aboard
+### 9. Jerusalem Daily: Netanyahu gives voters dramatic ultimatum
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Nigeria launches rescue operation after military aircraft carrying 32 people crashes in Ondo state.
+Israeli Prime Minister Benjamin Netanyahu has given voters an election ultimatum: Vote for him or vote for Palestine.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/5/nigeria-launches-rescue-after-military-plane-crashes-with-32-aboard?traffic_source=rss](https://www.aljazeera.com/news/2026/10/5/nigeria-launches-rescue-after-military-plane-crashes-with-32-aboard?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/5/jerusalem-daily-netanyahu-gives-voters-dramatic-ultimatum?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/5/jerusalem-daily-netanyahu-gives-voters-dramatic-ultimatum?traffic_source=rss)
 
 ---
 

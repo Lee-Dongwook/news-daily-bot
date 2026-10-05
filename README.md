@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-05 05:15:28
+**Last Update:** 2026-10-05 10:45:38
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. The logic of gambling undergirds everything coming out of Silicon Valley
+### 1. Anthropic reported diary entry to police, woman faces felony charge
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.nytimes.com/2026/10/04/magazine/gambling-prediction-markets-statistics.html">https://www.nytimes.com/2026/10/04/magazine/gambling-prediction-markets-statistics.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49959583">https://news.ycombinator.com/item?id=49959583</a></p>
-<p>Points: 13</p>
-<p># Comments: 7</p>
+<p>Article URL: <a href="https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html">https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49961057">https://news.ycombinator.com/item?id=49961057</a></p>
+<p>Points: 43</p>
+<p># Comments: 36</p>
 
-🔗 **Read more:** [https://www.nytimes.com/2026/10/04/magazine/gambling-prediction-markets-statistics.html](https://www.nytimes.com/2026/10/04/magazine/gambling-prediction-markets-statistics.html)
+🔗 **Read more:** [https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html](https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html)
 
 ---
 
-### 2. ArtCraft Apps – open-source Adobe compatible suite written in Rust
+### 2. Replacement of petroleum based products with plant-based materials (2025)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://getartcraft.com/apps">https://getartcraft.com/apps</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49958850">https://news.ycombinator.com/item?id=49958850</a></p>
-<p>Points: 31</p>
-<p># Comments: 22</p>
+<p>Article URL: <a href="https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108">https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49960901">https://news.ycombinator.com/item?id=49960901</a></p>
+<p>Points: 35</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://getartcraft.com/apps](https://getartcraft.com/apps)
+🔗 **Read more:** [https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108](https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108)
 
 ---
 
-### 3. Self-hosted HTTP tunnels with SSH and Nginx
+### 3. Nearly 200 people under observation after Irkutsk lab worker dies from plague
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://vincent.bernat.ch/en/blog/2026-http-over-ssh">https://vincent.bernat.ch/en/blog/2026-http-over-ssh</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49958569">https://news.ycombinator.com/item?id=49958569</a></p>
-<p>Points: 63</p>
-<p># Comments: 14</p>
+<p>Article URL: <a href="https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857">https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49960084">https://news.ycombinator.com/item?id=49960084</a></p>
+<p>Points: 187</p>
+<p># Comments: 150</p>
 
-🔗 **Read more:** [https://vincent.bernat.ch/en/blog/2026-http-over-ssh](https://vincent.bernat.ch/en/blog/2026-http-over-ssh)
+🔗 **Read more:** [https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857](https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857)
 
 ---
 
@@ -65,26 +65,13 @@
 **Category:** world
 
 **Description:**
-A statement says all bombers deployed to RAF Fairford have been "re-deployed to their home stations" in the US.
+No reason has been given for the withdrawal, but it follows a major incident last week when police were alerted to "suspicious vehicles" near the airbase.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-With neither candidate getting more than 50% of the vote, the election will go to a run-off on 25 October.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Polanski banned from Israel after party's motion declaring 'Zionism is racism'
+### 5. Polanski banned from Israel after party's motion declaring 'Zionism is racism'
 
 **Source:** BBC
 
@@ -97,42 +84,55 @@ The vote has caused divisions among figures at the top of the party at its confe
 
 ---
 
-### 7. Nearly 1,500 migrants arrive in Myanmar from Malaysia despite UN warnings
+### 6. Protesters scuffle with police as migrants brought ashore on south coast
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-Malaysia continues mass refugee deportations despite warnings from the UN about unsafe conditions in an active war zone.
+The Home Office said 149 migrants were brought ashore and taken by coach to a processing centre in Kent.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/5/nearly-1500-migrants-arrive-in-myanmar-from-malaysia-despite-un-warnings?traffic_source=rss](https://www.aljazeera.com/news/2026/10/5/nearly-1500-migrants-arrive-in-myanmar-from-malaysia-despite-un-warnings?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmrly809n8p6o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmrly809n8p6o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. Ethiopia’s forces retake Mekelle amid renewed Tigray fighting
+### 7. Djokovic defeats top seed Zverev to reach China Open semifinals
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The capture of Tigray’s regional capital revives fears of another prolonged conflict, displacement and crisis.
+Novak Djokovic to face Daniil Medvedev in the semifinals in Beijing after the Russian defeats Francisco Cerundolo.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/5/ethiopias-forces-retake-mekelle-amid-renewed-tigray-fighting?traffic_source=rss](https://www.aljazeera.com/news/2026/10/5/ethiopias-forces-retake-mekelle-amid-renewed-tigray-fighting?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/5/djokovic-defeats-top-seed-zverev-to-reach-china-open-semifinals?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/5/djokovic-defeats-top-seed-zverev-to-reach-china-open-semifinals?traffic_source=rss)
 
 ---
 
-### 9. Four African leaders issue joint declaration as Ethiopia war escalates
+### 8. Middle East oil exports surpass pre-war levels despite tensions, data shows
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Egyptian, Eritrean, Somali and Sudanese leaders also call for talks to end the civil war in Sudan.
+IRGC commander says oil flows through US-supervised route in Hormuz are ‘negligible’.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/5/four-african-leaders-issue-joint-declaration-as-ethiopia-war-escalates?traffic_source=rss](https://www.aljazeera.com/news/2026/10/5/four-african-leaders-issue-joint-declaration-as-ethiopia-war-escalates?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/5/middle-east-oil-exports-surpass-pre-war-levels-despite-tensions-data-shows?traffic_source=rss](https://www.aljazeera.com/news/2026/10/5/middle-east-oil-exports-surpass-pre-war-levels-despite-tensions-data-shows?traffic_source=rss)
+
+---
+
+### 9. Who were the top teen athletes at the Asian Games?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+China’s Zhang Zhanshuo, 19, finished with seven gold medals while compatriot Yu Zidi won three record-breaking golds.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/5/who-were-the-top-teen-athletes-at-the-asian-games?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/5/who-were-the-top-teen-athletes-at-the-asian-games?traffic_source=rss)
 
 ---
 

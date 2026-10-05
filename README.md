@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-05 12:08:06
+**Last Update:** 2026-10-05 19:43:47
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Sales of sub-€25,000 electric car models set to rise sevenfold
+### 1. Borland Turbo Basic
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.transportenvironment.org/articles/wave-of-affordable-electric-cars-is-boosting-consumers-choice-sales-of-sub-eur25-000-models-set-to-rise-sevenfold">https://www.transportenvironment.org/articles/wave-of-affordable-electric-cars-is-boosting-consumers-choice-sales-of-sub-eur25-000-models-set-to-rise-sevenfold</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49961890">https://news.ycombinator.com/item?id=49961890</a></p>
-<p>Points: 15</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://dosdays.co.uk/topics/Software/borland_turbo_basic.php">https://dosdays.co.uk/topics/Software/borland_turbo_basic.php</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49965894">https://news.ycombinator.com/item?id=49965894</a></p>
+<p>Points: 11</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.transportenvironment.org/articles/wave-of-affordable-electric-cars-is-boosting-consumers-choice-sales-of-sub-eur25-000-models-set-to-rise-sevenfold](https://www.transportenvironment.org/articles/wave-of-affordable-electric-cars-is-boosting-consumers-choice-sales-of-sub-eur25-000-models-set-to-rise-sevenfold)
+🔗 **Read more:** [https://dosdays.co.uk/topics/Software/borland_turbo_basic.php](https://dosdays.co.uk/topics/Software/borland_turbo_basic.php)
 
 ---
 
-### 2. Huawei and Qualcomm Announce Broad Patent License Agreement
+### 2. Making a GTK application in Haskell, part 1
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement">https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49961861">https://news.ycombinator.com/item?id=49961861</a></p>
-<p>Points: 17</p>
-<p># Comments: 11</p>
+<p>Article URL: <a href="https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/">https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49965308">https://news.ycombinator.com/item?id=49965308</a></p>
+<p>Points: 16</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement](https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement)
+🔗 **Read more:** [https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/](https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/)
 
 ---
 
-### 3. Replacement of petroleum based products with plant-based materials (2025)
+### 3. Picard 3.0 Released
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108">https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49960901">https://news.ycombinator.com/item?id=49960901</a></p>
-<p>Points: 54</p>
-<p># Comments: 22</p>
+<p>Article URL: <a href="https://blog.metabrainz.org/2026/10/04/picard-3-0-released/">https://blog.metabrainz.org/2026/10/04/picard-3-0-released/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49965047">https://news.ycombinator.com/item?id=49965047</a></p>
+<p>Points: 18</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108](https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108)
+🔗 **Read more:** [https://blog.metabrainz.org/2026/10/04/picard-3-0-released/](https://blog.metabrainz.org/2026/10/04/picard-3-0-released/)
 
 ---
 
-### 4. US removes all bombers from RAF Fairford base
+### 4. No 10 insists RAF Fairford is safe after US withdraws bombers
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-No reason has been given for the withdrawal, but it follows a major incident last week when police were alerted to "suspicious vehicles" near the airbase.
+US media reported a new threat led to the bombers being removed on Sunday, following an incident near the base last week.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Andrew takes legal action over search warrants relating to arrest
+### 5. What we know about Andrew Mountbatten-Windsor's legal action against police
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Mountbatten-Windsor was arrested on suspicion of misconduct in public office and later released under investigation in February.
+Andrew Mountbatten-Windsor is taking legal action against Thames Valley Police over his arrest in February.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c689zl5eljdzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c689zl5eljdzo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cv62yd93z906o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cv62yd93z906o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Polanski banned from Israel after party's motion declaring 'Zionism is racism'
+### 6. Teenager's hand blown off during confrontation between France school protesters and police
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The vote has caused divisions among figures at the top of the party at its conference in Brighton.
+The prefect of Pas-de-Calais says the 15-year-old's life is "not in danger" after the "very serious" incident.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6jdm5n1vy7go?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6jdm5n1vy7go?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9zrdmxp4vy6o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9zrdmxp4vy6o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Pakistan installs fishing nets at security outposts to block drone attacks
+### 7. Bosnia and Herzegovina elections: Return to a nationalist political order?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Strung several metres overhead, the nets are a low-cost solution in sensitive areas prone to attacks by armed groups.
+Results raise the prospect of a new conservative alliance and further political polarisation, analysts say.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/5/pakistan-installs-fishing-nets-at-security-outposts-to-block-drone-attacks?traffic_source=rss](https://www.aljazeera.com/news/2026/10/5/pakistan-installs-fishing-nets-at-security-outposts-to-block-drone-attacks?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/5/nationalist-conservative-parties-enjoy-a-boost-in-bosnia-and-herzegovina?traffic_source=rss](https://www.aljazeera.com/news/2026/10/5/nationalist-conservative-parties-enjoy-a-boost-in-bosnia-and-herzegovina?traffic_source=rss)
 
 ---
 
-### 8. France vs Belgium: UEFA Nations League – Olise, De Bruyne, teams and format
+### 8. LIVE: France vs Belgium – UEFA Nations League
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Only one point separates Group A1 leaders France and second-placed Belgium before Monday&#039;s clash.
+Build-up. teams and live text commentary stream of France&#039;s Nations League Group A1 game against Belgium in Paris
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/5/france-belgium-uefa-nations-league-olise-de-bruyne-tielemans-teams-format?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/5/france-belgium-uefa-nations-league-olise-de-bruyne-tielemans-teams-format?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/liveblog/2026/10/5/live-france-vs-belgium-uefa-nations-league?traffic_source=rss](https://www.aljazeera.com/sports/liveblog/2026/10/5/live-france-vs-belgium-uefa-nations-league?traffic_source=rss)
 
 ---
 
-### 9. Spain’s Pedro Sanchez announces snap election amid housing crisis
+### 9. Nigeria launches rescue after military plane crashes with 32 aboard
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Sanchez calls early vote after Parliament rejected housing relief measures proposed by his minority government.
+Nigeria launches rescue operation after military aircraft carrying 32 people crashes in Ondo state.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/5/spanish-prime-minister-pedro-sanchez-announces-snap-election?traffic_source=rss](https://www.aljazeera.com/news/2026/10/5/spanish-prime-minister-pedro-sanchez-announces-snap-election?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/5/nigeria-launches-rescue-after-military-plane-crashes-with-32-aboard?traffic_source=rss](https://www.aljazeera.com/news/2026/10/5/nigeria-launches-rescue-after-military-plane-crashes-with-32-aboard?traffic_source=rss)
 
 ---
 

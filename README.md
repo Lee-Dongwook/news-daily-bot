@@ -1,32 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-05 10:45:38
+**Last Update:** 2026-10-05 12:08:06
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Anthropic reported diary entry to police, woman faces felony charge
+### 1. Sales of sub-€25,000 electric car models set to rise sevenfold
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html">https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49961057">https://news.ycombinator.com/item?id=49961057</a></p>
-<p>Points: 43</p>
-<p># Comments: 36</p>
+<p>Article URL: <a href="https://www.transportenvironment.org/articles/wave-of-affordable-electric-cars-is-boosting-consumers-choice-sales-of-sub-eur25-000-models-set-to-rise-sevenfold">https://www.transportenvironment.org/articles/wave-of-affordable-electric-cars-is-boosting-consumers-choice-sales-of-sub-eur25-000-models-set-to-rise-sevenfold</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49961890">https://news.ycombinator.com/item?id=49961890</a></p>
+<p>Points: 15</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html](https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html)
+🔗 **Read more:** [https://www.transportenvironment.org/articles/wave-of-affordable-electric-cars-is-boosting-consumers-choice-sales-of-sub-eur25-000-models-set-to-rise-sevenfold](https://www.transportenvironment.org/articles/wave-of-affordable-electric-cars-is-boosting-consumers-choice-sales-of-sub-eur25-000-models-set-to-rise-sevenfold)
 
 ---
 
-### 2. Replacement of petroleum based products with plant-based materials (2025)
+### 2. Huawei and Qualcomm Announce Broad Patent License Agreement
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement">https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49961861">https://news.ycombinator.com/item?id=49961861</a></p>
+<p>Points: 17</p>
+<p># Comments: 11</p>
+
+🔗 **Read more:** [https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement](https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement)
+
+---
+
+### 3. Replacement of petroleum based products with plant-based materials (2025)
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108">https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49960901">https://news.ycombinator.com/item?id=49960901</a></p>
-<p>Points: 35</p>
-<p># Comments: 4</p>
+<p>Points: 54</p>
+<p># Comments: 22</p>
 
 🔗 **Read more:** [https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108](https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108)
-
----
-
-### 3. Nearly 200 people under observation after Irkutsk lab worker dies from plague
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857">https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49960084">https://news.ycombinator.com/item?id=49960084</a></p>
-<p>Points: 187</p>
-<p># Comments: 150</p>
-
-🔗 **Read more:** [https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857](https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857)
 
 ---
 
@@ -71,7 +71,20 @@ No reason has been given for the withdrawal, but it follows a major incident las
 
 ---
 
-### 5. Polanski banned from Israel after party's motion declaring 'Zionism is racism'
+### 5. Andrew takes legal action over search warrants relating to arrest
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Mountbatten-Windsor was arrested on suspicion of misconduct in public office and later released under investigation in February.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c689zl5eljdzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c689zl5eljdzo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Polanski banned from Israel after party's motion declaring 'Zionism is racism'
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ The vote has caused divisions among figures at the top of the party at its confe
 
 ---
 
-### 6. Protesters scuffle with police as migrants brought ashore on south coast
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The Home Office said 149 migrants were brought ashore and taken by coach to a processing centre in Kent.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmrly809n8p6o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmrly809n8p6o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Djokovic defeats top seed Zverev to reach China Open semifinals
+### 7. Pakistan installs fishing nets at security outposts to block drone attacks
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Novak Djokovic to face Daniil Medvedev in the semifinals in Beijing after the Russian defeats Francisco Cerundolo.
+Strung several metres overhead, the nets are a low-cost solution in sensitive areas prone to attacks by armed groups.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/5/djokovic-defeats-top-seed-zverev-to-reach-china-open-semifinals?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/5/djokovic-defeats-top-seed-zverev-to-reach-china-open-semifinals?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/5/pakistan-installs-fishing-nets-at-security-outposts-to-block-drone-attacks?traffic_source=rss](https://www.aljazeera.com/news/2026/10/5/pakistan-installs-fishing-nets-at-security-outposts-to-block-drone-attacks?traffic_source=rss)
 
 ---
 
-### 8. Middle East oil exports surpass pre-war levels despite tensions, data shows
+### 8. France vs Belgium: UEFA Nations League – Olise, De Bruyne, teams and format
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-IRGC commander says oil flows through US-supervised route in Hormuz are ‘negligible’.
+Only one point separates Group A1 leaders France and second-placed Belgium before Monday&#039;s clash.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/5/middle-east-oil-exports-surpass-pre-war-levels-despite-tensions-data-shows?traffic_source=rss](https://www.aljazeera.com/news/2026/10/5/middle-east-oil-exports-surpass-pre-war-levels-despite-tensions-data-shows?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/5/france-belgium-uefa-nations-league-olise-de-bruyne-tielemans-teams-format?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/5/france-belgium-uefa-nations-league-olise-de-bruyne-tielemans-teams-format?traffic_source=rss)
 
 ---
 
-### 9. Who were the top teen athletes at the Asian Games?
+### 9. Spain’s Pedro Sanchez announces snap election amid housing crisis
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-China’s Zhang Zhanshuo, 19, finished with seven gold medals while compatriot Yu Zidi won three record-breaking golds.
+Sanchez calls early vote after Parliament rejected housing relief measures proposed by his minority government.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/5/who-were-the-top-teen-athletes-at-the-asian-games?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/5/who-were-the-top-teen-athletes-at-the-asian-games?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/5/spanish-prime-minister-pedro-sanchez-announces-snap-election?traffic_source=rss](https://www.aljazeera.com/news/2026/10/5/spanish-prime-minister-pedro-sanchez-announces-snap-election?traffic_source=rss)
 
 ---
 

@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-05T12:08:06+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Sales of sub-€25,000 electric car models set to rise sevenfold",
+            "description": "<p>Article URL: <a href=\"https://www.transportenvironment.org/articles/wave-of-affordable-electric-cars-is-boosting-consumers-choice-sales-of-sub-eur25-000-models-set-to-rise-sevenfold\">https://www.transportenvironment.org/articles/wave-of-affordable-electric-cars-is-boosting-consumers-choice-sales-of-sub-eur25-000-models-set-to-rise-sevenfold</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49961890\">https://news.ycombinator.com/item?id=49961890</a></p>\n<p>Points: 15</p>\n<p># Comments: 3</p>",
+            "url": "https://www.transportenvironment.org/articles/wave-of-affordable-electric-cars-is-boosting-consumers-choice-sales-of-sub-eur25-000-models-set-to-rise-sevenfold",
+            "published": "Mon, 05 Oct 2026 07:51:14 +0000",
+            "fetched": "2026-10-05T12:08:06+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Huawei and Qualcomm Announce Broad Patent License Agreement",
+            "description": "<p>Article URL: <a href=\"https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement\">https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49961861\">https://news.ycombinator.com/item?id=49961861</a></p>\n<p>Points: 17</p>\n<p># Comments: 11</p>",
+            "url": "https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement",
+            "published": "Mon, 05 Oct 2026 07:46:10 +0000",
+            "fetched": "2026-10-05T12:08:06+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Replacement of petroleum based products with plant-based materials (2025)",
+            "description": "<p>Article URL: <a href=\"https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108\">https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49960901\">https://news.ycombinator.com/item?id=49960901</a></p>\n<p>Points: 54</p>\n<p># Comments: 22</p>",
+            "url": "https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108",
+            "published": "Mon, 05 Oct 2026 05:09:43 +0000",
+            "fetched": "2026-10-05T12:08:06+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "US removes all bombers from RAF Fairford base",
+            "description": "No reason has been given for the withdrawal, but it follows a major incident last week when police were alerted to \"suspicious vehicles\" near the airbase.",
+            "url": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 05 Oct 2026 08:28:37 GMT",
+            "fetched": "2026-10-05T12:08:06+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Andrew takes legal action over search warrants relating to arrest",
+            "description": "Mountbatten-Windsor was arrested on suspicion of misconduct in public office and later released under investigation in February.",
+            "url": "https://www.bbc.co.uk/news/articles/c689zl5eljdzo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 05 Oct 2026 08:13:38 GMT",
+            "fetched": "2026-10-05T12:08:06+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Polanski banned from Israel after party's motion declaring 'Zionism is racism'",
+            "description": "The vote has caused divisions among figures at the top of the party at its conference in Brighton.",
+            "url": "https://www.bbc.co.uk/news/articles/c6jdm5n1vy7go?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 05 Oct 2026 05:35:36 GMT",
+            "fetched": "2026-10-05T12:08:06+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Pakistan installs fishing nets at security outposts to block drone attacks",
+            "description": "Strung several metres overhead, the nets are a low-cost solution in sensitive areas prone to attacks by armed groups.",
+            "url": "https://www.aljazeera.com/news/2026/10/5/pakistan-installs-fishing-nets-at-security-outposts-to-block-drone-attacks?traffic_source=rss",
+            "published": "Mon, 05 Oct 2026 08:20:34 +0000",
+            "fetched": "2026-10-05T12:08:06+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "France vs Belgium: UEFA Nations League – Olise, De Bruyne, teams and format",
+            "description": "Only one point separates Group A1 leaders France and second-placed Belgium before Monday&#039;s clash.",
+            "url": "https://www.aljazeera.com/sports/2026/10/5/france-belgium-uefa-nations-league-olise-de-bruyne-tielemans-teams-format?traffic_source=rss",
+            "published": "Mon, 05 Oct 2026 08:05:25 +0000",
+            "fetched": "2026-10-05T12:08:06+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Spain’s Pedro Sanchez announces snap election amid housing crisis",
+            "description": "Sanchez calls early vote after Parliament rejected housing relief measures proposed by his minority government.",
+            "url": "https://www.aljazeera.com/news/2026/10/5/spanish-prime-minister-pedro-sanchez-announces-snap-election?traffic_source=rss",
+            "published": "Mon, 05 Oct 2026 07:14:41 +0000",
+            "fetched": "2026-10-05T12:08:06+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Super Typhoon Choi-wan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24962",
+            "published": "2026-09-30T12:00:00Z",
+            "fetched": "2026-10-05T12:08:06+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire SAN FRANCISCO 2, Starr, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24964",
+            "published": "2026-09-30T08:56:00Z",
+            "fetched": "2026-10-05T12:08:06+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Hatch Grade, Walla Walla, Washington",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24963",
+            "published": "2026-09-29T19:50:00Z",
+            "fetched": "2026-10-05T12:08:06+03:30"
+        }
+    ]
+}

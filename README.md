@@ -1,64 +1,90 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-05 21:37:13
+**Last Update:** 2026-10-06 02:17:21
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. US closely monitoring case of lab worker who possibly died of plague in Siberia
+### 1. Find the flattest route between any two points in SF
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.theguardian.com/world/2026/oct/05/russia-lab-worker-possibly-dies-of-plague-siberia-quarantine-measures-irkutsk">https://www.theguardian.com/world/2026/oct/05/russia-lab-worker-possibly-dies-of-plague-siberia-quarantine-measures-irkutsk</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49967444">https://news.ycombinator.com/item?id=49967444</a></p>
-<p>Points: 62</p>
-<p># Comments: 27</p>
+<p>Article URL: <a href="https://flattensf.com/">https://flattensf.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49971230">https://news.ycombinator.com/item?id=49971230</a></p>
+<p>Points: 35</p>
+<p># Comments: 7</p>
 
-🔗 **Read more:** [https://www.theguardian.com/world/2026/oct/05/russia-lab-worker-possibly-dies-of-plague-siberia-quarantine-measures-irkutsk](https://www.theguardian.com/world/2026/oct/05/russia-lab-worker-possibly-dies-of-plague-siberia-quarantine-measures-irkutsk)
+🔗 **Read more:** [https://flattensf.com/](https://flattensf.com/)
 
 ---
 
-### 2. Our approach to EU text provenance rules
+### 2. Dust: Pretraining Transformers Without Backpropagation
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://openai.com/index/eu-text-provenance/">https://openai.com/index/eu-text-provenance/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49966293">https://news.ycombinator.com/item?id=49966293</a></p>
-<p>Points: 27</p>
+<p>Article URL: <a href="https://qlabs.sh/research/dust">https://qlabs.sh/research/dust</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49970871">https://news.ycombinator.com/item?id=49970871</a></p>
+<p>Points: 49</p>
 <p># Comments: 3</p>
 
-🔗 **Read more:** [https://openai.com/index/eu-text-provenance/](https://openai.com/index/eu-text-provenance/)
+🔗 **Read more:** [https://qlabs.sh/research/dust](https://qlabs.sh/research/dust)
 
 ---
 
-### 3. The future of independence is interdependence
+### 3. Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://onlys.ky/independence-is-interdependence/">https://onlys.ky/independence-is-interdependence/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49966163">https://news.ycombinator.com/item?id=49966163</a></p>
-<p>Points: 41</p>
-<p># Comments: 23</p>
+<p>Article URL: <a href="https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors">https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49970667">https://news.ycombinator.com/item?id=49970667</a></p>
+<p>Points: 127</p>
+<p># Comments: 108</p>
 
-🔗 **Read more:** [https://onlys.ky/independence-is-interdependence/](https://onlys.ky/independence-is-interdependence/)
+🔗 **Read more:** [https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors](https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors)
 
 ---
 
-### 4. King's funding for Andrew not to be used for legal action against police
+### 4. Trump says 'threat' led US to pull bombers from RAF Fairford
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Author and former politician Jeffrey Archer dies aged 86
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+His last book, Adam and Eve, is set to release this month.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckj0l401dvpgo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckj0l401dvpgo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. King's funding for Andrew not to be used for legal action against police
 
 **Source:** BBC
 
@@ -71,85 +97,46 @@ Andrew Mountbatten-Windsor is taking action over search warrants issued ahead of
 
 ---
 
-### 5. What we know about Andrew Mountbatten-Windsor's legal action against police
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Andrew Mountbatten-Windsor is taking legal action against Thames Valley Police over his arrest in February.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cv62yd93z906o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cv62yd93z906o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. No 10 insists RAF Fairford is safe after US withdraws bombers
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-US media reported a new threat led to the bombers being removed on Sunday, following an incident near the base last week.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Rubio: No direct link between US bombers removal and UK base incident
+### 7. ‘Smash the patriarchy’: Activists graffiti Cornell hall over gang rape case
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Rubio visits Iceland, says no direct link between the removal of US bombers and suspicions of a terrorist act in the UK
+Student groups call for the abolition of Greek life and more punitive action in the wake of fraternity assault allegations.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/5/rubio-no-direct-link-between-us-bombers-removal-and-uk-base-incident?traffic_source=rss](https://www.aljazeera.com/news/2026/10/5/rubio-no-direct-link-between-us-bombers-removal-and-uk-base-incident?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/5/smash-the-patriarchy-activists-graffiti-cornell-hall-over-gang-rape-case?traffic_source=rss](https://www.aljazeera.com/news/2026/10/5/smash-the-patriarchy-activists-graffiti-cornell-hall-over-gang-rape-case?traffic_source=rss)
 
 ---
 
-### 8. Spain calls snap election amid housing crisis
+### 8. Super-subs help France demolish Belgium with late flurry
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Mounting anger over Spain’s housing crisis have led Prime Minister Sanchez to call an early election on November 29
+Michael Olise scores twice and assists as France come from 1-0 with 13 minutes left to beat Belgium 4-1
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/5/spain-calls-snap-election-amid-housing-crisis?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/5/spain-calls-snap-election-amid-housing-crisis?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/5/super-subs-help-france-demolish-belgium-with-late-flurry?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/5/super-subs-help-france-demolish-belgium-with-late-flurry?traffic_source=rss)
 
 ---
 
-### 9. Jerusalem Daily: Netanyahu gives voters dramatic ultimatum
+### 9. Ethiopia’s PM insists on access to Red Sea despite regional conflict threat
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli Prime Minister Benjamin Netanyahu has given voters an election ultimatum: Vote for him or vote for Palestine.
+Neighbouring countries say coastal states must govern Red Sea as fighting escalates in northern Ethiopia.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/5/jerusalem-daily-netanyahu-gives-voters-dramatic-ultimatum?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/5/jerusalem-daily-netanyahu-gives-voters-dramatic-ultimatum?traffic_source=rss)
-
----
-
-### 10. Super Typhoon Choi-wan
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24962](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24962)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/5/ethiopias-pm-insists-on-access-to-red-sea-despite-regional-conflict-threat?traffic_source=rss](https://www.aljazeera.com/news/2026/10/5/ethiopias-pm-insists-on-access-to-red-sea-despite-regional-conflict-threat?traffic_source=rss)
 
 ---
 
-### 11. Wildfire SAN FRANCISCO 2, Starr, Texas
+### 10. Prescribed Fire D3 Bear RX, Greenlee, Arizona
 
 **Source:** NASA
 
@@ -158,11 +145,11 @@ Natural event: Severe Storms
 **Description:**
 Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24964](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24964)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25043](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25043)
 
 ---
 
-### 12. Wildfire Hatch Grade, Walla Walla, Washington
+### 11. Wildfire Bull, Washoe, Nevada
 
 **Source:** NASA
 
@@ -171,7 +158,20 @@ Natural event: Wildfires
 **Description:**
 Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24963](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24963)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25042](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25042)
+
+---
+
+### 12. Prescribed Fire Starvation 11A Rx, Wallowa, Oregon
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25045](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25045)
 
 ---
 

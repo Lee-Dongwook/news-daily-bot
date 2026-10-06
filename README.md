@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-06 10:50:15
+**Last Update:** 2026-10-06 14:04:35
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Resurrecting iChat Audio and Video Conferencing
+### 1. Nobel Prize in Physics goes to Francis Halzen
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.nobelprize.org/prizes/physics/2026/">https://www.nobelprize.org/prizes/physics/2026/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49976265">https://news.ycombinator.com/item?id=49976265</a></p>
+<p>Points: 45</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://www.nobelprize.org/prizes/physics/2026/](https://www.nobelprize.org/prizes/physics/2026/)
+
+---
+
+### 2. Anthropic Subscriptions Offer 5x+ More Value Than OpenAI
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x">https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49975345">https://news.ycombinator.com/item?id=49975345</a></p>
+<p>Points: 36</p>
+<p># Comments: 29</p>
+
+🔗 **Read more:** [https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x](https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x)
+
+---
+
+### 3. Resurrecting iChat Audio and Video Conferencing
 
 **Source:** Hacker News
 
@@ -19,120 +51,88 @@
 **Description:**
 <p>Article URL: <a href="https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/">https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49973878">https://news.ycombinator.com/item?id=49973878</a></p>
-<p>Points: 35</p>
-<p># Comments: 6</p>
+<p>Points: 50</p>
+<p># Comments: 12</p>
 
 🔗 **Read more:** [https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/](https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/)
 
 ---
 
-### 2. Why Common Lisp is now the best programming language
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.vivienhenz.com/common-lisp">https://www.vivienhenz.com/common-lisp</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49973598">https://news.ycombinator.com/item?id=49973598</a></p>
-<p>Points: 128</p>
-<p># Comments: 169</p>
-
-🔗 **Read more:** [https://www.vivienhenz.com/common-lisp](https://www.vivienhenz.com/common-lisp)
-
----
-
-### 3. Samon: Designing a Zen Garden Raking Puzzle
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://gwern.net/doc/design/2026-10-03-gwern-samon.html">https://gwern.net/doc/design/2026-10-03-gwern-samon.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49972211">https://news.ycombinator.com/item?id=49972211</a></p>
-<p>Points: 40</p>
-<p># Comments: 17</p>
-
-🔗 **Read more:** [https://gwern.net/doc/design/2026-10-03-gwern-samon.html](https://gwern.net/doc/design/2026-10-03-gwern-samon.html)
-
----
-
-### 4. Trump says 'threat' led US to pull bombers from RAF Fairford
+### 4. Watch: At the scene of protests on the streets of Lille
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America.
+The demonstrators are calling for better government investment in high schools.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c6reyz98gz2no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c6reyz98gz2no?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. France braces for national day of school protests after injuries and mass arrests
+### 5. Tories pledge £10bn British 'Iron Dome' air defence system
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-France prepares for a day of protests in support of students who’ve been demanding more investment in education.
+The Conservatives say their plan would protect the UK at a time when Nato allies have warned of Russian drone incursions.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr4g1q1elxnjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr4g1q1elxnjo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cxvgdl5npl86o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cxvgdl5npl86o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Author and former politician Jeffrey Archer dies aged 86
+### 6. Former German spy chief arrested for espionage and treason
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Archer sold more than 300 million books in his five-decade writing career, and his last book, Adam and Eve, was due to be released later this month.
+August Hanning is accused of obtaining classified information for a foreign power.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckj0l401dvpgo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckj0l401dvpgo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Southeast Asia’s energy chiefs meet against backdrop of Iran war
+### 7. Kenya ministry of health confirms first imported Ebola case
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-ASEAN ministers to discuss energy security amid energy crunch caused by the war on Iran.
+The first imported case of Ebola has been recorded in Kenya.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/6/southeast-asias-energy-chiefs-meet-against-backdrop-of-iran-war?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/6/southeast-asias-energy-chiefs-meet-against-backdrop-of-iran-war?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/6/kenya-ministry-of-health-confirms-first-imported-ebola-case?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/6/kenya-ministry-of-health-confirms-first-imported-ebola-case?traffic_source=rss)
 
 ---
 
-### 8. Will Cristiano Ronaldo play for Portugal after a row with coach Jesus?
+### 8. India’s ‘million mutinies’ are puncturing Modi’s aura of invincibility
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ronaldo sparked controversy last week when he walked out of the camp after learning that he would not start a game.
+Across the country, Indians are turning disparate grievances into a broader reckoning with unaccountable power.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/6/cristiano-ronaldo-portugal-nations-league-jorge-jesus?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/6/cristiano-ronaldo-portugal-nations-league-jorge-jesus?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/10/6/indias-million-mutinies-are-puncturing-modis-aura-of-invincibility?traffic_source=rss](https://www.aljazeera.com/opinions/2026/10/6/indias-million-mutinies-are-puncturing-modis-aura-of-invincibility?traffic_source=rss)
 
 ---
 
-### 9. Croatia vs Spain: UEFA Nations League – Yamal, Modric, head-to-head
+### 9. ‘Hitting the right nail’: Refugee rescue group defiant as Greece targets it
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Coming on the back of a 10-match winning streak, Spain face Croatia with sights set on the Nations League quarterfinals.
+Aegean Boat Report founder Tommy Olsen insists he is defending the rule of law, as Greece opens trial against him.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/6/croatia-spain-uefa-nations-league-yamal-modric-format-teams?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/6/croatia-spain-uefa-nations-league-yamal-modric-format-teams?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/6/hitting-the-right-nail-refugee-rescue-group-defiant-as-greece-targets-it?traffic_source=rss](https://www.aljazeera.com/news/2026/10/6/hitting-the-right-nail-refugee-rescue-group-defiant-as-greece-targets-it?traffic_source=rss)
 
 ---
 

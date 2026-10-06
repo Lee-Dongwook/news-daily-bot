@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-06 06:39:19
+**Last Update:** 2026-10-06 10:50:15
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Photopea creator weighs in on Photosuite project
+### 1. Resurrecting iChat Audio and Video Conferencing
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/eolix/photosuite/issues/77">https://github.com/eolix/photosuite/issues/77</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49972730">https://news.ycombinator.com/item?id=49972730</a></p>
-<p>Points: 19</p>
-<p># Comments: 7</p>
+<p>Article URL: <a href="https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/">https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49973878">https://news.ycombinator.com/item?id=49973878</a></p>
+<p>Points: 35</p>
+<p># Comments: 6</p>
 
-🔗 **Read more:** [https://github.com/eolix/photosuite/issues/77](https://github.com/eolix/photosuite/issues/77)
+🔗 **Read more:** [https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/](https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/)
 
 ---
 
-### 2. High Diesel Prices Bankrupted 16 Trucking Companies in Just 30 Days
+### 2. Why Common Lisp is now the best programming language
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.thedrive.com/news/high-diesel-prices-bankrupted-16-trucking-companies-in-just-30-days">https://www.thedrive.com/news/high-diesel-prices-bankrupted-16-trucking-companies-in-just-30-days</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49972607">https://news.ycombinator.com/item?id=49972607</a></p>
-<p>Points: 45</p>
-<p># Comments: 16</p>
+<p>Article URL: <a href="https://www.vivienhenz.com/common-lisp">https://www.vivienhenz.com/common-lisp</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49973598">https://news.ycombinator.com/item?id=49973598</a></p>
+<p>Points: 128</p>
+<p># Comments: 169</p>
 
-🔗 **Read more:** [https://www.thedrive.com/news/high-diesel-prices-bankrupted-16-trucking-companies-in-just-30-days](https://www.thedrive.com/news/high-diesel-prices-bankrupted-16-trucking-companies-in-just-30-days)
+🔗 **Read more:** [https://www.vivienhenz.com/common-lisp](https://www.vivienhenz.com/common-lisp)
 
 ---
 
-### 3. AI Tutoring with Khanmigo in a Two-Year School Experiment
+### 3. Samon: Designing a Zen Garden Raking Puzzle
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://edworkingpapers.com/ai26-1551">https://edworkingpapers.com/ai26-1551</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49972419">https://news.ycombinator.com/item?id=49972419</a></p>
-<p>Points: 39</p>
-<p># Comments: 26</p>
+<p>Article URL: <a href="https://gwern.net/doc/design/2026-10-03-gwern-samon.html">https://gwern.net/doc/design/2026-10-03-gwern-samon.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49972211">https://news.ycombinator.com/item?id=49972211</a></p>
+<p>Points: 40</p>
+<p># Comments: 17</p>
 
-🔗 **Read more:** [https://edworkingpapers.com/ai26-1551](https://edworkingpapers.com/ai26-1551)
+🔗 **Read more:** [https://gwern.net/doc/design/2026-10-03-gwern-samon.html](https://gwern.net/doc/design/2026-10-03-gwern-samon.html)
 
 ---
 
@@ -71,16 +71,16 @@ The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in 
 
 ---
 
-### 5. What prompted the US bombers to leave RAF Fairford?
+### 5. France braces for national day of school protests after injuries and mass arrests
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The mass evacuation of American bombers from the UK points to concern in the Pentagon, our security correspondent writes.
+France prepares for a day of protests in support of students who’ve been demanding more investment in education.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck87z09xe82qo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck87z09xe82qo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr4g1q1elxnjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr4g1q1elxnjo?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +97,42 @@ Archer sold more than 300 million books in his five-decade writing career, and h
 
 ---
 
-### 7. Trump says taxpayers will no longer fund TV ads that praise him
+### 7. Southeast Asia’s energy chiefs meet against backdrop of Iran war
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Move comes after ethics experts criticised three nationally broadcast ads and called for independent investigations.
+ASEAN ministers to discuss energy security amid energy crunch caused by the war on Iran.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/6/trump-says-taxpayers-will-no-longer-fund-tv-ads-that-praise-him?traffic_source=rss](https://www.aljazeera.com/news/2026/10/6/trump-says-taxpayers-will-no-longer-fund-tv-ads-that-praise-him?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/6/southeast-asias-energy-chiefs-meet-against-backdrop-of-iran-war?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/6/southeast-asias-energy-chiefs-meet-against-backdrop-of-iran-war?traffic_source=rss)
 
 ---
 
-### 8. Turkiye, Pakistan to deploy forces to Saudi as Yemen fighting grows
+### 8. Will Cristiano Ronaldo play for Portugal after a row with coach Jesus?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-During emergency talks in Riyadh, Turkiye and Pakistan agreed to send rapid deployment forces to Saudi Arabia.
+Ronaldo sparked controversy last week when he walked out of the camp after learning that he would not start a game.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/6/10-6-yemen-war-update-sv?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/6/10-6-yemen-war-update-sv?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/6/cristiano-ronaldo-portugal-nations-league-jorge-jesus?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/6/cristiano-ronaldo-portugal-nations-league-jorge-jesus?traffic_source=rss)
 
 ---
 
-### 9. Former ‘American Idol’ singer Caleb Flynn gets life for wife’s murder
+### 9. Croatia vs Spain: UEFA Nations League – Yamal, Modric, head-to-head
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Former ‘American Idol’ singer Caleb Flynn is sentenced to life without parole after being convicted of his wife&#039;s murder
+Coming on the back of a 10-match winning streak, Spain face Croatia with sights set on the Nations League quarterfinals.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/6/former-american-idol-singer-caleb-flynn-gets-life-for-wifes-murder?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/6/former-american-idol-singer-caleb-flynn-gets-life-for-wifes-murder?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/6/croatia-spain-uefa-nations-league-yamal-modric-format-teams?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/6/croatia-spain-uefa-nations-league-yamal-modric-format-teams?traffic_source=rss)
 
 ---
 

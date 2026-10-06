@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-06T10:50:15+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Resurrecting iChat Audio and Video Conferencing",
+            "description": "<p>Article URL: <a href=\"https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/\">https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49973878\">https://news.ycombinator.com/item?id=49973878</a></p>\n<p>Points: 35</p>\n<p># Comments: 6</p>",
+            "url": "https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/",
+            "published": "Tue, 06 Oct 2026 03:39:01 +0000",
+            "fetched": "2026-10-06T10:50:15+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Why Common Lisp is now the best programming language",
+            "description": "<p>Article URL: <a href=\"https://www.vivienhenz.com/common-lisp\">https://www.vivienhenz.com/common-lisp</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49973598\">https://news.ycombinator.com/item?id=49973598</a></p>\n<p>Points: 128</p>\n<p># Comments: 169</p>",
+            "url": "https://www.vivienhenz.com/common-lisp",
+            "published": "Tue, 06 Oct 2026 02:51:51 +0000",
+            "fetched": "2026-10-06T10:50:15+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Samon: Designing a Zen Garden Raking Puzzle",
+            "description": "<p>Article URL: <a href=\"https://gwern.net/doc/design/2026-10-03-gwern-samon.html\">https://gwern.net/doc/design/2026-10-03-gwern-samon.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49972211\">https://news.ycombinator.com/item?id=49972211</a></p>\n<p>Points: 40</p>\n<p># Comments: 17</p>",
+            "url": "https://gwern.net/doc/design/2026-10-03-gwern-samon.html",
+            "published": "Mon, 05 Oct 2026 23:35:35 +0000",
+            "fetched": "2026-10-06T10:50:15+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
+            "description": "The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America.",
+            "url": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 06 Oct 2026 07:02:24 GMT",
+            "fetched": "2026-10-06T10:50:15+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "France braces for national day of school protests after injuries and mass arrests",
+            "description": "France prepares for a day of protests in support of students who’ve been demanding more investment in education.",
+            "url": "https://www.bbc.co.uk/news/articles/cr4g1q1elxnjo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 05 Oct 2026 21:18:10 GMT",
+            "fetched": "2026-10-06T10:50:15+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Author and former politician Jeffrey Archer dies aged 86",
+            "description": "Archer sold more than 300 million books in his five-decade writing career, and his last book, Adam and Eve, was due to be released later this month.",
+            "url": "https://www.bbc.co.uk/news/articles/ckj0l401dvpgo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 06 Oct 2026 03:19:57 GMT",
+            "fetched": "2026-10-06T10:50:15+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Southeast Asia’s energy chiefs meet against backdrop of Iran war",
+            "description": "ASEAN ministers to discuss energy security amid energy crunch caused by the war on Iran.",
+            "url": "https://www.aljazeera.com/economy/2026/10/6/southeast-asias-energy-chiefs-meet-against-backdrop-of-iran-war?traffic_source=rss",
+            "published": "Tue, 06 Oct 2026 07:07:47 +0000",
+            "fetched": "2026-10-06T10:50:15+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Will Cristiano Ronaldo play for Portugal after a row with coach Jesus?",
+            "description": "Ronaldo sparked controversy last week when he walked out of the camp after learning that he would not start a game.",
+            "url": "https://www.aljazeera.com/sports/2026/10/6/cristiano-ronaldo-portugal-nations-league-jorge-jesus?traffic_source=rss",
+            "published": "Tue, 06 Oct 2026 06:33:13 +0000",
+            "fetched": "2026-10-06T10:50:15+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Croatia vs Spain: UEFA Nations League – Yamal, Modric, head-to-head",
+            "description": "Coming on the back of a 10-match winning streak, Spain face Croatia with sights set on the Nations League quarterfinals.",
+            "url": "https://www.aljazeera.com/sports/2026/10/6/croatia-spain-uefa-nations-league-yamal-modric-format-teams?traffic_source=rss",
+            "published": "Tue, 06 Oct 2026 06:17:15 +0000",
+            "fetched": "2026-10-06T10:50:15+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire D3 Bear RX, Greenlee, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25043",
+            "published": "2026-10-02T17:58:00Z",
+            "fetched": "2026-10-06T10:50:15+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Bull, Washoe, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25042",
+            "published": "2026-10-02T14:26:00Z",
+            "fetched": "2026-10-06T10:50:15+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Starvation 11A Rx, Wallowa, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25045",
+            "published": "2026-09-30T15:52:00Z",
+            "fetched": "2026-10-06T10:50:15+03:30"
+        }
+    ]
+}

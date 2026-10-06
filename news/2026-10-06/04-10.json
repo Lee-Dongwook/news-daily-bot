@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-06T04:10:09+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "AI Tutoring with Khanmigo in a Two-Year School Experiment",
+            "description": "<p>Article URL: <a href=\"https://edworkingpapers.com/ai26-1551\">https://edworkingpapers.com/ai26-1551</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49972419\">https://news.ycombinator.com/item?id=49972419</a></p>\n<p>Points: 11</p>\n<p># Comments: 2</p>",
+            "url": "https://edworkingpapers.com/ai26-1551",
+            "published": "Tue, 06 Oct 2026 00:00:45 +0000",
+            "fetched": "2026-10-06T04:10:09+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Samon: Designing a Zen Garden Raking Puzzle",
+            "description": "<p>Article URL: <a href=\"https://gwern.net/doc/design/2026-10-03-gwern-samon.html\">https://gwern.net/doc/design/2026-10-03-gwern-samon.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49972211\">https://news.ycombinator.com/item?id=49972211</a></p>\n<p>Points: 6</p>\n<p># Comments: 1</p>",
+            "url": "https://gwern.net/doc/design/2026-10-03-gwern-samon.html",
+            "published": "Mon, 05 Oct 2026 23:35:35 +0000",
+            "fetched": "2026-10-06T04:10:09+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Ephemeral Testing",
+            "description": "<p>Article URL: <a href=\"https://lemire.me/blog/2026/10/05/ephemeral-testing/\">https://lemire.me/blog/2026/10/05/ephemeral-testing/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49972008\">https://news.ycombinator.com/item?id=49972008</a></p>\n<p>Points: 19</p>\n<p># Comments: 3</p>",
+            "url": "https://lemire.me/blog/2026/10/05/ephemeral-testing/",
+            "published": "Mon, 05 Oct 2026 23:06:36 +0000",
+            "fetched": "2026-10-06T04:10:09+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
+            "description": "The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America.",
+            "url": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 05 Oct 2026 21:46:22 GMT",
+            "fetched": "2026-10-06T04:10:09+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "What prompted the US bombers to leave RAF Fairford?",
+            "description": "The mass evacuation of American bombers from the UK points to concern in the Pentagon, our security correspondent writes.",
+            "url": "https://www.bbc.co.uk/news/articles/ck87z09xe82qo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 05 Oct 2026 21:57:26 GMT",
+            "fetched": "2026-10-06T04:10:09+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Author and former politician Jeffrey Archer dies aged 86",
+            "description": "His last book, Adam and Eve, is set to release this month.",
+            "url": "https://www.bbc.co.uk/news/articles/ckj0l401dvpgo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 05 Oct 2026 21:41:53 GMT",
+            "fetched": "2026-10-06T04:10:09+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Syrian Airlines unveils laser-sharp look for the future",
+            "description": "Syrian Airlines unveils a new visual identity as it rebrands amid Syria’s post-Assad development.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/syrian-airlines-unveils-laser-sharp-look-for-the-future?traffic_source=rss",
+            "published": "Tue, 06 Oct 2026 00:25:01 +0000",
+            "fetched": "2026-10-06T04:10:09+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Moroccan journalists recount years of surveillance amid new Amnesty claim",
+            "description": "Amnesty cites a whistleblower’s account of how Morocco allegedly uses surveillance to silence journalists.",
+            "url": "https://www.aljazeera.com/news/2026/10/6/moroccan-journalists-recount-years-of-surveillance-amid-new-amnesty-claim?traffic_source=rss",
+            "published": "Tue, 06 Oct 2026 00:13:16 +0000",
+            "fetched": "2026-10-06T04:10:09+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Police clash with Kosovo protesters over bid to curb Hague war crimes court",
+            "description": "The political dispute over the court has become a factor in negotiations to hold a new presidential election.",
+            "url": "https://www.aljazeera.com/news/2026/10/6/police-clash-with-kosovo-protesters-over-bid-to-curb-hague-war-crimes-court?traffic_source=rss",
+            "published": "Tue, 06 Oct 2026 00:10:27 +0000",
+            "fetched": "2026-10-06T04:10:09+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire D3 Bear RX, Greenlee, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25043",
+            "published": "2026-10-02T17:58:00Z",
+            "fetched": "2026-10-06T04:10:09+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Bull, Washoe, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25042",
+            "published": "2026-10-02T14:26:00Z",
+            "fetched": "2026-10-06T04:10:09+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Starvation 11A Rx, Wallowa, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25045",
+            "published": "2026-09-30T15:52:00Z",
+            "fetched": "2026-10-06T04:10:09+03:30"
+        }
+    ]
+}

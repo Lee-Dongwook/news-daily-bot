@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-06 02:17:21
+**Last Update:** 2026-10-06 04:10:09
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Find the flattest route between any two points in SF
+### 1. AI Tutoring with Khanmigo in a Two-Year School Experiment
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://flattensf.com/">https://flattensf.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49971230">https://news.ycombinator.com/item?id=49971230</a></p>
-<p>Points: 35</p>
-<p># Comments: 7</p>
+<p>Article URL: <a href="https://edworkingpapers.com/ai26-1551">https://edworkingpapers.com/ai26-1551</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49972419">https://news.ycombinator.com/item?id=49972419</a></p>
+<p>Points: 11</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://flattensf.com/](https://flattensf.com/)
+🔗 **Read more:** [https://edworkingpapers.com/ai26-1551](https://edworkingpapers.com/ai26-1551)
 
 ---
 
-### 2. Dust: Pretraining Transformers Without Backpropagation
+### 2. Samon: Designing a Zen Garden Raking Puzzle
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://qlabs.sh/research/dust">https://qlabs.sh/research/dust</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49970871">https://news.ycombinator.com/item?id=49970871</a></p>
-<p>Points: 49</p>
+<p>Article URL: <a href="https://gwern.net/doc/design/2026-10-03-gwern-samon.html">https://gwern.net/doc/design/2026-10-03-gwern-samon.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49972211">https://news.ycombinator.com/item?id=49972211</a></p>
+<p>Points: 6</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://gwern.net/doc/design/2026-10-03-gwern-samon.html](https://gwern.net/doc/design/2026-10-03-gwern-samon.html)
+
+---
+
+### 3. Ephemeral Testing
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://lemire.me/blog/2026/10/05/ephemeral-testing/">https://lemire.me/blog/2026/10/05/ephemeral-testing/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49972008">https://news.ycombinator.com/item?id=49972008</a></p>
+<p>Points: 19</p>
 <p># Comments: 3</p>
 
-🔗 **Read more:** [https://qlabs.sh/research/dust](https://qlabs.sh/research/dust)
-
----
-
-### 3. Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors">https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49970667">https://news.ycombinator.com/item?id=49970667</a></p>
-<p>Points: 127</p>
-<p># Comments: 108</p>
-
-🔗 **Read more:** [https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors](https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors)
+🔗 **Read more:** [https://lemire.me/blog/2026/10/05/ephemeral-testing/](https://lemire.me/blog/2026/10/05/ephemeral-testing/)
 
 ---
 
@@ -71,7 +71,20 @@ The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in 
 
 ---
 
-### 5. Author and former politician Jeffrey Archer dies aged 86
+### 5. What prompted the US bombers to leave RAF Fairford?
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The mass evacuation of American bombers from the UK points to concern in the Pentagon, our security correspondent writes.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck87z09xe82qo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck87z09xe82qo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Author and former politician Jeffrey Archer dies aged 86
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ His last book, Adam and Eve, is set to release this month.
 
 ---
 
-### 6. King's funding for Andrew not to be used for legal action against police
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Andrew Mountbatten-Windsor is taking action over search warrants issued ahead of his arrest in February.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9ly0l028d1go?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9ly0l028d1go?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. ‘Smash the patriarchy’: Activists graffiti Cornell hall over gang rape case
+### 7. Syrian Airlines unveils laser-sharp look for the future
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Student groups call for the abolition of Greek life and more punitive action in the wake of fraternity assault allegations.
+Syrian Airlines unveils a new visual identity as it rebrands amid Syria’s post-Assad development.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/5/smash-the-patriarchy-activists-graffiti-cornell-hall-over-gang-rape-case?traffic_source=rss](https://www.aljazeera.com/news/2026/10/5/smash-the-patriarchy-activists-graffiti-cornell-hall-over-gang-rape-case?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/6/syrian-airlines-unveils-laser-sharp-look-for-the-future?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/6/syrian-airlines-unveils-laser-sharp-look-for-the-future?traffic_source=rss)
 
 ---
 
-### 8. Super-subs help France demolish Belgium with late flurry
+### 8. Moroccan journalists recount years of surveillance amid new Amnesty claim
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Michael Olise scores twice and assists as France come from 1-0 with 13 minutes left to beat Belgium 4-1
+Amnesty cites a whistleblower’s account of how Morocco allegedly uses surveillance to silence journalists.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/5/super-subs-help-france-demolish-belgium-with-late-flurry?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/5/super-subs-help-france-demolish-belgium-with-late-flurry?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/6/moroccan-journalists-recount-years-of-surveillance-amid-new-amnesty-claim?traffic_source=rss](https://www.aljazeera.com/news/2026/10/6/moroccan-journalists-recount-years-of-surveillance-amid-new-amnesty-claim?traffic_source=rss)
 
 ---
 
-### 9. Ethiopia’s PM insists on access to Red Sea despite regional conflict threat
+### 9. Police clash with Kosovo protesters over bid to curb Hague war crimes court
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Neighbouring countries say coastal states must govern Red Sea as fighting escalates in northern Ethiopia.
+The political dispute over the court has become a factor in negotiations to hold a new presidential election.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/5/ethiopias-pm-insists-on-access-to-red-sea-despite-regional-conflict-threat?traffic_source=rss](https://www.aljazeera.com/news/2026/10/5/ethiopias-pm-insists-on-access-to-red-sea-despite-regional-conflict-threat?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/6/police-clash-with-kosovo-protesters-over-bid-to-curb-hague-war-crimes-court?traffic_source=rss](https://www.aljazeera.com/news/2026/10/6/police-clash-with-kosovo-protesters-over-bid-to-curb-hague-war-crimes-court?traffic_source=rss)
 
 ---
 

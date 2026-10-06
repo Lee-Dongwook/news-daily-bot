@@ -1,61 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-06 23:34:14
+**Last Update:** 2026-10-07 01:15:27
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, Al Jazeera, BBC
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. AI is now capable of developing its own inference hardware
+### 1. OpenSSH 10.6
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/FeSens/openTPU">https://github.com/FeSens/openTPU</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49980715">https://news.ycombinator.com/item?id=49980715</a></p>
-<p>Points: 154</p>
-<p># Comments: 163</p>
+<p>Article URL: <a href="https://www.openssh.org/releasenotes.html#10.6">https://www.openssh.org/releasenotes.html#10.6</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49983791">https://news.ycombinator.com/item?id=49983791</a></p>
+<p>Points: 26</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://github.com/FeSens/openTPU](https://github.com/FeSens/openTPU)
+🔗 **Read more:** [https://www.openssh.org/releasenotes.html#10.6](https://www.openssh.org/releasenotes.html#10.6)
 
 ---
 
-### 2. The Early History of Smalltalk (1993)
+### 2. Paramount completes $111B Warner merger, creating "Skydance" behemoth
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://worrydream.com/EarlyHistoryOfSmalltalk/">https://worrydream.com/EarlyHistoryOfSmalltalk/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49979845">https://news.ycombinator.com/item?id=49979845</a></p>
-<p>Points: 71</p>
-<p># Comments: 32</p>
+<p>Article URL: <a href="https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/">https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49983703">https://news.ycombinator.com/item?id=49983703</a></p>
+<p>Points: 68</p>
+<p># Comments: 55</p>
 
-🔗 **Read more:** [https://worrydream.com/EarlyHistoryOfSmalltalk/](https://worrydream.com/EarlyHistoryOfSmalltalk/)
+🔗 **Read more:** [https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/](https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/)
 
 ---
 
-### 3. Show HN: I turned my iPhone and a $20 smart plug into an f-stop timer
+### 3. System-level ad-blocking in Android
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>I am a film photographer and do some darkroom printing and always wanted one of the proper, advanced f-stop timers, but never really wanted to spend a couple hundred dollars on one. Eventually I figured my phone was already perfectly capable of doing the timing, it just needed a way to switch the enlarger.<p>So I built Darkplug around a cheap smart plug. The app controls the enlarger over the local network and does regular timing, f-stop timing, test strips, has an intuitive dodge/burn workflow, split grade (2 timing channels) and paper development timing.<p>I’ve been using it for a few months in my improvised bathroom darkroom.<p>Fair warning: the app was blindly vibe coded using Codex and Xcode.</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49978595">https://news.ycombinator.com/item?id=49978595</a></p>
-<p>Points: 41</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://kevinboone.me/adblock.html">https://kevinboone.me/adblock.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49983647">https://news.ycombinator.com/item?id=49983647</a></p>
+<p>Points: 16</p>
+<p># Comments: 9</p>
 
-🔗 **Read more:** [https://peterszentkiralyi.eu/darkplug/](https://peterszentkiralyi.eu/darkplug/)
+🔗 **Read more:** [https://kevinboone.me/adblock.html](https://kevinboone.me/adblock.html)
 
 ---
 
@@ -85,55 +84,55 @@ The arrests come after a BBC investigation in April revealed that law firms and 
 
 ---
 
-### 6. Tear gas in Paris and Marseille as school protests grow across France
+### 6. US death row inmate Christa Pike conscious and speaking after failed execution, lawyers say
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Crowds of mainly teenagers called for more resources for schools and an end to what they called police repression.
+Pike, 50, continues to receive critical medical care while handcuffed in hospital, according to a statement from her lawyers on Tuesday.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c8x23706pvz3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c8x23706pvz3o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Ronaldo apologizes for Portugal walkout; says Jesus broke promise
+### 7. Harry Kane equals England record, scores twice in 3-0 win over Czechia
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Cristiano Ronaldo accuses Portugal coach Jorge Jesus of broken promises but leaves international return open.
+England&#039;s Harry Kane makes record-equalling 125th appearance and has a hand in all three goals in Nations League win.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/6/ronaldo-apologizes-for-portugal-walkout-says-jesus-broke-promise?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/6/ronaldo-apologizes-for-portugal-walkout-says-jesus-broke-promise?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/6/kane-equals-england-record-and-scores-twice-in-3-0-win-against-czechia?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/6/kane-equals-england-record-and-scores-twice-in-3-0-win-against-czechia?traffic_source=rss)
 
 ---
 
-### 8. Yemen’s government is on the attack against the Houthis. What has changed?
+### 8. CNN, CBS News now under one roof as Paramount-Warner Bros merger closes
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Yemeni forces are trying to reverse Houthi gains, aided by heavier air power and renewed international support.
+The newly combined company is called Skydance and began trading on Wall Street on Tuesday.
 
-🔗 **Read more:** [https://www.aljazeera.com/news-analysis/2026/10/6/yemen-government-is-on-the-attack-against-the-houthis-what-has-changed?traffic_source=rss](https://www.aljazeera.com/news-analysis/2026/10/6/yemen-government-is-on-the-attack-against-the-houthis-what-has-changed?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/6/cnn-cbs-news-now-under-one-roof-as-paramount-warner-bros-merger-closes?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/6/cnn-cbs-news-now-under-one-roof-as-paramount-warner-bros-merger-closes?traffic_source=rss)
 
 ---
 
-### 9. The new players in space
+### 9. US arrests suspect in connection with Tumbler Ridge school shooting
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The new players in space
+The suspect, from the western state of Washington, allegedly gave money and advice to the attacker over the internet.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/6/the-new-players-in-space?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/6/the-new-players-in-space?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/6/us-arrests-suspect-in-connection-with-tumbler-ridge-school-shooting?traffic_source=rss](https://www.aljazeera.com/news/2026/10/6/us-arrests-suspect-in-connection-with-tumbler-ridge-school-shooting?traffic_source=rss)
 
 ---
 

@@ -1,32 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-06 20:48:28
+**Last Update:** 2026-10-06 23:34:14
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Utah to let AI examine patients and prescribe medication without human oversight
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html">https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49981197">https://news.ycombinator.com/item?id=49981197</a></p>
-<p>Points: 7</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html](https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html)
-
----
-
-### 2. AI is now capable of developing its own inference hardware
+### 1. AI is now capable of developing its own inference hardware
 
 **Source:** Hacker News
 
@@ -35,14 +19,14 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/FeSens/openTPU">https://github.com/FeSens/openTPU</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49980715">https://news.ycombinator.com/item?id=49980715</a></p>
-<p>Points: 56</p>
-<p># Comments: 23</p>
+<p>Points: 154</p>
+<p># Comments: 163</p>
 
 🔗 **Read more:** [https://github.com/FeSens/openTPU](https://github.com/FeSens/openTPU)
 
 ---
 
-### 3. The Early History of Smalltalk (1993)
+### 2. The Early History of Smalltalk (1993)
 
 **Source:** Hacker News
 
@@ -51,88 +35,105 @@
 **Description:**
 <p>Article URL: <a href="https://worrydream.com/EarlyHistoryOfSmalltalk/">https://worrydream.com/EarlyHistoryOfSmalltalk/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49979845">https://news.ycombinator.com/item?id=49979845</a></p>
-<p>Points: 46</p>
-<p># Comments: 8</p>
+<p>Points: 71</p>
+<p># Comments: 32</p>
 
 🔗 **Read more:** [https://worrydream.com/EarlyHistoryOfSmalltalk/](https://worrydream.com/EarlyHistoryOfSmalltalk/)
 
 ---
 
-### 4. Watch: At the scene of student protests in Lille
+### 3. Show HN: I turned my iPhone and a $20 smart plug into an f-stop timer
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>I am a film photographer and do some darkroom printing and always wanted one of the proper, advanced f-stop timers, but never really wanted to spend a couple hundred dollars on one. Eventually I figured my phone was already perfectly capable of doing the timing, it just needed a way to switch the enlarger.<p>So I built Darkplug around a cheap smart plug. The app controls the enlarger over the local network and does regular timing, f-stop timing, test strips, has an intuitive dodge/burn workflow, split grade (2 timing channels) and paper development timing.<p>I’ve been using it for a few months in my improvised bathroom darkroom.<p>Fair warning: the app was blindly vibe coded using Codex and Xcode.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49978595">https://news.ycombinator.com/item?id=49978595</a></p>
+<p>Points: 41</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://peterszentkiralyi.eu/darkplug/](https://peterszentkiralyi.eu/darkplug/)
+
+---
+
+### 4. Three arrested after raid on gang accused of helping migrants pretend to be gay to get asylum
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The BBC's Europe correspondent Nick Beake reports from a large demonstration in northern France.
+Those targeted by Home Office immigration enforcement officers are accused of charging migrants up to £4,500 for fabricated evidence.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cwzd650e2jqdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cwzd650e2jqdo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmp3gnd1e4gyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmp3gnd1e4gyo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. British national arrested in connection with RAF Fairford incident
+### 5. Watch: Police raid on gang behind fake gay asylum claims
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-It is the seventh arrest in connection to the incident near RAF Fairford last month.
+The arrests come after a BBC investigation in April revealed that law firms and advisers were helping migrants pose as gay in an effort to get asylum.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqlye0xd72wdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqlye0xd72wdo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/crgj97n2x1j4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/crgj97n2x1j4o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. ASOS app users receive push notifications apparently sent by hackers
+### 6. Tear gas in Paris and Marseille as school protests grow across France
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Dozens of people appear to have received a strange message from the clothing and beauty store's app.
+Crowds of mainly teenagers called for more resources for schools and an end to what they called police repression.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c8x23706pvz3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c8x23706pvz3o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Djokovic wins China Open after de Minaur retires, Alcaraz wins Japan Open
+### 7. Ronaldo apologizes for Portugal walkout; says Jesus broke promise
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Novac Djokovic won 102nd match of his career, while ATP 500 tournament victory was Carlos Alcaraz&#039;s third of the year.
+Cristiano Ronaldo accuses Portugal coach Jorge Jesus of broken promises but leaves international return open.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/6/djokovic-wins-china-open-after-de-minaur-retires-alcaraz-wins-japan-open?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/6/djokovic-wins-china-open-after-de-minaur-retires-alcaraz-wins-japan-open?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/6/ronaldo-apologizes-for-portugal-walkout-says-jesus-broke-promise?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/6/ronaldo-apologizes-for-portugal-walkout-says-jesus-broke-promise?traffic_source=rss)
 
 ---
 
-### 8. Ship sinks off Bulgaria after drone attack in Black Sea
+### 8. Yemen’s government is on the attack against the Houthis. What has changed?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ship sinks off Bulgaria after drone attack in Black Sea
+Yemeni forces are trying to reverse Houthi gains, aided by heavier air power and renewed international support.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/6/ship-sinks-off-bulgaria-after-drone-attack-in-black-sea?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/6/ship-sinks-off-bulgaria-after-drone-attack-in-black-sea?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news-analysis/2026/10/6/yemen-government-is-on-the-attack-against-the-houthis-what-has-changed?traffic_source=rss](https://www.aljazeera.com/news-analysis/2026/10/6/yemen-government-is-on-the-attack-against-the-houthis-what-has-changed?traffic_source=rss)
 
 ---
 
-### 9. What would it take for the Yemen offensive to succeed?
+### 9. The new players in space
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Territorial gains alone will not be enough to change the trajectory of the war.
+The new players in space
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/10/6/what-would-it-take-for-the-yemen-offensive-to-succeed?traffic_source=rss](https://www.aljazeera.com/opinions/2026/10/6/what-would-it-take-for-the-yemen-offensive-to-succeed?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/6/the-new-players-in-space?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/6/the-new-players-in-space?traffic_source=rss)
 
 ---
 

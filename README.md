@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-06 04:10:09
+**Last Update:** 2026-10-06 06:39:19
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. AI Tutoring with Khanmigo in a Two-Year School Experiment
+### 1. Photopea creator weighs in on Photosuite project
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/eolix/photosuite/issues/77">https://github.com/eolix/photosuite/issues/77</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49972730">https://news.ycombinator.com/item?id=49972730</a></p>
+<p>Points: 19</p>
+<p># Comments: 7</p>
+
+🔗 **Read more:** [https://github.com/eolix/photosuite/issues/77](https://github.com/eolix/photosuite/issues/77)
+
+---
+
+### 2. High Diesel Prices Bankrupted 16 Trucking Companies in Just 30 Days
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.thedrive.com/news/high-diesel-prices-bankrupted-16-trucking-companies-in-just-30-days">https://www.thedrive.com/news/high-diesel-prices-bankrupted-16-trucking-companies-in-just-30-days</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49972607">https://news.ycombinator.com/item?id=49972607</a></p>
+<p>Points: 45</p>
+<p># Comments: 16</p>
+
+🔗 **Read more:** [https://www.thedrive.com/news/high-diesel-prices-bankrupted-16-trucking-companies-in-just-30-days](https://www.thedrive.com/news/high-diesel-prices-bankrupted-16-trucking-companies-in-just-30-days)
+
+---
+
+### 3. AI Tutoring with Khanmigo in a Two-Year School Experiment
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://edworkingpapers.com/ai26-1551">https://edworkingpapers.com/ai26-1551</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49972419">https://news.ycombinator.com/item?id=49972419</a></p>
-<p>Points: 11</p>
-<p># Comments: 2</p>
+<p>Points: 39</p>
+<p># Comments: 26</p>
 
 🔗 **Read more:** [https://edworkingpapers.com/ai26-1551](https://edworkingpapers.com/ai26-1551)
-
----
-
-### 2. Samon: Designing a Zen Garden Raking Puzzle
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://gwern.net/doc/design/2026-10-03-gwern-samon.html">https://gwern.net/doc/design/2026-10-03-gwern-samon.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49972211">https://news.ycombinator.com/item?id=49972211</a></p>
-<p>Points: 6</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://gwern.net/doc/design/2026-10-03-gwern-samon.html](https://gwern.net/doc/design/2026-10-03-gwern-samon.html)
-
----
-
-### 3. Ephemeral Testing
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://lemire.me/blog/2026/10/05/ephemeral-testing/">https://lemire.me/blog/2026/10/05/ephemeral-testing/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49972008">https://news.ycombinator.com/item?id=49972008</a></p>
-<p>Points: 19</p>
-<p># Comments: 3</p>
-
-🔗 **Read more:** [https://lemire.me/blog/2026/10/05/ephemeral-testing/](https://lemire.me/blog/2026/10/05/ephemeral-testing/)
 
 ---
 
@@ -91,48 +91,48 @@ The mass evacuation of American bombers from the UK points to concern in the Pen
 **Category:** world
 
 **Description:**
-His last book, Adam and Eve, is set to release this month.
+Archer sold more than 300 million books in his five-decade writing career, and his last book, Adam and Eve, was due to be released later this month.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckj0l401dvpgo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckj0l401dvpgo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Syrian Airlines unveils laser-sharp look for the future
+### 7. Trump says taxpayers will no longer fund TV ads that praise him
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Syrian Airlines unveils a new visual identity as it rebrands amid Syria’s post-Assad development.
+Move comes after ethics experts criticised three nationally broadcast ads and called for independent investigations.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/6/syrian-airlines-unveils-laser-sharp-look-for-the-future?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/6/syrian-airlines-unveils-laser-sharp-look-for-the-future?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/6/trump-says-taxpayers-will-no-longer-fund-tv-ads-that-praise-him?traffic_source=rss](https://www.aljazeera.com/news/2026/10/6/trump-says-taxpayers-will-no-longer-fund-tv-ads-that-praise-him?traffic_source=rss)
 
 ---
 
-### 8. Moroccan journalists recount years of surveillance amid new Amnesty claim
+### 8. Turkiye, Pakistan to deploy forces to Saudi as Yemen fighting grows
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Amnesty cites a whistleblower’s account of how Morocco allegedly uses surveillance to silence journalists.
+During emergency talks in Riyadh, Turkiye and Pakistan agreed to send rapid deployment forces to Saudi Arabia.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/6/moroccan-journalists-recount-years-of-surveillance-amid-new-amnesty-claim?traffic_source=rss](https://www.aljazeera.com/news/2026/10/6/moroccan-journalists-recount-years-of-surveillance-amid-new-amnesty-claim?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/6/10-6-yemen-war-update-sv?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/6/10-6-yemen-war-update-sv?traffic_source=rss)
 
 ---
 
-### 9. Police clash with Kosovo protesters over bid to curb Hague war crimes court
+### 9. Former ‘American Idol’ singer Caleb Flynn gets life for wife’s murder
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The political dispute over the court has become a factor in negotiations to hold a new presidential election.
+Former ‘American Idol’ singer Caleb Flynn is sentenced to life without parole after being convicted of his wife&#039;s murder
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/6/police-clash-with-kosovo-protesters-over-bid-to-curb-hague-war-crimes-court?traffic_source=rss](https://www.aljazeera.com/news/2026/10/6/police-clash-with-kosovo-protesters-over-bid-to-curb-hague-war-crimes-court?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/6/former-american-idol-singer-caleb-flynn-gets-life-for-wifes-murder?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/6/former-american-idol-singer-caleb-flynn-gets-life-for-wifes-murder?traffic_source=rss)
 
 ---
 

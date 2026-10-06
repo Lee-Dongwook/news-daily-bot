@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-06T18:22:59+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Tapo (Rust/Python library) now speaks TP-Link's TPAP protocol",
+            "description": "<p>Article URL: <a href=\"https://mihai.dinculescu.dev/posts/tapo-speaks-tpap/\">https://mihai.dinculescu.dev/posts/tapo-speaks-tpap/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49978563\">https://news.ycombinator.com/item?id=49978563</a></p>\n<p>Points: 24</p>\n<p># Comments: 2</p>",
+            "url": "https://mihai.dinculescu.dev/posts/tapo-speaks-tpap/",
+            "published": "Tue, 06 Oct 2026 13:55:37 +0000",
+            "fetched": "2026-10-06T18:22:59+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Screens Aren't Destroying Young Minds. I Should Know",
+            "description": "<p>Article URL: <a href=\"https://humanprogress.org/screens-arent-destroying-young-minds-i-should-know/\">https://humanprogress.org/screens-arent-destroying-young-minds-i-should-know/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49978484\">https://news.ycombinator.com/item?id=49978484</a></p>\n<p>Points: 21</p>\n<p># Comments: 19</p>",
+            "url": "https://humanprogress.org/screens-arent-destroying-young-minds-i-should-know/",
+            "published": "Tue, 06 Oct 2026 13:51:08 +0000",
+            "fetched": "2026-10-06T18:22:59+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Jotbus – a shared encrypted scratchpad for coding agents",
+            "description": "<p>Article URL: <a href=\"https://jotbus.com/\">https://jotbus.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49978401\">https://news.ycombinator.com/item?id=49978401</a></p>\n<p>Points: 9</p>\n<p># Comments: 2</p>",
+            "url": "https://jotbus.com/",
+            "published": "Tue, 06 Oct 2026 13:45:04 +0000",
+            "fetched": "2026-10-06T18:22:59+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: At the scene of student protests on the streets of Lille",
+            "description": "The demonstrators are calling for better government investment in high schools.",
+            "url": "https://www.bbc.co.uk/news/videos/c6reyz98gz2no?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 06 Oct 2026 10:22:42 GMT",
+            "fetched": "2026-10-06T18:22:59+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "British national arrested in connection with RAF Fairford incident",
+            "description": "It is the seventh arrest in connection to the incident near RAF Fairford last month.",
+            "url": "https://www.bbc.co.uk/news/articles/cqlye0xd72wdo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 06 Oct 2026 13:54:24 GMT",
+            "fetched": "2026-10-06T18:22:59+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Russia responds to US help offer after death of plague researcher",
+            "description": "The US and Russia have each offered to help each other tackling infectious diseases.",
+            "url": "https://www.bbc.co.uk/news/videos/c8e36y796enno?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 06 Oct 2026 13:32:42 GMT",
+            "fetched": "2026-10-06T18:22:59+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "France protests: What we know as schools brace for nationwide action",
+            "description": "Now in their third week, the protests have grown.",
+            "url": "https://www.aljazeera.com/features/2026/10/6/france-protests-what-we-know-as-schools-brace-for-nationwide-action?traffic_source=rss",
+            "published": "Tue, 06 Oct 2026 14:22:36 +0000",
+            "fetched": "2026-10-06T18:22:59+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Hormuz ship attacks surge: Are increased oil exports sustainable?",
+            "description": "Gulf oil flows surge despite escalating ship attacks in the critical Strait of Hormuz energy corridor.",
+            "url": "https://www.aljazeera.com/news/2026/10/6/hormuz-ship-attacks-surge-are-increased-oil-exports-sustainable?traffic_source=rss",
+            "published": "Tue, 06 Oct 2026 14:15:09 +0000",
+            "fetched": "2026-10-06T18:22:59+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘Cockroach stir stripped Modi’s carefully confected image’: Arundhati Roy",
+            "description": "Acclaimed Indian author talks to Al Jazeera on the Gen Z-led protests and allegations of vote theft by Modi government.",
+            "url": "https://www.aljazeera.com/news/2026/10/6/cockroach-stir-stripped-modis-carefully-confected-image-arundhati-roy?traffic_source=rss",
+            "published": "Tue, 06 Oct 2026 14:13:55 +0000",
+            "fetched": "2026-10-06T18:22:59+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire D3 Bear RX, Greenlee, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25043",
+            "published": "2026-10-02T17:58:00Z",
+            "fetched": "2026-10-06T18:22:59+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Bull, Washoe, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25042",
+            "published": "2026-10-02T14:26:00Z",
+            "fetched": "2026-10-06T18:22:59+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Nolo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24786",
+            "published": "2026-09-24T00:00:00Z",
+            "fetched": "2026-10-06T18:22:59+03:30"
+        }
+    ]
+}

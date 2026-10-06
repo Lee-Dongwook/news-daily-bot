@@ -1,64 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-06 14:04:35
+**Last Update:** 2026-10-06 18:22:59
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Nobel Prize in Physics goes to Francis Halzen
+### 1. Tapo (Rust/Python library) now speaks TP-Link's TPAP protocol
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.nobelprize.org/prizes/physics/2026/">https://www.nobelprize.org/prizes/physics/2026/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49976265">https://news.ycombinator.com/item?id=49976265</a></p>
-<p>Points: 45</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://mihai.dinculescu.dev/posts/tapo-speaks-tpap/">https://mihai.dinculescu.dev/posts/tapo-speaks-tpap/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49978563">https://news.ycombinator.com/item?id=49978563</a></p>
+<p>Points: 24</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://www.nobelprize.org/prizes/physics/2026/](https://www.nobelprize.org/prizes/physics/2026/)
+🔗 **Read more:** [https://mihai.dinculescu.dev/posts/tapo-speaks-tpap/](https://mihai.dinculescu.dev/posts/tapo-speaks-tpap/)
 
 ---
 
-### 2. Anthropic Subscriptions Offer 5x+ More Value Than OpenAI
+### 2. Screens Aren't Destroying Young Minds. I Should Know
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x">https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49975345">https://news.ycombinator.com/item?id=49975345</a></p>
-<p>Points: 36</p>
-<p># Comments: 29</p>
+<p>Article URL: <a href="https://humanprogress.org/screens-arent-destroying-young-minds-i-should-know/">https://humanprogress.org/screens-arent-destroying-young-minds-i-should-know/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49978484">https://news.ycombinator.com/item?id=49978484</a></p>
+<p>Points: 21</p>
+<p># Comments: 19</p>
 
-🔗 **Read more:** [https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x](https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x)
+🔗 **Read more:** [https://humanprogress.org/screens-arent-destroying-young-minds-i-should-know/](https://humanprogress.org/screens-arent-destroying-young-minds-i-should-know/)
 
 ---
 
-### 3. Resurrecting iChat Audio and Video Conferencing
+### 3. Show HN: Jotbus – a shared encrypted scratchpad for coding agents
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/">https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49973878">https://news.ycombinator.com/item?id=49973878</a></p>
-<p>Points: 50</p>
-<p># Comments: 12</p>
+<p>Article URL: <a href="https://jotbus.com/">https://jotbus.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49978401">https://news.ycombinator.com/item?id=49978401</a></p>
+<p>Points: 9</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/](https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/)
+🔗 **Read more:** [https://jotbus.com/](https://jotbus.com/)
 
 ---
 
-### 4. Watch: At the scene of protests on the streets of Lille
+### 4. Watch: At the scene of student protests on the streets of Lille
 
 **Source:** BBC
 
@@ -71,68 +71,68 @@ The demonstrators are calling for better government investment in high schools.
 
 ---
 
-### 5. Tories pledge £10bn British 'Iron Dome' air defence system
+### 5. British national arrested in connection with RAF Fairford incident
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The Conservatives say their plan would protect the UK at a time when Nato allies have warned of Russian drone incursions.
+It is the seventh arrest in connection to the incident near RAF Fairford last month.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cxvgdl5npl86o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cxvgdl5npl86o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqlye0xd72wdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqlye0xd72wdo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Former German spy chief arrested for espionage and treason
+### 6. Russia responds to US help offer after death of plague researcher
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-August Hanning is accused of obtaining classified information for a foreign power.
+The US and Russia have each offered to help each other tackling infectious diseases.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c8e36y796enno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c8e36y796enno?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Kenya ministry of health confirms first imported Ebola case
+### 7. France protests: What we know as schools brace for nationwide action
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The first imported case of Ebola has been recorded in Kenya.
+Now in their third week, the protests have grown.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/6/kenya-ministry-of-health-confirms-first-imported-ebola-case?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/6/kenya-ministry-of-health-confirms-first-imported-ebola-case?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/10/6/france-protests-what-we-know-as-schools-brace-for-nationwide-action?traffic_source=rss](https://www.aljazeera.com/features/2026/10/6/france-protests-what-we-know-as-schools-brace-for-nationwide-action?traffic_source=rss)
 
 ---
 
-### 8. India’s ‘million mutinies’ are puncturing Modi’s aura of invincibility
+### 8. Hormuz ship attacks surge: Are increased oil exports sustainable?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Across the country, Indians are turning disparate grievances into a broader reckoning with unaccountable power.
+Gulf oil flows surge despite escalating ship attacks in the critical Strait of Hormuz energy corridor.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/10/6/indias-million-mutinies-are-puncturing-modis-aura-of-invincibility?traffic_source=rss](https://www.aljazeera.com/opinions/2026/10/6/indias-million-mutinies-are-puncturing-modis-aura-of-invincibility?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/6/hormuz-ship-attacks-surge-are-increased-oil-exports-sustainable?traffic_source=rss](https://www.aljazeera.com/news/2026/10/6/hormuz-ship-attacks-surge-are-increased-oil-exports-sustainable?traffic_source=rss)
 
 ---
 
-### 9. ‘Hitting the right nail’: Refugee rescue group defiant as Greece targets it
+### 9. ‘Cockroach stir stripped Modi’s carefully confected image’: Arundhati Roy
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Aegean Boat Report founder Tommy Olsen insists he is defending the rule of law, as Greece opens trial against him.
+Acclaimed Indian author talks to Al Jazeera on the Gen Z-led protests and allegations of vote theft by Modi government.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/6/hitting-the-right-nail-refugee-rescue-group-defiant-as-greece-targets-it?traffic_source=rss](https://www.aljazeera.com/news/2026/10/6/hitting-the-right-nail-refugee-rescue-group-defiant-as-greece-targets-it?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/6/cockroach-stir-stripped-modis-carefully-confected-image-arundhati-roy?traffic_source=rss](https://www.aljazeera.com/news/2026/10/6/cockroach-stir-stripped-modis-carefully-confected-image-arundhati-roy?traffic_source=rss)
 
 ---
 
@@ -162,16 +162,16 @@ Natural event: Wildfires
 
 ---
 
-### 12. Prescribed Fire Starvation 11A Rx, Wallowa, Oregon
+### 12. Hurricane Nolo
 
 **Source:** NASA
 
 **Category:** nature
 
 **Description:**
-Natural event: Wildfires
+Natural event: Severe Storms
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25045](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25045)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24786](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24786)
 
 ---
 

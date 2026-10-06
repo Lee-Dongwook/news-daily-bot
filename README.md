@@ -1,73 +1,73 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-06 18:22:59
+**Last Update:** 2026-10-06 20:48:28
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Tapo (Rust/Python library) now speaks TP-Link's TPAP protocol
+### 1. Utah to let AI examine patients and prescribe medication without human oversight
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://mihai.dinculescu.dev/posts/tapo-speaks-tpap/">https://mihai.dinculescu.dev/posts/tapo-speaks-tpap/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49978563">https://news.ycombinator.com/item?id=49978563</a></p>
-<p>Points: 24</p>
+<p>Article URL: <a href="https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html">https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49981197">https://news.ycombinator.com/item?id=49981197</a></p>
+<p>Points: 7</p>
 <p># Comments: 2</p>
 
-🔗 **Read more:** [https://mihai.dinculescu.dev/posts/tapo-speaks-tpap/](https://mihai.dinculescu.dev/posts/tapo-speaks-tpap/)
+🔗 **Read more:** [https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html](https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html)
 
 ---
 
-### 2. Screens Aren't Destroying Young Minds. I Should Know
+### 2. AI is now capable of developing its own inference hardware
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://humanprogress.org/screens-arent-destroying-young-minds-i-should-know/">https://humanprogress.org/screens-arent-destroying-young-minds-i-should-know/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49978484">https://news.ycombinator.com/item?id=49978484</a></p>
-<p>Points: 21</p>
-<p># Comments: 19</p>
+<p>Article URL: <a href="https://github.com/FeSens/openTPU">https://github.com/FeSens/openTPU</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49980715">https://news.ycombinator.com/item?id=49980715</a></p>
+<p>Points: 56</p>
+<p># Comments: 23</p>
 
-🔗 **Read more:** [https://humanprogress.org/screens-arent-destroying-young-minds-i-should-know/](https://humanprogress.org/screens-arent-destroying-young-minds-i-should-know/)
+🔗 **Read more:** [https://github.com/FeSens/openTPU](https://github.com/FeSens/openTPU)
 
 ---
 
-### 3. Show HN: Jotbus – a shared encrypted scratchpad for coding agents
+### 3. The Early History of Smalltalk (1993)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://jotbus.com/">https://jotbus.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49978401">https://news.ycombinator.com/item?id=49978401</a></p>
-<p>Points: 9</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://worrydream.com/EarlyHistoryOfSmalltalk/">https://worrydream.com/EarlyHistoryOfSmalltalk/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49979845">https://news.ycombinator.com/item?id=49979845</a></p>
+<p>Points: 46</p>
+<p># Comments: 8</p>
 
-🔗 **Read more:** [https://jotbus.com/](https://jotbus.com/)
+🔗 **Read more:** [https://worrydream.com/EarlyHistoryOfSmalltalk/](https://worrydream.com/EarlyHistoryOfSmalltalk/)
 
 ---
 
-### 4. Watch: At the scene of student protests on the streets of Lille
+### 4. Watch: At the scene of student protests in Lille
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The demonstrators are calling for better government investment in high schools.
+The BBC's Europe correspondent Nick Beake reports from a large demonstration in northern France.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c6reyz98gz2no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c6reyz98gz2no?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cwzd650e2jqdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cwzd650e2jqdo?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -84,59 +84,72 @@ It is the seventh arrest in connection to the incident near RAF Fairford last mo
 
 ---
 
-### 6. Russia responds to US help offer after death of plague researcher
+### 6. ASOS app users receive push notifications apparently sent by hackers
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The US and Russia have each offered to help each other tackling infectious diseases.
+Dozens of people appear to have received a strange message from the clothing and beauty store's app.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c8e36y796enno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c8e36y796enno?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. France protests: What we know as schools brace for nationwide action
+### 7. Djokovic wins China Open after de Minaur retires, Alcaraz wins Japan Open
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Now in their third week, the protests have grown.
+Novac Djokovic won 102nd match of his career, while ATP 500 tournament victory was Carlos Alcaraz&#039;s third of the year.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/10/6/france-protests-what-we-know-as-schools-brace-for-nationwide-action?traffic_source=rss](https://www.aljazeera.com/features/2026/10/6/france-protests-what-we-know-as-schools-brace-for-nationwide-action?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/6/djokovic-wins-china-open-after-de-minaur-retires-alcaraz-wins-japan-open?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/6/djokovic-wins-china-open-after-de-minaur-retires-alcaraz-wins-japan-open?traffic_source=rss)
 
 ---
 
-### 8. Hormuz ship attacks surge: Are increased oil exports sustainable?
+### 8. Ship sinks off Bulgaria after drone attack in Black Sea
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Gulf oil flows surge despite escalating ship attacks in the critical Strait of Hormuz energy corridor.
+Ship sinks off Bulgaria after drone attack in Black Sea
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/6/hormuz-ship-attacks-surge-are-increased-oil-exports-sustainable?traffic_source=rss](https://www.aljazeera.com/news/2026/10/6/hormuz-ship-attacks-surge-are-increased-oil-exports-sustainable?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/6/ship-sinks-off-bulgaria-after-drone-attack-in-black-sea?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/6/ship-sinks-off-bulgaria-after-drone-attack-in-black-sea?traffic_source=rss)
 
 ---
 
-### 9. ‘Cockroach stir stripped Modi’s carefully confected image’: Arundhati Roy
+### 9. What would it take for the Yemen offensive to succeed?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Acclaimed Indian author talks to Al Jazeera on the Gen Z-led protests and allegations of vote theft by Modi government.
+Territorial gains alone will not be enough to change the trajectory of the war.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/6/cockroach-stir-stripped-modis-carefully-confected-image-arundhati-roy?traffic_source=rss](https://www.aljazeera.com/news/2026/10/6/cockroach-stir-stripped-modis-carefully-confected-image-arundhati-roy?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/10/6/what-would-it-take-for-the-yemen-offensive-to-succeed?traffic_source=rss](https://www.aljazeera.com/opinions/2026/10/6/what-would-it-take-for-the-yemen-offensive-to-succeed?traffic_source=rss)
 
 ---
 
-### 10. Prescribed Fire D3 Bear RX, Greenlee, Arizona
+### 10. Tropical Storm Koguma
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25046](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25046)
+
+---
+
+### 11. Prescribed Fire D3 Bear RX, Greenlee, Arizona
 
 **Source:** NASA
 
@@ -149,7 +162,7 @@ Natural event: Wildfires
 
 ---
 
-### 11. Wildfire Bull, Washoe, Nevada
+### 12. Wildfire Bull, Washoe, Nevada
 
 **Source:** NASA
 
@@ -159,19 +172,6 @@ Natural event: Wildfires
 Natural event: Wildfires
 
 🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25042](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25042)
-
----
-
-### 12. Hurricane Nolo
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24786](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24786)
 
 ---
 

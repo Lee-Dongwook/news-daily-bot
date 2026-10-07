@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-07 01:15:27
+**Last Update:** 2026-10-07 03:58:35
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. OpenSSH 10.6
+### 1. Stanford scientists found a way to regrow cartilage and stop arthritis
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.openssh.org/releasenotes.html#10.6">https://www.openssh.org/releasenotes.html#10.6</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49983791">https://news.ycombinator.com/item?id=49983791</a></p>
-<p>Points: 26</p>
+<p>Article URL: <a href="https://www.sciencedaily.com/releases/2026/10/261005011249.htm">https://www.sciencedaily.com/releases/2026/10/261005011249.htm</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49985905">https://news.ycombinator.com/item?id=49985905</a></p>
+<p>Points: 15</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.sciencedaily.com/releases/2026/10/261005011249.htm](https://www.sciencedaily.com/releases/2026/10/261005011249.htm)
+
+---
+
+### 2. AnyPS5: Port PS5 binaries to PC without emulation (87% system libraries mapped)
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/boykopovar/AnyPS5">https://github.com/boykopovar/AnyPS5</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49985664">https://news.ycombinator.com/item?id=49985664</a></p>
+<p>Points: 3</p>
 <p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.openssh.org/releasenotes.html#10.6](https://www.openssh.org/releasenotes.html#10.6)
+🔗 **Read more:** [https://github.com/boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5)
 
 ---
 
-### 2. Paramount completes $111B Warner merger, creating "Skydance" behemoth
+### 3. State of Devs 2026 survey results: developers are exhausted
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/">https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49983703">https://news.ycombinator.com/item?id=49983703</a></p>
-<p>Points: 68</p>
-<p># Comments: 55</p>
+<p>Article URL: <a href="https://2026.stateofdevs.com/en-US/">https://2026.stateofdevs.com/en-US/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49985643">https://news.ycombinator.com/item?id=49985643</a></p>
+<p>Points: 15</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/](https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/)
-
----
-
-### 3. System-level ad-blocking in Android
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://kevinboone.me/adblock.html">https://kevinboone.me/adblock.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49983647">https://news.ycombinator.com/item?id=49983647</a></p>
-<p>Points: 16</p>
-<p># Comments: 9</p>
-
-🔗 **Read more:** [https://kevinboone.me/adblock.html](https://kevinboone.me/adblock.html)
+🔗 **Read more:** [https://2026.stateofdevs.com/en-US/](https://2026.stateofdevs.com/en-US/)
 
 ---
 
@@ -84,55 +84,55 @@ The arrests come after a BBC investigation in April revealed that law firms and 
 
 ---
 
-### 6. US death row inmate Christa Pike conscious and speaking after failed execution, lawyers say
+### 6. US death row inmate Christa Pike awake and speaking after failed execution, lawyers say
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Pike, 50, continues to receive critical medical care while handcuffed in hospital, according to a statement from her lawyers on Tuesday.
+Experts and lawyers called the apparent recovery unprecedented, noting she is believed to be the only known person to survive a lethal injection.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Harry Kane equals England record, scores twice in 3-0 win over Czechia
+### 7. French mayor tear-gassed after shielding protesters from police
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-England&#039;s Harry Kane makes record-equalling 125th appearance and has a hand in all three goals in Nations League win.
+Saint-Denis Mayor Bally Bagayoko was tear-gassed after shielding student protesters from riot police.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/6/kane-equals-england-record-and-scores-twice-in-3-0-win-against-czechia?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/6/kane-equals-england-record-and-scores-twice-in-3-0-win-against-czechia?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/7/french-mayor-tear-gassed-after-shielding-protesters-from-police?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/7/french-mayor-tear-gassed-after-shielding-protesters-from-police?traffic_source=rss)
 
 ---
 
-### 8. CNN, CBS News now under one roof as Paramount-Warner Bros merger closes
+### 8. Iran war live: Yemen forces claim control over strategic Taiz mountain peak
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The newly combined company is called Skydance and began trading on Wall Street on Tuesday.
+Yemeni forces claim they have tightened control over the highest peak in the Jabal Habashi district of Taiz.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/6/cnn-cbs-news-now-under-one-roof-as-paramount-warner-bros-merger-closes?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/6/cnn-cbs-news-now-under-one-roof-as-paramount-warner-bros-merger-closes?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/10/7/iran-war-live-yemen-forces-claim-control-over-strategic-taiz-mountain-peak?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/10/7/iran-war-live-yemen-forces-claim-control-over-strategic-taiz-mountain-peak?traffic_source=rss)
 
 ---
 
-### 9. US arrests suspect in connection with Tumbler Ridge school shooting
+### 9. Electric car bursts into flames at charging station in Turkiye
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The suspect, from the western state of Washington, allegedly gave money and advice to the attacker over the internet.
+Turkiye’s first domestically produced electric SUV, the Togg T10X burst into flames at a charging station.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/6/us-arrests-suspect-in-connection-with-tumbler-ridge-school-shooting?traffic_source=rss](https://www.aljazeera.com/news/2026/10/6/us-arrests-suspect-in-connection-with-tumbler-ridge-school-shooting?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/6/10-7-ev-blowsup-turkiye-clip-mp4?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/6/10-7-ev-blowsup-turkiye-clip-mp4?traffic_source=rss)
 
 ---
 

@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-07 10:28:57
+**Last Update:** 2026-10-07 12:27:31
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
@@ -19,14 +19,30 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/shader-effects-inc/shaders">https://github.com/shader-effects-inc/shaders</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49988709">https://news.ycombinator.com/item?id=49988709</a></p>
-<p>Points: 8</p>
-<p># Comments: 3</p>
+<p>Points: 18</p>
+<p># Comments: 6</p>
 
 🔗 **Read more:** [https://github.com/shader-effects-inc/shaders](https://github.com/shader-effects-inc/shaders)
 
 ---
 
-### 2. Hackers obtain counterfeit TLS certificates for Google and other large services
+### 2. Sharded, encrypted storage between friends over Yggdrasil
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/peterretief/yggstore">https://github.com/peterretief/yggstore</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49988550">https://news.ycombinator.com/item?id=49988550</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://github.com/peterretief/yggstore](https://github.com/peterretief/yggstore)
+
+---
+
+### 3. Hackers obtain counterfeit TLS certificates for Google and other large services
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/">https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49988230">https://news.ycombinator.com/item?id=49988230</a></p>
-<p>Points: 31</p>
-<p># Comments: 5</p>
+<p>Points: 56</p>
+<p># Comments: 8</p>
 
 🔗 **Read more:** [https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/](https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/)
-
----
-
-### 3. Calling It Quits on ServerFault
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://sysadmin1138.net/mt/blog/2026/10/calling-it-quits-on-serverfault.shtml">https://sysadmin1138.net/mt/blog/2026/10/calling-it-quits-on-serverfault.shtml</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49988142">https://news.ycombinator.com/item?id=49988142</a></p>
-<p>Points: 60</p>
-<p># Comments: 27</p>
-
-🔗 **Read more:** [https://sysadmin1138.net/mt/blog/2026/10/calling-it-quits-on-serverfault.shtml](https://sysadmin1138.net/mt/blog/2026/10/calling-it-quits-on-serverfault.shtml)
 
 ---
 
@@ -97,42 +97,42 @@ Three years on from the attack on Nir Oz, in which 47 people were killed and 76 
 
 ---
 
-### 7. How has Israel’s genocide changed Gaza?
+### 7. Head coach Scaloni’s emotional farewell to ‘irreplaceable’ Messi
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Gaza City’s port was a hub for fishing and tourism before the genocide. Al Jazeera’s Maram Humaid shows what’s left.
+Argentina’s head coach Lionel Scaloni said it was an ‘emotional day’ as Lionel Messi ends his international career.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/7/how-has-israels-genocide-changed-gaza?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/7/how-has-israels-genocide-changed-gaza?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/7/head-coach-scalonis-emotional-farewell-to-irreplaceable-messi?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/7/head-coach-scalonis-emotional-farewell-to-irreplaceable-messi?traffic_source=rss)
 
 ---
 
-### 8. At least two killed in Kyiv as Russia launches ‘massive’ attack on Ukraine
+### 8. Advocates decry detention of Kashmiri filmmaker Arfat Sheikh by ICE in US
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Russia’s Defence Ministry says its forces carried out a &#039;massive strike&#039; on Kyiv and other Ukrainian regions.
+Arfat Sheikh was arrested at Washington Dulles International Airport on September 24, advocacy group says.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/7/at-least-two-killed-in-kyiv-as-russia-launches-massive-attack-on-ukraine?traffic_source=rss](https://www.aljazeera.com/news/2026/10/7/at-least-two-killed-in-kyiv-as-russia-launches-massive-attack-on-ukraine?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/7/advocates-decry-unlawful-detention-of-kashmiri-filmmaker-by-ice-in-us?traffic_source=rss](https://www.aljazeera.com/news/2026/10/7/advocates-decry-unlawful-detention-of-kashmiri-filmmaker-by-ice-in-us?traffic_source=rss)
 
 ---
 
-### 9. Yemen’s displaced children dream of returning to school
+### 9. ‘We’re short of resources’: France’s student protesters, in their own words
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-More than 137,000 students in conflict zones lose access to education, deepening Yemen&#039;s already dire schooling crisis.
+French students and teachers protesting school conditions spoke with Al Jazeera about their demands.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/7/yemens-displaced-children-dream-of-returning-to-school?traffic_source=rss](https://www.aljazeera.com/news/2026/10/7/yemens-displaced-children-dream-of-returning-to-school?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/7/were-short-of-resources-frances-student-protesters-in-their-own-words?traffic_source=rss](https://www.aljazeera.com/news/2026/10/7/were-short-of-resources-frances-student-protesters-in-their-own-words?traffic_source=rss)
 
 ---
 

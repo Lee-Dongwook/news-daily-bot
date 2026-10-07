@@ -1,28 +1,28 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-07 03:58:35
+**Last Update:** 2026-10-07 05:10:44
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Stanford scientists found a way to regrow cartilage and stop arthritis
+### 1. South Korea says AI agents appear to have been used to hack the country's banks
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.sciencedaily.com/releases/2026/10/261005011249.htm">https://www.sciencedaily.com/releases/2026/10/261005011249.htm</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49985905">https://news.ycombinator.com/item?id=49985905</a></p>
-<p>Points: 15</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/">https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49985861">https://news.ycombinator.com/item?id=49985861</a></p>
+<p>Points: 25</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://www.sciencedaily.com/releases/2026/10/261005011249.htm](https://www.sciencedaily.com/releases/2026/10/261005011249.htm)
+🔗 **Read more:** [https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/](https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/)
 
 ---
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/boykopovar/AnyPS5">https://github.com/boykopovar/AnyPS5</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49985664">https://news.ycombinator.com/item?id=49985664</a></p>
-<p>Points: 3</p>
-<p># Comments: 1</p>
+<p>Points: 78</p>
+<p># Comments: 48</p>
 
 🔗 **Read more:** [https://github.com/boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5)
 
@@ -51,40 +51,14 @@
 **Description:**
 <p>Article URL: <a href="https://2026.stateofdevs.com/en-US/">https://2026.stateofdevs.com/en-US/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49985643">https://news.ycombinator.com/item?id=49985643</a></p>
-<p>Points: 15</p>
-<p># Comments: 5</p>
+<p>Points: 52</p>
+<p># Comments: 15</p>
 
 🔗 **Read more:** [https://2026.stateofdevs.com/en-US/](https://2026.stateofdevs.com/en-US/)
 
 ---
 
-### 4. Three arrested after raid on gang accused of helping migrants pretend to be gay to get asylum
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Those targeted by Home Office immigration enforcement officers are accused of charging migrants up to £4,500 for fabricated evidence.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmp3gnd1e4gyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmp3gnd1e4gyo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Watch: Police raid on gang behind fake gay asylum claims
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The arrests come after a BBC investigation in April revealed that law firms and advisers were helping migrants pose as gay in an effort to get asylum.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/crgj97n2x1j4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/crgj97n2x1j4o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. US death row inmate Christa Pike awake and speaking after failed execution, lawyers say
+### 4. US death row inmate Christa Pike awake and speaking after failed execution, lawyers say
 
 **Source:** BBC
 
@@ -97,42 +71,68 @@ Experts and lawyers called the apparent recovery unprecedented, noting she is be
 
 ---
 
-### 7. French mayor tear-gassed after shielding protesters from police
+### 5. Three arrested after raid on gang accused of helping migrants pretend to be gay to get asylum
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-Saint-Denis Mayor Bally Bagayoko was tear-gassed after shielding student protesters from riot police.
+Those targeted by Home Office immigration enforcement officers are accused of charging migrants up to £4,500 for fabricated evidence.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/7/french-mayor-tear-gassed-after-shielding-protesters-from-police?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/7/french-mayor-tear-gassed-after-shielding-protesters-from-police?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmp3gnd1e4gyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmp3gnd1e4gyo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. Iran war live: Yemen forces claim control over strategic Taiz mountain peak
+### 6. Watch: Police raid on gang behind fake gay asylum claims
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-Yemeni forces claim they have tightened control over the highest peak in the Jabal Habashi district of Taiz.
+The arrests come after a BBC investigation in April revealed that law firms and advisers were helping migrants pose as gay in an effort to get asylum.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/10/7/iran-war-live-yemen-forces-claim-control-over-strategic-taiz-mountain-peak?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/10/7/iran-war-live-yemen-forces-claim-control-over-strategic-taiz-mountain-peak?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/crgj97n2x1j4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/crgj97n2x1j4o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 9. Electric car bursts into flames at charging station in Turkiye
+### 7. Syrian embassy returns seized passport after 43 years
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Turkiye’s first domestically produced electric SUV, the Togg T10X burst into flames at a charging station.
+Syria&#039;s embassy in Berlin has returned the passport of a citizen that the former Assad government seized 43 years ago.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/6/10-7-ev-blowsup-turkiye-clip-mp4?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/6/10-7-ev-blowsup-turkiye-clip-mp4?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/7/syrian-embassy-returns-seized-passport-after-43-years?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/7/syrian-embassy-returns-seized-passport-after-43-years?traffic_source=rss)
+
+---
+
+### 8. Politicians slam Trump’s suggestion that Iran ‘take’ San Diego, Los Angeles
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Both Democrats and Republicans have expressed outrage at Trump&#039;s remarks that cities could be sacrificed in Iran war.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/7/politicians-slam-trumps-suggestion-that-iran-take-san-diego-los-angeles?traffic_source=rss](https://www.aljazeera.com/news/2026/10/7/politicians-slam-trumps-suggestion-that-iran-take-san-diego-los-angeles?traffic_source=rss)
+
+---
+
+### 9. What’s behind Israel’s growing shift to the right?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Three years after the October 7 attacks, the politics of Israeli society has shifted further right.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/7/whats-behind-israels-growing-shift-to-the-right?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/7/whats-behind-israels-growing-shift-to-the-right?traffic_source=rss)
 
 ---
 

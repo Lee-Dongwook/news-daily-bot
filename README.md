@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-07 05:10:44
+**Last Update:** 2026-10-07 10:28:57
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. South Korea says AI agents appear to have been used to hack the country's banks
+### 1. Shaders, WebGPU Components for React, Vue, Svelte, Solid, JavaScript and Framer
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/">https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49985861">https://news.ycombinator.com/item?id=49985861</a></p>
-<p>Points: 25</p>
+<p>Article URL: <a href="https://github.com/shader-effects-inc/shaders">https://github.com/shader-effects-inc/shaders</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49988709">https://news.ycombinator.com/item?id=49988709</a></p>
+<p>Points: 8</p>
 <p># Comments: 3</p>
 
-🔗 **Read more:** [https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/](https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/)
+🔗 **Read more:** [https://github.com/shader-effects-inc/shaders](https://github.com/shader-effects-inc/shaders)
 
 ---
 
-### 2. AnyPS5: Port PS5 binaries to PC without emulation (87% system libraries mapped)
+### 2. Hackers obtain counterfeit TLS certificates for Google and other large services
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/boykopovar/AnyPS5">https://github.com/boykopovar/AnyPS5</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49985664">https://news.ycombinator.com/item?id=49985664</a></p>
-<p>Points: 78</p>
-<p># Comments: 48</p>
+<p>Article URL: <a href="https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/">https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49988230">https://news.ycombinator.com/item?id=49988230</a></p>
+<p>Points: 31</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://github.com/boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5)
+🔗 **Read more:** [https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/](https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/)
 
 ---
 
-### 3. State of Devs 2026 survey results: developers are exhausted
+### 3. Calling It Quits on ServerFault
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://2026.stateofdevs.com/en-US/">https://2026.stateofdevs.com/en-US/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49985643">https://news.ycombinator.com/item?id=49985643</a></p>
-<p>Points: 52</p>
-<p># Comments: 15</p>
+<p>Article URL: <a href="https://sysadmin1138.net/mt/blog/2026/10/calling-it-quits-on-serverfault.shtml">https://sysadmin1138.net/mt/blog/2026/10/calling-it-quits-on-serverfault.shtml</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49988142">https://news.ycombinator.com/item?id=49988142</a></p>
+<p>Points: 60</p>
+<p># Comments: 27</p>
 
-🔗 **Read more:** [https://2026.stateofdevs.com/en-US/](https://2026.stateofdevs.com/en-US/)
+🔗 **Read more:** [https://sysadmin1138.net/mt/blog/2026/10/calling-it-quits-on-serverfault.shtml](https://sysadmin1138.net/mt/blog/2026/10/calling-it-quits-on-serverfault.shtml)
 
 ---
 
@@ -71,68 +71,68 @@ Experts and lawyers called the apparent recovery unprecedented, noting she is be
 
 ---
 
-### 5. Three arrested after raid on gang accused of helping migrants pretend to be gay to get asylum
+### 5. What we know about Christa Pike’s ‘unprecedented' recovery
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Those targeted by Home Office immigration enforcement officers are accused of charging migrants up to £4,500 for fabricated evidence.
+The BBC's Sarah Smith details the injuries sustained by the US death row inmate after two failed lethal injections, and what comes next.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmp3gnd1e4gyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmp3gnd1e4gyo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c5398nwe9lzlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c5398nwe9lzlo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Watch: Police raid on gang behind fake gay asylum claims
+### 6. Residents of kibbutz destroyed in 7 October Hamas-led attacks grapple with how to rebuild
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The arrests come after a BBC investigation in April revealed that law firms and advisers were helping migrants pose as gay in an effort to get asylum.
+Three years on from the attack on Nir Oz, in which 47 people were killed and 76 taken hostage, some survivors have returned to live there.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/crgj97n2x1j4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/crgj97n2x1j4o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqrmyz4mdn94o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqrmyz4mdn94o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Syrian embassy returns seized passport after 43 years
+### 7. How has Israel’s genocide changed Gaza?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Syria&#039;s embassy in Berlin has returned the passport of a citizen that the former Assad government seized 43 years ago.
+Gaza City’s port was a hub for fishing and tourism before the genocide. Al Jazeera’s Maram Humaid shows what’s left.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/7/syrian-embassy-returns-seized-passport-after-43-years?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/7/syrian-embassy-returns-seized-passport-after-43-years?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/7/how-has-israels-genocide-changed-gaza?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/7/how-has-israels-genocide-changed-gaza?traffic_source=rss)
 
 ---
 
-### 8. Politicians slam Trump’s suggestion that Iran ‘take’ San Diego, Los Angeles
+### 8. At least two killed in Kyiv as Russia launches ‘massive’ attack on Ukraine
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Both Democrats and Republicans have expressed outrage at Trump&#039;s remarks that cities could be sacrificed in Iran war.
+Russia’s Defence Ministry says its forces carried out a &#039;massive strike&#039; on Kyiv and other Ukrainian regions.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/7/politicians-slam-trumps-suggestion-that-iran-take-san-diego-los-angeles?traffic_source=rss](https://www.aljazeera.com/news/2026/10/7/politicians-slam-trumps-suggestion-that-iran-take-san-diego-los-angeles?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/7/at-least-two-killed-in-kyiv-as-russia-launches-massive-attack-on-ukraine?traffic_source=rss](https://www.aljazeera.com/news/2026/10/7/at-least-two-killed-in-kyiv-as-russia-launches-massive-attack-on-ukraine?traffic_source=rss)
 
 ---
 
-### 9. What’s behind Israel’s growing shift to the right?
+### 9. Yemen’s displaced children dream of returning to school
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Three years after the October 7 attacks, the politics of Israeli society has shifted further right.
+More than 137,000 students in conflict zones lose access to education, deepening Yemen&#039;s already dire schooling crisis.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/7/whats-behind-israels-growing-shift-to-the-right?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/7/whats-behind-israels-growing-shift-to-the-right?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/7/yemens-displaced-children-dream-of-returning-to-school?traffic_source=rss](https://www.aljazeera.com/news/2026/10/7/yemens-displaced-children-dream-of-returning-to-school?traffic_source=rss)
 
 ---
 

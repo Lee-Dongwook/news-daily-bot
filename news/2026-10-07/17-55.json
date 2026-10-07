@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-07T17:55:04+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "House with 15m underground tunnels for sale for 300k",
+            "description": "<p>Article URL: <a href=\"https://www.readingchronicle.co.uk/news/26612080.house-15m-underground-tunnels-sale-300k/\">https://www.readingchronicle.co.uk/news/26612080.house-15m-underground-tunnels-sale-300k/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49992125\">https://news.ycombinator.com/item?id=49992125</a></p>\n<p>Points: 62</p>\n<p># Comments: 73</p>",
+            "url": "https://www.readingchronicle.co.uk/news/26612080.house-15m-underground-tunnels-sale-300k/",
+            "published": "Wed, 07 Oct 2026 12:57:10 +0000",
+            "fetched": "2026-10-07T17:55:04+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: A walkable 3D art history museum built from Wikipedia",
+            "description": "<p>From Li Cheng to Banksy</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49992057\">https://news.ycombinator.com/item?id=49992057</a></p>\n<p>Points: 19</p>\n<p># Comments: 11</p>",
+            "url": "https://artmuseum.artfrompixels.com/",
+            "published": "Wed, 07 Oct 2026 12:51:08 +0000",
+            "fetched": "2026-10-07T17:55:04+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Google Playground: Create and play custom games",
+            "description": "<p>Article URL: <a href=\"https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/\">https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49991823\">https://news.ycombinator.com/item?id=49991823</a></p>\n<p>Points: 56</p>\n<p># Comments: 39</p>",
+            "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+            "published": "Wed, 07 Oct 2026 12:28:36 +0000",
+            "fetched": "2026-10-07T17:55:04+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Man admits sexually assaulting woman drugged by husband",
+            "description": "The husband is accused of inviting 13 other men to abuse her at their family home in Greater Manchester.",
+            "url": "https://www.bbc.co.uk/news/articles/cr3wvp34v460o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 07 Oct 2026 10:50:25 GMT",
+            "fetched": "2026-10-07T17:55:04+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "How did Christa Pike survive two lethal injections - and what happens now?",
+            "description": "The convicted killer of Colleen Slemmer is said to be awake and speaking in hospital in Tennessee after an execution attempt.",
+            "url": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 07 Oct 2026 10:01:47 GMT",
+            "fetched": "2026-10-07T17:55:04+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Boots sold in £7bn deal to Canadian billionaire family",
+            "description": "The sale of the High Street chain was announced on Wednesday.",
+            "url": "https://www.bbc.co.uk/news/articles/cwly0jyk2vl5o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 07 Oct 2026 14:24:20 GMT",
+            "fetched": "2026-10-07T17:55:04+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Millions of Pakistanis get government fuel relief but some miss out",
+            "description": "Pakistan has subsidised petrol for millions, but some economists caution that those most needing help are left out.",
+            "url": "https://www.aljazeera.com/news/2026/10/7/millions-of-pakistanis-get-government-fuel-relief-but-some-miss-out?traffic_source=rss",
+            "published": "Wed, 07 Oct 2026 14:02:40 +0000",
+            "fetched": "2026-10-07T17:55:04+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why Paramount-Warner merger has sparked fears about press freedom",
+            "description": "Chairman&#039;s family ties to Trump and Israel raise questions over editorial independence at CNN and CBS.",
+            "url": "https://www.aljazeera.com/news/2026/10/7/why-paramount-warner-merger-has-sparked-fears-about-press-freedom?traffic_source=rss",
+            "published": "Wed, 07 Oct 2026 13:56:27 +0000",
+            "fetched": "2026-10-07T17:55:04+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "South Korea signals military exemption cuts for athletes after Asian Games",
+            "description": "South Korea signals cuts to military exemptions for gold medallists after backlash over athletes&#039; Asian Games comments.",
+            "url": "https://www.aljazeera.com/sports/2026/10/7/south-korea-signals-military-exemption-cuts-for-gold-medallists-after-backlash-at-athletes-asian-games-comments?traffic_source=rss",
+            "published": "Wed, 07 Oct 2026 13:38:14 +0000",
+            "fetched": "2026-10-07T17:55:04+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Koguma",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25046",
+            "published": "2026-10-05T06:00:00Z",
+            "fetched": "2026-10-07T17:55:04+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire D3 Bear RX, Greenlee, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25043",
+            "published": "2026-10-02T17:58:00Z",
+            "fetched": "2026-10-07T17:55:04+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Bull, Washoe, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25042",
+            "published": "2026-10-02T14:26:00Z",
+            "fetched": "2026-10-07T17:55:04+03:30"
+        }
+    ]
+}

@@ -1,138 +1,139 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-07 12:27:31
+**Last Update:** 2026-10-07 17:55:04
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Shaders, WebGPU Components for React, Vue, Svelte, Solid, JavaScript and Framer
+### 1. House with 15m underground tunnels for sale for 300k
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/shader-effects-inc/shaders">https://github.com/shader-effects-inc/shaders</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49988709">https://news.ycombinator.com/item?id=49988709</a></p>
-<p>Points: 18</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://www.readingchronicle.co.uk/news/26612080.house-15m-underground-tunnels-sale-300k/">https://www.readingchronicle.co.uk/news/26612080.house-15m-underground-tunnels-sale-300k/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49992125">https://news.ycombinator.com/item?id=49992125</a></p>
+<p>Points: 62</p>
+<p># Comments: 73</p>
 
-🔗 **Read more:** [https://github.com/shader-effects-inc/shaders](https://github.com/shader-effects-inc/shaders)
+🔗 **Read more:** [https://www.readingchronicle.co.uk/news/26612080.house-15m-underground-tunnels-sale-300k/](https://www.readingchronicle.co.uk/news/26612080.house-15m-underground-tunnels-sale-300k/)
 
 ---
 
-### 2. Sharded, encrypted storage between friends over Yggdrasil
+### 2. Show HN: A walkable 3D art history museum built from Wikipedia
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/peterretief/yggstore">https://github.com/peterretief/yggstore</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49988550">https://news.ycombinator.com/item?id=49988550</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
+<p>From Li Cheng to Banksy</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49992057">https://news.ycombinator.com/item?id=49992057</a></p>
+<p>Points: 19</p>
+<p># Comments: 11</p>
 
-🔗 **Read more:** [https://github.com/peterretief/yggstore](https://github.com/peterretief/yggstore)
+🔗 **Read more:** [https://artmuseum.artfrompixels.com/](https://artmuseum.artfrompixels.com/)
 
 ---
 
-### 3. Hackers obtain counterfeit TLS certificates for Google and other large services
+### 3. Google Playground: Create and play custom games
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/">https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49988230">https://news.ycombinator.com/item?id=49988230</a></p>
+<p>Article URL: <a href="https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/">https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49991823">https://news.ycombinator.com/item?id=49991823</a></p>
 <p>Points: 56</p>
-<p># Comments: 8</p>
+<p># Comments: 39</p>
 
-🔗 **Read more:** [https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/](https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/)
+🔗 **Read more:** [https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/](https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/)
 
 ---
 
-### 4. US death row inmate Christa Pike awake and speaking after failed execution, lawyers say
+### 4. Man admits sexually assaulting woman drugged by husband
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Experts and lawyers called the apparent recovery unprecedented, noting she is believed to be the only known person to survive a lethal injection.
+The husband is accused of inviting 13 other men to abuse her at their family home in Greater Manchester.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr3wvp34v460o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr3wvp34v460o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. What we know about Christa Pike’s ‘unprecedented' recovery
+### 5. How did Christa Pike survive two lethal injections - and what happens now?
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The BBC's Sarah Smith details the injuries sustained by the US death row inmate after two failed lethal injections, and what comes next.
+The convicted killer of Colleen Slemmer is said to be awake and speaking in hospital in Tennessee after an execution attempt.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c5398nwe9lzlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c5398nwe9lzlo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Residents of kibbutz destroyed in 7 October Hamas-led attacks grapple with how to rebuild
+### 6. Boots sold in £7bn deal to Canadian billionaire family
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Three years on from the attack on Nir Oz, in which 47 people were killed and 76 taken hostage, some survivors have returned to live there.
+The sale of the High Street chain was announced on Wednesday.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqrmyz4mdn94o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqrmyz4mdn94o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwly0jyk2vl5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwly0jyk2vl5o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Head coach Scaloni’s emotional farewell to ‘irreplaceable’ Messi
+### 7. Millions of Pakistanis get government fuel relief but some miss out
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Argentina’s head coach Lionel Scaloni said it was an ‘emotional day’ as Lionel Messi ends his international career.
+Pakistan has subsidised petrol for millions, but some economists caution that those most needing help are left out.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/7/head-coach-scalonis-emotional-farewell-to-irreplaceable-messi?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/7/head-coach-scalonis-emotional-farewell-to-irreplaceable-messi?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/7/millions-of-pakistanis-get-government-fuel-relief-but-some-miss-out?traffic_source=rss](https://www.aljazeera.com/news/2026/10/7/millions-of-pakistanis-get-government-fuel-relief-but-some-miss-out?traffic_source=rss)
 
 ---
 
-### 8. Advocates decry detention of Kashmiri filmmaker Arfat Sheikh by ICE in US
+### 8. Why Paramount-Warner merger has sparked fears about press freedom
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Arfat Sheikh was arrested at Washington Dulles International Airport on September 24, advocacy group says.
+Chairman&#039;s family ties to Trump and Israel raise questions over editorial independence at CNN and CBS.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/7/advocates-decry-unlawful-detention-of-kashmiri-filmmaker-by-ice-in-us?traffic_source=rss](https://www.aljazeera.com/news/2026/10/7/advocates-decry-unlawful-detention-of-kashmiri-filmmaker-by-ice-in-us?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/7/why-paramount-warner-merger-has-sparked-fears-about-press-freedom?traffic_source=rss](https://www.aljazeera.com/news/2026/10/7/why-paramount-warner-merger-has-sparked-fears-about-press-freedom?traffic_source=rss)
 
 ---
 
-### 9. ‘We’re short of resources’: France’s student protesters, in their own words
+### 9. South Korea signals military exemption cuts for athletes after Asian Games
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-French students and teachers protesting school conditions spoke with Al Jazeera about their demands.
+South Korea signals cuts to military exemptions for gold medallists after backlash over athletes&#039; Asian Games comments.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/7/were-short-of-resources-frances-student-protesters-in-their-own-words?traffic_source=rss](https://www.aljazeera.com/news/2026/10/7/were-short-of-resources-frances-student-protesters-in-their-own-words?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/7/south-korea-signals-military-exemption-cuts-for-gold-medallists-after-backlash-at-athletes-asian-games-comments?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/7/south-korea-signals-military-exemption-cuts-for-gold-medallists-after-backlash-at-athletes-asian-games-comments?traffic_source=rss)
 
 ---
 

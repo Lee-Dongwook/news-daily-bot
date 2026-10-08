@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-09 00:38:44
+**Last Update:** 2026-10-09 01:43:59
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. The value of not getting to the point (2015)
+### 1. Show HN: Free open source Adobe Lightroom alternative, completely local with AI
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/">https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50010470">https://news.ycombinator.com/item?id=50010470</a></p>
-<p>Points: 56</p>
-<p># Comments: 19</p>
+<p>Article URL: <a href="https://github.com/thesnarkitecht/rembrandt">https://github.com/thesnarkitecht/rembrandt</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50012199">https://news.ycombinator.com/item?id=50012199</a></p>
+<p>Points: 18</p>
+<p># Comments: 16</p>
 
-🔗 **Read more:** [https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/](https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/)
+🔗 **Read more:** [https://github.com/thesnarkitecht/rembrandt](https://github.com/thesnarkitecht/rembrandt)
 
 ---
 
-### 2. Show HN: K10s – A Clickable Kubernetes TUI (Go, Bubble Tea)
+### 2. AI-ready biological data: $1.8B global commitment
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/p10node/k10s">https://github.com/p10node/k10s</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50009904">https://news.ycombinator.com/item?id=50009904</a></p>
-<p>Points: 55</p>
-<p># Comments: 33</p>
+<p>Article URL: <a href="https://biohub.org/news/virtual-biology-initiative-expansion/">https://biohub.org/news/virtual-biology-initiative-expansion/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50011999">https://news.ycombinator.com/item?id=50011999</a></p>
+<p>Points: 26</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://github.com/p10node/k10s](https://github.com/p10node/k10s)
+🔗 **Read more:** [https://biohub.org/news/virtual-biology-initiative-expansion/](https://biohub.org/news/virtual-biology-initiative-expansion/)
 
 ---
 
-### 3. Theranos.world
+### 3. ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.theranos.world/">https://www.theranos.world/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50009295">https://news.ycombinator.com/item?id=50009295</a></p>
-<p>Points: 105</p>
-<p># Comments: 50</p>
+<p>Article URL: <a href="https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full">https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50011928">https://news.ycombinator.com/item?id=50011928</a></p>
+<p>Points: 42</p>
+<p># Comments: 22</p>
 
-🔗 **Read more:** [https://www.theranos.world/](https://www.theranos.world/)
+🔗 **Read more:** [https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full)
 
 ---
 
@@ -97,42 +97,42 @@ Police say they apprehended two Latvian men at about 02:00 BST while they were i
 
 ---
 
-### 7. US charges Venezuela’s Nicolas Maduro over torture allegations
+### 7. Four astronauts return to earth after an eight-month space mission
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Former Venezuelan President Nicolas Maduro and his wife, Cilia Flores face a new US charge over alleged torture.
+The crew completed a parachute-assisted splashdown in the Pacific Ocean off the coast of California.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/8/us-charges-venezuelas-nicolas-maduro-over-torture-allegations?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/8/us-charges-venezuelas-nicolas-maduro-over-torture-allegations?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/8/four-astronauts-return-to-earth-after-an-eight-month-space-mission?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/8/four-astronauts-return-to-earth-after-an-eight-month-space-mission?traffic_source=rss)
 
 ---
 
-### 8. South Africa protests turn violent amid rage over asylum ruling
+### 8. What Man City charges anger Liverpool before Premier League game?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Several cars torched and foreign-run businesses forced to shut in Johannesburg&#039;s Soweto and coastal city of Durban.
+Clubs reportedly want reimbursements after Man City charges - one of those, Liverpool, are first opponent in fallout.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/8/south-africa-protests-turn-violent-amid-rage-over-asylum-ruling?traffic_source=rss](https://www.aljazeera.com/news/2026/10/8/south-africa-protests-turn-violent-amid-rage-over-asylum-ruling?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/8/liverpool-vs-manchester-city-what-premier-league-charges-grate-reds-most?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/8/liverpool-vs-manchester-city-what-premier-league-charges-grate-reds-most?traffic_source=rss)
 
 ---
 
-### 9. Israel shuts down British consulate in occupied East Jerusalem
+### 9. Police use tear gas and water cannons on student protestors in Paris
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The British government says it will retain its presence in occupied East Jerusalem after Israel removed its consulate.
+Police fired tear gas and water cannons as demonstrators gathered in Paris to demand more funding and teachers.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/8/israel-shuts-down-british-consulate-in-occupied-east-jerusalem?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/8/israel-shuts-down-british-consulate-in-occupied-east-jerusalem?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/8/police-use-tear-gas-and-water-cannons-on-student-protestors-in-paris?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/8/police-use-tear-gas-and-water-cannons-on-student-protestors-in-paris?traffic_source=rss)
 
 ---
 
@@ -149,7 +149,20 @@ Natural event: Severe Storms
 
 ---
 
-### 11. Hurricane Isaias
+### 11. Prescribed Fire CON BSE13 RX, Covington, Alabama
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25119](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25119)
+
+---
+
+### 12. Hurricane Isaias
 
 **Source:** NASA
 
@@ -159,19 +172,6 @@ Natural event: Severe Storms
 Natural event: Severe Storms
 
 🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25063](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25063)
-
----
-
-### 12. Typhoon Koguma
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25046](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25046)
 
 ---
 

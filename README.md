@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-08 20:09:04
+**Last Update:** 2026-10-09 00:38:44
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. 4-hour battery storage is cheaper to install than gas turbines all across globe
+### 1. The value of not getting to the point (2015)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.solarpowerworldonline.com/2026/10/4-hour-battery-storage-is-cheaper-to-install-than-gas-turbines-all-across-globe/">https://www.solarpowerworldonline.com/2026/10/4-hour-battery-storage-is-cheaper-to-install-than-gas-turbines-all-across-globe/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50007519">https://news.ycombinator.com/item?id=50007519</a></p>
-<p>Points: 25</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/">https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50010470">https://news.ycombinator.com/item?id=50010470</a></p>
+<p>Points: 56</p>
+<p># Comments: 19</p>
 
-🔗 **Read more:** [https://www.solarpowerworldonline.com/2026/10/4-hour-battery-storage-is-cheaper-to-install-than-gas-turbines-all-across-globe/](https://www.solarpowerworldonline.com/2026/10/4-hour-battery-storage-is-cheaper-to-install-than-gas-turbines-all-across-globe/)
+🔗 **Read more:** [https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/](https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/)
 
 ---
 
-### 2. New gTLD Application for .lan
+### 2. Show HN: K10s – A Clickable Kubernetes TUI (Go, Bubble Tea)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://newgtldprogram-aps.icann.org/applications/CD2694T-T26351/summary">https://newgtldprogram-aps.icann.org/applications/CD2694T-T26351/summary</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50007353">https://news.ycombinator.com/item?id=50007353</a></p>
-<p>Points: 51</p>
-<p># Comments: 48</p>
+<p>Article URL: <a href="https://github.com/p10node/k10s">https://github.com/p10node/k10s</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50009904">https://news.ycombinator.com/item?id=50009904</a></p>
+<p>Points: 55</p>
+<p># Comments: 33</p>
 
-🔗 **Read more:** [https://newgtldprogram-aps.icann.org/applications/CD2694T-T26351/summary](https://newgtldprogram-aps.icann.org/applications/CD2694T-T26351/summary)
+🔗 **Read more:** [https://github.com/p10node/k10s](https://github.com/p10node/k10s)
 
 ---
 
-### 3. US suspends Microsoft, major IT firms from key green card program
+### 3. Theranos.world
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.reuters.com/business/us-suspending-permanent-residency-program-for-microsoft-vance-says-2026-10-08/">https://www.reuters.com/business/us-suspending-permanent-residency-program-for-microsoft-vance-says-2026-10-08/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50006948">https://news.ycombinator.com/item?id=50006948</a></p>
-<p>Points: 72</p>
-<p># Comments: 35</p>
+<p>Article URL: <a href="https://www.theranos.world/">https://www.theranos.world/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50009295">https://news.ycombinator.com/item?id=50009295</a></p>
+<p>Points: 105</p>
+<p># Comments: 50</p>
 
-🔗 **Read more:** [https://www.reuters.com/business/us-suspending-permanent-residency-program-for-microsoft-vance-says-2026-10-08/](https://www.reuters.com/business/us-suspending-permanent-residency-program-for-microsoft-vance-says-2026-10-08/)
+🔗 **Read more:** [https://www.theranos.world/](https://www.theranos.world/)
 
 ---
 
@@ -71,68 +71,68 @@ A criminal investigation into the former prince continues and police have retain
 
 ---
 
-### 5. Two Latvian men arrested on suspicion of trespass at RAF base in Cambridgeshire
+### 5. Watch: What does the ruling mean for the investigation into the former prince?
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Police say they apprehended the suspects at about 02:00 while they were inside the perimeter.
+Special correspondent Lucy Manning explains why the Hight Court has ruled that search warrants used to search Mr Mountbatten-Windsor's home were unlawful.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c6qxn8dd0zllo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c6qxn8dd0zllo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Two Latvian men arrested on suspicion of trespass at RAF base in Cambridgeshire
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Police say they apprehended two Latvian men at about 02:00 BST while they were inside the perimeter.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6ly0vzew9e8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6ly0vzew9e8o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Three sisters who drowned in sea off Brighton took own lives, inquest finds
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Jane Adetoro, Christina Walters and Rebecca Walters, who lived in London, drowned in the sea in May.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c689zxd8w87lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c689zxd8w87lo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. UK ex-prince Andrew search warrants quashed after police accept legal error
+### 7. US charges Venezuela’s Nicolas Maduro over torture allegations
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-London-based judge says error &#039;does not bring investigation to an end&#039; as police probe disgraced former royal.
+Former Venezuelan President Nicolas Maduro and his wife, Cilia Flores face a new US charge over alleged torture.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/8/uk-ex-prince-andrew-search-warrants-quashed-after-police-accept-legal-error?traffic_source=rss](https://www.aljazeera.com/news/2026/10/8/uk-ex-prince-andrew-search-warrants-quashed-after-police-accept-legal-error?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/8/us-charges-venezuelas-nicolas-maduro-over-torture-allegations?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/8/us-charges-venezuelas-nicolas-maduro-over-torture-allegations?traffic_source=rss)
 
 ---
 
-### 8. Video said to show Mali army in Kidal after retaking city
+### 8. South Africa protests turn violent amid rage over asylum ruling
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Recently published video is said to show Mali’s armed forces in Kidal after retaking the strategic northern city.
+Several cars torched and foreign-run businesses forced to shut in Johannesburg&#039;s Soweto and coastal city of Durban.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/8/video-said-to-show-mali-army-in-kidal-after-retaking-city?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/8/video-said-to-show-mali-army-in-kidal-after-retaking-city?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/8/south-africa-protests-turn-violent-amid-rage-over-asylum-ruling?traffic_source=rss](https://www.aljazeera.com/news/2026/10/8/south-africa-protests-turn-violent-amid-rage-over-asylum-ruling?traffic_source=rss)
 
 ---
 
-### 9. Venezuela’s Nicolas Maduro and his wife charged over torture allegations
+### 9. Israel shuts down British consulate in occupied East Jerusalem
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The new US charge adds to the existing drug trafficking case against Venezuela’s former president and first lady.
+The British government says it will retain its presence in occupied East Jerusalem after Israel removed its consulate.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/8/venezuelas-nicolas-maduro-and-his-wife-charged-over-torture-allegations?traffic_source=rss](https://www.aljazeera.com/news/2026/10/8/venezuelas-nicolas-maduro-and-his-wife-charged-over-torture-allegations?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/8/israel-shuts-down-british-consulate-in-occupied-east-jerusalem?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/8/israel-shuts-down-british-consulate-in-occupied-east-jerusalem?traffic_source=rss)
 
 ---
 
@@ -162,7 +162,7 @@ Natural event: Severe Storms
 
 ---
 
-### 12. Tropical Storm Koguma
+### 12. Typhoon Koguma
 
 **Source:** NASA
 

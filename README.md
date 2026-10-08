@@ -1,16 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-08 01:36:23
+**Last Update:** 2026-10-08 04:18:46
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Margaret Hamilton, who led software development for Apollo program, dies at 90
+### 1. Margaret Hamilton has died
 
 **Source:** Hacker News
 
@@ -19,72 +19,46 @@
 **Description:**
 <p>Article URL: <a href="https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007">https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49998895">https://news.ycombinator.com/item?id=49998895</a></p>
-<p>Points: 34</p>
-<p># Comments: 2</p>
+<p>Points: 574</p>
+<p># Comments: 61</p>
 
 🔗 **Read more:** [https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007](https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007)
 
 ---
 
-### 2. Despite what Watson said, Rosalind Franklin understood structure of DNA first
+### 2. 'Jonathan' is the oldest land animal on Earth
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://link.springer.com/article/10.1007/s10739-026-09866-7">https://link.springer.com/article/10.1007/s10739-026-09866-7</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49998006">https://news.ycombinator.com/item?id=49998006</a></p>
-<p>Points: 42</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/">https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49998066">https://news.ycombinator.com/item?id=49998066</a></p>
+<p>Points: 36</p>
+<p># Comments: 7</p>
 
-🔗 **Read more:** [https://link.springer.com/article/10.1007/s10739-026-09866-7](https://link.springer.com/article/10.1007/s10739-026-09866-7)
+🔗 **Read more:** [https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/](https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/)
 
 ---
 
-### 3. Show HN: gtlds.fyi – All the proposed new gTLDs
+### 3. Meta and Microsoft take steps to reduce employee usage of Claude AI
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://gtlds.fyi/">https://gtlds.fyi/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49997971">https://news.ycombinator.com/item?id=49997971</a></p>
-<p>Points: 32</p>
-<p># Comments: 36</p>
+<p>Article URL: <a href="https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/">https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49997161">https://news.ycombinator.com/item?id=49997161</a></p>
+<p>Points: 259</p>
+<p># Comments: 256</p>
 
-🔗 **Read more:** [https://gtlds.fyi/](https://gtlds.fyi/)
-
----
-
-### 4. Badenoch says Tories would scrap inheritance tax on family homes
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Tory leader says her party is "coming back", as she aims to convince voters it has changed after 2024 election defeat.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmn5vw05l0q3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmn5vw05l0q3o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/](https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/)
 
 ---
 
-### 5. Chris Mason: Tories united behind Badenoch - but party still needs to win over voters
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Kemi Badenoch has the support of her party but the Tories still trail Labour and Reform in opinion polls.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm1j3rj2r72xo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm1j3rj2r72xo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Christa Pike 'angry and confused' after failed execution, lawyers say
+### 4. Christa Pike 'angry and confused' after failed execution, lawyers say
 
 **Source:** BBC
 
@@ -97,42 +71,68 @@ Lawyers say the convicted killer was surprised to have survived and remained "sh
 
 ---
 
-### 7. Pro-Palestine university groups march in London on October 7 anniversary
+### 5. Watch: What we know about Christa Pike's ‘shock’ recovery in hospital
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-Pro-Palestine students took to the streets of London on October 7, despite police calls to postpone the march.
+The US death row inmate's legal team said at a press conference that she is now "conscious and speaking" after her failed execution.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/7/pro-palestine-university-groups-march-in-london-on-october-7-anniversary?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/7/pro-palestine-university-groups-march-in-london-on-october-7-anniversary?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cw99zxxx891yo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cw99zxxx891yo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. Trump on why he thinks he deserves the Nobel Peace Prize
+### 6. Badenoch says Tories would scrap inheritance tax on family homes
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-US President Donald Trump said it would be a ‘great discredit’ to the Nobel Peace Prize committee.
+Tory leader says her party is "coming back", as she aims to convince voters it has changed after 2024 election defeat.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/7/trump-on-why-he-thinks-he-deserves-the-nobel-peace-prize-2?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/7/trump-on-why-he-thinks-he-deserves-the-nobel-peace-prize-2?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmn5vw05l0q3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmn5vw05l0q3o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 9. South Africa host Australia who battle more than ‘Sandpapergate’ memories
+### 7. US stocks slide as oil prices fluctuate over renewed Iran war fears
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-WTC holders South Africa host Australia, who struggled against Bangladesh, in Tests for first time since 2018 scandal.
+Oil prices rose on fresh concerns about Middle East supplies, before falling on the possible release of more reserves.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/7/south-africa-host-an-australia-battling-more-than-sandpapergate-memories?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/7/south-africa-host-an-australia-battling-more-than-sandpapergate-memories?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/8/us-stocks-slide-as-oil-prices-fluctuate-over-renewed-iran-war-fears?traffic_source=rss](https://www.aljazeera.com/news/2026/10/8/us-stocks-slide-as-oil-prices-fluctuate-over-renewed-iran-war-fears?traffic_source=rss)
+
+---
+
+### 8. Russia dismisses reports of second plague case as ‘false information’
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Senior WHO official urges Russia to provide more information on the suspected pneumonic plague cases.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/8/russia-dismisses-reports-of-second-plague-case-as-false-information?traffic_source=rss](https://www.aljazeera.com/news/2026/10/8/russia-dismisses-reports-of-second-plague-case-as-false-information?traffic_source=rss)
+
+---
+
+### 9. Saudi Arabia confirms three dead in Houthi strikes on its airports
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Saudi Arabia has confirmed that Houthi strikes on two of its international airports have killed three people.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/8/saudi-arabia-confirms-three-dead-in-houthi-strikes-on-its-airports?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/8/saudi-arabia-confirms-three-dead-in-houthi-strikes-on-its-airports?traffic_source=rss)
 
 ---
 

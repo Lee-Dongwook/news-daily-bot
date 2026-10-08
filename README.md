@@ -1,72 +1,71 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-08 18:52:12
+**Last Update:** 2026-10-08 20:09:04
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: I've been paying for a rural Tanzanian's education for 10 years
+### 1. 4-hour battery storage is cheaper to install than gas turbines all across globe
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Ten years ago I was 19 and traveling through East Africa, and I spent a summer in Ibumila, a village in the Njombe highlands of Tanzania. There's no school in the village. The nearest one is a boarding school an hour away that costs a few hundred dollars a year, which is out of reach for most families there and was about two weeks of summer job money for me. The daughter of the family I stayed with, Anwarite, was 11. I offered to pay her fees and told myself I'd keep paying as long as she wanted to keep going.<p>This summer she graduated from the University of Dar es Salaam with a degree in Language Studies, and last week she told me she'd been accepted into a Master of Arts in Swahili program there. Roughly 2% of people from Njombe ever finish a university degree. Her goal is to get a PhD and then to bring it back to the region.<p>Her entire 18-month master's program (tuition, registration, fees, books, supplies) comes to 3,060,000 TSh, about $1,161.<p>Since this worked out, I kept adding students as I could afford to, and in 2021 I registered it as a 501(c)(3), the Tanzania Education Project. It supports five students from Ibumila now, school fees and healthcare. I kept it small while I was finishing my PhD because I didn't want commitments I couldn't personally guarantee for a decade; I've since started a postdoc, so it feels like the right time to grow past my own paycheck. The long-term goal is that every kid in the village has access to education and healthcare. I sometimes think of this project as a slow experiment. How much could the village itself change over someone's lifetime if the kids have access to education?<p><a href="https://tanzaniaeducationproject.org/" rel="nofollow">https://tanzaniaeducationproject.org/</a> is the website. Nobody takes a salary, and aside from bank fees the money goes to the students. If anyone wants to fund Anwarite's master's specifically, it's here: <a href="https://www.gofundme.com/f/send-anwarite-to-her-masters-program" rel="nofollow">https://www.gofundme.com/f/send-anwarite-to-her-masters-prog...</a><p>Happy to answer any questions or take any tips you all might have about doing this sort of thing.</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50006366">https://news.ycombinator.com/item?id=50006366</a></p>
-<p>Points: 50</p>
-<p># Comments: 15</p>
-
-🔗 **Read more:** [https://tanzaniaeducationproject.org/](https://tanzaniaeducationproject.org/)
-
----
-
-### 2. 2027 Web Platform Feature Ranking
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://interop-rank.fxdx.dev/">https://interop-rank.fxdx.dev/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50005643">https://news.ycombinator.com/item?id=50005643</a></p>
-<p>Points: 4</p>
+<p>Article URL: <a href="https://www.solarpowerworldonline.com/2026/10/4-hour-battery-storage-is-cheaper-to-install-than-gas-turbines-all-across-globe/">https://www.solarpowerworldonline.com/2026/10/4-hour-battery-storage-is-cheaper-to-install-than-gas-turbines-all-across-globe/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50007519">https://news.ycombinator.com/item?id=50007519</a></p>
+<p>Points: 25</p>
 <p># Comments: 1</p>
 
-🔗 **Read more:** [https://interop-rank.fxdx.dev/](https://interop-rank.fxdx.dev/)
+🔗 **Read more:** [https://www.solarpowerworldonline.com/2026/10/4-hour-battery-storage-is-cheaper-to-install-than-gas-turbines-all-across-globe/](https://www.solarpowerworldonline.com/2026/10/4-hour-battery-storage-is-cheaper-to-install-than-gas-turbines-all-across-globe/)
 
 ---
 
-### 3. Beauty in DVD Menus
+### 2. New gTLD Application for .lan
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://vale.rocks/posts/dvd-menus">https://vale.rocks/posts/dvd-menus</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50005527">https://news.ycombinator.com/item?id=50005527</a></p>
-<p>Points: 79</p>
-<p># Comments: 52</p>
+<p>Article URL: <a href="https://newgtldprogram-aps.icann.org/applications/CD2694T-T26351/summary">https://newgtldprogram-aps.icann.org/applications/CD2694T-T26351/summary</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50007353">https://news.ycombinator.com/item?id=50007353</a></p>
+<p>Points: 51</p>
+<p># Comments: 48</p>
 
-🔗 **Read more:** [https://vale.rocks/posts/dvd-menus](https://vale.rocks/posts/dvd-menus)
+🔗 **Read more:** [https://newgtldprogram-aps.icann.org/applications/CD2694T-T26351/summary](https://newgtldprogram-aps.icann.org/applications/CD2694T-T26351/summary)
 
 ---
 
-### 4. Police accept Andrew Mountbatten-Windsor search warrants were unlawful, court hears
+### 3. US suspends Microsoft, major IT firms from key green card program
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.reuters.com/business/us-suspending-permanent-residency-program-for-microsoft-vance-says-2026-10-08/">https://www.reuters.com/business/us-suspending-permanent-residency-program-for-microsoft-vance-says-2026-10-08/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50006948">https://news.ycombinator.com/item?id=50006948</a></p>
+<p>Points: 72</p>
+<p># Comments: 35</p>
+
+🔗 **Read more:** [https://www.reuters.com/business/us-suspending-permanent-residency-program-for-microsoft-vance-says-2026-10-08/](https://www.reuters.com/business/us-suspending-permanent-residency-program-for-microsoft-vance-says-2026-10-08/)
+
+---
+
+### 4. Warrants used to search Andrew Mountbatten-Windsor's homes were unlawful, court says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The former prince is taking legal action against Thames Valley Police after his homes were searched earlier this year.
+A criminal investigation into the former prince continues and police have retained material seized from his homes.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr1exlvpzylvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr1exlvpzylvo?at_medium=RSS&at_campaign=rss)
 
@@ -79,7 +78,7 @@ The former prince is taking legal action against Thames Valley Police after his 
 **Category:** world
 
 **Description:**
-Police say the suspects are Latvian nationals aged 36 and 32.
+Police say they apprehended the suspects at about 02:00 while they were inside the perimeter.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6ly0vzew9e8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6ly0vzew9e8o?at_medium=RSS&at_campaign=rss)
 
@@ -98,42 +97,42 @@ Jane Adetoro, Christina Walters and Rebecca Walters, who lived in London, drowne
 
 ---
 
-### 7. What were Trump operatives doing for pro-Russian politician Dodik in Bosnia?
+### 7. UK ex-prince Andrew search warrants quashed after police accept legal error
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Reports that Trump aides were paid to advise Bosnian Serb leader ahead of parliamentary election raise alarm.
+London-based judge says error &#039;does not bring investigation to an end&#039; as police probe disgraced former royal.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/10/8/what-were-trump-operatives-doing-for-pro-russian-politician-dodik-in-bosnia?traffic_source=rss](https://www.aljazeera.com/features/2026/10/8/what-were-trump-operatives-doing-for-pro-russian-politician-dodik-in-bosnia?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/8/uk-ex-prince-andrew-search-warrants-quashed-after-police-accept-legal-error?traffic_source=rss](https://www.aljazeera.com/news/2026/10/8/uk-ex-prince-andrew-search-warrants-quashed-after-police-accept-legal-error?traffic_source=rss)
 
 ---
 
-### 8. More killed in Kramatorsk as Russia targets Ukraine’s transportation system
+### 8. Video said to show Mali army in Kidal after retaking city
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Russia’s attacks on trains, buses and ports are paralysing Ukraine’s transport network and endangering civilians.
+Recently published video is said to show Mali’s armed forces in Kidal after retaking the strategic northern city.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/8/more-killed-in-kramatorsk-as-russia-targets-ukraines-transportation-system?traffic_source=rss](https://www.aljazeera.com/news/2026/10/8/more-killed-in-kramatorsk-as-russia-targets-ukraines-transportation-system?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/8/video-said-to-show-mali-army-in-kidal-after-retaking-city?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/8/video-said-to-show-mali-army-in-kidal-after-retaking-city?traffic_source=rss)
 
 ---
 
-### 9. Saudi-led coalition says it intercepts three Houthi ballistic missiles
+### 9. Venezuela’s Nicolas Maduro and his wife charged over torture allegations
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Saudi Arabia says two ballistic missiles were intercepted as they headed towards the capital, Riyadh.
+The new US charge adds to the existing drug trafficking case against Venezuela’s former president and first lady.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/8/saudi-led-coalition-says-it-intercepts-three-houthi-ballistic-missiles?traffic_source=rss](https://www.aljazeera.com/news/2026/10/8/saudi-led-coalition-says-it-intercepts-three-houthi-ballistic-missiles?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/8/venezuelas-nicolas-maduro-and-his-wife-charged-over-torture-allegations?traffic_source=rss](https://www.aljazeera.com/news/2026/10/8/venezuelas-nicolas-maduro-and-his-wife-charged-over-torture-allegations?traffic_source=rss)
 
 ---
 

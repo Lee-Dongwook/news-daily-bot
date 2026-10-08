@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-08 04:18:46
+**Last Update:** 2026-10-08 05:35:51
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Margaret Hamilton has died
+### 1. Rust Port of TypeScript (Tsc)
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/pingdotgg/ts-rust">https://github.com/pingdotgg/ts-rust</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50000676">https://news.ycombinator.com/item?id=50000676</a></p>
+<p>Points: 39</p>
+<p># Comments: 32</p>
+
+🔗 **Read more:** [https://github.com/pingdotgg/ts-rust](https://github.com/pingdotgg/ts-rust)
+
+---
+
+### 2. Margaret Hamilton has died
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007">https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49998895">https://news.ycombinator.com/item?id=49998895</a></p>
-<p>Points: 574</p>
-<p># Comments: 61</p>
+<p>Points: 743</p>
+<p># Comments: 86</p>
 
 🔗 **Read more:** [https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007](https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007)
 
 ---
 
-### 2. 'Jonathan' is the oldest land animal on Earth
+### 3. 'Jonathan' is the oldest land animal on Earth
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/">https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49998066">https://news.ycombinator.com/item?id=49998066</a></p>
-<p>Points: 36</p>
-<p># Comments: 7</p>
+<p>Points: 48</p>
+<p># Comments: 17</p>
 
 🔗 **Read more:** [https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/](https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/)
-
----
-
-### 3. Meta and Microsoft take steps to reduce employee usage of Claude AI
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/">https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49997161">https://news.ycombinator.com/item?id=49997161</a></p>
-<p>Points: 259</p>
-<p># Comments: 256</p>
-
-🔗 **Read more:** [https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/](https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/)
 
 ---
 
@@ -84,55 +84,55 @@ The US death row inmate's legal team said at a press conference that she is now 
 
 ---
 
-### 6. Badenoch says Tories would scrap inheritance tax on family homes
+### 6. Burnham to hold security talks with German chancellor in Berlin
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Tory leader says her party is "coming back", as she aims to convince voters it has changed after 2024 election defeat.
+Downing Street said deeper co-operation in the face of rising hybrid threats from Russia would be high on the agenda during Burnham's first official visit to Germany.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmn5vw05l0q3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmn5vw05l0q3o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmwyq34qexdzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmwyq34qexdzo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. US stocks slide as oil prices fluctuate over renewed Iran war fears
+### 7. Why is Guantanamo prison still open?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Oil prices rose on fresh concerns about Middle East supplies, before falling on the possible release of more reserves.
+Guantanamo Bay opened after the US invasion of Afghanistan. 25 years later, the war is over, but the prison remains open
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/8/us-stocks-slide-as-oil-prices-fluctuate-over-renewed-iran-war-fears?traffic_source=rss](https://www.aljazeera.com/news/2026/10/8/us-stocks-slide-as-oil-prices-fluctuate-over-renewed-iran-war-fears?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/8/why-is-guantanamo-prison-still-open?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/8/why-is-guantanamo-prison-still-open?traffic_source=rss)
 
 ---
 
-### 8. Russia dismisses reports of second plague case as ‘false information’
+### 8. Democrats sue US President Trump over taxpayer-funded ad campaign
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Senior WHO official urges Russia to provide more information on the suspected pneumonic plague cases.
+Trump has faced a bipartisan backlash over ads that critics say violate prohibitions on taxpayer-funded propaganda.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/8/russia-dismisses-reports-of-second-plague-case-as-false-information?traffic_source=rss](https://www.aljazeera.com/news/2026/10/8/russia-dismisses-reports-of-second-plague-case-as-false-information?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/8/democrats-sue-us-president-trump-over-taxpayer-funded-ad-campaign?traffic_source=rss](https://www.aljazeera.com/news/2026/10/8/democrats-sue-us-president-trump-over-taxpayer-funded-ad-campaign?traffic_source=rss)
 
 ---
 
-### 9. Saudi Arabia confirms three dead in Houthi strikes on its airports
+### 9. Death of 87-year old sparks furious Spain housing protests
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Saudi Arabia has confirmed that Houthi strikes on two of its international airports have killed three people.
+Hundreds of protesters gather outside Spain’s Parliament, demanding action over soaring rents.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/8/saudi-arabia-confirms-three-dead-in-houthi-strikes-on-its-airports?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/8/saudi-arabia-confirms-three-dead-in-houthi-strikes-on-its-airports?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/8/death-of-87-year-old-sparks-furious-spain-housing-protests?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/8/death-of-87-year-old-sparks-furious-spain-housing-protests?traffic_source=rss)
 
 ---
 

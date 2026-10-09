@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-09T19:25:46+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The super intelligence shit is a humiliation ritual for OpenAI",
+            "description": "<p>Article URL: <a href=\"https://bsky.app/profile/opinionhaver.bsky.social/post/3mxfo2mdjqs2z\">https://bsky.app/profile/opinionhaver.bsky.social/post/3mxfo2mdjqs2z</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50021763\">https://news.ycombinator.com/item?id=50021763</a></p>\n<p>Points: 9</p>\n<p># Comments: 3</p>",
+            "url": "https://bsky.app/profile/opinionhaver.bsky.social/post/3mxfo2mdjqs2z",
+            "published": "Fri, 09 Oct 2026 15:18:59 +0000",
+            "fetched": "2026-10-09T19:25:46+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Germany turning abandoned coal mines into 23 lakes, becoming artificial wetland",
+            "description": "<p>Article URL: <a href=\"https://timesofindia.indiatimes.com/world/europe/germany-is-turning-abandoned-coal-mines-into-23-lakes-the-former-mining-landscape-is-becoming-europes-largest-artificial-wetland/articleshow/134725669.cms\">https://timesofindia.indiatimes.com/world/europe/germany-is-turning-abandoned-coal-mines-into-23-lakes-the-former-mining-landscape-is-becoming-europes-largest-artificial-wetland/articleshow/134725669.cms</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50021540\">https://news.ycombinator.com/item?id=50021540</a></p>\n<p>Points: 17</p>\n<p># Comments: 7</p>",
+            "url": "https://timesofindia.indiatimes.com/world/europe/germany-is-turning-abandoned-coal-mines-into-23-lakes-the-former-mining-landscape-is-becoming-europes-largest-artificial-wetland/articleshow/134725669.cms",
+            "published": "Fri, 09 Oct 2026 15:05:24 +0000",
+            "fetched": "2026-10-09T19:25:46+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Imposing Sanctions on the International Criminal Court",
+            "description": "<p>Article URL: <a href=\"https://www.state.gov/releases/office-of-the-spokesman/2026/10/imposing-sanctions-on-the-international-criminal-court/\">https://www.state.gov/releases/office-of-the-spokesman/2026/10/imposing-sanctions-on-the-international-criminal-court/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50021403\">https://news.ycombinator.com/item?id=50021403</a></p>\n<p>Points: 77</p>\n<p># Comments: 45</p>",
+            "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/imposing-sanctions-on-the-international-criminal-court/",
+            "published": "Fri, 09 Oct 2026 14:55:57 +0000",
+            "fetched": "2026-10-09T19:25:46+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Polanski vows to stay on as Green leader as he faces criticism after by-election defeat",
+            "description": "Jewish Greens' leader has said Polanski should resign in the wake of a Zionism row and by-election defeat.",
+            "url": "https://www.bbc.co.uk/news/articles/cmewe5lvl2rqo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 09 Oct 2026 15:16:54 GMT",
+            "fetched": "2026-10-09T19:25:46+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "King pays Andrew's £1.5m repair bill on Royal Lodge",
+            "description": "Andrew Mountbatten-Windsor was charged £1.5m in repair and restoration costs after surrendering the lease on the 30-room mansion.",
+            "url": "https://www.bbc.co.uk/news/articles/c8040nl9q24do?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 09 Oct 2026 12:29:02 GMT",
+            "fetched": "2026-10-09T19:25:46+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Widdecombe suspect had 'particular hostility to Reform', court told",
+            "description": "Kerry is charged with the murder of the 78-year-old former Conservative minister and Reform UK spokeswoman.",
+            "url": "https://www.bbc.co.uk/news/articles/cmkgknz19z7po?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 09 Oct 2026 14:35:31 GMT",
+            "fetched": "2026-10-09T19:25:46+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Hurricane Isaias strengthens into Category 3 storm with US in its sights",
+            "description": "The major storm is expected to make landfall along the US Gulf Coast later on Friday or early Saturday.",
+            "url": "https://www.aljazeera.com/news/2026/10/9/hurricane-isaias-strengthens-into-category-3-storm-with-us-in-its-sights?traffic_source=rss",
+            "published": "Fri, 09 Oct 2026 15:25:27 +0000",
+            "fetched": "2026-10-09T19:25:46+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Man City charges: How Premier League reacted – United, Arsenal, Liverpool",
+            "description": "After Manchester City were found guilty of Premier League breaches, rival managers give their reaction as games resume.",
+            "url": "https://www.aljazeera.com/sports/2026/10/9/man-city-charges-how-premier-league-reacted-man-utd-arsenal-liverpool?traffic_source=rss",
+            "published": "Fri, 09 Oct 2026 15:09:51 +0000",
+            "fetched": "2026-10-09T19:25:46+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US sanctions International Criminal Court itself in latest escalation",
+            "description": "Latest action seeks to stem resources to international tribunal Trump administration has vowed to dismantle.",
+            "url": "https://www.aljazeera.com/news/2026/10/9/us-sanctions-international-criminal-court-itself-in-latest-escalation?traffic_source=rss",
+            "published": "Fri, 09 Oct 2026 15:08:30 +0000",
+            "fetched": "2026-10-09T19:25:46+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Simon",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25094",
+            "published": "2026-10-07T18:00:00Z",
+            "fetched": "2026-10-09T19:25:46+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire CON BSE13 RX, Covington, Alabama",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25119",
+            "published": "2026-10-07T10:45:00Z",
+            "fetched": "2026-10-09T19:25:46+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Isaias",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25063",
+            "published": "2026-10-07T09:00:00Z",
+            "fetched": "2026-10-09T19:25:46+03:30"
+        }
+    ]
+}

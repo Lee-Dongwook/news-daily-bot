@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-09 19:25:46
+**Last Update:** 2026-10-09 19:53:10
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. The super intelligence shit is a humiliation ritual for OpenAI
+### 1. A statement on the Tor Project's relationship with Mullvad
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://blog.torproject.org/on-tor-relationship-with-mullvad/">https://blog.torproject.org/on-tor-relationship-with-mullvad/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50022266">https://news.ycombinator.com/item?id=50022266</a></p>
+<p>Points: 9</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://blog.torproject.org/on-tor-relationship-with-mullvad/](https://blog.torproject.org/on-tor-relationship-with-mullvad/)
+
+---
+
+### 2. The super intelligence shit is a humiliation ritual for OpenAI
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://bsky.app/profile/opinionhaver.bsky.social/post/3mxfo2mdjqs2z">https://bsky.app/profile/opinionhaver.bsky.social/post/3mxfo2mdjqs2z</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50021763">https://news.ycombinator.com/item?id=50021763</a></p>
-<p>Points: 9</p>
-<p># Comments: 3</p>
+<p>Points: 31</p>
+<p># Comments: 10</p>
 
 🔗 **Read more:** [https://bsky.app/profile/opinionhaver.bsky.social/post/3mxfo2mdjqs2z](https://bsky.app/profile/opinionhaver.bsky.social/post/3mxfo2mdjqs2z)
 
 ---
 
-### 2. Germany turning abandoned coal mines into 23 lakes, becoming artificial wetland
+### 3. Germany turning abandoned coal mines into 23 lakes, becoming artificial wetland
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://timesofindia.indiatimes.com/world/europe/germany-is-turning-abandoned-coal-mines-into-23-lakes-the-former-mining-landscape-is-becoming-europes-largest-artificial-wetland/articleshow/134725669.cms">https://timesofindia.indiatimes.com/world/europe/germany-is-turning-abandoned-coal-mines-into-23-lakes-the-former-mining-landscape-is-becoming-europes-largest-artificial-wetland/articleshow/134725669.cms</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50021540">https://news.ycombinator.com/item?id=50021540</a></p>
-<p>Points: 17</p>
-<p># Comments: 7</p>
+<p>Points: 35</p>
+<p># Comments: 13</p>
 
 🔗 **Read more:** [https://timesofindia.indiatimes.com/world/europe/germany-is-turning-abandoned-coal-mines-into-23-lakes-the-former-mining-landscape-is-becoming-europes-largest-artificial-wetland/articleshow/134725669.cms](https://timesofindia.indiatimes.com/world/europe/germany-is-turning-abandoned-coal-mines-into-23-lakes-the-former-mining-landscape-is-becoming-europes-largest-artificial-wetland/articleshow/134725669.cms)
-
----
-
-### 3. Imposing Sanctions on the International Criminal Court
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.state.gov/releases/office-of-the-spokesman/2026/10/imposing-sanctions-on-the-international-criminal-court/">https://www.state.gov/releases/office-of-the-spokesman/2026/10/imposing-sanctions-on-the-international-criminal-court/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50021403">https://news.ycombinator.com/item?id=50021403</a></p>
-<p>Points: 77</p>
-<p># Comments: 45</p>
-
-🔗 **Read more:** [https://www.state.gov/releases/office-of-the-spokesman/2026/10/imposing-sanctions-on-the-international-criminal-court/](https://www.state.gov/releases/office-of-the-spokesman/2026/10/imposing-sanctions-on-the-international-criminal-court/)
 
 ---
 
@@ -97,42 +97,42 @@ Kerry is charged with the murder of the 78-year-old former Conservative minister
 
 ---
 
-### 7. Hurricane Isaias strengthens into Category 3 storm with US in its sights
+### 7. Thousands rally for anti-austerity protest in Brussels amid clashes
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The major storm is expected to make landfall along the US Gulf Coast later on Friday or early Saturday.
+Belgian police respond to &#039;troublemakers&#039; on sidelines of main rally with tear gas, water cannon and baton charges.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/9/hurricane-isaias-strengthens-into-category-3-storm-with-us-in-its-sights?traffic_source=rss](https://www.aljazeera.com/news/2026/10/9/hurricane-isaias-strengthens-into-category-3-storm-with-us-in-its-sights?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/9/thousands-rally-for-anti-austerity-protest-in-brussels-amid-clashes?traffic_source=rss](https://www.aljazeera.com/news/2026/10/9/thousands-rally-for-anti-austerity-protest-in-brussels-amid-clashes?traffic_source=rss)
 
 ---
 
-### 8. Man City charges: How Premier League reacted – United, Arsenal, Liverpool
+### 8. Trump launches probe into Federal Reserve Governor Lisa Cook
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-After Manchester City were found guilty of Premier League breaches, rival managers give their reaction as games resume.
+Trump began efforts to remove Cook as one of the governors on the US Fed Reserve Board in 2025 and litigation is on.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/9/man-city-charges-how-premier-league-reacted-man-utd-arsenal-liverpool?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/9/man-city-charges-how-premier-league-reacted-man-utd-arsenal-liverpool?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/9/trump-launches-probe-into-federal-reserve-governor-lisa-cook?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/9/trump-launches-probe-into-federal-reserve-governor-lisa-cook?traffic_source=rss)
 
 ---
 
-### 9. US sanctions International Criminal Court itself in latest escalation
+### 9. ‘Rogue court’: US sanctions ICC hours after ex-judge wins Nobel Prize
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Latest action seeks to stem resources to international tribunal Trump administration has vowed to dismantle.
+US Secretary of State Marco Rubio announced sanctions against the International Criminal Court on Friday.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/9/us-sanctions-international-criminal-court-itself-in-latest-escalation?traffic_source=rss](https://www.aljazeera.com/news/2026/10/9/us-sanctions-international-criminal-court-itself-in-latest-escalation?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/9/rogue-court-us-sanctions-icc-hours-after-ex-judge-wins-nobel-prize?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/9/rogue-court-us-sanctions-icc-hours-after-ex-judge-wins-nobel-prize?traffic_source=rss)
 
 ---
 

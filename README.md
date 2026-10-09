@@ -1,32 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-09 12:09:24
+**Last Update:** 2026-10-09 12:50:34
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Programming Isn't Special
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://blog.glyph.im/2026/10/programming-isnt-special.html">https://blog.glyph.im/2026/10/programming-isnt-special.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50017357">https://news.ycombinator.com/item?id=50017357</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://blog.glyph.im/2026/10/programming-isnt-special.html](https://blog.glyph.im/2026/10/programming-isnt-special.html)
-
----
-
-### 2. OTel-Native by Design – Building Products That Export to Any Observability Stack
+### 1. OTel-Native by Design – Building Products That Export to Any Observability Stack
 
 **Source:** Hacker News
 
@@ -35,14 +19,14 @@
 **Description:**
 <p>Article URL: <a href="https://opentelemetry.io/blog/2026/otel-native-by-design/">https://opentelemetry.io/blog/2026/otel-native-by-design/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50016974">https://news.ycombinator.com/item?id=50016974</a></p>
-<p>Points: 30</p>
-<p># Comments: 2</p>
+<p>Points: 37</p>
+<p># Comments: 7</p>
 
 🔗 **Read more:** [https://opentelemetry.io/blog/2026/otel-native-by-design/](https://opentelemetry.io/blog/2026/otel-native-by-design/)
 
 ---
 
-### 3. Show HN: OldRoll, a free vintage photo editor for the browser
+### 2. Show HN: OldRoll, a free vintage photo editor for the browser
 
 **Source:** Hacker News
 
@@ -52,10 +36,26 @@
 <p>OldRoll Web brings vintage camera effects and film-inspired filters to your browser. Give everyday photos a nostalgic look without installing an app, with all creative assets free to use.</p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50016840">https://news.ycombinator.com/item?id=50016840</a></p>
-<p>Points: 6</p>
+<p>Points: 8</p>
 <p># Comments: 1</p>
 
 🔗 **Read more:** [https://www.oldroll.io/](https://www.oldroll.io/)
+
+---
+
+### 3. MXC - a sandboxed code execution system
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/microsoft/mxc">https://github.com/microsoft/mxc</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50016489">https://news.ycombinator.com/item?id=50016489</a></p>
+<p>Points: 21</p>
+<p># Comments: 6</p>
+
+🔗 **Read more:** [https://github.com/microsoft/mxc](https://github.com/microsoft/mxc)
 
 ---
 
@@ -98,42 +98,42 @@ Pete Hegseth says the execution will be public, but a legal expert says the "unp
 
 ---
 
-### 7. LeBron James stars in NBA preseason debut but Nets defeat 76ers
+### 7. 2026 Nobel Peace Prize awarded to Navi Pillay
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-All-time leading scorer LeBron James makes 76ers debut following LA Lakers switch in NBA preseason, but Nets claim win.
+This is a breaking news story.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/9/lebron-james-shines-in-nba-pre-season-debut-by-76ers-defeated?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/9/lebron-james-shines-in-nba-pre-season-debut-by-76ers-defeated?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/9/2026-nobel-peace-prize-awarded-to-navi-pillay?traffic_source=rss](https://www.aljazeera.com/news/2026/10/9/2026-nobel-peace-prize-awarded-to-navi-pillay?traffic_source=rss)
 
 ---
 
-### 8. US ICE releases Kashmiri filmmaker Arfat Sheikh from custody
+### 8. NBA star Wembanyama to French students: ‘I hear you’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Award-winning filmmaker, detained last month, is released on bond with next hearing set for October 27, campaign says.
+San ​Antonio Spurs player Victor Wembanyama offers solidarity to students protesting conditions in schools in France.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/9/us-ice-releases-kashmiri-filmmaker-arfat-sheikh-from-custody?traffic_source=rss](https://www.aljazeera.com/news/2026/10/9/us-ice-releases-kashmiri-filmmaker-arfat-sheikh-from-custody?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/9/nba-star-wembanyama-to-french-students-i-hear-you?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/9/nba-star-wembanyama-to-french-students-i-hear-you?traffic_source=rss)
 
 ---
 
-### 9. Three years after October 7, prolonged war takes its toll on Israelis
+### 9. New York police push politician to ground during anti-ICE protest
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Children’s psychiatric emergency visits have more than doubled in Israel, study shows.
+New York police push politician to ground during anti-ICE protest
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/9/three-years-after-october-7-prolonged-war-takes-its-toll-on-israelis?traffic_source=rss](https://www.aljazeera.com/news/2026/10/9/three-years-after-october-7-prolonged-war-takes-its-toll-on-israelis?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/9/new-york-police-push-politician-to-ground-during-anti-ice-protest?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/9/new-york-police-push-politician-to-ground-during-anti-ice-protest?traffic_source=rss)
 
 ---
 

@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-10 00:11:53
+**Last Update:** 2026-10-10 00:33:03
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://borretti.me/article/no-man-is-an-island">https://borretti.me/article/no-man-is-an-island</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50025935">https://news.ycombinator.com/item?id=50025935</a></p>
-<p>Points: 17</p>
-<p># Comments: 0</p>
+<p>Points: 78</p>
+<p># Comments: 28</p>
 
 🔗 **Read more:** [https://borretti.me/article/no-man-is-an-island](https://borretti.me/article/no-man-is-an-island)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://blog.bawolf.com/p/you-might-want-to-try-being-less">https://blog.bawolf.com/p/you-might-want-to-try-being-less</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50024927">https://news.ycombinator.com/item?id=50024927</a></p>
-<p>Points: 37</p>
-<p># Comments: 19</p>
+<p>Points: 41</p>
+<p># Comments: 23</p>
 
 🔗 **Read more:** [https://blog.bawolf.com/p/you-might-want-to-try-being-less](https://blog.bawolf.com/p/you-might-want-to-try-being-less)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://commandline.microsoft.com/microsoft-decision-1-model-foundry/">https://commandline.microsoft.com/microsoft-decision-1-model-foundry/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50024913">https://news.ycombinator.com/item?id=50024913</a></p>
-<p>Points: 43</p>
-<p># Comments: 14</p>
+<p>Points: 60</p>
+<p># Comments: 24</p>
 
 🔗 **Read more:** [https://commandline.microsoft.com/microsoft-decision-1-model-foundry/](https://commandline.microsoft.com/microsoft-decision-1-model-foundry/)
 
@@ -97,42 +97,42 @@ Several member states of the international tribunal, including the UK, say they 
 
 ---
 
-### 7. Trump announces Russian diesel deal amid soaring US fuel prices
+### 7. How will Spain’s housing crisis affect elections?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Russia to deliver millions of tonnes of diesel soon, US President Trump announces after talks with Putin.
+Snap vote called after Parliament rejects measures to protect tenants and freeze rents.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/9/trump-announces-russian-diesel-deal-amid-soaring-us-fuel-prices?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/9/trump-announces-russian-diesel-deal-amid-soaring-us-fuel-prices?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/10/9/how-will-spains-housing-crisis-impact-elections?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/10/9/how-will-spains-housing-crisis-impact-elections?traffic_source=rss)
 
 ---
 
-### 8. European states, Canada, Japan and UN back ICC against US sanctions
+### 8. Human rights veteran Navi Pillay wins 2026 Nobel Peace Prize
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Several US allies call to &#039;defend&#039; and &#039;protect&#039; the ICC following Washington&#039;s decision to sanction the judiciary body.
+South African jurist Navanethem Pillay has been awarded the 2026 Nobel Peace Prize for her work to promote peace.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/9/european-states-canada-japan-and-un-back-icc-against-us-sanctions?traffic_source=rss](https://www.aljazeera.com/news/2026/10/9/european-states-canada-japan-and-un-back-icc-against-us-sanctions?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/9/human-rights-veteran-navi-pillay-wins-2026-nobel-peace-prize?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/9/human-rights-veteran-navi-pillay-wins-2026-nobel-peace-prize?traffic_source=rss)
 
 ---
 
-### 9. Tsunami warnings across Latin America after 7.7 magnitude earthquake hits
+### 9. Rising fuel costs slashed Delta’s profit outlook despite strong demand
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Countries including Colombia, Ecuador, Nicaragua, Guatemala and Chile have received warnings after the quake.
+Rising fuel prices push Delta&#039;s annual fuel expenses up by $6bn, affecting its profit outlook for 2026.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/9/tsunami-warnings-across-latin-america-after-7-7-magnitude-earthquake-hits?traffic_source=rss](https://www.aljazeera.com/news/2026/10/9/tsunami-warnings-across-latin-america-after-7-7-magnitude-earthquake-hits?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/9/rising-fuel-costs-slashed-deltas-profit-outlook-despite-strong-demand?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/9/rising-fuel-costs-slashed-deltas-profit-outlook-despite-strong-demand?traffic_source=rss)
 
 ---
 

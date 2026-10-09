@@ -1,142 +1,143 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-09 05:49:57
+**Last Update:** 2026-10-09 12:09:24
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: Edi Life OS – self-hosted life dashboard with an MCP server for AI
+### 1. Programming Isn't Special
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/edrisranjbar/lifeos">https://github.com/edrisranjbar/lifeos</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50014150">https://news.ycombinator.com/item?id=50014150</a></p>
-<p>Points: 17</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://blog.glyph.im/2026/10/programming-isnt-special.html">https://blog.glyph.im/2026/10/programming-isnt-special.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50017357">https://news.ycombinator.com/item?id=50017357</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://github.com/edrisranjbar/lifeos](https://github.com/edrisranjbar/lifeos)
+🔗 **Read more:** [https://blog.glyph.im/2026/10/programming-isnt-special.html](https://blog.glyph.im/2026/10/programming-isnt-special.html)
 
 ---
 
-### 2. Show HN: SVG Spark – 10 client-side SVG design and dev tools
+### 2. OTel-Native by Design – Building Products That Export to Any Observability Stack
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://svg-spark.vercel.app/">https://svg-spark.vercel.app/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50013931">https://news.ycombinator.com/item?id=50013931</a></p>
-<p>Points: 27</p>
+<p>Article URL: <a href="https://opentelemetry.io/blog/2026/otel-native-by-design/">https://opentelemetry.io/blog/2026/otel-native-by-design/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50016974">https://news.ycombinator.com/item?id=50016974</a></p>
+<p>Points: 30</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://opentelemetry.io/blog/2026/otel-native-by-design/](https://opentelemetry.io/blog/2026/otel-native-by-design/)
+
+---
+
+### 3. Show HN: OldRoll, a free vintage photo editor for the browser
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>OldRoll Web brings vintage camera effects and film-inspired filters to your browser. Give everyday photos a nostalgic look without installing an app, with all creative assets free to use.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50016840">https://news.ycombinator.com/item?id=50016840</a></p>
+<p>Points: 6</p>
 <p># Comments: 1</p>
 
-🔗 **Read more:** [https://svg-spark.vercel.app/](https://svg-spark.vercel.app/)
+🔗 **Read more:** [https://www.oldroll.io/](https://www.oldroll.io/)
 
 ---
 
-### 3. Bevy 0.20
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://bevy.org/news/bevy-0-20/">https://bevy.org/news/bevy-0-20/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50013610">https://news.ycombinator.com/item?id=50013610</a></p>
-<p>Points: 20</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://bevy.org/news/bevy-0-20/](https://bevy.org/news/bevy-0-20/)
-
----
-
-### 4. Polanski failed to show leadership over Zionism motion, ex-Green leader says
+### 4. I would not have voted for Zionism motion, Polanski says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Caroline Lucas tells the BBC Zack Polanski should have taken part in a vote on a motion declaring Zionism a form of racism.
+A motion declaring Zionism a form of racism was passed by Green Party members on Sunday.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm2d6x11l6pko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm2d6x11l6pko?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. ADHD and autism at risk of over-diagnosis, says government review
+### 5. Chris Mason: Questions remain for Green Party leader Zack Polanski
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The review, which focuses on younger people, warned there was a risk society was moving from an era of under-diagnosis to over-diagnosis.
+Senior party figures have criticised his response to a motion passed by members declaring Zionism a form of racism.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crkg7n1ypj24o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crkg7n1ypj24o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cxly4jy042eno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cxly4jy042eno?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Warrants used to search Andrew Mountbatten-Windsor's homes were unlawful, court says
+### 6. Firing squad execution to be livestreamed, Pentagon says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-A criminal investigation into the former prince continues and police have retained material seized from his homes.
+Pete Hegseth says the execution will be public, but a legal expert says the "unprecedented" decision is on "uncertain legal terrain".
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr1exlvpzylvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr1exlvpzylvo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Protests, debate follow death of Maricarmen, 87, Spain protest symbol
+### 7. LeBron James stars in NBA preseason debut but Nets defeat 76ers
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Thousands of protesters honour Maricarmen Abascal&#039;s life, while tributes in Spanish parliament spark debate.
+All-time leading scorer LeBron James makes 76ers debut following LA Lakers switch in NBA preseason, but Nets claim win.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/9/protests-debate-follow-death-of-maricarmen-87-spain-protest-symbol?traffic_source=rss](https://www.aljazeera.com/news/2026/10/9/protests-debate-follow-death-of-maricarmen-87-spain-protest-symbol?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/9/lebron-james-shines-in-nba-pre-season-debut-by-76ers-defeated?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/9/lebron-james-shines-in-nba-pre-season-debut-by-76ers-defeated?traffic_source=rss)
 
 ---
 
-### 8. USS Abraham Lincoln returns after record-breaking deployment
+### 8. US ICE releases Kashmiri filmmaker Arfat Sheikh from custody
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Families embraced their loved ones as the USS Abraham Lincoln returned home to San Diego after more than 300 days at sea
+Award-winning filmmaker, detained last month, is released on bond with next hearing set for October 27, campaign says.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/9/uss-abraham-lincoln-returns-after-record-breaking-deployment?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/9/uss-abraham-lincoln-returns-after-record-breaking-deployment?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/9/us-ice-releases-kashmiri-filmmaker-arfat-sheikh-from-custody?traffic_source=rss](https://www.aljazeera.com/news/2026/10/9/us-ice-releases-kashmiri-filmmaker-arfat-sheikh-from-custody?traffic_source=rss)
 
 ---
 
-### 9. UN extends Darfur arms embargo, blocks broader Sudan sanctions proposal
+### 9. Three years after October 7, prolonged war takes its toll on Israelis
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Russia and China block US efforts to expand the Darfur arms embargo to cover all of Sudan amid ongoing conflict.
+Children’s psychiatric emergency visits have more than doubled in Israel, study shows.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/9/un-extends-darfur-arms-embargo-blocks-broader-sudan-sanctions-proposal?traffic_source=rss](https://www.aljazeera.com/news/2026/10/9/un-extends-darfur-arms-embargo-blocks-broader-sudan-sanctions-proposal?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/9/three-years-after-october-7-prolonged-war-takes-its-toll-on-israelis?traffic_source=rss](https://www.aljazeera.com/news/2026/10/9/three-years-after-october-7-prolonged-war-takes-its-toll-on-israelis?traffic_source=rss)
 
 ---
 
-### 10. Tropical Storm Simon
+### 10. Hurricane Simon
 
 **Source:** NASA
 

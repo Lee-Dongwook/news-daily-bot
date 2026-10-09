@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-09T12:09:24+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Programming Isn't Special",
+            "description": "<p>Article URL: <a href=\"https://blog.glyph.im/2026/10/programming-isnt-special.html\">https://blog.glyph.im/2026/10/programming-isnt-special.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50017357\">https://news.ycombinator.com/item?id=50017357</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://blog.glyph.im/2026/10/programming-isnt-special.html",
+            "published": "Fri, 09 Oct 2026 07:44:36 +0000",
+            "fetched": "2026-10-09T12:09:24+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "OTel-Native by Design – Building Products That Export to Any Observability Stack",
+            "description": "<p>Article URL: <a href=\"https://opentelemetry.io/blog/2026/otel-native-by-design/\">https://opentelemetry.io/blog/2026/otel-native-by-design/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50016974\">https://news.ycombinator.com/item?id=50016974</a></p>\n<p>Points: 30</p>\n<p># Comments: 2</p>",
+            "url": "https://opentelemetry.io/blog/2026/otel-native-by-design/",
+            "published": "Fri, 09 Oct 2026 06:54:45 +0000",
+            "fetched": "2026-10-09T12:09:24+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: OldRoll, a free vintage photo editor for the browser",
+            "description": "<p>OldRoll Web brings vintage camera effects and film-inspired filters to your browser. Give everyday photos a nostalgic look without installing an app, with all creative assets free to use.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50016840\">https://news.ycombinator.com/item?id=50016840</a></p>\n<p>Points: 6</p>\n<p># Comments: 1</p>",
+            "url": "https://www.oldroll.io/",
+            "published": "Fri, 09 Oct 2026 06:40:14 +0000",
+            "fetched": "2026-10-09T12:09:24+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "I would not have voted for Zionism motion, Polanski says",
+            "description": "A motion declaring Zionism a form of racism was passed by Green Party members on Sunday.",
+            "url": "https://www.bbc.co.uk/news/articles/cm2d6x11l6pko?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 09 Oct 2026 07:12:47 GMT",
+            "fetched": "2026-10-09T12:09:24+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Chris Mason: Questions remain for Green Party leader Zack Polanski",
+            "description": "Senior party figures have criticised his response to a motion passed by members declaring Zionism a form of racism.",
+            "url": "https://www.bbc.co.uk/news/videos/cxly4jy042eno?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 09 Oct 2026 06:39:13 GMT",
+            "fetched": "2026-10-09T12:09:24+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Firing squad execution to be livestreamed, Pentagon says",
+            "description": "Pete Hegseth says the execution will be public, but a legal expert says the \"unprecedented\" decision is on \"uncertain legal terrain\".",
+            "url": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 09 Oct 2026 07:05:05 GMT",
+            "fetched": "2026-10-09T12:09:24+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "LeBron James stars in NBA preseason debut but Nets defeat 76ers",
+            "description": "All-time leading scorer LeBron James makes 76ers debut following LA Lakers switch in NBA preseason, but Nets claim win.",
+            "url": "https://www.aljazeera.com/sports/2026/10/9/lebron-james-shines-in-nba-pre-season-debut-by-76ers-defeated?traffic_source=rss",
+            "published": "Fri, 09 Oct 2026 08:25:12 +0000",
+            "fetched": "2026-10-09T12:09:24+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US ICE releases Kashmiri filmmaker Arfat Sheikh from custody",
+            "description": "Award-winning filmmaker, detained last month, is released on bond with next hearing set for October 27, campaign says.",
+            "url": "https://www.aljazeera.com/news/2026/10/9/us-ice-releases-kashmiri-filmmaker-arfat-sheikh-from-custody?traffic_source=rss",
+            "published": "Fri, 09 Oct 2026 08:05:54 +0000",
+            "fetched": "2026-10-09T12:09:24+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Three years after October 7, prolonged war takes its toll on Israelis",
+            "description": "Children’s psychiatric emergency visits have more than doubled in Israel, study shows.",
+            "url": "https://www.aljazeera.com/news/2026/10/9/three-years-after-october-7-prolonged-war-takes-its-toll-on-israelis?traffic_source=rss",
+            "published": "Fri, 09 Oct 2026 07:57:36 +0000",
+            "fetched": "2026-10-09T12:09:24+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Simon",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25094",
+            "published": "2026-10-07T18:00:00Z",
+            "fetched": "2026-10-09T12:09:24+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire CON BSE13 RX, Covington, Alabama",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25119",
+            "published": "2026-10-07T10:45:00Z",
+            "fetched": "2026-10-09T12:09:24+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Isaias",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25063",
+            "published": "2026-10-07T09:00:00Z",
+            "fetched": "2026-10-09T12:09:24+03:30"
+        }
+    ]
+}

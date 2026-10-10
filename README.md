@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-10 10:18:00
+**Last Update:** 2026-10-10 10:50:48
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: A simple to-do app for iPhone, Mac, and your agent
+### 1. Computers Cannot Make Decisions
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://wiki.cateat.fish/art:computers_cannot_make_decisions">https://wiki.cateat.fish/art:computers_cannot_make_decisions</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50029982">https://news.ycombinator.com/item?id=50029982</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://wiki.cateat.fish/art:computers_cannot_make_decisions](https://wiki.cateat.fish/art:computers_cannot_make_decisions)
+
+---
+
+### 2. Food processing influences metabolism and brain activity
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html">https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50029830">https://news.ycombinator.com/item?id=50029830</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html](https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html)
+
+---
+
+### 3. Show HN: A simple to-do app for iPhone, Mac, and your agent
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://ilia.page/writing/introducing-nagare">https://ilia.page/writing/introducing-nagare</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50029607">https://news.ycombinator.com/item?id=50029607</a></p>
-<p>Points: 5</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://ilia.page/writing/introducing-nagare](https://ilia.page/writing/introducing-nagare)
-
----
-
-### 2. Telegram Desktop vulnerability allowed any user's file to be stolen
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/">https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50029123">https://news.ycombinator.com/item?id=50029123</a></p>
-<p>Points: 68</p>
-<p># Comments: 25</p>
-
-🔗 **Read more:** [https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/](https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/)
-
----
-
-### 3. Put a price on breakthroughs
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://alexwang.ai/posts/put-a-price-on-breakthroughs/">https://alexwang.ai/posts/put-a-price-on-breakthroughs/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50028982">https://news.ycombinator.com/item?id=50028982</a></p>
-<p>Points: 13</p>
+<p>Points: 9</p>
 <p># Comments: 4</p>
 
-🔗 **Read more:** [https://alexwang.ai/posts/put-a-price-on-breakthroughs/](https://alexwang.ai/posts/put-a-price-on-breakthroughs/)
+🔗 **Read more:** [https://ilia.page/writing/introducing-nagare](https://ilia.page/writing/introducing-nagare)
 
 ---
 
@@ -84,20 +84,46 @@ The US president hopes to ease his party's pain before next month's midterm elec
 
 ---
 
-### 6. NI secretary intervenes to ban Drumcree parade
+### 6. Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The parade has led to a stand-off between Orangemen and nationalist residents of the Garvaghy Road in Portadown lasting almost two weeks.
+The United Arab Emirates' attorney-general also alleges the co-pilot was trying to crash the plane into Tel Aviv's airport.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw23dn0xven7o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw23dn0xven7o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. India protest live: Police detain Cockroach leaders, New Delhi in lockdown
+### 7. Trump slams Norway for not awarding him Nobel Peace Prize
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Trump slams Norway for not awarding him Nobel Peace Prize
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/10/trump-slams-norway-for-not-awarding-him-nobel-peace-prize?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/10/trump-slams-norway-for-not-awarding-him-nobel-peace-prize?traffic_source=rss)
+
+---
+
+### 8. Yemen’s Taiz under siege again as food and fuel prices rise
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Houthi advances and the closure of vital roads into Taiz have triggered shortages, reviving memories of earlier siege.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/10/yemens-taiz-under-siege-again-as-food-and-fuel-prices-rise?traffic_source=rss](https://www.aljazeera.com/news/2026/10/10/yemens-taiz-under-siege-again-as-food-and-fuel-prices-rise?traffic_source=rss)
+
+---
+
+### 9. India protest live: ‘Cockroach’ leaders detained; New Delhi in lockdown
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ The parade has led to a stand-off between Orangemen and nationalist residents of
 Cockroach Janta ​Party founder Abhijeet Dipke and other leaders detained before ​protest to demand election chief quit.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/10/10/india-protest-live-police-detain-cockroach-leaders-new-delhi-in-lockdown?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/10/10/india-protest-live-police-detain-cockroach-leaders-new-delhi-in-lockdown?traffic_source=rss)
-
----
-
-### 8. US hosts ‘productive’ trilateral talks to end Russia-Ukraine war
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-US envoy Steve Witkoff says renewed negotiations aim to ensure lasting peace before winter approaches.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/10/us-hosts-productive-trilateral-talks-to-end-russia-ukraine-war?traffic_source=rss](https://www.aljazeera.com/news/2026/10/10/us-hosts-productive-trilateral-talks-to-end-russia-ukraine-war?traffic_source=rss)
-
----
-
-### 9. Israel’s economy prospers despite years of war, but prices worry voters
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Tech is driving the economy, and investments are flowing in. But food costs are rising and debt is growing.
-
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/10/israels-economy-prospers-despite-years-of-war-but-prices-worry-voters?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/10/israels-economy-prospers-despite-years-of-war-but-prices-worry-voters?traffic_source=rss)
 
 ---
 

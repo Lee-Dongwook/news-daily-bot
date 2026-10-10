@@ -1,77 +1,90 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-10 00:33:03
+**Last Update:** 2026-10-10 04:04:31
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. No Man Is an Island
+### 1. Rewriting Prime Agent in Rust
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://borretti.me/article/no-man-is-an-island">https://borretti.me/article/no-man-is-an-island</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50025935">https://news.ycombinator.com/item?id=50025935</a></p>
-<p>Points: 78</p>
-<p># Comments: 28</p>
+<p>Article URL: <a href="https://www.primeintellect.ai/blog/prime-agent-rust">https://www.primeintellect.ai/blog/prime-agent-rust</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50027694">https://news.ycombinator.com/item?id=50027694</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://borretti.me/article/no-man-is-an-island](https://borretti.me/article/no-man-is-an-island)
+🔗 **Read more:** [https://www.primeintellect.ai/blog/prime-agent-rust](https://www.primeintellect.ai/blog/prime-agent-rust)
 
 ---
 
-### 2. You might want to try being less creative
+### 2. Japan's Most Famous Tuna Buyer Says He Turned Somali Pirates into Fishermen
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.bawolf.com/p/you-might-want-to-try-being-less">https://blog.bawolf.com/p/you-might-want-to-try-being-less</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50024927">https://news.ycombinator.com/item?id=50024927</a></p>
-<p>Points: 41</p>
-<p># Comments: 23</p>
+<p>Article URL: <a href="https://www.japaninsides.com/the-sushi-king-who-went-to-somalia-how-japans-most-famous-tuna-buyer-says-he-turned-pirates-into-fishermen-55344">https://www.japaninsides.com/the-sushi-king-who-went-to-somalia-how-japans-most-famous-tuna-buyer-says-he-turned-pirates-into-fishermen-55344</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50027167">https://news.ycombinator.com/item?id=50027167</a></p>
+<p>Points: 39</p>
+<p># Comments: 20</p>
 
-🔗 **Read more:** [https://blog.bawolf.com/p/you-might-want-to-try-being-less](https://blog.bawolf.com/p/you-might-want-to-try-being-less)
+🔗 **Read more:** [https://www.japaninsides.com/the-sushi-king-who-went-to-somalia-how-japans-most-famous-tuna-buyer-says-he-turned-pirates-into-fishermen-55344](https://www.japaninsides.com/the-sushi-king-who-went-to-somalia-how-japans-most-famous-tuna-buyer-says-he-turned-pirates-into-fishermen-55344)
 
 ---
 
-### 3. Microsoft-Decision-1, our model for fast decision-making
+### 3. OpenAI mistranslated mathematics into code for its Navier-Stokes proof
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://commandline.microsoft.com/microsoft-decision-1-model-foundry/">https://commandline.microsoft.com/microsoft-decision-1-model-foundry/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50024913">https://news.ycombinator.com/item?id=50024913</a></p>
-<p>Points: 60</p>
-<p># Comments: 24</p>
+<p>Article URL: <a href="https://www.newscientist.com/article/2592824-openai-mistranslated-mathematics-into-code-for-its-navier-stokes-proof/">https://www.newscientist.com/article/2592824-openai-mistranslated-mathematics-into-code-for-its-navier-stokes-proof/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50026734">https://news.ycombinator.com/item?id=50026734</a></p>
+<p>Points: 39</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://commandline.microsoft.com/microsoft-decision-1-model-foundry/](https://commandline.microsoft.com/microsoft-decision-1-model-foundry/)
+🔗 **Read more:** [https://www.newscientist.com/article/2592824-openai-mistranslated-mathematics-into-code-for-its-navier-stokes-proof/](https://www.newscientist.com/article/2592824-openai-mistranslated-mathematics-into-code-for-its-navier-stokes-proof/)
 
 ---
 
-### 4. Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'
+### 4. Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Ukraine's president said allowing Russia to sell petroleum products would prolong a war that must be ended.
+Ukraine's president sharply criticised the move, calling it an "investment in war that must be ended, not prolonged".
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. NI secretary to ban the Drumcree parade
+### 5. Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. NI secretary to ban the Drumcree parade
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ The parade has led to a stand-off between Orangemen and nationalist residents of
 
 ---
 
-### 6. US unveils sanctions on ICC in move court condemns as 'assault on rule of law'
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Several member states of the international tribunal, including the UK, say they "strongly disagree" with the sanctions.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. How will Spain’s housing crisis affect elections?
+### 7. Intercommunal clashes kill 71 people in South Sudan
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Snap vote called after Parliament rejects measures to protect tenants and freeze rents.
+Government security forces regain control of Rumbek town after outsiders attempted to seize the area.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/10/9/how-will-spains-housing-crisis-impact-elections?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/10/9/how-will-spains-housing-crisis-impact-elections?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/10/intercommunal-clashes-kill-71-people-in-south-sudan?traffic_source=rss](https://www.aljazeera.com/news/2026/10/10/intercommunal-clashes-kill-71-people-in-south-sudan?traffic_source=rss)
 
 ---
 
-### 8. Human rights veteran Navi Pillay wins 2026 Nobel Peace Prize
+### 8. Iran war live: Kremlin says Trump welcomed Russia effort in Iran deal
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-South African jurist Navanethem Pillay has been awarded the 2026 Nobel Peace Prize for her work to promote peace.
+The Kremlin says US president welcomes Russia’s involvement in efforts aimed at reaching a settlement over Iran.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/9/human-rights-veteran-navi-pillay-wins-2026-nobel-peace-prize?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/9/human-rights-veteran-navi-pillay-wins-2026-nobel-peace-prize?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/10/10/iran-war-live-kremlin-says-trump-welcomed-russia-effort-in-iran-deal?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/10/10/iran-war-live-kremlin-says-trump-welcomed-russia-effort-in-iran-deal?traffic_source=rss)
 
 ---
 
-### 9. Rising fuel costs slashed Delta’s profit outlook despite strong demand
+### 9. Mexico investigates video said to show cartel members fighting for Ukraine
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Rising fuel prices push Delta&#039;s annual fuel expenses up by $6bn, affecting its profit outlook for 2026.
+Mexico is investigating a viral video showing suspected mercenaries chanting cartel slogans while fighting in Ukraine.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/9/rising-fuel-costs-slashed-deltas-profit-outlook-despite-strong-demand?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/9/rising-fuel-costs-slashed-deltas-profit-outlook-despite-strong-demand?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/9/mexico-investigates-video-said-to-show-cartel-members-fighting-for-ukraine?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/9/mexico-investigates-video-said-to-show-cartel-members-fighting-for-ukraine?traffic_source=rss)
 
 ---
 

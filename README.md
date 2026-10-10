@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-11 01:48:34
+**Last Update:** 2026-10-11 02:13:50
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/">https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50037299">https://news.ycombinator.com/item?id=50037299</a></p>
-<p>Points: 13</p>
-<p># Comments: 4</p>
+<p>Points: 16</p>
+<p># Comments: 7</p>
 
 🔗 **Read more:** [https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/](https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://housing.over.pizza/">https://housing.over.pizza/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50036864">https://news.ycombinator.com/item?id=50036864</a></p>
-<p>Points: 39</p>
-<p># Comments: 8</p>
+<p>Points: 64</p>
+<p># Comments: 25</p>
 
 🔗 **Read more:** [https://housing.over.pizza/](https://housing.over.pizza/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.makeuseof.com/this-50mb-operating-system-can-resurrect-your-old-pc/">https://www.makeuseof.com/this-50mb-operating-system-can-resurrect-your-old-pc/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50036571">https://news.ycombinator.com/item?id=50036571</a></p>
-<p>Points: 20</p>
-<p># Comments: 4</p>
+<p>Points: 23</p>
+<p># Comments: 6</p>
 
 🔗 **Read more:** [https://www.makeuseof.com/this-50mb-operating-system-can-resurrect-your-old-pc/](https://www.makeuseof.com/this-50mb-operating-system-can-resurrect-your-old-pc/)
 
@@ -97,7 +97,20 @@ Pike's lawyers say she is "grateful" to the medical team who cared for her after
 
 ---
 
-### 7. Real Madrid beat Villarreal 1-0 but Vinicius sent off for hair pull
+### 7. Yemeni government’s military says its forces advancing against Houthis
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Saudi-backed forces say 1,150 Houthis killed in operations against the Iran-aligned group over the past 24 hours.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/10/yemeni-governments-military-says-its-forces-advancing-against-houthis?traffic_source=rss](https://www.aljazeera.com/news/2026/10/10/yemeni-governments-military-says-its-forces-advancing-against-houthis?traffic_source=rss)
+
+---
+
+### 8. Real Madrid beat Villarreal 1-0 but Vinicius sent off for hair pull
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Real Madrid forward Vinicius Junior sent off for pulling Villarreal player&#039;
 
 ---
 
-### 8. Hundreds of doctors demand World Medical Association suspend Israel
+### 9. Hundreds of doctors demand World Medical Association suspend Israel
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Real Madrid forward Vinicius Junior sent off for pulling Villarreal player&#039;
 Physicians accuse Israeli Medical Association of remaining silent as Palestinian healthcare is systematically destroyed.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/10/hundreds-of-doctors-demand-world-medical-association-suspend-israel?traffic_source=rss](https://www.aljazeera.com/news/2026/10/10/hundreds-of-doctors-demand-world-medical-association-suspend-israel?traffic_source=rss)
-
----
-
-### 9. Malawi motorists queue for days as fuel shortage bites
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Malawi’s fuel shortage has brought daily life in the capital Lilongwe to a halt.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/10/malawi-motorists-queue-for-days-as-fuel-shortage-bites?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/10/malawi-motorists-queue-for-days-as-fuel-shortage-bites?traffic_source=rss)
 
 ---
 

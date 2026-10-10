@@ -1,32 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-10 16:53:31
+**Last Update:** 2026-10-10 17:23:06
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. LLMs Aren't Inevitable
+### 1. I Would Like the Value of My Home to Rise, While My Property Taxes Fall
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://deadsimpletech.com/blog/llms-arent-inevitable">https://deadsimpletech.com/blog/llms-arent-inevitable</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50032064">https://news.ycombinator.com/item?id=50032064</a></p>
-<p>Points: 14</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/">https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50032758">https://news.ycombinator.com/item?id=50032758</a></p>
+<p>Points: 21</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://deadsimpletech.com/blog/llms-arent-inevitable](https://deadsimpletech.com/blog/llms-arent-inevitable)
+🔗 **Read more:** [https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/](https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/)
 
 ---
 
-### 2. Apple/macOS silently removed from official Unix registry
+### 2. Lobbying Is Corruption
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://carette.xyz/posts/lobbying_and_corruption/">https://carette.xyz/posts/lobbying_and_corruption/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50032556">https://news.ycombinator.com/item?id=50032556</a></p>
+<p>Points: 80</p>
+<p># Comments: 26</p>
+
+🔗 **Read more:** [https://carette.xyz/posts/lobbying_and_corruption/](https://carette.xyz/posts/lobbying_and_corruption/)
+
+---
+
+### 3. Apple/macOS silently removed from official Unix registry
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.opengroup.org//openbrand/register/">https://www.opengroup.org//openbrand/register/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50031653">https://news.ycombinator.com/item?id=50031653</a></p>
-<p>Points: 49</p>
-<p># Comments: 36</p>
+<p>Points: 78</p>
+<p># Comments: 76</p>
 
 🔗 **Read more:** [https://www.opengroup.org//openbrand/register/](https://www.opengroup.org//openbrand/register/)
-
----
-
-### 3. Talorys – A self-hosted personal AI agent on Cloudflare's free tier
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/rociiu/talorys">https://github.com/rociiu/talorys</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50031614">https://news.ycombinator.com/item?id=50031614</a></p>
-<p>Points: 50</p>
-<p># Comments: 20</p>
-
-🔗 **Read more:** [https://github.com/rociiu/talorys](https://github.com/rociiu/talorys)
 
 ---
 
@@ -97,42 +97,42 @@ Children are among the victims, authorities say, and more victims could still be
 
 ---
 
-### 7. Child among seven killed by Israel in Gaza on ‘ceasefire’ anniversary
+### 7. High silver prices threaten Lucknow’s famed bridal nagra craft
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-At least 1,481 Palestinians killed in Israeli attacks since last year&#039;s &#039;ceasefire&#039;, Gaza&#039;s Health Ministry says.
+War-driven prices for silver are threatening nagra makers in northern India.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/10/israeli-forces-kill-six-in-gaza-including-a-child?traffic_source=rss](https://www.aljazeera.com/news/2026/10/10/israeli-forces-kill-six-in-gaza-including-a-child?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/longform/2026/10/10/high-silver-prices-threaten-lucknows-famed-bridal-nagra-craft?traffic_source=rss](https://www.aljazeera.com/features/longform/2026/10/10/high-silver-prices-threaten-lucknows-famed-bridal-nagra-craft?traffic_source=rss)
 
 ---
 
-### 8. England international Cole Palmer signs new Chelsea deal until 2034
+### 8. New Delhi police crack down on protesters ahead of anti-gov’t march
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Attacking midfielder Palmer has become a key figure in Chelsea&#039;s squad since his arrival from Man City in 2023.
+India’s police have detained dozens of protesters, including ‘Cockroach’ party leaders ahead of an anti-gov&#039;t march.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/10/england-international-cole-palmer-signs-new-chelsea-deal-until-2034?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/10/england-international-cole-palmer-signs-new-chelsea-deal-until-2034?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/10/new-delhi-police-crack-down-on-protesters-ahead-of-anti-govt-march?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/10/new-delhi-police-crack-down-on-protesters-ahead-of-anti-govt-march?traffic_source=rss)
 
 ---
 
-### 9. Ukraine warns Trump-Putin diesel deal will bankroll Russia’s war
+### 9. ‘Anachronism’: Rubio’s civilisational rhetoric prompts pushback from Iran
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Donald Trump’s diesel deal with Putin gives Russia more money to continue attacking Ukraine, Zelenskyy says.
+Rubio says threats to Western civilisation today &#039;every bit as real as they were on the dramatic stage of antiquity&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/10/ukraine-warns-trump-putin-diesel-deal-will-bankroll-russias-war?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/10/ukraine-warns-trump-putin-diesel-deal-will-bankroll-russias-war?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news-analysis/2026/10/10/anachronism-rubios-civilisational-rhetoric-prompts-pushback-from-iran?traffic_source=rss](https://www.aljazeera.com/news-analysis/2026/10/10/anachronism-rubios-civilisational-rhetoric-prompts-pushback-from-iran?traffic_source=rss)
 
 ---
 

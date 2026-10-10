@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-10 21:48:08
+**Last Update:** 2026-10-10 22:13:37
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
@@ -97,7 +97,33 @@ Pike's lawyers say she is "grateful" to the medical team who cared for her after
 
 ---
 
-### 7. Nine killed in shooting in US state of Pennsylvania, including two children
+### 7. Photos: Thousands march across Europe to demand end to Israel’s war on Gaza
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Demonstrations in London, Berlin, and Rome denounce ongoing Israeli attacks on Gaza &#039;ceasefire&#039; anniversary.
+
+🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/10/10/photos-thousands-march-across-europe-to-demand-end-to-israels-war-on-gaza?traffic_source=rss](https://www.aljazeera.com/gallery/2026/10/10/photos-thousands-march-across-europe-to-demand-end-to-israels-war-on-gaza?traffic_source=rss)
+
+---
+
+### 8. Attack on airport in Saudi capital, Riyadh, leaves several injured
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Operations suspended at King Khalid International Airport after another attack this week, Civil Aviation Authority says.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/10/attack-on-airport-in-saudi-capital-riyadh-leaves-several-injured?traffic_source=rss](https://www.aljazeera.com/news/2026/10/10/attack-on-airport-in-saudi-capital-riyadh-leaves-several-injured?traffic_source=rss)
+
+---
+
+### 9. Nine killed in shooting in US state of Pennsylvania, including two children
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Pike's lawyers say she is "grateful" to the medical team who cared for her after
 The shooting in Erie, Pennsylvania happened on Friday, according to state officials. The attacker is among the dead.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/10/nine-killed-in-shooting-in-us-state-of-pennsylvania-including-two-children?traffic_source=rss](https://www.aljazeera.com/news/2026/10/10/nine-killed-in-shooting-in-us-state-of-pennsylvania-including-two-children?traffic_source=rss)
-
----
-
-### 8. Pope says death penalty ‘inadmissible’ as US plans to livestream execution
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Pope Leo XIV describes capital punishment as an &#039;attack on the inviolability and dignity of the person&#039; in post on X.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/10/pope-says-death-penalty-inadmissible-as-us-plans-to-livestream-execution?traffic_source=rss](https://www.aljazeera.com/news/2026/10/10/pope-says-death-penalty-inadmissible-as-us-plans-to-livestream-execution?traffic_source=rss)
-
----
-
-### 9. Video shows rare albino Asian black bear
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-A rare albino Asian black bear was captured on camera in China’s Shennongjia National Park
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/10/video-shows-rare-albino-asian-black-bear?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/10/video-shows-rare-albino-asian-black-bear?traffic_source=rss)
 
 ---
 

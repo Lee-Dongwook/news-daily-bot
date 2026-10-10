@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-10 04:04:31
+**Last Update:** 2026-10-10 04:32:27
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Rewriting Prime Agent in Rust
+### 1. 11 of 23 Core Open Source Projects Run on 1 or 2 People
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.primeintellect.ai/blog/prime-agent-rust">https://www.primeintellect.ai/blog/prime-agent-rust</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50027694">https://news.ycombinator.com/item?id=50027694</a></p>
+<p>Article URL: <a href="https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/">https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50028059">https://news.ycombinator.com/item?id=50028059</a></p>
+<p>Points: 7</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/](https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/)
+
+---
+
+### 2. HostMath – Airbnb profit calculator with break-even occupancy and payback
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://hosttmath.ctonew.app/?src=hn">https://hosttmath.ctonew.app/?src=hn</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50027856">https://news.ycombinator.com/item?id=50027856</a></p>
+<p>Points: 4</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://hosttmath.ctonew.app/?src=hn](https://hosttmath.ctonew.app/?src=hn)
+
+---
+
+### 3. Compiling Rust to readable C with Eurydice
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://lwn.net/Articles/1055211/">https://lwn.net/Articles/1055211/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50027853">https://news.ycombinator.com/item?id=50027853</a></p>
 <p>Points: 5</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.primeintellect.ai/blog/prime-agent-rust](https://www.primeintellect.ai/blog/prime-agent-rust)
-
----
-
-### 2. Japan's Most Famous Tuna Buyer Says He Turned Somali Pirates into Fishermen
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.japaninsides.com/the-sushi-king-who-went-to-somalia-how-japans-most-famous-tuna-buyer-says-he-turned-pirates-into-fishermen-55344">https://www.japaninsides.com/the-sushi-king-who-went-to-somalia-how-japans-most-famous-tuna-buyer-says-he-turned-pirates-into-fishermen-55344</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50027167">https://news.ycombinator.com/item?id=50027167</a></p>
-<p>Points: 39</p>
-<p># Comments: 20</p>
-
-🔗 **Read more:** [https://www.japaninsides.com/the-sushi-king-who-went-to-somalia-how-japans-most-famous-tuna-buyer-says-he-turned-pirates-into-fishermen-55344](https://www.japaninsides.com/the-sushi-king-who-went-to-somalia-how-japans-most-famous-tuna-buyer-says-he-turned-pirates-into-fishermen-55344)
-
----
-
-### 3. OpenAI mistranslated mathematics into code for its Navier-Stokes proof
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.newscientist.com/article/2592824-openai-mistranslated-mathematics-into-code-for-its-navier-stokes-proof/">https://www.newscientist.com/article/2592824-openai-mistranslated-mathematics-into-code-for-its-navier-stokes-proof/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50026734">https://news.ycombinator.com/item?id=50026734</a></p>
-<p>Points: 39</p>
-<p># Comments: 3</p>
-
-🔗 **Read more:** [https://www.newscientist.com/article/2592824-openai-mistranslated-mathematics-into-code-for-its-navier-stokes-proof/](https://www.newscientist.com/article/2592824-openai-mistranslated-mathematics-into-code-for-its-navier-stokes-proof/)
+🔗 **Read more:** [https://lwn.net/Articles/1055211/](https://lwn.net/Articles/1055211/)
 
 ---
 
@@ -97,7 +97,20 @@ The parade has led to a stand-off between Orangemen and nationalist residents of
 
 ---
 
-### 7. Intercommunal clashes kill 71 people in South Sudan
+### 7. Israeli drone attack wounds six in Lebanon near Syria border
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Five Syrians and one Lebanese wounded in latest Israeli attack, Lebanon&#039;s health authorities say.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/10/israeli-drone-attack-wounds-six-in-lebanon-near-syria-border?traffic_source=rss](https://www.aljazeera.com/news/2026/10/10/israeli-drone-attack-wounds-six-in-lebanon-near-syria-border?traffic_source=rss)
+
+---
+
+### 8. Intercommunal clashes kill 71 people in South Sudan
 
 **Source:** Al Jazeera
 
@@ -110,29 +123,16 @@ Government security forces regain control of Rumbek town after outsiders attempt
 
 ---
 
-### 8. Iran war live: Kremlin says Trump welcomed Russia effort in Iran deal
+### 9. Iran war live: Kremlin says Trump welcomed Russia’s effort in Iran deal
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The Kremlin says US president welcomes Russia’s involvement in efforts aimed at reaching a settlement over Iran.
+The Kremlin says the US president welcomes Russia&#039;s involvement in efforts aimed at reaching a settlement over Iran.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/10/10/iran-war-live-kremlin-says-trump-welcomed-russia-effort-in-iran-deal?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/10/10/iran-war-live-kremlin-says-trump-welcomed-russia-effort-in-iran-deal?traffic_source=rss)
-
----
-
-### 9. Mexico investigates video said to show cartel members fighting for Ukraine
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Mexico is investigating a viral video showing suspected mercenaries chanting cartel slogans while fighting in Ukraine.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/9/mexico-investigates-video-said-to-show-cartel-members-fighting-for-ukraine?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/9/mexico-investigates-video-said-to-show-cartel-members-fighting-for-ukraine?traffic_source=rss)
 
 ---
 

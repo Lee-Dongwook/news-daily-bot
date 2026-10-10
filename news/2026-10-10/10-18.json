@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-10T10:18:00+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: A simple to-do app for iPhone, Mac, and your agent",
+            "description": "<p>Article URL: <a href=\"https://ilia.page/writing/introducing-nagare\">https://ilia.page/writing/introducing-nagare</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50029607\">https://news.ycombinator.com/item?id=50029607</a></p>\n<p>Points: 5</p>\n<p># Comments: 1</p>",
+            "url": "https://ilia.page/writing/introducing-nagare",
+            "published": "Sat, 10 Oct 2026 04:37:13 +0000",
+            "fetched": "2026-10-10T10:18:00+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
+            "description": "<p>Article URL: <a href=\"https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/\">https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50029123\">https://news.ycombinator.com/item?id=50029123</a></p>\n<p>Points: 68</p>\n<p># Comments: 25</p>",
+            "url": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
+            "published": "Sat, 10 Oct 2026 03:02:47 +0000",
+            "fetched": "2026-10-10T10:18:00+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Put a price on breakthroughs",
+            "description": "<p>Article URL: <a href=\"https://alexwang.ai/posts/put-a-price-on-breakthroughs/\">https://alexwang.ai/posts/put-a-price-on-breakthroughs/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50028982\">https://news.ycombinator.com/item?id=50028982</a></p>\n<p>Points: 13</p>\n<p># Comments: 4</p>",
+            "url": "https://alexwang.ai/posts/put-a-price-on-breakthroughs/",
+            "published": "Sat, 10 Oct 2026 02:37:47 +0000",
+            "fetched": "2026-10-10T10:18:00+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+            "description": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
+            "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 10 Oct 2026 04:38:20 GMT",
+            "fetched": "2026-10-10T10:18:00+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+            "description": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.",
+            "url": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 09 Oct 2026 22:30:22 GMT",
+            "fetched": "2026-10-10T10:18:00+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "NI secretary intervenes to ban Drumcree parade",
+            "description": "The parade has led to a stand-off between Orangemen and nationalist residents of the Garvaghy Road in Portadown lasting almost two weeks.",
+            "url": "https://www.bbc.co.uk/news/articles/cw23dn0xven7o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 10 Oct 2026 06:29:56 GMT",
+            "fetched": "2026-10-10T10:18:00+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "India protest live: Police detain Cockroach leaders, New Delhi in lockdown",
+            "description": "Cockroach Janta ​Party founder Abhijeet Dipke and other leaders detained before ​protest to demand election chief quit.",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/10/10/india-protest-live-police-detain-cockroach-leaders-new-delhi-in-lockdown?traffic_source=rss",
+            "published": "Sat, 10 Oct 2026 05:54:36 +0000",
+            "fetched": "2026-10-10T10:18:00+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US hosts ‘productive’ trilateral talks to end Russia-Ukraine war",
+            "description": "US envoy Steve Witkoff says renewed negotiations aim to ensure lasting peace before winter approaches.",
+            "url": "https://www.aljazeera.com/news/2026/10/10/us-hosts-productive-trilateral-talks-to-end-russia-ukraine-war?traffic_source=rss",
+            "published": "Sat, 10 Oct 2026 05:43:33 +0000",
+            "fetched": "2026-10-10T10:18:00+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israel’s economy prospers despite years of war, but prices worry voters",
+            "description": "Tech is driving the economy, and investments are flowing in. But food costs are rising and debt is growing.",
+            "url": "https://www.aljazeera.com/economy/2026/10/10/israels-economy-prospers-despite-years-of-war-but-prices-worry-voters?traffic_source=rss",
+            "published": "Sat, 10 Oct 2026 05:28:33 +0000",
+            "fetched": "2026-10-10T10:18:00+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Simon",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25094",
+            "published": "2026-10-07T18:00:00Z",
+            "fetched": "2026-10-10T10:18:00+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire CON BSE13 RX, Covington, Alabama",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25119",
+            "published": "2026-10-07T10:45:00Z",
+            "fetched": "2026-10-10T10:18:00+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Isaias",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25063",
+            "published": "2026-10-07T09:00:00Z",
+            "fetched": "2026-10-10T10:18:00+03:30"
+        }
+    ]
+}

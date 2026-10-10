@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-10 04:32:27
+**Last Update:** 2026-10-10 10:18:00
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. 11 of 23 Core Open Source Projects Run on 1 or 2 People
+### 1. Show HN: A simple to-do app for iPhone, Mac, and your agent
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/">https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50028059">https://news.ycombinator.com/item?id=50028059</a></p>
-<p>Points: 7</p>
-<p># Comments: 4</p>
-
-🔗 **Read more:** [https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/](https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/)
-
----
-
-### 2. HostMath – Airbnb profit calculator with break-even occupancy and payback
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://hosttmath.ctonew.app/?src=hn">https://hosttmath.ctonew.app/?src=hn</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50027856">https://news.ycombinator.com/item?id=50027856</a></p>
-<p>Points: 4</p>
+<p>Article URL: <a href="https://ilia.page/writing/introducing-nagare">https://ilia.page/writing/introducing-nagare</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50029607">https://news.ycombinator.com/item?id=50029607</a></p>
+<p>Points: 5</p>
 <p># Comments: 1</p>
 
-🔗 **Read more:** [https://hosttmath.ctonew.app/?src=hn](https://hosttmath.ctonew.app/?src=hn)
+🔗 **Read more:** [https://ilia.page/writing/introducing-nagare](https://ilia.page/writing/introducing-nagare)
 
 ---
 
-### 3. Compiling Rust to readable C with Eurydice
+### 2. Telegram Desktop vulnerability allowed any user's file to be stolen
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://lwn.net/Articles/1055211/">https://lwn.net/Articles/1055211/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50027853">https://news.ycombinator.com/item?id=50027853</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/">https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50029123">https://news.ycombinator.com/item?id=50029123</a></p>
+<p>Points: 68</p>
+<p># Comments: 25</p>
 
-🔗 **Read more:** [https://lwn.net/Articles/1055211/](https://lwn.net/Articles/1055211/)
+🔗 **Read more:** [https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/](https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/)
+
+---
+
+### 3. Put a price on breakthroughs
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://alexwang.ai/posts/put-a-price-on-breakthroughs/">https://alexwang.ai/posts/put-a-price-on-breakthroughs/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50028982">https://news.ycombinator.com/item?id=50028982</a></p>
+<p>Points: 13</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://alexwang.ai/posts/put-a-price-on-breakthroughs/](https://alexwang.ai/posts/put-a-price-on-breakthroughs/)
 
 ---
 
@@ -84,7 +84,7 @@ The US president hopes to ease his party's pain before next month's midterm elec
 
 ---
 
-### 6. NI secretary to ban the Drumcree parade
+### 6. NI secretary intervenes to ban Drumcree parade
 
 **Source:** BBC
 
@@ -97,42 +97,42 @@ The parade has led to a stand-off between Orangemen and nationalist residents of
 
 ---
 
-### 7. Israeli drone attack wounds six in Lebanon near Syria border
+### 7. India protest live: Police detain Cockroach leaders, New Delhi in lockdown
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Five Syrians and one Lebanese wounded in latest Israeli attack, Lebanon&#039;s health authorities say.
+Cockroach Janta ​Party founder Abhijeet Dipke and other leaders detained before ​protest to demand election chief quit.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/10/israeli-drone-attack-wounds-six-in-lebanon-near-syria-border?traffic_source=rss](https://www.aljazeera.com/news/2026/10/10/israeli-drone-attack-wounds-six-in-lebanon-near-syria-border?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/10/10/india-protest-live-police-detain-cockroach-leaders-new-delhi-in-lockdown?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/10/10/india-protest-live-police-detain-cockroach-leaders-new-delhi-in-lockdown?traffic_source=rss)
 
 ---
 
-### 8. Intercommunal clashes kill 71 people in South Sudan
+### 8. US hosts ‘productive’ trilateral talks to end Russia-Ukraine war
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Government security forces regain control of Rumbek town after outsiders attempted to seize the area.
+US envoy Steve Witkoff says renewed negotiations aim to ensure lasting peace before winter approaches.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/10/intercommunal-clashes-kill-71-people-in-south-sudan?traffic_source=rss](https://www.aljazeera.com/news/2026/10/10/intercommunal-clashes-kill-71-people-in-south-sudan?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/10/us-hosts-productive-trilateral-talks-to-end-russia-ukraine-war?traffic_source=rss](https://www.aljazeera.com/news/2026/10/10/us-hosts-productive-trilateral-talks-to-end-russia-ukraine-war?traffic_source=rss)
 
 ---
 
-### 9. Iran war live: Kremlin says Trump welcomed Russia’s effort in Iran deal
+### 9. Israel’s economy prospers despite years of war, but prices worry voters
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The Kremlin says the US president welcomes Russia&#039;s involvement in efforts aimed at reaching a settlement over Iran.
+Tech is driving the economy, and investments are flowing in. But food costs are rising and debt is growing.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/10/10/iran-war-live-kremlin-says-trump-welcomed-russia-effort-in-iran-deal?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/10/10/iran-war-live-kremlin-says-trump-welcomed-russia-effort-in-iran-deal?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/10/israels-economy-prospers-despite-years-of-war-but-prices-worry-voters?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/10/israels-economy-prospers-despite-years-of-war-but-prices-worry-voters?traffic_source=rss)
 
 ---
 

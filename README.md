@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-10 17:23:06
+**Last Update:** 2026-10-10 21:48:08
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. I Would Like the Value of My Home to Rise, While My Property Taxes Fall
+### 1. Weave (YC W25) is hiring ML, AI, product, & design engineers
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/">https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50032758">https://news.ycombinator.com/item?id=50032758</a></p>
-<p>Points: 21</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://jobs.ashbyhq.com/workweave">https://jobs.ashbyhq.com/workweave</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50035602">https://news.ycombinator.com/item?id=50035602</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/](https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/)
+🔗 **Read more:** [https://jobs.ashbyhq.com/workweave](https://jobs.ashbyhq.com/workweave)
 
 ---
 
-### 2. Lobbying Is Corruption
+### 2. AI Is Throwing a Roadside Picnic
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://carette.xyz/posts/lobbying_and_corruption/">https://carette.xyz/posts/lobbying_and_corruption/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50032556">https://news.ycombinator.com/item?id=50032556</a></p>
-<p>Points: 80</p>
-<p># Comments: 26</p>
+<p>Article URL: <a href="https://metedata.substack.com/p/ai-is-throwing-a-roadside-picnic">https://metedata.substack.com/p/ai-is-throwing-a-roadside-picnic</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50034363">https://news.ycombinator.com/item?id=50034363</a></p>
+<p>Points: 27</p>
+<p># Comments: 32</p>
 
-🔗 **Read more:** [https://carette.xyz/posts/lobbying_and_corruption/](https://carette.xyz/posts/lobbying_and_corruption/)
+🔗 **Read more:** [https://metedata.substack.com/p/ai-is-throwing-a-roadside-picnic](https://metedata.substack.com/p/ai-is-throwing-a-roadside-picnic)
 
 ---
 
-### 3. Apple/macOS silently removed from official Unix registry
+### 3. Knuth Reward Check
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.opengroup.org//openbrand/register/">https://www.opengroup.org//openbrand/register/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50031653">https://news.ycombinator.com/item?id=50031653</a></p>
-<p>Points: 78</p>
-<p># Comments: 76</p>
+<p>Article URL: <a href="https://www.thomas-huehn.com/knuth-reward-check">https://www.thomas-huehn.com/knuth-reward-check</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50034081">https://news.ycombinator.com/item?id=50034081</a></p>
+<p>Points: 52</p>
+<p># Comments: 20</p>
 
-🔗 **Read more:** [https://www.opengroup.org//openbrand/register/](https://www.opengroup.org//openbrand/register/)
+🔗 **Read more:** [https://www.thomas-huehn.com/knuth-reward-check](https://www.thomas-huehn.com/knuth-reward-check)
 
 ---
 
-### 4. Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin
+### 4. Man dies after tiger attack at wildlife park
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Ukraine's president sharply criticised the move, calling it an "investment in war that must be ended, not prolonged".
+It was reported the man entered the tiger enclosure at the attraction near Doncaster, police say.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6n9r3n7858zo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6n9r3n7858zo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. 'Cockroach' group leaders among hundreds detained in Delhi protest
+### 5. 'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Tens of thousands of security personnel were deployed and roads barricaded ahead of the demonstration.
+Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c65yn7xvde7vo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c65yn7xvde7vo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Russian glide bomb attack on Zaporizhzhia kills at least 15 people including three children
+### 6. US murderer Christa Pike discharged from hospital 10 days after failed execution
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Children are among the victims, authorities say, and more victims could still be buried in the rubble of a large apartment block that was destroyed.
+Pike's lawyers say she is "grateful" to the medical team who cared for her after she survived two lethal injections last month.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. High silver prices threaten Lucknow’s famed bridal nagra craft
+### 7. Nine killed in shooting in US state of Pennsylvania, including two children
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-War-driven prices for silver are threatening nagra makers in northern India.
+The shooting in Erie, Pennsylvania happened on Friday, according to state officials. The attacker is among the dead.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/longform/2026/10/10/high-silver-prices-threaten-lucknows-famed-bridal-nagra-craft?traffic_source=rss](https://www.aljazeera.com/features/longform/2026/10/10/high-silver-prices-threaten-lucknows-famed-bridal-nagra-craft?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/10/nine-killed-in-shooting-in-us-state-of-pennsylvania-including-two-children?traffic_source=rss](https://www.aljazeera.com/news/2026/10/10/nine-killed-in-shooting-in-us-state-of-pennsylvania-including-two-children?traffic_source=rss)
 
 ---
 
-### 8. New Delhi police crack down on protesters ahead of anti-gov’t march
+### 8. Pope says death penalty ‘inadmissible’ as US plans to livestream execution
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-India’s police have detained dozens of protesters, including ‘Cockroach’ party leaders ahead of an anti-gov&#039;t march.
+Pope Leo XIV describes capital punishment as an &#039;attack on the inviolability and dignity of the person&#039; in post on X.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/10/new-delhi-police-crack-down-on-protesters-ahead-of-anti-govt-march?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/10/new-delhi-police-crack-down-on-protesters-ahead-of-anti-govt-march?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/10/pope-says-death-penalty-inadmissible-as-us-plans-to-livestream-execution?traffic_source=rss](https://www.aljazeera.com/news/2026/10/10/pope-says-death-penalty-inadmissible-as-us-plans-to-livestream-execution?traffic_source=rss)
 
 ---
 
-### 9. ‘Anachronism’: Rubio’s civilisational rhetoric prompts pushback from Iran
+### 9. Video shows rare albino Asian black bear
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Rubio says threats to Western civilisation today &#039;every bit as real as they were on the dramatic stage of antiquity&#039;.
+A rare albino Asian black bear was captured on camera in China’s Shennongjia National Park
 
-🔗 **Read more:** [https://www.aljazeera.com/news-analysis/2026/10/10/anachronism-rubios-civilisational-rhetoric-prompts-pushback-from-iran?traffic_source=rss](https://www.aljazeera.com/news-analysis/2026/10/10/anachronism-rubios-civilisational-rhetoric-prompts-pushback-from-iran?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/10/video-shows-rare-albino-asian-black-bear?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/10/video-shows-rare-albino-asian-black-bear?traffic_source=rss)
 
 ---
 

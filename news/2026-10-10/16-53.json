@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-10T16:53:31+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "LLMs Aren't Inevitable",
+            "description": "<p>Article URL: <a href=\"https://deadsimpletech.com/blog/llms-arent-inevitable\">https://deadsimpletech.com/blog/llms-arent-inevitable</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50032064\">https://news.ycombinator.com/item?id=50032064</a></p>\n<p>Points: 14</p>\n<p># Comments: 3</p>",
+            "url": "https://deadsimpletech.com/blog/llms-arent-inevitable",
+            "published": "Sat, 10 Oct 2026 12:04:04 +0000",
+            "fetched": "2026-10-10T16:53:31+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Apple/macOS silently removed from official Unix registry",
+            "description": "<p>Article URL: <a href=\"https://www.opengroup.org//openbrand/register/\">https://www.opengroup.org//openbrand/register/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50031653\">https://news.ycombinator.com/item?id=50031653</a></p>\n<p>Points: 49</p>\n<p># Comments: 36</p>",
+            "url": "https://www.opengroup.org//openbrand/register/",
+            "published": "Sat, 10 Oct 2026 10:57:31 +0000",
+            "fetched": "2026-10-10T16:53:31+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+            "description": "<p>Article URL: <a href=\"https://github.com/rociiu/talorys\">https://github.com/rociiu/talorys</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50031614\">https://news.ycombinator.com/item?id=50031614</a></p>\n<p>Points: 50</p>\n<p># Comments: 20</p>",
+            "url": "https://github.com/rociiu/talorys",
+            "published": "Sat, 10 Oct 2026 10:52:09 +0000",
+            "fetched": "2026-10-10T16:53:31+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+            "description": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
+            "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 10 Oct 2026 04:38:20 GMT",
+            "fetched": "2026-10-10T16:53:31+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'Cockroach' group leaders among hundreds detained in Delhi protest",
+            "description": "Tens of thousands of security personnel were deployed and roads barricaded ahead of the demonstration.",
+            "url": "https://www.bbc.co.uk/news/articles/c65yn7xvde7vo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 10 Oct 2026 12:29:31 GMT",
+            "fetched": "2026-10-10T16:53:31+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Russian glide bomb attack on Zaporizhzhia kills at least 15 people including three children",
+            "description": "Children are among the victims, authorities say, and more victims could still be buried in the rubble of a large apartment block that was destroyed.",
+            "url": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 10 Oct 2026 11:17:15 GMT",
+            "fetched": "2026-10-10T16:53:31+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Child among seven killed by Israel in Gaza on ‘ceasefire’ anniversary",
+            "description": "At least 1,481 Palestinians killed in Israeli attacks since last year&#039;s &#039;ceasefire&#039;, Gaza&#039;s Health Ministry says.",
+            "url": "https://www.aljazeera.com/news/2026/10/10/israeli-forces-kill-six-in-gaza-including-a-child?traffic_source=rss",
+            "published": "Sat, 10 Oct 2026 12:40:57 +0000",
+            "fetched": "2026-10-10T16:53:31+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "England international Cole Palmer signs new Chelsea deal until 2034",
+            "description": "Attacking midfielder Palmer has become a key figure in Chelsea&#039;s squad since his arrival from Man City in 2023.",
+            "url": "https://www.aljazeera.com/sports/2026/10/10/england-international-cole-palmer-signs-new-chelsea-deal-until-2034?traffic_source=rss",
+            "published": "Sat, 10 Oct 2026 12:37:14 +0000",
+            "fetched": "2026-10-10T16:53:31+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Ukraine warns Trump-Putin diesel deal will bankroll Russia’s war",
+            "description": "Donald Trump’s diesel deal with Putin gives Russia more money to continue attacking Ukraine, Zelenskyy says.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/ukraine-warns-trump-putin-diesel-deal-will-bankroll-russias-war?traffic_source=rss",
+            "published": "Sat, 10 Oct 2026 12:33:07 +0000",
+            "fetched": "2026-10-10T16:53:31+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Simon",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25094",
+            "published": "2026-10-07T18:00:00Z",
+            "fetched": "2026-10-10T16:53:31+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire CON BSE13 RX, Covington, Alabama",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25119",
+            "published": "2026-10-07T10:45:00Z",
+            "fetched": "2026-10-10T16:53:31+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Isaias",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25063",
+            "published": "2026-10-07T09:00:00Z",
+            "fetched": "2026-10-10T16:53:31+03:30"
+        }
+    ]
+}

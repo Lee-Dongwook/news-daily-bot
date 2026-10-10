@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-10 22:13:37
+**Last Update:** 2026-10-11 01:48:34
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Weave (YC W25) is hiring ML, AI, product, & design engineers
+### 1. Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://jobs.ashbyhq.com/workweave">https://jobs.ashbyhq.com/workweave</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50035602">https://news.ycombinator.com/item?id=50035602</a></p>
-<p>Points: 0</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/">https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50037299">https://news.ycombinator.com/item?id=50037299</a></p>
+<p>Points: 13</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://jobs.ashbyhq.com/workweave](https://jobs.ashbyhq.com/workweave)
+🔗 **Read more:** [https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/](https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/)
 
 ---
 
-### 2. AI Is Throwing a Roadside Picnic
+### 2. A city-building game in which the city would prefer you didn't
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://metedata.substack.com/p/ai-is-throwing-a-roadside-picnic">https://metedata.substack.com/p/ai-is-throwing-a-roadside-picnic</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50034363">https://news.ycombinator.com/item?id=50034363</a></p>
-<p>Points: 27</p>
-<p># Comments: 32</p>
+<p>Article URL: <a href="https://housing.over.pizza/">https://housing.over.pizza/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50036864">https://news.ycombinator.com/item?id=50036864</a></p>
+<p>Points: 39</p>
+<p># Comments: 8</p>
 
-🔗 **Read more:** [https://metedata.substack.com/p/ai-is-throwing-a-roadside-picnic](https://metedata.substack.com/p/ai-is-throwing-a-roadside-picnic)
+🔗 **Read more:** [https://housing.over.pizza/](https://housing.over.pizza/)
 
 ---
 
-### 3. Knuth Reward Check
+### 3. 50MB operating system can resurrect your old PC
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.thomas-huehn.com/knuth-reward-check">https://www.thomas-huehn.com/knuth-reward-check</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50034081">https://news.ycombinator.com/item?id=50034081</a></p>
-<p>Points: 52</p>
-<p># Comments: 20</p>
+<p>Article URL: <a href="https://www.makeuseof.com/this-50mb-operating-system-can-resurrect-your-old-pc/">https://www.makeuseof.com/this-50mb-operating-system-can-resurrect-your-old-pc/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50036571">https://news.ycombinator.com/item?id=50036571</a></p>
+<p>Points: 20</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://www.thomas-huehn.com/knuth-reward-check](https://www.thomas-huehn.com/knuth-reward-check)
+🔗 **Read more:** [https://www.makeuseof.com/this-50mb-operating-system-can-resurrect-your-old-pc/](https://www.makeuseof.com/this-50mb-operating-system-can-resurrect-your-old-pc/)
 
 ---
 
@@ -97,42 +97,42 @@ Pike's lawyers say she is "grateful" to the medical team who cared for her after
 
 ---
 
-### 7. Photos: Thousands march across Europe to demand end to Israel’s war on Gaza
+### 7. Real Madrid beat Villarreal 1-0 but Vinicius sent off for hair pull
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Demonstrations in London, Berlin, and Rome denounce ongoing Israeli attacks on Gaza &#039;ceasefire&#039; anniversary.
+Real Madrid forward Vinicius Junior sent off for pulling Villarreal player&#039;s hair in 1-0 La Liga victory.
 
-🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/10/10/photos-thousands-march-across-europe-to-demand-end-to-israels-war-on-gaza?traffic_source=rss](https://www.aljazeera.com/gallery/2026/10/10/photos-thousands-march-across-europe-to-demand-end-to-israels-war-on-gaza?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/10/real-madrid-beat-villarreal-but-vinicius-sent-off-for-hair-pull?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/10/real-madrid-beat-villarreal-but-vinicius-sent-off-for-hair-pull?traffic_source=rss)
 
 ---
 
-### 8. Attack on airport in Saudi capital, Riyadh, leaves several injured
+### 8. Hundreds of doctors demand World Medical Association suspend Israel
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Operations suspended at King Khalid International Airport after another attack this week, Civil Aviation Authority says.
+Physicians accuse Israeli Medical Association of remaining silent as Palestinian healthcare is systematically destroyed.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/10/attack-on-airport-in-saudi-capital-riyadh-leaves-several-injured?traffic_source=rss](https://www.aljazeera.com/news/2026/10/10/attack-on-airport-in-saudi-capital-riyadh-leaves-several-injured?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/10/hundreds-of-doctors-demand-world-medical-association-suspend-israel?traffic_source=rss](https://www.aljazeera.com/news/2026/10/10/hundreds-of-doctors-demand-world-medical-association-suspend-israel?traffic_source=rss)
 
 ---
 
-### 9. Nine killed in shooting in US state of Pennsylvania, including two children
+### 9. Malawi motorists queue for days as fuel shortage bites
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The shooting in Erie, Pennsylvania happened on Friday, according to state officials. The attacker is among the dead.
+Malawi’s fuel shortage has brought daily life in the capital Lilongwe to a halt.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/10/nine-killed-in-shooting-in-us-state-of-pennsylvania-including-two-children?traffic_source=rss](https://www.aljazeera.com/news/2026/10/10/nine-killed-in-shooting-in-us-state-of-pennsylvania-including-two-children?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/10/malawi-motorists-queue-for-days-as-fuel-shortage-bites?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/10/malawi-motorists-queue-for-days-as-fuel-shortage-bites?traffic_source=rss)
 
 ---
 

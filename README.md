@@ -1,77 +1,90 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-11 23:54:50
+**Last Update:** 2026-10-12 03:16:16
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Cognitive Decline or Sanity Incline?
+### 1. Google Data Centers around the world
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://mdelcaro.substack.com/p/cognitive-decline-or-sanity-incline">https://mdelcaro.substack.com/p/cognitive-decline-or-sanity-incline</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50047257">https://news.ycombinator.com/item?id=50047257</a></p>
-<p>Points: 5</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://datacenters.google/locations/">https://datacenters.google/locations/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50048768">https://news.ycombinator.com/item?id=50048768</a></p>
+<p>Points: 18</p>
+<p># Comments: 7</p>
 
-🔗 **Read more:** [https://mdelcaro.substack.com/p/cognitive-decline-or-sanity-incline](https://mdelcaro.substack.com/p/cognitive-decline-or-sanity-incline)
+🔗 **Read more:** [https://datacenters.google/locations/](https://datacenters.google/locations/)
 
 ---
 
-### 2. Cartographers of North Korea
+### 2. Fingerprints Are the New Cookies
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://cartographers-nk.wonyoung.so/">https://cartographers-nk.wonyoung.so/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50047091">https://news.ycombinator.com/item?id=50047091</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://royfish.dev/fingerprints-are-the-new-cookies">https://royfish.dev/fingerprints-are-the-new-cookies</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50048642">https://news.ycombinator.com/item?id=50048642</a></p>
+<p>Points: 8</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://cartographers-nk.wonyoung.so/](https://cartographers-nk.wonyoung.so/)
+🔗 **Read more:** [https://royfish.dev/fingerprints-are-the-new-cookies](https://royfish.dev/fingerprints-are-the-new-cookies)
 
 ---
 
-### 3. Be The Onion's Hero for Once
+### 3. Google is illegaly cutting forest to build data centers
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://mailchi.mp/email.theonion.com/archivehunt">https://mailchi.mp/email.theonion.com/archivehunt</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50047055">https://news.ycombinator.com/item?id=50047055</a></p>
-<p>Points: 55</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment">https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50048638">https://news.ycombinator.com/item?id=50048638</a></p>
+<p>Points: 18</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://mailchi.mp/email.theonion.com/archivehunt](https://mailchi.mp/email.theonion.com/archivehunt)
+🔗 **Read more:** [https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment](https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment)
 
 ---
 
-### 4. Saudi capital airport hit by second Houthi strike in two days
+### 4. Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The Yemeni group says it carried out attacks that killed 13 people in Riyadh over the weekend and targeted two airports and oil facilities.
+Zelensky says Kyiv would support such a truce. Moscow has yet to comment.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. One killed, 11 injured in second Houthi strike on Riyadh airport in two days
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The Saudi capital has been hit by multiple attacks from the Iran-backed Yemeni group over the weekend.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. PM says it is 'clear' Russia interfered with Brexit vote
+### 6. PM says it is 'clear' Russia interfered with Brexit vote
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ He says voters were not "sufficiently" informed about how foreign actors sought 
 
 ---
 
-### 6. Wildlife park remains closed after fatal tiger attack
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Yorkshire Wildlife Park remains closed after a man entered the tiger enclosure and was fatally attacked on Saturday.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmgr8221v4x1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmgr8221v4x1o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Saudi health minister visits survivors of deadly Riyadh airport attack
+### 7. Pakistani national killed in second Houthi strike on Riyadh airport
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Saudi Arabia’s health minister Fahad Aljalajel has paid a visit to survivors of Saturday’s deadly attack.
+Saudi authorities say a Pakistani national was killed and several people injured in a second strike on Riyadh’s Airport.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/11/saudi-health-minister-visits-survivors-of-deadly-riyadh-airport-attack?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/11/saudi-health-minister-visits-survivors-of-deadly-riyadh-airport-attack?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/11/pakistani-national-killed-second-houthi-strike-riyadh-airport?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/11/pakistani-national-killed-second-houthi-strike-riyadh-airport?traffic_source=rss)
 
 ---
 
-### 8. Mexican president urges residents to shelter as Hurricane Simon approaches
+### 8. US Homeland Security secretary sees no ‘risk’ from livestreamed execution
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The Mexican community of Cabo Corrientes faces the risk of a direct hit as the Category 4 storm churns off Jalisco.
+Decision to livestream Nidal Hasan execution has led to harsh criticism and warnings that it could encourage violence.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/11/mexican-president-urges-residents-to-shelter-as-hurricane-simon-approaches?traffic_source=rss](https://www.aljazeera.com/news/2026/10/11/mexican-president-urges-residents-to-shelter-as-hurricane-simon-approaches?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/11/us-homeland-security-secretary-sees-no-risk-from-livestreamed-execution?traffic_source=rss](https://www.aljazeera.com/news/2026/10/11/us-homeland-security-secretary-sees-no-risk-from-livestreamed-execution?traffic_source=rss)
 
 ---
 
-### 9. Republican senator says Trump diesel agreement with Russia may be illegal
+### 9. Footage shows moment Russian strike hits Ukrainian grocery store
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US President Trump&#039;s bid to bring down diesel prices by easing sanctions on Russia prompts rare Republican criticism.
+CCTV footage shows the moment of a Russian strike on a residential street in Kharkiv, Ukraine.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/11/republican-senator-says-trump-diesel-agreement-with-russia-may-be-illegal?traffic_source=rss](https://www.aljazeera.com/news/2026/10/11/republican-senator-says-trump-diesel-agreement-with-russia-may-be-illegal?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/11/footage-shows-moment-russian-strike-hits-ukrainian-grocery-store?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/11/footage-shows-moment-russian-strike-hits-ukrainian-grocery-store?traffic_source=rss)
 
 ---
 

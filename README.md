@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-11 18:55:44
+**Last Update:** 2026-10-11 19:20:04
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/">https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50043682">https://news.ycombinator.com/item?id=50043682</a></p>
-<p>Points: 87</p>
-<p># Comments: 36</p>
+<p>Points: 189</p>
+<p># Comments: 89</p>
 
 🔗 **Read more:** [https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/](https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.tomshardware.com/software/microsoft-office/creator-of-free-adobe-clones-unveils-open-source-microsoft-office-excel-powerpoint-and-word-replications-autodesk-tools-and-other-subscription-based-services-may-come-next">https://www.tomshardware.com/software/microsoft-office/creator-of-free-adobe-clones-unveils-open-source-microsoft-office-excel-powerpoint-and-word-replications-autodesk-tools-and-other-subscription-based-services-may-come-next</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50043110">https://news.ycombinator.com/item?id=50043110</a></p>
-<p>Points: 21</p>
-<p># Comments: 6</p>
+<p>Points: 34</p>
+<p># Comments: 23</p>
 
 🔗 **Read more:** [https://www.tomshardware.com/software/microsoft-office/creator-of-free-adobe-clones-unveils-open-source-microsoft-office-excel-powerpoint-and-word-replications-autodesk-tools-and-other-subscription-based-services-may-come-next](https://www.tomshardware.com/software/microsoft-office/creator-of-free-adobe-clones-unveils-open-source-microsoft-office-excel-powerpoint-and-word-replications-autodesk-tools-and-other-subscription-based-services-may-come-next)
 
@@ -51,14 +51,14 @@
 **Description:**
 <p>Article URL: <a href="https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf">https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50043026">https://news.ycombinator.com/item?id=50043026</a></p>
-<p>Points: 75</p>
-<p># Comments: 70</p>
+<p>Points: 98</p>
+<p># Comments: 123</p>
 
 🔗 **Read more:** [https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf](https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf)
 
 ---
 
-### 4. Riyadh airport attack another dangerous moment in already tense conflict
+### 4. Attack on Saudi Arabian airport is another dangerous moment in already tense conflict
 
 **Source:** BBC
 
@@ -110,7 +110,7 @@ Hoping for ‘dialogue’ with the US over its sanctions on the ICC is meaningle
 
 ---
 
-### 8. Trump says Ukraine, Russia agree to ‘energy ceasefire’
+### 8. Trump says Ukraine and Russia agree to ‘energy ceasefire’
 
 **Source:** Al Jazeera
 

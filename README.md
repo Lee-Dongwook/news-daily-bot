@@ -1,94 +1,142 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-11 12:35:53
+**Last Update:** 2026-10-11 18:55:44
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. 'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal
+### 1. Internal files add to evidence of an ExxonMobil climate deception campaign
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/">https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50043682">https://news.ycombinator.com/item?id=50043682</a></p>
+<p>Points: 87</p>
+<p># Comments: 36</p>
+
+🔗 **Read more:** [https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/](https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/)
+
+---
+
+### 2. Open-Source Microsoft Office Excel, PowerPoint, and Word Replications
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.tomshardware.com/software/microsoft-office/creator-of-free-adobe-clones-unveils-open-source-microsoft-office-excel-powerpoint-and-word-replications-autodesk-tools-and-other-subscription-based-services-may-come-next">https://www.tomshardware.com/software/microsoft-office/creator-of-free-adobe-clones-unveils-open-source-microsoft-office-excel-powerpoint-and-word-replications-autodesk-tools-and-other-subscription-based-services-may-come-next</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50043110">https://news.ycombinator.com/item?id=50043110</a></p>
+<p>Points: 21</p>
+<p># Comments: 6</p>
+
+🔗 **Read more:** [https://www.tomshardware.com/software/microsoft-office/creator-of-free-adobe-clones-unveils-open-source-microsoft-office-excel-powerpoint-and-word-replications-autodesk-tools-and-other-subscription-based-services-may-come-next](https://www.tomshardware.com/software/microsoft-office/creator-of-free-adobe-clones-unveils-open-source-microsoft-office-excel-powerpoint-and-word-replications-autodesk-tools-and-other-subscription-based-services-may-come-next)
+
+---
+
+### 3. Terence Tao: Math 2.0 [pdf]
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf">https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50043026">https://news.ycombinator.com/item?id=50043026</a></p>
+<p>Points: 75</p>
+<p># Comments: 70</p>
+
+🔗 **Read more:** [https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf](https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf)
+
+---
+
+### 4. Riyadh airport attack another dangerous moment in already tense conflict
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.
+The Houthis have stepped up their attacks on Saudi Arabian soil, and while the physical damage can be quickly repaired, its reputation for stability is taking a battering.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 2. Man dies after tiger attack at wildlife park
+### 5. Buildings swept away as flash floods hit central Nepal
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The man was reported to have entered the tiger enclosure before he was attacked, police say.
+A flash flood at the Budhi Gandaki River has swept away several buildings and bridges, two months after catastrophic floods hit the country.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6n9r3n7858zo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6n9r3n7858zo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cwzrdnljedx0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cwzrdnljedx0o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 3. US justice department investigates TV networks over Trump pool coverage
+### 6. Wildlife park remains closed after fatal tiger attack
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The White House had blocked access for CNN, MS Now and Politico, leading them to restrict pool coverage.
+Yorkshire Wildlife Park remains closed after a man entered the tiger enclosure and was fatally attacked on Saturday.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmgr8221v4x1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmgr8221v4x1o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. Pakistan imposes emergency rule in Khyber Pakhtunkhwa ​province
+### 7. How the ICC can be saved
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Move effectively suspends provincial government run by party of ​jailed former Prime ⁠Minister ​Imran Khan.
+Hoping for ‘dialogue’ with the US over its sanctions on the ICC is meaningless. Action is needed to protect the court.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/11/pakistan-imposes-emergency-rule-in-khyber-pakhtunkhwa?traffic_source=rss](https://www.aljazeera.com/news/2026/10/11/pakistan-imposes-emergency-rule-in-khyber-pakhtunkhwa?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/10/11/how-the-icc-can-be-saved?traffic_source=rss](https://www.aljazeera.com/opinions/2026/10/11/how-the-icc-can-be-saved?traffic_source=rss)
 
 ---
 
-### 5. What the Iran war has done to the world’s energy supply, in charts
+### 8. Trump says Ukraine, Russia agree to ‘energy ceasefire’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Fossil fuels produce 81 percent of global energy. We look at Middle East’s role and what happens when supplies are cut.
+Ukrainian President Volodymyr Zelenskyy had pushed for a 60-day full ceasefire.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/11/what-the-iran-war-has-done-to-the-worlds-energy-supply-in-charts?traffic_source=rss](https://www.aljazeera.com/news/2026/10/11/what-the-iran-war-has-done-to-the-worlds-energy-supply-in-charts?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/11/trump-says-ukraine-russia-agree-to-energy-ceasefire-2?traffic_source=rss](https://www.aljazeera.com/news/2026/10/11/trump-says-ukraine-russia-agree-to-energy-ceasefire-2?traffic_source=rss)
 
 ---
 
-### 6. Musk vows ‘affordable’ Starlink in India as he escalates feud with Ambani
+### 9. Pope Leo to undergo surgery to remove lung nodule
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Pledge comes days before Mukesh Ambani&#039;s low-cost Reliance Jio&#039;s parent launches India&#039;s largest-ever IPO.
+The 71-year-old spiritual leader informed pilgrims during his weekly Sunday blessing at St Peter&#039;s Square.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/11/musk-vows-affordable-starlink-in-india-as-he-escalates-feud-with-ambani?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/11/musk-vows-affordable-starlink-in-india-as-he-escalates-feud-with-ambani?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/11/pope-leo-to-undergo-surgery-to-remove-lung-nodule?traffic_source=rss](https://www.aljazeera.com/news/2026/10/11/pope-leo-to-undergo-surgery-to-remove-lung-nodule?traffic_source=rss)
 
 ---
 
-### 7. Hurricane Simon
+### 10. Hurricane Simon
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Severe Storms
 
 ---
 
-### 8. Prescribed Fire CON BSE13 RX, Covington, Alabama
+### 11. Prescribed Fire CON BSE13 RX, Covington, Alabama
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Wildfires
 
 ---
 
-### 9. Hurricane Isaias
+### 12. Hurricane Isaias
 
 **Source:** NASA
 

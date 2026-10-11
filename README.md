@@ -1,32 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-11 02:13:50
+**Last Update:** 2026-10-11 05:09:28
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks
+### 1. WallHop – 12ft.io is gone, so I built a replacement
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/">https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50037299">https://news.ycombinator.com/item?id=50037299</a></p>
-<p>Points: 16</p>
-<p># Comments: 7</p>
+<p>Article URL: <a href="https://wallhop.io/">https://wallhop.io/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50038634">https://news.ycombinator.com/item?id=50038634</a></p>
+<p>Points: 53</p>
+<p># Comments: 31</p>
 
-🔗 **Read more:** [https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/](https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/)
+🔗 **Read more:** [https://wallhop.io/](https://wallhop.io/)
 
 ---
 
-### 2. A city-building game in which the city would prefer you didn't
+### 2. Build your own decision model
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://nishtahir.com/build-your-own-decision-model/">https://nishtahir.com/build-your-own-decision-model/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50037949">https://news.ycombinator.com/item?id=50037949</a></p>
+<p>Points: 108</p>
+<p># Comments: 21</p>
+
+🔗 **Read more:** [https://nishtahir.com/build-your-own-decision-model/](https://nishtahir.com/build-your-own-decision-model/)
+
+---
+
+### 3. A city-building game in which the city would prefer you didn't
 
 **Source:** Hacker News
 
@@ -35,39 +51,23 @@
 **Description:**
 <p>Article URL: <a href="https://housing.over.pizza/">https://housing.over.pizza/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50036864">https://news.ycombinator.com/item?id=50036864</a></p>
-<p>Points: 64</p>
-<p># Comments: 25</p>
+<p>Points: 166</p>
+<p># Comments: 67</p>
 
 🔗 **Read more:** [https://housing.over.pizza/](https://housing.over.pizza/)
 
 ---
 
-### 3. 50MB operating system can resurrect your old PC
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.makeuseof.com/this-50mb-operating-system-can-resurrect-your-old-pc/">https://www.makeuseof.com/this-50mb-operating-system-can-resurrect-your-old-pc/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50036571">https://news.ycombinator.com/item?id=50036571</a></p>
-<p>Points: 23</p>
-<p># Comments: 6</p>
-
-🔗 **Read more:** [https://www.makeuseof.com/this-50mb-operating-system-can-resurrect-your-old-pc/](https://www.makeuseof.com/this-50mb-operating-system-can-resurrect-your-old-pc/)
-
----
-
-### 4. Man dies after tiger attack at wildlife park
+### 4. Twelve killed in attack on airport in Saudi capital Riyadh
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-It was reported the man entered the tiger enclosure at the attraction near Doncaster, police say.
+Another 309 people are injured, with the Saudi-led coalition saying the attack by Yemen's Houthis is "war crime".
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6n9r3n7858zo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6n9r3n7858zo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -84,55 +84,55 @@ Ukraine's leader had said the deal with Russia to release diesel into the US wou
 
 ---
 
-### 6. US murderer Christa Pike discharged from hospital 10 days after failed execution
+### 6. Man dies after tiger attack at wildlife park
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Pike's lawyers say she is "grateful" to the medical team who cared for her after she survived two lethal injections last month.
+It was reported the man entered the tiger enclosure at the attraction near Doncaster, police say.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6n9r3n7858zo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6n9r3n7858zo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Yemeni government’s military says its forces advancing against Houthis
+### 7. Man dies after entering tiger enclosure at England wildlife park
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Saudi-backed forces say 1,150 Houthis killed in operations against the Iran-aligned group over the past 24 hours.
+Emergency services called to the scene after reports of a man entering the tiger enclosure at a UK wildlife park.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/10/yemeni-governments-military-says-its-forces-advancing-against-houthis?traffic_source=rss](https://www.aljazeera.com/news/2026/10/10/yemeni-governments-military-says-its-forces-advancing-against-houthis?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/11/man-dies-after-entering-tiger-enclosure-at-england-wildlife-park?traffic_source=rss](https://www.aljazeera.com/news/2026/10/11/man-dies-after-entering-tiger-enclosure-at-england-wildlife-park?traffic_source=rss)
 
 ---
 
-### 8. Real Madrid beat Villarreal 1-0 but Vinicius sent off for hair pull
+### 8. Global pro-Palestinian protests one year after Gaza ‘ceasefire’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Real Madrid forward Vinicius Junior sent off for pulling Villarreal player&#039;s hair in 1-0 La Liga victory.
+Pro-Palestinian demonstrations have been held worldwide to mark one year since the so-called Gaza ‘ceasefire&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/10/real-madrid-beat-villarreal-but-vinicius-sent-off-for-hair-pull?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/10/real-madrid-beat-villarreal-but-vinicius-sent-off-for-hair-pull?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/11/11-10-sv-global-protests-for-gaza-solidarity-uk?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/11/11-10-sv-global-protests-for-gaza-solidarity-uk?traffic_source=rss)
 
 ---
 
-### 9. Hundreds of doctors demand World Medical Association suspend Israel
+### 9. Twelve killed, more than 300 injured in Riyadh airport attack
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Physicians accuse Israeli Medical Association of remaining silent as Palestinian healthcare is systematically destroyed.
+Saudi Arabia has confirmed at least 12 people were killed and more than 300 injured after Houthi fighters struck Riyadh.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/10/hundreds-of-doctors-demand-world-medical-association-suspend-israel?traffic_source=rss](https://www.aljazeera.com/news/2026/10/10/hundreds-of-doctors-demand-world-medical-association-suspend-israel?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/11/11-10-reported-latest-attack-on-riyadh-king-khalid-airport-houthis?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/11/11-10-reported-latest-attack-on-riyadh-king-khalid-airport-houthis?traffic_source=rss)
 
 ---
 

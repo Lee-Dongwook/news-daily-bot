@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-11 05:09:28
+**Last Update:** 2026-10-11 05:30:49
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. WallHop – 12ft.io is gone, so I built a replacement
+### 1. Generative AI scandal has come to one of Nikon's competitions
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.dpreview.com/news/generative-ai-scandal-has-come-to-one-of-nikons-competitions/">https://www.dpreview.com/news/generative-ai-scandal-has-come-to-one-of-nikons-competitions/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50038640">https://news.ycombinator.com/item?id=50038640</a></p>
+<p>Points: 9</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.dpreview.com/news/generative-ai-scandal-has-come-to-one-of-nikons-competitions/](https://www.dpreview.com/news/generative-ai-scandal-has-come-to-one-of-nikons-competitions/)
+
+---
+
+### 2. WallHop – 12ft.io is gone, so I built a replacement
 
 **Source:** Hacker News
 
@@ -19,42 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://wallhop.io/">https://wallhop.io/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50038634">https://news.ycombinator.com/item?id=50038634</a></p>
-<p>Points: 53</p>
-<p># Comments: 31</p>
+<p>Points: 71</p>
+<p># Comments: 44</p>
 
 🔗 **Read more:** [https://wallhop.io/](https://wallhop.io/)
 
 ---
 
-### 2. Build your own decision model
+### 3. PSPi 6 – Raspberry Pi in a PSP
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://nishtahir.com/build-your-own-decision-model/">https://nishtahir.com/build-your-own-decision-model/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50037949">https://news.ycombinator.com/item?id=50037949</a></p>
-<p>Points: 108</p>
-<p># Comments: 21</p>
+<p>Article URL: <a href="https://github.com/othermod/PSPi-Version-6">https://github.com/othermod/PSPi-Version-6</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50038623">https://news.ycombinator.com/item?id=50038623</a></p>
+<p>Points: 9</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://nishtahir.com/build-your-own-decision-model/](https://nishtahir.com/build-your-own-decision-model/)
-
----
-
-### 3. A city-building game in which the city would prefer you didn't
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://housing.over.pizza/">https://housing.over.pizza/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50036864">https://news.ycombinator.com/item?id=50036864</a></p>
-<p>Points: 166</p>
-<p># Comments: 67</p>
-
-🔗 **Read more:** [https://housing.over.pizza/](https://housing.over.pizza/)
+🔗 **Read more:** [https://github.com/othermod/PSPi-Version-6](https://github.com/othermod/PSPi-Version-6)
 
 ---
 

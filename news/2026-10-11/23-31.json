@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-11T23:31:13+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Be The Onion's Hero for Once",
+            "description": "<p>Article URL: <a href=\"https://mailchi.mp/email.theonion.com/archivehunt\">https://mailchi.mp/email.theonion.com/archivehunt</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50047055\">https://news.ycombinator.com/item?id=50047055</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://mailchi.mp/email.theonion.com/archivehunt",
+            "published": "Sun, 11 Oct 2026 19:43:32 +0000",
+            "fetched": "2026-10-11T23:31:13+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Chapter 1 of Ways of Seeing by John Berger",
+            "description": "<p>Article URL: <a href=\"https://www.ways-of-seeing.com/ch1\">https://www.ways-of-seeing.com/ch1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50046241\">https://news.ycombinator.com/item?id=50046241</a></p>\n<p>Points: 14</p>\n<p># Comments: 0</p>",
+            "url": "https://www.ways-of-seeing.com/ch1",
+            "published": "Sun, 11 Oct 2026 18:26:24 +0000",
+            "fetched": "2026-10-11T23:31:13+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Total Annihilation, rebuilt for modern computers",
+            "description": "<p>Article URL: <a href=\"https://nanolathe.gg\">https://nanolathe.gg</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50045984\">https://news.ycombinator.com/item?id=50045984</a></p>\n<p>Points: 116</p>\n<p># Comments: 59</p>",
+            "url": "https://nanolathe.gg",
+            "published": "Sun, 11 Oct 2026 18:04:47 +0000",
+            "fetched": "2026-10-11T23:31:13+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Saudi capital airport hit by second Houthi strike in two days",
+            "description": "The Yemeni group says it carried out attacks that killed 13 people in Riyadh over the weekend and targeted two airports and oil facilities.",
+            "url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 11 Oct 2026 16:41:37 GMT",
+            "fetched": "2026-10-11T23:31:13+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "PM says it is 'clear' Russia interfered with Brexit vote",
+            "description": "He says voters were not \"sufficiently\" informed about how foreign actors sought to disrupt UK democracy.",
+            "url": "https://www.bbc.co.uk/news/articles/c6jdm3zggl0ko?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 11 Oct 2026 18:00:30 GMT",
+            "fetched": "2026-10-11T23:31:13+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Wildlife park remains closed after fatal tiger attack",
+            "description": "Yorkshire Wildlife Park remains closed after a man entered the tiger enclosure and was fatally attacked on Saturday.",
+            "url": "https://www.bbc.co.uk/news/articles/cmgr8221v4x1o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 11 Oct 2026 12:38:02 GMT",
+            "fetched": "2026-10-11T23:31:13+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Mexican president urges residents to shelter as Hurricane Simon approaches",
+            "description": "The Mexican community of Cabo Corrientes faces the risk of a direct hit as the Category 4 storm churns off Jalisco.",
+            "url": "https://www.aljazeera.com/news/2026/10/11/mexican-president-urges-residents-to-shelter-as-hurricane-simon-approaches?traffic_source=rss",
+            "published": "Sun, 11 Oct 2026 19:31:36 +0000",
+            "fetched": "2026-10-11T23:31:13+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Republican senator says Trump diesel agreement with Russia may be illegal",
+            "description": "US President Trump&#039;s bid to bring down diesel prices by easing sanctions on Russia prompts rare Republican criticism.",
+            "url": "https://www.aljazeera.com/news/2026/10/11/republican-senator-says-trump-diesel-agreement-with-russia-may-be-illegal?traffic_source=rss",
+            "published": "Sun, 11 Oct 2026 19:19:50 +0000",
+            "fetched": "2026-10-11T23:31:13+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "War and high debt to dominate IMF-World Bank meetings in Bangkok",
+            "description": "The US-Israel war on Iran and its inflationary impact will dominate the agenda.",
+            "url": "https://www.aljazeera.com/news/2026/10/11/war-and-high-debt-to-dominate-imf-world-bank-meetings-in-bangkok?traffic_source=rss",
+            "published": "Sun, 11 Oct 2026 18:47:57 +0000",
+            "fetched": "2026-10-11T23:31:13+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Simon",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25094",
+            "published": "2026-10-07T18:00:00Z",
+            "fetched": "2026-10-11T23:31:13+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire CON BSE13 RX, Covington, Alabama",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25119",
+            "published": "2026-10-07T10:45:00Z",
+            "fetched": "2026-10-11T23:31:13+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Isaias",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25063",
+            "published": "2026-10-07T09:00:00Z",
+            "fetched": "2026-10-11T23:31:13+03:30"
+        }
+    ]
+}

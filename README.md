@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-11 11:58:35
+**Last Update:** 2026-10-11 12:35:53
 
 **Total News:** 9
 
@@ -49,7 +49,33 @@ The White House had blocked access for CNN, MS Now and Politico, leading them to
 
 ---
 
-### 4. Musk vows ‘affordable’ Starlink in India as he escalates feud with Ambani
+### 4. Pakistan imposes emergency rule in Khyber Pakhtunkhwa ​province
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Move effectively suspends provincial government run by party of ​jailed former Prime ⁠Minister ​Imran Khan.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/11/pakistan-imposes-emergency-rule-in-khyber-pakhtunkhwa?traffic_source=rss](https://www.aljazeera.com/news/2026/10/11/pakistan-imposes-emergency-rule-in-khyber-pakhtunkhwa?traffic_source=rss)
+
+---
+
+### 5. What the Iran war has done to the world’s energy supply, in charts
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Fossil fuels produce 81 percent of global energy. We look at Middle East’s role and what happens when supplies are cut.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/11/what-the-iran-war-has-done-to-the-worlds-energy-supply-in-charts?traffic_source=rss](https://www.aljazeera.com/news/2026/10/11/what-the-iran-war-has-done-to-the-worlds-energy-supply-in-charts?traffic_source=rss)
+
+---
+
+### 6. Musk vows ‘affordable’ Starlink in India as he escalates feud with Ambani
 
 **Source:** Al Jazeera
 
@@ -59,32 +85,6 @@ The White House had blocked access for CNN, MS Now and Politico, leading them to
 Pledge comes days before Mukesh Ambani&#039;s low-cost Reliance Jio&#039;s parent launches India&#039;s largest-ever IPO.
 
 🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/11/musk-vows-affordable-starlink-in-india-as-he-escalates-feud-with-ambani?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/11/musk-vows-affordable-starlink-in-india-as-he-escalates-feud-with-ambani?traffic_source=rss)
-
----
-
-### 5. US bombs cargo vessel in Gulf of Oman ‘trying to run Iran blockade’
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-A US fighter jet bombed a commercial cargo ship in the Gulf of Oman, according to CENTCOM.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/11/us-bombs-cargo-vessel-in-gulf-of-oman-trying-to-run-iran-blockade?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/11/us-bombs-cargo-vessel-in-gulf-of-oman-trying-to-run-iran-blockade?traffic_source=rss)
-
----
-
-### 6. Flash flood sweeps away buildings in Nepal
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Flash flooding in Nepal has swept away buildings along the Budhi Gandaki river on Sunday.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/11/flash-flood-sweeps-away-buildings-in-nepal?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/11/flash-flood-sweeps-away-buildings-in-nepal?traffic_source=rss)
 
 ---
 

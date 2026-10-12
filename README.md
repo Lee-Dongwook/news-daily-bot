@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-12 03:16:16
+**Last Update:** 2026-10-12 03:48:10
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Google Data Centers around the world
+### 1. Whatever became of holography? (2011)
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.americanscientist.org/article/whatever-became-of-holography">https://www.americanscientist.org/article/whatever-became-of-holography</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50049411">https://news.ycombinator.com/item?id=50049411</a></p>
+<p>Points: 7</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.americanscientist.org/article/whatever-became-of-holography](https://www.americanscientist.org/article/whatever-became-of-holography)
+
+---
+
+### 2. Google Data Centers around the world
 
 **Source:** Hacker News
 
@@ -19,42 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://datacenters.google/locations/">https://datacenters.google/locations/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50048768">https://news.ycombinator.com/item?id=50048768</a></p>
-<p>Points: 18</p>
-<p># Comments: 7</p>
+<p>Points: 29</p>
+<p># Comments: 20</p>
 
 🔗 **Read more:** [https://datacenters.google/locations/](https://datacenters.google/locations/)
 
 ---
 
-### 2. Fingerprints Are the New Cookies
+### 3. JulianFlux: Electrodynamic vector retrieval and causal routing for AI
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://royfish.dev/fingerprints-are-the-new-cookies">https://royfish.dev/fingerprints-are-the-new-cookies</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50048642">https://news.ycombinator.com/item?id=50048642</a></p>
-<p>Points: 8</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://github.com/julianjohnson-web/julianflux-research">https://github.com/julianjohnson-web/julianflux-research</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50048702">https://news.ycombinator.com/item?id=50048702</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://royfish.dev/fingerprints-are-the-new-cookies](https://royfish.dev/fingerprints-are-the-new-cookies)
-
----
-
-### 3. Google is illegaly cutting forest to build data centers
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment">https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50048638">https://news.ycombinator.com/item?id=50048638</a></p>
-<p>Points: 18</p>
-<p># Comments: 4</p>
-
-🔗 **Read more:** [https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment](https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment)
+🔗 **Read more:** [https://github.com/julianjohnson-web/julianflux-research](https://github.com/julianjohnson-web/julianflux-research)
 
 ---
 
@@ -97,7 +97,20 @@ He says voters were not "sufficiently" informed about how foreign actors sought 
 
 ---
 
-### 7. Pakistani national killed in second Houthi strike on Riyadh airport
+### 7. Iran war live: Riyadh airport hit again; Tehran says US reply ‘inadequate’
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Iran says US has accepted some of its peace terms but calls the reply &#039;inadequate&#039; as the Riyadh airport is hit again.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/10/12/iran-war-live-riyadh-airport-hit-again-tehran-says-us-reply-inadequate?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/10/12/iran-war-live-riyadh-airport-hit-again-tehran-says-us-reply-inadequate?traffic_source=rss)
+
+---
+
+### 8. Pakistani national killed in second Houthi strike on Riyadh airport
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Saudi authorities say a Pakistani national was killed and several people injured
 
 ---
 
-### 8. US Homeland Security secretary sees no ‘risk’ from livestreamed execution
+### 9. US Homeland Security secretary sees no ‘risk’ from livestreamed execution
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Saudi authorities say a Pakistani national was killed and several people injured
 Decision to livestream Nidal Hasan execution has led to harsh criticism and warnings that it could encourage violence.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/11/us-homeland-security-secretary-sees-no-risk-from-livestreamed-execution?traffic_source=rss](https://www.aljazeera.com/news/2026/10/11/us-homeland-security-secretary-sees-no-risk-from-livestreamed-execution?traffic_source=rss)
-
----
-
-### 9. Footage shows moment Russian strike hits Ukrainian grocery store
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-CCTV footage shows the moment of a Russian strike on a residential street in Kharkiv, Ukraine.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/11/footage-shows-moment-russian-strike-hits-ukrainian-grocery-store?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/11/footage-shows-moment-russian-strike-hits-ukrainian-grocery-store?traffic_source=rss)
 
 ---
 

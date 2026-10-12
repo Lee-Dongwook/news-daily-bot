@@ -1,78 +1,90 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-12 21:02:04
+**Last Update:** 2026-10-13 02:35:41
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Muse Wonder
+### 1. Breaking Bad star RJ Mitte dies aged 34
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://research.meta.ai/blog/muse-wonder">https://research.meta.ai/blog/muse-wonder</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50059115">https://news.ycombinator.com/item?id=50059115</a></p>
-<p>Points: 58</p>
-<p># Comments: 17</p>
+<p>Article URL: <a href="https://news.sky.com/story/breaking-bad-star-rj-mitte-dies-aged-34-13598332">https://news.sky.com/story/breaking-bad-star-rj-mitte-dies-aged-34-13598332</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50063831">https://news.ycombinator.com/item?id=50063831</a></p>
+<p>Points: 20</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://research.meta.ai/blog/muse-wonder](https://research.meta.ai/blog/muse-wonder)
+🔗 **Read more:** [https://news.sky.com/story/breaking-bad-star-rj-mitte-dies-aged-34-13598332](https://news.sky.com/story/breaking-bad-star-rj-mitte-dies-aged-34-13598332)
 
 ---
 
-### 2. Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents
+### 2. AI Is a Tool. Using It Well Takes Skill.
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Hey HN, I’m Vishnu from Agent37 (<a href="https://agent37.com">https://agent37.com</a>). We build sandboxes for running AI agents at under 10% of the cost of most sandbox providers. Our customers spend an average of $0.37/month per sandbox.<p>You can view a video walkthrough of the product here: <a href="https://youtu.be/DK5ISR2tbNo" rel="nofollow">https://youtu.be/DK5ISR2tbNo</a><p>We started as one of those OpenClaw wrapper companies back in February (yup.. judge me). In time we added more and more harnesses.<p>One of the goals I had at the time was to offer a free plan to users, so as to gain more market share. But it was too cost prohibitive to do it right away. Especially since we were bootstrapped and servers were running on my savings.<p>Today we’re actually able to offer the free plan thanks to the optimizations we’ve made since. Over 90% of the new signups we have are just free plan users and they host their personal Hermes/Openclaw/Claude Code etc on our cloud. Our infrastructure cost for the free sandboxes averages around $0.05 to $0.10 per user per month.<p>Here are some techniques that have worked for lowering cost:<p>* When you look at agent harnesses, they have certain patterns in the way they consume CPU and RAM. They need CPU in bursts when they’re initializing or performing certain tasks, but beyond that, they’re often not peaking. They need more RAM for things like browser and computer-use tasks. Once the task is done, usage often comes back down. This is a key insight in lowering cost, so by efficiently managing the CPU/RAM utilization we could lower the cost.<p>* Secondly, you have to skip the hyperscalers when renting the Hosts. I worked at Amazon before and they have 80-90% margins on VMs. So it was an obvious choice once I looked at the prices to go one layer down to vendors like Hetzner and OVH. This alone was probably one of the biggest cost levers in reducing the cost.<p>* Thirdly, you also want to pick a technology stack that lets you efficiently cache and share resources across the host. We use gVisor for better utilization and fast boot times. It lets us use available host memory across sandboxes without reserving a full VM’s memory for each one. There are tradeoffs: our gVisor sandboxes don’t support workloads like Docker-in-Docker or Android emulators.<p>* And finally the size and shape of the hosts you buy also makes a big difference. RAM is typically the bottleneck when it comes to cost and not the CPU. This is specifically true for agent harness workloads, so when buying servers, we optimize for packing more RAM into a given host.<p>We also host full VM sandboxes for workloads that need them, including running Docker at a slightly higher price, but they are still pretty low cost given the rest of the techniques.<p>Overall, my learning has been that just by focusing on a niche of sandbox usecases, and optimizing for it you can give a much better cost/performance tradeoff.<p>I was previously a Senior Software Engineer at Amazon and an Engineering Manager at Quantcast. I built Amazon's internal AI chatbot, Diya, and their internal coding harness, Ziya.<p>If you’re someone who’s looking to run agents on sandbox and are exploring a sandbox vendor, come check us out. We’re particularly looking for developers building messaging agents to try their workloads and challenge the limits and economics of our platform.<p>Thanks!<p><a href="https://agent37.com">https://agent37.com</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50059096">https://news.ycombinator.com/item?id=50059096</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://yyhh.org/blog/2026/10/ai-is-a-tool/">https://yyhh.org/blog/2026/10/ai-is-a-tool/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50063427">https://news.ycombinator.com/item?id=50063427</a></p>
+<p>Points: 115</p>
+<p># Comments: 101</p>
 
-🔗 **Read more:** [https://news.ycombinator.com/item?id=50059096](https://news.ycombinator.com/item?id=50059096)
+🔗 **Read more:** [https://yyhh.org/blog/2026/10/ai-is-a-tool/](https://yyhh.org/blog/2026/10/ai-is-a-tool/)
 
 ---
 
-### 3. Reverse engineer anything with agents, from app behavior down to native binaries
+### 3. Phreak.ing – Internet Phone Switch
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/morluto/rea">https://github.com/morluto/rea</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50058850">https://news.ycombinator.com/item?id=50058850</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://phreak.ing/">https://phreak.ing/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50063417">https://news.ycombinator.com/item?id=50063417</a></p>
+<p>Points: 26</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://github.com/morluto/rea](https://github.com/morluto/rea)
+🔗 **Read more:** [https://phreak.ing/](https://phreak.ing/)
 
 ---
 
-### 4. Britain won't tolerate threats on our soil, Miliband says as he summons Iran ambassador
+### 4. Burnham to push for new post-Brexit deals at EU summit
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The prime minister says Iran's Islamic Revolutionary Guard "almost certainly" directed the RAF Fairford incident.
+Conservative leader Kemi Badenoch said the prime minister was "unpicking" the deal the UK signed with the EU.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6gr82ekqewyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6gr82ekqewyo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqev3xvejyvjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqev3xvejyvjo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says
+### 5. Government expands police support to political figures who are not MPs
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Shabana Mahmood says there is "insufficient protection" for those who play a role in public life.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3gr82rk70l8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3gr82rk70l8o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says
 
 **Source:** BBC
 
@@ -85,55 +97,42 @@ Despite the US president announcing energy infrastructure would not be targeted 
 
 ---
 
-### 6. Watch: What could Trump's energy ceasefire mean for Ukraine?
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The BBC's Dan Johnson reports from Kyiv, where Ukrainians face another winter with electricity outages.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/crd9321ygqw8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/crd9321ygqw8o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. ‘Totally unfair’: Navi Pillay slams US sanctions against ICC
+### 7. Poland says two Turks arrested over Russia-linked Starlink station fire
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Nobel Peace Prize winner Navi Pillay has condemned US sanctions against the International Criminal Court.
+Warsaw says the 2 suspects held in Germany will face sabotage charges.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/12/totally-unfair-navi-pillay-slams-us-sanctions-against-icc?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/12/totally-unfair-navi-pillay-slams-us-sanctions-against-icc?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/12/poland-says-two-turks-arrested-over-russia-linked-starlink-station-fire?traffic_source=rss](https://www.aljazeera.com/news/2026/10/12/poland-says-two-turks-arrested-over-russia-linked-starlink-station-fire?traffic_source=rss)
 
 ---
 
-### 8. Blast kills teenager, injures dozens in northern Israel
+### 8. Why the Cornell gang rape case has raised concerns about fraternity culture
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A 15-year-old was killed and around 20 people injured when unexploded ordnance detonated in northern Israel.
+Experts say many fraternities offer a sense of community, but some rely on hazing and coercive tactics to build loyalty.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/12/blast-kills-teenager-injures-dozens-in-northern-israel?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/12/blast-kills-teenager-injures-dozens-in-northern-israel?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/12/why-the-cornell-gang-rape-case-has-raised-concerns-about-fraternity-culture?traffic_source=rss](https://www.aljazeera.com/news/2026/10/12/why-the-cornell-gang-rape-case-has-raised-concerns-about-fraternity-culture?traffic_source=rss)
 
 ---
 
-### 9. Photos: Protests over voter lists escalate in India’s capital
+### 9. Canada’s Carney calls for unity as Alberta prepares for secession vote
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-India’s opposition parties have marched in New Delhi to protest a voter list purge they say favours PM Modi&#039;s party.
+Prime Minister Mark Carney&#039;s Thanksgiving message comes a week ahead of Alberta&#039;s referendum to secede.
 
-🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/10/12/photos-protests-over-voter-lists-escalate-in-indias-capital?traffic_source=rss](https://www.aljazeera.com/gallery/2026/10/12/photos-protests-over-voter-lists-escalate-in-indias-capital?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/12/canadas-carney-calls-for-unity-as-alberta-prepares-for-secession-vote?traffic_source=rss](https://www.aljazeera.com/news/2026/10/12/canadas-carney-calls-for-unity-as-alberta-prepares-for-secession-vote?traffic_source=rss)
 
 ---
 

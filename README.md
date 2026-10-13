@@ -1,32 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-13 07:10:32
+**Last Update:** 2026-10-13 10:58:27
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. NAZA: Netanyahu orders identification and prosecution of film's interviewees
+### 1. Denmark set to allow return of 'physical force' in school
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.theguardian.com/film/2026/oct/12/naza-netanyahu-orders-identification-prosecution-interviewees-documentary-film">https://www.theguardian.com/film/2026/oct/12/naza-netanyahu-orders-identification-prosecution-interviewees-documentary-film</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50065972">https://news.ycombinator.com/item?id=50065972</a></p>
-<p>Points: 11</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://www.lemonde.fr/en/international/article/2026/10/10/denmark-set-to-allow-the-return-of-physical-force-to-maintain-order-in-schools_6758443_4.html">https://www.lemonde.fr/en/international/article/2026/10/10/denmark-set-to-allow-the-return-of-physical-force-to-maintain-order-in-schools_6758443_4.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50067570">https://news.ycombinator.com/item?id=50067570</a></p>
+<p>Points: 17</p>
+<p># Comments: 7</p>
 
-🔗 **Read more:** [https://www.theguardian.com/film/2026/oct/12/naza-netanyahu-orders-identification-prosecution-interviewees-documentary-film](https://www.theguardian.com/film/2026/oct/12/naza-netanyahu-orders-identification-prosecution-interviewees-documentary-film)
+🔗 **Read more:** [https://www.lemonde.fr/en/international/article/2026/10/10/denmark-set-to-allow-the-return-of-physical-force-to-maintain-order-in-schools_6758443_4.html](https://www.lemonde.fr/en/international/article/2026/10/10/denmark-set-to-allow-the-return-of-physical-force-to-maintain-order-in-schools_6758443_4.html)
 
 ---
 
-### 2. OpenAI algorithm for the FFT is less a breakthrough and more a malicious exploit
+### 2. Threat of AI share crash puts world financial stability at risk, says IMF
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks">https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50067356">https://news.ycombinator.com/item?id=50067356</a></p>
+<p>Points: 58</p>
+<p># Comments: 41</p>
+
+🔗 **Read more:** [https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks](https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks)
+
+---
+
+### 3. A look at OpenAI’s math that’s claimed computes faster Fourier transforms
 
 **Source:** Hacker News
 
@@ -35,43 +51,27 @@
 **Description:**
 <p>Article URL: <a href="https://www.argmin.net/p/faster-fourier-transforms">https://www.argmin.net/p/faster-fourier-transforms</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50065932">https://news.ycombinator.com/item?id=50065932</a></p>
-<p>Points: 7</p>
-<p># Comments: 0</p>
+<p>Points: 99</p>
+<p># Comments: 67</p>
 
 🔗 **Read more:** [https://www.argmin.net/p/faster-fourier-transforms](https://www.argmin.net/p/faster-fourier-transforms)
 
 ---
 
-### 3. Leaving Tech
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://ryanbigg.com/2026/10/leaving-tech">https://ryanbigg.com/2026/10/leaving-tech</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50065892">https://news.ycombinator.com/item?id=50065892</a></p>
-<p>Points: 101</p>
-<p># Comments: 76</p>
-
-🔗 **Read more:** [https://ryanbigg.com/2026/10/leaving-tech](https://ryanbigg.com/2026/10/leaving-tech)
-
----
-
-### 4. Hundreds more prisoners to be freed in second phase of early release scheme
+### 4. UK growth forecast upgraded but energy prices and rates to hit in 2027
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Second tranche of prisoners will include those serving up to two and a half years for crimes.
+The prediction from the IMF comes as final preparations are being made to the first Budget under Prime Minister Andy Burham.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwzrdnrrmgymo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwzrdnrrmgymo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Why the prime minister wants to talk about Brexit again
+### 5. Chris Mason: Why the prime minister wants to talk about Brexit again
 
 **Source:** BBC
 
@@ -84,55 +84,55 @@ For the first time since the UK left the EU, we have a prime minister who will "
 
 ---
 
-### 6. Heating oil customers face tough winter despite shake-up promise
+### 6. Hundreds more prisoners to be freed in second phase of early release scheme
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Heating oil customers facing soaring bills are promised better regulation of the sector by the government.
+Second tranche of prisoners will include those serving up to two and a half years for crimes.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cxnv0z09r882o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cxnv0z09r882o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwzrdnrrmgymo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwzrdnrrmgymo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Trump insists energy ceasefire holds as Ukraine reports new Russian strikes
+### 7. Emir says Qatar has shown resilience in face of ‘exceptional events’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US President urges Zelenskyy, Putin to end &#039;ridiculous war&#039; and insists they agreed to stop attacks on energy sites.
+Sheikh Tamim bin Hamad Al Thani says Qatar has demonstrated its strength and cohesion.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/13/trump-insists-energy-ceasefire-holds-as-ukraine-reports-new-russian-strikes?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/13/trump-insists-energy-ceasefire-holds-as-ukraine-reports-new-russian-strikes?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/13/qatari-emir-says-country-has-faced-exceptional-circumstances?traffic_source=rss](https://www.aljazeera.com/news/2026/10/13/qatari-emir-says-country-has-faced-exceptional-circumstances?traffic_source=rss)
 
 ---
 
-### 8. Russia and Ukraine trade strikes amid doubt over ‘energy ceasefire’
+### 8. Malaysia’s Firefly cancels flights to Singapore over haze from Indonesia
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ukraine&#039;s president says Russian attacks on Ukraine’s energy infrastructure are continuing despite &#039;energy ceasefire&#039;.
+Move comes as haze from Indonesian fires makes Singapore and Kuala Lumpur the world’s most polluted cities.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/13/russia-and-ukraine-trade-strikes-amid-doubt-over-energy?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/13/russia-and-ukraine-trade-strikes-amid-doubt-over-energy?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/13/malaysias-firefly-cancels-flights-to-singapore-over-transboundary-haze?traffic_source=rss](https://www.aljazeera.com/news/2026/10/13/malaysias-firefly-cancels-flights-to-singapore-over-transboundary-haze?traffic_source=rss)
 
 ---
 
-### 9. Cyberattack on French supermarkets causes fires, millions in losses
+### 9. Imran Khan’s PTI braces to fight federal takeover of Khyber Pakhtunkhwa
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A cyberattack targeting supermarket refrigeration systems has left shelves empty across France.
+Islamabad says the PTI failed to lead the fight against armed groups, but analysts question the takeover.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/13/12-10-sv-france-supermarket-fridges-targeted?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/13/12-10-sv-france-supermarket-fridges-targeted?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/13/imran-khans-pti-braces-to-fight-federal-takeover-of-khyber-pakhtunkhwa?traffic_source=rss](https://www.aljazeera.com/news/2026/10/13/imran-khans-pti-braces-to-fight-federal-takeover-of-khyber-pakhtunkhwa?traffic_source=rss)
 
 ---
 

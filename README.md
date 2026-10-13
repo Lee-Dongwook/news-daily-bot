@@ -1,79 +1,29 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-14 00:32:49
+**Last Update:** 2026-10-14 02:49:55
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. OpenAI finds recording device in one of their offices
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://twitter.com/OpenAINewsroom/status/2110095403198849132">https://twitter.com/OpenAINewsroom/status/2110095403198849132</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50077703">https://news.ycombinator.com/item?id=50077703</a></p>
-<p>Points: 56</p>
-<p># Comments: 28</p>
-
-🔗 **Read more:** [https://twitter.com/OpenAINewsroom/status/2110095403198849132](https://twitter.com/OpenAINewsroom/status/2110095403198849132)
-
----
-
-### 2. Show HN: Parsimony – an open-source benchmark for how much code AI models add
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Existing benchmarks measure solve rate and token output/cost, but don't punish excess code, which makes a codebase harder to work with in the long term. I wanted to measure this since it matters most for long-term projects.<p>Method: it takes the patches that benchmarks already publish (DeepSWE, SWE-bench Verified, SWE-bench Live) and counts "coding units": syntax elements like statements, calls, names and literals. I didn't use lines of code, so cramming code isn't rewarded. Deleted code is subtracted, so it measures net units.<p>GPT-6 and Claude 5.5 have no public patches yet, so I ran them myself on 3–10 tasks on my own subscriptions (shown as faded circles, not ranked).<p>Any feedback or model contributions are welcome, especially public patch exports for newer models.<p>GitHub: <a href="https://github.com/La5u/Parsimony" rel="nofollow">https://github.com/La5u/Parsimony</a><p>Not affiliated with any of the benchmarks.</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50077619">https://news.ycombinator.com/item?id=50077619</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://parsimony.lasu.dev/](https://parsimony.lasu.dev/)
-
----
-
-### 3. The Four Colour Theorem: The first time machines mogged mathematicians
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p><a href="https://celebratio.org/Appel_KI/article/796/#sender" rel="nofollow">https://celebratio.org/Appel_KI/article/796/#sender</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50077096">https://news.ycombinator.com/item?id=50077096</a></p>
-<p>Points: 9</p>
-<p># Comments: 6</p>
-
-🔗 **Read more:** [https://newsletter.pessimistsarchive.org/p/the-1st-time-machines-mogged-mathematicians](https://newsletter.pessimistsarchive.org/p/the-1st-time-machines-mogged-mathematicians)
-
----
-
-### 4. MI5 chief warns of threats to UK from Russia, Iran and AI
+### 1. Family pays tribute to 'warm and engaging' man killed in tiger attack
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Sir Ken McCallum says operations to tackle terrorism and state threats are now roughly of an "equal scale".
+William Chapman was attacked by the tiger after he entered its pen at Yorkshire Wildlife Park.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck054nvzr676o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck054nvzr676o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Pope diagnosed with lung cancer but had successful surgery, Vatican says
+### 2. Pope diagnosed with lung cancer but had successful surgery, Vatican says
 
 **Source:** BBC
 
@@ -86,59 +36,59 @@ Pope Leo had successful surgery to remove a lower lobe of his right lung, the Va
 
 ---
 
-### 6. Man killed in tiger attack identified as William Chapman
+### 3. Saudi man charged with planting 'sophisticated' recording device in OpenAI office
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Chapman, who was in his 20s, died after entering the tiger's enclosure at  Yorkshire Wildlife Park.
+Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3ewegny45jvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3ewegny45jvo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Tupac Shakur killer sentenced to 40 years in prison
+### 4. Manchester United’s Martinez blasts board’s lack of investment
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Duane ‘Keffe D’ Davis was sentenced to 40 years to life in prison over the 1996 murder of rap icon Tupac Shakur.
+Manchester United beaten 2-0 at Atletico Madrid, but defender Lisandro Martinez slams club&#039;s failure to invest in team.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/13/tupac-shakur-killer-sentenced-to-40-years-in-prison?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/13/tupac-shakur-killer-sentenced-to-40-years-in-prison?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/13/manchester-uniteds-martinez-blasts-boards-lack-of-investment?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/13/manchester-uniteds-martinez-blasts-boards-lack-of-investment?traffic_source=rss)
 
 ---
 
-### 8. Funeral for Egyptian flight attendant killed in Houthi attack on Riyadh
+### 5. Bayern’s Michael Olise sent off for ‘super dumb’ yellows within seconds
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Funeral for Egyptian flight attendant killed in Houthi attack on Riyadh
+Bayern Munich draw 3-3 with Viking in UEFA Champions League, but Michael Olise sees red for two bookings within seconds.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/13/funeral-for-egyptian-flight-attendant-killed-in-houthi-attack-on-riyadh?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/13/funeral-for-egyptian-flight-attendant-killed-in-houthi-attack-on-riyadh?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/13/bayerns-michael-olise-sent-off-for-super-dumb-yellows-within-seconds?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/13/bayerns-michael-olise-sent-off-for-super-dumb-yellows-within-seconds?traffic_source=rss)
 
 ---
 
-### 9. How podcasts became political powerhouses
+### 6. Mauritius imposes curfew after night of unrest over police shooting
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Are podcasts remaking politics or just bypassing scrutiny?
+Protesters block roads and burn tyres in response to a police shooting of a 27-year-old woman.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/lets-focus/2026/10/13/how-podcasts-became-political-powerhouses?traffic_source=rss](https://www.aljazeera.com/video/lets-focus/2026/10/13/how-podcasts-became-political-powerhouses?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/13/mauritius-imposes-curfew-after-night-of-unrest-over-police-shooting?traffic_source=rss](https://www.aljazeera.com/news/2026/10/13/mauritius-imposes-curfew-after-night-of-unrest-over-police-shooting?traffic_source=rss)
 
 ---
 
-### 10. Wildfire Buckhorn 2, Cassia, Idaho
+### 7. Wildfire Buckhorn 2, Cassia, Idaho
 
 **Source:** NASA
 
@@ -151,7 +101,7 @@ Natural event: Wildfires
 
 ---
 
-### 11. Wildfire PK, Sheridan, Wyoming
+### 8. Wildfire PK, Sheridan, Wyoming
 
 **Source:** NASA
 
@@ -164,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Wildfire CYRUS, Kern, California
+### 9. Wildfire CYRUS, Kern, California
 
 **Source:** NASA
 

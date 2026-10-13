@@ -1,71 +1,71 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-13 10:58:27
+**Last Update:** 2026-10-13 15:28:41
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Denmark set to allow return of 'physical force' in school
+### 1. An hour of audio transcribed in about 13s on MacBook Air
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.lemonde.fr/en/international/article/2026/10/10/denmark-set-to-allow-the-return-of-physical-force-to-maintain-order-in-schools_6758443_4.html">https://www.lemonde.fr/en/international/article/2026/10/10/denmark-set-to-allow-the-return-of-physical-force-to-maintain-order-in-schools_6758443_4.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50067570">https://news.ycombinator.com/item?id=50067570</a></p>
-<p>Points: 17</p>
-<p># Comments: 7</p>
+<p>Article URL: <a href="https://eg2.haku.sh/">https://eg2.haku.sh/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50069971">https://news.ycombinator.com/item?id=50069971</a></p>
+<p>Points: 32</p>
+<p># Comments: 8</p>
 
-🔗 **Read more:** [https://www.lemonde.fr/en/international/article/2026/10/10/denmark-set-to-allow-the-return-of-physical-force-to-maintain-order-in-schools_6758443_4.html](https://www.lemonde.fr/en/international/article/2026/10/10/denmark-set-to-allow-the-return-of-physical-force-to-maintain-order-in-schools_6758443_4.html)
+🔗 **Read more:** [https://eg2.haku.sh/](https://eg2.haku.sh/)
 
 ---
 
-### 2. Threat of AI share crash puts world financial stability at risk, says IMF
+### 2. Character.ai Files for Bankruptcy
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks">https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50067356">https://news.ycombinator.com/item?id=50067356</a></p>
-<p>Points: 58</p>
-<p># Comments: 41</p>
+<p>Article URL: <a href="https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney">https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50069942">https://news.ycombinator.com/item?id=50069942</a></p>
+<p>Points: 12</p>
+<p># Comments: 6</p>
 
-🔗 **Read more:** [https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks](https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks)
+🔗 **Read more:** [https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney](https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney)
 
 ---
 
-### 3. A look at OpenAI’s math that’s claimed computes faster Fourier transforms
+### 3. 11 year old unsoundness bugs found in Rust borrow checker
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.argmin.net/p/faster-fourier-transforms">https://www.argmin.net/p/faster-fourier-transforms</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50065932">https://news.ycombinator.com/item?id=50065932</a></p>
-<p>Points: 99</p>
-<p># Comments: 67</p>
+<p>Article URL: <a href="https://github.com/rust-lang/rust/issues/164250">https://github.com/rust-lang/rust/issues/164250</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50069499">https://news.ycombinator.com/item?id=50069499</a></p>
+<p>Points: 149</p>
+<p># Comments: 49</p>
 
-🔗 **Read more:** [https://www.argmin.net/p/faster-fourier-transforms](https://www.argmin.net/p/faster-fourier-transforms)
+🔗 **Read more:** [https://github.com/rust-lang/rust/issues/164250](https://github.com/rust-lang/rust/issues/164250)
 
 ---
 
-### 4. UK growth forecast upgraded but energy prices and rates to hit in 2027
+### 4. UK growth forecast upgraded but higher energy prices to hit economy next year
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The prediction from the IMF comes as final preparations are being made to the first Budget under Prime Minister Andy Burham.
+The prediction from the IMF comes as final preparations are being made for the first Budget under Prime Minister Andy Burnham.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&at_campaign=rss)
 
@@ -84,55 +84,55 @@ For the first time since the UK left the EU, we have a prime minister who will "
 
 ---
 
-### 6. Hundreds more prisoners to be freed in second phase of early release scheme
+### 6. Russia's offensive ability is broken, Kyiv's former top general tells BBC
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Second tranche of prisoners will include those serving up to two and a half years for crimes.
+In his first interview since being forced from his post, Gen Syrskyi speaks about Ukraine's future in the war.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwzrdnrrmgymo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwzrdnrrmgymo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Emir says Qatar has shown resilience in face of ‘exceptional events’
+### 7. ‘My son was killed’ France faces backlash over proposed police firearms law
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Sheikh Tamim bin Hamad Al Thani says Qatar has demonstrated its strength and cohesion.
+As protests nationwide protests rage, activists warn proposed law could lead to more impunity.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/13/qatari-emir-says-country-has-faced-exceptional-circumstances?traffic_source=rss](https://www.aljazeera.com/news/2026/10/13/qatari-emir-says-country-has-faced-exceptional-circumstances?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/13/my-son-was-killed-france-faces-backlash-over-proposed-police-firearms-law?traffic_source=rss](https://www.aljazeera.com/news/2026/10/13/my-son-was-killed-france-faces-backlash-over-proposed-police-firearms-law?traffic_source=rss)
 
 ---
 
-### 8. Malaysia’s Firefly cancels flights to Singapore over haze from Indonesia
+### 8. Israel’s military raids NGO offices in Ramallah
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Move comes as haze from Indonesian fires makes Singapore and Kuala Lumpur the world’s most polluted cities.
+Al Jazeera’s Nida Ibrahim reports from Ramallah in the occupied West Bank where Israeli forces raided several NGOs.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/13/malaysias-firefly-cancels-flights-to-singapore-over-transboundary-haze?traffic_source=rss](https://www.aljazeera.com/news/2026/10/13/malaysias-firefly-cancels-flights-to-singapore-over-transboundary-haze?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/13/israels-military-raids-ngo-offices-in-ramallah?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/13/israels-military-raids-ngo-offices-in-ramallah?traffic_source=rss)
 
 ---
 
-### 9. Imran Khan’s PTI braces to fight federal takeover of Khyber Pakhtunkhwa
+### 9. A look at Qatar’s local, regional and global autism initiatives
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Islamabad says the PTI failed to lead the fight against armed groups, but analysts question the takeover.
+In 2025, the Qatar Foundation launched a 10-year autism strategy to provide lifelong support for individuals with autism
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/13/imran-khans-pti-braces-to-fight-federal-takeover-of-khyber-pakhtunkhwa?traffic_source=rss](https://www.aljazeera.com/news/2026/10/13/imran-khans-pti-braces-to-fight-federal-takeover-of-khyber-pakhtunkhwa?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/centre-stage/2026/10/13/a-look-at-the-countrys-local-regional-and-global-initiatives?traffic_source=rss](https://www.aljazeera.com/video/centre-stage/2026/10/13/a-look-at-the-countrys-local-regional-and-global-initiatives?traffic_source=rss)
 
 ---
 

@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-13T03:49:31+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Blood cells from 80-year-old donor become stem cells with molecular age under 20",
+            "description": "<p>Article URL: <a href=\"https://doi.org/10.1111/acel.70751\">https://doi.org/10.1111/acel.70751</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50064536\">https://news.ycombinator.com/item?id=50064536</a></p>\n<p>Points: 36</p>\n<p># Comments: 11</p>",
+            "url": "https://doi.org/10.1111/acel.70751",
+            "published": "Mon, 12 Oct 2026 23:34:22 +0000",
+            "fetched": "2026-10-13T03:49:31+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "A shared, verifiable fix database that AI agents read and write themselves",
+            "description": "<p>Article URL: <a href=\"https://cuddly-guide-4q6q54rg76653jvxj-8000.app.github.dev/llms.txt\">https://cuddly-guide-4q6q54rg76653jvxj-8000.app.github.dev/llms.txt</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50064444\">https://news.ycombinator.com/item?id=50064444</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://cuddly-guide-4q6q54rg76653jvxj-8000.app.github.dev/llms.txt",
+            "published": "Mon, 12 Oct 2026 23:22:00 +0000",
+            "fetched": "2026-10-13T03:49:31+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: An experimental pattern-first DAW that supports MCP",
+            "description": "<p>Article URL: <a href=\"https://github.com/andrewfader/blokkily\">https://github.com/andrewfader/blokkily</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50064438\">https://news.ycombinator.com/item?id=50064438</a></p>\n<p>Points: 3</p>\n<p># Comments: 1</p>",
+            "url": "https://github.com/andrewfader/blokkily",
+            "published": "Mon, 12 Oct 2026 23:21:12 +0000",
+            "fetched": "2026-10-13T03:49:31+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham to push for new post-Brexit deals at EU summit",
+            "description": "Conservative leader Kemi Badenoch said the prime minister was \"unpicking\" the deal the UK signed with the EU.",
+            "url": "https://www.bbc.co.uk/news/articles/cqev3xvejyvjo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 12 Oct 2026 17:38:15 GMT",
+            "fetched": "2026-10-13T03:49:31+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Government expands police support to political figures who are not MPs",
+            "description": "Shabana Mahmood says there is \"insufficient protection\" for those who play a role in public life.",
+            "url": "https://www.bbc.co.uk/news/articles/c3gr82rk70l8o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 12 Oct 2026 19:51:34 GMT",
+            "fetched": "2026-10-13T03:49:31+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "On Yemen's desert battlefield, a war with global consequences is being waged",
+            "description": "Yemen's entrenched civil war is now impossible to ignore. But in operating rooms in its port city of Aden, geopolitics feels remote.",
+            "url": "https://www.bbc.co.uk/news/articles/c5m2dn7zz4nyo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 12 Oct 2026 16:28:10 GMT",
+            "fetched": "2026-10-13T03:49:31+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran war live: Trump says Houthis ‘misbehaving’ as Riyadh flights halted",
+            "description": "US President Trump condemns Yemen&#039;s Houthis over escalating attacks, as Saudi Arabia halts flights at Riyadh airport.",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/10/13/iran-war-live-trump-says-houthis-misbehaving-as-riyadh-flights-halted?traffic_source=rss",
+            "published": "Tue, 13 Oct 2026 00:00:00 +0000",
+            "fetched": "2026-10-13T03:49:31+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Houthi missile attack targets Saudi capital Riyadh for third day in a row",
+            "description": "Saudi Arabia says it intercepted a ballistic missile fired towards Riyadh, as Houthis say they targeted the airport.",
+            "url": "https://www.aljazeera.com/news/2026/10/12/houthi-missile-attack-targets-saudi-capital-riyadh-for-third-day-in-a-row?traffic_source=rss",
+            "published": "Mon, 12 Oct 2026 23:54:05 +0000",
+            "fetched": "2026-10-13T03:49:31+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Two deaths reported as Hurricane Simon, storm Rachel batter Mexico’s coast",
+            "description": "Simon caps a Pacific season of record-breaking intensity, as deadly storms wreak havoc from Hawaii to Mexico.",
+            "url": "https://www.aljazeera.com/news/2026/10/12/two-deaths-reported-as-hurricane-simon-storm-rachel-batter-mexicos-coast?traffic_source=rss",
+            "published": "Mon, 12 Oct 2026 23:09:50 +0000",
+            "fetched": "2026-10-13T03:49:31+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Buckhorn 2, Cassia, Idaho",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25238",
+            "published": "2026-10-10T14:58:00Z",
+            "fetched": "2026-10-13T03:49:31+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire PK, Sheridan, Wyoming",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25233",
+            "published": "2026-10-09T19:26:00Z",
+            "fetched": "2026-10-13T03:49:31+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire CYRUS, Kern, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25232",
+            "published": "2026-10-09T17:15:00Z",
+            "fetched": "2026-10-13T03:49:31+03:30"
+        }
+    ]
+}

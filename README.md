@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-13 02:35:41
+**Last Update:** 2026-10-13 03:49:31
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Breaking Bad star RJ Mitte dies aged 34
+### 1. Blood cells from 80-year-old donor become stem cells with molecular age under 20
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://news.sky.com/story/breaking-bad-star-rj-mitte-dies-aged-34-13598332">https://news.sky.com/story/breaking-bad-star-rj-mitte-dies-aged-34-13598332</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50063831">https://news.ycombinator.com/item?id=50063831</a></p>
-<p>Points: 20</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://doi.org/10.1111/acel.70751">https://doi.org/10.1111/acel.70751</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50064536">https://news.ycombinator.com/item?id=50064536</a></p>
+<p>Points: 36</p>
+<p># Comments: 11</p>
 
-🔗 **Read more:** [https://news.sky.com/story/breaking-bad-star-rj-mitte-dies-aged-34-13598332](https://news.sky.com/story/breaking-bad-star-rj-mitte-dies-aged-34-13598332)
+🔗 **Read more:** [https://doi.org/10.1111/acel.70751](https://doi.org/10.1111/acel.70751)
 
 ---
 
-### 2. AI Is a Tool. Using It Well Takes Skill.
+### 2. A shared, verifiable fix database that AI agents read and write themselves
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://yyhh.org/blog/2026/10/ai-is-a-tool/">https://yyhh.org/blog/2026/10/ai-is-a-tool/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50063427">https://news.ycombinator.com/item?id=50063427</a></p>
-<p>Points: 115</p>
-<p># Comments: 101</p>
+<p>Article URL: <a href="https://cuddly-guide-4q6q54rg76653jvxj-8000.app.github.dev/llms.txt">https://cuddly-guide-4q6q54rg76653jvxj-8000.app.github.dev/llms.txt</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50064444">https://news.ycombinator.com/item?id=50064444</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://yyhh.org/blog/2026/10/ai-is-a-tool/](https://yyhh.org/blog/2026/10/ai-is-a-tool/)
+🔗 **Read more:** [https://cuddly-guide-4q6q54rg76653jvxj-8000.app.github.dev/llms.txt](https://cuddly-guide-4q6q54rg76653jvxj-8000.app.github.dev/llms.txt)
 
 ---
 
-### 3. Phreak.ing – Internet Phone Switch
+### 3. Show HN: An experimental pattern-first DAW that supports MCP
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://phreak.ing/">https://phreak.ing/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50063417">https://news.ycombinator.com/item?id=50063417</a></p>
-<p>Points: 26</p>
+<p>Article URL: <a href="https://github.com/andrewfader/blokkily">https://github.com/andrewfader/blokkily</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50064438">https://news.ycombinator.com/item?id=50064438</a></p>
+<p>Points: 3</p>
 <p># Comments: 1</p>
 
-🔗 **Read more:** [https://phreak.ing/](https://phreak.ing/)
+🔗 **Read more:** [https://github.com/andrewfader/blokkily](https://github.com/andrewfader/blokkily)
 
 ---
 
@@ -84,55 +84,55 @@ Shabana Mahmood says there is "insufficient protection" for those who play a rol
 
 ---
 
-### 6. Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says
+### 6. On Yemen's desert battlefield, a war with global consequences is being waged
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Despite the US president announcing energy infrastructure would not be targeted strikes have continued, Ukraine says.
+Yemen's entrenched civil war is now impossible to ignore. But in operating rooms in its port city of Aden, geopolitics feels remote.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5m2dn7zz4nyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5m2dn7zz4nyo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Poland says two Turks arrested over Russia-linked Starlink station fire
+### 7. Iran war live: Trump says Houthis ‘misbehaving’ as Riyadh flights halted
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Warsaw says the 2 suspects held in Germany will face sabotage charges.
+US President Trump condemns Yemen&#039;s Houthis over escalating attacks, as Saudi Arabia halts flights at Riyadh airport.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/12/poland-says-two-turks-arrested-over-russia-linked-starlink-station-fire?traffic_source=rss](https://www.aljazeera.com/news/2026/10/12/poland-says-two-turks-arrested-over-russia-linked-starlink-station-fire?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/10/13/iran-war-live-trump-says-houthis-misbehaving-as-riyadh-flights-halted?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/10/13/iran-war-live-trump-says-houthis-misbehaving-as-riyadh-flights-halted?traffic_source=rss)
 
 ---
 
-### 8. Why the Cornell gang rape case has raised concerns about fraternity culture
+### 8. Houthi missile attack targets Saudi capital Riyadh for third day in a row
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Experts say many fraternities offer a sense of community, but some rely on hazing and coercive tactics to build loyalty.
+Saudi Arabia says it intercepted a ballistic missile fired towards Riyadh, as Houthis say they targeted the airport.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/12/why-the-cornell-gang-rape-case-has-raised-concerns-about-fraternity-culture?traffic_source=rss](https://www.aljazeera.com/news/2026/10/12/why-the-cornell-gang-rape-case-has-raised-concerns-about-fraternity-culture?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/12/houthi-missile-attack-targets-saudi-capital-riyadh-for-third-day-in-a-row?traffic_source=rss](https://www.aljazeera.com/news/2026/10/12/houthi-missile-attack-targets-saudi-capital-riyadh-for-third-day-in-a-row?traffic_source=rss)
 
 ---
 
-### 9. Canada’s Carney calls for unity as Alberta prepares for secession vote
+### 9. Two deaths reported as Hurricane Simon, storm Rachel batter Mexico’s coast
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Prime Minister Mark Carney&#039;s Thanksgiving message comes a week ahead of Alberta&#039;s referendum to secede.
+Simon caps a Pacific season of record-breaking intensity, as deadly storms wreak havoc from Hawaii to Mexico.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/12/canadas-carney-calls-for-unity-as-alberta-prepares-for-secession-vote?traffic_source=rss](https://www.aljazeera.com/news/2026/10/12/canadas-carney-calls-for-unity-as-alberta-prepares-for-secession-vote?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/12/two-deaths-reported-as-hurricane-simon-storm-rachel-batter-mexicos-coast?traffic_source=rss](https://www.aljazeera.com/news/2026/10/12/two-deaths-reported-as-hurricane-simon-storm-rachel-batter-mexicos-coast?traffic_source=rss)
 
 ---
 

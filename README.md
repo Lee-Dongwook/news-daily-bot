@@ -1,61 +1,62 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-13 22:53:40
+**Last Update:** 2026-10-14 00:32:49
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Zero to Calc in Six Days: Inside XBOW's Chrome Full Chain
+### 1. OpenAI finds recording device in one of their offices
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://xbow.com/labs/research/zero-to-calc-in-six-days-inside-xbow-chrome-full-chain">https://xbow.com/labs/research/zero-to-calc-in-six-days-inside-xbow-chrome-full-chain</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50076503">https://news.ycombinator.com/item?id=50076503</a></p>
-<p>Points: 8</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://twitter.com/OpenAINewsroom/status/2110095403198849132">https://twitter.com/OpenAINewsroom/status/2110095403198849132</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50077703">https://news.ycombinator.com/item?id=50077703</a></p>
+<p>Points: 56</p>
+<p># Comments: 28</p>
 
-🔗 **Read more:** [https://xbow.com/labs/research/zero-to-calc-in-six-days-inside-xbow-chrome-full-chain](https://xbow.com/labs/research/zero-to-calc-in-six-days-inside-xbow-chrome-full-chain)
+🔗 **Read more:** [https://twitter.com/OpenAINewsroom/status/2110095403198849132](https://twitter.com/OpenAINewsroom/status/2110095403198849132)
 
 ---
 
-### 2. A plea not to use uv-build
+### 2. Show HN: Parsimony – an open-source benchmark for how much code AI models add
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/">https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50076048">https://news.ycombinator.com/item?id=50076048</a></p>
-<p>Points: 12</p>
-<p># Comments: 5</p>
-
-🔗 **Read more:** [https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/](https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/)
-
----
-
-### 3. Show HN: Deslop – Oxlint rules for AI-generated TypeScript
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Catches unsafe types, duplicate code, and low-value tests.</p>
+<p>Existing benchmarks measure solve rate and token output/cost, but don't punish excess code, which makes a codebase harder to work with in the long term. I wanted to measure this since it matters most for long-term projects.<p>Method: it takes the patches that benchmarks already publish (DeepSWE, SWE-bench Verified, SWE-bench Live) and counts "coding units": syntax elements like statements, calls, names and literals. I didn't use lines of code, so cramming code isn't rewarded. Deleted code is subtracted, so it measures net units.<p>GPT-6 and Claude 5.5 have no public patches yet, so I ran them myself on 3–10 tasks on my own subscriptions (shown as faded circles, not ranked).<p>Any feedback or model contributions are welcome, especially public patch exports for newer models.<p>GitHub: <a href="https://github.com/La5u/Parsimony" rel="nofollow">https://github.com/La5u/Parsimony</a><p>Not affiliated with any of the benchmarks.</p>
 <hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50075809">https://news.ycombinator.com/item?id=50075809</a></p>
-<p>Points: 4</p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50077619">https://news.ycombinator.com/item?id=50077619</a></p>
+<p>Points: 6</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://github.com/maharshi365/deslop](https://github.com/maharshi365/deslop)
+🔗 **Read more:** [https://parsimony.lasu.dev/](https://parsimony.lasu.dev/)
+
+---
+
+### 3. The Four Colour Theorem: The first time machines mogged mathematicians
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p><a href="https://celebratio.org/Appel_KI/article/796/#sender" rel="nofollow">https://celebratio.org/Appel_KI/article/796/#sender</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50077096">https://news.ycombinator.com/item?id=50077096</a></p>
+<p>Points: 9</p>
+<p># Comments: 6</p>
+
+🔗 **Read more:** [https://newsletter.pessimistsarchive.org/p/the-1st-time-machines-mogged-mathematicians](https://newsletter.pessimistsarchive.org/p/the-1st-time-machines-mogged-mathematicians)
 
 ---
 
@@ -72,68 +73,68 @@ Sir Ken McCallum says operations to tackle terrorism and state threats are now r
 
 ---
 
-### 5. Man killed in tiger attack identified as William Chapman
+### 5. Pope diagnosed with lung cancer but had successful surgery, Vatican says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-A health and safety investigation is under way at Yorkshire Wildlife Park following the incident.
+Pope Leo had successful surgery to remove a lower lobe of his right lung, the Vatican said.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Man killed in tiger attack identified as William Chapman
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Chapman, who was in his 20s, died after entering the tiger's enclosure at  Yorkshire Wildlife Park.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3ewegny45jvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3ewegny45jvo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Football regulator says he would quit over any political interference in Man City case
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The head of English football's independent regulator says he will resign if he encounters any political interference over Manchester City's future.
-
-🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/cjkge245n0gzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/cjkge245n0gzo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. EU watchdog urges smart glasses to clearly signal when recording
+### 7. Tupac Shakur killer sentenced to 40 years in prison
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Advisory comes amid growing concern about the devices being used to secretly record girls and women.
+Duane ‘Keffe D’ Davis was sentenced to 40 years to life in prison over the 1996 murder of rap icon Tupac Shakur.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/13/eu-watchdog-urges-smart-glasses-to-clearly-signal-when?traffic_source=rss](https://www.aljazeera.com/news/2026/10/13/eu-watchdog-urges-smart-glasses-to-clearly-signal-when?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/13/tupac-shakur-killer-sentenced-to-40-years-in-prison?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/13/tupac-shakur-killer-sentenced-to-40-years-in-prison?traffic_source=rss)
 
 ---
 
-### 8. Russia arrests Japanese reporter for alleged espionage
+### 8. Funeral for Egyptian flight attendant killed in Houthi attack on Riyadh
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Suspect was arrested on Russia&#039;s far-eastern Sakhalin Island before being transferred to Moscow, says Russia&#039;s FSB.
+Funeral for Egyptian flight attendant killed in Houthi attack on Riyadh
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/13/russia-arrests-japanese-reporter-for-alleged?traffic_source=rss](https://www.aljazeera.com/news/2026/10/13/russia-arrests-japanese-reporter-for-alleged?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/13/funeral-for-egyptian-flight-attendant-killed-in-houthi-attack-on-riyadh?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/13/funeral-for-egyptian-flight-attendant-killed-in-houthi-attack-on-riyadh?traffic_source=rss)
 
 ---
 
-### 9. Cornell suspends fraternity parties after alleged campus gang rape case
+### 9. How podcasts became political powerhouses
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Fraternities face immediate emergency suspensions for violations amid sweeping ban tackling parties at US university.
+Are podcasts remaking politics or just bypassing scrutiny?
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/13/cornell-suspends-fraternity-parties-after-alleged-campus-gang-rape-case?traffic_source=rss](https://www.aljazeera.com/news/2026/10/13/cornell-suspends-fraternity-parties-after-alleged-campus-gang-rape-case?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/lets-focus/2026/10/13/how-podcasts-became-political-powerhouses?traffic_source=rss](https://www.aljazeera.com/video/lets-focus/2026/10/13/how-podcasts-became-political-powerhouses?traffic_source=rss)
 
 ---
 

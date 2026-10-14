@@ -1,65 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-14 15:11:58
+**Last Update:** 2026-10-14 17:22:44
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. The road we were told not to take
+### 1. Details Leak from Meeting Where Weiss's 'Handpicked' Editor Threatened CBS Staff
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.aspendailynews.com/opinion/whiting-the-road-we-were-told-not-to-take-0b9fd0a3?taid=6acba476a2e9090001ef1611&amp;utm_campaign=trueanthem&amp;utm_medium=social&amp;utm_source=twitter">https://www.aspendailynews.com/opinion/whiting-the-road-we-were-told-not-to-take-0b9fd0a3?taid=6acba476a2e9090001ef1611&amp;utm_campaign=trueanthem&amp;utm_medium=social&amp;utm_source=twitter</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50085547">https://news.ycombinator.com/item?id=50085547</a></p>
-<p>Points: 7</p>
+<p>Article URL: <a href="https://www.mediaite.com/media/news/details-leak-from-explosive-meeting-where-bari-weisss-handpicked-editor-threatened-cbs-staff-legal-grounds-for-firing/">https://www.mediaite.com/media/news/details-leak-from-explosive-meeting-where-bari-weisss-handpicked-editor-threatened-cbs-staff-legal-grounds-for-firing/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50087336">https://news.ycombinator.com/item?id=50087336</a></p>
+<p>Points: 11</p>
 <p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.aspendailynews.com/opinion/whiting-the-road-we-were-told-not-to-take-0b9fd0a3?taid=6acba476a2e9090001ef1611&utm_campaign=trueanthem&utm_medium=social&utm_source=twitter](https://www.aspendailynews.com/opinion/whiting-the-road-we-were-told-not-to-take-0b9fd0a3?taid=6acba476a2e9090001ef1611&utm_campaign=trueanthem&utm_medium=social&utm_source=twitter)
+🔗 **Read more:** [https://www.mediaite.com/media/news/details-leak-from-explosive-meeting-where-bari-weisss-handpicked-editor-threatened-cbs-staff-legal-grounds-for-firing/](https://www.mediaite.com/media/news/details-leak-from-explosive-meeting-where-bari-weisss-handpicked-editor-threatened-cbs-staff-legal-grounds-for-firing/)
 
 ---
 
-### 2. Show HN: Building an LLM from Scratch in TypeScript
+### 2. Switzerland proposes banning profiling-based ads to minors
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>I wanted to understand transformers at a level where nothing is magic, so I'm building a ChatGPT-style model from first principles in TypeScript. Why not Python? I've found that reimplementing concepts in a different language forces me to grasp the nuance of the implementation. Chapters cover dataloaders, embeddings, and the attention mechanism so far. Feedback welcome if anything's unclear.</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50085332">https://news.ycombinator.com/item?id=50085332</a></p>
-<p>Points: 17</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.admin.ch/en/newnsb/NMn5s24l8NjQ">https://www.admin.ch/en/newnsb/NMn5s24l8NjQ</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50087328">https://news.ycombinator.com/item?id=50087328</a></p>
+<p>Points: 85</p>
+<p># Comments: 44</p>
 
-🔗 **Read more:** [https://book.humanexperiences.io/](https://book.humanexperiences.io/)
+🔗 **Read more:** [https://www.admin.ch/en/newnsb/NMn5s24l8NjQ](https://www.admin.ch/en/newnsb/NMn5s24l8NjQ)
 
 ---
 
-### 3. Pulsar at ESUG 2026 (new Smalltalk IDE)
+### 3. RIP Eric Binnion
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.lorenzano.eu/pulsar-at-esug-2026/">https://blog.lorenzano.eu/pulsar-at-esug-2026/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50085306">https://news.ycombinator.com/item?id=50085306</a></p>
-<p>Points: 10</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://ma.tt/2026/10/rip-eric/">https://ma.tt/2026/10/rip-eric/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50087044">https://news.ycombinator.com/item?id=50087044</a></p>
+<p>Points: 26</p>
+<p># Comments: 10</p>
 
-🔗 **Read more:** [https://blog.lorenzano.eu/pulsar-at-esug-2026/](https://blog.lorenzano.eu/pulsar-at-esug-2026/)
+🔗 **Read more:** [https://ma.tt/2026/10/rip-eric/](https://ma.tt/2026/10/rip-eric/)
 
 ---
 
-### 4. Starlink restrictions affecting Ukraine's front line operations, Kyiv says
+### 4. Russell Brand was a 'sexual predator', says prosecution as rape trial begins
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The actor and comedian has pleaded not guilty to three counts of rape, three counts of sexual assault and one of indecent assault.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3qjn45pepx1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3qjn45pepx1o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Starlink network restrictions in Ukraine related to political situation, Zelensky aide says
 
 **Source:** BBC
 
@@ -72,7 +84,7 @@ Elon Musk's system allows Kyiv to protect Ukrainian skies and effectively guide 
 
 ---
 
-### 5. Watch: What we know about Russia's overnight strikes on Ukraine
+### 6. Watch: Block of flats in ruins after Russian strikes on Ukraine
 
 **Source:** BBC
 
@@ -85,55 +97,42 @@ BBC Ukraine Correspondent Dan Johnson is in Kyiv, where at least three people we
 
 ---
 
-### 6. Family pays tribute to 'warm and engaging' man killed in tiger attack
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-William Chapman was attacked by the tiger after he entered its pen at Yorkshire Wildlife Park.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck054nvzr676o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck054nvzr676o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Iran steps up Hormuz surveillance: Attacks soar, oil flows crash again
+### 7. UK restaurateur claims losses after video calling for Gaza destruction
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ships in the Strait of Hormuz have been experiencing the worst spate of attacks since the start of the war.
+A UK restaurateur is claiming losses, weeks after posting a video appearing to urge Israel to destroy buildings in Gaza.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/14/iran-steps-up-hormuz-surveillance-attacks-soar-oil-flows-crash-again?traffic_source=rss](https://www.aljazeera.com/news/2026/10/14/iran-steps-up-hormuz-surveillance-attacks-soar-oil-flows-crash-again?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/14/uk-restaurateur-claims-losses-after-video-calling-for-gaza-destruction?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/14/uk-restaurateur-claims-losses-after-video-calling-for-gaza-destruction?traffic_source=rss)
 
 ---
 
-### 8. Trump plans for ‘massive’ resource exploration in Greenland
+### 8. How AI apps are offering free substitutes for Big Tech software
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US President Donald Trump announces a plan on Truth Social for oil, gas and mineral exploration in Greenland.
+AI-developed ArtCraft is challenging Adobe after disrupting legacy software&#039;s economic model.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/14/trump-plans-for-massive-resource-exploration-in-greenland?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/14/trump-plans-for-massive-resource-exploration-in-greenland?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/14/how-ai-apps-are-offering-free-substitutes-for-big-tech-software?traffic_source=rss](https://www.aljazeera.com/news/2026/10/14/how-ai-apps-are-offering-free-substitutes-for-big-tech-software?traffic_source=rss)
 
 ---
 
-### 9. Settlers set fire to mosque in West Bank as Israeli forces raid villages
+### 9. Russia arrests Japanese journalist on suspicion of ‘espionage’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Settlers also attacked a boy in a separate incident in the town of Beita, south of Nablus.
+A Japanese journalist has been detained in Russia on suspicion of spying for Japanese intelligence.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/14/settlers-set-fire-to-mosque-in-west-bank-as-israeli-forces-raid-villages?traffic_source=rss](https://www.aljazeera.com/news/2026/10/14/settlers-set-fire-to-mosque-in-west-bank-as-israeli-forces-raid-villages?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/14/russia-arrests-japanese-journalist-on-suspicion-of?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/14/russia-arrests-japanese-journalist-on-suspicion-of?traffic_source=rss)
 
 ---
 

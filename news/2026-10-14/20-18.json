@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-14T20:18:24+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Amsterdam police confisquates server left-wing ISP A/I at American request",
+            "description": "<p>Article URL: <a href=\"https://www.nrc.nl/nieuws/2026/10/14/politie-amsterdam-neemt-op-amerikaans-verzoek-server-in-beslag-van-italiaanse-internetdienstverlener-a-i-a4938960\">https://www.nrc.nl/nieuws/2026/10/14/politie-amsterdam-neemt-op-amerikaans-verzoek-server-in-beslag-van-italiaanse-internetdienstverlener-a-i-a4938960</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50090084\">https://news.ycombinator.com/item?id=50090084</a></p>\n<p>Points: 16</p>\n<p># Comments: 3</p>",
+            "url": "https://www.nrc.nl/nieuws/2026/10/14/politie-amsterdam-neemt-op-amerikaans-verzoek-server-in-beslag-van-italiaanse-internetdienstverlener-a-i-a4938960",
+            "published": "Wed, 14 Oct 2026 16:16:25 +0000",
+            "fetched": "2026-10-14T20:18:24+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Submarine Cable Resilience",
+            "description": "<p>Article URL: <a href=\"https://blog.apnic.net/2026/10/14/submarine-cable-resilience/\">https://blog.apnic.net/2026/10/14/submarine-cable-resilience/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50089229\">https://news.ycombinator.com/item?id=50089229</a></p>\n<p>Points: 16</p>\n<p># Comments: 1</p>",
+            "url": "https://blog.apnic.net/2026/10/14/submarine-cable-resilience/",
+            "published": "Wed, 14 Oct 2026 15:31:15 +0000",
+            "fetched": "2026-10-14T20:18:24+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Passkeys Are Not a Trap",
+            "description": "<p>Article URL: <a href=\"https://scotthelme.co.uk/passkeys-are-not-a-trap/\">https://scotthelme.co.uk/passkeys-are-not-a-trap/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50088935\">https://news.ycombinator.com/item?id=50088935</a></p>\n<p>Points: 225</p>\n<p># Comments: 326</p>",
+            "url": "https://scotthelme.co.uk/passkeys-are-not-a-trap/",
+            "published": "Wed, 14 Oct 2026 15:15:45 +0000",
+            "fetched": "2026-10-14T20:18:24+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Russell Brand was a 'sexual predator', prosecution alleges as rape trial begins",
+            "description": "The actor and comedian has pleaded not guilty to three counts of rape, three counts of sexual assault and one of indecent assault.",
+            "url": "https://www.bbc.co.uk/news/articles/c3qjn45pepx1o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 14 Oct 2026 16:22:28 GMT",
+            "fetched": "2026-10-14T20:18:24+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Starlink restrictions in Ukraine war linked to political situation, Zelensky aide says",
+            "description": "Elon Musk's system allows Kyiv to protect Ukrainian skies and effectively guide drones to Russian targets.",
+            "url": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 14 Oct 2026 13:11:17 GMT",
+            "fetched": "2026-10-14T20:18:24+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham treads carefully in Zelensky visit, balancing Trump and Ukraine",
+            "description": "The UK's prime minister meets with Volodymyr Zelensky after a rocky week for the Ukraine president.",
+            "url": "https://www.bbc.co.uk/news/articles/cmx23q4dwvneo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 14 Oct 2026 14:30:48 GMT",
+            "fetched": "2026-10-14T20:18:24+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Fire erupts at Albania’s Education Ministry as protests enter third day",
+            "description": "At least 16 additional protesters have been arrested after clashing with riot police.",
+            "url": "https://www.aljazeera.com/news/2026/10/14/fire-erupts-at-albanias-education-ministry-as-protests-enter-third-day?traffic_source=rss",
+            "published": "Wed, 14 Oct 2026 16:23:20 +0000",
+            "fetched": "2026-10-14T20:18:24+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "At least two security officials killed near Iran’s critical Chabahar port",
+            "description": "Iran says &#039;terrorist groups&#039; supported from outside the country are targeting security forces.",
+            "url": "https://www.aljazeera.com/news/2026/10/14/at-least-two-security-officials-killed-near-irans-critical-chabahar-port?traffic_source=rss",
+            "published": "Wed, 14 Oct 2026 16:22:04 +0000",
+            "fetched": "2026-10-14T20:18:24+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US Social Security benefits to rise by 3.6 percent in 2027",
+            "description": "Retired Americans will see a $75 boost in monthly cheques as benefits rise amid widespread inflation challenges.",
+            "url": "https://www.aljazeera.com/news/2026/10/14/us-social-security-benefits-to-rise-by-3-6-percent-in-2027?traffic_source=rss",
+            "published": "Wed, 14 Oct 2026 16:10:39 +0000",
+            "fetched": "2026-10-14T20:18:24+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Trudy",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25290",
+            "published": "2026-10-13T18:00:00Z",
+            "fetched": "2026-10-14T20:18:24+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Buckhorn 2, Cassia, Idaho",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25238",
+            "published": "2026-10-10T14:58:00Z",
+            "fetched": "2026-10-14T20:18:24+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire PK, Sheridan, Wyoming",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25233",
+            "published": "2026-10-09T19:26:00Z",
+            "fetched": "2026-10-14T20:18:24+03:30"
+        }
+    ]
+}

@@ -1,64 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-14 17:22:44
+**Last Update:** 2026-10-14 20:18:24
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Details Leak from Meeting Where Weiss's 'Handpicked' Editor Threatened CBS Staff
+### 1. Amsterdam police confisquates server left-wing ISP A/I at American request
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.mediaite.com/media/news/details-leak-from-explosive-meeting-where-bari-weisss-handpicked-editor-threatened-cbs-staff-legal-grounds-for-firing/">https://www.mediaite.com/media/news/details-leak-from-explosive-meeting-where-bari-weisss-handpicked-editor-threatened-cbs-staff-legal-grounds-for-firing/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50087336">https://news.ycombinator.com/item?id=50087336</a></p>
-<p>Points: 11</p>
+<p>Article URL: <a href="https://www.nrc.nl/nieuws/2026/10/14/politie-amsterdam-neemt-op-amerikaans-verzoek-server-in-beslag-van-italiaanse-internetdienstverlener-a-i-a4938960">https://www.nrc.nl/nieuws/2026/10/14/politie-amsterdam-neemt-op-amerikaans-verzoek-server-in-beslag-van-italiaanse-internetdienstverlener-a-i-a4938960</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50090084">https://news.ycombinator.com/item?id=50090084</a></p>
+<p>Points: 16</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://www.nrc.nl/nieuws/2026/10/14/politie-amsterdam-neemt-op-amerikaans-verzoek-server-in-beslag-van-italiaanse-internetdienstverlener-a-i-a4938960](https://www.nrc.nl/nieuws/2026/10/14/politie-amsterdam-neemt-op-amerikaans-verzoek-server-in-beslag-van-italiaanse-internetdienstverlener-a-i-a4938960)
+
+---
+
+### 2. Submarine Cable Resilience
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://blog.apnic.net/2026/10/14/submarine-cable-resilience/">https://blog.apnic.net/2026/10/14/submarine-cable-resilience/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50089229">https://news.ycombinator.com/item?id=50089229</a></p>
+<p>Points: 16</p>
 <p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.mediaite.com/media/news/details-leak-from-explosive-meeting-where-bari-weisss-handpicked-editor-threatened-cbs-staff-legal-grounds-for-firing/](https://www.mediaite.com/media/news/details-leak-from-explosive-meeting-where-bari-weisss-handpicked-editor-threatened-cbs-staff-legal-grounds-for-firing/)
+🔗 **Read more:** [https://blog.apnic.net/2026/10/14/submarine-cable-resilience/](https://blog.apnic.net/2026/10/14/submarine-cable-resilience/)
 
 ---
 
-### 2. Switzerland proposes banning profiling-based ads to minors
+### 3. Passkeys Are Not a Trap
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.admin.ch/en/newnsb/NMn5s24l8NjQ">https://www.admin.ch/en/newnsb/NMn5s24l8NjQ</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50087328">https://news.ycombinator.com/item?id=50087328</a></p>
-<p>Points: 85</p>
-<p># Comments: 44</p>
+<p>Article URL: <a href="https://scotthelme.co.uk/passkeys-are-not-a-trap/">https://scotthelme.co.uk/passkeys-are-not-a-trap/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50088935">https://news.ycombinator.com/item?id=50088935</a></p>
+<p>Points: 225</p>
+<p># Comments: 326</p>
 
-🔗 **Read more:** [https://www.admin.ch/en/newnsb/NMn5s24l8NjQ](https://www.admin.ch/en/newnsb/NMn5s24l8NjQ)
-
----
-
-### 3. RIP Eric Binnion
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://ma.tt/2026/10/rip-eric/">https://ma.tt/2026/10/rip-eric/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50087044">https://news.ycombinator.com/item?id=50087044</a></p>
-<p>Points: 26</p>
-<p># Comments: 10</p>
-
-🔗 **Read more:** [https://ma.tt/2026/10/rip-eric/](https://ma.tt/2026/10/rip-eric/)
+🔗 **Read more:** [https://scotthelme.co.uk/passkeys-are-not-a-trap/](https://scotthelme.co.uk/passkeys-are-not-a-trap/)
 
 ---
 
-### 4. Russell Brand was a 'sexual predator', says prosecution as rape trial begins
+### 4. Russell Brand was a 'sexual predator', prosecution alleges as rape trial begins
 
 **Source:** BBC
 
@@ -71,7 +71,7 @@ The actor and comedian has pleaded not guilty to three counts of rape, three cou
 
 ---
 
-### 5. Starlink network restrictions in Ukraine related to political situation, Zelensky aide says
+### 5. Starlink restrictions in Ukraine war linked to political situation, Zelensky aide says
 
 **Source:** BBC
 
@@ -84,59 +84,72 @@ Elon Musk's system allows Kyiv to protect Ukrainian skies and effectively guide 
 
 ---
 
-### 6. Watch: Block of flats in ruins after Russian strikes on Ukraine
+### 6. Burnham treads carefully in Zelensky visit, balancing Trump and Ukraine
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-BBC Ukraine Correspondent Dan Johnson is in Kyiv, where at least three people were killed in overnight strikes.
+The UK's prime minister meets with Volodymyr Zelensky after a rocky week for the Ukraine president.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cmx280x092x7o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cmx280x092x7o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmx23q4dwvneo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmx23q4dwvneo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. UK restaurateur claims losses after video calling for Gaza destruction
+### 7. Fire erupts at Albania’s Education Ministry as protests enter third day
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A UK restaurateur is claiming losses, weeks after posting a video appearing to urge Israel to destroy buildings in Gaza.
+At least 16 additional protesters have been arrested after clashing with riot police.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/14/uk-restaurateur-claims-losses-after-video-calling-for-gaza-destruction?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/14/uk-restaurateur-claims-losses-after-video-calling-for-gaza-destruction?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/14/fire-erupts-at-albanias-education-ministry-as-protests-enter-third-day?traffic_source=rss](https://www.aljazeera.com/news/2026/10/14/fire-erupts-at-albanias-education-ministry-as-protests-enter-third-day?traffic_source=rss)
 
 ---
 
-### 8. How AI apps are offering free substitutes for Big Tech software
+### 8. At least two security officials killed near Iran’s critical Chabahar port
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-AI-developed ArtCraft is challenging Adobe after disrupting legacy software&#039;s economic model.
+Iran says &#039;terrorist groups&#039; supported from outside the country are targeting security forces.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/14/how-ai-apps-are-offering-free-substitutes-for-big-tech-software?traffic_source=rss](https://www.aljazeera.com/news/2026/10/14/how-ai-apps-are-offering-free-substitutes-for-big-tech-software?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/14/at-least-two-security-officials-killed-near-irans-critical-chabahar-port?traffic_source=rss](https://www.aljazeera.com/news/2026/10/14/at-least-two-security-officials-killed-near-irans-critical-chabahar-port?traffic_source=rss)
 
 ---
 
-### 9. Russia arrests Japanese journalist on suspicion of ‘espionage’
+### 9. US Social Security benefits to rise by 3.6 percent in 2027
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A Japanese journalist has been detained in Russia on suspicion of spying for Japanese intelligence.
+Retired Americans will see a $75 boost in monthly cheques as benefits rise amid widespread inflation challenges.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/14/russia-arrests-japanese-journalist-on-suspicion-of?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/14/russia-arrests-japanese-journalist-on-suspicion-of?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/14/us-social-security-benefits-to-rise-by-3-6-percent-in-2027?traffic_source=rss](https://www.aljazeera.com/news/2026/10/14/us-social-security-benefits-to-rise-by-3-6-percent-in-2027?traffic_source=rss)
 
 ---
 
-### 10. Wildfire Buckhorn 2, Cassia, Idaho
+### 10. Tropical Storm Trudy
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25290](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25290)
+
+---
+
+### 11. Wildfire Buckhorn 2, Cassia, Idaho
 
 **Source:** NASA
 
@@ -149,7 +162,7 @@ Natural event: Wildfires
 
 ---
 
-### 11. Wildfire PK, Sheridan, Wyoming
+### 12. Wildfire PK, Sheridan, Wyoming
 
 **Source:** NASA
 
@@ -159,19 +172,6 @@ Natural event: Wildfires
 Natural event: Wildfires
 
 🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25233](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25233)
-
----
-
-### 12. Wildfire CYRUS, Kern, California
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25232](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25232)
 
 ---
 

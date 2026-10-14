@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-15T00:00:37+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Casey Newton and John Gruber Slink Back to X",
+            "description": "<p>Article URL: <a href=\"https://karlbode.com/casey-newton-and-john-gruber-slink-back-to-elon-musks-right-wing-propaganda-machine/\">https://karlbode.com/casey-newton-and-john-gruber-slink-back-to-elon-musks-right-wing-propaganda-machine/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50093913\">https://news.ycombinator.com/item?id=50093913</a></p>\n<p>Points: 15</p>\n<p># Comments: 0</p>",
+            "url": "https://karlbode.com/casey-newton-and-john-gruber-slink-back-to-elon-musks-right-wing-propaganda-machine/",
+            "published": "Wed, 14 Oct 2026 19:44:02 +0000",
+            "fetched": "2026-10-15T00:00:37+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Fancy Curl Sites",
+            "description": "<p>Article URL: <a href=\"https://nytpu.com/gemlog/2026-03-18\">https://nytpu.com/gemlog/2026-03-18</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50093612\">https://news.ycombinator.com/item?id=50093612</a></p>\n<p>Points: 9</p>\n<p># Comments: 3</p>",
+            "url": "https://nytpu.com/gemlog/2026-03-18",
+            "published": "Wed, 14 Oct 2026 19:29:12 +0000",
+            "fetched": "2026-10-15T00:00:37+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Things to know if you get cancer in 2026",
+            "description": "<p>Article URL: <a href=\"https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/\">https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50093568\">https://news.ycombinator.com/item?id=50093568</a></p>\n<p>Points: 17</p>\n<p># Comments: 0</p>",
+            "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
+            "published": "Wed, 14 Oct 2026 19:26:30 +0000",
+            "fetched": "2026-10-15T00:00:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Musk says any limits on Ukraine's Starlink access down to US, not his firm",
+            "description": "Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield \"missions\".",
+            "url": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 14 Oct 2026 20:17:09 GMT",
+            "fetched": "2026-10-15T00:00:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "We are behind you and that will not change, PM tells Zelensky",
+            "description": "The Ukrainian president visited London in an effort to bolster support among European allies following a row with Donald Trump.",
+            "url": "https://www.bbc.co.uk/news/articles/cm0rl1gkz97do?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 14 Oct 2026 19:22:28 GMT",
+            "fetched": "2026-10-15T00:00:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Russell Brand was a 'sexual predator', prosecution alleges as rape trial begins",
+            "description": "The actor and comedian has pleaded not guilty to three counts of rape, three counts of sexual assault and one of indecent assault.",
+            "url": "https://www.bbc.co.uk/news/articles/c3qjn45pepx1o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 14 Oct 2026 17:55:53 GMT",
+            "fetched": "2026-10-15T00:00:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "How will a new alliance affect the conflict in eastern DRC?",
+            "description": "Former President Joseph Kabila has joined forces with M23 fighters.",
+            "url": "https://www.aljazeera.com/video/inside-story/2026/10/14/how-will-a-new-alliance-affect-the-conflict-in-eastern-drc?traffic_source=rss",
+            "published": "Wed, 14 Oct 2026 19:54:16 +0000",
+            "fetched": "2026-10-15T00:00:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US lifts sanctions on Venezuela’s top legislator",
+            "description": "Jorge Rodriguez has been removed from OFAC&#039;s sanctions list in latest US push for oil control and bilateral diplomacy.",
+            "url": "https://www.aljazeera.com/news/2026/10/14/us-lifts-sanctions-on-venezuelas-top-legislator?traffic_source=rss",
+            "published": "Wed, 14 Oct 2026 19:53:03 +0000",
+            "fetched": "2026-10-15T00:00:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Sally Rooney’s books pulled from UK over Palestine Action support",
+            "description": "Award-winning author Sally Rooney’s books are being withdrawn from the UK over her support for Palestine Action",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/sally-rooneys-books-pulled-from-uk-over-palestine-action-support?traffic_source=rss",
+            "published": "Wed, 14 Oct 2026 19:23:27 +0000",
+            "fetched": "2026-10-15T00:00:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Trudy",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25290",
+            "published": "2026-10-13T18:00:00Z",
+            "fetched": "2026-10-15T00:00:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Buckhorn 2, Cassia, Idaho",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25238",
+            "published": "2026-10-10T14:58:00Z",
+            "fetched": "2026-10-15T00:00:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire PK, Sheridan, Wyoming",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25233",
+            "published": "2026-10-09T19:26:00Z",
+            "fetched": "2026-10-15T00:00:37+03:30"
+        }
+    ]
+}

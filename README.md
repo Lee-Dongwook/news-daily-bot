@@ -1,64 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-14 20:18:24
+**Last Update:** 2026-10-14 22:14:57
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Amsterdam police confisquates server left-wing ISP A/I at American request
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.nrc.nl/nieuws/2026/10/14/politie-amsterdam-neemt-op-amerikaans-verzoek-server-in-beslag-van-italiaanse-internetdienstverlener-a-i-a4938960">https://www.nrc.nl/nieuws/2026/10/14/politie-amsterdam-neemt-op-amerikaans-verzoek-server-in-beslag-van-italiaanse-internetdienstverlener-a-i-a4938960</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50090084">https://news.ycombinator.com/item?id=50090084</a></p>
-<p>Points: 16</p>
-<p># Comments: 3</p>
-
-🔗 **Read more:** [https://www.nrc.nl/nieuws/2026/10/14/politie-amsterdam-neemt-op-amerikaans-verzoek-server-in-beslag-van-italiaanse-internetdienstverlener-a-i-a4938960](https://www.nrc.nl/nieuws/2026/10/14/politie-amsterdam-neemt-op-amerikaans-verzoek-server-in-beslag-van-italiaanse-internetdienstverlener-a-i-a4938960)
-
----
-
-### 2. Submarine Cable Resilience
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://blog.apnic.net/2026/10/14/submarine-cable-resilience/">https://blog.apnic.net/2026/10/14/submarine-cable-resilience/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50089229">https://news.ycombinator.com/item?id=50089229</a></p>
-<p>Points: 16</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://blog.apnic.net/2026/10/14/submarine-cable-resilience/](https://blog.apnic.net/2026/10/14/submarine-cable-resilience/)
-
----
-
-### 3. Passkeys Are Not a Trap
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://scotthelme.co.uk/passkeys-are-not-a-trap/">https://scotthelme.co.uk/passkeys-are-not-a-trap/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50088935">https://news.ycombinator.com/item?id=50088935</a></p>
-<p>Points: 225</p>
-<p># Comments: 326</p>
-
-🔗 **Read more:** [https://scotthelme.co.uk/passkeys-are-not-a-trap/](https://scotthelme.co.uk/passkeys-are-not-a-trap/)
-
----
-
-### 4. Russell Brand was a 'sexual predator', prosecution alleges as rape trial begins
+### 1. Russell Brand was a 'sexual predator', prosecution alleges as rape trial begins
 
 **Source:** BBC
 
@@ -71,7 +23,7 @@ The actor and comedian has pleaded not guilty to three counts of rape, three cou
 
 ---
 
-### 5. Starlink restrictions in Ukraine war linked to political situation, Zelensky aide says
+### 2. Starlink restrictions in Ukraine war linked to political situation, Zelensky aide says
 
 **Source:** BBC
 
@@ -84,59 +36,59 @@ Elon Musk's system allows Kyiv to protect Ukrainian skies and effectively guide 
 
 ---
 
-### 6. Burnham treads carefully in Zelensky visit, balancing Trump and Ukraine
+### 3. We are behind you and that will not change, PM tells Zelensky
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The UK's prime minister meets with Volodymyr Zelensky after a rocky week for the Ukraine president.
+The Ukrainian president visited London in an effort to bolster support among European allies following a row with Donald Trump.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmx23q4dwvneo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmx23q4dwvneo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm0rl1gkz97do?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm0rl1gkz97do?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Fire erupts at Albania’s Education Ministry as protests enter third day
+### 4. Real Madrid’s Vinicius banned for Clasico after hair-pull red card
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-At least 16 additional protesters have been arrested after clashing with riot police.
+Vinicius will miss El Clasico on October 25 in his four-match ban for pulling Saliba&#039;s hair in La Liga.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/14/fire-erupts-at-albanias-education-ministry-as-protests-enter-third-day?traffic_source=rss](https://www.aljazeera.com/news/2026/10/14/fire-erupts-at-albanias-education-ministry-as-protests-enter-third-day?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/14/real-madrids-vinicius-banned-for-clasico-after-hair-pull-red-card?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/14/real-madrids-vinicius-banned-for-clasico-after-hair-pull-red-card?traffic_source=rss)
 
 ---
 
-### 8. At least two security officials killed near Iran’s critical Chabahar port
+### 5. How six Ukrainian divers could have blown up Russia’s $20bn pipelines
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Iran says &#039;terrorist groups&#039; supported from outside the country are targeting security forces.
+A Ukrainian military officer is on trial in Germany over an act of sabotage that remained unsolved for years.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/14/at-least-two-security-officials-killed-near-irans-critical-chabahar-port?traffic_source=rss](https://www.aljazeera.com/news/2026/10/14/at-least-two-security-officials-killed-near-irans-critical-chabahar-port?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/2026/10/14/aje-onl-pp-nord-stream-141125?traffic_source=rss](https://www.aljazeera.com/video/2026/10/14/aje-onl-pp-nord-stream-141125?traffic_source=rss)
 
 ---
 
-### 9. US Social Security benefits to rise by 3.6 percent in 2027
+### 6. Ex-UK army chef jailed for ‘terror’-related offence
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Retired Americans will see a $75 boost in monthly cheques as benefits rise amid widespread inflation challenges.
+The former British Army member harboured &#039;extreme right-wing&#039; views and was ordering explosives components, say police.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/14/us-social-security-benefits-to-rise-by-3-6-percent-in-2027?traffic_source=rss](https://www.aljazeera.com/news/2026/10/14/us-social-security-benefits-to-rise-by-3-6-percent-in-2027?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/14/ex-uk-army-chef-jailed-for-terror-related-offence?traffic_source=rss](https://www.aljazeera.com/news/2026/10/14/ex-uk-army-chef-jailed-for-terror-related-offence?traffic_source=rss)
 
 ---
 
-### 10. Tropical Storm Trudy
+### 7. Tropical Storm Trudy
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Severe Storms
 
 ---
 
-### 11. Wildfire Buckhorn 2, Cassia, Idaho
+### 8. Wildfire Buckhorn 2, Cassia, Idaho
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Wildfire PK, Sheridan, Wyoming
+### 9. Wildfire PK, Sheridan, Wyoming
 
 **Source:** NASA
 

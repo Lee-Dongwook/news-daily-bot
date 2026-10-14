@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-14T15:11:58+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The road we were told not to take",
+            "description": "<p>Article URL: <a href=\"https://www.aspendailynews.com/opinion/whiting-the-road-we-were-told-not-to-take-0b9fd0a3?taid=6acba476a2e9090001ef1611&amp;utm_campaign=trueanthem&amp;utm_medium=social&amp;utm_source=twitter\">https://www.aspendailynews.com/opinion/whiting-the-road-we-were-told-not-to-take-0b9fd0a3?taid=6acba476a2e9090001ef1611&amp;utm_campaign=trueanthem&amp;utm_medium=social&amp;utm_source=twitter</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50085547\">https://news.ycombinator.com/item?id=50085547</a></p>\n<p>Points: 7</p>\n<p># Comments: 1</p>",
+            "url": "https://www.aspendailynews.com/opinion/whiting-the-road-we-were-told-not-to-take-0b9fd0a3?taid=6acba476a2e9090001ef1611&utm_campaign=trueanthem&utm_medium=social&utm_source=twitter",
+            "published": "Wed, 14 Oct 2026 10:50:45 +0000",
+            "fetched": "2026-10-14T15:11:58+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Building an LLM from Scratch in TypeScript",
+            "description": "<p>I wanted to understand transformers at a level where nothing is magic, so I'm building a ChatGPT-style model from first principles in TypeScript. Why not Python? I've found that reimplementing concepts in a different language forces me to grasp the nuance of the implementation. Chapters cover dataloaders, embeddings, and the attention mechanism so far. Feedback welcome if anything's unclear.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50085332\">https://news.ycombinator.com/item?id=50085332</a></p>\n<p>Points: 17</p>\n<p># Comments: 0</p>",
+            "url": "https://book.humanexperiences.io/",
+            "published": "Wed, 14 Oct 2026 10:29:56 +0000",
+            "fetched": "2026-10-14T15:11:58+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Pulsar at ESUG 2026 (new Smalltalk IDE)",
+            "description": "<p>Article URL: <a href=\"https://blog.lorenzano.eu/pulsar-at-esug-2026/\">https://blog.lorenzano.eu/pulsar-at-esug-2026/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50085306\">https://news.ycombinator.com/item?id=50085306</a></p>\n<p>Points: 10</p>\n<p># Comments: 0</p>",
+            "url": "https://blog.lorenzano.eu/pulsar-at-esug-2026/",
+            "published": "Wed, 14 Oct 2026 10:26:53 +0000",
+            "fetched": "2026-10-14T15:11:58+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Starlink restrictions affecting Ukraine's front line operations, Kyiv says",
+            "description": "Elon Musk's system allows Kyiv to protect Ukrainian skies and effectively guide drones to Russian targets.",
+            "url": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 14 Oct 2026 11:32:07 GMT",
+            "fetched": "2026-10-14T15:11:58+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: What we know about Russia's overnight strikes on Ukraine",
+            "description": "BBC Ukraine Correspondent Dan Johnson is in Kyiv, where at least three people were killed in overnight strikes.",
+            "url": "https://www.bbc.co.uk/news/videos/cmx280x092x7o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 14 Oct 2026 09:25:03 GMT",
+            "fetched": "2026-10-14T15:11:58+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Family pays tribute to 'warm and engaging' man killed in tiger attack",
+            "description": "William Chapman was attacked by the tiger after he entered its pen at Yorkshire Wildlife Park.",
+            "url": "https://www.bbc.co.uk/news/articles/ck054nvzr676o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 14 Oct 2026 08:44:04 GMT",
+            "fetched": "2026-10-14T15:11:58+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran steps up Hormuz surveillance: Attacks soar, oil flows crash again",
+            "description": "Ships in the Strait of Hormuz have been experiencing the worst spate of attacks since the start of the war.",
+            "url": "https://www.aljazeera.com/news/2026/10/14/iran-steps-up-hormuz-surveillance-attacks-soar-oil-flows-crash-again?traffic_source=rss",
+            "published": "Wed, 14 Oct 2026 11:16:21 +0000",
+            "fetched": "2026-10-14T15:11:58+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump plans for ‘massive’ resource exploration in Greenland",
+            "description": "US President Donald Trump announces a plan on Truth Social for oil, gas and mineral exploration in Greenland.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/trump-plans-for-massive-resource-exploration-in-greenland?traffic_source=rss",
+            "published": "Wed, 14 Oct 2026 11:05:07 +0000",
+            "fetched": "2026-10-14T15:11:58+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Settlers set fire to mosque in West Bank as Israeli forces raid villages",
+            "description": "Settlers also attacked a boy in a separate incident in the town of Beita, south of Nablus.",
+            "url": "https://www.aljazeera.com/news/2026/10/14/settlers-set-fire-to-mosque-in-west-bank-as-israeli-forces-raid-villages?traffic_source=rss",
+            "published": "Wed, 14 Oct 2026 10:57:35 +0000",
+            "fetched": "2026-10-14T15:11:58+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Buckhorn 2, Cassia, Idaho",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25238",
+            "published": "2026-10-10T14:58:00Z",
+            "fetched": "2026-10-14T15:11:58+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire PK, Sheridan, Wyoming",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25233",
+            "published": "2026-10-09T19:26:00Z",
+            "fetched": "2026-10-14T15:11:58+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire CYRUS, Kern, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25232",
+            "published": "2026-10-09T17:15:00Z",
+            "fetched": "2026-10-14T15:11:58+03:30"
+        }
+    ]
+}

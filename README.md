@@ -1,64 +1,91 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-14 11:19:27
+**Last Update:** 2026-10-14 15:11:58
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs
+### 1. The road we were told not to take
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/android/ndk/issues/2260">https://github.com/android/ndk/issues/2260</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50083130">https://news.ycombinator.com/item?id=50083130</a></p>
-<p>Points: 138</p>
-<p># Comments: 39</p>
+<p>Article URL: <a href="https://www.aspendailynews.com/opinion/whiting-the-road-we-were-told-not-to-take-0b9fd0a3?taid=6acba476a2e9090001ef1611&amp;utm_campaign=trueanthem&amp;utm_medium=social&amp;utm_source=twitter">https://www.aspendailynews.com/opinion/whiting-the-road-we-were-told-not-to-take-0b9fd0a3?taid=6acba476a2e9090001ef1611&amp;utm_campaign=trueanthem&amp;utm_medium=social&amp;utm_source=twitter</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50085547">https://news.ycombinator.com/item?id=50085547</a></p>
+<p>Points: 7</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://github.com/android/ndk/issues/2260](https://github.com/android/ndk/issues/2260)
+🔗 **Read more:** [https://www.aspendailynews.com/opinion/whiting-the-road-we-were-told-not-to-take-0b9fd0a3?taid=6acba476a2e9090001ef1611&utm_campaign=trueanthem&utm_medium=social&utm_source=twitter](https://www.aspendailynews.com/opinion/whiting-the-road-we-were-told-not-to-take-0b9fd0a3?taid=6acba476a2e9090001ef1611&utm_campaign=trueanthem&utm_medium=social&utm_source=twitter)
 
 ---
 
-### 2. Felix Rieseberg Homepage
+### 2. Show HN: Building an LLM from Scratch in TypeScript
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://felixrieseberg.com/">https://felixrieseberg.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50082470">https://news.ycombinator.com/item?id=50082470</a></p>
-<p>Points: 157</p>
-<p># Comments: 53</p>
+<p>I wanted to understand transformers at a level where nothing is magic, so I'm building a ChatGPT-style model from first principles in TypeScript. Why not Python? I've found that reimplementing concepts in a different language forces me to grasp the nuance of the implementation. Chapters cover dataloaders, embeddings, and the attention mechanism so far. Feedback welcome if anything's unclear.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50085332">https://news.ycombinator.com/item?id=50085332</a></p>
+<p>Points: 17</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://felixrieseberg.com/](https://felixrieseberg.com/)
+🔗 **Read more:** [https://book.humanexperiences.io/](https://book.humanexperiences.io/)
 
 ---
 
-### 3. I built a tool to track what AI leaders say and how their views change on video
+### 3. Pulsar at ESUG 2026 (new Smalltalk IDE)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blumify.io/people">https://blumify.io/people</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50081151">https://news.ycombinator.com/item?id=50081151</a></p>
-<p>Points: 86</p>
-<p># Comments: 53</p>
+<p>Article URL: <a href="https://blog.lorenzano.eu/pulsar-at-esug-2026/">https://blog.lorenzano.eu/pulsar-at-esug-2026/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50085306">https://news.ycombinator.com/item?id=50085306</a></p>
+<p>Points: 10</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://blumify.io/people](https://blumify.io/people)
+🔗 **Read more:** [https://blog.lorenzano.eu/pulsar-at-esug-2026/](https://blog.lorenzano.eu/pulsar-at-esug-2026/)
 
 ---
 
-### 4. Family pays tribute to 'warm and engaging' man killed in tiger attack
+### 4. Starlink restrictions affecting Ukraine's front line operations, Kyiv says
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Elon Musk's system allows Kyiv to protect Ukrainian skies and effectively guide drones to Russian targets.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Watch: What we know about Russia's overnight strikes on Ukraine
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+BBC Ukraine Correspondent Dan Johnson is in Kyiv, where at least three people were killed in overnight strikes.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cmx280x092x7o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cmx280x092x7o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Family pays tribute to 'warm and engaging' man killed in tiger attack
 
 **Source:** BBC
 
@@ -71,68 +98,42 @@ William Chapman was attacked by the tiger after he entered its pen at Yorkshire 
 
 ---
 
-### 5. One stolen every four minutes - inside the police battle against vehicle thieves
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Officers tell the BBC they are overstretched and struggling to keep up with sophisticated criminals.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqpvgyz30zepo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqpvgyz30zepo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Watch: BBC joins police on front line against car theft
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Investigations reporter NJ Convery has been out on a nighttime hunt for vehicle thieves.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cw4g195p3g23o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cw4g195p3g23o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Palestinians say Israel’s democracy ‘is a joke’
+### 7. Iran steps up Hormuz surveillance: Attacks soar, oil flows crash again
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-As Israelis prepare to vote, Palestinians in the occupied West Bank say they have little hope of change.
+Ships in the Strait of Hormuz have been experiencing the worst spate of attacks since the start of the war.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/14/palestinians-say-israels-democracy-is-a?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/14/palestinians-say-israels-democracy-is-a?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/14/iran-steps-up-hormuz-surveillance-attacks-soar-oil-flows-crash-again?traffic_source=rss](https://www.aljazeera.com/news/2026/10/14/iran-steps-up-hormuz-surveillance-attacks-soar-oil-flows-crash-again?traffic_source=rss)
 
 ---
 
-### 8. How Israel’s ‘Yellow Line’ is reshaping southern Lebanon
+### 8. Trump plans for ‘massive’ resource exploration in Greenland
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Demolished homes, shifting military lines, stalled withdrawals leave Lebanese uncertain if they can return.
+US President Donald Trump announces a plan on Truth Social for oil, gas and mineral exploration in Greenland.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/14/how-israels-yellow-line-is-reshaping-southern-lebanon?traffic_source=rss](https://www.aljazeera.com/news/2026/10/14/how-israels-yellow-line-is-reshaping-southern-lebanon?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/14/trump-plans-for-massive-resource-exploration-in-greenland?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/14/trump-plans-for-massive-resource-exploration-in-greenland?traffic_source=rss)
 
 ---
 
-### 9. Yamal magic helps Barcelona beat Galatasaray in Champions League
+### 9. Settlers set fire to mosque in West Bank as Israeli forces raid villages
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Yamal provided two assists and &#039;turned the game around&#039; for Barcelona, who won 4-1 in Istanbul.
+Settlers also attacked a boy in a separate incident in the town of Beita, south of Nablus.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/14/yamal-magic-helps-barcelona-beat-galatasaray-in-champions-league?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/14/yamal-magic-helps-barcelona-beat-galatasaray-in-champions-league?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/14/settlers-set-fire-to-mosque-in-west-bank-as-israeli-forces-raid-villages?traffic_source=rss](https://www.aljazeera.com/news/2026/10/14/settlers-set-fire-to-mosque-in-west-bank-as-israeli-forces-raid-villages?traffic_source=rss)
 
 ---
 

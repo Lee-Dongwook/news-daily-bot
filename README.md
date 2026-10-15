@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-15 17:37:39
+**Last Update:** 2026-10-15 20:42:10
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. GridSnap – an open-source Divvy-style window snapper for macOS
+### 1. Show HN: Sygal – Convert PDFs, scans and web pages to Markdown, locally
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/konieczkow/gridsnap">https://github.com/konieczkow/gridsnap</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50103263">https://news.ycombinator.com/item?id=50103263</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://github.com/konieczkow/gridsnap](https://github.com/konieczkow/gridsnap)
-
----
-
-### 2. C++26 Contracts: Introduction to Preconditions and Postconditions
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.cppstories.com/2026/cpp26_contracts/">https://www.cppstories.com/2026/cpp26_contracts/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50103164">https://news.ycombinator.com/item?id=50103164</a></p>
+<p>Article URL: <a href="https://sygal.app">https://sygal.app</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50106054">https://news.ycombinator.com/item?id=50106054</a></p>
 <p>Points: 8</p>
-<p># Comments: 0</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.cppstories.com/2026/cpp26_contracts/](https://www.cppstories.com/2026/cpp26_contracts/)
+🔗 **Read more:** [https://sygal.app](https://sygal.app)
 
 ---
 
-### 3. Israeli firm's digital ads enabling installation of 'zero-click' spyware
+### 2. Market selloff, rising rates test AI data centre deal boom
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say">https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50103000">https://news.ycombinator.com/item?id=50103000</a></p>
-<p>Points: 128</p>
-<p># Comments: 34</p>
+<p>Article URL: <a href="https://www.reuters.com/business/finance/market-selloff-rising-rates-test-ai-data-centre-deal-boom-2026-10-15/">https://www.reuters.com/business/finance/market-selloff-rising-rates-test-ai-data-centre-deal-boom-2026-10-15/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50105900">https://news.ycombinator.com/item?id=50105900</a></p>
+<p>Points: 24</p>
+<p># Comments: 14</p>
 
-🔗 **Read more:** [https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say](https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say)
+🔗 **Read more:** [https://www.reuters.com/business/finance/market-selloff-rising-rates-test-ai-data-centre-deal-boom-2026-10-15/](https://www.reuters.com/business/finance/market-selloff-rising-rates-test-ai-data-centre-deal-boom-2026-10-15/)
+
+---
+
+### 3. The technical actions needed to ensure the continuity of UTC
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.bipm.org/en/cgpm-2026/resolution-5">https://www.bipm.org/en/cgpm-2026/resolution-5</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50105777">https://news.ycombinator.com/item?id=50105777</a></p>
+<p>Points: 21</p>
+<p># Comments: 7</p>
+
+🔗 **Read more:** [https://www.bipm.org/en/cgpm-2026/resolution-5](https://www.bipm.org/en/cgpm-2026/resolution-5)
 
 ---
 
@@ -71,72 +71,85 @@ Jeffrey Donaldson was convicted of 18 counts of sex abuse, including one of rape
 
 ---
 
-### 5. Man killed by tiger climbed two fences before suffering multiple injuries, inquest hears
+### 5. Trump calls off livestream of Fort Hood attacker's execution by firing squad
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-William Chapman climbed two fences to enter a tiger's pen at Yorkshire Wildlife Park, an inquest hears.
+Trump said some would "rather not watch" the killing of Nidal Hasan, the first military execution in over 60 years.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cxr5y83v1eldo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cxr5y83v1eldo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Russell Brand accuser says alleged rape left her afraid she may be pregnant
+### 6. Trans people should use hospital spaces according to biological sex, NHS England says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The 51-year-old faces three counts of rape, three charges of sexual assault and one of indecent assault.
+New guidance says trans patients should be cared for on single-sex hospital wards or bays that align with their biological sex.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwy7ldzl7j4po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwy7ldzl7j4po?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cry83dyddv6no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cry83dyddv6no?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. The Rebel Tours: Money or morals?
+### 7. Houthis target Yemen’s presidential palace in Aden with missiles
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Some West Indies cricketers toured apartheid South Africa in the 1980&#039;s, breaking one of the biggest sporting boycotts.
+Saudi-led coalition accuses Houthis of obtaining missile parts from regional states.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/game-theory/2026/10/15/aje-onl-gm_rebel_v8-151026?traffic_source=rss](https://www.aljazeera.com/video/game-theory/2026/10/15/aje-onl-gm_rebel_v8-151026?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/15/houthis-target-yemens-presidential-palace-in-aden-with-missiles?traffic_source=rss](https://www.aljazeera.com/news/2026/10/15/houthis-target-yemens-presidential-palace-in-aden-with-missiles?traffic_source=rss)
 
 ---
 
-### 8. Al Jazeera probe exposes fake viewing numbers for Israeli counter-film
+### 8. Albania’s PM dismisses calls to resign as student protests spread
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Data investigation casts doubt on claims that Israeli counter-documentary to &#039;NAZA&#039; received 40 million views.
+Prime Minister Edi Rama condemns &#039;chaos&#039; as protests continue for third day in the capital and spread to other cities.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/15/al-jazeera-probe-exposes-fake-viewing-numbers-for-israeli-counter-film?traffic_source=rss](https://www.aljazeera.com/news/2026/10/15/al-jazeera-probe-exposes-fake-viewing-numbers-for-israeli-counter-film?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/15/albanias-pm-dismisses-calls-to-resign-as-student-protests-spread?traffic_source=rss](https://www.aljazeera.com/news/2026/10/15/albanias-pm-dismisses-calls-to-resign-as-student-protests-spread?traffic_source=rss)
 
 ---
 
-### 9. What is Starshield, and who limited Ukraine’s access to it?
+### 9. UK Green member behind anti-Zionism motion ‘receives death threats’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ukraine relies on Starshield, the military-grade version of Elon Musk&#039;s Starlink satellite service, to fight Russia.
+Lubna Speitan, who has Palestinian roots, believes messages and emails are part of an effort to intimidate her.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/15/what-is-starshield-and-who-limited-ukraines-access-to-it?traffic_source=rss](https://www.aljazeera.com/news/2026/10/15/what-is-starshield-and-who-limited-ukraines-access-to-it?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/15/uk-green-member-behind-anti-zionism-motion-receives-death-threats?traffic_source=rss](https://www.aljazeera.com/news/2026/10/15/uk-green-member-behind-anti-zionism-motion-receives-death-threats?traffic_source=rss)
 
 ---
 
-### 10. Hurricane Trudy
+### 10. Prescribed Fire Newman Piles RX, Coconino, Arizona
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25310](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25310)
+
+---
+
+### 11. Hurricane Trudy
 
 **Source:** NASA
 
@@ -149,7 +162,7 @@ Natural event: Severe Storms
 
 ---
 
-### 11. Wildfire Buckhorn 2, Cassia, Idaho
+### 12. Prescribed Fire Jane 102 RX, Harney, Oregon
 
 **Source:** NASA
 
@@ -158,20 +171,7 @@ Natural event: Severe Storms
 **Description:**
 Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25238](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25238)
-
----
-
-### 12. Wildfire PK, Sheridan, Wyoming
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25233](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25233)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25311](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25311)
 
 ---
 

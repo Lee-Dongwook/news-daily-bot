@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-15T07:20:37+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Future of Cancer Care Today (FCCT)",
+            "description": "<p>Article URL: <a href=\"https://sijbrandijfoundation.org/fcct\">https://sijbrandijfoundation.org/fcct</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50098702\">https://news.ycombinator.com/item?id=50098702</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://sijbrandijfoundation.org/fcct",
+            "published": "Thu, 15 Oct 2026 03:18:49 +0000",
+            "fetched": "2026-10-15T07:20:37+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Double Headed Stack Allocator",
+            "description": "<p>Article URL: <a href=\"https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/\">https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50098274\">https://news.ycombinator.com/item?id=50098274</a></p>\n<p>Points: 24</p>\n<p># Comments: 1</p>",
+            "url": "https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/",
+            "published": "Thu, 15 Oct 2026 02:06:36 +0000",
+            "fetched": "2026-10-15T07:20:37+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
+            "description": "<p>Article URL: <a href=\"https://www.liquid.ai/blog/lfm2-5-24b-a2b\">https://www.liquid.ai/blog/lfm2-5-24b-a2b</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50097369\">https://news.ycombinator.com/item?id=50097369</a></p>\n<p>Points: 103</p>\n<p># Comments: 26</p>",
+            "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
+            "published": "Wed, 14 Oct 2026 23:59:37 +0000",
+            "fetched": "2026-10-15T07:20:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Musk says US government may be behind slowdown of Ukraine drone speeds",
+            "description": "Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield \"missions\".",
+            "url": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 14 Oct 2026 20:55:24 GMT",
+            "fetched": "2026-10-15T07:20:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Why Zelensky's meeting with Burnham matters",
+            "description": "Prime Minister Andy Burnham welcomed President Zelensky to Downing Street on Wednesday, as Ukraine's leader looks to shore up his European allies five years into Russia's war on Ukraine.",
+            "url": "https://www.bbc.co.uk/news/videos/c65yngxdzdd5o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 14 Oct 2026 20:41:03 GMT",
+            "fetched": "2026-10-15T07:20:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Sally Rooney books withdrawn in UK over Palestine Action support",
+            "description": "The Irish writer is best known for novels such as Normal People, Intermezzo and Conversations With Friends.",
+            "url": "https://www.bbc.co.uk/news/articles/cmx23q4g307vo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 14 Oct 2026 16:56:21 GMT",
+            "fetched": "2026-10-15T07:20:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Teenager dies as heavy rain floods Istanbul",
+            "description": "Roads collapse and hospitals take in water as floods swamp Turkiye&#039;s largest city, shutting schools and halting traffic.",
+            "url": "https://www.aljazeera.com/news/2026/10/15/teenager-dies-as-heavy-rain-floods-istanbul?traffic_source=rss",
+            "published": "Thu, 15 Oct 2026 03:12:02 +0000",
+            "fetched": "2026-10-15T07:20:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump administration seeks to strip Ilhan Omar of US citizenship: WSJ",
+            "description": "Investigators have subpoenaed relatives and examined immigration records, the newspaper reports.",
+            "url": "https://www.aljazeera.com/news/2026/10/15/trump-administration-seeks-to-strip-ilhan-omar-of-us-citizenship-wsj?traffic_source=rss",
+            "published": "Thu, 15 Oct 2026 03:03:00 +0000",
+            "fetched": "2026-10-15T07:20:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump plays Muslim Brotherhood card against Senate candidate El-Sayed",
+            "description": "President Donald Trump says Michigan Senate candidate Abdul El-Sayed is a member of the Muslim Brotherhood.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/14-10-clip-trump-attacks-el-sayed-mb-us?traffic_source=rss",
+            "published": "Thu, 15 Oct 2026 02:54:31 +0000",
+            "fetched": "2026-10-15T07:20:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Trudy",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25290",
+            "published": "2026-10-13T18:00:00Z",
+            "fetched": "2026-10-15T07:20:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Buckhorn 2, Cassia, Idaho",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25238",
+            "published": "2026-10-10T14:58:00Z",
+            "fetched": "2026-10-15T07:20:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire PK, Sheridan, Wyoming",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25233",
+            "published": "2026-10-09T19:26:00Z",
+            "fetched": "2026-10-15T07:20:37+03:30"
+        }
+    ]
+}

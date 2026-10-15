@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-16 01:36:43
+**Last Update:** 2026-10-16 02:37:55
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/">https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50109715">https://news.ycombinator.com/item?id=50109715</a></p>
-<p>Points: 64</p>
-<p># Comments: 31</p>
+<p>Points: 148</p>
+<p># Comments: 72</p>
 
 🔗 **Read more:** [https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/](https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts">https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50109375">https://news.ycombinator.com/item?id=50109375</a></p>
-<p>Points: 89</p>
-<p># Comments: 70</p>
+<p>Points: 115</p>
+<p># Comments: 99</p>
 
 🔗 **Read more:** [https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts](https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts)
 
@@ -51,21 +51,21 @@
 **Description:**
 <p>Article URL: <a href="https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup">https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50108872">https://news.ycombinator.com/item?id=50108872</a></p>
-<p>Points: 100</p>
-<p># Comments: 48</p>
+<p>Points: 148</p>
+<p># Comments: 61</p>
 
 🔗 **Read more:** [https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup](https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup)
 
 ---
 
-### 4. Bus hits train stopped on French side of  Channel Tunnel, with 19 injured
+### 4. Bus hits train stopped on French side of Channel Tunnel, with 19 injured
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Two people were severely injured and evacuated by helicopter but no one's life appeared to be in danger, officials said.
+Two people were airlifted to hospital but no-one's life appeared to be in danger, officials said.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss)
 
@@ -97,7 +97,20 @@ New guidance says trans patients should be cared for on single-sex hospital ward
 
 ---
 
-### 7. Man United’s Martinez apologises for outburst after talks with Carrick
+### 7. Israel halts commercial goods from entering Gaza; Hamas denies tax claims
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The halt to commercial shipments, including fruit and winter clothing, cuts off a key source of critical supplies.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/15/israel-halts-commercial-goods-from-entering-gaza-hamas-denies-tax-claims?traffic_source=rss](https://www.aljazeera.com/news/2026/10/15/israel-halts-commercial-goods-from-entering-gaza-hamas-denies-tax-claims?traffic_source=rss)
+
+---
+
+### 8. Man United’s Martinez apologises for outburst after talks with Carrick
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Lisandro Martinez meets Manchester United manager Michael Carrick before apologi
 
 ---
 
-### 8. Trump administration sues California over noncitizens on voter rolls
+### 9. Trump administration sues California over noncitizens on voter rolls
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Lisandro Martinez meets Manchester United manager Michael Carrick before apologi
 Lawsuit comes weeks before midterm elections and follows debunked claims of noncitizens voting in various states.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/15/trump-administration-sues-california-over-noncitizens-on-voter-rolls?traffic_source=rss](https://www.aljazeera.com/news/2026/10/15/trump-administration-sues-california-over-noncitizens-on-voter-rolls?traffic_source=rss)
-
----
-
-### 9. Several people dead or missing after Istanbul floods
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Three people have died and several are reported missing after torrential rain triggered severe flooding across Istanbul
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/15/several-people-dead-or-missing-after-istanbul-floods?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/15/several-people-dead-or-missing-after-istanbul-floods?traffic_source=rss)
 
 ---
 

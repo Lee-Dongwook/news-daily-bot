@@ -1,94 +1,143 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-15 12:29:51
+**Last Update:** 2026-10-15 15:16:56
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Ukraine to restart strikes on Russian oil refineries, Zelensky says
+### 1. Aidlc: Adaptive workflow steering rules for AI coding agents
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/awslabs/aidlc-workflows">https://github.com/awslabs/aidlc-workflows</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50100387">https://news.ycombinator.com/item?id=50100387</a></p>
+<p>Points: 11</p>
+<p># Comments: 12</p>
+
+🔗 **Read more:** [https://github.com/awslabs/aidlc-workflows](https://github.com/awslabs/aidlc-workflows)
+
+---
+
+### 2. Show HN: Flipflop, Iroh-powered persistent tunnels for filesharing
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>This is a project that spun from my frustrations of using LocalSend and DashBeam to transfer stuff between devices, and with the extra goal of being fast, trying out the Slint framework and, most importantly, establishing a communication channel with trusted external people that can be left always on.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50099136">https://news.ycombinator.com/item?id=50099136</a></p>
+<p>Points: 46</p>
+<p># Comments: 14</p>
+
+🔗 **Read more:** [https://github.com/andunieee/flipflop](https://github.com/andunieee/flipflop)
+
+---
+
+### 3. The Double Headed Stack Allocator
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/">https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50098274">https://news.ycombinator.com/item?id=50098274</a></p>
+<p>Points: 69</p>
+<p># Comments: 24</p>
+
+🔗 **Read more:** [https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/](https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/)
+
+---
+
+### 4. Man killed by tiger climbed two fences before suffering multiple injuries, inquest hears
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Ukraine's president says a pause is over after fresh Russian attacks and US attempts to pressure Kyiv, while suggesting a Starlink slowdown is deliberate.
+William Chapman climbed two fences to enter a tiger's pen at Yorkshire Wildlife Park, an inquest hears.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cxr5y83v1eldo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cxr5y83v1eldo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Ukraine to restart strikes on Russian oil refineries, Zelensky says
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Russia reports a Ukrainian strike on an oil refinery on Thursday, after Ukraine's president says a pause is over following fresh Russian attacks.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 2. UK threatens to ban Eritreans over migrant return policy
+### 6. Why Starlink internet is so important on the battlefield in Ukraine
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The home secretary said she would not hesitate to impose measures on other countries "refusing to co-operate".
+It is the "backbone of military communications in Ukraine" that provides vital high-speed internet to forces across the country.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c30rl1q1j200o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c30rl1q1j200o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 3. UK economy sees surprise growth in August ahead of Healey's first Budget
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The uptick helped the economy grow by 0.7% over the three months to August, official figures show.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck8dz1me439no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck8dz1me439no?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. Man United’s Martinez takes to social media to defend his criticism of club
+### 7. Syrian authorities arrest main suspect in 2013 Baniyas mass killings
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Argentina defender Lisandro Martinez follows up criticism of his club with social media explanation of frustration.
+Ali Kayali, also known as Mihrac Ural, was apprehended as he tried to cross the border, state media reported.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/15/man-uniteds-martinez-takes-to-social-media-to-defend-his-criticism-of-club?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/15/man-uniteds-martinez-takes-to-social-media-to-defend-his-criticism-of-club?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/15/syrian-authorities-arrest-main-suspect-in-2013-baniyas-mass-killings?traffic_source=rss](https://www.aljazeera.com/news/2026/10/15/syrian-authorities-arrest-main-suspect-in-2013-baniyas-mass-killings?traffic_source=rss)
 
 ---
 
-### 5. Messi’s Inter Miami beat New York City to reach third straight MLS playoff
+### 8. Fighting in Yemen intensifies: What’s the latest on the battlefield?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Messi assist sets Inter Miami on way to 2-0 win against New York City FC as back-to-back wins guarantee playoff place.
+Houthis attempt to raise the cost of the Yemen war for Saudi Arabia as attacks, fighting intensify.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/15/messi-and-inter-miami-beat-new-york-city-to-reach-third-straight-playoff?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/15/messi-and-inter-miami-beat-new-york-city-to-reach-third-straight-playoff?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/15/fighting-in-yemen-intensifies-whats-the-latest-on-the-battlefield?traffic_source=rss](https://www.aljazeera.com/news/2026/10/15/fighting-in-yemen-intensifies-whats-the-latest-on-the-battlefield?traffic_source=rss)
 
 ---
 
-### 6. Containers and debris captured floating around the Strait of Hormuz
+### 9. FIFA set for rule change after Balogun red card row at the World Cup: reports
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Video shows containers and debris scattered around the Strait of Hormuz due to the recent attacks on vessels.
+The governing body&#039;s council is expected to prohibit disciplinary committees from overturning match suspensions.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/15/containers-and-debris-captured-floating-around-the-strait-of-hormuz?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/15/containers-and-debris-captured-floating-around-the-strait-of-hormuz?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/15/fifa-set-for-rule-change-after-balogun-red-card-row-at-the-world-cup-reports?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/15/fifa-set-for-rule-change-after-balogun-red-card-row-at-the-world-cup-reports?traffic_source=rss)
 
 ---
 
-### 7. Tropical Storm Trudy
+### 10. Tropical Storm Trudy
 
 **Source:** NASA
 
@@ -101,7 +150,7 @@ Natural event: Severe Storms
 
 ---
 
-### 8. Wildfire Buckhorn 2, Cassia, Idaho
+### 11. Wildfire Buckhorn 2, Cassia, Idaho
 
 **Source:** NASA
 
@@ -114,7 +163,7 @@ Natural event: Wildfires
 
 ---
 
-### 9. Wildfire PK, Sheridan, Wyoming
+### 12. Wildfire PK, Sheridan, Wyoming
 
 **Source:** NASA
 

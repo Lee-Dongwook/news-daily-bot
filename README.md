@@ -1,32 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-15 23:55:21
+**Last Update:** 2026-10-16 01:36:43
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. 2026 State of the Climate Report Shows a Planet Reaching Its Limits
+### 1. What I Self-Host
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://eos.org/research-and-developments/2026-state-of-the-climate-report-shows-a-planet-reaching-its-limits">https://eos.org/research-and-developments/2026-state-of-the-climate-report-shows-a-planet-reaching-its-limits</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50109409">https://news.ycombinator.com/item?id=50109409</a></p>
-<p>Points: 15</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/">https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50109715">https://news.ycombinator.com/item?id=50109715</a></p>
+<p>Points: 64</p>
+<p># Comments: 31</p>
 
-🔗 **Read more:** [https://eos.org/research-and-developments/2026-state-of-the-climate-report-shows-a-planet-reaching-its-limits](https://eos.org/research-and-developments/2026-state-of-the-climate-report-shows-a-planet-reaching-its-limits)
+🔗 **Read more:** [https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/](https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/)
 
 ---
 
-### 2. Someone on Torrent Sites Kept Fucking with My Sonarr
+### 2. New Withings Users Must Pay $99/Year for Apple Health Syncing
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts">https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50109375">https://news.ycombinator.com/item?id=50109375</a></p>
+<p>Points: 89</p>
+<p># Comments: 70</p>
+
+🔗 **Read more:** [https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts](https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts)
+
+---
+
+### 3. Someone on Torrent Sites Kept Fucking with My Sonarr
 
 **Source:** Hacker News
 
@@ -35,39 +51,23 @@
 **Description:**
 <p>Article URL: <a href="https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup">https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50108872">https://news.ycombinator.com/item?id=50108872</a></p>
-<p>Points: 48</p>
-<p># Comments: 19</p>
+<p>Points: 100</p>
+<p># Comments: 48</p>
 
 🔗 **Read more:** [https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup](https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup)
 
 ---
 
-### 3. E Ink Launches Latest Version of Color EPaper Platform, E Ink Kaleido 4
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4">https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50108229">https://news.ycombinator.com/item?id=50108229</a></p>
-<p>Points: 52</p>
-<p># Comments: 17</p>
-
-🔗 **Read more:** [https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4](https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4)
-
----
-
-### 4. Former DUP leader Donaldson sentenced to 15 years in prison for child sex abuse
+### 4. Bus hits train stopped on French side of  Channel Tunnel, with 19 injured
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Jeffrey Donaldson was convicted of 18 counts of sex abuse, including one of rape, which he committed against two women when they were children.
+Two people were severely injured and evacuated by helicopter but no one's life appeared to be in danger, officials said.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwdr8grnykrlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwdr8grnykrlo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +97,42 @@ New guidance says trans patients should be cared for on single-sex hospital ward
 
 ---
 
-### 7. Poll shows Bolsonaro with slight lead over Lula ahead of Brazilian run-off
+### 7. Man United’s Martinez apologises for outburst after talks with Carrick
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Poll shows right-wing candidate with two percent advantage over Lula going into second round of voting on October 25.
+Lisandro Martinez meets Manchester United manager Michael Carrick before apologising for his criticism of the club.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/15/poll-shows-bolsonaro-with-slight-lead-over-lula-ahead-of-brazilian-run-off?traffic_source=rss](https://www.aljazeera.com/news/2026/10/15/poll-shows-bolsonaro-with-slight-lead-over-lula-ahead-of-brazilian-run-off?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/15/martinez-apologises-for-man-united-outburst-after-carrick-talks?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/15/martinez-apologises-for-man-united-outburst-after-carrick-talks?traffic_source=rss)
 
 ---
 
-### 8. Somalia says it will hold elections in 2027
+### 8. Trump administration sues California over noncitizens on voter rolls
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Critics say unilateral decision to call polls is a recipe for more conflict.
+Lawsuit comes weeks before midterm elections and follows debunked claims of noncitizens voting in various states.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/15/somalia-says-it-will-hold-elections-in-2027?traffic_source=rss](https://www.aljazeera.com/news/2026/10/15/somalia-says-it-will-hold-elections-in-2027?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/15/trump-administration-sues-california-over-noncitizens-on-voter-rolls?traffic_source=rss](https://www.aljazeera.com/news/2026/10/15/trump-administration-sues-california-over-noncitizens-on-voter-rolls?traffic_source=rss)
 
 ---
 
-### 9. Will Israeli voters punish Benjamin Netanyahu?
+### 9. Several people dead or missing after Istanbul floods
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Netanyahu is reported to have received warnings before October 7, 2023, but failed to act on time.
+Three people have died and several are reported missing after torrential rain triggered severe flooding across Istanbul
 
-🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/10/15/will-israeli-voters-punish-benjamin-netanyahu?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/10/15/will-israeli-voters-punish-benjamin-netanyahu?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/15/several-people-dead-or-missing-after-istanbul-floods?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/15/several-people-dead-or-missing-after-istanbul-floods?traffic_source=rss)
 
 ---
 

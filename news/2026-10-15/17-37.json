@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-15T17:37:39+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "GridSnap – an open-source Divvy-style window snapper for macOS",
+            "description": "<p>Article URL: <a href=\"https://github.com/konieczkow/gridsnap\">https://github.com/konieczkow/gridsnap</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50103263\">https://news.ycombinator.com/item?id=50103263</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://github.com/konieczkow/gridsnap",
+            "published": "Thu, 15 Oct 2026 13:19:07 +0000",
+            "fetched": "2026-10-15T17:37:39+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "C++26 Contracts: Introduction to Preconditions and Postconditions",
+            "description": "<p>Article URL: <a href=\"https://www.cppstories.com/2026/cpp26_contracts/\">https://www.cppstories.com/2026/cpp26_contracts/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50103164\">https://news.ycombinator.com/item?id=50103164</a></p>\n<p>Points: 8</p>\n<p># Comments: 0</p>",
+            "url": "https://www.cppstories.com/2026/cpp26_contracts/",
+            "published": "Thu, 15 Oct 2026 13:11:26 +0000",
+            "fetched": "2026-10-15T17:37:39+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Israeli firm's digital ads enabling installation of 'zero-click' spyware",
+            "description": "<p>Article URL: <a href=\"https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say\">https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50103000\">https://news.ycombinator.com/item?id=50103000</a></p>\n<p>Points: 128</p>\n<p># Comments: 34</p>",
+            "url": "https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say",
+            "published": "Thu, 15 Oct 2026 12:58:32 +0000",
+            "fetched": "2026-10-15T17:37:39+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Former DUP leader Donaldson sentenced to 15 years in prison for child sex abuse",
+            "description": "Jeffrey Donaldson was convicted of 18 counts of sex abuse, including one of rape, which he committed against two women when they were children.",
+            "url": "https://www.bbc.co.uk/news/articles/cwdr8grnykrlo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 15 Oct 2026 13:13:26 GMT",
+            "fetched": "2026-10-15T17:37:39+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Man killed by tiger climbed two fences before suffering multiple injuries, inquest hears",
+            "description": "William Chapman climbed two fences to enter a tiger's pen at Yorkshire Wildlife Park, an inquest hears.",
+            "url": "https://www.bbc.co.uk/news/articles/cxr5y83v1eldo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 15 Oct 2026 12:45:22 GMT",
+            "fetched": "2026-10-15T17:37:39+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Russell Brand accuser says alleged rape left her afraid she may be pregnant",
+            "description": "The 51-year-old faces three counts of rape, three charges of sexual assault and one of indecent assault.",
+            "url": "https://www.bbc.co.uk/news/articles/cwy7ldzl7j4po?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 15 Oct 2026 13:32:56 GMT",
+            "fetched": "2026-10-15T17:37:39+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "The Rebel Tours: Money or morals?",
+            "description": "Some West Indies cricketers toured apartheid South Africa in the 1980&#039;s, breaking one of the biggest sporting boycotts.",
+            "url": "https://www.aljazeera.com/video/game-theory/2026/10/15/aje-onl-gm_rebel_v8-151026?traffic_source=rss",
+            "published": "Thu, 15 Oct 2026 13:48:17 +0000",
+            "fetched": "2026-10-15T17:37:39+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Al Jazeera probe exposes fake viewing numbers for Israeli counter-film",
+            "description": "Data investigation casts doubt on claims that Israeli counter-documentary to &#039;NAZA&#039; received 40 million views.",
+            "url": "https://www.aljazeera.com/news/2026/10/15/al-jazeera-probe-exposes-fake-viewing-numbers-for-israeli-counter-film?traffic_source=rss",
+            "published": "Thu, 15 Oct 2026 13:35:46 +0000",
+            "fetched": "2026-10-15T17:37:39+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "What is Starshield, and who limited Ukraine’s access to it?",
+            "description": "Ukraine relies on Starshield, the military-grade version of Elon Musk&#039;s Starlink satellite service, to fight Russia.",
+            "url": "https://www.aljazeera.com/news/2026/10/15/what-is-starshield-and-who-limited-ukraines-access-to-it?traffic_source=rss",
+            "published": "Thu, 15 Oct 2026 13:32:16 +0000",
+            "fetched": "2026-10-15T17:37:39+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Trudy",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25290",
+            "published": "2026-10-13T18:00:00Z",
+            "fetched": "2026-10-15T17:37:39+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Buckhorn 2, Cassia, Idaho",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25238",
+            "published": "2026-10-10T14:58:00Z",
+            "fetched": "2026-10-15T17:37:39+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire PK, Sheridan, Wyoming",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25233",
+            "published": "2026-10-09T19:26:00Z",
+            "fetched": "2026-10-15T17:37:39+03:30"
+        }
+    ]
+}

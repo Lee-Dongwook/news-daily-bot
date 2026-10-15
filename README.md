@@ -1,65 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-15 15:16:56
+**Last Update:** 2026-10-15 17:37:39
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Aidlc: Adaptive workflow steering rules for AI coding agents
+### 1. GridSnap – an open-source Divvy-style window snapper for macOS
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/awslabs/aidlc-workflows">https://github.com/awslabs/aidlc-workflows</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50100387">https://news.ycombinator.com/item?id=50100387</a></p>
-<p>Points: 11</p>
-<p># Comments: 12</p>
+<p>Article URL: <a href="https://github.com/konieczkow/gridsnap">https://github.com/konieczkow/gridsnap</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50103263">https://news.ycombinator.com/item?id=50103263</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://github.com/awslabs/aidlc-workflows](https://github.com/awslabs/aidlc-workflows)
+🔗 **Read more:** [https://github.com/konieczkow/gridsnap](https://github.com/konieczkow/gridsnap)
 
 ---
 
-### 2. Show HN: Flipflop, Iroh-powered persistent tunnels for filesharing
+### 2. C++26 Contracts: Introduction to Preconditions and Postconditions
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>This is a project that spun from my frustrations of using LocalSend and DashBeam to transfer stuff between devices, and with the extra goal of being fast, trying out the Slint framework and, most importantly, establishing a communication channel with trusted external people that can be left always on.</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50099136">https://news.ycombinator.com/item?id=50099136</a></p>
-<p>Points: 46</p>
-<p># Comments: 14</p>
+<p>Article URL: <a href="https://www.cppstories.com/2026/cpp26_contracts/">https://www.cppstories.com/2026/cpp26_contracts/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50103164">https://news.ycombinator.com/item?id=50103164</a></p>
+<p>Points: 8</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://github.com/andunieee/flipflop](https://github.com/andunieee/flipflop)
+🔗 **Read more:** [https://www.cppstories.com/2026/cpp26_contracts/](https://www.cppstories.com/2026/cpp26_contracts/)
 
 ---
 
-### 3. The Double Headed Stack Allocator
+### 3. Israeli firm's digital ads enabling installation of 'zero-click' spyware
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/">https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50098274">https://news.ycombinator.com/item?id=50098274</a></p>
-<p>Points: 69</p>
-<p># Comments: 24</p>
+<p>Article URL: <a href="https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say">https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50103000">https://news.ycombinator.com/item?id=50103000</a></p>
+<p>Points: 128</p>
+<p># Comments: 34</p>
 
-🔗 **Read more:** [https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/](https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/)
+🔗 **Read more:** [https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say](https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say)
 
 ---
 
-### 4. Man killed by tiger climbed two fences before suffering multiple injuries, inquest hears
+### 4. Former DUP leader Donaldson sentenced to 15 years in prison for child sex abuse
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Jeffrey Donaldson was convicted of 18 counts of sex abuse, including one of rape, which he committed against two women when they were children.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwdr8grnykrlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwdr8grnykrlo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Man killed by tiger climbed two fences before suffering multiple injuries, inquest hears
 
 **Source:** BBC
 
@@ -72,72 +84,59 @@ William Chapman climbed two fences to enter a tiger's pen at Yorkshire Wildlife 
 
 ---
 
-### 5. Ukraine to restart strikes on Russian oil refineries, Zelensky says
+### 6. Russell Brand accuser says alleged rape left her afraid she may be pregnant
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Russia reports a Ukrainian strike on an oil refinery on Thursday, after Ukraine's president says a pause is over following fresh Russian attacks.
+The 51-year-old faces three counts of rape, three charges of sexual assault and one of indecent assault.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Why Starlink internet is so important on the battlefield in Ukraine
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-It is the "backbone of military communications in Ukraine" that provides vital high-speed internet to forces across the country.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwy7ldzl7j4po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwy7ldzl7j4po?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Syrian authorities arrest main suspect in 2013 Baniyas mass killings
+### 7. The Rebel Tours: Money or morals?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ali Kayali, also known as Mihrac Ural, was apprehended as he tried to cross the border, state media reported.
+Some West Indies cricketers toured apartheid South Africa in the 1980&#039;s, breaking one of the biggest sporting boycotts.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/15/syrian-authorities-arrest-main-suspect-in-2013-baniyas-mass-killings?traffic_source=rss](https://www.aljazeera.com/news/2026/10/15/syrian-authorities-arrest-main-suspect-in-2013-baniyas-mass-killings?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/game-theory/2026/10/15/aje-onl-gm_rebel_v8-151026?traffic_source=rss](https://www.aljazeera.com/video/game-theory/2026/10/15/aje-onl-gm_rebel_v8-151026?traffic_source=rss)
 
 ---
 
-### 8. Fighting in Yemen intensifies: What’s the latest on the battlefield?
+### 8. Al Jazeera probe exposes fake viewing numbers for Israeli counter-film
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Houthis attempt to raise the cost of the Yemen war for Saudi Arabia as attacks, fighting intensify.
+Data investigation casts doubt on claims that Israeli counter-documentary to &#039;NAZA&#039; received 40 million views.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/15/fighting-in-yemen-intensifies-whats-the-latest-on-the-battlefield?traffic_source=rss](https://www.aljazeera.com/news/2026/10/15/fighting-in-yemen-intensifies-whats-the-latest-on-the-battlefield?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/15/al-jazeera-probe-exposes-fake-viewing-numbers-for-israeli-counter-film?traffic_source=rss](https://www.aljazeera.com/news/2026/10/15/al-jazeera-probe-exposes-fake-viewing-numbers-for-israeli-counter-film?traffic_source=rss)
 
 ---
 
-### 9. FIFA set for rule change after Balogun red card row at the World Cup: reports
+### 9. What is Starshield, and who limited Ukraine’s access to it?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The governing body&#039;s council is expected to prohibit disciplinary committees from overturning match suspensions.
+Ukraine relies on Starshield, the military-grade version of Elon Musk&#039;s Starlink satellite service, to fight Russia.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/15/fifa-set-for-rule-change-after-balogun-red-card-row-at-the-world-cup-reports?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/15/fifa-set-for-rule-change-after-balogun-red-card-row-at-the-world-cup-reports?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/15/what-is-starshield-and-who-limited-ukraines-access-to-it?traffic_source=rss](https://www.aljazeera.com/news/2026/10/15/what-is-starshield-and-who-limited-ukraines-access-to-it?traffic_source=rss)
 
 ---
 
-### 10. Tropical Storm Trudy
+### 10. Hurricane Trudy
 
 **Source:** NASA
 

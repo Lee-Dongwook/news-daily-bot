@@ -1,28 +1,28 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-16 10:21:34
+**Last Update:** 2026-10-16 10:52:03
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Tesla makes cars that fly? [video]
+### 1. Last rites for Gentoo's Chromium package
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.youtube.com/watch?v=7p5LxFdc-Qg">https://www.youtube.com/watch?v=7p5LxFdc-Qg</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50114077">https://news.ycombinator.com/item?id=50114077</a></p>
-<p>Points: 60</p>
-<p># Comments: 36</p>
+<p>Article URL: <a href="https://lwn.net/Articles/1097760/">https://lwn.net/Articles/1097760/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50114359">https://news.ycombinator.com/item?id=50114359</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.youtube.com/watch?v=7p5LxFdc-Qg](https://www.youtube.com/watch?v=7p5LxFdc-Qg)
+🔗 **Read more:** [https://lwn.net/Articles/1097760/](https://lwn.net/Articles/1097760/)
 
 ---
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://lwn.net/Articles/1094721/">https://lwn.net/Articles/1094721/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50112887">https://news.ycombinator.com/item?id=50112887</a></p>
-<p>Points: 34</p>
-<p># Comments: 6</p>
+<p>Points: 37</p>
+<p># Comments: 10</p>
 
 🔗 **Read more:** [https://lwn.net/Articles/1094721/](https://lwn.net/Articles/1094721/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/Saffsanity/sill">https://github.com/Saffsanity/sill</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50112739">https://news.ycombinator.com/item?id=50112739</a></p>
-<p>Points: 120</p>
-<p># Comments: 23</p>
+<p>Points: 125</p>
+<p># Comments: 25</p>
 
 🔗 **Read more:** [https://github.com/Saffsanity/sill](https://github.com/Saffsanity/sill)
 
@@ -97,7 +97,33 @@ Metagenomics offers a new way of detecting infections in intensive care patients
 
 ---
 
-### 7. Which countries waste the most food, and how to reduce waste at home
+### 7. How Israel’s elections will affect Palestinians
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+How Israel votes this month will shape the future of over 5.5 million Palestinians who have no say in the election.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/16/how-israels-elections-will-affect-palestinians?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/16/how-israels-elections-will-affect-palestinians?traffic_source=rss)
+
+---
+
+### 8. In Israel, Netanyahu’s ultimate legacy is the opposition he has forged
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+As Israel heads to the polls, PM Netanyahu’s most enduring domestic legacy may be the right-wing opposition he faces.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/16/in-israel-netanyahus-ultimate-legacy-is-the-opposition-he-has-forged?traffic_source=rss](https://www.aljazeera.com/news/2026/10/16/in-israel-netanyahus-ultimate-legacy-is-the-opposition-he-has-forged?traffic_source=rss)
+
+---
+
+### 9. Which countries waste the most food, and how to reduce waste at home
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Metagenomics offers a new way of detecting infections in intensive care patients
 This World Food Day, 645 million people are going hungry, yet more than a billion tonnes of food is wasted annually.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/16/which-countries-waste-the-most-food-and-how-to-reduce-waste-at-home?traffic_source=rss](https://www.aljazeera.com/news/2026/10/16/which-countries-waste-the-most-food-and-how-to-reduce-waste-at-home?traffic_source=rss)
-
----
-
-### 8. Vibe coding: Game-changer or risky business?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Vibe coding lets users build software with AI, but free alternatives to popular programmes raise security concerns.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/16/vibe-coding-game-changer-or-risky-business?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/16/vibe-coding-game-changer-or-risky-business?traffic_source=rss)
-
----
-
-### 9. Alone in Gaza: Genocide leaves Palestinian man without family or a home
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-One man wanders Gaza in search of somewhere to sleep, having lost his family in an Israeli strike.
-
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/10/16/alone-in-gaza-genocide-leaves-palestinian-man-without-family-or-a-home?traffic_source=rss](https://www.aljazeera.com/features/2026/10/16/alone-in-gaza-genocide-leaves-palestinian-man-without-family-or-a-home?traffic_source=rss)
 
 ---
 

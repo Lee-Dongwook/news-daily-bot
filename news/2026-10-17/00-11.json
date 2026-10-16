@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-17T00:11:19+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Flux 3 Image Klein: open weights, 5.6B parameters",
+            "description": "<p>Article URL: <a href=\"https://bfl.ai/blog/flux-3-image-klein\">https://bfl.ai/blog/flux-3-image-klein</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50123580\">https://news.ycombinator.com/item?id=50123580</a></p>\n<p>Points: 11</p>\n<p># Comments: 1</p>",
+            "url": "https://bfl.ai/blog/flux-3-image-klein",
+            "published": "Fri, 16 Oct 2026 19:47:13 +0000",
+            "fetched": "2026-10-17T00:11:19+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Fatal Flaw of 911",
+            "description": "<p>Article URL: <a href=\"https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health\">https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50123356\">https://news.ycombinator.com/item?id=50123356</a></p>\n<p>Points: 19</p>\n<p># Comments: 15</p>",
+            "url": "https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health",
+            "published": "Fri, 16 Oct 2026 19:33:00 +0000",
+            "fetched": "2026-10-17T00:11:19+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "How the Claude Code team does code review",
+            "description": "<p>Article URL: <a href=\"https://claude.dev/blog/solving-code-review-at-anthropic/\">https://claude.dev/blog/solving-code-review-at-anthropic/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50122951\">https://news.ycombinator.com/item?id=50122951</a></p>\n<p>Points: 62</p>\n<p># Comments: 56</p>",
+            "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+            "published": "Fri, 16 Oct 2026 19:04:47 +0000",
+            "fetched": "2026-10-17T00:11:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Will Ukraine get the support needed as tensions with US rise?",
+            "description": "Zelensky thanked the \"real leaders\" ahead of a meeting with the EU in Brussels.",
+            "url": "https://www.bbc.co.uk/news/videos/cm2ke1v8e4geo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 16 Oct 2026 15:45:10 GMT",
+            "fetched": "2026-10-17T00:11:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
+            "description": "The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with President Trump.",
+            "url": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 16 Oct 2026 16:00:30 GMT",
+            "fetched": "2026-10-17T00:11:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Nurse stole £750k from 99-year-old woman for cosmetic surgery and home improvements",
+            "description": "Rebecca Louise Burwood saw the vulnerable victim \"as her nanna\" but stole to fund her lifestyle.",
+            "url": "https://www.bbc.co.uk/news/articles/cm9qzx43rlzjo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 16 Oct 2026 16:07:37 GMT",
+            "fetched": "2026-10-17T00:11:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Oregon community mourns victims of school shooting",
+            "description": "Mourners quietly grieved at a makeshift memorial outside an elementary school in Bend, Oregon.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/oregon-community-mourns-victims-of-school-shooting?traffic_source=rss",
+            "published": "Fri, 16 Oct 2026 20:08:52 +0000",
+            "fetched": "2026-10-17T00:11:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "AOC transfers $1m to Michigan candidate El-Sayed in progressive push",
+            "description": "Progressive stalwart, who is seen as potential 2028 candidate, says she wants to combat &#039;smears&#039; against El-Sayed.",
+            "url": "https://www.aljazeera.com/news/2026/10/16/aoc-transfers-1m-to-michigan-candidate-el-sayed-in-progressive-push?traffic_source=rss",
+            "published": "Fri, 16 Oct 2026 20:07:25 +0000",
+            "fetched": "2026-10-17T00:11:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump told new press secretary to ‘reconsider’ role",
+            "description": "Al Jazeera has confirmed that White House press secretary Katie Zacharia is “transitioning out” of her role.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/trump-told-new-press-secretary-to-reconsider-role?traffic_source=rss",
+            "published": "Fri, 16 Oct 2026 19:41:15 +0000",
+            "fetched": "2026-10-17T00:11:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone 01P",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25340",
+            "published": "2026-10-16T06:00:00Z",
+            "fetched": "2026-10-17T00:11:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Champi",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25339",
+            "published": "2026-10-15T12:00:00Z",
+            "fetched": "2026-10-17T00:11:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Newman Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25310",
+            "published": "2026-10-14T10:42:00Z",
+            "fetched": "2026-10-17T00:11:19+03:30"
+        }
+    ]
+}

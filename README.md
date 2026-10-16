@@ -1,73 +1,73 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-16 21:03:18
+**Last Update:** 2026-10-17 00:11:19
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Piramidal (YC W24) Is Hiring
+### 1. Flux 3 Image Klein: open weights, 5.6B parameters
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://job-boards.greenhouse.io/piramidalinc/jobs/4443102009">https://job-boards.greenhouse.io/piramidalinc/jobs/4443102009</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50121188">https://news.ycombinator.com/item?id=50121188</a></p>
-<p>Points: 0</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://bfl.ai/blog/flux-3-image-klein">https://bfl.ai/blog/flux-3-image-klein</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50123580">https://news.ycombinator.com/item?id=50123580</a></p>
+<p>Points: 11</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://job-boards.greenhouse.io/piramidalinc/jobs/4443102009](https://job-boards.greenhouse.io/piramidalinc/jobs/4443102009)
+🔗 **Read more:** [https://bfl.ai/blog/flux-3-image-klein](https://bfl.ai/blog/flux-3-image-klein)
 
 ---
 
-### 2. 90% of US working hours are spent on tasks not covered well by AI benchmarks
+### 2. The Fatal Flaw of 911
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.mercor.com/research/labor-index/benchmark-map/">https://www.mercor.com/research/labor-index/benchmark-map/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50121179">https://news.ycombinator.com/item?id=50121179</a></p>
-<p>Points: 5</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health">https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50123356">https://news.ycombinator.com/item?id=50123356</a></p>
+<p>Points: 19</p>
+<p># Comments: 15</p>
 
-🔗 **Read more:** [https://www.mercor.com/research/labor-index/benchmark-map/](https://www.mercor.com/research/labor-index/benchmark-map/)
+🔗 **Read more:** [https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health](https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health)
 
 ---
 
-### 3. /dev/null: social network for developers
+### 3. How the Claude Code team does code review
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://dev-null.sh">https://dev-null.sh</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50121004">https://news.ycombinator.com/item?id=50121004</a></p>
-<p>Points: 38</p>
-<p># Comments: 38</p>
+<p>Article URL: <a href="https://claude.dev/blog/solving-code-review-at-anthropic/">https://claude.dev/blog/solving-code-review-at-anthropic/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50122951">https://news.ycombinator.com/item?id=50122951</a></p>
+<p>Points: 62</p>
+<p># Comments: 56</p>
 
-🔗 **Read more:** [https://dev-null.sh](https://dev-null.sh)
+🔗 **Read more:** [https://claude.dev/blog/solving-code-review-at-anthropic/](https://claude.dev/blog/solving-code-review-at-anthropic/)
 
 ---
 
-### 4. Zelensky says Ukraine has right to defend itself after Trump calls refinery strikes a 'disgrace'
+### 4. Watch: Will Ukraine get the support needed as tensions with US rise?
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-EU leaders rally around Ukraine's president after new criticism from Donald Trump, who says Zelensky is "more difficult to work with than Putin".
+Zelensky thanked the "real leaders" ahead of a meeting with the EU in Brussels.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cm2ke1v8e4geo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cm2ke1v8e4geo?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -84,55 +84,55 @@ The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the
 
 ---
 
-### 6. Man killed by tiger may have had medical records breached by NHS staff
+### 6. Nurse stole £750k from 99-year-old woman for cosmetic surgery and home improvements
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-William Chapman, 24, was mauled to death at Yorkshire Wildlife Park, near Doncaster, on Saturday.
+Rebecca Louise Burwood saw the vulnerable victim "as her nanna" but stole to fund her lifestyle.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c875prd12vkqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c875prd12vkqo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm9qzx43rlzjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm9qzx43rlzjo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Real Madrid demand resignation of La Liga chief after Goebbels comparison
+### 7. Oregon community mourns victims of school shooting
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-La Liga President Javier Tebas under fire for comparing Real Madrid TV channel to Nazi Germany&#039;s Minister of Propaganda.
+Mourners quietly grieved at a makeshift memorial outside an elementary school in Bend, Oregon.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/16/real-madrid-demand-resignation-of-laliga-chief-after-goebbels-comparison?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/16/real-madrid-demand-resignation-of-laliga-chief-after-goebbels-comparison?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/16/oregon-community-mourns-victims-of-school-shooting?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/16/oregon-community-mourns-victims-of-school-shooting?traffic_source=rss)
 
 ---
 
-### 8. Pope Leo to make public appearance Sunday, first since cancer surgery
+### 8. AOC transfers $1m to Michigan candidate El-Sayed in progressive push
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-After undergoing surgery this week, pope can now &#039;carry out normal activities ​with full independence&#039;, say doctors.
+Progressive stalwart, who is seen as potential 2028 candidate, says she wants to combat &#039;smears&#039; against El-Sayed.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/16/pope-leo-to-make-public-appearance-sunday-first-since-cancer-surgery?traffic_source=rss](https://www.aljazeera.com/news/2026/10/16/pope-leo-to-make-public-appearance-sunday-first-since-cancer-surgery?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/16/aoc-transfers-1m-to-michigan-candidate-el-sayed-in-progressive-push?traffic_source=rss](https://www.aljazeera.com/news/2026/10/16/aoc-transfers-1m-to-michigan-candidate-el-sayed-in-progressive-push?traffic_source=rss)
 
 ---
 
-### 9. Sally Rooney can’t sell her books in UK over support for Palestine Action
+### 9. Trump told new press secretary to ‘reconsider’ role
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-We asked students what they think.
+Al Jazeera has confirmed that White House press secretary Katie Zacharia is “transitioning out” of her role.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/16/sally-rooney-cant-sell-her-books-in-uk-over-support-for-palestine-action?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/16/sally-rooney-cant-sell-her-books-in-uk-over-support-for-palestine-action?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/16/trump-told-new-press-secretary-to-reconsider-role?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/16/trump-told-new-press-secretary-to-reconsider-role?traffic_source=rss)
 
 ---
 

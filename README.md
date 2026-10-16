@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-17 00:56:19
+**Last Update:** 2026-10-17 02:49:03
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency">https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50124642">https://news.ycombinator.com/item?id=50124642</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
+<p>Points: 21</p>
+<p># Comments: 5</p>
 
 🔗 **Read more:** [https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency](https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency)
 
@@ -35,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/home-assistant/home-assistant.io/issues/49314">https://github.com/home-assistant/home-assistant.io/issues/49314</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50124251">https://news.ycombinator.com/item?id=50124251</a></p>
-<p>Points: 65</p>
-<p># Comments: 19</p>
+<p>Points: 143</p>
+<p># Comments: 90</p>
 
 🔗 **Read more:** [https://github.com/home-assistant/home-assistant.io/issues/49314](https://github.com/home-assistant/home-assistant.io/issues/49314)
 
 ---
 
-### 3. Flux 3 Image Klein: open weights, 5.6B parameters
+### 3. FLUX 3 Image Klein
 
 **Source:** Hacker News
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://bfl.ai/blog/flux-3-image-klein">https://bfl.ai/blog/flux-3-image-klein</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50123580">https://news.ycombinator.com/item?id=50123580</a></p>
-<p>Points: 34</p>
-<p># Comments: 7</p>
+<p>Points: 82</p>
+<p># Comments: 15</p>
 
 🔗 **Read more:** [https://bfl.ai/blog/flux-3-image-klein](https://bfl.ai/blog/flux-3-image-klein)
 
@@ -97,42 +97,42 @@ Rebecca Louise Burwood saw the vulnerable victim "as her nanna" but stole to fun
 
 ---
 
-### 7. Students in Europe are rising up to call for better education
+### 7. Leeds vs Manchester United: Premier League – teams, prediction, lineups
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Violent unrest is gripping several countries across Europe, as student activists demand better education systems.
+Manchester United are mired in poor form - and Lisandro Martinez&#039;s meltdown - now they face on-the-up rivals Leeds.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/16/students-in-europe-are-rising-up-to-call-for-better-education?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/16/students-in-europe-are-rising-up-to-call-for-better-education?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/16/leeds-vs-manchester-united-premier-league-teams-prediction-lineups?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/16/leeds-vs-manchester-united-premier-league-teams-prediction-lineups?traffic_source=rss)
 
 ---
 
-### 8. Food affordability fears plague Gaza as Israel halts commercial goods
+### 8. Italy probes Israel’s Katz over abuse, sexual assault of flotilla activists
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Commercial goods, such as fresh fruit, vegetables, meat and winter clothing, have not entered Gaza for two days.
+Rome prosecutors also name 12 senior military, police and prison officials over alleged abuse of detained activists.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/16/food-affordability-fears-plague-gaza-as-israel-halts-commercial-goods?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/16/food-affordability-fears-plague-gaza-as-israel-halts-commercial-goods?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/16/italy-probes-israels-katz-over-abuse-sexual-assault-of-flotilla-activists?traffic_source=rss](https://www.aljazeera.com/news/2026/10/16/italy-probes-israels-katz-over-abuse-sexual-assault-of-flotilla-activists?traffic_source=rss)
 
 ---
 
-### 9. Oregon community mourns victims of school shooting
+### 9. Families demand justice after Pakistan school collapse
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Mourners quietly grieved at a makeshift memorial outside an elementary school in Bend, Oregon.
+Parents are demanding accountability after a school roof collapse in Pakistan&#039;s Peshawar killed 34 children.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/16/oregon-community-mourns-victims-of-school-shooting?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/16/oregon-community-mourns-victims-of-school-shooting?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/16/families-demand-justice-after-pakistan-school-collapse?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/16/families-demand-justice-after-pakistan-school-collapse?traffic_source=rss)
 
 ---
 

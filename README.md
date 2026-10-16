@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-17 00:11:19
+**Last Update:** 2026-10-17 00:56:19
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Flux 3 Image Klein: open weights, 5.6B parameters
+### 1. Why harnesses matter for energy (and token) efficiency
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency">https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50124642">https://news.ycombinator.com/item?id=50124642</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency](https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency)
+
+---
+
+### 2. I never authorized an integration that scans my secrets
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/home-assistant/home-assistant.io/issues/49314">https://github.com/home-assistant/home-assistant.io/issues/49314</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50124251">https://news.ycombinator.com/item?id=50124251</a></p>
+<p>Points: 65</p>
+<p># Comments: 19</p>
+
+🔗 **Read more:** [https://github.com/home-assistant/home-assistant.io/issues/49314](https://github.com/home-assistant/home-assistant.io/issues/49314)
+
+---
+
+### 3. Flux 3 Image Klein: open weights, 5.6B parameters
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://bfl.ai/blog/flux-3-image-klein">https://bfl.ai/blog/flux-3-image-klein</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50123580">https://news.ycombinator.com/item?id=50123580</a></p>
-<p>Points: 11</p>
-<p># Comments: 1</p>
+<p>Points: 34</p>
+<p># Comments: 7</p>
 
 🔗 **Read more:** [https://bfl.ai/blog/flux-3-image-klein](https://bfl.ai/blog/flux-3-image-klein)
-
----
-
-### 2. The Fatal Flaw of 911
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health">https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50123356">https://news.ycombinator.com/item?id=50123356</a></p>
-<p>Points: 19</p>
-<p># Comments: 15</p>
-
-🔗 **Read more:** [https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health](https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health)
-
----
-
-### 3. How the Claude Code team does code review
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://claude.dev/blog/solving-code-review-at-anthropic/">https://claude.dev/blog/solving-code-review-at-anthropic/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50122951">https://news.ycombinator.com/item?id=50122951</a></p>
-<p>Points: 62</p>
-<p># Comments: 56</p>
-
-🔗 **Read more:** [https://claude.dev/blog/solving-code-review-at-anthropic/](https://claude.dev/blog/solving-code-review-at-anthropic/)
 
 ---
 
@@ -97,7 +97,33 @@ Rebecca Louise Burwood saw the vulnerable victim "as her nanna" but stole to fun
 
 ---
 
-### 7. Oregon community mourns victims of school shooting
+### 7. Students in Europe are rising up to call for better education
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Violent unrest is gripping several countries across Europe, as student activists demand better education systems.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/16/students-in-europe-are-rising-up-to-call-for-better-education?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/16/students-in-europe-are-rising-up-to-call-for-better-education?traffic_source=rss)
+
+---
+
+### 8. Food affordability fears plague Gaza as Israel halts commercial goods
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Commercial goods, such as fresh fruit, vegetables, meat and winter clothing, have not entered Gaza for two days.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/16/food-affordability-fears-plague-gaza-as-israel-halts-commercial-goods?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/16/food-affordability-fears-plague-gaza-as-israel-halts-commercial-goods?traffic_source=rss)
+
+---
+
+### 9. Oregon community mourns victims of school shooting
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Rebecca Louise Burwood saw the vulnerable victim "as her nanna" but stole to fun
 Mourners quietly grieved at a makeshift memorial outside an elementary school in Bend, Oregon.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/16/oregon-community-mourns-victims-of-school-shooting?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/16/oregon-community-mourns-victims-of-school-shooting?traffic_source=rss)
-
----
-
-### 8. AOC transfers $1m to Michigan candidate El-Sayed in progressive push
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Progressive stalwart, who is seen as potential 2028 candidate, says she wants to combat &#039;smears&#039; against El-Sayed.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/16/aoc-transfers-1m-to-michigan-candidate-el-sayed-in-progressive-push?traffic_source=rss](https://www.aljazeera.com/news/2026/10/16/aoc-transfers-1m-to-michigan-candidate-el-sayed-in-progressive-push?traffic_source=rss)
-
----
-
-### 9. Trump told new press secretary to ‘reconsider’ role
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Al Jazeera has confirmed that White House press secretary Katie Zacharia is “transitioning out” of her role.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/16/trump-told-new-press-secretary-to-reconsider-role?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/16/trump-told-new-press-secretary-to-reconsider-role?traffic_source=rss)
 
 ---
 

@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-16 10:52:03
+**Last Update:** 2026-10-16 15:40:13
 
 **Total News:** 12
 
@@ -10,19 +10,19 @@
 
 ## 📰 Latest News
 
-### 1. Last rites for Gentoo's Chromium package
+### 1. The Folders Programming Language
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://lwn.net/Articles/1097760/">https://lwn.net/Articles/1097760/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50114359">https://news.ycombinator.com/item?id=50114359</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://danieltemkin.com/esolangs/folders">https://danieltemkin.com/esolangs/folders</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50114342">https://news.ycombinator.com/item?id=50114342</a></p>
+<p>Points: 100</p>
+<p># Comments: 12</p>
 
-🔗 **Read more:** [https://lwn.net/Articles/1097760/](https://lwn.net/Articles/1097760/)
+🔗 **Read more:** [https://danieltemkin.com/esolangs/folders](https://danieltemkin.com/esolangs/folders)
 
 ---
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://lwn.net/Articles/1094721/">https://lwn.net/Articles/1094721/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50112887">https://news.ycombinator.com/item?id=50112887</a></p>
-<p>Points: 37</p>
-<p># Comments: 10</p>
+<p>Points: 59</p>
+<p># Comments: 17</p>
 
 🔗 **Read more:** [https://lwn.net/Articles/1094721/](https://lwn.net/Articles/1094721/)
 
@@ -51,88 +51,88 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/Saffsanity/sill">https://github.com/Saffsanity/sill</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50112739">https://news.ycombinator.com/item?id=50112739</a></p>
-<p>Points: 125</p>
-<p># Comments: 25</p>
+<p>Points: 172</p>
+<p># Comments: 42</p>
 
 🔗 **Read more:** [https://github.com/Saffsanity/sill](https://github.com/Saffsanity/sill)
 
 ---
 
-### 4. Three children and teacher killed in US primary school shooting
+### 4. British father fined for causing his two-year-old son's death in Cyprus hotel fall
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The suspect was shot dead by an armed bystander who followed him into the Oregon school, police said.
+Joshua Foster "lost control" of his son while showing him the view of a water park from a window.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvj6j1klez88o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvj6j1klez88o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Banks say Healey planning to increase tax on their profits in Budget
+### 5. Israeli settlers attack Palestinians in West Bank during olive harvest
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Senior banking executives have told the BBC they expect to be "on the menu" in the chancellor's Budget tax later this month.
+Israeli settlers were seen attacking Palestinian farmers and setting fire to olive trees in the West Bank.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cqn06zx2r15jo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cqn06zx2r15jo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Same-day test helps doctors detect hidden infections in critically ill children
+### 6. Norwegian teen 'hitman' detained for UK murder plot
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Metagenomics offers a new way of detecting infections in intensive care patients.
+Johannes Natland, 19, travelled to West Yorkshire to carry out a "hit" in March last year.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw5yn83m8gypo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw5yn83m8gypo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw8rzpl1ldkdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw8rzpl1ldkdo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. How Israel’s elections will affect Palestinians
+### 7. ‘Trying to dominate’: How Israel is embedding itself in the Cypriot state
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-How Israel votes this month will shape the future of over 5.5 million Palestinians who have no say in the election.
+Israel now reaches into Cyprus’s water, gas, health and defence and many Cypriots fear their island is losing control.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/16/how-israels-elections-will-affect-palestinians?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/16/how-israels-elections-will-affect-palestinians?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/10/16/an-easy-target-how-israel-is-embedding-itself-in-the-cypriot-state?traffic_source=rss](https://www.aljazeera.com/features/2026/10/16/an-easy-target-how-israel-is-embedding-itself-in-the-cypriot-state?traffic_source=rss)
 
 ---
 
-### 8. In Israel, Netanyahu’s ultimate legacy is the opposition he has forged
+### 8. Why is China buying up gold?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-As Israel heads to the polls, PM Netanyahu’s most enduring domestic legacy may be the right-wing opposition he faces.
+Beijing’s gold purchases reflect a shift away from reliance on US dollar assets, experts say.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/16/in-israel-netanyahus-ultimate-legacy-is-the-opposition-he-has-forged?traffic_source=rss](https://www.aljazeera.com/news/2026/10/16/in-israel-netanyahus-ultimate-legacy-is-the-opposition-he-has-forged?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news-analysis/2026/10/16/why-is-china-buying-up-gold?traffic_source=rss](https://www.aljazeera.com/news-analysis/2026/10/16/why-is-china-buying-up-gold?traffic_source=rss)
 
 ---
 
-### 9. Which countries waste the most food, and how to reduce waste at home
+### 9. Malaysia’s welcome for Min Aung Hlaing undermines its stand on justice
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-This World Food Day, 645 million people are going hungry, yet more than a billion tonnes of food is wasted annually.
+As the US attacks the ICC, Kuala Lumpur welcomes a leader the court’s prosecutor wants arrested.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/16/which-countries-waste-the-most-food-and-how-to-reduce-waste-at-home?traffic_source=rss](https://www.aljazeera.com/news/2026/10/16/which-countries-waste-the-most-food-and-how-to-reduce-waste-at-home?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/10/16/malaysias-welcome-for-min-aung-hlaing-undermines-its-stand-on-justice?traffic_source=rss](https://www.aljazeera.com/opinions/2026/10/16/malaysias-welcome-for-min-aung-hlaing-undermines-its-stand-on-justice?traffic_source=rss)
 
 ---
 

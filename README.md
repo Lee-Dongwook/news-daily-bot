@@ -1,32 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-17 13:01:05
+**Last Update:** 2026-10-17 16:16:26
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. "Tame" boar and deer are instinctively adapting to the wolf in the Netherlands
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://nos.nl/video/2635315-wildcamera-s-tonen-hoe-zwijnen-en-herten-zich-aanpassen-aan-de-wolf">https://nos.nl/video/2635315-wildcamera-s-tonen-hoe-zwijnen-en-herten-zich-aanpassen-aan-de-wolf</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50129274">https://news.ycombinator.com/item?id=50129274</a></p>
-<p>Points: 7</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://nos.nl/video/2635315-wildcamera-s-tonen-hoe-zwijnen-en-herten-zich-aanpassen-aan-de-wolf](https://nos.nl/video/2635315-wildcamera-s-tonen-hoe-zwijnen-en-herten-zich-aanpassen-aan-de-wolf)
-
----
-
-### 2. DeepSeek: DeepSeek v4.1 Flash 1017
+### 1. DeepSeek: DeepSeek v4.1 Flash 1017
 
 **Source:** Hacker News
 
@@ -35,14 +19,14 @@
 **Description:**
 <p>Article URL: <a href="https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017">https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50129121">https://news.ycombinator.com/item?id=50129121</a></p>
-<p>Points: 63</p>
-<p># Comments: 3</p>
+<p>Points: 277</p>
+<p># Comments: 105</p>
 
 🔗 **Read more:** [https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017](https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017)
 
 ---
 
-### 3. DeepSeek-v4.1-Flash-1017
+### 2. DeepSeek-v4.1-Flash-1017
 
 **Source:** Hacker News
 
@@ -51,14 +35,43 @@
 **Description:**
 <p>Article URL: <a href="https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017">https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50129045">https://news.ycombinator.com/item?id=50129045</a></p>
-<p>Points: 96</p>
-<p># Comments: 33</p>
+<p>Points: 239</p>
+<p># Comments: 96</p>
 
 🔗 **Read more:** [https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)
 
 ---
 
-### 4. Trump waives several Russia sanctions as row with Zelensky intensifies
+### 3. Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://llmspeed.dev/">https://llmspeed.dev/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50127979">https://news.ycombinator.com/item?id=50127979</a></p>
+<p>Points: 117</p>
+<p># Comments: 41</p>
+
+🔗 **Read more:** [https://llmspeed.dev/](https://llmspeed.dev/)
+
+---
+
+### 4. Watch: 'Mood has really shifted' as Paris protesters clash with police
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The BBC is on the ground at the Place de la République, where protesters and police clash after weeks of students demonstrations.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c6vg08xlr8g3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c6vg08xlr8g3o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Trump waives several Russia sanctions as row with Zelensky intensifies
 
 **Source:** BBC
 
@@ -71,7 +84,7 @@ The US president temporarily ends many restrictions on Moscow recently passed by
 
 ---
 
-### 5. Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'
+### 6. Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ The 16-year-old suspect previously attended the primary school and had targeted 
 
 ---
 
-### 6. Boy, 16, and 80-year-old man die in light aircraft crash near Loch Lomond
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Emergency services were called at about 16:45 on Friday, and pronounced both dead at the scene.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cky83g11q46lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cky83g11q46lo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Murder in Malaysia: Justice for Altantuya Shaariibuu
+### 7. France tackles new wave of nationwide protests
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-101 East investigates if power and politics are shielding those behind the 2006 murder of a Mongolian woman in Malaysia.
+France is tackling nationwide protests, as students, unions, and activists rally against high prices and inequality.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/101-east/2026/10/17/murder-in-malaysia-justice-for-altantuya-shaariibuu?traffic_source=rss](https://www.aljazeera.com/video/101-east/2026/10/17/murder-in-malaysia-justice-for-altantuya-shaariibuu?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/17/france-tackles-new-wave-of-nationwide-protests?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/17/france-tackles-new-wave-of-nationwide-protests?traffic_source=rss)
 
 ---
 
-### 8. Rubio’s Uzbekistan trip underlines Central Asia’s hunt for diverse partners
+### 8. US and Iran both claim control of Strait of Hormuz amid attacks on vessels
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Can the United States reassert influence with pragmatic, transactional approach to Central Asia?
+Two vessels have been struck with naval mines in the Strait of Hormuz this week.
 
-🔗 **Read more:** [https://www.aljazeera.com/news-analysis/2026/10/17/rubios-uzbekistan-trip-underlines-central-asias-hunt-for-diverse-partners?traffic_source=rss](https://www.aljazeera.com/news-analysis/2026/10/17/rubios-uzbekistan-trip-underlines-central-asias-hunt-for-diverse-partners?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/17/us-and-iran-both-claim-control-of-strait-of-hormuz-amid-attacks-on-vessels?traffic_source=rss](https://www.aljazeera.com/news/2026/10/17/us-and-iran-both-claim-control-of-strait-of-hormuz-amid-attacks-on-vessels?traffic_source=rss)
 
 ---
 
-### 9. Oregon school shooter was former special-needs student, police say
+### 9. Women protest in New Delhi against police brutality
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Oregon school shooter was former special-needs student, police say
+Women protest in New Delhi against police brutality
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/17/oregon-school-shooter-was-former-special-needs-student-police-say-2?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/17/oregon-school-shooter-was-former-special-needs-student-police-say-2?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/17/women-protest-in-new-delhi-against-police-brutality?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/17/women-protest-in-new-delhi-against-police-brutality?traffic_source=rss)
 
 ---
 

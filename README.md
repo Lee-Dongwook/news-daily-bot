@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-17 17:18:50
+**Last Update:** 2026-10-17 19:41:28
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. DeepSeek: DeepSeek v4.1 Flash 1017
+### 1. Ad-tech company was a delivery system for "mercenary spyware"
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017">https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50129121">https://news.ycombinator.com/item?id=50129121</a></p>
-<p>Points: 346</p>
-<p># Comments: 138</p>
+<p>Article URL: <a href="https://pluralistic.net/2026/10/17/mercenary-spyware/#discover-tech">https://pluralistic.net/2026/10/17/mercenary-spyware/#discover-tech</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50131881">https://news.ycombinator.com/item?id=50131881</a></p>
+<p>Points: 42</p>
+<p># Comments: 8</p>
 
-🔗 **Read more:** [https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017](https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017)
+🔗 **Read more:** [https://pluralistic.net/2026/10/17/mercenary-spyware/#discover-tech](https://pluralistic.net/2026/10/17/mercenary-spyware/#discover-tech)
 
 ---
 
-### 2. DeepSeek-v4.1-Flash-1017
+### 2. US federal budget deficit jumps 12% in one year to nearly $2 Trillion
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017">https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50129045">https://news.ycombinator.com/item?id=50129045</a></p>
-<p>Points: 271</p>
-<p># Comments: 104</p>
+<p>Article URL: <a href="https://finance.yahoo.com/economy/policy/article/the-us-federal-budget-deficit-for-2026-just-came-in-its-1992-trillion-191917669.html">https://finance.yahoo.com/economy/policy/article/the-us-federal-budget-deficit-for-2026-just-came-in-its-1992-trillion-191917669.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50131440">https://news.ycombinator.com/item?id=50131440</a></p>
+<p>Points: 68</p>
+<p># Comments: 52</p>
 
-🔗 **Read more:** [https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)
+🔗 **Read more:** [https://finance.yahoo.com/economy/policy/article/the-us-federal-budget-deficit-for-2026-just-came-in-its-1992-trillion-191917669.html](https://finance.yahoo.com/economy/policy/article/the-us-federal-budget-deficit-for-2026-just-came-in-its-1992-trillion-191917669.html)
 
 ---
 
-### 3. Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware
+### 3. Solar surpasses nuclear power globally for first time – pv magazine Global
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://llmspeed.dev/">https://llmspeed.dev/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50127979">https://news.ycombinator.com/item?id=50127979</a></p>
-<p>Points: 136</p>
-<p># Comments: 47</p>
+<p>Article URL: <a href="https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/">https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50131256">https://news.ycombinator.com/item?id=50131256</a></p>
+<p>Points: 168</p>
+<p># Comments: 84</p>
 
-🔗 **Read more:** [https://llmspeed.dev/](https://llmspeed.dev/)
+🔗 **Read more:** [https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/](https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/)
 
 ---
 
@@ -71,20 +71,7 @@ The BBC is on the ground at the Place de la République, where protesters and po
 
 ---
 
-### 5. UK must protect against Russian 'hybrid attacks', ex-national security adviser says
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Lord Ricketts says more should be spent on improving the resilience of energy, transport, air traffic control and defence sites.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmze4y9rjepro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmze4y9rjepro?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. More NHS staff sacked over attacks victims' records
+### 5. More NHS staff sacked over attacks victims' records
 
 **Source:** BBC
 
@@ -97,42 +84,55 @@ Nottingham University Hospitals NHS Trust says a new system will be brought in t
 
 ---
 
-### 7. Child, four women among Palestinians injured in West Bank pogroms
+### 6. UK must protect against Russian 'hybrid attacks', ex-national security adviser says
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-Attacks follow a religious edict by a prominent far-right rabbi permitting the seizure of Palestinian olives.
+Lord Ricketts says more should be spent on improving the resilience of energy, transport, air traffic control and defence sites.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/17/several-palestinians-injured-detained-in-ongoing-west-bank-pogrom?traffic_source=rss](https://www.aljazeera.com/news/2026/10/17/several-palestinians-injured-detained-in-ongoing-west-bank-pogrom?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmze4y9rjepro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmze4y9rjepro?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. Davidovich Fokina stuns top seed Zverev to reach Shanghai Masters final
+### 7. Pope Leo leaves hospital after lung cancer surgery
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The 26th-ranked Spaniard fought back to win 5-7, 6-4, 6-3 and will play Daniil Medvedev or Rafael Jodar in the final.
+Pope Leo left Rome&#039;s Gemelli Hospital on Saturday after successful lung cancer surgery
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/17/davidovich-fokina-stuns-top-seed-zverev-to-reach-shanghai-masters-final?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/17/davidovich-fokina-stuns-top-seed-zverev-to-reach-shanghai-masters-final?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/17/pope-leo-leaves-hospital-after-lung-cancer-surgery?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/17/pope-leo-leaves-hospital-after-lung-cancer-surgery?traffic_source=rss)
 
 ---
 
-### 9. Hardline Israeli rabbi ruling on stolen Palestinian olives prompts uproar
+### 8. Neto’s brace fires Chelsea past Everton but Martinez head injury mars win
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A controversial ruling by a hardline Israeli rabbi has been condemned by Palestinians.
+Argentinian international taken to hospital for precautionary tests after head clash with Everton&#039;s Jarrad Branthwaite.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/17/hardline-israeli-rabbi-ruling-on-stolen-palestinian-olives-sparks-uproar?traffic_source=rss](https://www.aljazeera.com/news/2026/10/17/hardline-israeli-rabbi-ruling-on-stolen-palestinian-olives-sparks-uproar?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/17/neto-brace-fires-chelsea-past-everton-but-martinez-head-injury-mars-win?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/17/neto-brace-fires-chelsea-past-everton-but-martinez-head-injury-mars-win?traffic_source=rss)
+
+---
+
+### 9. Ilhan Omar’s lawyers demand the return of property seized in house raid
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Omar’s legal team says the search violated safeguards designed to protect constitutional rights of members of Congress.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/17/ilhan-omars-lawyers-demand-the-return-of-property-seized-in-house-raid?traffic_source=rss](https://www.aljazeera.com/news/2026/10/17/ilhan-omars-lawyers-demand-the-return-of-property-seized-in-house-raid?traffic_source=rss)
 
 ---
 

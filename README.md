@@ -1,16 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-17 07:06:05
+**Last Update:** 2026-10-17 08:13:14
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'
+### 1. "In every study that considered the question"
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://unsung.aresluna.org/in-every-study-that-considered-the-question/">https://unsung.aresluna.org/in-every-study-that-considered-the-question/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50127839">https://news.ycombinator.com/item?id=50127839</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://unsung.aresluna.org/in-every-study-that-considered-the-question/](https://unsung.aresluna.org/in-every-study-that-considered-the-question/)
+
+---
+
+### 2. Butlerian Jihad
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://dune.fandom.com/wiki/Butlerian_Jihad">https://dune.fandom.com/wiki/Butlerian_Jihad</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50127274">https://news.ycombinator.com/item?id=50127274</a></p>
+<p>Points: 125</p>
+<p># Comments: 66</p>
+
+🔗 **Read more:** [https://dune.fandom.com/wiki/Butlerian_Jihad](https://dune.fandom.com/wiki/Butlerian_Jihad)
+
+---
+
+### 3. Flexport Is Hiring a Biz Ops Leader in Office of CEO
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.flexport.com/company/careers/">https://www.flexport.com/company/careers/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50126774">https://news.ycombinator.com/item?id=50126774</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.flexport.com/company/careers/](https://www.flexport.com/company/careers/)
+
+---
+
+### 4. Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'
 
 **Source:** BBC
 
@@ -23,7 +71,7 @@ The 16-year-old suspect previously attended the primary school and had targeted 
 
 ---
 
-### 2. Trump waives several Russia sanctions as new US law takes effect
+### 5. Trump waives several Russia sanctions as new US law takes effect
 
 **Source:** BBC
 
@@ -36,20 +84,46 @@ Trump says parts of a new law that aims to punish Moscow for its war against Ukr
 
 ---
 
-### 3. Analysis: Zacharia was thrown into a whirlwind - and failed at a critical time for Trump
+### 6. Third runway at Heathrow Airport would drive growth, Healey says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The White House is facing growing adversity, writes the BBC's Anthony Zurcher, weeks before crucial midterm elections.
+It comes after the prime minister refused to say whether he backed expansion.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6e3xnjlz12do?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6e3xnjlz12do?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw0k07d2nj43o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw0k07d2nj43o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. Cameroonians await government reshuffle after Biya’s return
+### 7. Albania’s PM blames ‘foreign hands’ for protests
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Albanian PM Edi Rama claimed ‘foreign hands’ are driving protests that have rocked the country for months.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/17/albanias-pm-blames-foreign-hands-for-protests?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/17/albanias-pm-blames-foreign-hands-for-protests?traffic_source=rss)
+
+---
+
+### 8. Southern California wildfire engulfs homes, prompts evacuation orders
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The fast-spreading Norte Fire in Orange County is fuelled by intense warm winds and unseasonably high temperatures.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/17/southern-california-wildfire-engulfs-homes-prompts-evacuation-orders?traffic_source=rss](https://www.aljazeera.com/news/2026/10/17/southern-california-wildfire-engulfs-homes-prompts-evacuation-orders?traffic_source=rss)
+
+---
+
+### 9. Cameroonians await government reshuffle after Biya’s return
 
 **Source:** Al Jazeera
 
@@ -62,33 +136,7 @@ After 10 weeks abroad, Biya returned to Cameroon but has yet to appoint a new go
 
 ---
 
-### 5. Brazil’s Amazon deforestation hits lowest level on record
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Data show a 42 percent drop in forest clearance from a year earlier, giving Lula a boost before the election run-off.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/17/brazils-amazon-deforestation-hits-lowest-level-on-record?traffic_source=rss](https://www.aljazeera.com/news/2026/10/17/brazils-amazon-deforestation-hits-lowest-level-on-record?traffic_source=rss)
-
----
-
-### 6. Healthcare crisis escalating in Yemen’s besieged Taiz
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Fighting between Yemen’s Houthis and the internationally recognised government is deepening the humanitarian crisis.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/17/healthcare-crisis-escalating-in-yemens-besieged-taiz?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/17/healthcare-crisis-escalating-in-yemens-besieged-taiz?traffic_source=rss)
-
----
-
-### 7. Tropical Cyclone 01P
+### 10. Tropical Cyclone 01P
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Severe Storms
 
 ---
 
-### 8. Typhoon Champi
+### 11. Typhoon Champi
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Severe Storms
 
 ---
 
-### 9. Prescribed Fire Newman Piles RX, Coconino, Arizona
+### 12. Prescribed Fire Newman Piles RX, Coconino, Arizona
 
 **Source:** NASA
 

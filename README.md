@@ -1,32 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-17 22:35:17
+**Last Update:** 2026-10-17 23:03:35
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Qwen3.8-27B on the iPhone 18 Neural Engine at 15–70 tok/s (1.5 bpw)
+### 1. Pattern Matching Beats Narrative Reasoning
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://twitter.com/anemll/status/2111517143087067309">https://twitter.com/anemll/status/2111517143087067309</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50133500">https://news.ycombinator.com/item?id=50133500</a></p>
-<p>Points: 24</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://blog.scottstevenson.net/p/pattern-matching-beats-narrative">https://blog.scottstevenson.net/p/pattern-matching-beats-narrative</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50133736">https://news.ycombinator.com/item?id=50133736</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://twitter.com/anemll/status/2111517143087067309](https://twitter.com/anemll/status/2111517143087067309)
+🔗 **Read more:** [https://blog.scottstevenson.net/p/pattern-matching-beats-narrative](https://blog.scottstevenson.net/p/pattern-matching-beats-narrative)
 
 ---
 
-### 2. OpenCode Hacked: User credentials leaked
+### 2. AI Can Write the Code. Who Verifies It?
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://mihaisplace.com/blog/ai-can-write-the-code-who-verifies-it">https://mihaisplace.com/blog/ai-can-write-the-code-who-verifies-it</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50133713">https://news.ycombinator.com/item?id=50133713</a></p>
+<p>Points: 5</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://mihaisplace.com/blog/ai-can-write-the-code-who-verifies-it](https://mihaisplace.com/blog/ai-can-write-the-code-who-verifies-it)
+
+---
+
+### 3. OpenCode Hacked: User credentials leaked
 
 **Source:** Hacker News
 
@@ -35,43 +51,14 @@
 **Description:**
 <p>Article URL: <a href="https://twitter.com/opencode/status/2111516673953935833">https://twitter.com/opencode/status/2111516673953935833</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50133401">https://news.ycombinator.com/item?id=50133401</a></p>
-<p>Points: 99</p>
-<p># Comments: 26</p>
+<p>Points: 152</p>
+<p># Comments: 34</p>
 
 🔗 **Read more:** [https://twitter.com/opencode/status/2111516673953935833](https://twitter.com/opencode/status/2111516673953935833)
 
 ---
 
-### 3. Development statistics for the 7.2 kernel
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://lwn.net/Articles/1088776/">https://lwn.net/Articles/1088776/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50132950">https://news.ycombinator.com/item?id=50132950</a></p>
-<p>Points: 80</p>
-<p># Comments: 34</p>
-
-🔗 **Read more:** [https://lwn.net/Articles/1088776/](https://lwn.net/Articles/1088776/)
-
----
-
-### 4. Watch: 'Mood has really shifted' as Paris protesters clash with police
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The BBC is on the ground at the Place de la République, where protesters and police clash after weeks of students demonstrations.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c6vg08xlr8g3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c6vg08xlr8g3o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. More NHS staff sacked over attacks victims' records
+### 4. More NHS staff sacked over attacks victims' records
 
 **Source:** BBC
 
@@ -84,7 +71,7 @@ Nottingham University Hospitals NHS Trust says a new system will be brought in t
 
 ---
 
-### 6. European diplomats attacked by Israeli settlers in West Bank
+### 5. European diplomats attacked by Israeli settlers in West Bank
 
 **Source:** BBC
 
@@ -97,42 +84,55 @@ The Israeli military condemns the violence but the prime minister's office says 
 
 ---
 
-### 7. Is the US Embassy in Jerusalem for Israel or America?
+### 6. UK must protect against Russian 'hybrid attacks', ex-national security adviser says
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-What led to the deaths of the nine Americans killed in the occupied West Bank since 2022?
+Lord Ricketts says more should be spent on improving the resilience of energy, transport, air traffic control and defence sites.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/17/is-the-us-embassy-in-jerusalem-for-israel-or-america?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/17/is-the-us-embassy-in-jerusalem-for-israel-or-america?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmze4y9rjepro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmze4y9rjepro?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. Israeli drone attacks kill six Palestinians across Gaza despite ‘ceasefire’
+### 7. Albanian police fire rubber bullets as protests against Rama escalate
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Attacks hit several areas as UNICEF reports more than 340 children killed since &#039;ceasefire&#039; began a year ago.
+Five days of clashes rock Tirana as students join a wider movement demanding Prime Minister Edi Rama&#039;s resignation.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/17/israeli-drone-attacks-kill-six-palestinians-across-gaza-despite-ceasefire?traffic_source=rss](https://www.aljazeera.com/news/2026/10/17/israeli-drone-attacks-kill-six-palestinians-across-gaza-despite-ceasefire?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/17/albanian-police-fire-rubber-bullets-as-protests-against-rama-escalate?traffic_source=rss](https://www.aljazeera.com/news/2026/10/17/albanian-police-fire-rubber-bullets-as-protests-against-rama-escalate?traffic_source=rss)
 
 ---
 
-### 9. India and West Indies denied a thrilling finale as rain hits final T20
+### 8. Hundreds rally in Kyiv to demand the resignation of Mayor Vitali Klitschko
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-India reached 118-5 after seven overs with Naman Dhir hitting 24 off six balls before rain forced an end to the game.
+Hundreds of protesters rallied outside the office of Kyiv’s mayor Vitali Klitschko, demanding that he steps down.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/17/india-and-west-indies-denied-thrilling-finale-as-rain-hits-final-t20?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/17/india-and-west-indies-denied-thrilling-finale-as-rain-hits-final-t20?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/17/hundreds-rally-in-kyiv-to-demand-the-resignation-of-mayor-vitali-klitschko?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/17/hundreds-rally-in-kyiv-to-demand-the-resignation-of-mayor-vitali-klitschko?traffic_source=rss)
+
+---
+
+### 9. Will the EU come to Ukraine’s rescue in war against Russia?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+US support at risk as Trump-Zelenskyy relations nosedive.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/10/17/will-the-eu-come-to-ukraines-rescue-in-war-against-russia?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/10/17/will-the-eu-come-to-ukraines-rescue-in-war-against-russia?traffic_source=rss)
 
 ---
 

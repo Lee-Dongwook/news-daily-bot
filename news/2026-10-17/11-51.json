@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-17T11:51:44+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Why Math Dumped OpenAI",
+            "description": "<p>Article URL: <a href=\"https://raymyers.org/post/math-dumped-openai/\">https://raymyers.org/post/math-dumped-openai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50128468\">https://news.ycombinator.com/item?id=50128468</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+            "url": "https://raymyers.org/post/math-dumped-openai/",
+            "published": "Sat, 17 Oct 2026 06:19:44 +0000",
+            "fetched": "2026-10-17T11:51:44+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+            "description": "<p>Article URL: <a href=\"https://llmspeed.dev/\">https://llmspeed.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50127979\">https://news.ycombinator.com/item?id=50127979</a></p>\n<p>Points: 47</p>\n<p># Comments: 18</p>",
+            "url": "https://llmspeed.dev/",
+            "published": "Sat, 17 Oct 2026 04:36:53 +0000",
+            "fetched": "2026-10-17T11:51:44+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Butlerian Jihad",
+            "description": "<p>Article URL: <a href=\"https://dune.fandom.com/wiki/Butlerian_Jihad\">https://dune.fandom.com/wiki/Butlerian_Jihad</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50127274\">https://news.ycombinator.com/item?id=50127274</a></p>\n<p>Points: 205</p>\n<p># Comments: 111</p>",
+            "url": "https://dune.fandom.com/wiki/Butlerian_Jihad",
+            "published": "Sat, 17 Oct 2026 02:21:08 +0000",
+            "fetched": "2026-10-17T11:51:44+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+            "description": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
+            "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 17 Oct 2026 07:41:01 GMT",
+            "fetched": "2026-10-17T11:51:44+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
+            "description": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
+            "url": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 17 Oct 2026 06:49:48 GMT",
+            "fetched": "2026-10-17T11:51:44+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Third runway at Heathrow Airport would drive growth, Healey says",
+            "description": "It comes after the prime minister refused to say whether he backed expansion.",
+            "url": "https://www.bbc.co.uk/news/articles/cw0k07d2nj43o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 17 Oct 2026 03:57:16 GMT",
+            "fetched": "2026-10-17T11:51:44+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Arrests made for pro-Nazi chants at Hajduk Split-Ajax match in Croatia",
+            "description": "Croatian football fans arrested over slurs before and during UEFA Conference League game in Split.",
+            "url": "https://www.aljazeera.com/sports/2026/10/17/pro-nazi-arrests-made-for-chants-at-hajduk-split-ajax-in-uefa-europa-league?traffic_source=rss",
+            "published": "Sat, 17 Oct 2026 07:45:31 +0000",
+            "fetched": "2026-10-17T11:51:44+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Senegal-sized Antarctic glacier melting faster than thought: Why it matters",
+            "description": "Thwaites glacier has been losing ice for decades. Now there are concerns of rapidly accelerating loss.",
+            "url": "https://www.aljazeera.com/news/2026/10/17/senegal-sized-antarctic-glacier-melting-faster-than-thought-why-it-matters?traffic_source=rss",
+            "published": "Sat, 17 Oct 2026 07:43:19 +0000",
+            "fetched": "2026-10-17T11:51:44+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "11-year old flying car company mocks Tesla Roadster",
+            "description": "California-based Alef Aeronautics mocked Tesla, releasing a video of its flying car soaring over a Tesla Roadster.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/11-year-old-flying-car-company-mocks-tesla-roadster?traffic_source=rss",
+            "published": "Sat, 17 Oct 2026 07:32:42 +0000",
+            "fetched": "2026-10-17T11:51:44+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone 01P",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25340",
+            "published": "2026-10-16T06:00:00Z",
+            "fetched": "2026-10-17T11:51:44+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Champi",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25339",
+            "published": "2026-10-15T12:00:00Z",
+            "fetched": "2026-10-17T11:51:44+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Newman Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25310",
+            "published": "2026-10-14T10:42:00Z",
+            "fetched": "2026-10-17T11:51:44+03:30"
+        }
+    ]
+}

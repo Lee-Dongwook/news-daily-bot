@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-17 16:16:26
+**Last Update:** 2026-10-17 17:18:50
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017">https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50129121">https://news.ycombinator.com/item?id=50129121</a></p>
-<p>Points: 277</p>
-<p># Comments: 105</p>
+<p>Points: 346</p>
+<p># Comments: 138</p>
 
 🔗 **Read more:** [https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017](https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017">https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50129045">https://news.ycombinator.com/item?id=50129045</a></p>
-<p>Points: 239</p>
-<p># Comments: 96</p>
+<p>Points: 271</p>
+<p># Comments: 104</p>
 
 🔗 **Read more:** [https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://llmspeed.dev/">https://llmspeed.dev/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50127979">https://news.ycombinator.com/item?id=50127979</a></p>
-<p>Points: 117</p>
-<p># Comments: 41</p>
+<p>Points: 136</p>
+<p># Comments: 47</p>
 
 🔗 **Read more:** [https://llmspeed.dev/](https://llmspeed.dev/)
 
@@ -71,68 +71,68 @@ The BBC is on the ground at the Place de la République, where protesters and po
 
 ---
 
-### 5. Trump waives several Russia sanctions as row with Zelensky intensifies
+### 5. UK must protect against Russian 'hybrid attacks', ex-national security adviser says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The US president temporarily ends many restrictions on Moscow recently passed by Congress over "national security" concerns.
+Lord Ricketts says more should be spent on improving the resilience of energy, transport, air traffic control and defence sites.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmze4y9rjepro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmze4y9rjepro?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'
+### 6. More NHS staff sacked over attacks victims' records
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.
+Nottingham University Hospitals NHS Trust says a new system will be brought in to protect records.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmd7q8ld3dd3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmd7q8ld3dd3o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. France tackles new wave of nationwide protests
+### 7. Child, four women among Palestinians injured in West Bank pogroms
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-France is tackling nationwide protests, as students, unions, and activists rally against high prices and inequality.
+Attacks follow a religious edict by a prominent far-right rabbi permitting the seizure of Palestinian olives.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/17/france-tackles-new-wave-of-nationwide-protests?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/17/france-tackles-new-wave-of-nationwide-protests?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/17/several-palestinians-injured-detained-in-ongoing-west-bank-pogrom?traffic_source=rss](https://www.aljazeera.com/news/2026/10/17/several-palestinians-injured-detained-in-ongoing-west-bank-pogrom?traffic_source=rss)
 
 ---
 
-### 8. US and Iran both claim control of Strait of Hormuz amid attacks on vessels
+### 8. Davidovich Fokina stuns top seed Zverev to reach Shanghai Masters final
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Two vessels have been struck with naval mines in the Strait of Hormuz this week.
+The 26th-ranked Spaniard fought back to win 5-7, 6-4, 6-3 and will play Daniil Medvedev or Rafael Jodar in the final.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/17/us-and-iran-both-claim-control-of-strait-of-hormuz-amid-attacks-on-vessels?traffic_source=rss](https://www.aljazeera.com/news/2026/10/17/us-and-iran-both-claim-control-of-strait-of-hormuz-amid-attacks-on-vessels?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/17/davidovich-fokina-stuns-top-seed-zverev-to-reach-shanghai-masters-final?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/17/davidovich-fokina-stuns-top-seed-zverev-to-reach-shanghai-masters-final?traffic_source=rss)
 
 ---
 
-### 9. Women protest in New Delhi against police brutality
+### 9. Hardline Israeli rabbi ruling on stolen Palestinian olives prompts uproar
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Women protest in New Delhi against police brutality
+A controversial ruling by a hardline Israeli rabbi has been condemned by Palestinians.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/17/women-protest-in-new-delhi-against-police-brutality?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/17/women-protest-in-new-delhi-against-police-brutality?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/17/hardline-israeli-rabbi-ruling-on-stolen-palestinian-olives-sparks-uproar?traffic_source=rss](https://www.aljazeera.com/news/2026/10/17/hardline-israeli-rabbi-ruling-on-stolen-palestinian-olives-sparks-uproar?traffic_source=rss)
 
 ---
 

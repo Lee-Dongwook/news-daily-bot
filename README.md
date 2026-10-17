@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-17 20:52:36
+**Last Update:** 2026-10-17 22:35:17
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Artie (YC S23) Is Hiring Enterprise AES and Senior Engineers
+### 1. Qwen3.8-27B on the iPhone 18 Neural Engine at 15–70 tok/s (1.5 bpw)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.artie.com/careers">https://www.artie.com/careers</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50132839">https://news.ycombinator.com/item?id=50132839</a></p>
-<p>Points: 0</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://www.artie.com/careers](https://www.artie.com/careers)
-
----
-
-### 2. GLP-1 may slow biological aging
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.universityofcalifornia.edu/news/new-study-shows-popular-glp-1-weight-loss-drug-may-slow-biological-aging">https://www.universityofcalifornia.edu/news/new-study-shows-popular-glp-1-weight-loss-drug-may-slow-biological-aging</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50132328">https://news.ycombinator.com/item?id=50132328</a></p>
-<p>Points: 60</p>
-<p># Comments: 34</p>
-
-🔗 **Read more:** [https://www.universityofcalifornia.edu/news/new-study-shows-popular-glp-1-weight-loss-drug-may-slow-biological-aging](https://www.universityofcalifornia.edu/news/new-study-shows-popular-glp-1-weight-loss-drug-may-slow-biological-aging)
-
----
-
-### 3. Amazon uses union-busting AI surveillance to monitor union risk in UK warehouses
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/">https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50132278">https://news.ycombinator.com/item?id=50132278</a></p>
-<p>Points: 33</p>
+<p>Article URL: <a href="https://twitter.com/anemll/status/2111517143087067309">https://twitter.com/anemll/status/2111517143087067309</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50133500">https://news.ycombinator.com/item?id=50133500</a></p>
+<p>Points: 24</p>
 <p># Comments: 4</p>
 
-🔗 **Read more:** [https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/](https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/)
+🔗 **Read more:** [https://twitter.com/anemll/status/2111517143087067309](https://twitter.com/anemll/status/2111517143087067309)
+
+---
+
+### 2. OpenCode Hacked: User credentials leaked
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://twitter.com/opencode/status/2111516673953935833">https://twitter.com/opencode/status/2111516673953935833</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50133401">https://news.ycombinator.com/item?id=50133401</a></p>
+<p>Points: 99</p>
+<p># Comments: 26</p>
+
+🔗 **Read more:** [https://twitter.com/opencode/status/2111516673953935833](https://twitter.com/opencode/status/2111516673953935833)
+
+---
+
+### 3. Development statistics for the 7.2 kernel
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://lwn.net/Articles/1088776/">https://lwn.net/Articles/1088776/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50132950">https://news.ycombinator.com/item?id=50132950</a></p>
+<p>Points: 80</p>
+<p># Comments: 34</p>
+
+🔗 **Read more:** [https://lwn.net/Articles/1088776/](https://lwn.net/Articles/1088776/)
 
 ---
 
@@ -84,55 +84,55 @@ Nottingham University Hospitals NHS Trust says a new system will be brought in t
 
 ---
 
-### 6. UK must protect against Russian 'hybrid attacks', ex-national security adviser says
+### 6. European diplomats attacked by Israeli settlers in West Bank
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Lord Ricketts says more should be spent on improving the resilience of energy, transport, air traffic control and defence sites.
+The Israeli military condemns the violence but the prime minister's office says it is part of a "smear" campaign.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmze4y9rjepro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmze4y9rjepro?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Al Jazeera reports from Paris as protests turns violent
+### 7. Is the US Embassy in Jerusalem for Israel or America?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-In Paris, thousands are protesting teacher shortages, poor school facilities and cuts to public services.
+What led to the deaths of the nine Americans killed in the occupied West Bank since 2022?
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/17/al-jazeera-reports-from-paris-as-protests-turns-violent?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/17/al-jazeera-reports-from-paris-as-protests-turns-violent?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/17/is-the-us-embassy-in-jerusalem-for-israel-or-america?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/17/is-the-us-embassy-in-jerusalem-for-israel-or-america?traffic_source=rss)
 
 ---
 
-### 8. Why are Latin American countries building closer ties with Israel?
+### 8. Israeli drone attacks kill six Palestinians across Gaza despite ‘ceasefire’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A wave of new Latin American leaders reverses measures meant to isolate Israel after its genocidal war on Gaza.
+Attacks hit several areas as UNICEF reports more than 340 children killed since &#039;ceasefire&#039; began a year ago.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/17/why-are-latin-american-countries-building-closer-ties-with-israel?traffic_source=rss](https://www.aljazeera.com/news/2026/10/17/why-are-latin-american-countries-building-closer-ties-with-israel?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/17/israeli-drone-attacks-kill-six-palestinians-across-gaza-despite-ceasefire?traffic_source=rss](https://www.aljazeera.com/news/2026/10/17/israeli-drone-attacks-kill-six-palestinians-across-gaza-despite-ceasefire?traffic_source=rss)
 
 ---
 
-### 9. Egypt’s el-Sisi vows to defend Saudi Arabia from Houthi attacks
+### 9. India and West Indies denied a thrilling finale as rain hits final T20
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Egyptian President Abdel Fattah el-Sisi has vowed to take &#039;any measure&#039; to defend Saudi Arabia amid Houthi attacks.
+India reached 118-5 after seven overs with Naman Dhir hitting 24 off six balls before rain forced an end to the game.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/17/10-17-egypt-saudi-houths-clip?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/17/10-17-egypt-saudi-houths-clip?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/17/india-and-west-indies-denied-thrilling-finale-as-rain-hits-final-t20?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/17/india-and-west-indies-denied-thrilling-finale-as-rain-hits-final-t20?traffic_source=rss)
 
 ---
 

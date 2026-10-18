@@ -1,16 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-18 13:14:17
+**Last Update:** 2026-10-18 14:07:19
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Urgent plan needed to end 'corridor care' for children, health secretary says
+### 1. Parser Combinators
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://t3.at/blog/2026-10-17-parser-combinators/">https://t3.at/blog/2026-10-17-parser-combinators/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50139067">https://news.ycombinator.com/item?id=50139067</a></p>
+<p>Points: 14</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://t3.at/blog/2026-10-17-parser-combinators/](https://t3.at/blog/2026-10-17-parser-combinators/)
+
+---
+
+### 2. DeepSeek search and fetch – $0.75 per 1000 successful requests
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://api-docs.deepseek.com/guides/search/">https://api-docs.deepseek.com/guides/search/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50138531">https://news.ycombinator.com/item?id=50138531</a></p>
+<p>Points: 194</p>
+<p># Comments: 92</p>
+
+🔗 **Read more:** [https://api-docs.deepseek.com/guides/search/](https://api-docs.deepseek.com/guides/search/)
+
+---
+
+### 3. Matthew Prince on why Cloudflare offers a free version and always will (2016)
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685">https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50138087">https://news.ycombinator.com/item?id=50138087</a></p>
+<p>Points: 97</p>
+<p># Comments: 76</p>
+
+🔗 **Read more:** [https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685](https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685)
+
+---
+
+### 4. Polanski says he will not overturn Green Party's 'Zionism is racism' motion
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The Green Party leader said, while he wanted to amend it, the motion would stand until 2028.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmn8w5v8yne4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmn8w5v8yne4o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Ending corridor care in hospitals for children will be a priority, says health secretary
 
 **Source:** BBC
 
@@ -23,72 +84,59 @@ Yvette Cooper also announces £140m investment in England's urgent care system, 
 
 ---
 
-### 2. Violent clashes, looting and buildings ablaze in France as more than 1,200 arrested after protests
+### 6. Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Disorder broke out in cities across the country on a day in which more than half a million joined cost of living protests.
+Around 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 3. Watch: Moment historic French town hall spire collapses in flames amid protests
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-An historic town hall in the southern French city of Limoges was set ablaze during national protests.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c6e3xjw37wn7o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c6e3xjw37wn7o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. Fighting intensifies across Yemen as humanitarian crisis deepens
+### 7. Gaza Family Reunion: Finding each other after the ‘ceasefire’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Clashes between Yemeni forces and Houthis cause casualties on both sides as aid agencies warn of humanitarian crisis.
+Separated by war for more than a year, a captain in Gaza’s Civil Defence unit attempts to reunite with his family.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/18/fighting-intensifies-across-yemen-as-humanitarian-crisis-deepens?traffic_source=rss](https://www.aljazeera.com/news/2026/10/18/fighting-intensifies-across-yemen-as-humanitarian-crisis-deepens?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/witness/2026/10/18/gaza-family-reunion-finding-each-other-after-the-ceasefire?traffic_source=rss](https://www.aljazeera.com/video/witness/2026/10/18/gaza-family-reunion-finding-each-other-after-the-ceasefire?traffic_source=rss)
 
 ---
 
-### 5. LIVE: Leeds United vs Manchester United – Premier League
+### 8. Egypt to provide ‘necessary’ support to Saudi Arabia amid Houthi attacks
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Follow updates, including team news, from our live text commentary stream as Bruno Fernandes, Marcus Rashford headline.
+Presidency says Egypt will provide Saudi Arabia with support to defend its security and protect its resources.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/liveblog/2026/10/18/live-leeds-united-vs-manchester-united-premier-league?traffic_source=rss](https://www.aljazeera.com/sports/liveblog/2026/10/18/live-leeds-united-vs-manchester-united-premier-league?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/18/egypt-to-provide-all-necessary-and-possible-support-to-saudi?traffic_source=rss](https://www.aljazeera.com/news/2026/10/18/egypt-to-provide-all-necessary-and-possible-support-to-saudi?traffic_source=rss)
 
 ---
 
-### 6. Haaland’s record scoring spree helps Man City to seventh Premier League win
+### 9. Indian YouTuber Dhruv Rathee leads anti-BJP protest in London
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Manchester City continue their 100 percent start despite calls for sanctions after being found guilty of breaking rules.
+Dhruv Rathee led a ‘Stop vote theft’ protest in London, accusing Modi&#039;s government of electoral manipulation.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/18/haalands-record-scoring-spree-helps-man-city-to-seventh-premier-league-win?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/18/haalands-record-scoring-spree-helps-man-city-to-seventh-premier-league-win?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/18/indian-youtuber-dhruv-rathee-leads-anti-bjp-protest-in-london?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/18/indian-youtuber-dhruv-rathee-leads-anti-bjp-protest-in-london?traffic_source=rss)
 
 ---
 
-### 7. Tropical Cyclone 01P
+### 10. Tropical Cyclone 01P
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Severe Storms
 
 ---
 
-### 8. Super Typhoon Champi
+### 11. Super Typhoon Champi
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Severe Storms
 
 ---
 
-### 9. Prescribed Fire Newman Piles RX, Coconino, Arizona
+### 12. Prescribed Fire Newman Piles RX, Coconino, Arizona
 
 **Source:** NASA
 

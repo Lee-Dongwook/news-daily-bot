@@ -1,16 +1,29 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-18 23:48:23
+**Last Update:** 2026-10-19 01:59:33
 
 **Total News:** 9
 
-**Sources:** NASA, Al Jazeera, BBC
+**Sources:** BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. What we know so far about deadly fire at Canadian military base
+### 1. Macron calls for 'calm and order' after riots across France
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 2. What we know so far about deadly fire at Canadian military base
 
 **Source:** BBC
 
@@ -20,19 +33,6 @@
 At least four people are confirmed to have died after a huge fire swept through the base.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss)
-
----
-
-### 2. Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-About 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -49,42 +49,42 @@ The Green Party leader said, while he wanted to amend it, the motion would stand
 
 ---
 
-### 4. India’s crackdown on cockroaches, critics and cameras
+### 4. Alberta independence referendum: Will separatists survive a loss?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A government at war with its critics - from young protesters to the media.
+Alberta’s independence movement faces likely defeat, but history suggests losing a referendum may not end the fight.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/the-listening-post/2026/10/18/indias-crackdown-on-cockroaches-critics-and-cameras?traffic_source=rss](https://www.aljazeera.com/video/the-listening-post/2026/10/18/indias-crackdown-on-cockroaches-critics-and-cameras?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/18/alberta-independence-referendum-will-separatists-survive-a-loss?traffic_source=rss](https://www.aljazeera.com/news/2026/10/18/alberta-independence-referendum-will-separatists-survive-a-loss?traffic_source=rss)
 
 ---
 
-### 5. How will Europe deal with youth-led protests?
+### 5. Macron condemns violence after riots lead to looting and mass arrests
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Demonstrations are spreading across the continent.
+French President Emmanuel Macron says protesters who attacked government buildings need to pay for their crimes.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/10/18/how-will-europe-deal-with-youth-led-protests?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/10/18/how-will-europe-deal-with-youth-led-protests?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/18/macron-condemns-violence-after-riots-lead-to-looting-and-mass-arrests?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/18/macron-condemns-violence-after-riots-lead-to-looting-and-mass-arrests?traffic_source=rss)
 
 ---
 
-### 6. Clarence Seedorf calls out genocide in first Corinthians press conference
+### 6. Fire engulfs Albania’s Supreme Court as protests enter fifth day
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Clarence Seedorf says football must be kept in perspective while genocides and conflicts continue around the world.
+Offices at the Supreme Court in Tirana were set ablaze as anti-government protests continue.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/18/clarence-seedorf-calls-out-genocide-in-first-corinthians-press-conference?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/18/clarence-seedorf-calls-out-genocide-in-first-corinthians-press-conference?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/18/albania-protests-supreme-court-fire?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/18/albania-protests-supreme-court-fire?traffic_source=rss)
 
 ---
 

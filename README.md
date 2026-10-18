@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-18 14:07:19
+**Last Update:** 2026-10-18 17:34:14
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Parser Combinators
+### 1. Open MicroManipulator – A sub-micrometer 3D motion control plattform
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/0x23/MicroManipulatorStepper">https://github.com/0x23/MicroManipulatorStepper</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50140001">https://news.ycombinator.com/item?id=50140001</a></p>
+<p>Points: 44</p>
+<p># Comments: 5</p>
+
+🔗 **Read more:** [https://github.com/0x23/MicroManipulatorStepper](https://github.com/0x23/MicroManipulatorStepper)
+
+---
+
+### 2. Legal experts warn Meta's new terms still grant broad scraping permissions
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/">https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50139692">https://news.ycombinator.com/item?id=50139692</a></p>
+<p>Points: 62</p>
+<p># Comments: 15</p>
+
+🔗 **Read more:** [https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/](https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/)
+
+---
+
+### 3. Parser Combinators
 
 **Source:** Hacker News
 
@@ -19,72 +51,14 @@
 **Description:**
 <p>Article URL: <a href="https://t3.at/blog/2026-10-17-parser-combinators/">https://t3.at/blog/2026-10-17-parser-combinators/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50139067">https://news.ycombinator.com/item?id=50139067</a></p>
-<p>Points: 14</p>
-<p># Comments: 1</p>
+<p>Points: 89</p>
+<p># Comments: 44</p>
 
 🔗 **Read more:** [https://t3.at/blog/2026-10-17-parser-combinators/](https://t3.at/blog/2026-10-17-parser-combinators/)
 
 ---
 
-### 2. DeepSeek search and fetch – $0.75 per 1000 successful requests
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://api-docs.deepseek.com/guides/search/">https://api-docs.deepseek.com/guides/search/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50138531">https://news.ycombinator.com/item?id=50138531</a></p>
-<p>Points: 194</p>
-<p># Comments: 92</p>
-
-🔗 **Read more:** [https://api-docs.deepseek.com/guides/search/](https://api-docs.deepseek.com/guides/search/)
-
----
-
-### 3. Matthew Prince on why Cloudflare offers a free version and always will (2016)
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685">https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50138087">https://news.ycombinator.com/item?id=50138087</a></p>
-<p>Points: 97</p>
-<p># Comments: 76</p>
-
-🔗 **Read more:** [https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685](https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685)
-
----
-
-### 4. Polanski says he will not overturn Green Party's 'Zionism is racism' motion
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The Green Party leader said, while he wanted to amend it, the motion would stand until 2028.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmn8w5v8yne4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmn8w5v8yne4o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Ending corridor care in hospitals for children will be a priority, says health secretary
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Yvette Cooper also announces £140m investment in England's urgent care system, ahead of winter.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm2kezgd77qlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm2kezgd77qlo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting
+### 4. Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting
 
 **Source:** BBC
 
@@ -97,42 +71,68 @@ Around 1,800 people were arrested after nationwide protests saw outbreaks of vio
 
 ---
 
-### 7. Gaza Family Reunion: Finding each other after the ‘ceasefire’
+### 5. Watch: Parisians wake up to protest damage and looted shops
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-Separated by war for more than a year, a captain in Gaza’s Civil Defence unit attempts to reunite with his family.
+Violence broke out across France on Saturday during the latest day of demonstrations against conditions in schools and the cost of living.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/witness/2026/10/18/gaza-family-reunion-finding-each-other-after-the-ceasefire?traffic_source=rss](https://www.aljazeera.com/video/witness/2026/10/18/gaza-family-reunion-finding-each-other-after-the-ceasefire?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. Egypt to provide ‘necessary’ support to Saudi Arabia amid Houthi attacks
+### 6. Polanski says he will not overturn Green Party's 'Zionism is racism' motion
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-Presidency says Egypt will provide Saudi Arabia with support to defend its security and protect its resources.
+The Green Party leader said, while he wanted to amend it, the motion would stand until 2028.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/18/egypt-to-provide-all-necessary-and-possible-support-to-saudi?traffic_source=rss](https://www.aljazeera.com/news/2026/10/18/egypt-to-provide-all-necessary-and-possible-support-to-saudi?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmn8w5v8yne4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmn8w5v8yne4o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 9. Indian YouTuber Dhruv Rathee leads anti-BJP protest in London
+### 7. Why have France’s school protests become a wider political crisis?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Dhruv Rathee led a ‘Stop vote theft’ protest in London, accusing Modi&#039;s government of electoral manipulation.
+The demonstrations have united students and ‘yellow vest’ supporters, exposing deeper anger over living standards.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/18/indian-youtuber-dhruv-rathee-leads-anti-bjp-protest-in-london?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/18/indian-youtuber-dhruv-rathee-leads-anti-bjp-protest-in-london?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/18/why-have-frances-school-protests-become-a-wider-political-crisis?traffic_source=rss](https://www.aljazeera.com/news/2026/10/18/why-have-frances-school-protests-become-a-wider-political-crisis?traffic_source=rss)
+
+---
+
+### 8. Sudan army accused of drone strike on livestock market
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Sudan’s army says it struck RSF command centres in South Darfur, but the RSF says a crowded livestock market was hit.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/18/sudan-army-accused-of-drone-strike-on-livestock-market?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/18/sudan-army-accused-of-drone-strike-on-livestock-market?traffic_source=rss)
+
+---
+
+### 9. Was ancient India the world’s forgotten superpower?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+In Deja Vu’s latest episode, William Dalrymple explores ancient India’s global influence – and how it was overlooked.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/deja-vu-2/2026/10/18/was-ancient-india-the-worlds-forgotten-superpower?traffic_source=rss](https://www.aljazeera.com/video/deja-vu-2/2026/10/18/was-ancient-india-the-worlds-forgotten-superpower?traffic_source=rss)
 
 ---
 

@@ -1,64 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-18 23:00:50
+**Last Update:** 2026-10-18 23:48:23
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Free Pascal Compiler Now Supports Dynamic Packages
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.getlazarus.org/dynamic/">https://www.getlazarus.org/dynamic/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50144066">https://news.ycombinator.com/item?id=50144066</a></p>
-<p>Points: 10</p>
-<p># Comments: 3</p>
-
-🔗 **Read more:** [https://www.getlazarus.org/dynamic/](https://www.getlazarus.org/dynamic/)
-
----
-
-### 2. HOA's are making the home crisis worse
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html">https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50144005">https://news.ycombinator.com/item?id=50144005</a></p>
-<p>Points: 63</p>
-<p># Comments: 39</p>
-
-🔗 **Read more:** [https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html](https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html)
-
----
-
-### 3. CFPB Opens Debanking Investigation into Nine Large National Banks
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.forbes.com/sites/ajdhaliwal/2026/10/16/cfpb-opens-debanking-investigation-into-nine-large-national-banks/">https://www.forbes.com/sites/ajdhaliwal/2026/10/16/cfpb-opens-debanking-investigation-into-nine-large-national-banks/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50143876">https://news.ycombinator.com/item?id=50143876</a></p>
-<p>Points: 14</p>
-<p># Comments: 4</p>
-
-🔗 **Read more:** [https://www.forbes.com/sites/ajdhaliwal/2026/10/16/cfpb-opens-debanking-investigation-into-nine-large-national-banks/](https://www.forbes.com/sites/ajdhaliwal/2026/10/16/cfpb-opens-debanking-investigation-into-nine-large-national-banks/)
-
----
-
-### 4. What we know so far about deadly fire at Canadian military base
+### 1. What we know so far about deadly fire at Canadian military base
 
 **Source:** BBC
 
@@ -71,7 +23,7 @@ At least four people are confirmed to have died after a huge fire swept through 
 
 ---
 
-### 5. Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting
+### 2. Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting
 
 **Source:** BBC
 
@@ -84,7 +36,7 @@ About 1,800 people were arrested after nationwide protests saw outbreaks of viol
 
 ---
 
-### 6. Polanski says he will not overturn Green Party's 'Zionism is racism' motion
+### 3. Polanski says he will not overturn Green Party's 'Zionism is racism' motion
 
 **Source:** BBC
 
@@ -97,46 +49,46 @@ The Green Party leader said, while he wanted to amend it, the motion would stand
 
 ---
 
-### 7. GCC condemns Houthi attacks on Saudi Arabia as Yemen fighting intensifies
+### 4. India’s crackdown on cockroaches, critics and cameras
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Gulf ministers urge action against Houthis as fighting displaces more than 233,000 people across Yemen.
+A government at war with its critics - from young protesters to the media.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/18/gcc-condemns-houthi-attacks-on-saudi-arabia-as-yemen-fighting-intensifies?traffic_source=rss](https://www.aljazeera.com/news/2026/10/18/gcc-condemns-houthi-attacks-on-saudi-arabia-as-yemen-fighting-intensifies?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/the-listening-post/2026/10/18/indias-crackdown-on-cockroaches-critics-and-cameras?traffic_source=rss](https://www.aljazeera.com/video/the-listening-post/2026/10/18/indias-crackdown-on-cockroaches-critics-and-cameras?traffic_source=rss)
 
 ---
 
-### 8. Gaza bodybuilders find solace in strongman competition among the ruins
+### 5. How will Europe deal with youth-led protests?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Bodybuilders in Gaza are finding solace in testing their strength during a competition surrounded by rubble.
+Demonstrations are spreading across the continent.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/18/gaza-bodybuilders-find-solace-in-strongman-competition-among-the-ruins?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/18/gaza-bodybuilders-find-solace-in-strongman-competition-among-the-ruins?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/10/18/how-will-europe-deal-with-youth-led-protests?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/10/18/how-will-europe-deal-with-youth-led-protests?traffic_source=rss)
 
 ---
 
-### 9. Why the US is holding secret talks with Myanmar’s military ruler
+### 6. Clarence Seedorf calls out genocide in first Corinthians press conference
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Why is the Trump administration holding secret talks with Myanmar&#039;s military ruler, accused of genocide?
+Clarence Seedorf says football must be kept in perspective while genocides and conflicts continue around the world.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/18/why-the-us-is-holding-secret-talks-with-myanmars-military-ruler?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/18/why-the-us-is-holding-secret-talks-with-myanmars-military-ruler?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/18/clarence-seedorf-calls-out-genocide-in-first-corinthians-press-conference?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/18/clarence-seedorf-calls-out-genocide-in-first-corinthians-press-conference?traffic_source=rss)
 
 ---
 
-### 10. Tropical Cyclone 01P
+### 7. Tropical Cyclone 01P
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Severe Storms
 
 ---
 
-### 11. Super Typhoon Champi
+### 8. Super Typhoon Champi
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Severe Storms
 
 ---
 
-### 12. Prescribed Fire Newman Piles RX, Coconino, Arizona
+### 9. Prescribed Fire Newman Piles RX, Coconino, Arizona
 
 **Source:** NASA
 

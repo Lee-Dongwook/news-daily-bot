@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-18 21:23:25
+**Last Update:** 2026-10-18 23:00:50
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. British Airways: Filming Crew W Meta Glasses Could Get Your Tickets Cancelled
+### 1. Free Pascal Compiler Now Supports Dynamic Packages
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://liveandletsfly.com/british-airways-meta-smart-glasses-filming/">https://liveandletsfly.com/british-airways-meta-smart-glasses-filming/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50143218">https://news.ycombinator.com/item?id=50143218</a></p>
-<p>Points: 28</p>
-<p># Comments: 10</p>
+<p>Article URL: <a href="https://www.getlazarus.org/dynamic/">https://www.getlazarus.org/dynamic/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50144066">https://news.ycombinator.com/item?id=50144066</a></p>
+<p>Points: 10</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://liveandletsfly.com/british-airways-meta-smart-glasses-filming/](https://liveandletsfly.com/british-airways-meta-smart-glasses-filming/)
+🔗 **Read more:** [https://www.getlazarus.org/dynamic/](https://www.getlazarus.org/dynamic/)
 
 ---
 
-### 2. Someone Behind the Software
+### 2. HOA's are making the home crisis worse
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://karrisaarinen.com/posts/someone-behind-the-software/">https://karrisaarinen.com/posts/someone-behind-the-software/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50142573">https://news.ycombinator.com/item?id=50142573</a></p>
-<p>Points: 39</p>
-<p># Comments: 10</p>
+<p>Article URL: <a href="https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html">https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50144005">https://news.ycombinator.com/item?id=50144005</a></p>
+<p>Points: 63</p>
+<p># Comments: 39</p>
 
-🔗 **Read more:** [https://karrisaarinen.com/posts/someone-behind-the-software/](https://karrisaarinen.com/posts/someone-behind-the-software/)
+🔗 **Read more:** [https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html](https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html)
 
 ---
 
-### 3. The Intel 8087 chip: floating-point addition and subtraction
+### 3. CFPB Opens Debanking Investigation into Nine Large National Banks
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html">https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50142449">https://news.ycombinator.com/item?id=50142449</a></p>
-<p>Points: 29</p>
+<p>Article URL: <a href="https://www.forbes.com/sites/ajdhaliwal/2026/10/16/cfpb-opens-debanking-investigation-into-nine-large-national-banks/">https://www.forbes.com/sites/ajdhaliwal/2026/10/16/cfpb-opens-debanking-investigation-into-nine-large-national-banks/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50143876">https://news.ycombinator.com/item?id=50143876</a></p>
+<p>Points: 14</p>
 <p># Comments: 4</p>
 
-🔗 **Read more:** [https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html](https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html)
+🔗 **Read more:** [https://www.forbes.com/sites/ajdhaliwal/2026/10/16/cfpb-opens-debanking-investigation-into-nine-large-national-banks/](https://www.forbes.com/sites/ajdhaliwal/2026/10/16/cfpb-opens-debanking-investigation-into-nine-large-national-banks/)
 
 ---
 
@@ -97,42 +97,42 @@ The Green Party leader said, while he wanted to amend it, the motion would stand
 
 ---
 
-### 7. Residents recount drone strikes in Ethiopia’s northern Tigray region
+### 7. GCC condemns Houthi attacks on Saudi Arabia as Yemen fighting intensifies
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-In Adigrat, a city close to the Eritrean border, residents recall recent drone strikes by Ethiopian forces
+Gulf ministers urge action against Houthis as fighting displaces more than 233,000 people across Yemen.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/18/residents-recount-drone-strikes-in-ethiopias-northern-tigray-region?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/18/residents-recount-drone-strikes-in-ethiopias-northern-tigray-region?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/18/gcc-condemns-houthi-attacks-on-saudi-arabia-as-yemen-fighting-intensifies?traffic_source=rss](https://www.aljazeera.com/news/2026/10/18/gcc-condemns-houthi-attacks-on-saudi-arabia-as-yemen-fighting-intensifies?traffic_source=rss)
 
 ---
 
-### 8. Trump endorses Netanyahu in Israeli legislative elections
+### 8. Gaza bodybuilders find solace in strongman competition among the ruins
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-In a social media post ahead of the October 27 election, Trump calls Netanyahu a &#039;Strong, Brave, and Brilliant&#039; leader.
+Bodybuilders in Gaza are finding solace in testing their strength during a competition surrounded by rubble.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/18/trump-endorses-netanyahu-in-israeli-legislative-elections?traffic_source=rss](https://www.aljazeera.com/news/2026/10/18/trump-endorses-netanyahu-in-israeli-legislative-elections?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/18/gaza-bodybuilders-find-solace-in-strongman-competition-among-the-ruins?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/18/gaza-bodybuilders-find-solace-in-strongman-competition-among-the-ruins?traffic_source=rss)
 
 ---
 
-### 9. ‘Hybrid warfare’: Taiwan drives away 16 Chinese ships
+### 9. Why the US is holding secret talks with Myanmar’s military ruler
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-China is ramping up its presence around Taiwan, in a pattern that Taipei said is designed to &#039;alter the status quo&#039;.
+Why is the Trump administration holding secret talks with Myanmar&#039;s military ruler, accused of genocide?
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/18/taiwan-drives-away-16-chinese-ships-accused-of-maritime-harassment?traffic_source=rss](https://www.aljazeera.com/news/2026/10/18/taiwan-drives-away-16-chinese-ships-accused-of-maritime-harassment?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/18/why-the-us-is-holding-secret-talks-with-myanmars-military-ruler?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/18/why-the-us-is-holding-secret-talks-with-myanmars-military-ruler?traffic_source=rss)
 
 ---
 

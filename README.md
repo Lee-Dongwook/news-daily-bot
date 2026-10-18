@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-18 17:34:14
+**Last Update:** 2026-10-18 17:50:59
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Open MicroManipulator – A sub-micrometer 3D motion control plattform
+### 1. RepRapMicron
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/VikOlliver/RepRapMicron/wiki">https://github.com/VikOlliver/RepRapMicron/wiki</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50141076">https://news.ycombinator.com/item?id=50141076</a></p>
+<p>Points: 11</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://github.com/VikOlliver/RepRapMicron/wiki](https://github.com/VikOlliver/RepRapMicron/wiki)
+
+---
+
+### 2. Gen Z Is the First Generation Dumber Than Their Parents
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.vice.com/en/article/gen-z-is-the-first-generation-dumber-than-their-parents-neuroscientist-claims/">https://www.vice.com/en/article/gen-z-is-the-first-generation-dumber-than-their-parents-neuroscientist-claims/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50141053">https://news.ycombinator.com/item?id=50141053</a></p>
+<p>Points: 23</p>
+<p># Comments: 12</p>
+
+🔗 **Read more:** [https://www.vice.com/en/article/gen-z-is-the-first-generation-dumber-than-their-parents-neuroscientist-claims/](https://www.vice.com/en/article/gen-z-is-the-first-generation-dumber-than-their-parents-neuroscientist-claims/)
+
+---
+
+### 3. Open MicroManipulator – A sub-micrometer 3D motion control plattform
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/0x23/MicroManipulatorStepper">https://github.com/0x23/MicroManipulatorStepper</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50140001">https://news.ycombinator.com/item?id=50140001</a></p>
-<p>Points: 44</p>
+<p>Points: 51</p>
 <p># Comments: 5</p>
 
 🔗 **Read more:** [https://github.com/0x23/MicroManipulatorStepper](https://github.com/0x23/MicroManipulatorStepper)
-
----
-
-### 2. Legal experts warn Meta's new terms still grant broad scraping permissions
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/">https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50139692">https://news.ycombinator.com/item?id=50139692</a></p>
-<p>Points: 62</p>
-<p># Comments: 15</p>
-
-🔗 **Read more:** [https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/](https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/)
-
----
-
-### 3. Parser Combinators
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://t3.at/blog/2026-10-17-parser-combinators/">https://t3.at/blog/2026-10-17-parser-combinators/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50139067">https://news.ycombinator.com/item?id=50139067</a></p>
-<p>Points: 89</p>
-<p># Comments: 44</p>
-
-🔗 **Read more:** [https://t3.at/blog/2026-10-17-parser-combinators/](https://t3.at/blog/2026-10-17-parser-combinators/)
 
 ---
 

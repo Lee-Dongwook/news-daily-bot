@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-19T22:38:09+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Towards Company World Models",
+            "description": "<p>Article URL: <a href=\"https://www.beaconholdings.com/research/towards-company-world-models\">https://www.beaconholdings.com/research/towards-company-world-models</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50156332\">https://news.ycombinator.com/item?id=50156332</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://www.beaconholdings.com/research/towards-company-world-models",
+            "published": "Mon, 19 Oct 2026 18:51:09 +0000",
+            "fetched": "2026-10-19T22:38:09+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Open-source early-reading reader with phonics help",
+            "description": "<p>My kid is 6 y/o and she is learning to read. She's moved through the basic phonics with Teach Your Monster to Read but was struggling with how repetitive it was. I wanted to give her some stories to read, but she still needed help sounding words out - and I wanted her to have the experience of sitting and reading by herself.<p>So I built this book reader app to allow her to click on the words, sound out the phonemes, and read by herself.<p>My 12 year old son wrote the first story, there's a cliffhanger at the end and he's working on the next section.<p>We're going to release more chapters and more stories in the near future.<p>And there's one other thing -<p>The reader has an MCP connection, so you can connect your Claude or ChatGPT or Grok, give them a PDF of a book you like (or even a set of scans done quickly with a phone camera) and have them import your favorite books into the app (private to your account, for your own kid, if you own the book of course).<p>The reader is free to use on its website and open source if you want to tinker and create your own version.<p>The included stories are under Creative Commons.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50155647\">https://news.ycombinator.com/item?id=50155647</a></p>\n<p>Points: 10</p>\n<p># Comments: 1</p>",
+            "url": "https://github.com/finereli/yarareads",
+            "published": "Mon, 19 Oct 2026 17:58:54 +0000",
+            "fetched": "2026-10-19T22:38:09+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Mercury 3: Diffusion at scale",
+            "description": "<p>Article URL: <a href=\"https://www.inceptionlabs.ai/blog/introducing-mercury-3\">https://www.inceptionlabs.ai/blog/introducing-mercury-3</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50155245\">https://news.ycombinator.com/item?id=50155245</a></p>\n<p>Points: 124</p>\n<p># Comments: 55</p>",
+            "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
+            "published": "Mon, 19 Oct 2026 17:27:11 +0000",
+            "fetched": "2026-10-19T22:38:09+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Are the French riots a warning of an intense election to come?",
+            "description": "Rioting, looting and vandalism has gripped France over the weekend after protests spiralled out of control across the country.",
+            "url": "https://www.bbc.co.uk/news/videos/ckzd60dy746qo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 19 Oct 2026 13:43:27 GMT",
+            "fetched": "2026-10-19T22:38:09+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Australian MP critically injured after being hit by car in apparent attack",
+            "description": "The independent politician is in hospital after what the prime minister says may have been a deliberate attack.",
+            "url": "https://www.bbc.co.uk/news/articles/cwp9g43g2p07o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 19 Oct 2026 14:09:54 GMT",
+            "fetched": "2026-10-19T22:38:09+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Woman says she 'closed eyes and tried not to be there' during alleged Russell Brand rape",
+            "description": "The 51-year-old faces three counts of rape, three charges of sexual assault and one of indecent assault.",
+            "url": "https://www.bbc.co.uk/news/articles/cvj6jylk3456o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 19 Oct 2026 18:22:06 GMT",
+            "fetched": "2026-10-19T22:38:09+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Protesters block Louvre in support of French student movement",
+            "description": "French students are now blockading the world’s busiest museum.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/protesters-block-louvre-in-support-of-french-student-movement?traffic_source=rss",
+            "published": "Mon, 19 Oct 2026 18:39:27 +0000",
+            "fetched": "2026-10-19T22:38:09+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Ex-OpenAI employee accused of planting device has Saudi backing: Prosecutor",
+            "description": "US federal prosecutors allege the defendant was in frequent contact with unnamed member of royal family.",
+            "url": "https://www.aljazeera.com/economy/2026/10/19/ex-openai-employee-accused-of-planting-device-has-saudi-backing-prosecutor?traffic_source=rss",
+            "published": "Mon, 19 Oct 2026 18:23:55 +0000",
+            "fetched": "2026-10-19T22:38:09+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Netanyahu’s new security doctrine: Regional strategy or election ploy?",
+            "description": "Experts say Netanyahu&#039;s security doctrine and map of regional alliances serve his political ambitions ahead of elections",
+            "url": "https://www.aljazeera.com/news/2026/10/19/netanyahus-new-security-doctrine-regional-strategy-or-election-ploy?traffic_source=rss",
+            "published": "Mon, 19 Oct 2026 18:21:06 +0000",
+            "fetched": "2026-10-19T22:38:09+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Wati",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25340",
+            "published": "2026-10-16T06:00:00Z",
+            "fetched": "2026-10-19T22:38:09+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Super Typhoon Champi",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25339",
+            "published": "2026-10-15T12:00:00Z",
+            "fetched": "2026-10-19T22:38:09+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Newman Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25310",
+            "published": "2026-10-14T10:42:00Z",
+            "fetched": "2026-10-19T22:38:09+03:30"
+        }
+    ]
+}

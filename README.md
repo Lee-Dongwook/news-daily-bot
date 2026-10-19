@@ -1,139 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-19 22:38:09
+**Last Update:** 2026-10-20 02:00:34
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Towards Company World Models
+### 1. OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.beaconholdings.com/research/towards-company-world-models">https://www.beaconholdings.com/research/towards-company-world-models</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50156332">https://news.ycombinator.com/item?id=50156332</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://bsd.network/@brynet/117407035545900963">https://bsd.network/@brynet/117407035545900963</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50158138">https://news.ycombinator.com/item?id=50158138</a></p>
+<p>Points: 32</p>
+<p># Comments: 6</p>
 
-🔗 **Read more:** [https://www.beaconholdings.com/research/towards-company-world-models](https://www.beaconholdings.com/research/towards-company-world-models)
+🔗 **Read more:** [https://bsd.network/@brynet/117407035545900963](https://bsd.network/@brynet/117407035545900963)
 
 ---
 
-### 2. Show HN: Open-source early-reading reader with phonics help
+### 2. Diablo 2 Survivors
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>My kid is 6 y/o and she is learning to read. She's moved through the basic phonics with Teach Your Monster to Read but was struggling with how repetitive it was. I wanted to give her some stories to read, but she still needed help sounding words out - and I wanted her to have the experience of sitting and reading by herself.<p>So I built this book reader app to allow her to click on the words, sound out the phonemes, and read by herself.<p>My 12 year old son wrote the first story, there's a cliffhanger at the end and he's working on the next section.<p>We're going to release more chapters and more stories in the near future.<p>And there's one other thing -<p>The reader has an MCP connection, so you can connect your Claude or ChatGPT or Grok, give them a PDF of a book you like (or even a set of scans done quickly with a phone camera) and have them import your favorite books into the app (private to your account, for your own kid, if you own the book of course).<p>The reader is free to use on its website and open source if you want to tinker and create your own version.<p>The included stories are under Creative Commons.</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50155647">https://news.ycombinator.com/item?id=50155647</a></p>
-<p>Points: 10</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://d2survivors.lol/">https://d2survivors.lol/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50158131">https://news.ycombinator.com/item?id=50158131</a></p>
+<p>Points: 19</p>
+<p># Comments: 6</p>
 
-🔗 **Read more:** [https://github.com/finereli/yarareads](https://github.com/finereli/yarareads)
+🔗 **Read more:** [https://d2survivors.lol/](https://d2survivors.lol/)
 
 ---
 
-### 3. Mercury 3: Diffusion at scale
+### 3. Putting Linux on my RTX spark laptop because I don't have a Microsoft account
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.inceptionlabs.ai/blog/introducing-mercury-3">https://www.inceptionlabs.ai/blog/introducing-mercury-3</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50155245">https://news.ycombinator.com/item?id=50155245</a></p>
-<p>Points: 124</p>
-<p># Comments: 55</p>
+<p>Article URL: <a href="https://josie.lol/blog/linux-rtx-spark">https://josie.lol/blog/linux-rtx-spark</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50158100">https://news.ycombinator.com/item?id=50158100</a></p>
+<p>Points: 104</p>
+<p># Comments: 39</p>
 
-🔗 **Read more:** [https://www.inceptionlabs.ai/blog/introducing-mercury-3](https://www.inceptionlabs.ai/blog/introducing-mercury-3)
+🔗 **Read more:** [https://josie.lol/blog/linux-rtx-spark](https://josie.lol/blog/linux-rtx-spark)
 
 ---
 
-### 4. Watch: Are the French riots a warning of an intense election to come?
+### 4. Curfew imposed in parts of central Paris and other cities after rioting across France
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Rioting, looting and vandalism has gripped France over the weekend after protests spiralled out of control across the country.
+It comes after the country's interior minister admits that police "lost control" in some cities.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/ckzd60dy746qo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/ckzd60dy746qo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Australian MP critically injured after being hit by car in apparent attack
+### 5. Watch: Clean up begins after French riots but police remain
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The independent politician is in hospital after what the prime minister says may have been a deliberate attack.
+Outside of Paris, Marseille saw some of the worst damage, with shop owners reporting more than 600 premises having been looted.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwp9g43g2p07o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwp9g43g2p07o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cwr7y0e57r50o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cwr7y0e57r50o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Woman says she 'closed eyes and tried not to be there' during alleged Russell Brand rape
+### 6. Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The 51-year-old faces three counts of rape, three charges of sexual assault and one of indecent assault.
+Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks. The White House said there had been no changes to intelligence sharing.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvj6jylk3456o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvj6jylk3456o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Protesters block Louvre in support of French student movement
+### 7. Egyptian parliament delays vote on military support for Saudi Arabia
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-French students are now blockading the world’s busiest museum.
+Lawmakers adjourn session as opposition party tells members to abstain over unclear commitment.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/19/protesters-block-louvre-in-support-of-french-student-movement?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/19/protesters-block-louvre-in-support-of-french-student-movement?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/19/egyptian-parliament-delays-vote-on-military-support-for-saudi-arabia?traffic_source=rss](https://www.aljazeera.com/news/2026/10/19/egyptian-parliament-delays-vote-on-military-support-for-saudi-arabia?traffic_source=rss)
 
 ---
 
-### 8. Ex-OpenAI employee accused of planting device has Saudi backing: Prosecutor
+### 8. 160 people reported killed in escalating drone attacks across Sudan
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US federal prosecutors allege the defendant was in frequent contact with unnamed member of royal family.
+Rights groups warn increasing attacks by unmanned aircraft are targeting civilians and infrastructure.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/19/ex-openai-employee-accused-of-planting-device-has-saudi-backing-prosecutor?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/19/ex-openai-employee-accused-of-planting-device-has-saudi-backing-prosecutor?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/19/160-reported-killed-in-escalating-drone-attacks-across-sudan?traffic_source=rss](https://www.aljazeera.com/news/2026/10/19/160-reported-killed-in-escalating-drone-attacks-across-sudan?traffic_source=rss)
 
 ---
 
-### 9. Netanyahu’s new security doctrine: Regional strategy or election ploy?
+### 9. Could your halal pension be funding Israel’s military?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Experts say Netanyahu&#039;s security doctrine and map of regional alliances serve his political ambitions ahead of elections
+HSBC’s ‘sharia-compliant’ fund invested over $100 million in companies linked to Israel’s military.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/19/netanyahus-new-security-doctrine-regional-strategy-or-election-ploy?traffic_source=rss](https://www.aljazeera.com/news/2026/10/19/netanyahus-new-security-doctrine-regional-strategy-or-election-ploy?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/19/could-your-halal-pension-be-funding-israels-military?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/19/could-your-halal-pension-be-funding-israels-military?traffic_source=rss)
 
 ---
 

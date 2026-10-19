@@ -1,16 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-19 03:51:54
+**Last Update:** 2026-10-19 04:25:59
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. William Gibson and the Trademarking of Cyberspace
+### 1. William Gibson and the trademarking of cyberspace
 
 **Source:** Hacker News
 
@@ -19,14 +19,30 @@
 **Description:**
 <p>Article URL: <a href="https://colo.to/cyberspace.html">https://colo.to/cyberspace.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50146625">https://news.ycombinator.com/item?id=50146625</a></p>
-<p>Points: 11</p>
-<p># Comments: 2</p>
+<p>Points: 22</p>
+<p># Comments: 0</p>
 
 🔗 **Read more:** [https://colo.to/cyberspace.html](https://colo.to/cyberspace.html)
 
 ---
 
-### 2. Show HN: WhatsApp MCP running free on Cloudflare
+### 2. How RC2's π table was made
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://khalidhamadeh.com/writing/rc2-pi-table">https://khalidhamadeh.com/writing/rc2-pi-table</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50146286">https://news.ycombinator.com/item?id=50146286</a></p>
+<p>Points: 5</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://khalidhamadeh.com/writing/rc2-pi-table](https://khalidhamadeh.com/writing/rc2-pi-table)
+
+---
+
+### 3. Show HN: WhatsApp MCP running free on Cloudflare
 
 **Source:** Hacker News
 
@@ -36,27 +52,10 @@
 <p>I wanted my humble Claude on mobile to access my WhatsApp messages but the only options I could find either required WhatsApp Business or an actual server to run Baileys on.<p>I wanted to run it for free on ClaudeFlare and with my personal WhatsApp account, so I built this.<p>Important feature - it connects to your Google account as well as WhatsApp to grab the names of all your WhatsApp contacts, otherwise you get only phone numbers for many of them and search doesn't work properly.<p>This is a single user install because it's both gray area and very private - so point your agent at the repo and let it set things up.</p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50145715">https://news.ycombinator.com/item?id=50145715</a></p>
-<p>Points: 27</p>
-<p># Comments: 16</p>
+<p>Points: 32</p>
+<p># Comments: 22</p>
 
 🔗 **Read more:** [https://github.com/finereli/whatsapp-mcp](https://github.com/finereli/whatsapp-mcp)
-
----
-
-### 3. Hybrid Reasoning Agents: LLM agents that think in latent space, act through text
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p><a href="https://x.com/Jiaru_Zou/status/2110400256647340476" rel="nofollow">https://x.com/Jiaru_Zou/status/2110400256647340476</a><p><a href="https://github.com/togethercomputer/HybridAgent" rel="nofollow">https://github.com/togethercomputer/HybridAgent</a><p><a href="https://huggingface.co/collections/togethercomputer/hybridagent" rel="nofollow">https://huggingface.co/collections/togethercomputer/hybridag...</a><p>Evaluations: <a href="https://arxiv.org/html/2610.18861v1#S5" rel="nofollow">https://arxiv.org/html/2610.18861v1#S5</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50145337">https://news.ycombinator.com/item?id=50145337</a></p>
-<p>Points: 167</p>
-<p># Comments: 100</p>
-
-🔗 **Read more:** [https://arxiv.org/abs/2610.18861](https://arxiv.org/abs/2610.18861)
 
 ---
 
@@ -73,20 +72,7 @@ French President Emmanuel Macron gives a national address after widespread disor
 
 ---
 
-### 5. Major fire at Canada military base leaves four dead, dozens injured
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Prime Minister Carney said military and emergency crews fought the flames throughout the night in "some of the worst conditions imaginable".
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Inside the shadowy world of anti-Putin sabotage from within Russia
+### 5. Inside the shadowy world of anti-Putin sabotage from within Russia
 
 **Source:** BBC
 
@@ -96,6 +82,19 @@ Prime Minister Carney said military and emergency crews fought the flames throug
 Two men tell of the work they say they have been doing to support Ukrainian intelligence during the war.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Watch: Russian saboteur working for Ukraine shares reconnaissance videos
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+In a BBC World Service documentary, the man claims to have played a role in drone attacks on his home soil.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cwd09vlv78rvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cwd09vlv78rvo?at_medium=RSS&at_campaign=rss)
 
 ---
 

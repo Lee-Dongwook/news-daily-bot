@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-19T16:04:22+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Harness2 by Google Research – Recursive Agent Harnessing",
+            "description": "<p>Article URL: <a href=\"https://github.com/google-research/harness2\">https://github.com/google-research/harness2</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50151059\">https://news.ycombinator.com/item?id=50151059</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://github.com/google-research/harness2",
+            "published": "Mon, 19 Oct 2026 11:28:45 +0000",
+            "fetched": "2026-10-19T16:04:22+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Let's Encrypt is adding two additional remote perspectives for domain validation",
+            "description": "<p>Article URL: <a href=\"https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166\">https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50150809\">https://news.ycombinator.com/item?id=50150809</a></p>\n<p>Points: 23</p>\n<p># Comments: 1</p>",
+            "url": "https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166",
+            "published": "Mon, 19 Oct 2026 10:53:39 +0000",
+            "fetched": "2026-10-19T16:04:22+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Documents: Police officer gave her Flock login to her ICE agent husband",
+            "description": "<p>Article URL: <a href=\"https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816\">https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50150750\">https://news.ycombinator.com/item?id=50150750</a></p>\n<p>Points: 27</p>\n<p># Comments: 3</p>",
+            "url": "https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816",
+            "published": "Mon, 19 Oct 2026 10:45:14 +0000",
+            "fetched": "2026-10-19T16:04:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Companies exploiting welfare system by using residents as 'cash cows', BBC finds",
+            "description": "Agents try to attract people on housing benefit by using social media videos that offer free rooms and holidays.",
+            "url": "https://www.bbc.co.uk/news/articles/cm62y80yxw9vo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 19 Oct 2026 04:59:47 GMT",
+            "fetched": "2026-10-19T16:04:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Woman says she 'closed eyes and tried not to be there' during alleged Russell Brand rape",
+            "description": "The 51-year-old faces three counts of rape, three charges of sexual assault and one of indecent assault.",
+            "url": "https://www.bbc.co.uk/news/articles/cvj6jylk3456o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 19 Oct 2026 11:55:47 GMT",
+            "fetched": "2026-10-19T16:04:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
+            "description": "Two men tell of the work they say they have been doing to support Ukrainian intelligence during the war.",
+            "url": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 19 Oct 2026 00:06:25 GMT",
+            "fetched": "2026-10-19T16:04:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Qatar to unveil regional defence partnership",
+            "description": "Qatar to unveil regional defence partnership",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/qatar-to-unveil-regional-defence-partnership?traffic_source=rss",
+            "published": "Mon, 19 Oct 2026 11:51:01 +0000",
+            "fetched": "2026-10-19T16:04:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "On Iran, Israel’s opposition is even more hawkish than Netanyahu",
+            "description": "In rest of the world, the Israeli PM is often blamed for the Iran war. His opponents say he hasn&#039;t been tough enough.",
+            "url": "https://www.aljazeera.com/news/2026/10/19/on-iran-israels-opposition-is-even-more-hawkish-than-netanyahu?traffic_source=rss",
+            "published": "Mon, 19 Oct 2026 11:35:52 +0000",
+            "fetched": "2026-10-19T16:04:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Indonesia battles worst forest fires and toxic haze in 11 years",
+            "description": "Indonesia battles worst forest fires and toxic haze in 11 years",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/indonesia-battles-worst-forest-fires-and-toxic-haze-in-11-years?traffic_source=rss",
+            "published": "Mon, 19 Oct 2026 11:05:57 +0000",
+            "fetched": "2026-10-19T16:04:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Wati",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25340",
+            "published": "2026-10-16T06:00:00Z",
+            "fetched": "2026-10-19T16:04:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Super Typhoon Champi",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25339",
+            "published": "2026-10-15T12:00:00Z",
+            "fetched": "2026-10-19T16:04:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Newman Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25310",
+            "published": "2026-10-14T10:42:00Z",
+            "fetched": "2026-10-19T16:04:22+03:30"
+        }
+    ]
+}

@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-19 14:29:30
+**Last Update:** 2026-10-19 16:04:22
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Linux 7.3 Released
+### 1. Harness2 by Google Research – Recursive Agent Harnessing
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://lwn.net/Articles/1101143/">https://lwn.net/Articles/1101143/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50149392">https://news.ycombinator.com/item?id=50149392</a></p>
-<p>Points: 215</p>
-<p># Comments: 90</p>
+<p>Article URL: <a href="https://github.com/google-research/harness2">https://github.com/google-research/harness2</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50151059">https://news.ycombinator.com/item?id=50151059</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://lwn.net/Articles/1101143/](https://lwn.net/Articles/1101143/)
+🔗 **Read more:** [https://github.com/google-research/harness2](https://github.com/google-research/harness2)
 
 ---
 
-### 2. Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling
+### 2. Let's Encrypt is adding two additional remote perspectives for domain validation
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://crystl.dev/guides/tmux-for-ai-agents/">https://crystl.dev/guides/tmux-for-ai-agents/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50148855">https://news.ycombinator.com/item?id=50148855</a></p>
-<p>Points: 37</p>
-<p># Comments: 19</p>
+<p>Article URL: <a href="https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166">https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50150809">https://news.ycombinator.com/item?id=50150809</a></p>
+<p>Points: 23</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://crystl.dev/guides/tmux-for-ai-agents/](https://crystl.dev/guides/tmux-for-ai-agents/)
+🔗 **Read more:** [https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166](https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166)
 
 ---
 
-### 3. Flatpak – An Insecurity Nightmare
+### 3. Documents: Police officer gave her Flock login to her ICE agent husband
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://oro.gay/posts/flatpak-an-insecurity-nightmare/">https://oro.gay/posts/flatpak-an-insecurity-nightmare/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50148601">https://news.ycombinator.com/item?id=50148601</a></p>
-<p>Points: 50</p>
-<p># Comments: 34</p>
+<p>Article URL: <a href="https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816">https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50150750">https://news.ycombinator.com/item?id=50150750</a></p>
+<p>Points: 27</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://oro.gay/posts/flatpak-an-insecurity-nightmare/](https://oro.gay/posts/flatpak-an-insecurity-nightmare/)
+🔗 **Read more:** [https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816](https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816)
 
 ---
 
@@ -71,7 +71,20 @@ Agents try to attract people on housing benefit by using social media videos tha
 
 ---
 
-### 5. Inside the shadowy world of anti-Putin sabotage from within Russia
+### 5. Woman says she 'closed eyes and tried not to be there' during alleged Russell Brand rape
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The 51-year-old faces three counts of rape, three charges of sexual assault and one of indecent assault.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvj6jylk3456o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvj6jylk3456o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Inside the shadowy world of anti-Putin sabotage from within Russia
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ Two men tell of the work they say they have been doing to support Ukrainian inte
 
 ---
 
-### 6. Watch: Russian saboteur working for Ukraine shares reconnaissance videos
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-In a BBC World Service documentary, the man claims to have played a role in drone attacks on his home soil.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cwd09vlv78rvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cwd09vlv78rvo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Iran support for Houthis probed as Yemen war re-erupts and Saudi cities hit
+### 7. Qatar to unveil regional defence partnership
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-There have been new reports of Iranian support for the Houthis in Yemen amid a wave of attacks on Saudi cities.
+Qatar to unveil regional defence partnership
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/19/iran-support-for-houthis-probed-as-yemen-war-re-erupts-and-saudi-cities-hit?traffic_source=rss](https://www.aljazeera.com/news/2026/10/19/iran-support-for-houthis-probed-as-yemen-war-re-erupts-and-saudi-cities-hit?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/19/qatar-to-unveil-regional-defence-partnership?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/19/qatar-to-unveil-regional-defence-partnership?traffic_source=rss)
 
 ---
 
-### 8. Israeli police arrest 10 after settler attacks on journalist, diplomats
+### 8. On Iran, Israel’s opposition is even more hawkish than Netanyahu
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US Ambassador to Israel Mike Huckabee said on X that the arrests were &#039;a very positive development&#039;.
+In rest of the world, the Israeli PM is often blamed for the Iran war. His opponents say he hasn&#039;t been tough enough.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/19/israeli-police-arrest-10-after-settler-attacks-on-journalist-diplomats?traffic_source=rss](https://www.aljazeera.com/news/2026/10/19/israeli-police-arrest-10-after-settler-attacks-on-journalist-diplomats?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/19/on-iran-israels-opposition-is-even-more-hawkish-than-netanyahu?traffic_source=rss](https://www.aljazeera.com/news/2026/10/19/on-iran-israels-opposition-is-even-more-hawkish-than-netanyahu?traffic_source=rss)
 
 ---
 
-### 9. Australian MP Helen Haines critically injured in ‘deliberate’ car ramming
+### 9. Indonesia battles worst forest fires and toxic haze in 11 years
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Lawmaker was struck by a car outside her office in what Prime Minister ⁠Anthony Albanese called a &#039;deliberate act&#039;.
+Indonesia battles worst forest fires and toxic haze in 11 years
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/19/australian-mp-helen-haines-critically-injured-in-deliberate-car-ramming?traffic_source=rss](https://www.aljazeera.com/news/2026/10/19/australian-mp-helen-haines-critically-injured-in-deliberate-car-ramming?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/19/indonesia-battles-worst-forest-fires-and-toxic-haze-in-11-years?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/19/indonesia-battles-worst-forest-fires-and-toxic-haze-in-11-years?traffic_source=rss)
 
 ---
 

@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-20 02:00:34
+**Last Update:** 2026-10-20 02:56:39
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
@@ -19,30 +19,14 @@
 **Description:**
 <p>Article URL: <a href="https://bsd.network/@brynet/117407035545900963">https://bsd.network/@brynet/117407035545900963</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50158138">https://news.ycombinator.com/item?id=50158138</a></p>
-<p>Points: 32</p>
-<p># Comments: 6</p>
+<p>Points: 41</p>
+<p># Comments: 7</p>
 
 🔗 **Read more:** [https://bsd.network/@brynet/117407035545900963](https://bsd.network/@brynet/117407035545900963)
 
 ---
 
-### 2. Diablo 2 Survivors
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://d2survivors.lol/">https://d2survivors.lol/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50158131">https://news.ycombinator.com/item?id=50158131</a></p>
-<p>Points: 19</p>
-<p># Comments: 6</p>
-
-🔗 **Read more:** [https://d2survivors.lol/](https://d2survivors.lol/)
-
----
-
-### 3. Putting Linux on my RTX spark laptop because I don't have a Microsoft account
+### 2. Putting Linux on my RTX Spark laptop because I don't have a Microsoft account
 
 **Source:** Hacker News
 
@@ -51,10 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://josie.lol/blog/linux-rtx-spark">https://josie.lol/blog/linux-rtx-spark</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50158100">https://news.ycombinator.com/item?id=50158100</a></p>
-<p>Points: 104</p>
-<p># Comments: 39</p>
+<p>Points: 133</p>
+<p># Comments: 58</p>
 
 🔗 **Read more:** [https://josie.lol/blog/linux-rtx-spark](https://josie.lol/blog/linux-rtx-spark)
+
+---
+
+### 3. One Hash Bloom Filters
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://calabro.io/ohbf">https://calabro.io/ohbf</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50157865">https://news.ycombinator.com/item?id=50157865</a></p>
+<p>Points: 8</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://calabro.io/ohbf](https://calabro.io/ohbf)
 
 ---
 
@@ -97,42 +97,42 @@ Serhii Beskrestnov says there has not been enough time to warn people about inco
 
 ---
 
-### 7. Egyptian parliament delays vote on military support for Saudi Arabia
+### 7. Tehran rejects any role in plot to kill leaders of German Jewish groups
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Lawmakers adjourn session as opposition party tells members to abstain over unclear commitment.
+Tehran summons German envoy after two men convicted of trying to kill leaders of Jewish groups, rejects any role.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/19/egyptian-parliament-delays-vote-on-military-support-for-saudi-arabia?traffic_source=rss](https://www.aljazeera.com/news/2026/10/19/egyptian-parliament-delays-vote-on-military-support-for-saudi-arabia?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/19/tehran-rejects-any-role-in-plot-to-kill-leaders-of-jewish-groups?traffic_source=rss](https://www.aljazeera.com/news/2026/10/19/tehran-rejects-any-role-in-plot-to-kill-leaders-of-jewish-groups?traffic_source=rss)
 
 ---
 
-### 8. 160 people reported killed in escalating drone attacks across Sudan
+### 8. Children among six killed in Russian drone strike on Ukraine park
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Rights groups warn increasing attacks by unmanned aircraft are targeting civilians and infrastructure.
+Children among six killed in Russian drone strike on Ukraine park
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/19/160-reported-killed-in-escalating-drone-attacks-across-sudan?traffic_source=rss](https://www.aljazeera.com/news/2026/10/19/160-reported-killed-in-escalating-drone-attacks-across-sudan?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/19/children-among-six-killed-in-russian-drone-strike-on-ukraine-park?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/19/children-among-six-killed-in-russian-drone-strike-on-ukraine-park?traffic_source=rss)
 
 ---
 
-### 9. Could your halal pension be funding Israel’s military?
+### 9. Trump: ‘Paris is going to be a Muslim city very soon’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-HSBC’s ‘sharia-compliant’ fund invested over $100 million in companies linked to Israel’s military.
+US President Donald Trump blamed immigrants for the unrest in France, claiming Paris would soon become a ‘Muslim city’.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/19/could-your-halal-pension-be-funding-israels-military?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/19/could-your-halal-pension-be-funding-israels-military?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/19/trump-paris-is-going-to-be-a-muslim-city-very?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/19/trump-paris-is-going-to-be-a-muslim-city-very?traffic_source=rss)
 
 ---
 

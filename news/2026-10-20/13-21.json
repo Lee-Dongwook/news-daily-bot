@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-10-20T13:21:23+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
+            "description": "Influential Labour figures had been pushing for equalising CGT and income tax, but critics have said this could drive wealthy people out of Britain.",
+            "url": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 20 Oct 2026 08:44:56 GMT",
+            "fetched": "2026-10-20T13:21:23+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "How the attack on an Australian MP unfolded",
+            "description": "BBC's Katy Watson is in Wangaratta visiting the scene of the incident and the church where the community has held a vigil for the independent MP.",
+            "url": "https://www.bbc.co.uk/news/videos/cqkglz3ljedyo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 20 Oct 2026 06:02:05 GMT",
+            "fetched": "2026-10-20T13:21:23+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "We asked teens what schools should teach them about work. This is what they said",
+            "description": "Teenagers say they want more work experience at school and opportunities to improve their communication skills.",
+            "url": "https://www.bbc.co.uk/news/articles/c6m2dmdxgz2xo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 20 Oct 2026 05:00:14 GMT",
+            "fetched": "2026-10-20T13:21:23+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "French protests: Is it game over for Macron’s centrists before elections?",
+            "description": "The protests have further polarised the French and turned the youth into a key, angry, voting bloc.",
+            "url": "https://www.aljazeera.com/news/2026/10/20/french-protests-is-it-game-over-for-macrons-centrists-before-elections?traffic_source=rss",
+            "published": "Tue, 20 Oct 2026 08:46:25 +0000",
+            "fetched": "2026-10-20T13:21:23+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "UEFA demands FIFA release key documents on World Cup sell-off plan",
+            "description": "In a letter outlining 42 questions, UEFA gives FIFA until November 2 to release documents on Infantino’s aborted plans.",
+            "url": "https://www.aljazeera.com/sports/2026/10/20/uefa-demands-fifa-release-key-documents-on-world-cup-sell-off-plan?traffic_source=rss",
+            "published": "Tue, 20 Oct 2026 08:24:43 +0000",
+            "fetched": "2026-10-20T13:21:23+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "France protests are ‘outburst of resentment’ against Macron",
+            "description": "French student union spokesperson Alice Cohen-Morzadec says the protests reflect growing anger over Macron&#039;s policies.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/france-protests-social-discontent-student-perspective?traffic_source=rss",
+            "published": "Tue, 20 Oct 2026 08:11:30 +0000",
+            "fetched": "2026-10-20T13:21:23+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Wati",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25340",
+            "published": "2026-10-16T06:00:00Z",
+            "fetched": "2026-10-20T13:21:23+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Super Typhoon Champi",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25339",
+            "published": "2026-10-15T12:00:00Z",
+            "fetched": "2026-10-20T13:21:23+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Newman Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25310",
+            "published": "2026-10-14T10:42:00Z",
+            "fetched": "2026-10-20T13:21:23+03:30"
+        }
+    ]
+}

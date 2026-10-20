@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-20 11:17:03
+**Last Update:** 2026-10-20 13:21:23
 
 **Total News:** 9
 
-**Sources:** BBC, NASA, Al Jazeera
+**Sources:** NASA, Al Jazeera, BBC
 
 ---
 
@@ -23,7 +23,20 @@ Influential Labour figures had been pushing for equalising CGT and income tax, b
 
 ---
 
-### 2. We asked teens what schools should teach them about work. This is what they said
+### 2. How the attack on an Australian MP unfolded
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+BBC's Katy Watson is in Wangaratta visiting the scene of the incident and the church where the community has held a vigil for the independent MP.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cqkglz3ljedyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cqkglz3ljedyo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 3. We asked teens what schools should teach them about work. This is what they said
 
 **Source:** BBC
 
@@ -36,55 +49,42 @@ Teenagers say they want more work experience at school and opportunities to impr
 
 ---
 
-### 3. French cities calm overnight after curfews imposed to quell violence, PM says
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Sébastien Lecornu said new curfews for Tuesday night would be decided where necessary.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 4. Morocco’s not-so-new government faces new challenges
+### 4. French protests: Is it game over for Macron’s centrists before elections?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The new cabinet has doubled down on continuity at a time of regional turmoil and domestic anxiety.
+The protests have further polarised the French and turned the youth into a key, angry, voting bloc.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/10/20/moroccos-not-so-new-government-faces-new-challenges?traffic_source=rss](https://www.aljazeera.com/opinions/2026/10/20/moroccos-not-so-new-government-faces-new-challenges?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/20/french-protests-is-it-game-over-for-macrons-centrists-before-elections?traffic_source=rss](https://www.aljazeera.com/news/2026/10/20/french-protests-is-it-game-over-for-macrons-centrists-before-elections?traffic_source=rss)
 
 ---
 
-### 5. Alberta voters reject separation from Canada, early results show
+### 5. UEFA demands FIFA release key documents on World Cup sell-off plan
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-With more than one million votes counted, about 76 percent supported remaining in Canada.
+In a letter outlining 42 questions, UEFA gives FIFA until November 2 to release documents on Infantino’s aborted plans.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/20/alberta-voters-reject-separation-from-canada-early-results-show?traffic_source=rss](https://www.aljazeera.com/news/2026/10/20/alberta-voters-reject-separation-from-canada-early-results-show?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/20/uefa-demands-fifa-release-key-documents-on-world-cup-sell-off-plan?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/20/uefa-demands-fifa-release-key-documents-on-world-cup-sell-off-plan?traffic_source=rss)
 
 ---
 
-### 6. US-Ukraine relations sour as Trump, Zelenskyy clash over talks, arms
+### 6. France protests are ‘outburst of resentment’ against Macron
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Trump calls for Zelenskyy to be replaced as negotiator, while Ukraine&#039;s president says arms shipments delayed.
+French student union spokesperson Alice Cohen-Morzadec says the protests reflect growing anger over Macron&#039;s policies.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/20/us-ukraine-relations-sour-as-trump-zelenskyy-clash-over-talks-arms?traffic_source=rss](https://www.aljazeera.com/news/2026/10/20/us-ukraine-relations-sour-as-trump-zelenskyy-clash-over-talks-arms?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/20/france-protests-social-discontent-student-perspective?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/20/france-protests-social-discontent-student-perspective?traffic_source=rss)
 
 ---
 

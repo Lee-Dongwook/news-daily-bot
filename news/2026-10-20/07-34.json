@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-20T07:34:25+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Go will reject certificate chains containing eight distrusted SPKIs",
+            "description": "<p>Article URL: <a href=\"https://github.com/golang/go/issues/82345\">https://github.com/golang/go/issues/82345</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50160877\">https://news.ycombinator.com/item?id=50160877</a></p>\n<p>Points: 12</p>\n<p># Comments: 3</p>",
+            "url": "https://github.com/golang/go/issues/82345",
+            "published": "Tue, 20 Oct 2026 03:05:07 +0000",
+            "fetched": "2026-10-20T07:34:25+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "OpenBSD 8.0",
+            "description": "<p>Article URL: <a href=\"https://www.openbsd.org/80.html\">https://www.openbsd.org/80.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50160494\">https://news.ycombinator.com/item?id=50160494</a></p>\n<p>Points: 37</p>\n<p># Comments: 5</p>",
+            "url": "https://www.openbsd.org/80.html",
+            "published": "Tue, 20 Oct 2026 02:06:40 +0000",
+            "fetched": "2026-10-20T07:34:25+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "OpenBSD 8.0: released Oct 20, 2026",
+            "description": "<p>Article URL: <a href=\"https://marc.info/?l=openbsd-misc&amp;m=179245849770356&amp;w=2\">https://marc.info/?l=openbsd-misc&amp;m=179245849770356&amp;w=2</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50160419\">https://news.ycombinator.com/item?id=50160419</a></p>\n<p>Points: 17</p>\n<p># Comments: 1</p>",
+            "url": "https://marc.info/?l=openbsd-misc&m=179245849770356&w=2",
+            "published": "Tue, 20 Oct 2026 01:53:51 +0000",
+            "fetched": "2026-10-20T07:34:25+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Curfew imposed in parts of central Paris and other cities after rioting across France",
+            "description": "The country's interior minister admits that police \"lost control\" in some cities following a weekend of riots.",
+            "url": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 19 Oct 2026 21:14:53 GMT",
+            "fetched": "2026-10-20T07:34:25+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Clean up begins after French riots but police remain",
+            "description": "Outside of Paris, Marseille saw some of the worst damage, with shop owners reporting more than 600 premises having been looted.",
+            "url": "https://www.bbc.co.uk/news/videos/cwr7y0e57r50o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 19 Oct 2026 21:30:08 GMT",
+            "fetched": "2026-10-20T07:34:25+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Criminals detained in hospital set to lose benefits",
+            "description": "The families of the victims of Nottingham killer Valdo Calocane had been campaigning for the change.",
+            "url": "https://www.bbc.co.uk/news/articles/cv62yzddy6dpo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 19 Oct 2026 23:21:38 GMT",
+            "fetched": "2026-10-20T07:34:25+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Fourteen dead in illegal Colombian gold mine collapse",
+            "description": "Fourteen dead in illegal Colombian gold mine collapse",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/fourteen-dead-in-illegal-colombian-gold-mine-collapse?traffic_source=rss",
+            "published": "Tue, 20 Oct 2026 03:55:27 +0000",
+            "fetched": "2026-10-20T07:34:25+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘Deliberate’ car ramming of Australian MP an isolated incident, police say",
+            "description": "A 43-year-old man accused of deliberately hitting Helen Haines outside her office is in police custody.",
+            "url": "https://www.aljazeera.com/news/2026/10/20/deliberate-car-ramming-of-australian-mp-an-isolated-incident-police-say?traffic_source=rss",
+            "published": "Tue, 20 Oct 2026 03:24:18 +0000",
+            "fetched": "2026-10-20T07:34:25+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Angel Reese scores 30 as Dream stun Valkyries to go level in WNBA Finals",
+            "description": "Atlanta Dream defeat Golden State Valkyries 79-65 to tie the best-of-seven WNBA Finals at 1-1.",
+            "url": "https://www.aljazeera.com/sports/2026/10/20/angel-reese-scores-30-as-dream-stun-valkyries-to-go-level-in-wnba-finals?traffic_source=rss",
+            "published": "Tue, 20 Oct 2026 03:13:52 +0000",
+            "fetched": "2026-10-20T07:34:25+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Wati",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25340",
+            "published": "2026-10-16T06:00:00Z",
+            "fetched": "2026-10-20T07:34:25+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Super Typhoon Champi",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25339",
+            "published": "2026-10-15T12:00:00Z",
+            "fetched": "2026-10-20T07:34:25+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Newman Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25310",
+            "published": "2026-10-14T10:42:00Z",
+            "fetched": "2026-10-20T07:34:25+03:30"
+        }
+    ]
+}

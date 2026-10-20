@@ -1,29 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-20 05:26:44
+**Last Update:** 2026-10-20 07:34:25
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Curfew imposed in parts of central Paris and other cities after rioting across France
+### 1. Go will reject certificate chains containing eight distrusted SPKIs
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/golang/go/issues/82345">https://github.com/golang/go/issues/82345</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50160877">https://news.ycombinator.com/item?id=50160877</a></p>
+<p>Points: 12</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://github.com/golang/go/issues/82345](https://github.com/golang/go/issues/82345)
+
+---
+
+### 2. OpenBSD 8.0
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.openbsd.org/80.html">https://www.openbsd.org/80.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50160494">https://news.ycombinator.com/item?id=50160494</a></p>
+<p>Points: 37</p>
+<p># Comments: 5</p>
+
+🔗 **Read more:** [https://www.openbsd.org/80.html](https://www.openbsd.org/80.html)
+
+---
+
+### 3. OpenBSD 8.0: released Oct 20, 2026
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://marc.info/?l=openbsd-misc&amp;m=179245849770356&amp;w=2">https://marc.info/?l=openbsd-misc&amp;m=179245849770356&amp;w=2</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50160419">https://news.ycombinator.com/item?id=50160419</a></p>
+<p>Points: 17</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://marc.info/?l=openbsd-misc&m=179245849770356&w=2](https://marc.info/?l=openbsd-misc&m=179245849770356&w=2)
+
+---
+
+### 4. Curfew imposed in parts of central Paris and other cities after rioting across France
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-It comes after the country's interior minister admits that police "lost control" in some cities.
+The country's interior minister admits that police "lost control" in some cities following a weekend of riots.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 2. Watch: Clean up begins after French riots but police remain
+### 5. Watch: Clean up begins after French riots but police remain
 
 **Source:** BBC
 
@@ -36,59 +84,59 @@ Outside of Paris, Marseille saw some of the worst damage, with shop owners repor
 
 ---
 
-### 3. Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC
+### 6. Criminals detained in hospital set to lose benefits
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks. The White House said there had been no changes to intelligence sharing.
+The families of the victims of Nottingham killer Valdo Calocane had been campaigning for the change.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cv62yzddy6dpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cv62yzddy6dpo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. Saudi Arabia cancels 2026 ‘Davos in the Desert’ amid Houthi attacks
+### 7. Fourteen dead in illegal Colombian gold mine collapse
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Riyadh postpones flagship investment conference until 2027, orders government staff to work from home.
+Fourteen dead in illegal Colombian gold mine collapse
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/20/saudi-arabia-cancels-2026-davos-in-the-desert-amid-houthi-attacks?traffic_source=rss](https://www.aljazeera.com/news/2026/10/20/saudi-arabia-cancels-2026-davos-in-the-desert-amid-houthi-attacks?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/20/fourteen-dead-in-illegal-colombian-gold-mine-collapse?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/20/fourteen-dead-in-illegal-colombian-gold-mine-collapse?traffic_source=rss)
 
 ---
 
-### 5. ‘Release Epstein files’, protester interrupts JD Vance’s speech
+### 8. ‘Deliberate’ car ramming of Australian MP an isolated incident, police say
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A protester demanding the release of the Epstein files interrupted US Vice President JD Vance&#039;s speech.
+A 43-year-old man accused of deliberately hitting Helen Haines outside her office is in police custody.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/20/release-epstein-files-protester-interrupts-jd-vances-speech?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/20/release-epstein-files-protester-interrupts-jd-vances-speech?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/20/deliberate-car-ramming-of-australian-mp-an-isolated-incident-police-say?traffic_source=rss](https://www.aljazeera.com/news/2026/10/20/deliberate-car-ramming-of-australian-mp-an-isolated-incident-police-say?traffic_source=rss)
 
 ---
 
-### 6. Rashida Tlaib demands arrest of Israeli soldier linked to Hind Rajab death
+### 9. Angel Reese scores 30 as Dream stun Valkyries to go level in WNBA Finals
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US lawmaker says that government must arrest Israeli commander allegedly responsible for attack while he is in the US.
+Atlanta Dream defeat Golden State Valkyries 79-65 to tie the best-of-seven WNBA Finals at 1-1.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/20/rashida-tlaib-demands-arrest-of-israeli-soldier-linked-to-hind-rajab-death?traffic_source=rss](https://www.aljazeera.com/news/2026/10/20/rashida-tlaib-demands-arrest-of-israeli-soldier-linked-to-hind-rajab-death?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/20/angel-reese-scores-30-as-dream-stun-valkyries-to-go-level-in-wnba-finals?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/20/angel-reese-scores-30-as-dream-stun-valkyries-to-go-level-in-wnba-finals?traffic_source=rss)
 
 ---
 
-### 7. Tropical Cyclone Wati
+### 10. Tropical Cyclone Wati
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Severe Storms
 
 ---
 
-### 8. Super Typhoon Champi
+### 11. Super Typhoon Champi
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Severe Storms
 
 ---
 
-### 9. Prescribed Fire Newman Piles RX, Coconino, Arizona
+### 12. Prescribed Fire Newman Piles RX, Coconino, Arizona
 
 **Source:** NASA
 

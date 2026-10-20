@@ -1,64 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-20 02:56:39
+**Last Update:** 2026-10-20 05:26:44
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://bsd.network/@brynet/117407035545900963">https://bsd.network/@brynet/117407035545900963</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50158138">https://news.ycombinator.com/item?id=50158138</a></p>
-<p>Points: 41</p>
-<p># Comments: 7</p>
-
-🔗 **Read more:** [https://bsd.network/@brynet/117407035545900963](https://bsd.network/@brynet/117407035545900963)
-
----
-
-### 2. Putting Linux on my RTX Spark laptop because I don't have a Microsoft account
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://josie.lol/blog/linux-rtx-spark">https://josie.lol/blog/linux-rtx-spark</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50158100">https://news.ycombinator.com/item?id=50158100</a></p>
-<p>Points: 133</p>
-<p># Comments: 58</p>
-
-🔗 **Read more:** [https://josie.lol/blog/linux-rtx-spark](https://josie.lol/blog/linux-rtx-spark)
-
----
-
-### 3. One Hash Bloom Filters
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://calabro.io/ohbf">https://calabro.io/ohbf</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50157865">https://news.ycombinator.com/item?id=50157865</a></p>
-<p>Points: 8</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://calabro.io/ohbf](https://calabro.io/ohbf)
-
----
-
-### 4. Curfew imposed in parts of central Paris and other cities after rioting across France
+### 1. Curfew imposed in parts of central Paris and other cities after rioting across France
 
 **Source:** BBC
 
@@ -71,7 +23,7 @@ It comes after the country's interior minister admits that police "lost control"
 
 ---
 
-### 5. Watch: Clean up begins after French riots but police remain
+### 2. Watch: Clean up begins after French riots but police remain
 
 **Source:** BBC
 
@@ -84,7 +36,7 @@ Outside of Paris, Marseille saw some of the worst damage, with shop owners repor
 
 ---
 
-### 6. Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC
+### 3. Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC
 
 **Source:** BBC
 
@@ -97,46 +49,46 @@ Serhii Beskrestnov says there has not been enough time to warn people about inco
 
 ---
 
-### 7. Tehran rejects any role in plot to kill leaders of German Jewish groups
+### 4. Saudi Arabia cancels 2026 ‘Davos in the Desert’ amid Houthi attacks
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Tehran summons German envoy after two men convicted of trying to kill leaders of Jewish groups, rejects any role.
+Riyadh postpones flagship investment conference until 2027, orders government staff to work from home.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/19/tehran-rejects-any-role-in-plot-to-kill-leaders-of-jewish-groups?traffic_source=rss](https://www.aljazeera.com/news/2026/10/19/tehran-rejects-any-role-in-plot-to-kill-leaders-of-jewish-groups?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/20/saudi-arabia-cancels-2026-davos-in-the-desert-amid-houthi-attacks?traffic_source=rss](https://www.aljazeera.com/news/2026/10/20/saudi-arabia-cancels-2026-davos-in-the-desert-amid-houthi-attacks?traffic_source=rss)
 
 ---
 
-### 8. Children among six killed in Russian drone strike on Ukraine park
+### 5. ‘Release Epstein files’, protester interrupts JD Vance’s speech
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Children among six killed in Russian drone strike on Ukraine park
+A protester demanding the release of the Epstein files interrupted US Vice President JD Vance&#039;s speech.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/19/children-among-six-killed-in-russian-drone-strike-on-ukraine-park?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/19/children-among-six-killed-in-russian-drone-strike-on-ukraine-park?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/20/release-epstein-files-protester-interrupts-jd-vances-speech?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/20/release-epstein-files-protester-interrupts-jd-vances-speech?traffic_source=rss)
 
 ---
 
-### 9. Trump: ‘Paris is going to be a Muslim city very soon’
+### 6. Rashida Tlaib demands arrest of Israeli soldier linked to Hind Rajab death
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US President Donald Trump blamed immigrants for the unrest in France, claiming Paris would soon become a ‘Muslim city’.
+US lawmaker says that government must arrest Israeli commander allegedly responsible for attack while he is in the US.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/19/trump-paris-is-going-to-be-a-muslim-city-very?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/19/trump-paris-is-going-to-be-a-muslim-city-very?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/20/rashida-tlaib-demands-arrest-of-israeli-soldier-linked-to-hind-rajab-death?traffic_source=rss](https://www.aljazeera.com/news/2026/10/20/rashida-tlaib-demands-arrest-of-israeli-soldier-linked-to-hind-rajab-death?traffic_source=rss)
 
 ---
 
-### 10. Tropical Cyclone Wati
+### 7. Tropical Cyclone Wati
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Severe Storms
 
 ---
 
-### 11. Super Typhoon Champi
+### 8. Super Typhoon Champi
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Severe Storms
 
 ---
 
-### 12. Prescribed Fire Newman Piles RX, Coconino, Arizona
+### 9. Prescribed Fire Newman Piles RX, Coconino, Arizona
 
 **Source:** NASA
 

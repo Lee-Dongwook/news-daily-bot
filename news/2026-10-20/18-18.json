@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-20T18:18:47+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "My Friend Bob Cringely",
+            "description": "<p>Article URL: <a href=\"https://tyma.com/my-cringe-story/\">https://tyma.com/my-cringe-story/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50166794\">https://news.ycombinator.com/item?id=50166794</a></p>\n<p>Points: 16</p>\n<p># Comments: 0</p>",
+            "url": "https://tyma.com/my-cringe-story/",
+            "published": "Tue, 20 Oct 2026 14:13:49 +0000",
+            "fetched": "2026-10-20T18:18:47+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "EMudhra Intermediate CA Compromise",
+            "description": "<p>Article URL: <a href=\"https://emudhra.we-have-a-problem.com/\">https://emudhra.we-have-a-problem.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50166579\">https://news.ycombinator.com/item?id=50166579</a></p>\n<p>Points: 20</p>\n<p># Comments: 4</p>",
+            "url": "https://emudhra.we-have-a-problem.com/",
+            "published": "Tue, 20 Oct 2026 13:58:33 +0000",
+            "fetched": "2026-10-20T18:18:47+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "2026 is an exciting year for the Rust compiler (and me)",
+            "description": "<p>Article URL: <a href=\"https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/\">https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50166502\">https://news.ycombinator.com/item?id=50166502</a></p>\n<p>Points: 5</p>\n<p># Comments: 1</p>",
+            "url": "https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/",
+            "published": "Tue, 20 Oct 2026 13:53:48 +0000",
+            "fetched": "2026-10-20T18:18:47+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "No 'protective ring' and visiting rules too strict - key points from Covid report on care homes",
+            "description": "From the shocking lack of PPE to restrictions on visitors - the key points from the sixth Covid inquiry report.",
+            "url": "https://www.bbc.co.uk/news/articles/crje5dke7vgqo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 20 Oct 2026 12:16:38 GMT",
+            "fetched": "2026-10-20T18:18:47+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "BBC Three, BBC Scotland and Radio 4 Extra broadcast channels to close",
+            "description": "The closurse are announced as the corporation continues to try to save £500m over two years.",
+            "url": "https://www.bbc.co.uk/news/articles/cqx2v800nnr2o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 20 Oct 2026 13:10:43 GMT",
+            "fetched": "2026-10-20T18:18:47+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "North Korea publishes photos of Kim Jong Un - why do rumours of his death keep coming back?",
+            "description": "North Korean state media has published photos of the dictator with his daughter after the unsubstantiated rumour spread.",
+            "url": "https://www.bbc.co.uk/news/articles/cmvg6qv1jdydo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 20 Oct 2026 11:45:49 GMT",
+            "fetched": "2026-10-20T18:18:47+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Satirical AI video of Paris protests mirrors real-life tourist experiences",
+            "description": "An AI-generated video by Dutch filmmaker Wytse Koetse portrays tourists sightseeing amid protests in Paris.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/satirical-ai-video-of-paris-protests-mirrors-real-life-tourist-experiences?traffic_source=rss",
+            "published": "Tue, 20 Oct 2026 14:24:41 +0000",
+            "fetched": "2026-10-20T18:18:47+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Celebrating Fela Kuti’s legacy and the global rise of Afrobeats",
+            "description": "Fela Kuti was a Nigerian musician known as the King of Afrobeat. His legacy is celebrated every October at Felabration.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/celebrating-fela-kutis-legacy-and-the-global-rise-of-afrobeats?traffic_source=rss",
+            "published": "Tue, 20 Oct 2026 14:13:12 +0000",
+            "fetched": "2026-10-20T18:18:47+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Three months of PM Andy Burnham: Can he sustain the ‘hope vibe’?",
+            "description": "The UK&#039;s new prime minister has made big promises and is a popular leader, but there is still talk of an early election.",
+            "url": "https://www.aljazeera.com/news/2026/10/20/three-months-of-pm-andy-burnham-can-he-sustain-the-hope-vibe?traffic_source=rss",
+            "published": "Tue, 20 Oct 2026 14:00:49 +0000",
+            "fetched": "2026-10-20T18:18:47+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone 02S",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25457",
+            "published": "2026-10-20T06:00:00Z",
+            "fetched": "2026-10-20T18:18:47+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25455",
+            "published": "2026-10-18T08:25:00Z",
+            "fetched": "2026-10-20T18:18:47+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire COOLEY, Mendocino, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25450",
+            "published": "2026-10-16T20:14:00Z",
+            "fetched": "2026-10-20T18:18:47+03:30"
+        }
+    ]
+}

@@ -1,64 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-20 17:12:21
+**Last Update:** 2026-10-20 18:18:47
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. NixOS is making me less afraid
+### 1. My Friend Bob Cringely
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://entropicthoughts.com/nixos-is-making-me-less-afraid">https://entropicthoughts.com/nixos-is-making-me-less-afraid</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50165484">https://news.ycombinator.com/item?id=50165484</a></p>
-<p>Points: 13</p>
+<p>Article URL: <a href="https://tyma.com/my-cringe-story/">https://tyma.com/my-cringe-story/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50166794">https://news.ycombinator.com/item?id=50166794</a></p>
+<p>Points: 16</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://entropicthoughts.com/nixos-is-making-me-less-afraid](https://entropicthoughts.com/nixos-is-making-me-less-afraid)
+🔗 **Read more:** [https://tyma.com/my-cringe-story/](https://tyma.com/my-cringe-story/)
 
 ---
 
-### 2. Demographic "Doomsday" Misses the Mark
+### 2. EMudhra Intermediate CA Compromise
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.science.org/doi/10.1126/science.ael8752">https://www.science.org/doi/10.1126/science.ael8752</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50165276">https://news.ycombinator.com/item?id=50165276</a></p>
-<p>Points: 38</p>
-<p># Comments: 42</p>
+<p>Article URL: <a href="https://emudhra.we-have-a-problem.com/">https://emudhra.we-have-a-problem.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50166579">https://news.ycombinator.com/item?id=50166579</a></p>
+<p>Points: 20</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://www.science.org/doi/10.1126/science.ael8752](https://www.science.org/doi/10.1126/science.ael8752)
+🔗 **Read more:** [https://emudhra.we-have-a-problem.com/](https://emudhra.we-have-a-problem.com/)
 
 ---
 
-### 3. Apple broke an essential presentation feature of iPads
+### 3. 2026 is an exciting year for the Rust compiler (and me)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/">https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50165208">https://news.ycombinator.com/item?id=50165208</a></p>
-<p>Points: 25</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/">https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50166502">https://news.ycombinator.com/item?id=50166502</a></p>
+<p>Points: 5</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/](https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/)
+🔗 **Read more:** [https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/](https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/)
 
 ---
 
-### 4. Key takeaways from Covid report on care homes
+### 4. No 'protective ring' and visiting rules too strict - key points from Covid report on care homes
 
 **Source:** BBC
 
@@ -97,42 +97,42 @@ North Korean state media has published photos of the dictator with his daughter 
 
 ---
 
-### 7. Indonesians protest over land-clearing fires
+### 7. Satirical AI video of Paris protests mirrors real-life tourist experiences
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Students and activists protested across Indonesia over forest fires linked to land clearing for palm oil plantations.
+An AI-generated video by Dutch filmmaker Wytse Koetse portrays tourists sightseeing amid protests in Paris.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/20/indonesians-protest-over-land-clearing-fires?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/20/indonesians-protest-over-land-clearing-fires?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/20/satirical-ai-video-of-paris-protests-mirrors-real-life-tourist-experiences?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/20/satirical-ai-video-of-paris-protests-mirrors-real-life-tourist-experiences?traffic_source=rss)
 
 ---
 
-### 8. US envoy Barrack defends decision to join Israel in war on Iran
+### 8. Celebrating Fela Kuti’s legacy and the global rise of Afrobeats
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US envoy Tom Barrack says President Trump did not follow Israel in going to war against Iran.
+Fela Kuti was a Nigerian musician known as the King of Afrobeat. His legacy is celebrated every October at Felabration.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/20/20-10-iran-us-envoy-barrack-trump-war?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/20/20-10-iran-us-envoy-barrack-trump-war?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/20/celebrating-fela-kutis-legacy-and-the-global-rise-of-afrobeats?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/20/celebrating-fela-kutis-legacy-and-the-global-rise-of-afrobeats?traffic_source=rss)
 
 ---
 
-### 9. More than 250,000 displaced in Yemen since fighting escalated: UNHCR
+### 9. Three months of PM Andy Burnham: Can he sustain the ‘hope vibe’?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-UNICEF says escalating fighting in Taiz is threatening its water systems, serving an estimated three million people.
+The UK&#039;s new prime minister has made big promises and is a popular leader, but there is still talk of an early election.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/20/more-than-250000-displaced-in-yemen-since-fighting-escalated-unhcr?traffic_source=rss](https://www.aljazeera.com/news/2026/10/20/more-than-250000-displaced-in-yemen-since-fighting-escalated-unhcr?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/20/three-months-of-pm-andy-burnham-can-he-sustain-the-hope-vibe?traffic_source=rss](https://www.aljazeera.com/news/2026/10/20/three-months-of-pm-andy-burnham-can-he-sustain-the-hope-vibe?traffic_source=rss)
 
 ---
 

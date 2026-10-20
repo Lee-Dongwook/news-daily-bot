@@ -1,142 +1,94 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-20 18:18:47
+**Last Update:** 2026-10-20 22:03:33
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. My Friend Bob Cringely
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://tyma.com/my-cringe-story/">https://tyma.com/my-cringe-story/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50166794">https://news.ycombinator.com/item?id=50166794</a></p>
-<p>Points: 16</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://tyma.com/my-cringe-story/](https://tyma.com/my-cringe-story/)
-
----
-
-### 2. EMudhra Intermediate CA Compromise
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://emudhra.we-have-a-problem.com/">https://emudhra.we-have-a-problem.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50166579">https://news.ycombinator.com/item?id=50166579</a></p>
-<p>Points: 20</p>
-<p># Comments: 4</p>
-
-🔗 **Read more:** [https://emudhra.we-have-a-problem.com/](https://emudhra.we-have-a-problem.com/)
-
----
-
-### 3. 2026 is an exciting year for the Rust compiler (and me)
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/">https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50166502">https://news.ycombinator.com/item?id=50166502</a></p>
-<p>Points: 5</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/](https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/)
-
----
-
-### 4. No 'protective ring' and visiting rules too strict - key points from Covid report on care homes
+### 1. Two re-arrested on suspicion of assisting Iran intelligence after RAF Fairford incident
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-From the shocking lack of PPE to restrictions on visitors - the key points from the sixth Covid inquiry report.
+The head of UK Counter Terrorism Policing said they consider Iranian state involvement "highly likely".
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crje5dke7vgqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crje5dke7vgqo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqm26z110vzko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqm26z110vzko?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. BBC Three, BBC Scotland and Radio 4 Extra broadcast channels to close
+### 2. Government failings allowed Covid 'to spread like wildfire' in care homes, inquiry finds
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The closurse are announced as the corporation continues to try to save £500m over two years.
+The sixth report from Covid inquiry criticises the lack of PPE and the way patients were discharged from hospital.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqx2v800nnr2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqx2v800nnr2o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck1l38z0v3v6o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck1l38z0v3v6o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. North Korea publishes photos of Kim Jong Un - why do rumours of his death keep coming back?
+### 3. Google resolves cloud outage affecting UK banks and websites
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-North Korean state media has published photos of the dictator with his daughter after the unsubstantiated rumour spread.
+Revolut was one of the hardest hit, with banking services going down for many customers.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmvg6qv1jdydo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmvg6qv1jdydo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Satirical AI video of Paris protests mirrors real-life tourist experiences
+### 4. CDC reports third measles death in the United States this year
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-An AI-generated video by Dutch filmmaker Wytse Koetse portrays tourists sightseeing amid protests in Paris.
+The death was added to the federal tally, as the US records more than 4,400 measles cases nationwide.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/20/satirical-ai-video-of-paris-protests-mirrors-real-life-tourist-experiences?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/20/satirical-ai-video-of-paris-protests-mirrors-real-life-tourist-experiences?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/20/cdc-reports-third-measles-death-in-the-united-states-this-year?traffic_source=rss](https://www.aljazeera.com/news/2026/10/20/cdc-reports-third-measles-death-in-the-united-states-this-year?traffic_source=rss)
 
 ---
 
-### 8. Celebrating Fela Kuti’s legacy and the global rise of Afrobeats
+### 5. Kenya confirms ninth Ebola case amid concerns about regional spread
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Fela Kuti was a Nigerian musician known as the King of Afrobeat. His legacy is celebrated every October at Felabration.
+A 24-year-old man, who was already being held in quarantine, is the latest to test positive.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/20/celebrating-fela-kutis-legacy-and-the-global-rise-of-afrobeats?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/20/celebrating-fela-kutis-legacy-and-the-global-rise-of-afrobeats?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/20/kenya-confirms-ninth-ebola-case?traffic_source=rss](https://www.aljazeera.com/news/2026/10/20/kenya-confirms-ninth-ebola-case?traffic_source=rss)
 
 ---
 
-### 9. Three months of PM Andy Burnham: Can he sustain the ‘hope vibe’?
+### 6. As Macron visits Gulf, can France forge its own energy-for-security future?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The UK&#039;s new prime minister has made big promises and is a popular leader, but there is still talk of an early election.
+President Macron&#039;s Gulf visit aims to address rising energy prices and strengthen ties amid regional security concerns.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/20/three-months-of-pm-andy-burnham-can-he-sustain-the-hope-vibe?traffic_source=rss](https://www.aljazeera.com/news/2026/10/20/three-months-of-pm-andy-burnham-can-he-sustain-the-hope-vibe?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/20/as-macron-visits-gulf-can-france-forge-its-own-energy-for-security-future?traffic_source=rss](https://www.aljazeera.com/news/2026/10/20/as-macron-visits-gulf-can-france-forge-its-own-energy-for-security-future?traffic_source=rss)
 
 ---
 
-### 10. Tropical Cyclone 02S
+### 7. Tropical Cyclone 02S
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Severe Storms
 
 ---
 
-### 11. Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky
+### 8. Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Wildfire COOLEY, Mendocino, California
+### 9. Wildfire COOLEY, Mendocino, California
 
 **Source:** NASA
 

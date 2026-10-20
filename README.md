@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-20 22:03:33
+**Last Update:** 2026-10-20 22:31:59
 
 **Total News:** 9
 
@@ -49,42 +49,42 @@ Revolut was one of the hardest hit, with banking services going down for many cu
 
 ---
 
-### 4. CDC reports third measles death in the United States this year
+### 4. UK to deploy fighter jets to defend Saudi Arabia
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The death was added to the federal tally, as the US records more than 4,400 measles cases nationwide.
+British Typhoon jets will carry out defensive missions to protect Saudi Arabia from escalating Houthi attacks.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/20/cdc-reports-third-measles-death-in-the-united-states-this-year?traffic_source=rss](https://www.aljazeera.com/news/2026/10/20/cdc-reports-third-measles-death-in-the-united-states-this-year?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/20/aje-onl-nf_uk-to-deploy-fighter-jets-to-defend-saudi-arabia_1-201026?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/20/aje-onl-nf_uk-to-deploy-fighter-jets-to-defend-saudi-arabia_1-201026?traffic_source=rss)
 
 ---
 
-### 5. Kenya confirms ninth Ebola case amid concerns about regional spread
+### 5. Oxfam analysis finds Peru’s richest captured 42 percent of all new wealth
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A 24-year-old man, who was already being held in quarantine, is the latest to test positive.
+Only 1.4 percent of all new wealth created between 2019 and 2025 went to the poorest 50 percent, report finds.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/20/kenya-confirms-ninth-ebola-case?traffic_source=rss](https://www.aljazeera.com/news/2026/10/20/kenya-confirms-ninth-ebola-case?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/20/oxfam-analysis-finds-perus-richest-captured-42-percent-of-all-new-wealth?traffic_source=rss](https://www.aljazeera.com/news/2026/10/20/oxfam-analysis-finds-perus-richest-captured-42-percent-of-all-new-wealth?traffic_source=rss)
 
 ---
 
-### 6. As Macron visits Gulf, can France forge its own energy-for-security future?
+### 6. Can a humanitarian crisis in Gaza be averted?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-President Macron&#039;s Gulf visit aims to address rising energy prices and strengthen ties amid regional security concerns.
+The World Food Programme says it is forced to cut aid for thousands in the enclave.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/20/as-macron-visits-gulf-can-france-forge-its-own-energy-for-security-future?traffic_source=rss](https://www.aljazeera.com/news/2026/10/20/as-macron-visits-gulf-can-france-forge-its-own-energy-for-security-future?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/10/20/can-a-humanitarian-crisis-in-gaza-be-averted?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/10/20/can-a-humanitarian-crisis-in-gaza-be-averted?traffic_source=rss)
 
 ---
 

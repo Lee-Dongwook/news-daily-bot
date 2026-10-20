@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-10-20T11:17:03+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
+            "description": "Influential Labour figures had been pushing for equalising CGT and income tax, but critics have said this could drive wealthy people out of Britain.",
+            "url": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 20 Oct 2026 06:50:52 GMT",
+            "fetched": "2026-10-20T11:17:03+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "We asked teens what schools should teach them about work. This is what they said",
+            "description": "Teenagers say they want more work experience at school and opportunities to improve their communication skills.",
+            "url": "https://www.bbc.co.uk/news/articles/c6m2dmdxgz2xo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 20 Oct 2026 05:00:14 GMT",
+            "fetched": "2026-10-20T11:17:03+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "French cities calm overnight after curfews imposed to quell violence, PM says",
+            "description": "Sébastien Lecornu said new curfews for Tuesday night would be decided where necessary.",
+            "url": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 20 Oct 2026 06:35:57 GMT",
+            "fetched": "2026-10-20T11:17:03+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Morocco’s not-so-new government faces new challenges",
+            "description": "The new cabinet has doubled down on continuity at a time of regional turmoil and domestic anxiety.",
+            "url": "https://www.aljazeera.com/opinions/2026/10/20/moroccos-not-so-new-government-faces-new-challenges?traffic_source=rss",
+            "published": "Tue, 20 Oct 2026 06:58:03 +0000",
+            "fetched": "2026-10-20T11:17:03+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Alberta voters reject separation from Canada, early results show",
+            "description": "With more than one million votes counted, about 76 percent supported remaining in Canada.",
+            "url": "https://www.aljazeera.com/news/2026/10/20/alberta-voters-reject-separation-from-canada-early-results-show?traffic_source=rss",
+            "published": "Tue, 20 Oct 2026 06:37:32 +0000",
+            "fetched": "2026-10-20T11:17:03+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US-Ukraine relations sour as Trump, Zelenskyy clash over talks, arms",
+            "description": "Trump calls for Zelenskyy to be replaced as negotiator, while Ukraine&#039;s president says arms shipments delayed.",
+            "url": "https://www.aljazeera.com/news/2026/10/20/us-ukraine-relations-sour-as-trump-zelenskyy-clash-over-talks-arms?traffic_source=rss",
+            "published": "Tue, 20 Oct 2026 06:23:44 +0000",
+            "fetched": "2026-10-20T11:17:03+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Wati",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25340",
+            "published": "2026-10-16T06:00:00Z",
+            "fetched": "2026-10-20T11:17:03+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Super Typhoon Champi",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25339",
+            "published": "2026-10-15T12:00:00Z",
+            "fetched": "2026-10-20T11:17:03+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Newman Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25310",
+            "published": "2026-10-14T10:42:00Z",
+            "fetched": "2026-10-20T11:17:03+03:30"
+        }
+    ]
+}

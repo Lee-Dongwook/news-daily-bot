@@ -1,142 +1,94 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-20 07:34:25
+**Last Update:** 2026-10-20 11:17:03
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Go will reject certificate chains containing eight distrusted SPKIs
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/golang/go/issues/82345">https://github.com/golang/go/issues/82345</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50160877">https://news.ycombinator.com/item?id=50160877</a></p>
-<p>Points: 12</p>
-<p># Comments: 3</p>
-
-🔗 **Read more:** [https://github.com/golang/go/issues/82345](https://github.com/golang/go/issues/82345)
-
----
-
-### 2. OpenBSD 8.0
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.openbsd.org/80.html">https://www.openbsd.org/80.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50160494">https://news.ycombinator.com/item?id=50160494</a></p>
-<p>Points: 37</p>
-<p># Comments: 5</p>
-
-🔗 **Read more:** [https://www.openbsd.org/80.html](https://www.openbsd.org/80.html)
-
----
-
-### 3. OpenBSD 8.0: released Oct 20, 2026
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://marc.info/?l=openbsd-misc&amp;m=179245849770356&amp;w=2">https://marc.info/?l=openbsd-misc&amp;m=179245849770356&amp;w=2</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50160419">https://news.ycombinator.com/item?id=50160419</a></p>
-<p>Points: 17</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://marc.info/?l=openbsd-misc&m=179245849770356&w=2](https://marc.info/?l=openbsd-misc&m=179245849770356&w=2)
-
----
-
-### 4. Curfew imposed in parts of central Paris and other cities after rioting across France
+### 1. Chancellor rejects calls to raise Capital Gains Tax in Budget
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The country's interior minister admits that police "lost control" in some cities following a weekend of riots.
+Influential Labour figures had been pushing for equalising CGT and income tax, but critics have said this could drive wealthy people out of Britain.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Watch: Clean up begins after French riots but police remain
+### 2. We asked teens what schools should teach them about work. This is what they said
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Outside of Paris, Marseille saw some of the worst damage, with shop owners reporting more than 600 premises having been looted.
+Teenagers say they want more work experience at school and opportunities to improve their communication skills.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cwr7y0e57r50o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cwr7y0e57r50o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6m2dmdxgz2xo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6m2dmdxgz2xo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Criminals detained in hospital set to lose benefits
+### 3. French cities calm overnight after curfews imposed to quell violence, PM says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The families of the victims of Nottingham killer Valdo Calocane had been campaigning for the change.
+Sébastien Lecornu said new curfews for Tuesday night would be decided where necessary.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cv62yzddy6dpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cv62yzddy6dpo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Fourteen dead in illegal Colombian gold mine collapse
+### 4. Morocco’s not-so-new government faces new challenges
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Fourteen dead in illegal Colombian gold mine collapse
+The new cabinet has doubled down on continuity at a time of regional turmoil and domestic anxiety.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/20/fourteen-dead-in-illegal-colombian-gold-mine-collapse?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/20/fourteen-dead-in-illegal-colombian-gold-mine-collapse?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/10/20/moroccos-not-so-new-government-faces-new-challenges?traffic_source=rss](https://www.aljazeera.com/opinions/2026/10/20/moroccos-not-so-new-government-faces-new-challenges?traffic_source=rss)
 
 ---
 
-### 8. ‘Deliberate’ car ramming of Australian MP an isolated incident, police say
+### 5. Alberta voters reject separation from Canada, early results show
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A 43-year-old man accused of deliberately hitting Helen Haines outside her office is in police custody.
+With more than one million votes counted, about 76 percent supported remaining in Canada.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/20/deliberate-car-ramming-of-australian-mp-an-isolated-incident-police-say?traffic_source=rss](https://www.aljazeera.com/news/2026/10/20/deliberate-car-ramming-of-australian-mp-an-isolated-incident-police-say?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/20/alberta-voters-reject-separation-from-canada-early-results-show?traffic_source=rss](https://www.aljazeera.com/news/2026/10/20/alberta-voters-reject-separation-from-canada-early-results-show?traffic_source=rss)
 
 ---
 
-### 9. Angel Reese scores 30 as Dream stun Valkyries to go level in WNBA Finals
+### 6. US-Ukraine relations sour as Trump, Zelenskyy clash over talks, arms
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Atlanta Dream defeat Golden State Valkyries 79-65 to tie the best-of-seven WNBA Finals at 1-1.
+Trump calls for Zelenskyy to be replaced as negotiator, while Ukraine&#039;s president says arms shipments delayed.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/20/angel-reese-scores-30-as-dream-stun-valkyries-to-go-level-in-wnba-finals?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/20/angel-reese-scores-30-as-dream-stun-valkyries-to-go-level-in-wnba-finals?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/20/us-ukraine-relations-sour-as-trump-zelenskyy-clash-over-talks-arms?traffic_source=rss](https://www.aljazeera.com/news/2026/10/20/us-ukraine-relations-sour-as-trump-zelenskyy-clash-over-talks-arms?traffic_source=rss)
 
 ---
 
-### 10. Tropical Cyclone Wati
+### 7. Tropical Cyclone Wati
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Severe Storms
 
 ---
 
-### 11. Super Typhoon Champi
+### 8. Super Typhoon Champi
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Severe Storms
 
 ---
 
-### 12. Prescribed Fire Newman Piles RX, Coconino, Arizona
+### 9. Prescribed Fire Newman Piles RX, Coconino, Arizona
 
 **Source:** NASA
 

@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-22 00:14:47
+**Last Update:** 2026-10-22 02:34:26
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. CDC Ignored Request from States to Validate a New Measles Test
+### 1. Railway Security Disclosure
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.nytimes.com/2026/10/21/health/measles-test-cdc.html">https://www.nytimes.com/2026/10/21/health/measles-test-cdc.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50186842">https://news.ycombinator.com/item?id=50186842</a></p>
-<p>Points: 12</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://blog.railway.com/p/security-disclosure-wednesday-october-21st">https://blog.railway.com/p/security-disclosure-wednesday-october-21st</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50188228">https://news.ycombinator.com/item?id=50188228</a></p>
+<p>Points: 140</p>
+<p># Comments: 44</p>
 
-🔗 **Read more:** [https://www.nytimes.com/2026/10/21/health/measles-test-cdc.html](https://www.nytimes.com/2026/10/21/health/measles-test-cdc.html)
+🔗 **Read more:** [https://blog.railway.com/p/security-disclosure-wednesday-october-21st](https://blog.railway.com/p/security-disclosure-wednesday-october-21st)
 
 ---
 
-### 2. After automation: Solo founding will be the default
+### 2. PHP web runtimes (CVE-2026-109618 and CVE-2026-109619)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://every.to/thesis-statements/julian-weisser">https://every.to/thesis-statements/julian-weisser</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50186518">https://news.ycombinator.com/item?id=50186518</a></p>
-<p>Points: 19</p>
-<p># Comments: 10</p>
+<p>Article URL: <a href="https://aws.amazon.com/security/security-bulletins/2026-143-aws/">https://aws.amazon.com/security/security-bulletins/2026-143-aws/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50187708">https://news.ycombinator.com/item?id=50187708</a></p>
+<p>Points: 83</p>
+<p># Comments: 20</p>
 
-🔗 **Read more:** [https://every.to/thesis-statements/julian-weisser](https://every.to/thesis-statements/julian-weisser)
+🔗 **Read more:** [https://aws.amazon.com/security/security-bulletins/2026-143-aws/](https://aws.amazon.com/security/security-bulletins/2026-143-aws/)
 
 ---
 
-### 3. Claude Duet
+### 3. CleanFrame: A quieter home screen for Samsung The Frame
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://claude.com/resources/articles/claude-duet">https://claude.com/resources/articles/claude-duet</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50186455">https://news.ycombinator.com/item?id=50186455</a></p>
+<p>Article URL: <a href="https://github.com/nthnclrk/CleanFrame">https://github.com/nthnclrk/CleanFrame</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50187659">https://news.ycombinator.com/item?id=50187659</a></p>
 <p>Points: 10</p>
-<p># Comments: 2</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://claude.com/resources/articles/claude-duet](https://claude.com/resources/articles/claude-duet)
+🔗 **Read more:** [https://github.com/nthnclrk/CleanFrame](https://github.com/nthnclrk/CleanFrame)
 
 ---
 
@@ -84,55 +84,55 @@ The vulnerabilities with PHP, a programming language widely used across the inte
 
 ---
 
-### 6. Russia says it is ready to resume talks with Ukraine and US to end war
+### 6. Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The announcement came after Russian President Vladimir Putin met US President Donald Trump's special envoy Steve Witkoff in St Petersburg.
+Moscow says it is "ready in principle" to resume peace talks and US President Donald Trump says the world is "the closest we've been" to ending the war.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Jason Alexander recalls Palestinian protection in Ramallah
+### 7. Canadian publisher cuts ties with best-selling writer Orelien over AI use
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Seinfeld actor Jason Alexander recalls a visit to Ramallah that challenged his fears about visiting Palestinian cities.
+Publisher Boreal says investigations confirmed the Haitian-Canadian Thelyson Orelien used AI in his breakthrough novel.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/21/jason-alexander-recalls-palestinian-protection-in-ramallah?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/21/jason-alexander-recalls-palestinian-protection-in-ramallah?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/21/canadian-publisher-cuts-ties-with-best-selling-writer-orelien-over-ai-use?traffic_source=rss](https://www.aljazeera.com/news/2026/10/21/canadian-publisher-cuts-ties-with-best-selling-writer-orelien-over-ai-use?traffic_source=rss)
 
 ---
 
-### 8. Cuba accuses US of threatening countries ahead of UN embargo vote
+### 8. Video shows Israeli settler assaulting Palestinian child
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Havana says Washington is threatening countries with retaliation if they refuse to vote against condemning its embargo.
+An Israeli settler was filmed shouting at and assaulting a Palestinian child during an attack on a family east of Yatta.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/21/cuba-accuses-us-of-threatening-countries-ahead-of-un-embargo-vote?traffic_source=rss](https://www.aljazeera.com/news/2026/10/21/cuba-accuses-us-of-threatening-countries-ahead-of-un-embargo-vote?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/21/video-shows-israeli-settler-assaulting-palestinian-child-2?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/21/video-shows-israeli-settler-assaulting-palestinian-child-2?traffic_source=rss)
 
 ---
 
-### 9. What happened to Australian politician Helen Haines?
+### 9. Man United captain Fernandes slams Carrick’s tactics after Como hammering
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Australian Lawmaker Helen Haines has lost both legs after a car rammed into her.
+Manchester United winless run continues with 4-1 Champions League humbling in Como, and Bruno Fernandes slams tactics.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/21/what-happened-to-australian-politician-helen-haines?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/21/what-happened-to-australian-politician-helen-haines?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/21/man-united-captain-fernandes-slams-carricks-tactics-after-como-hammering?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/21/man-united-captain-fernandes-slams-carricks-tactics-after-como-hammering?traffic_source=rss)
 
 ---
 

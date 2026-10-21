@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-21T12:42:55+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Pillowfort Is Closing",
+            "description": "<p>Article URL: <a href=\"https://www.pillowfort.social/posts/8413273\">https://www.pillowfort.social/posts/8413273</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50176301\">https://news.ycombinator.com/item?id=50176301</a></p>\n<p>Points: 41</p>\n<p># Comments: 22</p>",
+            "url": "https://www.pillowfort.social/posts/8413273",
+            "published": "Wed, 21 Oct 2026 05:05:37 +0000",
+            "fetched": "2026-10-21T12:42:55+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Battlezone Online: BZFlag in the Browser",
+            "description": "<p>Article URL: <a href=\"https://github.com/timriker/bzo\">https://github.com/timriker/bzo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50176298\">https://news.ycombinator.com/item?id=50176298</a></p>\n<p>Points: 28</p>\n<p># Comments: 20</p>",
+            "url": "https://github.com/timriker/bzo",
+            "published": "Wed, 21 Oct 2026 05:05:19 +0000",
+            "fetched": "2026-10-21T12:42:55+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Setting Up SSH Keys on macOS with Touch ID",
+            "description": "<p>Article URL: <a href=\"https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/\">https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50175882\">https://news.ycombinator.com/item?id=50175882</a></p>\n<p>Points: 45</p>\n<p># Comments: 29</p>",
+            "url": "https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/",
+            "published": "Wed, 21 Oct 2026 03:51:25 +0000",
+            "fetched": "2026-10-21T12:42:55+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Chris Mason: Jackdaw approved but tricky energy trade-offs remain",
+            "description": "Jackdaw and Rosebank are case studies in the slow motion awkwardness the UK has over energy.",
+            "url": "https://www.bbc.co.uk/news/articles/cked35dz47y7o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 21 Oct 2026 08:49:44 GMT",
+            "fetched": "2026-10-21T12:42:55+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Lawyer caught by BBC offering to make illegal-worker fine go away",
+            "description": "Because of our investigation, the home secretary has ordered a review of how fines are issued and collected.",
+            "url": "https://www.bbc.co.uk/news/articles/c30rln4pz58xo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 21 Oct 2026 05:00:35 GMT",
+            "fetched": "2026-10-21T12:42:55+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: 'We don't pay' - lawyer advises how to avoid £45,000 illegal-worker fine",
+            "description": "Mohammad Alias Yousaf made his claim to an undercover reporter posing as a mini-mart owner.",
+            "url": "https://www.bbc.co.uk/news/videos/cm93z1j33dkpo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 21 Oct 2026 05:00:54 GMT",
+            "fetched": "2026-10-21T12:42:55+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Australian MP loses both legs in vehicle attack as suspect appears in court",
+            "description": "Independent lawmaker Helen Haines is in stable condition, her husband says, as suspect charged with three offences.",
+            "url": "https://www.aljazeera.com/news/2026/10/21/australian-mp-loses-both-legs-in-vehicle-attack-as-suspect-appears-in-court?traffic_source=rss",
+            "published": "Wed, 21 Oct 2026 08:34:37 +0000",
+            "fetched": "2026-10-21T12:42:55+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "LeBron James’s 76ers beat NY Knicks on NBA’s opening night at MSG",
+            "description": "The Philadelphia 76ers defeated NBA champions New York Knicks 106-100 as the new NBA season tipped off.",
+            "url": "https://www.aljazeera.com/sports/2026/10/21/lebron-jamess-76ers-beat-ny-knicks-on-nbas-opening-night-at-msg?traffic_source=rss",
+            "published": "Wed, 21 Oct 2026 08:30:55 +0000",
+            "fetched": "2026-10-21T12:42:55+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump snaps at reporter, ordering him to be quiet",
+            "description": "US President Donald Trump became visibly angry as he berated a reporter who attempted to ask a question.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/trump-snaps-at-reporter-ordering-him-to-be-quiet?traffic_source=rss",
+            "published": "Wed, 21 Oct 2026 08:29:08 +0000",
+            "fetched": "2026-10-21T12:42:55+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone 02S",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25457",
+            "published": "2026-10-20T06:00:00Z",
+            "fetched": "2026-10-21T12:42:55+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25455",
+            "published": "2026-10-18T08:25:00Z",
+            "fetched": "2026-10-21T12:42:55+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire COOLEY, Mendocino, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25450",
+            "published": "2026-10-16T20:14:00Z",
+            "fetched": "2026-10-21T12:42:55+03:30"
+        }
+    ]
+}

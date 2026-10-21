@@ -1,32 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-21 09:39:19
+**Last Update:** 2026-10-21 12:42:55
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Alibaba hikes DeepSeek V4 Flash 0731 output prices by 230%
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.stork.ai/newsletter/2026-10-20-alibaba-quietly-tripled-deepseek-prices#lead">https://www.stork.ai/newsletter/2026-10-20-alibaba-quietly-tripled-deepseek-prices#lead</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50176351">https://news.ycombinator.com/item?id=50176351</a></p>
-<p>Points: 10</p>
-<p># Comments: 3</p>
-
-🔗 **Read more:** [https://www.stork.ai/newsletter/2026-10-20-alibaba-quietly-tripled-deepseek-prices#lead](https://www.stork.ai/newsletter/2026-10-20-alibaba-quietly-tripled-deepseek-prices#lead)
-
----
-
-### 2. Pillowfort Is Closing
+### 1. Pillowfort Is Closing
 
 **Source:** Hacker News
 
@@ -35,14 +19,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.pillowfort.social/posts/8413273">https://www.pillowfort.social/posts/8413273</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50176301">https://news.ycombinator.com/item?id=50176301</a></p>
-<p>Points: 17</p>
-<p># Comments: 5</p>
+<p>Points: 41</p>
+<p># Comments: 22</p>
 
 🔗 **Read more:** [https://www.pillowfort.social/posts/8413273](https://www.pillowfort.social/posts/8413273)
 
 ---
 
-### 3. Battlezone Online: BZFlag in the Browser
+### 2. Battlezone Online: BZFlag in the Browser
 
 **Source:** Hacker News
 
@@ -51,14 +35,43 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/timriker/bzo">https://github.com/timriker/bzo</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50176298">https://news.ycombinator.com/item?id=50176298</a></p>
-<p>Points: 10</p>
-<p># Comments: 4</p>
+<p>Points: 28</p>
+<p># Comments: 20</p>
 
 🔗 **Read more:** [https://github.com/timriker/bzo](https://github.com/timriker/bzo)
 
 ---
 
-### 4. Lawyer caught offering to make illegal-worker fine go away
+### 3. Setting Up SSH Keys on macOS with Touch ID
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/">https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50175882">https://news.ycombinator.com/item?id=50175882</a></p>
+<p>Points: 45</p>
+<p># Comments: 29</p>
+
+🔗 **Read more:** [https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/](https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/)
+
+---
+
+### 4. Chris Mason: Jackdaw approved but tricky energy trade-offs remain
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Jackdaw and Rosebank are case studies in the slow motion awkwardness the UK has over energy.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cked35dz47y7o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cked35dz47y7o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Lawyer caught by BBC offering to make illegal-worker fine go away
 
 **Source:** BBC
 
@@ -71,7 +84,7 @@ Because of our investigation, the home secretary has ordered a review of how fin
 
 ---
 
-### 5. Watch: 'We don't pay' - lawyer advises how to avoid £45,000 illegal-worker fine
+### 6. Watch: 'We don't pay' - lawyer advises how to avoid £45,000 illegal-worker fine
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ Mohammad Alias Yousaf made his claim to an undercover reporter posing as a mini-
 
 ---
 
-### 6. US envoy to meet Putin in Russia as Zelensky says intelligence sharing 'works now'
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Ukraine had accused the US of withholding key intelligence - a claim rejected as "scandalous" by Washington.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Anthropic posts $80bn loss in first half of 2026: WSJ
+### 7. Australian MP loses both legs in vehicle attack as suspect appears in court
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The loss, up from $13bn in the same period last year, was driven by accounting charges, according to the report.
+Independent lawmaker Helen Haines is in stable condition, her husband says, as suspect charged with three offences.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/21/anthropic-posts-80bn-loss-in-first-half-of-2026-wsj?traffic_source=rss](https://www.aljazeera.com/news/2026/10/21/anthropic-posts-80bn-loss-in-first-half-of-2026-wsj?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/21/australian-mp-loses-both-legs-in-vehicle-attack-as-suspect-appears-in-court?traffic_source=rss](https://www.aljazeera.com/news/2026/10/21/australian-mp-loses-both-legs-in-vehicle-attack-as-suspect-appears-in-court?traffic_source=rss)
 
 ---
 
-### 8. OpenAI says its agents turned off own safeguards
+### 8. LeBron James’s 76ers beat NY Knicks on NBA’s opening night at MSG
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-ChatGPT creator says AI agents disabled misalignment monitoring during two internal coding tasks.
+The Philadelphia 76ers defeated NBA champions New York Knicks 106-100 as the new NBA season tipped off.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/21/openai-says-its-agents-turned-off-own-safeguards?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/21/openai-says-its-agents-turned-off-own-safeguards?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/21/lebron-jamess-76ers-beat-ny-knicks-on-nbas-opening-night-at-msg?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/21/lebron-jamess-76ers-beat-ny-knicks-on-nbas-opening-night-at-msg?traffic_source=rss)
 
 ---
 
-### 9. Which countries and players have won the most Ballon d’Or awards?
+### 9. Trump snaps at reporter, ordering him to be quiet
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Argentina&#039;s Lionel Messi has won all of his country&#039;s eight prizes, while Portugal&#039;s Cristiano Ronaldo has won five.
+US President Donald Trump became visibly angry as he berated a reporter who attempted to ask a question.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/21/which-countries-and-players-have-won-the-most-ballon-dor-awards?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/21/which-countries-and-players-have-won-the-most-ballon-dor-awards?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/21/trump-snaps-at-reporter-ordering-him-to-be-quiet?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/21/trump-snaps-at-reporter-ordering-him-to-be-quiet?traffic_source=rss)
 
 ---
 

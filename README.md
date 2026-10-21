@@ -1,29 +1,90 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-21 07:23:32
+**Last Update:** 2026-10-21 09:39:19
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Two men re-arrested on suspicion of assisting Iran intelligence after RAF Fairford incident
+### 1. Alibaba hikes DeepSeek V4 Flash 0731 output prices by 230%
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.stork.ai/newsletter/2026-10-20-alibaba-quietly-tripled-deepseek-prices#lead">https://www.stork.ai/newsletter/2026-10-20-alibaba-quietly-tripled-deepseek-prices#lead</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50176351">https://news.ycombinator.com/item?id=50176351</a></p>
+<p>Points: 10</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://www.stork.ai/newsletter/2026-10-20-alibaba-quietly-tripled-deepseek-prices#lead](https://www.stork.ai/newsletter/2026-10-20-alibaba-quietly-tripled-deepseek-prices#lead)
+
+---
+
+### 2. Pillowfort Is Closing
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.pillowfort.social/posts/8413273">https://www.pillowfort.social/posts/8413273</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50176301">https://news.ycombinator.com/item?id=50176301</a></p>
+<p>Points: 17</p>
+<p># Comments: 5</p>
+
+🔗 **Read more:** [https://www.pillowfort.social/posts/8413273](https://www.pillowfort.social/posts/8413273)
+
+---
+
+### 3. Battlezone Online: BZFlag in the Browser
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/timriker/bzo">https://github.com/timriker/bzo</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50176298">https://news.ycombinator.com/item?id=50176298</a></p>
+<p>Points: 10</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://github.com/timriker/bzo](https://github.com/timriker/bzo)
+
+---
+
+### 4. Lawyer caught offering to make illegal-worker fine go away
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The head of UK Counter Terrorism Policing said they consider Iranian state involvement "highly likely".
+Because of our investigation, the home secretary has ordered a review of how fines are issued and collected.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqm26z110vzko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqm26z110vzko?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c30rln4pz58xo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c30rln4pz58xo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 2. Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo
+### 5. Watch: 'We don't pay' - lawyer advises how to avoid £45,000 illegal-worker fine
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Mohammad Alias Yousaf made his claim to an undercover reporter posing as a mini-mart owner.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cm93z1j33dkpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cm93z1j33dkpo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. US envoy to meet Putin in Russia as Zelensky says intelligence sharing 'works now'
 
 **Source:** BBC
 
@@ -36,59 +97,46 @@ Ukraine had accused the US of withholding key intelligence - a claim rejected as
 
 ---
 
-### 3. UK government to make Jackdaw gas field announcement
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The long-awaited decision about the controversial North Sea field is expected on Wednesday morning.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvze4wx3elj1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvze4wx3elj1o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 4. Faecal waste pollutes drinking water in Mexico’s Yucatan, Greenpeace says
+### 7. Anthropic posts $80bn loss in first half of 2026: WSJ
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The report says nearby pig farms and municipal wastewater are the likely sources of contamination.
+The loss, up from $13bn in the same period last year, was driven by accounting charges, according to the report.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/21/faecal-waste-pollutes-drinking-water-in-mexicos-yucatan-greenpeace-says?traffic_source=rss](https://www.aljazeera.com/news/2026/10/21/faecal-waste-pollutes-drinking-water-in-mexicos-yucatan-greenpeace-says?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/21/anthropic-posts-80bn-loss-in-first-half-of-2026-wsj?traffic_source=rss](https://www.aljazeera.com/news/2026/10/21/anthropic-posts-80bn-loss-in-first-half-of-2026-wsj?traffic_source=rss)
 
 ---
 
-### 5. Portugal cost-of-living protesters pour back into camps cleared by police
+### 8. OpenAI says its agents turned off own safeguards
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Police arrested 55 people while clearing protest camps in Lisbon and Porto.
+ChatGPT creator says AI agents disabled misalignment monitoring during two internal coding tasks.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/21/portugal-cost-of-living-protesters-pour-back-into-camps-cleared-by-police?traffic_source=rss](https://www.aljazeera.com/news/2026/10/21/portugal-cost-of-living-protesters-pour-back-into-camps-cleared-by-police?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/21/openai-says-its-agents-turned-off-own-safeguards?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/21/openai-says-its-agents-turned-off-own-safeguards?traffic_source=rss)
 
 ---
 
-### 6. Drone strike on Abyei market near Sudan-South Sudan border kills 150
+### 9. Which countries and players have won the most Ballon d’Or awards?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Drone strike on Abyei market near Sudan-South Sudan border kills 150
+Argentina&#039;s Lionel Messi has won all of his country&#039;s eight prizes, while Portugal&#039;s Cristiano Ronaldo has won five.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/21/drone-strike-on-abyei-market-near-sudan-south-sudan-border-kills-150?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/21/drone-strike-on-abyei-market-near-sudan-south-sudan-border-kills-150?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/21/which-countries-and-players-have-won-the-most-ballon-dor-awards?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/21/which-countries-and-players-have-won-the-most-ballon-dor-awards?traffic_source=rss)
 
 ---
 
-### 7. Tropical Cyclone 02S
+### 10. Tropical Cyclone 02S
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Severe Storms
 
 ---
 
-### 8. Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky
+### 11. Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Wildfires
 
 ---
 
-### 9. Wildfire COOLEY, Mendocino, California
+### 12. Wildfire COOLEY, Mendocino, California
 
 **Source:** NASA
 

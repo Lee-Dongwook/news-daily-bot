@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-21 20:55:31
+**Last Update:** 2026-10-21 22:41:19
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Rust off Rails: The opinionated web stack for the AI era
+### 1. Canary Tokens
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://rustoffrails.org/">https://rustoffrails.org/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50183727">https://news.ycombinator.com/item?id=50183727</a></p>
-<p>Points: 14</p>
-<p># Comments: 5</p>
-
-🔗 **Read more:** [https://rustoffrails.org/](https://rustoffrails.org/)
-
----
-
-### 2. New plastic pollution discovered: 'Plasticorals' coral rubble fused with plastic
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs">https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50183512">https://news.ycombinator.com/item?id=50183512</a></p>
-<p>Points: 3</p>
+<p>Article URL: <a href="https://canarytokens.org/">https://canarytokens.org/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50185630">https://news.ycombinator.com/item?id=50185630</a></p>
+<p>Points: 4</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs](https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs)
+🔗 **Read more:** [https://canarytokens.org/](https://canarytokens.org/)
 
 ---
 
-### 3. What I learned from six months of being stupid on purpose
+### 2. Open Source Games
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://wvez.org/blog/learning-to-be-stupid/">https://wvez.org/blog/learning-to-be-stupid/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50183311">https://news.ycombinator.com/item?id=50183311</a></p>
-<p>Points: 24</p>
-<p># Comments: 11</p>
+<p>Article URL: <a href="https://opensourcegames.dev/">https://opensourcegames.dev/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50185455">https://news.ycombinator.com/item?id=50185455</a></p>
+<p>Points: 10</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://wvez.org/blog/learning-to-be-stupid/](https://wvez.org/blog/learning-to-be-stupid/)
+🔗 **Read more:** [https://opensourcegames.dev/](https://opensourcegames.dev/)
+
+---
+
+### 3. Anthropic's Public Benefit Charter
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.anthropic.com/public-benefit-charter">https://www.anthropic.com/public-benefit-charter</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50185438">https://news.ycombinator.com/item?id=50185438</a></p>
+<p>Points: 11</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://www.anthropic.com/public-benefit-charter](https://www.anthropic.com/public-benefit-charter)
 
 ---
 
@@ -84,55 +84,55 @@ The BBC speaks to several current and former Google DeepMind employees about the
 
 ---
 
-### 6. Jailed former DUP leader Jeffrey Donaldson being investigated over alleged rape inside Parliament
+### 6. Russia says it is ready to resume talks with Ukraine and US to end war
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-While not naming the disgraced former MP, the Metropolitan Police has issued a statement confirming a 63-year-old man is being investigated.
+The announcement came after Russian President Vladimir Putin met US President Donald Trump's special envoy Steve Witkoff in St Petersburg.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c94g1pjmxg0ko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c94g1pjmxg0ko?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Macron makes surprise Saudi visit as France secures extra diesel supplies
+### 7. Russia willing to resume peace talks with Ukraine, US after Witkoff visit
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-French president meets Mohammed bin Salman in Riyadh to discuss energy, security, and infrastructure.
+Russian President Vladimir Putin has signalled Moscow is willing in principle to resume talks with Ukraine and the US.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/21/macron-makes-surprise-saudi-visit-as-france-secures-extra-diesel-supplies?traffic_source=rss](https://www.aljazeera.com/news/2026/10/21/macron-makes-surprise-saudi-visit-as-france-secures-extra-diesel-supplies?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/21/russia-willing-to-resume-peace-talks-with-ukraine-us-after-witkoff-visit?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/21/russia-willing-to-resume-peace-talks-with-ukraine-us-after-witkoff-visit?traffic_source=rss)
 
 ---
 
-### 8. Paris shopkeepers fear more destruction after riots destroy livelihoods
+### 8. Steelers and Saints set for historic NFL clash in riot-hit Paris
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-‘I have nothing left.’ Small business owners in Paris say they are traumatised after rioters looted their shops.
+The NFL’s Steelers and Saints will play in Paris on Sunday despite the riots.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/21/10-21-reported-paris-shopkeepers-truamatised?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/21/10-21-reported-paris-shopkeepers-truamatised?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/21/steelers-and-saints-set-for-historic-nfl-clash-in-riot-hit-paris?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/21/steelers-and-saints-set-for-historic-nfl-clash-in-riot-hit-paris?traffic_source=rss)
 
 ---
 
-### 9. Macron’s surprise ‘solidarity’ visit to Saudi Arabia
+### 9. Iran determined to keep uranium amid increased war odds, flurry of meetings
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-French President Emmanuel Macron made a surprise stop in Riyadh to meet Saudi Crown Prince during his ongoing Gulf tour.
+Tehran had &#039;nothing new&#039; to tell Washington after latest nuclear proposals reportedly offered by mediators.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/21/macrons-surprise-solidarity-visit-to-saudi-arabia?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/21/macrons-surprise-solidarity-visit-to-saudi-arabia?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/21/iran-determined-to-keep-uranium-amid-increased-war-odds-flurry-of-meetings?traffic_source=rss](https://www.aljazeera.com/news/2026/10/21/iran-determined-to-keep-uranium-amid-increased-war-odds-flurry-of-meetings?traffic_source=rss)
 
 ---
 

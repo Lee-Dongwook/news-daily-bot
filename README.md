@@ -1,77 +1,90 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-21 12:42:55
+**Last Update:** 2026-10-21 15:35:31
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Pillowfort Is Closing
+### 1. Whatever Happened to Fire Escapes
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.pillowfort.social/posts/8413273">https://www.pillowfort.social/posts/8413273</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50176301">https://news.ycombinator.com/item?id=50176301</a></p>
-<p>Points: 41</p>
-<p># Comments: 22</p>
+<p>Article URL: <a href="https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes">https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50178455">https://news.ycombinator.com/item?id=50178455</a></p>
+<p>Points: 35</p>
+<p># Comments: 15</p>
 
-🔗 **Read more:** [https://www.pillowfort.social/posts/8413273](https://www.pillowfort.social/posts/8413273)
+🔗 **Read more:** [https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes](https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes)
 
 ---
 
-### 2. Battlezone Online: BZFlag in the Browser
+### 2. Show HN: Linkit – AI bookmark manager, 100% free and open source
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/timriker/bzo">https://github.com/timriker/bzo</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50176298">https://news.ycombinator.com/item?id=50176298</a></p>
-<p>Points: 28</p>
-<p># Comments: 20</p>
+<p>Article URL: <a href="https://github.com/blue-idea/linkit">https://github.com/blue-idea/linkit</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50178218">https://news.ycombinator.com/item?id=50178218</a></p>
+<p>Points: 10</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://github.com/timriker/bzo](https://github.com/timriker/bzo)
+🔗 **Read more:** [https://github.com/blue-idea/linkit](https://github.com/blue-idea/linkit)
 
 ---
 
-### 3. Setting Up SSH Keys on macOS with Touch ID
+### 3. Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/">https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50175882">https://news.ycombinator.com/item?id=50175882</a></p>
-<p>Points: 45</p>
-<p># Comments: 29</p>
+<p>Article URL: <a href="https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/">https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50177916">https://news.ycombinator.com/item?id=50177916</a></p>
+<p>Points: 233</p>
+<p># Comments: 99</p>
 
-🔗 **Read more:** [https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/](https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/)
+🔗 **Read more:** [https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/](https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/)
 
 ---
 
-### 4. Chris Mason: Jackdaw approved but tricky energy trade-offs remain
+### 4. US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Jackdaw and Rosebank are case studies in the slow motion awkwardness the UK has over energy.
+The 74-year-old former teacher has been released without any "swap" required, Trump says.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cked35dz47y7o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cked35dz47y7o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Lawyer caught by BBC offering to make illegal-worker fine go away
+### 5. Australian MP loses both legs after alleged car attack, husband says
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Her alleged attacker, 43-year-old Brendan Nugent, faces multiple charges and appeared in court for the first time on Wednesday.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Lawyer caught by BBC offering to make illegal-worker fine go away
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ Because of our investigation, the home secretary has ordered a review of how fin
 
 ---
 
-### 6. Watch: 'We don't pay' - lawyer advises how to avoid £45,000 illegal-worker fine
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Mohammad Alias Yousaf made his claim to an undercover reporter posing as a mini-mart owner.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cm93z1j33dkpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cm93z1j33dkpo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Australian MP loses both legs in vehicle attack as suspect appears in court
+### 7. Cost of living protests aren’t just happening in Europe
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Independent lawmaker Helen Haines is in stable condition, her husband says, as suspect charged with three offences.
+Cost of living protests aren’t just happening in Europe
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/21/australian-mp-loses-both-legs-in-vehicle-attack-as-suspect-appears-in-court?traffic_source=rss](https://www.aljazeera.com/news/2026/10/21/australian-mp-loses-both-legs-in-vehicle-attack-as-suspect-appears-in-court?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/21/cost-of-living-protests-arent-just-happening-in-europe?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/21/cost-of-living-protests-arent-just-happening-in-europe?traffic_source=rss)
 
 ---
 
-### 8. LeBron James’s 76ers beat NY Knicks on NBA’s opening night at MSG
+### 8. Kvaratskhelia, Dembele and Marquinhos out injured after PSG’s win
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The Philadelphia 76ers defeated NBA champions New York Knicks 106-100 as the new NBA season tipped off.
+Kvaratskhelia out for months with a torn ACL in his right knee, while Dembele and Marquinhos suffer thigh muscle tears.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/21/lebron-jamess-76ers-beat-ny-knicks-on-nbas-opening-night-at-msg?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/21/lebron-jamess-76ers-beat-ny-knicks-on-nbas-opening-night-at-msg?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/21/kvaratskhelia-dembele-and-marquinhos-out-injured-after-psgs-win?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/21/kvaratskhelia-dembele-and-marquinhos-out-injured-after-psgs-win?traffic_source=rss)
 
 ---
 
-### 9. Trump snaps at reporter, ordering him to be quiet
+### 9. Why are French protesters chanting ‘Bismillah, c’est les ténèbres’?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US President Donald Trump became visibly angry as he berated a reporter who attempted to ask a question.
+The slogan has come to represent a whole array of grievances that lie at the heart of the protest movement.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/21/trump-snaps-at-reporter-ordering-him-to-be-quiet?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/21/trump-snaps-at-reporter-ordering-him-to-be-quiet?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/21/why-are-french-protesters-chanting-bismillah-cest-les?traffic_source=rss](https://www.aljazeera.com/news/2026/10/21/why-are-french-protesters-chanting-bismillah-cest-les?traffic_source=rss)
 
 ---
 

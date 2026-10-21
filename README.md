@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-21 22:41:19
+**Last Update:** 2026-10-22 00:14:47
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Canary Tokens
+### 1. CDC Ignored Request from States to Validate a New Measles Test
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://canarytokens.org/">https://canarytokens.org/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50185630">https://news.ycombinator.com/item?id=50185630</a></p>
-<p>Points: 4</p>
+<p>Article URL: <a href="https://www.nytimes.com/2026/10/21/health/measles-test-cdc.html">https://www.nytimes.com/2026/10/21/health/measles-test-cdc.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50186842">https://news.ycombinator.com/item?id=50186842</a></p>
+<p>Points: 12</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://canarytokens.org/](https://canarytokens.org/)
+🔗 **Read more:** [https://www.nytimes.com/2026/10/21/health/measles-test-cdc.html](https://www.nytimes.com/2026/10/21/health/measles-test-cdc.html)
 
 ---
 
-### 2. Open Source Games
+### 2. After automation: Solo founding will be the default
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://opensourcegames.dev/">https://opensourcegames.dev/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50185455">https://news.ycombinator.com/item?id=50185455</a></p>
+<p>Article URL: <a href="https://every.to/thesis-statements/julian-weisser">https://every.to/thesis-statements/julian-weisser</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50186518">https://news.ycombinator.com/item?id=50186518</a></p>
+<p>Points: 19</p>
+<p># Comments: 10</p>
+
+🔗 **Read more:** [https://every.to/thesis-statements/julian-weisser](https://every.to/thesis-statements/julian-weisser)
+
+---
+
+### 3. Claude Duet
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://claude.com/resources/articles/claude-duet">https://claude.com/resources/articles/claude-duet</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50186455">https://news.ycombinator.com/item?id=50186455</a></p>
 <p>Points: 10</p>
-<p># Comments: 3</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://opensourcegames.dev/](https://opensourcegames.dev/)
-
----
-
-### 3. Anthropic's Public Benefit Charter
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.anthropic.com/public-benefit-charter">https://www.anthropic.com/public-benefit-charter</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50185438">https://news.ycombinator.com/item?id=50185438</a></p>
-<p>Points: 11</p>
-<p># Comments: 3</p>
-
-🔗 **Read more:** [https://www.anthropic.com/public-benefit-charter](https://www.anthropic.com/public-benefit-charter)
+🔗 **Read more:** [https://claude.com/resources/articles/claude-duet](https://claude.com/resources/articles/claude-duet)
 
 ---
 
@@ -71,16 +71,16 @@ The UK government says the field, which is opposed by environmental campaigners,
 
 ---
 
-### 5. Google staff resign in backlash over its AI contracts with military
+### 5. Websites taken down worldwide as critical cyber-security update issued
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The BBC speaks to several current and former Google DeepMind employees about their concerns with AI use on the battlefield.
+The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmreyvepnv0po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmreyvepnv0po?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +97,42 @@ The announcement came after Russian President Vladimir Putin met US President Do
 
 ---
 
-### 7. Russia willing to resume peace talks with Ukraine, US after Witkoff visit
+### 7. Jason Alexander recalls Palestinian protection in Ramallah
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Russian President Vladimir Putin has signalled Moscow is willing in principle to resume talks with Ukraine and the US.
+Seinfeld actor Jason Alexander recalls a visit to Ramallah that challenged his fears about visiting Palestinian cities.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/21/russia-willing-to-resume-peace-talks-with-ukraine-us-after-witkoff-visit?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/21/russia-willing-to-resume-peace-talks-with-ukraine-us-after-witkoff-visit?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/21/jason-alexander-recalls-palestinian-protection-in-ramallah?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/21/jason-alexander-recalls-palestinian-protection-in-ramallah?traffic_source=rss)
 
 ---
 
-### 8. Steelers and Saints set for historic NFL clash in riot-hit Paris
+### 8. Cuba accuses US of threatening countries ahead of UN embargo vote
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The NFL’s Steelers and Saints will play in Paris on Sunday despite the riots.
+Havana says Washington is threatening countries with retaliation if they refuse to vote against condemning its embargo.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/21/steelers-and-saints-set-for-historic-nfl-clash-in-riot-hit-paris?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/21/steelers-and-saints-set-for-historic-nfl-clash-in-riot-hit-paris?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/21/cuba-accuses-us-of-threatening-countries-ahead-of-un-embargo-vote?traffic_source=rss](https://www.aljazeera.com/news/2026/10/21/cuba-accuses-us-of-threatening-countries-ahead-of-un-embargo-vote?traffic_source=rss)
 
 ---
 
-### 9. Iran determined to keep uranium amid increased war odds, flurry of meetings
+### 9. What happened to Australian politician Helen Haines?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Tehran had &#039;nothing new&#039; to tell Washington after latest nuclear proposals reportedly offered by mediators.
+Australian Lawmaker Helen Haines has lost both legs after a car rammed into her.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/21/iran-determined-to-keep-uranium-amid-increased-war-odds-flurry-of-meetings?traffic_source=rss](https://www.aljazeera.com/news/2026/10/21/iran-determined-to-keep-uranium-amid-increased-war-odds-flurry-of-meetings?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/21/what-happened-to-australian-politician-helen-haines?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/21/what-happened-to-australian-politician-helen-haines?traffic_source=rss)
 
 ---
 

@@ -1,64 +1,90 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-21 18:26:22
+**Last Update:** 2026-10-21 20:55:31
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Patch the Planet
+### 1. Rust off Rails: The opinionated web stack for the AI era
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://patchtheplanet.org/">https://patchtheplanet.org/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50181265">https://news.ycombinator.com/item?id=50181265</a></p>
+<p>Article URL: <a href="https://rustoffrails.org/">https://rustoffrails.org/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50183727">https://news.ycombinator.com/item?id=50183727</a></p>
+<p>Points: 14</p>
+<p># Comments: 5</p>
+
+🔗 **Read more:** [https://rustoffrails.org/](https://rustoffrails.org/)
+
+---
+
+### 2. New plastic pollution discovered: 'Plasticorals' coral rubble fused with plastic
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs">https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50183512">https://news.ycombinator.com/item?id=50183512</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs](https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs)
+
+---
+
+### 3. What I learned from six months of being stupid on purpose
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://wvez.org/blog/learning-to-be-stupid/">https://wvez.org/blog/learning-to-be-stupid/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50183311">https://news.ycombinator.com/item?id=50183311</a></p>
 <p>Points: 24</p>
-<p># Comments: 3</p>
+<p># Comments: 11</p>
 
-🔗 **Read more:** [https://patchtheplanet.org/](https://patchtheplanet.org/)
+🔗 **Read more:** [https://wvez.org/blog/learning-to-be-stupid/](https://wvez.org/blog/learning-to-be-stupid/)
 
 ---
 
-### 2. OpenAI: Patch the Planet. Global response coordination as AI uncovers PHP vulns
+### 4. Burnham defends Jackdaw decision as Badenoch urges PM to overturn ban on new oil and gas licences
 
-**Source:** Hacker News
+**Source:** BBC
 
-**Category:** technology
+**Category:** world
 
 **Description:**
-<p>Article URL: <a href="https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/">https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50181175">https://news.ycombinator.com/item?id=50181175</a></p>
-<p>Points: 49</p>
-<p># Comments: 20</p>
+The UK government says the field, which is opposed by environmental campaigners, could be producing gas by the end of this month.
 
-🔗 **Read more:** [https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/](https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cy4zdgk081eo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cy4zdgk081eo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 3. The No Kings Takedown Is Why You Shouldn't Rent Your Megaphone from Zuck
+### 5. Google staff resign in backlash over its AI contracts with military
 
-**Source:** Hacker News
+**Source:** BBC
 
-**Category:** technology
+**Category:** world
 
 **Description:**
-<p>Article URL: <a href="https://www.techdirt.com/2026/10/20/accident-or-not-the-no-kings-takedown-is-why-you-shouldnt-rent-your-megaphone-from-zuck/">https://www.techdirt.com/2026/10/20/accident-or-not-the-no-kings-takedown-is-why-you-shouldnt-rent-your-megaphone-from-zuck/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50181137">https://news.ycombinator.com/item?id=50181137</a></p>
-<p>Points: 60</p>
-<p># Comments: 13</p>
+The BBC speaks to several current and former Google DeepMind employees about their concerns with AI use on the battlefield.
 
-🔗 **Read more:** [https://www.techdirt.com/2026/10/20/accident-or-not-the-no-kings-takedown-is-why-you-shouldnt-rent-your-megaphone-from-zuck/](https://www.techdirt.com/2026/10/20/accident-or-not-the-no-kings-takedown-is-why-you-shouldnt-rent-your-megaphone-from-zuck/)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmreyvepnv0po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmreyvepnv0po?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. Jailed former DUP leader Jeffrey Donaldson being investigated over alleged rape inside Westminster
+### 6. Jailed former DUP leader Jeffrey Donaldson being investigated over alleged rape inside Parliament
 
 **Source:** BBC
 
@@ -71,72 +97,46 @@ While not naming the disgraced former MP, the Metropolitan Police has issued a s
 
 ---
 
-### 5. US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The 74-year-old former teacher, who was captured, has been released without any "swap" required, Trump says.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. 'I was only 8 but I realised my friend was dead' - Aberfan survivor recalls moment of disaster
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Four people who were children at the time of the Aberfan disaster recall the moment when a coal waste tip collapsed 60 years ago.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c6n4e0vj018qo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c6n4e0vj018qo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. US congressional candidate Brad Lander freed after West Bank detention
+### 7. Macron makes surprise Saudi visit as France secures extra diesel supplies
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Lander says dozens remain in Israeli custody after being detained while helping Palestinian farmers harvest olives.
+French president meets Mohammed bin Salman in Riyadh to discuss energy, security, and infrastructure.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/21/us-congressional-candidate-brad-lander-freed-after-west-bank-detention?traffic_source=rss](https://www.aljazeera.com/news/2026/10/21/us-congressional-candidate-brad-lander-freed-after-west-bank-detention?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/21/macron-makes-surprise-saudi-visit-as-france-secures-extra-diesel-supplies?traffic_source=rss](https://www.aljazeera.com/news/2026/10/21/macron-makes-surprise-saudi-visit-as-france-secures-extra-diesel-supplies?traffic_source=rss)
 
 ---
 
-### 8. How Qatar, Turkiye, Pakistan and Indonesia are deepening defence ties
+### 8. Paris shopkeepers fear more destruction after riots destroy livelihoods
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Experts say conflicts and uncertainty are accelerating efforts to strengthen regional military capacity.
+‘I have nothing left.’ Small business owners in Paris say they are traumatised after rioters looted their shops.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/21/how-qatar-turkiye-pakistan-and-indonesia-are-deepening-defence-ties?traffic_source=rss](https://www.aljazeera.com/news/2026/10/21/how-qatar-turkiye-pakistan-and-indonesia-are-deepening-defence-ties?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/21/10-21-reported-paris-shopkeepers-truamatised?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/21/10-21-reported-paris-shopkeepers-truamatised?traffic_source=rss)
 
 ---
 
-### 9. How Israel’s war on Lebanon has cost young people with autism and ADHD
+### 9. Macron’s surprise ‘solidarity’ visit to Saudi Arabia
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Experts warn that war takes a heavy toll on neurodivergent people, who often rely on routine.
+French President Emmanuel Macron made a surprise stop in Riyadh to meet Saudi Crown Prince during his ongoing Gulf tour.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/21/how-cost-israels-war-on-lebanon-has-on-young-people-with-autism-and-adhd?traffic_source=rss](https://www.aljazeera.com/news/2026/10/21/how-cost-israels-war-on-lebanon-has-on-young-people-with-autism-and-adhd?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/21/macrons-surprise-solidarity-visit-to-saudi-arabia?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/21/macrons-surprise-solidarity-visit-to-saudi-arabia?traffic_source=rss)
 
 ---
 
-### 10. Tropical Cyclone 02S
+### 10. Tropical Cyclone Agueda
 
 **Source:** NASA
 

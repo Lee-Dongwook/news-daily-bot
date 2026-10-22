@@ -1,16 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-22 18:26:14
+**Last Update:** 2026-10-22 18:54:36
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. AI discovered a massive cyber-security flaw - here's what happened
+### 1. Quad9 (DNS Resolver) to Exit France
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://quad9.net/news/blog/au-revoir-france/">https://quad9.net/news/blog/au-revoir-france/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50195959">https://news.ycombinator.com/item?id=50195959</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://quad9.net/news/blog/au-revoir-france/](https://quad9.net/news/blog/au-revoir-france/)
+
+---
+
+### 2. What's Getting Pwned
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://pwn.watch/">https://pwn.watch/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50195543">https://news.ycombinator.com/item?id=50195543</a></p>
+<p>Points: 52</p>
+<p># Comments: 14</p>
+
+🔗 **Read more:** [https://pwn.watch/](https://pwn.watch/)
+
+---
+
+### 3. eMudhra to Exit Global SSL/TLS Certificate Business
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business">https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50195110">https://news.ycombinator.com/item?id=50195110</a></p>
+<p>Points: 220</p>
+<p># Comments: 121</p>
+
+🔗 **Read more:** [https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business](https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business)
+
+---
+
+### 4. AI discovered a massive cyber-security flaw - here's what happened
 
 **Source:** BBC
 
@@ -23,7 +71,7 @@ The BBC's technology correspondent Joe Tidy explains how it happened, and what i
 
 ---
 
-### 2. Barclays cutting 5,000 jobs as it increases reliance on AI
+### 5. Barclays cutting 5,000 jobs as it increases reliance on AI
 
 **Source:** BBC
 
@@ -36,7 +84,7 @@ The bank says it is using more AI leading to a 5% reduction in its workforce.
 
 ---
 
-### 3. Russell Brand accuser said alleged rape 'really hurt', court hears
+### 6. Russell Brand accuser said alleged rape 'really hurt', court hears
 
 **Source:** BBC
 
@@ -49,46 +97,46 @@ The friend of a woman claiming to have been raped by Russell Brand says she said
 
 ---
 
-### 4. Germany arrests Ukrainian man accused of spying for Russia
+### 7. From the streets to the ballot box: Serbia’s students hope for election win
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Military has raised the threat level of ​Russian sabotage against German troops and facilities.
+Young Serbians have built a system that poses a threat to President Aleksandar Vucic’s grip on power.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/22/germany-arrests-ukrainian-man-accused-of-spying-for-russia?traffic_source=rss](https://www.aljazeera.com/news/2026/10/22/germany-arrests-ukrainian-man-accused-of-spying-for-russia?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/22/from-the-streets-to-the-ballot-box-serbias-students-hope-for-election-win?traffic_source=rss](https://www.aljazeera.com/news/2026/10/22/from-the-streets-to-the-ballot-box-serbias-students-hope-for-election-win?traffic_source=rss)
 
 ---
 
-### 5. Ilhan Omar home raid, Haines attack: Inside rise in violence on officials
+### 8. Fatal Custody
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US Congresswoman Ilhan Omar&#039;s home raided; Australian MP Helen Haines loses both legs following an attack.
+Two mothers warned family courts their children were in danger. Fault Lines investigates why warnings were ignored.
 
-🔗 **Read more:** [https://www.aljazeera.com/news-analysis/2026/10/22/ilhan-omar-home-raid-haines-attack-inside-rise-in-violence-on-officials?traffic_source=rss](https://www.aljazeera.com/news-analysis/2026/10/22/ilhan-omar-home-raid-haines-attack-inside-rise-in-violence-on-officials?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/fault-lines/2026/10/22/fatal-custody?traffic_source=rss](https://www.aljazeera.com/video/fault-lines/2026/10/22/fatal-custody?traffic_source=rss)
 
 ---
 
-### 6. FIFA’s Infantino made to wait on Asian support as chief coy at AFC session
+### 9. Rising costs and tight budgets strain Americans ahead of midterm elections
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-&#039;We’re not against anyone and we’re not in favour of anyone,&#039; says AFC President Sheikh Salman bin Ebrahim Al Khalifa.
+Rising costs leave US workers juggling multiple jobs as financial security becomes increasingly elusive.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/22/fifas-infantino-made-to-wait-on-asian-support-as-chief-coy-at-afc-session?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/22/fifas-infantino-made-to-wait-on-asian-support-as-chief-coy-at-afc-session?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/22/rising-costs-and-tight-budgets-strain-americans-ahead-of-midterm-elections?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/22/rising-costs-and-tight-budgets-strain-americans-ahead-of-midterm-elections?traffic_source=rss)
 
 ---
 
-### 7. Tropical Cyclone Agueda
+### 10. Tropical Cyclone Agueda
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Severe Storms
 
 ---
 
-### 8. Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky
+### 11. Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Wildfires
 
 ---
 
-### 9. Wildfire COOLEY, Mendocino, California
+### 12. Wildfire COOLEY, Mendocino, California
 
 **Source:** NASA
 

@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-10-22T12:45:44+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "What is PHP and why did it spark an international cyber-security alert?",
+            "description": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
+            "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 22 Oct 2026 06:24:59 GMT",
+            "fetched": "2026-10-22T12:45:44+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
+            "description": "The bank says it is using more AI leading to a 5% reduction in its workforce.",
+            "url": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 22 Oct 2026 08:58:08 GMT",
+            "fetched": "2026-10-22T12:45:44+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Rosenberg: Russia agrees to Ukraine talks but sees little to talk about in new peace push",
+            "description": "President Vladimir Putin does not feel under pressure right now to end the war, the BBC's Russia Editor writes.",
+            "url": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 21 Oct 2026 19:58:06 GMT",
+            "fetched": "2026-10-22T12:45:44+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli elections: Is it just right wing versus right?",
+            "description": "Benjamin Netanyahu’s opponents are promising a change to Israeli politics, but are their policies really that different?",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/israeli-elections-is-it-just-right-wing-versus-right?traffic_source=rss",
+            "published": "Thu, 22 Oct 2026 08:55:18 +0000",
+            "fetched": "2026-10-22T12:45:44+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Bill Clinton quotes Quran and condemns anti-Muslim rhetoric",
+            "description": "Former US President Bill Clinton quoted the Quran during a speech in Florida condemning discrimination against Muslims.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/bill-clinton-quotes-quran-and-condemns-anti-muslim-rhetoric?traffic_source=rss",
+            "published": "Thu, 22 Oct 2026 08:33:01 +0000",
+            "fetched": "2026-10-22T12:45:44+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Russian strikes hit Kyiv after Witkoff meets Putin",
+            "description": "Ukraine says &#039;appeasement&#039; will not end war as Russian attacks kill 1, injure 22 in its capital.",
+            "url": "https://www.aljazeera.com/news/2026/10/22/russian-strikes-hit-kyiv-after-witkoff-meets-putin?traffic_source=rss",
+            "published": "Thu, 22 Oct 2026 08:18:39 +0000",
+            "fetched": "2026-10-22T12:45:44+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Agueda",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25457",
+            "published": "2026-10-20T06:00:00Z",
+            "fetched": "2026-10-22T12:45:44+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25455",
+            "published": "2026-10-18T08:25:00Z",
+            "fetched": "2026-10-22T12:45:44+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire COOLEY, Mendocino, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25450",
+            "published": "2026-10-16T20:14:00Z",
+            "fetched": "2026-10-22T12:45:44+03:30"
+        }
+    ]
+}

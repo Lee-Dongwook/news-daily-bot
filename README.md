@@ -1,77 +1,42 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-22 08:35:52
+**Last Update:** 2026-10-22 12:45:44
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. I can't believe PowerShell is good
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.spacebar.news/powershell-is-actually-good/">https://www.spacebar.news/powershell-is-actually-good/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50190959">https://news.ycombinator.com/item?id=50190959</a></p>
-<p>Points: 16</p>
-<p># Comments: 5</p>
-
-🔗 **Read more:** [https://www.spacebar.news/powershell-is-actually-good/](https://www.spacebar.news/powershell-is-actually-good/)
-
----
-
-### 2. The recently proposed o(n log n) integer multiplication algorithm [pdf]
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf">https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50190455">https://news.ycombinator.com/item?id=50190455</a></p>
-<p>Points: 68</p>
-<p># Comments: 30</p>
-
-🔗 **Read more:** [https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf](https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf)
-
----
-
-### 3. LLM agents play Pokemon showdown
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://olivergrabner.com/research/pokemon/">https://olivergrabner.com/research/pokemon/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50190334">https://news.ycombinator.com/item?id=50190334</a></p>
-<p>Points: 21</p>
-<p># Comments: 11</p>
-
-🔗 **Read more:** [https://olivergrabner.com/research/pokemon/](https://olivergrabner.com/research/pokemon/)
-
----
-
-### 4. UK working to identify exposure after global cyber-security warning
+### 1. What is PHP and why did it spark an international cyber-security alert?
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Governments and companies are scrambling to protect their websites, as Amazon says it experienced attacks before the warning was made public.
+AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmx23d0k57d3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmx23d0k57d3o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace
+### 2. Barclays cutting 5,000 jobs as it increases reliance on AI
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The bank says it is using more AI leading to a 5% reduction in its workforce.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 3. Rosenberg: Russia agrees to Ukraine talks but sees little to talk about in new peace push
 
 **Source:** BBC
 
@@ -84,59 +49,46 @@ President Vladimir Putin does not feel under pressure right now to end the war, 
 
 ---
 
-### 6. Criminals who skip sentencing will face solitary confinement or lose social visits
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Judges will be given new powers to impose tougher prison punishments on offenders who refuse to face their victims' families during sentencing.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr74p0zkd4jjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr74p0zkd4jjo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. North Korea to resume propaganda broadcasts, South Korea urges dialogue
+### 4. Israeli elections: Is it just right wing versus right?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Pyongyang plans to resume broadcasting anti-South Korea propaganda along the armed border.
+Benjamin Netanyahu’s opponents are promising a change to Israeli politics, but are their policies really that different?
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/22/north-korea-to-resume-propaganda-broadcasts-south-korea-urges-dialogue?traffic_source=rss](https://www.aljazeera.com/news/2026/10/22/north-korea-to-resume-propaganda-broadcasts-south-korea-urges-dialogue?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/22/israeli-elections-is-it-just-right-wing-versus-right?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/22/israeli-elections-is-it-just-right-wing-versus-right?traffic_source=rss)
 
 ---
 
-### 8. Brazil’s Bolsonaro challenges Lula to expand release of personal records
+### 5. Bill Clinton quotes Quran and condemns anti-Muslim rhetoric
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Right-wing presidential candidate says he will release personal records if his opponent Lula meets his conditions.
+Former US President Bill Clinton quoted the Quran during a speech in Florida condemning discrimination against Muslims.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/22/brazils-bolsonaro-challenges-lula-to-expand-release-of-personal-records?traffic_source=rss](https://www.aljazeera.com/news/2026/10/22/brazils-bolsonaro-challenges-lula-to-expand-release-of-personal-records?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/22/bill-clinton-quotes-quran-and-condemns-anti-muslim-rhetoric?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/22/bill-clinton-quotes-quran-and-condemns-anti-muslim-rhetoric?traffic_source=rss)
 
 ---
 
-### 9. Australian TV reporter rescues man from sinking car
+### 6. Russian strikes hit Kyiv after Witkoff meets Putin
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Australian TV reporter rescues man from sinking car
+Ukraine says &#039;appeasement&#039; will not end war as Russian attacks kill 1, injure 22 in its capital.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/22/australian-tv-reporter-rescues-man-from-sinking-car?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/22/australian-tv-reporter-rescues-man-from-sinking-car?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/22/russian-strikes-hit-kyiv-after-witkoff-meets-putin?traffic_source=rss](https://www.aljazeera.com/news/2026/10/22/russian-strikes-hit-kyiv-after-witkoff-meets-putin?traffic_source=rss)
 
 ---
 
-### 10. Tropical Cyclone Agueda
+### 7. Tropical Cyclone Agueda
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Severe Storms
 
 ---
 
-### 11. Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky
+### 8. Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Wildfire COOLEY, Mendocino, California
+### 9. Wildfire COOLEY, Mendocino, California
 
 **Source:** NASA
 

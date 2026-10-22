@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-10-22T18:26:14+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "AI discovered a massive cyber-security flaw - here's what happened",
+            "description": "The BBC's technology correspondent Joe Tidy explains how it happened, and what it means for you.",
+            "url": "https://www.bbc.co.uk/news/videos/cq0ld7e0jg2eo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 22 Oct 2026 12:17:44 GMT",
+            "fetched": "2026-10-22T18:26:14+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
+            "description": "The bank says it is using more AI leading to a 5% reduction in its workforce.",
+            "url": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 22 Oct 2026 14:28:59 GMT",
+            "fetched": "2026-10-22T18:26:14+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Russell Brand accuser said alleged rape 'really hurt', court hears",
+            "description": "The friend of a woman claiming to have been raped by Russell Brand says she said he was  \"quite aggressive\".",
+            "url": "https://www.bbc.co.uk/news/articles/c9e8lz4mrg88o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 22 Oct 2026 12:34:36 GMT",
+            "fetched": "2026-10-22T18:26:14+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Germany arrests Ukrainian man accused of spying for Russia",
+            "description": "Military has raised the threat level of ​Russian sabotage against German troops and facilities.",
+            "url": "https://www.aljazeera.com/news/2026/10/22/germany-arrests-ukrainian-man-accused-of-spying-for-russia?traffic_source=rss",
+            "published": "Thu, 22 Oct 2026 14:36:06 +0000",
+            "fetched": "2026-10-22T18:26:14+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Ilhan Omar home raid, Haines attack: Inside rise in violence on officials",
+            "description": "US Congresswoman Ilhan Omar&#039;s home raided; Australian MP Helen Haines loses both legs following an attack.",
+            "url": "https://www.aljazeera.com/news-analysis/2026/10/22/ilhan-omar-home-raid-haines-attack-inside-rise-in-violence-on-officials?traffic_source=rss",
+            "published": "Thu, 22 Oct 2026 14:34:46 +0000",
+            "fetched": "2026-10-22T18:26:14+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "FIFA’s Infantino made to wait on Asian support as chief coy at AFC session",
+            "description": "&#039;We’re not against anyone and we’re not in favour of anyone,&#039; says AFC President Sheikh Salman bin Ebrahim Al Khalifa.",
+            "url": "https://www.aljazeera.com/sports/2026/10/22/fifas-infantino-made-to-wait-on-asian-support-as-chief-coy-at-afc-session?traffic_source=rss",
+            "published": "Thu, 22 Oct 2026 14:31:28 +0000",
+            "fetched": "2026-10-22T18:26:14+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Agueda",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25457",
+            "published": "2026-10-20T06:00:00Z",
+            "fetched": "2026-10-22T18:26:14+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25455",
+            "published": "2026-10-18T08:25:00Z",
+            "fetched": "2026-10-22T18:26:14+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire COOLEY, Mendocino, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25450",
+            "published": "2026-10-16T20:14:00Z",
+            "fetched": "2026-10-22T18:26:14+03:30"
+        }
+    ]
+}

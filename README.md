@@ -1,77 +1,29 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-22 13:50:53
+**Last Update:** 2026-10-22 18:26:14
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Faster than earcut: triangulating 3.7M map polygons in 489 ms
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://globus.software/blog/2026/10/16/cutting-map-polygons/">https://globus.software/blog/2026/10/16/cutting-map-polygons/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50193170">https://news.ycombinator.com/item?id=50193170</a></p>
-<p>Points: 11</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://globus.software/blog/2026/10/16/cutting-map-polygons/](https://globus.software/blog/2026/10/16/cutting-map-polygons/)
-
----
-
-### 2. CVE-2026-111943: Compromised Intermediate Certificate Authority
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://nvd.nist.gov/vuln/detail/cve-2026-111943">https://nvd.nist.gov/vuln/detail/cve-2026-111943</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50192900">https://news.ycombinator.com/item?id=50192900</a></p>
-<p>Points: 85</p>
-<p># Comments: 21</p>
-
-🔗 **Read more:** [https://nvd.nist.gov/vuln/detail/cve-2026-111943](https://nvd.nist.gov/vuln/detail/cve-2026-111943)
-
----
-
-### 3. Achieving AI-style reasoning without an LLM
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://fleetingswallow.com/minotaur-ai-deep-dive-achieving-reasoning-without-a-language-model/">https://fleetingswallow.com/minotaur-ai-deep-dive-achieving-reasoning-without-a-language-model/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50192868">https://news.ycombinator.com/item?id=50192868</a></p>
-<p>Points: 22</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://fleetingswallow.com/minotaur-ai-deep-dive-achieving-reasoning-without-a-language-model/](https://fleetingswallow.com/minotaur-ai-deep-dive-achieving-reasoning-without-a-language-model/)
-
----
-
-### 4. What is PHP and why did it spark an international cyber-security alert?
+### 1. AI discovered a massive cyber-security flaw - here's what happened
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.
+The BBC's technology correspondent Joe Tidy explains how it happened, and what it means for you.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cq0ld7e0jg2eo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cq0ld7e0jg2eo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Barclays cutting 5,000 jobs as it increases reliance on AI
+### 2. Barclays cutting 5,000 jobs as it increases reliance on AI
 
 **Source:** BBC
 
@@ -84,59 +36,59 @@ The bank says it is using more AI leading to a 5% reduction in its workforce.
 
 ---
 
-### 6. Rosenberg: Russia agrees to Ukraine talks but sees little to talk about in new peace push
+### 3. Russell Brand accuser said alleged rape 'really hurt', court hears
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-President Vladimir Putin does not feel under pressure right now to end the war, the BBC's Russia Editor writes.
+The friend of a woman claiming to have been raped by Russell Brand says she said he was  "quite aggressive".
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9e8lz4mrg88o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9e8lz4mrg88o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Brazil’s president appeals to undecided voters ahead of run-off
+### 4. Germany arrests Ukrainian man accused of spying for Russia
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Brazil’s two presidential candidates Lula and Bolsonaro are trying to win over the 30 million voters.
+Military has raised the threat level of ​Russian sabotage against German troops and facilities.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/22/brazils-president-appeals-to-undecided-voters-ahead-of-run-off?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/22/brazils-president-appeals-to-undecided-voters-ahead-of-run-off?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/22/germany-arrests-ukrainian-man-accused-of-spying-for-russia?traffic_source=rss](https://www.aljazeera.com/news/2026/10/22/germany-arrests-ukrainian-man-accused-of-spying-for-russia?traffic_source=rss)
 
 ---
 
-### 8. ‘Facebook’s wrongdoing’: Why has Meta been fined $25bn in New Mexico?
+### 5. Ilhan Omar home raid, Haines attack: Inside rise in violence on officials
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The tech giant has been accused of misleading users regarding data privacy linked to the Cambridge Analytica scandal.
+US Congresswoman Ilhan Omar&#039;s home raided; Australian MP Helen Haines loses both legs following an attack.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/22/facebooks-wrongdoing-why-has-meta-been-fined-25bn-in-new-mexico?traffic_source=rss](https://www.aljazeera.com/news/2026/10/22/facebooks-wrongdoing-why-has-meta-been-fined-25bn-in-new-mexico?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news-analysis/2026/10/22/ilhan-omar-home-raid-haines-attack-inside-rise-in-violence-on-officials?traffic_source=rss](https://www.aljazeera.com/news-analysis/2026/10/22/ilhan-omar-home-raid-haines-attack-inside-rise-in-violence-on-officials?traffic_source=rss)
 
 ---
 
-### 9. Fighting rages in Yemen’s Taiz as UN warns nearly 260,000 now displaced
+### 6. FIFA’s Infantino made to wait on Asian support as chief coy at AFC session
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Yemen&#039;s government forces launched hundreds of strikes on Houthi locations, a spokesperson says.
+&#039;We’re not against anyone and we’re not in favour of anyone,&#039; says AFC President Sheikh Salman bin Ebrahim Al Khalifa.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/22/fighting-rages-in-yemens-taiz-as-un-warns-nearly-260000-now-displaced?traffic_source=rss](https://www.aljazeera.com/news/2026/10/22/fighting-rages-in-yemens-taiz-as-un-warns-nearly-260000-now-displaced?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/22/fifas-infantino-made-to-wait-on-asian-support-as-chief-coy-at-afc-session?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/22/fifas-infantino-made-to-wait-on-asian-support-as-chief-coy-at-afc-session?traffic_source=rss)
 
 ---
 
-### 10. Tropical Cyclone Agueda
+### 7. Tropical Cyclone Agueda
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Severe Storms
 
 ---
 
-### 11. Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky
+### 8. Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Wildfire COOLEY, Mendocino, California
+### 9. Wildfire COOLEY, Mendocino, California
 
 **Source:** NASA
 

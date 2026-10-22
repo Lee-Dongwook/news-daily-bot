@@ -1,16 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-22 12:45:44
+**Last Update:** 2026-10-22 13:50:53
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. What is PHP and why did it spark an international cyber-security alert?
+### 1. Faster than earcut: triangulating 3.7M map polygons in 489 ms
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://globus.software/blog/2026/10/16/cutting-map-polygons/">https://globus.software/blog/2026/10/16/cutting-map-polygons/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50193170">https://news.ycombinator.com/item?id=50193170</a></p>
+<p>Points: 11</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://globus.software/blog/2026/10/16/cutting-map-polygons/](https://globus.software/blog/2026/10/16/cutting-map-polygons/)
+
+---
+
+### 2. CVE-2026-111943: Compromised Intermediate Certificate Authority
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://nvd.nist.gov/vuln/detail/cve-2026-111943">https://nvd.nist.gov/vuln/detail/cve-2026-111943</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50192900">https://news.ycombinator.com/item?id=50192900</a></p>
+<p>Points: 85</p>
+<p># Comments: 21</p>
+
+🔗 **Read more:** [https://nvd.nist.gov/vuln/detail/cve-2026-111943](https://nvd.nist.gov/vuln/detail/cve-2026-111943)
+
+---
+
+### 3. Achieving AI-style reasoning without an LLM
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://fleetingswallow.com/minotaur-ai-deep-dive-achieving-reasoning-without-a-language-model/">https://fleetingswallow.com/minotaur-ai-deep-dive-achieving-reasoning-without-a-language-model/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50192868">https://news.ycombinator.com/item?id=50192868</a></p>
+<p>Points: 22</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://fleetingswallow.com/minotaur-ai-deep-dive-achieving-reasoning-without-a-language-model/](https://fleetingswallow.com/minotaur-ai-deep-dive-achieving-reasoning-without-a-language-model/)
+
+---
+
+### 4. What is PHP and why did it spark an international cyber-security alert?
 
 **Source:** BBC
 
@@ -23,7 +71,7 @@ AI uncovered long-hidden programming flaws, triggering a rare global cyber-secur
 
 ---
 
-### 2. Barclays cutting 5,000 jobs as it increases reliance on AI
+### 5. Barclays cutting 5,000 jobs as it increases reliance on AI
 
 **Source:** BBC
 
@@ -36,7 +84,7 @@ The bank says it is using more AI leading to a 5% reduction in its workforce.
 
 ---
 
-### 3. Rosenberg: Russia agrees to Ukraine talks but sees little to talk about in new peace push
+### 6. Rosenberg: Russia agrees to Ukraine talks but sees little to talk about in new peace push
 
 **Source:** BBC
 
@@ -49,46 +97,46 @@ President Vladimir Putin does not feel under pressure right now to end the war, 
 
 ---
 
-### 4. Israeli elections: Is it just right wing versus right?
+### 7. Brazil’s president appeals to undecided voters ahead of run-off
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Benjamin Netanyahu’s opponents are promising a change to Israeli politics, but are their policies really that different?
+Brazil’s two presidential candidates Lula and Bolsonaro are trying to win over the 30 million voters.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/22/israeli-elections-is-it-just-right-wing-versus-right?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/22/israeli-elections-is-it-just-right-wing-versus-right?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/22/brazils-president-appeals-to-undecided-voters-ahead-of-run-off?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/22/brazils-president-appeals-to-undecided-voters-ahead-of-run-off?traffic_source=rss)
 
 ---
 
-### 5. Bill Clinton quotes Quran and condemns anti-Muslim rhetoric
+### 8. ‘Facebook’s wrongdoing’: Why has Meta been fined $25bn in New Mexico?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Former US President Bill Clinton quoted the Quran during a speech in Florida condemning discrimination against Muslims.
+The tech giant has been accused of misleading users regarding data privacy linked to the Cambridge Analytica scandal.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/22/bill-clinton-quotes-quran-and-condemns-anti-muslim-rhetoric?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/22/bill-clinton-quotes-quran-and-condemns-anti-muslim-rhetoric?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/22/facebooks-wrongdoing-why-has-meta-been-fined-25bn-in-new-mexico?traffic_source=rss](https://www.aljazeera.com/news/2026/10/22/facebooks-wrongdoing-why-has-meta-been-fined-25bn-in-new-mexico?traffic_source=rss)
 
 ---
 
-### 6. Russian strikes hit Kyiv after Witkoff meets Putin
+### 9. Fighting rages in Yemen’s Taiz as UN warns nearly 260,000 now displaced
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ukraine says &#039;appeasement&#039; will not end war as Russian attacks kill 1, injure 22 in its capital.
+Yemen&#039;s government forces launched hundreds of strikes on Houthi locations, a spokesperson says.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/22/russian-strikes-hit-kyiv-after-witkoff-meets-putin?traffic_source=rss](https://www.aljazeera.com/news/2026/10/22/russian-strikes-hit-kyiv-after-witkoff-meets-putin?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/22/fighting-rages-in-yemens-taiz-as-un-warns-nearly-260000-now-displaced?traffic_source=rss](https://www.aljazeera.com/news/2026/10/22/fighting-rages-in-yemens-taiz-as-un-warns-nearly-260000-now-displaced?traffic_source=rss)
 
 ---
 
-### 7. Tropical Cyclone Agueda
+### 10. Tropical Cyclone Agueda
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Severe Storms
 
 ---
 
-### 8. Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky
+### 11. Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Wildfires
 
 ---
 
-### 9. Wildfire COOLEY, Mendocino, California
+### 12. Wildfire COOLEY, Mendocino, California
 
 **Source:** NASA
 

@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-22 22:36:26
+**Last Update:** 2026-10-22 22:48:10
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
@@ -97,7 +97,20 @@ The BBC's technology correspondent Joe Tidy explains how it happened, and what i
 
 ---
 
-### 7. Israel frees suspects in two settler attacks as West Bank pogroms intensify
+### 7. Time just changed forever
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+For more than 50 years, a group of timekeepers has been quietly sneaking extra seconds onto the world&#039;s clocks.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/22/time-just-changed-forever?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/22/time-just-changed-forever?traffic_source=rss)
+
+---
+
+### 8. Israel frees suspects in two settler attacks as West Bank pogroms intensify
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Israeli court releases nine settler suspects over West Bank attacks as investiga
 
 ---
 
-### 8. Trump says NBA star LeBron James disrespected US national anthem
+### 9. Trump says NBA star LeBron James disrespected US national anthem
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Israeli court releases nine settler suspects over West Bank attacks as investiga
 NBA superstar LeBron James criticised by US President ⁠Donald ⁠Trump for disrespctful behaviour during national anthem.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/22/trump-says-nba-star-lebron-james-disrespected-us-national-anthem?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/22/trump-says-nba-star-lebron-james-disrespected-us-national-anthem?traffic_source=rss)
-
----
-
-### 9. Iran says seven ships hit in Hormuz Strait, warns US of wider response
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The US has pushed back on the IRGC&#039;s claims, dismissing them as an attempt to increase oil prices ahead of US elections.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/22/iran-says-seven-ships-hit-in-hormuz-strait-warns-us-of-wider-response?traffic_source=rss](https://www.aljazeera.com/news/2026/10/22/iran-says-seven-ships-hit-in-hormuz-strait-warns-us-of-wider-response?traffic_source=rss)
 
 ---
 

@@ -1,64 +1,90 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-23 22:25:30
+**Last Update:** 2026-10-24 01:25:37
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. I turned my TV into a Game Boy Color with a Pokemon town as my home screen
+### 1. No Source Code? No Problem
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://twitter.com/robbietilton/status/2111936458923851923">https://twitter.com/robbietilton/status/2111936458923851923</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50212668">https://news.ycombinator.com/item?id=50212668</a></p>
-<p>Points: 15</p>
-<p># Comments: 5</p>
+<p>Article URL: <a href="https://queue.acm.org/doi/10.1145/945131.945155">https://queue.acm.org/doi/10.1145/945131.945155</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50214994">https://news.ycombinator.com/item?id=50214994</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://twitter.com/robbietilton/status/2111936458923851923](https://twitter.com/robbietilton/status/2111936458923851923)
+🔗 **Read more:** [https://queue.acm.org/doi/10.1145/945131.945155](https://queue.acm.org/doi/10.1145/945131.945155)
 
 ---
 
-### 2. Air Purifiers as White Noise Machines
+### 2. A whirlwind tour of systemd-nspawn containers
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.jefftk.com/p/air-purifiers-as-white-noise-machines">https://www.jefftk.com/p/air-purifiers-as-white-noise-machines</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50212507">https://news.ycombinator.com/item?id=50212507</a></p>
-<p>Points: 9</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/">https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50214983">https://news.ycombinator.com/item?id=50214983</a></p>
+<p>Points: 6</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.jefftk.com/p/air-purifiers-as-white-noise-machines](https://www.jefftk.com/p/air-purifiers-as-white-noise-machines)
+🔗 **Read more:** [https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/](https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/)
 
 ---
 
-### 3. Can we replace a $150k Looker with a bucket of HTML files?
+### 3. Sony Retires Its Last 4K Blu-ray Player in Japan, PS5 Is All That's Left
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://david.lequin.dev/blog/bi-software-is-dead/">https://david.lequin.dev/blog/bi-software-is-dead/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50212320">https://news.ycombinator.com/item?id=50212320</a></p>
-<p>Points: 40</p>
-<p># Comments: 24</p>
+<p>Article URL: <a href="https://www.techpowerup.com/354081/sony-retires-its-last-4k-blu-ray-player-in-japan-ps5-is-all-thats-left">https://www.techpowerup.com/354081/sony-retires-its-last-4k-blu-ray-player-in-japan-ps5-is-all-thats-left</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50214447">https://news.ycombinator.com/item?id=50214447</a></p>
+<p>Points: 39</p>
+<p># Comments: 20</p>
 
-🔗 **Read more:** [https://david.lequin.dev/blog/bi-software-is-dead/](https://david.lequin.dev/blog/bi-software-is-dead/)
+🔗 **Read more:** [https://www.techpowerup.com/354081/sony-retires-its-last-4k-blu-ray-player-in-japan-ps5-is-all-thats-left](https://www.techpowerup.com/354081/sony-retires-its-last-4k-blu-ray-player-in-japan-ps5-is-all-thats-left)
 
 ---
 
-### 4. Meghan says she was informed about 'disturbing allegations' against her father in 2018
+### 4. Storm Austen brings power cuts and travel disruption as more wind and rain forecast
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+A second storm, Storm Boelo, is expected to hit Scotland, Northern Ireland and northern England on Saturday bringing more wild weather.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cxj0l193y0l8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cxj0l193y0l8o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Watch: Trees ripped up as Storm Austen batters Britain
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The first named storm of the season brought powerful gusts to Jersey, and in southern England the wild weather disrupted travel with fallen trees blocking railway lines and roads.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c6x2qdpnn35po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c6x2qdpnn35po?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Meghan says she was informed about 'disturbing allegations' against her father in 2018
 
 **Source:** BBC
 
@@ -71,68 +97,42 @@ The Duchess of Sussex issues a statement following reports her father Thomas Mar
 
 ---
 
-### 5. Meghan statement offers answers after years of questions about her relationship with father
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Today, without exactly using the word, Meghan claimed vindication.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm70p9r04r8wo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm70p9r04r8wo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Watch: Moment part of Brighton's historic West Pier collapses
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Footage taken during Storm Austen shows a section of the famous landmark battered by large waves and collapsing into the water.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cwe8ln10l6nyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cwe8ln10l6nyo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Israel locks down occupied West Bank after Hebron shooting
+### 7. Masked gunmen kill seven in attack on church funeral in Jordan
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israel has imposed a lockdown across the occupied West Bank after a shooting near Hebron killed two Israeli soldiers.
+At least seven people were killed and 34 wounded after two masked gunmen opened fire at a church in Karak, Jordan.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/23/israel-locks-down-occupied-west-bank-after-hebron-shooting?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/23/israel-locks-down-occupied-west-bank-after-hebron-shooting?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/23/aje-onl-nf_masked-gunmen-kill-seven-in-attack-on-church-jordan-231026?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/23/aje-onl-nf_masked-gunmen-kill-seven-in-attack-on-church-jordan-231026?traffic_source=rss)
 
 ---
 
-### 8. Former FBI officials charged in connection with Hunter Biden laptop probe
+### 8. ‘Generation Right’: Israeli youth show strong support for the right
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Lawyers for two accused officials say Department of Justice seeking to revive scandal in the run-up to midterm vote.
+Some three quarters of Jewish first-time voters identify as right or centre-right, higher than rest of Israeli society.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/23/former-fbi-officials-charged-in-connection-with-hunter-biden-laptop-probe?traffic_source=rss](https://www.aljazeera.com/news/2026/10/23/former-fbi-officials-charged-in-connection-with-hunter-biden-laptop-probe?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/23/generation-right-israeli-youth-show-strong-support-for-the-right?traffic_source=rss](https://www.aljazeera.com/news/2026/10/23/generation-right-israeli-youth-show-strong-support-for-the-right?traffic_source=rss)
 
 ---
 
-### 9. Trump administration sues to block possible Democratic win in Alaska
+### 9. FCC Democrat warns broadcasters to resist Trump’s media pressure tactics
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-President Donald Trump took credit for the action amid growing concerns the US government could meddle in midterm races.
+Democrat Anna Gomez warns broadcasters against yielding to the Trump-era FCC&#039;s claims of fake polls and news distortions.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/23/trump-administration-sues-to-block-possible-democratic-win-in-alaska?traffic_source=rss](https://www.aljazeera.com/news/2026/10/23/trump-administration-sues-to-block-possible-democratic-win-in-alaska?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/23/fcc-democrat-warns-broadcasters-to-resist-trumps-media-pressure-tactics?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/23/fcc-democrat-warns-broadcasters-to-resist-trumps-media-pressure-tactics?traffic_source=rss)
 
 ---
 

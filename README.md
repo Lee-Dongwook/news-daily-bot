@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-23 18:14:29
+**Last Update:** 2026-10-23 22:01:21
 
 **Total News:** 9
 
-**Sources:** Al Jazeera, NASA, BBC
+**Sources:** BBC, NASA, Al Jazeera
 
 ---
 
@@ -23,72 +23,85 @@ The Duchess of Sussex issues a statement following reports her father Thomas Mar
 
 ---
 
-### 2. Watch: BBC presenter battles strong winds as storm hits Newquay
+### 2. Meghan statement offers answers after years of questions about her relationship with father
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-BBC lead weather presenter Simon King is in Newquay as the "full force" of the storm arrives.
+Today, without exactly using the word, Meghan claimed vindication.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cmzxlgkyl3vpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cmzxlgkyl3vpo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm70p9r04r8wo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm70p9r04r8wo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 3. Deadly shooting near Paris investigated as 'crime of terrorism', minister says
+### 3. Watch: Moment part of Brighton's historic West Pier collapses
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-One person is killed and five wounded in a series of attacks and the suspected gunman has been apprehended.
+Footage taken during Storm Austen shows a section of the famous landmark battered by large waves and collapsing into the water.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cwe8ln10l6nyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cwe8ln10l6nyo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. Conte dismisses reports of Man United takeover with Carrick’s job uncertain
+### 4. Trump administration sues to block possible Democratic win in Alaska
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ex-Chelsea boss Antonio Conte denies Manchester United link, says reports he demanded full control of club &#039;unfounded&#039;.
+The lawsuit raises concerns the US administration may be looking to meddle in some of this midterm cycle’s races.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/23/conte-dismisses-reports-of-man-united-takeover-with-carricks-job-uncertain?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/23/conte-dismisses-reports-of-man-united-takeover-with-carricks-job-uncertain?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/23/trump-administration-sues-to-block-possible-democratic-win-in-alaska?traffic_source=rss](https://www.aljazeera.com/news/2026/10/23/trump-administration-sues-to-block-possible-democratic-win-in-alaska?traffic_source=rss)
 
 ---
 
-### 5. Mississippi releases video of 1-year-old’s fatal police shooting
+### 5. Many feared trapped after multistorey building collapses in Kenya
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Mississippi released bodycam footage of the fatal shooting of 1-year-old Kohen Wiley.
+Officials say building in Nairobi&#039;s Eastleigh area had no occupation certificate, but ground floor was in use.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/23/mississippi-releases-video-of-1-year-olds-fatal-police-shooting?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/23/mississippi-releases-video-of-1-year-olds-fatal-police-shooting?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/23/many-feared-trapped-after-multistorey-building-collapses-in-kenya?traffic_source=rss](https://www.aljazeera.com/news/2026/10/23/many-feared-trapped-after-multistorey-building-collapses-in-kenya?traffic_source=rss)
 
 ---
 
-### 6. Finland nearing opening of world’s first permanent nuclear waste repository
+### 6. Yamal, Mbappe in El Clasico spotlight as 40 cameras dedicated to coverage
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Facilities are being built in many countries, but Finland is the first to licence its underground storage facility.
+The coverage includes ultra-high-definition filming, slow-motion replays, and individual player tracking techniques.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/23/finland-nearing-opening-of-worlds-first-permanent-nuclear-waste-repository?traffic_source=rss](https://www.aljazeera.com/news/2026/10/23/finland-nearing-opening-of-worlds-first-permanent-nuclear-waste-repository?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/23/yamal-mbappe-in-el-clasico-spotlight-as-40-cameras-dedicated-to-coverage?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/23/yamal-mbappe-in-el-clasico-spotlight-as-40-cameras-dedicated-to-coverage?traffic_source=rss)
 
 ---
 
-### 7. Hurricane Vance
+### 7. Wildfire BEE HAVEN (2) (24-06), Hamilton, Florida
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25590](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25590)
+
+---
+
+### 8. Hurricane Vance
 
 **Source:** NASA
 
@@ -101,7 +114,7 @@ Natural event: Severe Storms
 
 ---
 
-### 8. Tropical Cyclone Agueda
+### 9. Tropical Cyclone Agueda
 
 **Source:** NASA
 
@@ -111,19 +124,6 @@ Natural event: Severe Storms
 Natural event: Severe Storms
 
 🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25457](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25457)
-
----
-
-### 9. Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25455](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25455)
 
 ---
 

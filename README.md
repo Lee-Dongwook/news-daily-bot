@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-23 02:33:21
+**Last Update:** 2026-10-23 05:10:55
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Railpass
+### 1. The foolishness of "natural language programming" (1978)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://train.samismith.com/">https://train.samismith.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50201414">https://news.ycombinator.com/item?id=50201414</a></p>
-<p>Points: 15</p>
+<p>Article URL: <a href="https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html">https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50203161">https://news.ycombinator.com/item?id=50203161</a></p>
+<p>Points: 8</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html](https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html)
+
+---
+
+### 2. Mapping the Northern Sky
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/">https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50202766">https://news.ycombinator.com/item?id=50202766</a></p>
+<p>Points: 11</p>
 <p># Comments: 2</p>
 
-🔗 **Read more:** [https://train.samismith.com/](https://train.samismith.com/)
+🔗 **Read more:** [https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/](https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/)
 
 ---
 
-### 2. Jared Kushner Hacked Phone Reveals Secret Negotiations, Millions in Transactions
+### 3. Docker is weird
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations">https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50201259">https://news.ycombinator.com/item?id=50201259</a></p>
-<p>Points: 105</p>
-<p># Comments: 28</p>
+<p>Article URL: <a href="https://codeandcake.dev/posts/2026-10-22-docker-is-weird">https://codeandcake.dev/posts/2026-10-22-docker-is-weird</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50202681">https://news.ycombinator.com/item?id=50202681</a></p>
+<p>Points: 81</p>
+<p># Comments: 26</p>
 
-🔗 **Read more:** [https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations](https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations)
-
----
-
-### 3. Hedra is a 3D open world game I wrote from scratch while in highschool
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/maxilevi/project-hedra/tree/pre-ai">https://github.com/maxilevi/project-hedra/tree/pre-ai</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50199389">https://news.ycombinator.com/item?id=50199389</a></p>
-<p>Points: 94</p>
-<p># Comments: 22</p>
-
-🔗 **Read more:** [https://github.com/maxilevi/project-hedra/tree/pre-ai](https://github.com/maxilevi/project-hedra/tree/pre-ai)
+🔗 **Read more:** [https://codeandcake.dev/posts/2026-10-22-docker-is-weird](https://codeandcake.dev/posts/2026-10-22-docker-is-weird)
 
 ---
 
@@ -97,42 +97,42 @@ Ukraine relies on Starlink for a range of military uses - its owner Elon Musk ha
 
 ---
 
-### 7. US-sanctioned ICC wins Sakharov Prize, EU’s top human rights award
+### 7. Thousands protest across Poland for access to free and legal abortions
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The prize comes less than two weeks after US President Donald Trump announced sanctions against the court.
+Demonstrators gathered on the sixth anniversary of a near-total abortion ban imposed by Poland&#039;s highest court.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/22/us-sanctioned-icc-wins-sakharov-prize-eus-top-human-rights-award?traffic_source=rss](https://www.aljazeera.com/news/2026/10/22/us-sanctioned-icc-wins-sakharov-prize-eus-top-human-rights-award?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/23/thousands-protest-across-poland-for-access-to-free-and-legal-abortions?traffic_source=rss](https://www.aljazeera.com/news/2026/10/23/thousands-protest-across-poland-for-access-to-free-and-legal-abortions?traffic_source=rss)
 
 ---
 
-### 8. Ecuador opposition leader Luisa Gonzalez arrested in campaign finance probe
+### 8. Rare unrest flares in Tunisian capital as police clash with protesters
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Gonzalez’s Citizen Revolution Movement has denounced the arrest as politically motivated, calling for her release.
+Protests in several cities ​coincide with a deepening economic, social and political crisis in Tunisia.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/22/ecuador-opposition-leader-luisa-gonzalez-arrested-in-campaign-finance-probe?traffic_source=rss](https://www.aljazeera.com/news/2026/10/22/ecuador-opposition-leader-luisa-gonzalez-arrested-in-campaign-finance-probe?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/23/rare-unrest-flares-in-tunisian-capital-as-police-clash-with-protesters?traffic_source=rss](https://www.aljazeera.com/news/2026/10/23/rare-unrest-flares-in-tunisian-capital-as-police-clash-with-protesters?traffic_source=rss)
 
 ---
 
-### 9. US judge blocks federal operations seeking to identify non-citizen voters
+### 9. Tibet rocked by 7.0-magnitude earthquake
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Homeland Security targets nine states in fraud investigations that critics say intimidate voters.
+Tibet rocked by 7.0-magnitude earthquake
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/22/us-judge-blocks-federal-operations-seeking-to-identify-non-citizen-voters?traffic_source=rss](https://www.aljazeera.com/news/2026/10/22/us-judge-blocks-federal-operations-seeking-to-identify-non-citizen-voters?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/23/tibet-rocked-by-7-0-magnitude-earthquake?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/23/tibet-rocked-by-7-0-magnitude-earthquake?traffic_source=rss)
 
 ---
 

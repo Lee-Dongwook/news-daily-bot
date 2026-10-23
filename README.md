@@ -1,64 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-23 17:08:28
+**Last Update:** 2026-10-23 18:14:29
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Phone Is About to Stop Being Yours: 70 Days Until Lockdown
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://keepandroidopen.org/">https://keepandroidopen.org/?</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50208558">https://news.ycombinator.com/item?id=50208558</a></p>
-<p>Points: 23</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://keepandroidopen.org/](https://keepandroidopen.org/)
-
----
-
-### 2. Shitter – A Nitter Fork
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://codeberg.org/shitter/shitter">https://codeberg.org/shitter/shitter</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50208343">https://news.ycombinator.com/item?id=50208343</a></p>
-<p>Points: 10</p>
-<p># Comments: 5</p>
-
-🔗 **Read more:** [https://codeberg.org/shitter/shitter](https://codeberg.org/shitter/shitter)
-
----
-
-### 3. OpenSSL 4.1.0
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/openssl/openssl/releases/tag/openssl-4.1.0">https://github.com/openssl/openssl/releases/tag/openssl-4.1.0</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50208099">https://news.ycombinator.com/item?id=50208099</a></p>
-<p>Points: 31</p>
-<p># Comments: 6</p>
-
-🔗 **Read more:** [https://github.com/openssl/openssl/releases/tag/openssl-4.1.0](https://github.com/openssl/openssl/releases/tag/openssl-4.1.0)
-
----
-
-### 4. Meghan says she was informed about 'disturbing allegations' against her father in 2018
+### 1. Meghan says she was informed about 'disturbing allegations' against her father in 2018
 
 **Source:** BBC
 
@@ -71,7 +23,7 @@ The Duchess of Sussex issues a statement following reports her father Thomas Mar
 
 ---
 
-### 5. Watch: BBC presenter battles strong winds as storm hits Newquay
+### 2. Watch: BBC presenter battles strong winds as storm hits Newquay
 
 **Source:** BBC
 
@@ -84,59 +36,59 @@ BBC lead weather presenter Simon King is in Newquay as the "full force" of the s
 
 ---
 
-### 6. Anti-terror police investigate as one person killed in shooting near Paris
+### 3. Deadly shooting near Paris investigated as 'crime of terrorism', minister says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-French Prime Minister Sébastien Lecornu says the suspected gunman has been apprehended.
+One person is killed and five wounded in a series of attacks and the suspected gunman has been apprehended.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Trump ordered to testify in $10bn BBC lawsuit discovery: What happens now?
+### 4. Conte dismisses reports of Man United takeover with Carrick’s job uncertain
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Trump could face sanctions, including dismissal of his lawsuit, if he fails to cooperate with questioning.
+Ex-Chelsea boss Antonio Conte denies Manchester United link, says reports he demanded full control of club &#039;unfounded&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/23/trump-ordered-to-testify-in-10bn-bbc-lawsuit-discovery-what-happens-now?traffic_source=rss](https://www.aljazeera.com/news/2026/10/23/trump-ordered-to-testify-in-10bn-bbc-lawsuit-discovery-what-happens-now?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/23/conte-dismisses-reports-of-man-united-takeover-with-carricks-job-uncertain?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/23/conte-dismisses-reports-of-man-united-takeover-with-carricks-job-uncertain?traffic_source=rss)
 
 ---
 
-### 8. Russia drops cluster bombs on Ukraine as Kyiv consolidates front line
+### 5. Mississippi releases video of 1-year-old’s fatal police shooting
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Russia’s territorial gains this year are effectively nil as it heads into trilateral talks with Ukraine, US.
+Mississippi released bodycam footage of the fatal shooting of 1-year-old Kohen Wiley.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/23/russia-drops-cluster-bombs-on-ukraine-as-kyiv-consolidates-front-line?traffic_source=rss](https://www.aljazeera.com/news/2026/10/23/russia-drops-cluster-bombs-on-ukraine-as-kyiv-consolidates-front-line?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/23/mississippi-releases-video-of-1-year-olds-fatal-police-shooting?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/23/mississippi-releases-video-of-1-year-olds-fatal-police-shooting?traffic_source=rss)
 
 ---
 
-### 9. El Clasico: All to know about the rivalry between Barcelona and Real Madrid
+### 6. Finland nearing opening of world’s first permanent nuclear waste repository
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-One of world football&#039;s biggest rivalries renews on Sunday when Barcelona host Real Madrid in La Liga&#039;s El Clasico.
+Facilities are being built in many countries, but Finland is the first to licence its underground storage facility.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/23/el-clasico-barcelona-real-madrid-rivalry?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/23/el-clasico-barcelona-real-madrid-rivalry?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/23/finland-nearing-opening-of-worlds-first-permanent-nuclear-waste-repository?traffic_source=rss](https://www.aljazeera.com/news/2026/10/23/finland-nearing-opening-of-worlds-first-permanent-nuclear-waste-repository?traffic_source=rss)
 
 ---
 
-### 10. Hurricane Vance
+### 7. Hurricane Vance
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Severe Storms
 
 ---
 
-### 11. Tropical Cyclone Agueda
+### 8. Tropical Cyclone Agueda
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Severe Storms
 
 ---
 
-### 12. Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky
+### 9. Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky
 
 **Source:** NASA
 

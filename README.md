@@ -1,64 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-23 12:44:56
+**Last Update:** 2026-10-23 17:08:28
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. I Did This Without Your Knowledge
+### 1. Phone Is About to Stop Being Yours: 70 Days Until Lockdown
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.lesswrong.com/posts/3375SZNGA5dKHQMie/i-did-this-without-your-knowledge">https://www.lesswrong.com/posts/3375SZNGA5dKHQMie/i-did-this-without-your-knowledge</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50204926">https://news.ycombinator.com/item?id=50204926</a></p>
-<p>Points: 14</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://keepandroidopen.org/">https://keepandroidopen.org/?</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50208558">https://news.ycombinator.com/item?id=50208558</a></p>
+<p>Points: 23</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://www.lesswrong.com/posts/3375SZNGA5dKHQMie/i-did-this-without-your-knowledge](https://www.lesswrong.com/posts/3375SZNGA5dKHQMie/i-did-this-without-your-knowledge)
+🔗 **Read more:** [https://keepandroidopen.org/](https://keepandroidopen.org/)
 
 ---
 
-### 2. This I Believe (1952)
+### 2. Shitter – A Nitter Fork
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.awakin.org/v2/read/view.php?tid=468">https://www.awakin.org/v2/read/view.php?tid=468</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50203759">https://news.ycombinator.com/item?id=50203759</a></p>
-<p>Points: 82</p>
-<p># Comments: 32</p>
+<p>Article URL: <a href="https://codeberg.org/shitter/shitter">https://codeberg.org/shitter/shitter</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50208343">https://news.ycombinator.com/item?id=50208343</a></p>
+<p>Points: 10</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://www.awakin.org/v2/read/view.php?tid=468](https://www.awakin.org/v2/read/view.php?tid=468)
+🔗 **Read more:** [https://codeberg.org/shitter/shitter](https://codeberg.org/shitter/shitter)
 
 ---
 
-### 3. The foolishness of "natural language programming" (1978)
+### 3. OpenSSL 4.1.0
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html">https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50203161">https://news.ycombinator.com/item?id=50203161</a></p>
-<p>Points: 159</p>
-<p># Comments: 97</p>
+<p>Article URL: <a href="https://github.com/openssl/openssl/releases/tag/openssl-4.1.0">https://github.com/openssl/openssl/releases/tag/openssl-4.1.0</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50208099">https://news.ycombinator.com/item?id=50208099</a></p>
+<p>Points: 31</p>
+<p># Comments: 6</p>
 
-🔗 **Read more:** [https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html](https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html)
+🔗 **Read more:** [https://github.com/openssl/openssl/releases/tag/openssl-4.1.0](https://github.com/openssl/openssl/releases/tag/openssl-4.1.0)
 
 ---
 
-### 4. Watch: Presenter battles strong winds as storm hits Newquay
+### 4. Meghan says she was informed about 'disturbing allegations' against her father in 2018
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The Duchess of Sussex issues a statement following reports her father Thomas Markle is being investigated over child sex abuse images in the Philippines.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6x2wpgejjkjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6x2wpgejjkjo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Watch: BBC presenter battles strong winds as storm hits Newquay
 
 **Source:** BBC
 
@@ -71,72 +84,72 @@ BBC lead weather presenter Simon King is in Newquay as the "full force" of the s
 
 ---
 
-### 5. Detective raped by colleague says Met handling of case 'like being raped again'
+### 6. Anti-terror police investigate as one person killed in shooting near Paris
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Linda Williams was attacked by David Carrick, who was jailed in 2023 for sexual offences against 12 women.
+French Prime Minister Sébastien Lecornu says the suspected gunman has been apprehended.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckdd83dz0153o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckdd83dz0153o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Watch: Met chief Rowley not fit for job, says detective raped by colleague
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Det Con Linda Williams, a victim of serial abuser David Carrick, says she has no faith in the system.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c3wyv7lr15nvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c3wyv7lr15nvo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Macron to meet student groups: Where are France’s protests heading?
+### 7. Trump ordered to testify in $10bn BBC lawsuit discovery: What happens now?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-President to meet for first time with student representatives on Friday before further protests.
+Trump could face sanctions, including dismissal of his lawsuit, if he fails to cooperate with questioning.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/23/we-want-promises-backed-by-results?traffic_source=rss](https://www.aljazeera.com/news/2026/10/23/we-want-promises-backed-by-results?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/23/trump-ordered-to-testify-in-10bn-bbc-lawsuit-discovery-what-happens-now?traffic_source=rss](https://www.aljazeera.com/news/2026/10/23/trump-ordered-to-testify-in-10bn-bbc-lawsuit-discovery-what-happens-now?traffic_source=rss)
 
 ---
 
-### 8. LeBron shrugs off Trump blast in home debut win for Philadelphia 76ers
+### 8. Russia drops cluster bombs on Ukraine as Kyiv consolidates front line
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-LeBron James enjoys 114-106 NBA win over Cleveland Cavaliers, hours after the US President called him a &#039;disgrace&#039;.
+Russia’s territorial gains this year are effectively nil as it heads into trilateral talks with Ukraine, US.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/23/lebron-shrugs-off-trump-blast-in-home-debut-win-for-philadelphia-76ers?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/23/lebron-shrugs-off-trump-blast-in-home-debut-win-for-philadelphia-76ers?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/23/russia-drops-cluster-bombs-on-ukraine-as-kyiv-consolidates-front-line?traffic_source=rss](https://www.aljazeera.com/news/2026/10/23/russia-drops-cluster-bombs-on-ukraine-as-kyiv-consolidates-front-line?traffic_source=rss)
 
 ---
 
-### 9. Israeli forces accused of killing disabled man in Syria raid
+### 9. El Clasico: All to know about the rivalry between Barcelona and Real Madrid
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli forces reportedly shot dead a Syrian man with an intellectual disability and hearing problems, during a raid.
+One of world football&#039;s biggest rivalries renews on Sunday when Barcelona host Real Madrid in La Liga&#039;s El Clasico.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/23/israeli-forces-accused-of-killing-disabled-man-in-syria-raid?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/23/israeli-forces-accused-of-killing-disabled-man-in-syria-raid?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/23/el-clasico-barcelona-real-madrid-rivalry?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/23/el-clasico-barcelona-real-madrid-rivalry?traffic_source=rss)
 
 ---
 
-### 10. Tropical Cyclone Agueda
+### 10. Hurricane Vance
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25589](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25589)
+
+---
+
+### 11. Tropical Cyclone Agueda
 
 **Source:** NASA
 
@@ -149,7 +162,7 @@ Natural event: Severe Storms
 
 ---
 
-### 11. Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky
+### 12. Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky
 
 **Source:** NASA
 
@@ -159,19 +172,6 @@ Natural event: Severe Storms
 Natural event: Wildfires
 
 🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25455](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25455)
-
----
-
-### 12. Wildfire COOLEY, Mendocino, California
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25450](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25450)
 
 ---
 

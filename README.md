@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-23 05:10:55
+**Last Update:** 2026-10-23 07:27:08
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html">https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50203161">https://news.ycombinator.com/item?id=50203161</a></p>
-<p>Points: 8</p>
-<p># Comments: 3</p>
+<p>Points: 62</p>
+<p># Comments: 54</p>
 
 🔗 **Read more:** [https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html](https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html)
 
@@ -35,26 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/">https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50202766">https://news.ycombinator.com/item?id=50202766</a></p>
-<p>Points: 11</p>
-<p># Comments: 2</p>
+<p>Points: 20</p>
+<p># Comments: 9</p>
 
 🔗 **Read more:** [https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/](https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/)
 
 ---
 
-### 3. Docker is weird
+### 3. Jank – The native Clojure dialect with seamless C++ interop
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://codeandcake.dev/posts/2026-10-22-docker-is-weird">https://codeandcake.dev/posts/2026-10-22-docker-is-weird</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50202681">https://news.ycombinator.com/item?id=50202681</a></p>
-<p>Points: 81</p>
-<p># Comments: 26</p>
+<p>Article URL: <a href="https://jank-lang.org/">https://jank-lang.org/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50202762">https://news.ycombinator.com/item?id=50202762</a></p>
+<p>Points: 29</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://codeandcake.dev/posts/2026-10-22-docker-is-weird](https://codeandcake.dev/posts/2026-10-22-docker-is-weird)
+🔗 **Read more:** [https://jank-lang.org/](https://jank-lang.org/)
 
 ---
 
@@ -97,42 +97,42 @@ Ukraine relies on Starlink for a range of military uses - its owner Elon Musk ha
 
 ---
 
-### 7. Thousands protest across Poland for access to free and legal abortions
+### 7. US tech stocks tumble as investors fret over AI spending
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Demonstrators gathered on the sixth anniversary of a near-total abortion ban imposed by Poland&#039;s highest court.
+Tech-heavy Nasdaq falls 2.6 percent as debate rages over whether AI is a bubble.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/23/thousands-protest-across-poland-for-access-to-free-and-legal-abortions?traffic_source=rss](https://www.aljazeera.com/news/2026/10/23/thousands-protest-across-poland-for-access-to-free-and-legal-abortions?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/23/us-tech-stocks-tumble-as-investors-fret-over-ai-spending?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/23/us-tech-stocks-tumble-as-investors-fret-over-ai-spending?traffic_source=rss)
 
 ---
 
-### 8. Rare unrest flares in Tunisian capital as police clash with protesters
+### 8. Venezuelans demand elections in first national protest in nearly two years
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Protests in several cities ​coincide with a deepening economic, social and political crisis in Tunisia.
+No date has been set to decide on a successor for Nicolas Maduro after the former president was captured by US forces.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/23/rare-unrest-flares-in-tunisian-capital-as-police-clash-with-protesters?traffic_source=rss](https://www.aljazeera.com/news/2026/10/23/rare-unrest-flares-in-tunisian-capital-as-police-clash-with-protesters?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/23/venezuelans-demand-elections-in-first-national-protest-in-nearly-two-years?traffic_source=rss](https://www.aljazeera.com/news/2026/10/23/venezuelans-demand-elections-in-first-national-protest-in-nearly-two-years?traffic_source=rss)
 
 ---
 
-### 9. Tibet rocked by 7.0-magnitude earthquake
+### 9. Indian developer turns ‘Cockroach’ protests into video game
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Tibet rocked by 7.0-magnitude earthquake
+A 27-year-old Indian developer has created a satirical video game inspired by the Cockroach Party-led protests.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/23/tibet-rocked-by-7-0-magnitude-earthquake?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/23/tibet-rocked-by-7-0-magnitude-earthquake?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/23/indian-developer-turns-cockroach-protests-into-video-game?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/23/indian-developer-turns-cockroach-protests-into-video-game?traffic_source=rss)
 
 ---
 

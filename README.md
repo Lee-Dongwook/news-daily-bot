@@ -1,28 +1,28 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-23 11:15:37
+**Last Update:** 2026-10-23 12:44:56
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. The same AI request emits 8.5 times more CO2 in Texas than in Sweden
+### 1. I Did This Without Your Knowledge
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://berget.ai/en/blog/per-request-co2-press-release">https://berget.ai/en/blog/per-request-co2-press-release</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50205229">https://news.ycombinator.com/item?id=50205229</a></p>
-<p>Points: 59</p>
-<p># Comments: 31</p>
+<p>Article URL: <a href="https://www.lesswrong.com/posts/3375SZNGA5dKHQMie/i-did-this-without-your-knowledge">https://www.lesswrong.com/posts/3375SZNGA5dKHQMie/i-did-this-without-your-knowledge</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50204926">https://news.ycombinator.com/item?id=50204926</a></p>
+<p>Points: 14</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://berget.ai/en/blog/per-request-co2-press-release](https://berget.ai/en/blog/per-request-co2-press-release)
+🔗 **Read more:** [https://www.lesswrong.com/posts/3375SZNGA5dKHQMie/i-did-this-without-your-knowledge](https://www.lesswrong.com/posts/3375SZNGA5dKHQMie/i-did-this-without-your-knowledge)
 
 ---
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.awakin.org/v2/read/view.php?tid=468">https://www.awakin.org/v2/read/view.php?tid=468</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50203759">https://news.ycombinator.com/item?id=50203759</a></p>
-<p>Points: 61</p>
-<p># Comments: 21</p>
+<p>Points: 82</p>
+<p># Comments: 32</p>
 
 🔗 **Read more:** [https://www.awakin.org/v2/read/view.php?tid=468](https://www.awakin.org/v2/read/view.php?tid=468)
 
@@ -51,14 +51,27 @@
 **Description:**
 <p>Article URL: <a href="https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html">https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50203161">https://news.ycombinator.com/item?id=50203161</a></p>
-<p>Points: 127</p>
-<p># Comments: 76</p>
+<p>Points: 159</p>
+<p># Comments: 97</p>
 
 🔗 **Read more:** [https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html](https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html)
 
 ---
 
-### 4. Detective raped by colleague says Met handling of case 'like being raped again'
+### 4. Watch: Presenter battles strong winds as storm hits Newquay
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+BBC lead weather presenter Simon King is in Newquay as the "full force" of the storm arrives.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cmzxlgkyl3vpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cmzxlgkyl3vpo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Detective raped by colleague says Met handling of case 'like being raped again'
 
 **Source:** BBC
 
@@ -71,7 +84,7 @@ Linda Williams was attacked by David Carrick, who was jailed in 2023 for sexual 
 
 ---
 
-### 5. Watch: Met chief Rowley not fit for job, says detective raped by colleague
+### 6. Watch: Met chief Rowley not fit for job, says detective raped by colleague
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ Det Con Linda Williams, a victim of serial abuser David Carrick, says she has no
 
 ---
 
-### 6. Trump says Musk has restored access to Ukraine's Starlink network
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Europe needs a war economy
+### 7. Macron to meet student groups: Where are France’s protests heading?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-With US support increasingly uncertain, Europe must mobilise its financial and industrial power to defend itself.
+President to meet for first time with student representatives on Friday before further protests.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/10/23/europe-needs-a-war-economy?traffic_source=rss](https://www.aljazeera.com/opinions/2026/10/23/europe-needs-a-war-economy?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/23/we-want-promises-backed-by-results?traffic_source=rss](https://www.aljazeera.com/news/2026/10/23/we-want-promises-backed-by-results?traffic_source=rss)
 
 ---
 
-### 8. Maradona death: Verdict in trial to be delivered on December 22
+### 8. LeBron shrugs off Trump blast in home debut win for Philadelphia 76ers
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The trial of seven healthcare professionals accused of negligence in Maradona&#039;s death concludes, December verdict set.
+LeBron James enjoys 114-106 NBA win over Cleveland Cavaliers, hours after the US President called him a &#039;disgrace&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/23/maradona-death-verdict-in-trial-to-be-delivered-on-december-22?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/23/maradona-death-verdict-in-trial-to-be-delivered-on-december-22?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/23/lebron-shrugs-off-trump-blast-in-home-debut-win-for-philadelphia-76ers?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/23/lebron-shrugs-off-trump-blast-in-home-debut-win-for-philadelphia-76ers?traffic_source=rss)
 
 ---
 
-### 9. How the midterms could change Trump’s presidency
+### 9. Israeli forces accused of killing disabled man in Syria raid
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Donald Trump isn&#039;t on the ballot this November, but the midterms could change the final two years of his presidency.
+Israeli forces reportedly shot dead a Syrian man with an intellectual disability and hearing problems, during a raid.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/23/aje-onl-nf_trumpmidterms-231026?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/23/aje-onl-nf_trumpmidterms-231026?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/23/israeli-forces-accused-of-killing-disabled-man-in-syria-raid?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/23/israeli-forces-accused-of-killing-disabled-man-in-syria-raid?traffic_source=rss)
 
 ---
 

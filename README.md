@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-23 07:27:08
+**Last Update:** 2026-10-23 11:15:37
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. The foolishness of "natural language programming" (1978)
+### 1. The same AI request emits 8.5 times more CO2 in Texas than in Sweden
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://berget.ai/en/blog/per-request-co2-press-release">https://berget.ai/en/blog/per-request-co2-press-release</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50205229">https://news.ycombinator.com/item?id=50205229</a></p>
+<p>Points: 59</p>
+<p># Comments: 31</p>
+
+🔗 **Read more:** [https://berget.ai/en/blog/per-request-co2-press-release](https://berget.ai/en/blog/per-request-co2-press-release)
+
+---
+
+### 2. This I Believe (1952)
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.awakin.org/v2/read/view.php?tid=468">https://www.awakin.org/v2/read/view.php?tid=468</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50203759">https://news.ycombinator.com/item?id=50203759</a></p>
+<p>Points: 61</p>
+<p># Comments: 21</p>
+
+🔗 **Read more:** [https://www.awakin.org/v2/read/view.php?tid=468](https://www.awakin.org/v2/read/view.php?tid=468)
+
+---
+
+### 3. The foolishness of "natural language programming" (1978)
 
 **Source:** Hacker News
 
@@ -19,72 +51,40 @@
 **Description:**
 <p>Article URL: <a href="https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html">https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50203161">https://news.ycombinator.com/item?id=50203161</a></p>
-<p>Points: 62</p>
-<p># Comments: 54</p>
+<p>Points: 127</p>
+<p># Comments: 76</p>
 
 🔗 **Read more:** [https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html](https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html)
 
 ---
 
-### 2. Mapping the Northern Sky
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/">https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50202766">https://news.ycombinator.com/item?id=50202766</a></p>
-<p>Points: 20</p>
-<p># Comments: 9</p>
-
-🔗 **Read more:** [https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/](https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/)
-
----
-
-### 3. Jank – The native Clojure dialect with seamless C++ interop
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://jank-lang.org/">https://jank-lang.org/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50202762">https://news.ycombinator.com/item?id=50202762</a></p>
-<p>Points: 29</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://jank-lang.org/](https://jank-lang.org/)
-
----
-
-### 4. Prepare for supply chain disruption from cyber or climate emergencies, Streeting warns public
+### 4. Detective raped by colleague says Met handling of case 'like being raped again'
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The defence secretary says the UK needs to be ready for scenarios including impact to essential supply chains.
+Linda Williams was attacked by David Carrick, who was jailed in 2023 for sexual offences against 12 women.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwd094x57p32o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwd094x57p32o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckdd83dz0153o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckdd83dz0153o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Race to update services' computer systems after cyber-security flaw found
+### 5. Watch: Met chief Rowley not fit for job, says detective raped by colleague
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Websites were taken offline after the developers of programming language PHP said "critical vulnerabilities" had been discovered.
+Det Con Linda Williams, a victim of serial abuser David Carrick, says she has no faith in the system.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c3wyv7lr15nvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c3wyv7lr15nvo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Musk has restored access to Ukraine's Starlink network, Trump says
+### 6. Trump says Musk has restored access to Ukraine's Starlink network
 
 **Source:** BBC
 
@@ -97,42 +97,42 @@ Ukraine relies on Starlink for a range of military uses - its owner Elon Musk ha
 
 ---
 
-### 7. US tech stocks tumble as investors fret over AI spending
+### 7. Europe needs a war economy
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Tech-heavy Nasdaq falls 2.6 percent as debate rages over whether AI is a bubble.
+With US support increasingly uncertain, Europe must mobilise its financial and industrial power to defend itself.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/23/us-tech-stocks-tumble-as-investors-fret-over-ai-spending?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/23/us-tech-stocks-tumble-as-investors-fret-over-ai-spending?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/10/23/europe-needs-a-war-economy?traffic_source=rss](https://www.aljazeera.com/opinions/2026/10/23/europe-needs-a-war-economy?traffic_source=rss)
 
 ---
 
-### 8. Venezuelans demand elections in first national protest in nearly two years
+### 8. Maradona death: Verdict in trial to be delivered on December 22
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-No date has been set to decide on a successor for Nicolas Maduro after the former president was captured by US forces.
+The trial of seven healthcare professionals accused of negligence in Maradona&#039;s death concludes, December verdict set.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/23/venezuelans-demand-elections-in-first-national-protest-in-nearly-two-years?traffic_source=rss](https://www.aljazeera.com/news/2026/10/23/venezuelans-demand-elections-in-first-national-protest-in-nearly-two-years?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/23/maradona-death-verdict-in-trial-to-be-delivered-on-december-22?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/23/maradona-death-verdict-in-trial-to-be-delivered-on-december-22?traffic_source=rss)
 
 ---
 
-### 9. Indian developer turns ‘Cockroach’ protests into video game
+### 9. How the midterms could change Trump’s presidency
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A 27-year-old Indian developer has created a satirical video game inspired by the Cockroach Party-led protests.
+Donald Trump isn&#039;t on the ballot this November, but the midterms could change the final two years of his presidency.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/23/indian-developer-turns-cockroach-protests-into-video-game?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/23/indian-developer-turns-cockroach-protests-into-video-game?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/23/aje-onl-nf_trumpmidterms-231026?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/23/aje-onl-nf_trumpmidterms-231026?traffic_source=rss)
 
 ---
 

@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-24 04:21:10
+**Last Update:** 2026-10-24 09:01:22
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Evolving Threat: http2shell is an RCE in node, Python, and more
+### 1. How close can pure functional programming get to C?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8">https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50216791">https://news.ycombinator.com/item?id=50216791</a></p>
-<p>Points: 29</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://rtfeldman.com/fp-vs-c">https://rtfeldman.com/fp-vs-c</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50218195">https://news.ycombinator.com/item?id=50218195</a></p>
+<p>Points: 15</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8](https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8)
+🔗 **Read more:** [https://rtfeldman.com/fp-vs-c](https://rtfeldman.com/fp-vs-c)
 
 ---
 
-### 2. German court calls Google aerial imagery 'spying'
+### 2. Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.courthousenews.com/german-court-calls-google-aerial-imagery-spying/">https://www.courthousenews.com/german-court-calls-google-aerial-imagery-spying/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50216142">https://news.ycombinator.com/item?id=50216142</a></p>
-<p>Points: 24</p>
-<p># Comments: 7</p>
+<p>Article URL: <a href="https://www.sciencedaily.com/releases/2026/10/261018084421.htm">https://www.sciencedaily.com/releases/2026/10/261018084421.htm</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50217683">https://news.ycombinator.com/item?id=50217683</a></p>
+<p>Points: 56</p>
+<p># Comments: 13</p>
 
-🔗 **Read more:** [https://www.courthousenews.com/german-court-calls-google-aerial-imagery-spying/](https://www.courthousenews.com/german-court-calls-google-aerial-imagery-spying/)
+🔗 **Read more:** [https://www.sciencedaily.com/releases/2026/10/261018084421.htm](https://www.sciencedaily.com/releases/2026/10/261018084421.htm)
 
 ---
 
-### 3. CVE Tracker
+### 3. Password, Please: Border Searches of Laptops, Phones Up 32% This Year
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://cve.0xosprey.com/">https://cve.0xosprey.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50215530">https://news.ycombinator.com/item?id=50215530</a></p>
-<p>Points: 85</p>
-<p># Comments: 28</p>
+<p>Article URL: <a href="https://gizmodo.com/password-please-border-searches-of-laptops-phones-up-32-this-year-2000830213">https://gizmodo.com/password-please-border-searches-of-laptops-phones-up-32-this-year-2000830213</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50217600">https://news.ycombinator.com/item?id=50217600</a></p>
+<p>Points: 21</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://cve.0xosprey.com/](https://cve.0xosprey.com/)
+🔗 **Read more:** [https://gizmodo.com/password-please-border-searches-of-laptops-phones-up-32-this-year-2000830213](https://gizmodo.com/password-please-border-searches-of-laptops-phones-up-32-this-year-2000830213)
 
 ---
 
-### 4. Storm Austen brings power cuts and travel disruption as more wind and rain forecast
+### 4. Second storm to hit UK with more wind and rain as thousands remain without power
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-A second storm, Storm Boelo, is expected to hit Scotland, Northern Ireland and northern England on Saturday bringing more wild weather.
+An amber weather warning has been issued for much of Scotland, parts of Northern Ireland and northern England, as Storm Boelo approaches.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cxj0l193y0l8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cxj0l193y0l8o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/weather/articles/cv8ez97k0wnlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/weather/articles/cv8ez97k0wnlo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Meghan says she was informed about 'disturbing allegations' against her father in 2018
+### 5. France prepares for day of protest a week after nationwide riots
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The Duchess of Sussex issues a statement following reports her father Thomas Markle is being investigated over child sex abuse images in the Philippines.
+More than 70,000 police officers are to be deployed over fears protesters will defy restrictions on demonstrations.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6x2wpgejjkjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6x2wpgejjkjo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Meghan statement offers answers after years of questions about her relationship with father
+### 6. UK to invest £100m in 'world first' AI Biosecurity Lab
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Today, without exactly using the word, Meghan claimed vindication.
+The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm70p9r04r8wo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm70p9r04r8wo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. WHO announces start of Ebola vaccine clinical trial in DR Congo
+### 7. Lebanese sceptical Israeli polls will bring change, end occupation of south
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A clinical trial begins to test the safety, efficacy and immunogenicity of multiple vaccines.
+Residents and analysts doubt October 27 vote will bring any meaningful shift in Israeli policy towards their country.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/24/who-announces-start-of-ebola-vaccine-clinical-trial-in-dr-congo?traffic_source=rss](https://www.aljazeera.com/news/2026/10/24/who-announces-start-of-ebola-vaccine-clinical-trial-in-dr-congo?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/10/24/lebanese-skeptical-israeli-polls-will-bring-change-end-occupation-of-south?traffic_source=rss](https://www.aljazeera.com/features/2026/10/24/lebanese-skeptical-israeli-polls-will-bring-change-end-occupation-of-south?traffic_source=rss)
 
 ---
 
-### 8. Iran war live: Israel launches ‘targeted’ Hebron operation after attack
+### 8. Massive oil slick seen weeks after tanker struck off UAE’s coast
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli army launches a &#039;targeted&#039; operation in Hebron after a shooting killed two soldiers.
+An oil spill off the UAE coast has prompted beach closures after a vessel reportedly hit a naval mine in early October.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/10/24/iran-war-live-israel-launches-targeted-hebron-operation-after-attack?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/10/24/iran-war-live-israel-launches-targeted-hebron-operation-after-attack?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/24/massive-oil-slick-seen-weeks-after-tanker-struck-off-uaes-coast?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/24/massive-oil-slick-seen-weeks-after-tanker-struck-off-uaes-coast?traffic_source=rss)
 
 ---
 
-### 9. Macklemore: ‘I say free Palestine’ as he kicks off a new tour
+### 9. Argentina identifies dozens of victims killed in its ‘Dirty War’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Macklemore says ‘being human is not complicated’ as he kicked off his Free Palestine tour on Thursday night.
+Forensic anthropologists have identified the remains of at least 38 victims of Argentina’s last military dictatorship.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/23/macklemore-i-say-free-palestine-as-he-kicks-off-a-new-tour?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/23/macklemore-i-say-free-palestine-as-he-kicks-off-a-new-tour?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/24/argentina-identifies-dozens-of-victims-killed-in-its-dirty?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/24/argentina-identifies-dozens-of-victims-killed-in-its-dirty?traffic_source=rss)
 
 ---
 

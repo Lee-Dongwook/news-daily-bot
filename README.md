@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-24 09:01:22
+**Last Update:** 2026-10-24 09:33:12
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://rtfeldman.com/fp-vs-c">https://rtfeldman.com/fp-vs-c</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50218195">https://news.ycombinator.com/item?id=50218195</a></p>
-<p>Points: 15</p>
-<p># Comments: 1</p>
+<p>Points: 34</p>
+<p># Comments: 2</p>
 
 🔗 **Read more:** [https://rtfeldman.com/fp-vs-c](https://rtfeldman.com/fp-vs-c)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.sciencedaily.com/releases/2026/10/261018084421.htm">https://www.sciencedaily.com/releases/2026/10/261018084421.htm</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50217683">https://news.ycombinator.com/item?id=50217683</a></p>
-<p>Points: 56</p>
-<p># Comments: 13</p>
+<p>Points: 63</p>
+<p># Comments: 18</p>
 
 🔗 **Read more:** [https://www.sciencedaily.com/releases/2026/10/261018084421.htm](https://www.sciencedaily.com/releases/2026/10/261018084421.htm)
 
@@ -51,27 +51,14 @@
 **Description:**
 <p>Article URL: <a href="https://gizmodo.com/password-please-border-searches-of-laptops-phones-up-32-this-year-2000830213">https://gizmodo.com/password-please-border-searches-of-laptops-phones-up-32-this-year-2000830213</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50217600">https://news.ycombinator.com/item?id=50217600</a></p>
-<p>Points: 21</p>
-<p># Comments: 2</p>
+<p>Points: 27</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://gizmodo.com/password-please-border-searches-of-laptops-phones-up-32-this-year-2000830213](https://gizmodo.com/password-please-border-searches-of-laptops-phones-up-32-this-year-2000830213)
 
 ---
 
-### 4. Second storm to hit UK with more wind and rain as thousands remain without power
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-An amber weather warning has been issued for much of Scotland, parts of Northern Ireland and northern England, as Storm Boelo approaches.
-
-🔗 **Read more:** [https://www.bbc.co.uk/weather/articles/cv8ez97k0wnlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/weather/articles/cv8ez97k0wnlo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. France prepares for day of protest a week after nationwide riots
+### 4. France prepares for day of protest a week after nationwide riots
 
 **Source:** BBC
 
@@ -84,7 +71,7 @@ More than 70,000 police officers are to be deployed over fears protesters will d
 
 ---
 
-### 6. UK to invest £100m in 'world first' AI Biosecurity Lab
+### 5. UK to invest £100m in 'world first' AI Biosecurity Lab
 
 **Source:** BBC
 
@@ -97,7 +84,46 @@ The chancellor will unveil AI spending aimed at shoring up the UK's defences in 
 
 ---
 
-### 7. Lebanese sceptical Israeli polls will bring change, end occupation of south
+### 6. Met investigates reports of letter detailing claims about Meghan's father
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Scotland Yard opens an inquiry after the Duchess of Sussex said she was sent a letter containing "disturbing allegations".
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmlylkkzl2neo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmlylkkzl2neo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 7. How Benjamin Netanyahu reshaped Israel’s institutions
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+As Israel heads to the polls on October 27, its polarising and longest-serving prime minister is seeking re-election.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/24/how-benjamin-netanyahu-reshaped-israels-institutions?traffic_source=rss](https://www.aljazeera.com/news/2026/10/24/how-benjamin-netanyahu-reshaped-israels-institutions?traffic_source=rss)
+
+---
+
+### 8. Hospital in Yemen’s Taiz warns of collapse in days because of Houthi siege
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Dialysis patients face shorter treatment sessions as severe shortages of fuel, medicines, and oxygen threaten hospitals.
+
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/10/24/hospital-yemen-taiz-warns-collapse-houthi-siege?traffic_source=rss](https://www.aljazeera.com/features/2026/10/24/hospital-yemen-taiz-warns-collapse-houthi-siege?traffic_source=rss)
+
+---
+
+### 9. Lebanese sceptical Israeli polls will bring change, end occupation of south
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ The chancellor will unveil AI spending aimed at shoring up the UK's defences in 
 Residents and analysts doubt October 27 vote will bring any meaningful shift in Israeli policy towards their country.
 
 🔗 **Read more:** [https://www.aljazeera.com/features/2026/10/24/lebanese-skeptical-israeli-polls-will-bring-change-end-occupation-of-south?traffic_source=rss](https://www.aljazeera.com/features/2026/10/24/lebanese-skeptical-israeli-polls-will-bring-change-end-occupation-of-south?traffic_source=rss)
-
----
-
-### 8. Massive oil slick seen weeks after tanker struck off UAE’s coast
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-An oil spill off the UAE coast has prompted beach closures after a vessel reportedly hit a naval mine in early October.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/24/massive-oil-slick-seen-weeks-after-tanker-struck-off-uaes-coast?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/24/massive-oil-slick-seen-weeks-after-tanker-struck-off-uaes-coast?traffic_source=rss)
-
----
-
-### 9. Argentina identifies dozens of victims killed in its ‘Dirty War’
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Forensic anthropologists have identified the remains of at least 38 victims of Argentina’s last military dictatorship.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/24/argentina-identifies-dozens-of-victims-killed-in-its-dirty?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/24/argentina-identifies-dozens-of-victims-killed-in-its-dirty?traffic_source=rss)
 
 ---
 

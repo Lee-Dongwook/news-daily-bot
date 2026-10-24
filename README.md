@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-24 03:53:28
+**Last Update:** 2026-10-24 04:21:10
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8">https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50216791">https://news.ycombinator.com/item?id=50216791</a></p>
-<p>Points: 17</p>
-<p># Comments: 4</p>
+<p>Points: 29</p>
+<p># Comments: 6</p>
 
 🔗 **Read more:** [https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8](https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.courthousenews.com/german-court-calls-google-aerial-imagery-spying/">https://www.courthousenews.com/german-court-calls-google-aerial-imagery-spying/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50216142">https://news.ycombinator.com/item?id=50216142</a></p>
-<p>Points: 21</p>
-<p># Comments: 6</p>
+<p>Points: 24</p>
+<p># Comments: 7</p>
 
 🔗 **Read more:** [https://www.courthousenews.com/german-court-calls-google-aerial-imagery-spying/](https://www.courthousenews.com/german-court-calls-google-aerial-imagery-spying/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://cve.0xosprey.com/">https://cve.0xosprey.com/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50215530">https://news.ycombinator.com/item?id=50215530</a></p>
-<p>Points: 76</p>
-<p># Comments: 22</p>
+<p>Points: 85</p>
+<p># Comments: 28</p>
 
 🔗 **Read more:** [https://cve.0xosprey.com/](https://cve.0xosprey.com/)
 
@@ -97,7 +97,33 @@ Today, without exactly using the word, Meghan claimed vindication.
 
 ---
 
-### 7. Macklemore: ‘I say free Palestine’ as he kicks off a new tour
+### 7. WHO announces start of Ebola vaccine clinical trial in DR Congo
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+A clinical trial begins to test the safety, efficacy and immunogenicity of multiple vaccines.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/24/who-announces-start-of-ebola-vaccine-clinical-trial-in-dr-congo?traffic_source=rss](https://www.aljazeera.com/news/2026/10/24/who-announces-start-of-ebola-vaccine-clinical-trial-in-dr-congo?traffic_source=rss)
+
+---
+
+### 8. Iran war live: Israel launches ‘targeted’ Hebron operation after attack
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Israeli army launches a &#039;targeted&#039; operation in Hebron after a shooting killed two soldiers.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/10/24/iran-war-live-israel-launches-targeted-hebron-operation-after-attack?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/10/24/iran-war-live-israel-launches-targeted-hebron-operation-after-attack?traffic_source=rss)
+
+---
+
+### 9. Macklemore: ‘I say free Palestine’ as he kicks off a new tour
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Today, without exactly using the word, Meghan claimed vindication.
 Macklemore says ‘being human is not complicated’ as he kicked off his Free Palestine tour on Thursday night.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/23/macklemore-i-say-free-palestine-as-he-kicks-off-a-new-tour?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/23/macklemore-i-say-free-palestine-as-he-kicks-off-a-new-tour?traffic_source=rss)
-
----
-
-### 8. Typhoon Champi hits Taiwan, killing one and injuring 350
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Authorities warn of &#039;destructive winds&#039; and urge residents to shelter as the storm passes the island&#039;s northeast.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/23/typhoon-champi-hits-taiwan-killing-one-and-injuring-350?traffic_source=rss](https://www.aljazeera.com/news/2026/10/23/typhoon-champi-hits-taiwan-killing-one-and-injuring-350?traffic_source=rss)
-
----
-
-### 9. Kenya announces second Ebola death, says ‘no evidence’ of community spread
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The Ebola outbreak has now spread to four countries across eastern, central ⁠⁠and western Africa.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/23/kenya-announces-second-ebola-death-says-no-evidence-of-community-spread?traffic_source=rss](https://www.aljazeera.com/news/2026/10/23/kenya-announces-second-ebola-death-says-no-evidence-of-community-spread?traffic_source=rss)
 
 ---
 

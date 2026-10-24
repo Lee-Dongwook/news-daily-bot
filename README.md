@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-25 02:29:14
+**Last Update:** 2026-10-25 02:57:10
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Argus – a free, open-source agentic security operations platform – MIT
+### 1. Free Software Is a Failure
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="http://www.paritybit.ca/blog/free-software-is-an-abject-failure/">http://www.paritybit.ca/blog/free-software-is-an-abject-failure/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50226261">https://news.ycombinator.com/item?id=50226261</a></p>
+<p>Points: 7</p>
+<p># Comments: 6</p>
+
+🔗 **Read more:** [http://www.paritybit.ca/blog/free-software-is-an-abject-failure/](http://www.paritybit.ca/blog/free-software-is-an-abject-failure/)
+
+---
+
+### 2. Argus – a free, open-source agentic security operations platform – MIT
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://thomasunise.com/argus">https://thomasunise.com/argus</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50225748">https://news.ycombinator.com/item?id=50225748</a></p>
-<p>Points: 13</p>
-<p># Comments: 3</p>
+<p>Points: 19</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://thomasunise.com/argus](https://thomasunise.com/argus)
 
 ---
 
-### 2. We should be more ambitious with the software we build
+### 3. We should be more ambitious with the software we build
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://danluu.com/ambitious/">https://danluu.com/ambitious/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50225695">https://news.ycombinator.com/item?id=50225695</a></p>
-<p>Points: 16</p>
-<p># Comments: 4</p>
+<p>Points: 35</p>
+<p># Comments: 23</p>
 
 🔗 **Read more:** [https://danluu.com/ambitious/](https://danluu.com/ambitious/)
-
----
-
-### 3. Small Programs and Languages
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://ratfactor.com/cards/pl-small">https://ratfactor.com/cards/pl-small</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50225674">https://news.ycombinator.com/item?id=50225674</a></p>
-<p>Points: 7</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://ratfactor.com/cards/pl-small](https://ratfactor.com/cards/pl-small)
 
 ---
 
@@ -97,7 +97,33 @@ Scotland, parts of northern England and Northern Ireland are forecast to be hit 
 
 ---
 
-### 7. Brazil’s Lula, Bolsonaro draw thousands to election-eve rallies
+### 7. Gunmen kill at least 10 people in eastern Nigeria, police say
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Nigerian police say a large group carried out the attack on Binnari village in Taraba State.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/24/gunmen-kill-at-least-10-people-in-eastern-nigeria-police-say?traffic_source=rss](https://www.aljazeera.com/news/2026/10/24/gunmen-kill-at-least-10-people-in-eastern-nigeria-police-say?traffic_source=rss)
+
+---
+
+### 8. How have Democrats’ policies shifted since the last major US election?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+From trans rights to Israel&#039;s war on Gaza, the party&#039;s candidates have responded to voter shifts on a slew of issues.
+
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/24/how-have-democrats-policies-shifted-since-the-last-major-us-election?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/24/how-have-democrats-policies-shifted-since-the-last-major-us-election?traffic_source=rss)
+
+---
+
+### 9. Brazil’s Lula, Bolsonaro draw thousands to election-eve rallies
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Scotland, parts of northern England and Northern Ireland are forecast to be hit 
 The pivotal run-off will determine whether Brazilians stick with their left-wing leader or shift towards the right.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/24/brazils-lula-bolsonaro-draw-thousands-to-election-eve-rallies?traffic_source=rss](https://www.aljazeera.com/news/2026/10/24/brazils-lula-bolsonaro-draw-thousands-to-election-eve-rallies?traffic_source=rss)
-
----
-
-### 8. Brazil’s candidates hold final rallies before knife-edge run off
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Brazil’s candidates hold final rallies before knife-edge run off
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/24/brazils-candidates-hold-final-rallies-before-knife-edge-run-off?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/24/brazils-candidates-hold-final-rallies-before-knife-edge-run-off?traffic_source=rss)
-
----
-
-### 9. Iran blames US for deal failure, urges new try amid fear of new attacks
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Tehran warns that even limited strikes would trigger a response &#039;several times greater&#039;.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/24/iran-blames-us-for-deal-failure-urges-new-try-amid-fear-of-new-attacks?traffic_source=rss](https://www.aljazeera.com/news/2026/10/24/iran-blames-us-for-deal-failure-urges-new-try-amid-fear-of-new-attacks?traffic_source=rss)
 
 ---
 

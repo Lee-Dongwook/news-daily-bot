@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-24 18:11:15
+**Last Update:** 2026-10-24 21:27:13
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. One Must Fall 2097 Remastered
+### 1. The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/Jared-woodruff/OMF-2097-Remastered/">https://github.com/Jared-woodruff/OMF-2097-Remastered/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50221179">https://news.ycombinator.com/item?id=50221179</a></p>
-<p>Points: 21</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://de.numista.com/9866">https://de.numista.com/9866</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50222927">https://news.ycombinator.com/item?id=50222927</a></p>
+<p>Points: 31</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://github.com/Jared-woodruff/OMF-2097-Remastered/](https://github.com/Jared-woodruff/OMF-2097-Remastered/)
+🔗 **Read more:** [https://de.numista.com/9866](https://de.numista.com/9866)
 
 ---
 
-### 2. Elon Musk Just Gave Europe a Reason to Replace American Technology
+### 2. Roku developer repositories moved from GitHub to GitLab
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/">https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50220913">https://news.ycombinator.com/item?id=50220913</a></p>
-<p>Points: 208</p>
-<p># Comments: 189</p>
+<p>Article URL: <a href="https://blog.roku.com/developer/gitlab-move">https://blog.roku.com/developer/gitlab-move</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50222622">https://news.ycombinator.com/item?id=50222622</a></p>
+<p>Points: 101</p>
+<p># Comments: 54</p>
 
-🔗 **Read more:** [https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/](https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/)
+🔗 **Read more:** [https://blog.roku.com/developer/gitlab-move](https://blog.roku.com/developer/gitlab-move)
 
 ---
 
-### 3. AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist
+### 3. Neural chip decodes interactions between brain regions
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/">https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50220204">https://news.ycombinator.com/item?id=50220204</a></p>
-<p>Points: 56</p>
-<p># Comments: 13</p>
+<p>Article URL: <a href="https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/">https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50222525">https://news.ycombinator.com/item?id=50222525</a></p>
+<p>Points: 37</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/](https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/)
+🔗 **Read more:** [https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/](https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/)
 
 ---
 
@@ -71,16 +71,16 @@ The Met said it passed information to the duchess but did not share it with othe
 
 ---
 
-### 5. Plan for Northern Olympics to get £7m in Healey's Budget
+### 5. UK braces for worst of Storm Boelo as amber warnings due to come into force
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The full feasibility study will look in detail at how hosting the Games in northern England could work.
+Scotland, parts of northern England and Northern Ireland are forecast to be hit with the strongest winds from the country's second storm in as many days.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cv98z92ekg9zo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cv98z92ekg9zo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +97,42 @@ The prime minister might be dreaming of gold medals in 2040, but he must first n
 
 ---
 
-### 7. Ukraine says Starlink restored as attacks continue in Russia and Ukraine
+### 7. Trump says he may move White House press corps to new location
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Negotiators from Ukraine, Russia and the US are expected to meet in Abu Dhabi next month.
+Trump’s remarks come amid a fractious moment between the US president and the journalists who cover him.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/24/ukraine-says-starlink-restored-as-attacks-continue-in-russia-and-ukraine?traffic_source=rss](https://www.aljazeera.com/news/2026/10/24/ukraine-says-starlink-restored-as-attacks-continue-in-russia-and-ukraine?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/24/trump-says-he-may-move-white-house-press-corps-to-new-location?traffic_source=rss](https://www.aljazeera.com/news/2026/10/24/trump-says-he-may-move-white-house-press-corps-to-new-location?traffic_source=rss)
 
 ---
 
-### 8. Ballon d’Or 2026: Can Kylian Mbappe’s Real Madrid and France record win it?
+### 8. About 25,000 rally in Madrid in support of Spain’s state pension scheme
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Despite not winning silverware last season, Mbappe has been clear his goal to clinch the Ballon d&#039;Or.
+Demonstrators want pensions to remain indexed to inflation and the gender pension gap to be eliminated.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/24/ballon-dor-2026-can-kylian-mbappes-real-madrid-and-france-record-win-it?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/24/ballon-dor-2026-can-kylian-mbappes-real-madrid-and-france-record-win-it?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/24/about-25000-rally-in-madrid-in-support-of-spains-state-pension-scheme?traffic_source=rss](https://www.aljazeera.com/news/2026/10/24/about-25000-rally-in-madrid-in-support-of-spains-state-pension-scheme?traffic_source=rss)
 
 ---
 
-### 9. Man City beaten at Aston Villa as perfect Premier League start ends
+### 9. Serbian elections: A country where students may actually take power
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Nicolas Jackson scores twice - either side of an Erling Haaland header - as Aston Villa beat Man City 2-1 at Villa Park.
+Serbia is voting in an early election, where the most powerful politician in the country, has a serious rival.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/24/aston-villa-inflict-man-citys-first-premier-league-defeat-of-the-season?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/24/aston-villa-inflict-man-citys-first-premier-league-defeat-of-the-season?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/24/serbian-elections-a-country-where-students-may-actually-take-power?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/24/serbian-elections-a-country-where-students-may-actually-take-power?traffic_source=rss)
 
 ---
 

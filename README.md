@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-24 01:54:26
+**Last Update:** 2026-10-24 03:53:28
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. CVE Tracker
+### 1. Evolving Threat: http2shell is an RCE in node, Python, and more
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8">https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50216791">https://news.ycombinator.com/item?id=50216791</a></p>
+<p>Points: 17</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8](https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8)
+
+---
+
+### 2. German court calls Google aerial imagery 'spying'
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.courthousenews.com/german-court-calls-google-aerial-imagery-spying/">https://www.courthousenews.com/german-court-calls-google-aerial-imagery-spying/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50216142">https://news.ycombinator.com/item?id=50216142</a></p>
+<p>Points: 21</p>
+<p># Comments: 6</p>
+
+🔗 **Read more:** [https://www.courthousenews.com/german-court-calls-google-aerial-imagery-spying/](https://www.courthousenews.com/german-court-calls-google-aerial-imagery-spying/)
+
+---
+
+### 3. CVE Tracker
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://cve.0xosprey.com/">https://cve.0xosprey.com/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50215530">https://news.ycombinator.com/item?id=50215530</a></p>
-<p>Points: 9</p>
-<p># Comments: 0</p>
+<p>Points: 76</p>
+<p># Comments: 22</p>
 
 🔗 **Read more:** [https://cve.0xosprey.com/](https://cve.0xosprey.com/)
-
----
-
-### 2. No Source Code? No Problem
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://queue.acm.org/doi/10.1145/945131.945155">https://queue.acm.org/doi/10.1145/945131.945155</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50214994">https://news.ycombinator.com/item?id=50214994</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://queue.acm.org/doi/10.1145/945131.945155](https://queue.acm.org/doi/10.1145/945131.945155)
-
----
-
-### 3. A whirlwind tour of systemd-nspawn containers
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/">https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50214983">https://news.ycombinator.com/item?id=50214983</a></p>
-<p>Points: 11</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/](https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/)
 
 ---
 
@@ -71,20 +71,7 @@ A second storm, Storm Boelo, is expected to hit Scotland, Northern Ireland and n
 
 ---
 
-### 5. Watch: Trees ripped up as Storm Austen batters Britain
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The first named storm of the season brought powerful gusts to Jersey, and in southern England the wild weather disrupted travel with fallen trees blocking railway lines and roads.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c6x2qdpnn35po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c6x2qdpnn35po?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Meghan says she was informed about 'disturbing allegations' against her father in 2018
+### 5. Meghan says she was informed about 'disturbing allegations' against her father in 2018
 
 **Source:** BBC
 
@@ -97,42 +84,55 @@ The Duchess of Sussex issues a statement following reports her father Thomas Mar
 
 ---
 
-### 7. Masked gunmen kill seven in attack on church funeral in Jordan
+### 6. Meghan statement offers answers after years of questions about her relationship with father
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-At least seven people were killed and 34 wounded after two masked gunmen opened fire at a church in Karak, Jordan.
+Today, without exactly using the word, Meghan claimed vindication.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/23/aje-onl-nf_masked-gunmen-kill-seven-in-attack-on-church-jordan-231026?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/23/aje-onl-nf_masked-gunmen-kill-seven-in-attack-on-church-jordan-231026?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm70p9r04r8wo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm70p9r04r8wo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. ‘Generation Right’: Israeli youth show strong support for the right
+### 7. Macklemore: ‘I say free Palestine’ as he kicks off a new tour
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Some three quarters of Jewish first-time voters identify as right or centre-right, higher than rest of Israeli society.
+Macklemore says ‘being human is not complicated’ as he kicked off his Free Palestine tour on Thursday night.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/23/generation-right-israeli-youth-show-strong-support-for-the-right?traffic_source=rss](https://www.aljazeera.com/news/2026/10/23/generation-right-israeli-youth-show-strong-support-for-the-right?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/23/macklemore-i-say-free-palestine-as-he-kicks-off-a-new-tour?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/23/macklemore-i-say-free-palestine-as-he-kicks-off-a-new-tour?traffic_source=rss)
 
 ---
 
-### 9. FCC Democrat warns broadcasters to resist Trump’s media pressure tactics
+### 8. Typhoon Champi hits Taiwan, killing one and injuring 350
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Democrat Anna Gomez warns broadcasters against yielding to the Trump-era FCC&#039;s claims of fake polls and news distortions.
+Authorities warn of &#039;destructive winds&#039; and urge residents to shelter as the storm passes the island&#039;s northeast.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/23/fcc-democrat-warns-broadcasters-to-resist-trumps-media-pressure-tactics?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/23/fcc-democrat-warns-broadcasters-to-resist-trumps-media-pressure-tactics?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/23/typhoon-champi-hits-taiwan-killing-one-and-injuring-350?traffic_source=rss](https://www.aljazeera.com/news/2026/10/23/typhoon-champi-hits-taiwan-killing-one-and-injuring-350?traffic_source=rss)
+
+---
+
+### 9. Kenya announces second Ebola death, says ‘no evidence’ of community spread
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The Ebola outbreak has now spread to four countries across eastern, central ⁠⁠and western Africa.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/23/kenya-announces-second-ebola-death-says-no-evidence-of-community-spread?traffic_source=rss](https://www.aljazeera.com/news/2026/10/23/kenya-announces-second-ebola-death-says-no-evidence-of-community-spread?traffic_source=rss)
 
 ---
 

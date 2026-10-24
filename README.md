@@ -1,29 +1,90 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-24 14:03:02
+**Last Update:** 2026-10-24 14:50:02
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Met investigates reports of letter detailing claims about Meghan's father
+### 1. Node.js Vulnerability Blog
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://nodejs.org/en/blog/vulnerability">https://nodejs.org/en/blog/vulnerability</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50220145">https://news.ycombinator.com/item?id=50220145</a></p>
+<p>Points: 3</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://nodejs.org/en/blog/vulnerability](https://nodejs.org/en/blog/vulnerability)
+
+---
+
+### 2. I Don't Understand Quantum Physics (2018)
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.southampton.ac.uk/~doug/quantum_physics/index.html">https://www.southampton.ac.uk/~doug/quantum_physics/index.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50219666">https://news.ycombinator.com/item?id=50219666</a></p>
+<p>Points: 77</p>
+<p># Comments: 36</p>
+
+🔗 **Read more:** [https://www.southampton.ac.uk/~doug/quantum_physics/index.html](https://www.southampton.ac.uk/~doug/quantum_physics/index.html)
+
+---
+
+### 3. Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497">https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50219177">https://news.ycombinator.com/item?id=50219177</a></p>
+<p>Points: 16</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497](https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497)
+
+---
+
+### 4. Plan for Northern Olympics to get £7m in Healey's Budget
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Scotland Yard opens an inquiry after the Duchess of Sussex said she was sent a letter containing "disturbing allegations".
+The full feasibility study will look in detail at how hosting the Games in northern England could work.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmlylkkzl2neo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmlylkkzl2neo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cv98z92ekg9zo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cv98z92ekg9zo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 2. Mum dies after trying to rescue sons swept away at sea
+### 5. Between quick wins and big dreams lies Burnham's biggest test
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The prime minister might be dreaming of gold medals in 2040, but he must first navigate the difficult years in between, writes Laura Kuenssberg.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwq6n09qpy90o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwq6n09qpy90o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Mum dies after trying to rescue sons swept away at sea in Bahamas
 
 **Source:** BBC
 
@@ -36,20 +97,20 @@ The children were subsequently rescued from the water, police say.
 
 ---
 
-### 3. Father who killed Oregon school gunman describes anguish over children he couldn't save
+### 7. Deadly ‘racist’ attack in France: Are hate crimes rising in Europe?
 
-**Source:** BBC
+**Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Kaylub Giamanco has been hailed as a hero for killing a teenager who fatally shot three children and a teacher.
+Monitoring group reports more Muslims in Europe face racial discrimination as &#039;terrorist&#039; attack kills one in France.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crgj9ndwvj9jo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crgj9ndwvj9jo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/24/deadly-racist-attack-in-france-are-hate-crimes-rising-in-europe?traffic_source=rss](https://www.aljazeera.com/news/2026/10/24/deadly-racist-attack-in-france-are-hate-crimes-rising-in-europe?traffic_source=rss)
 
 ---
 
-### 4. France braces for another day of mass protests as security on high alert
+### 8. France braces for another day of mass protests as security on high alert
 
 **Source:** Al Jazeera
 
@@ -62,7 +123,7 @@ Several planned marches in major cities in France have been banned by authoritie
 
 ---
 
-### 5. Brazil’s Lula and Bolsonaro debate policy proposals before run-off
+### 9. Brazil’s Lula and Bolsonaro debate policy proposals before run-off
 
 **Source:** Al Jazeera
 
@@ -75,20 +136,7 @@ Polls indicate Brazil&#039;s presidential candidates are neck and neck before Su
 
 ---
 
-### 6. Ethiopian PM’s advisor: Tigrayan forces and others hinder stability
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Advisor to Ethiopia’s Prime Minister stated that Tigrayan forces and regional actors are hindering regional stability.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/24/ethiopian-pms-advisor-tigrayan-forces-and-others-hinder-stability?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/24/ethiopian-pms-advisor-tigrayan-forces-and-others-hinder-stability?traffic_source=rss)
-
----
-
-### 7. Wildfire BEE HAVEN (2) (24-06), Hamilton, Florida
+### 10. Wildfire BEE HAVEN (2) (24-06), Hamilton, Florida
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Wildfires
 
 ---
 
-### 8. Hurricane Vance
+### 11. Hurricane Vance
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Severe Storms
 
 ---
 
-### 9. Tropical Cyclone Agueda
+### 12. Tropical Cyclone Agueda
 
 **Source:** NASA
 

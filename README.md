@@ -1,64 +1,29 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-24 14:50:02
+**Last Update:** 2026-10-24 17:50:26
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** NASA, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Node.js Vulnerability Blog
+### 1. Met Police says letter with claims about Meghan's father not shared with other law enforcement
 
-**Source:** Hacker News
+**Source:** BBC
 
-**Category:** technology
+**Category:** world
 
 **Description:**
-<p>Article URL: <a href="https://nodejs.org/en/blog/vulnerability">https://nodejs.org/en/blog/vulnerability</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50220145">https://news.ycombinator.com/item?id=50220145</a></p>
-<p>Points: 3</p>
-<p># Comments: 1</p>
+The Met said it passed information to the duchess but did not share it with other law enforcement agencies.
 
-🔗 **Read more:** [https://nodejs.org/en/blog/vulnerability](https://nodejs.org/en/blog/vulnerability)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c39wz740e0nyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c39wz740e0nyo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 2. I Don't Understand Quantum Physics (2018)
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.southampton.ac.uk/~doug/quantum_physics/index.html">https://www.southampton.ac.uk/~doug/quantum_physics/index.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50219666">https://news.ycombinator.com/item?id=50219666</a></p>
-<p>Points: 77</p>
-<p># Comments: 36</p>
-
-🔗 **Read more:** [https://www.southampton.ac.uk/~doug/quantum_physics/index.html](https://www.southampton.ac.uk/~doug/quantum_physics/index.html)
-
----
-
-### 3. Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497">https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50219177">https://news.ycombinator.com/item?id=50219177</a></p>
-<p>Points: 16</p>
-<p># Comments: 4</p>
-
-🔗 **Read more:** [https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497](https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497)
-
----
-
-### 4. Plan for Northern Olympics to get £7m in Healey's Budget
+### 2. Plan for Northern Olympics to get £7m in Healey's Budget
 
 **Source:** BBC
 
@@ -71,7 +36,7 @@ The full feasibility study will look in detail at how hosting the Games in north
 
 ---
 
-### 5. Between quick wins and big dreams lies Burnham's biggest test
+### 3. Between quick wins and big dreams lies Burnham's biggest test
 
 **Source:** BBC
 
@@ -84,59 +49,46 @@ The prime minister might be dreaming of gold medals in 2040, but he must first n
 
 ---
 
-### 6. Mum dies after trying to rescue sons swept away at sea in Bahamas
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The children were subsequently rescued from the water, police say.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Deadly ‘racist’ attack in France: Are hate crimes rising in Europe?
+### 4. Do abstaining voters hold the key to Brazil’s 2026 presidential election?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Monitoring group reports more Muslims in Europe face racial discrimination as &#039;terrorist&#039; attack kills one in France.
+Some 21 percent of Brazilian adults did not cast a ballot in the first round of voting. Will they affect the run-off?
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/24/deadly-racist-attack-in-france-are-hate-crimes-rising-in-europe?traffic_source=rss](https://www.aljazeera.com/news/2026/10/24/deadly-racist-attack-in-france-are-hate-crimes-rising-in-europe?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/longform/2026/10/24/do-abstaining-voters-hold-the-key-to-brazils-2026-presidential-election?traffic_source=rss](https://www.aljazeera.com/news/longform/2026/10/24/do-abstaining-voters-hold-the-key-to-brazils-2026-presidential-election?traffic_source=rss)
 
 ---
 
-### 8. France braces for another day of mass protests as security on high alert
+### 5. Rybakina readies for title defence at Ningbo Open in final with Fernandez
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Several planned marches in major cities in France have been banned by authorities, provoking an uproar by rights groups.
+The world number one will face Leylah Fernandez in the final after the unseeded Canadian beat Czech Marie Bouzkova.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/24/france-braces-for-another-day-of-mass-protests-as-security-on-high-alert?traffic_source=rss](https://www.aljazeera.com/news/2026/10/24/france-braces-for-another-day-of-mass-protests-as-security-on-high-alert?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/24/rybakina-readies-for-title-defence-at-ningbo-open-in-final-with-fernandez?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/24/rybakina-readies-for-title-defence-at-ningbo-open-in-final-with-fernandez?traffic_source=rss)
 
 ---
 
-### 9. Brazil’s Lula and Bolsonaro debate policy proposals before run-off
+### 6. Sudan’s soaring fuel prices make getting by harder for workers
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Polls indicate Brazil&#039;s presidential candidates are neck and neck before Sunday&#039;s voting.
+Sudan is suffering from a cost-of-living crisis affecting millions across the country.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/24/brazils-lula-and-bolsonaro-debate-policy-proposals-before-run-off?traffic_source=rss](https://www.aljazeera.com/news/2026/10/24/brazils-lula-and-bolsonaro-debate-policy-proposals-before-run-off?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/24/sudans-soaring-fuel-prices-makes-getting-by-harder-for-workers?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/24/sudans-soaring-fuel-prices-makes-getting-by-harder-for-workers?traffic_source=rss)
 
 ---
 
-### 10. Wildfire BEE HAVEN (2) (24-06), Hamilton, Florida
+### 7. Wildfire BEE HAVEN (2) (24-06), Hamilton, Florida
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Wildfires
 
 ---
 
-### 11. Hurricane Vance
+### 8. Hurricane Vance
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Severe Storms
 
 ---
 
-### 12. Tropical Cyclone Agueda
+### 9. Tropical Cyclone Agueda
 
 **Source:** NASA
 

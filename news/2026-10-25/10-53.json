@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-10-25T10:53:44+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Meghan broke contact with father in letter citing abuse claims",
+            "description": "Sources close to the duchess said she warned her father last year that he would never meet his grandchildren.",
+            "url": "https://www.bbc.co.uk/news/articles/cqzjxg7l19yxo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 25 Oct 2026 01:44:19 GMT",
+            "fetched": "2026-10-25T10:53:44+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham open to 'honest discussion' on EU free movement",
+            "description": "The PM said he wants a \"factual\" and \"evidence-based debate\" about returning to free movement between Britain and Europe.",
+            "url": "https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 25 Oct 2026 00:33:19 GMT",
+            "fetched": "2026-10-25T10:53:44+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Four ways Labour could raise money in the Budget without hiking income tax",
+            "description": "Chancellor John Healey may need to raise money to boost his fiscal headroom - BBC Verify examines what options could be on the table.",
+            "url": "https://www.bbc.co.uk/news/articles/c65yn9p55np2o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 25 Oct 2026 06:00:15 GMT",
+            "fetched": "2026-10-25T10:53:44+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Elections cannot produce change in Israel",
+            "description": "Political change cannot come from within Israeli society. It can only come from the outside.",
+            "url": "https://www.aljazeera.com/opinions/2026/10/25/elections-cannot-produce-change-in-israel?traffic_source=rss",
+            "published": "Sun, 25 Oct 2026 06:54:37 +0000",
+            "fetched": "2026-10-25T10:53:44+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Who Israel elects matters, and not just for Israelis",
+            "description": "A new government would not end the occupation, but it could rein in the far right and ease tensions across the region.",
+            "url": "https://www.aljazeera.com/opinions/2026/10/25/who-israel-elects-matters-and-not-just-for-israelis?traffic_source=rss",
+            "published": "Sun, 25 Oct 2026 06:41:41 +0000",
+            "fetched": "2026-10-25T10:53:44+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Nigeria’s missing: Families in the northeast still wait for answers",
+            "description": "People across northeastern Nigeria continue searching for loved ones who went missing during years of violence.",
+            "url": "https://www.aljazeera.com/news/2026/10/25/nigerias-missing-families-in-the-northeast-still-wait-for-answers?traffic_source=rss",
+            "published": "Sun, 25 Oct 2026 05:33:41 +0000",
+            "fetched": "2026-10-25T10:53:44+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire BEE HAVEN (2) (24-06), Hamilton, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25590",
+            "published": "2026-10-22T21:45:00Z",
+            "fetched": "2026-10-25T10:53:44+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Vance",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25589",
+            "published": "2026-10-21T18:00:00Z",
+            "fetched": "2026-10-25T10:53:44+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Agueda",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25457",
+            "published": "2026-10-20T06:00:00Z",
+            "fetched": "2026-10-25T10:53:44+03:30"
+        }
+    ]
+}

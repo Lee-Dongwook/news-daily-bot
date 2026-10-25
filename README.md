@@ -1,77 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-25 09:52:06
+**Last Update:** 2026-10-25 10:53:44
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Five Qwen3.8-27B models match Fable 5 Using GVS5H Harness
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/slee-persis/GVS5H">https://github.com/slee-persis/GVS5H</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50228167">https://news.ycombinator.com/item?id=50228167</a></p>
-<p>Points: 114</p>
-<p># Comments: 34</p>
-
-🔗 **Read more:** [https://github.com/slee-persis/GVS5H](https://github.com/slee-persis/GVS5H)
-
----
-
-### 2. Meta employees say Lula’s accounts restricted in Brazil election: Report
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report">https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50227639">https://news.ycombinator.com/item?id=50227639</a></p>
-<p>Points: 121</p>
-<p># Comments: 39</p>
-
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report](https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report)
-
----
-
-### 3. Cerebras Deploys Trillion-Parameter AI Models
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras">https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50227356">https://news.ycombinator.com/item?id=50227356</a></p>
-<p>Points: 84</p>
-<p># Comments: 28</p>
-
-🔗 **Read more:** [https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras](https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras)
-
----
-
-### 4. Storm Boelo amber warnings kick in as parts of UK brace for 80mph gusts
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Scotland, parts of northern England and Northern Ireland are forecast to be hit with the strongest winds from the country's second storm in as many days.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Meghan broke contact with father in letter citing abuse claims
+### 1. Meghan broke contact with father in letter citing abuse claims
 
 **Source:** BBC
 
@@ -84,7 +23,7 @@ Sources close to the duchess said she warned her father last year that he would 
 
 ---
 
-### 6. Burnham open to 'honest discussion' on EU free movement
+### 2. Burnham open to 'honest discussion' on EU free movement
 
 **Source:** BBC
 
@@ -97,7 +36,46 @@ The PM said he wants a "factual" and "evidence-based debate" about returning to 
 
 ---
 
-### 7. Nigeria’s missing: Families in the northeast still wait for answers
+### 3. Four ways Labour could raise money in the Budget without hiking income tax
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Chancellor John Healey may need to raise money to boost his fiscal headroom - BBC Verify examines what options could be on the table.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c65yn9p55np2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c65yn9p55np2o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 4. Elections cannot produce change in Israel
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Political change cannot come from within Israeli society. It can only come from the outside.
+
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/10/25/elections-cannot-produce-change-in-israel?traffic_source=rss](https://www.aljazeera.com/opinions/2026/10/25/elections-cannot-produce-change-in-israel?traffic_source=rss)
+
+---
+
+### 5. Who Israel elects matters, and not just for Israelis
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+A new government would not end the occupation, but it could rein in the far right and ease tensions across the region.
+
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/10/25/who-israel-elects-matters-and-not-just-for-israelis?traffic_source=rss](https://www.aljazeera.com/opinions/2026/10/25/who-israel-elects-matters-and-not-just-for-israelis?traffic_source=rss)
+
+---
+
+### 6. Nigeria’s missing: Families in the northeast still wait for answers
 
 **Source:** Al Jazeera
 
@@ -110,33 +88,7 @@ People across northeastern Nigeria continue searching for loved ones who went mi
 
 ---
 
-### 8. Election posters, mass tourism and property: Israel’s footprint in Cyprus
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Cypriots say Israeli money is moving fast and shutting them out as their government embraces Israel as a key ally.
-
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/10/25/election-posters-mass-tourism-and-property-israels-footprint-in-cyprus?traffic_source=rss](https://www.aljazeera.com/features/2026/10/25/election-posters-mass-tourism-and-property-israels-footprint-in-cyprus?traffic_source=rss)
-
----
-
-### 9. Bots, deepfakes and surveillance: Israel’s election goes to war online
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Netanyahu and his rivals are tied days from the vote, and both camps are fighting with bots, deepfakes and data.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/25/bots-deepfakes-and-surveillance-israels-election-goes-to-war-online?traffic_source=rss](https://www.aljazeera.com/news/2026/10/25/bots-deepfakes-and-surveillance-israels-election-goes-to-war-online?traffic_source=rss)
-
----
-
-### 10. Wildfire BEE HAVEN (2) (24-06), Hamilton, Florida
+### 7. Wildfire BEE HAVEN (2) (24-06), Hamilton, Florida
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Wildfires
 
 ---
 
-### 11. Hurricane Vance
+### 8. Hurricane Vance
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Severe Storms
 
 ---
 
-### 12. Tropical Cyclone Agueda
+### 9. Tropical Cyclone Agueda
 
 **Source:** NASA
 

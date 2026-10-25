@@ -1,60 +1,61 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-25 04:30:55
+**Last Update:** 2026-10-25 04:52:38
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Why Gopher in 2026?
+### 1. Tailworm – Tailscale Vulnerabilities
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt">https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50226577">https://news.ycombinator.com/item?id=50226577</a></p>
-<p>Points: 13</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://tailworm.com/">https://tailworm.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50227138">https://news.ycombinator.com/item?id=50227138</a></p>
+<p>Points: 7</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt](https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt)
+🔗 **Read more:** [https://tailworm.com/](https://tailworm.com/)
 
 ---
 
-### 2. Google has officially turned these Nest thermostats back into dumb thermostats
+### 2. Ask HN: Why a Great Product Won't Succeed Without a Community
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.makeuseof.com/google-nest-thermostats-unsupported/">https://www.makeuseof.com/google-nest-thermostats-unsupported/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50226434">https://news.ycombinator.com/item?id=50226434</a></p>
-<p>Points: 29</p>
-<p># Comments: 19</p>
+<p>I'm really tired, fed up, and angry. You can create the best product in the world, but people always choose what their favorite influencers tell them to.  People don’t make their own decisions anymore; they always think whatever they’re told to think. It’s really frustrating to try to create something good—something better than what others are doing. And I’ve realized one thing: to achieve success, it’s better to have a community that follows you than to have a great product. If you want to launch a good product, you’re better off building a community first—it’ll make everything easier and faster. I don’t care what you think of this post—I just want to say what I feel.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50227131">https://news.ycombinator.com/item?id=50227131</a></p>
+<p>Points: 3</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://www.makeuseof.com/google-nest-thermostats-unsupported/](https://www.makeuseof.com/google-nest-thermostats-unsupported/)
+🔗 **Read more:** [https://news.ycombinator.com/item?id=50227131](https://news.ycombinator.com/item?id=50227131)
 
 ---
 
-### 3. America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?
+### 3. FindMyWeb: Apple Find My, reverse enginiered
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class">https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50226419">https://news.ycombinator.com/item?id=50226419</a></p>
-<p>Points: 93</p>
-<p># Comments: 57</p>
+<p>Article URL: <a href="https://codeberg.org/Misom/FindMyWeb">https://codeberg.org/Misom/FindMyWeb</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50226646">https://news.ycombinator.com/item?id=50226646</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class](https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class)
+🔗 **Read more:** [https://codeberg.org/Misom/FindMyWeb](https://codeberg.org/Misom/FindMyWeb)
 
 ---
 

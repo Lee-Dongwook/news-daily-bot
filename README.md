@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-25 15:20:32
+**Last Update:** 2026-10-25 16:32:19
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/ihhub/fheroes2">https://github.com/ihhub/fheroes2</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50230384">https://news.ycombinator.com/item?id=50230384</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Points: 44</p>
+<p># Comments: 13</p>
 
 🔗 **Read more:** [https://github.com/ihhub/fheroes2](https://github.com/ihhub/fheroes2)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://twitter.com/mike64_t/status/2114150399406202896">https://twitter.com/mike64_t/status/2114150399406202896</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50230181">https://news.ycombinator.com/item?id=50230181</a></p>
-<p>Points: 34</p>
-<p># Comments: 16</p>
+<p>Points: 90</p>
+<p># Comments: 41</p>
 
 🔗 **Read more:** [https://twitter.com/mike64_t/status/2114150399406202896](https://twitter.com/mike64_t/status/2114150399406202896)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.blast-info.fr/articles/2026/information-exclusive-blast-le-premier-ministre-a-prepare-la-coupure-des-reseaux-sociaux-pour-le-24-octobre-9D8cgrU5S5iiW14Sb9nMzQ">https://www.blast-info.fr/articles/2026/information-exclusive-blast-le-premier-ministre-a-prepare-la-coupure-des-reseaux-sociaux-pour-le-24-octobre-9D8cgrU5S5iiW14Sb9nMzQ</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50229861">https://news.ycombinator.com/item?id=50229861</a></p>
-<p>Points: 79</p>
-<p># Comments: 59</p>
+<p>Points: 103</p>
+<p># Comments: 90</p>
 
 🔗 **Read more:** [https://www.blast-info.fr/articles/2026/information-exclusive-blast-le-premier-ministre-a-prepare-la-coupure-des-reseaux-sociaux-pour-le-24-octobre-9D8cgrU5S5iiW14Sb9nMzQ](https://www.blast-info.fr/articles/2026/information-exclusive-blast-le-premier-ministre-a-prepare-la-coupure-des-reseaux-sociaux-pour-le-24-octobre-9D8cgrU5S5iiW14Sb9nMzQ)
 
@@ -97,42 +97,42 @@ The PM says he wants a "factual" and "evidence-based debate" about returning to 
 
 ---
 
-### 7. Iran’s authorities take ‘self-sacrifice’ mobilisation campaign nationwide
+### 7. Algerian parliament’s upper house approves troop deployment to Niger
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The IRGC says it wants to use main squares in every capital of Iran’s 31 provinces for the Janfada campaign.
+Vote to send forces comes after a recent defence pact between the two neighbouring countries.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/25/irans-authorities-take-self-sacrifice-mobilisation-campaign-nationwide?traffic_source=rss](https://www.aljazeera.com/news/2026/10/25/irans-authorities-take-self-sacrifice-mobilisation-campaign-nationwide?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/25/algerian-parliaments-upper-house-approves-troop-deployment-to-niger?traffic_source=rss](https://www.aljazeera.com/news/2026/10/25/algerian-parliaments-upper-house-approves-troop-deployment-to-niger?traffic_source=rss)
 
 ---
 
-### 8. Police in Albania filmed beating protester unconscious
+### 8. Why Israel’s latest assault on Hebron is so significant for the West Bank
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Police in Albania’s capital, Tirana, were filmed beating a protester lying on the ground.
+Mass expulsions, blockades and expanding settler control in Hebron threaten to devastate the West Bank economy.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/25/police-in-albania-filmed-beating-protester-unconscious?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/25/police-in-albania-filmed-beating-protester-unconscious?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/25/why-israels-latest-assault-on-hebron-is-so-significant-for-the-west-bank?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/25/why-israels-latest-assault-on-hebron-is-so-significant-for-the-west-bank?traffic_source=rss)
 
 ---
 
-### 9. Saudi Arabia intercepts missiles and drones as fighting with Houthis rages
+### 9. Oil slick from tanker in Hormuz Strait washes up on UAE beaches
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Saudi-led coalition says intercepted drone, missile launched towards Riyadh and 10 missiles targeting southern region.
+An oil slick has been filmed washing up on the UAE shoreline, prompting authorities to close beaches in Umm Al Quwain.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/25/saudi-arabia-intercepts-missiles-and-drones-as-fighting-with-houthis-rages?traffic_source=rss](https://www.aljazeera.com/news/2026/10/25/saudi-arabia-intercepts-missiles-and-drones-as-fighting-with-houthis-rages?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/25/oil-slick-from-tanker-in-hormuz-strait-washes-up-on-uae-beaches?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/25/oil-slick-from-tanker-in-hormuz-strait-washes-up-on-uae-beaches?traffic_source=rss)
 
 ---
 

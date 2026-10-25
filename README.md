@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-25 20:07:16
+**Last Update:** 2026-10-25 20:59:09
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: I put employees inside S&P 500 market-cap bubbles
+### 1. Sabre Wulf Remastered
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://bigwhalehunting.com/workforce/">https://bigwhalehunting.com/workforce/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50232312">https://news.ycombinator.com/item?id=50232312</a></p>
-<p>Points: 71</p>
-<p># Comments: 19</p>
+<p>Article URL: <a href="https://gp-64.com/swr/">https://gp-64.com/swr/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50233775">https://news.ycombinator.com/item?id=50233775</a></p>
+<p>Points: 7</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://bigwhalehunting.com/workforce/](https://bigwhalehunting.com/workforce/)
+🔗 **Read more:** [https://gp-64.com/swr/](https://gp-64.com/swr/)
 
 ---
 
-### 2. A few thoughts on intensity
+### 2. A Mathematician Reads the AI Future
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.tylerhogge.com/blog/a-few-thoughts-on-intensity/">https://www.tylerhogge.com/blog/a-few-thoughts-on-intensity/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50232035">https://news.ycombinator.com/item?id=50232035</a></p>
-<p>Points: 26</p>
-<p># Comments: 14</p>
+<p>Article URL: <a href="https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/">https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50233347">https://news.ycombinator.com/item?id=50233347</a></p>
+<p>Points: 20</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://www.tylerhogge.com/blog/a-few-thoughts-on-intensity/](https://www.tylerhogge.com/blog/a-few-thoughts-on-intensity/)
+🔗 **Read more:** [https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/](https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/)
 
 ---
 
-### 3. Show HN: Farol – a risk map of a pull request for the person who approves it
+### 3. Anthropic Wanted to Replace Engineers. Instead, They Shot Their Own Customers
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/winnin/farol">https://github.com/winnin/farol</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50231349">https://news.ycombinator.com/item?id=50231349</a></p>
-<p>Points: 46</p>
-<p># Comments: 26</p>
+<p>Article URL: <a href="https://techbronerd.substack.com/p/openai-and-anthropic-wanted-to-replace">https://techbronerd.substack.com/p/openai-and-anthropic-wanted-to-replace</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50232682">https://news.ycombinator.com/item?id=50232682</a></p>
+<p>Points: 43</p>
+<p># Comments: 21</p>
 
-🔗 **Read more:** [https://github.com/winnin/farol](https://github.com/winnin/farol)
+🔗 **Read more:** [https://techbronerd.substack.com/p/openai-and-anthropic-wanted-to-replace](https://techbronerd.substack.com/p/openai-and-anthropic-wanted-to-replace)
 
 ---
 
@@ -97,7 +97,33 @@ Machado had left the country just a month before the US government seized Venezu
 
 ---
 
-### 7. Israel’s ‘Generation Right’ could shape Netanyahu’s future
+### 7. Jerusalem Daily: Israel expels thousands from Hebron
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Jerusalem Daily: Israel expels thousands from Hebron
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/25/jerusalem-daily-israel-expels-thousands-from-hebron?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/25/jerusalem-daily-israel-expels-thousands-from-hebron?traffic_source=rss)
+
+---
+
+### 8. Trump’s tariff pause angers some US ranchers, boosts Brazilian beef imports
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Just as American cattle went to market, Trump&#039;s action added unease to an industry already facing uncertainty.
+
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/25/trumps-tariff-pause-angers-some-us-ranchers-boosts-brazil-beef-imports?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/25/trumps-tariff-pause-angers-some-us-ranchers-boosts-brazil-beef-imports?traffic_source=rss)
+
+---
+
+### 9. Israel’s ‘Generation Right’ could shape Netanyahu’s future
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Machado had left the country just a month before the US government seized Venezu
 The global trend may show young people leaning politically to the left, but in Israel… they’re leaning to the right.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/25/israels-generation-right-could-shape-netanyahus-future?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/25/israels-generation-right-could-shape-netanyahus-future?traffic_source=rss)
-
----
-
-### 8. Barcelona vs Real Madrid LIVE: La Liga El Clasico
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Follow updates from El Clasico at Camp Nou, including the build-up, analysis and live text commentary of the game.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/liveblog/2026/10/25/barcelona-vs-real-madrid-live-la-liga-el-clasico?traffic_source=rss](https://www.aljazeera.com/sports/liveblog/2026/10/25/barcelona-vs-real-madrid-live-la-liga-el-clasico?traffic_source=rss)
-
----
-
-### 9. Jordanians mourn victims of deadly church attack
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Jordanians mourn victims of deadly church attack
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/25/jordanians-mourn-victims-of-deadly-church-attack?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/25/jordanians-mourn-victims-of-deadly-church-attack?traffic_source=rss)
 
 ---
 

@@ -1,29 +1,42 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-26 00:04:12
+**Last Update:** 2026-10-26 02:10:45
 
 **Total News:** 9
 
-**Sources:** NASA, Al Jazeera, BBC
+**Sources:** BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Man killed by falling tree as Storm Boelo leaves 160,000 properties without power
+### 1. Two men killed by falling trees as Storm Boelo leaves 160,000 properties without power
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-An amber wind warning will remain until Sunday evening as severe weather continues to batter the UK.
+An amber wind warning has now expired after severe weather sweeps across the UK.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 2. Burnham open to 'honest discussion' on EU free movement
+### 2. Serbia's veteran ruler Vučić concedes election to student-led protest movement
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The populist right-wing leader of 12 years says it is "clear" his party has lost the vote billed as a referendum on the country's future.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 3. Burnham open to 'honest discussion' on EU free movement
 
 **Source:** BBC
 
@@ -36,55 +49,42 @@ The PM says he wants a "factual" and "evidence-based debate" about returning to 
 
 ---
 
-### 3. Letter making claims about Meghan's father written by his first wife, BBC understands
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Roslyn Loveless, who has since died, divorced Meghan's father in 1975. Meghan said she had been informed about the "disturbing allegations" in 2018.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c60qk44w9wglo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c60qk44w9wglo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 4. Can Carrick survive Man United’s slump and Fernandes fallout?
+### 4. Marine Le Pen vows French ‘renaissance’ as far right eyes seat of power
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Manchester United cheer Michael Carrick off after Bournemouth loss but boo Bruno Fernandes, what now for crisis club?
+National Rally&#039;s Le Pen launches presidential campaign against backdrop of protests and social, economic discontent.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/25/can-carrick-survive-man-united-slump-and-fernandes-fallout?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/25/can-carrick-survive-man-united-slump-and-fernandes-fallout?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/25/marine-le-pen-vows-a-french-renaissance-as-far-right-eyes-seat-of-power?traffic_source=rss](https://www.aljazeera.com/news/2026/10/25/marine-le-pen-vows-a-french-renaissance-as-far-right-eyes-seat-of-power?traffic_source=rss)
 
 ---
 
-### 5. Brazil election results 2026 live: Top court extends voting for two hours
+### 5. US Attorney General Todd Blanche defends Alaska Senate election lawsuit
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Brazilian President Luiz Inacio Lula da Silva and Senator Flavio Bolsonaro square off in a closely watched election.
+The Department of Justice has faced criticism that its lawsuit is aimed at blocking a Democratic victory in a key race.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/10/25/brazil-election-results-2026-live-polls-close-in-lula-bolsonaro-face-off?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/10/25/brazil-election-results-2026-live-polls-close-in-lula-bolsonaro-face-off?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/25/us-attorney-general-todd-blanche-defends-alaska-senate-election-lawsuit?traffic_source=rss](https://www.aljazeera.com/news/2026/10/25/us-attorney-general-todd-blanche-defends-alaska-senate-election-lawsuit?traffic_source=rss)
 
 ---
 
-### 6. The narrative battle over France’s unrest
+### 6. Marine Le Pen launches French presidential campaign
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Student protests, police violence and French media obsessed with &#039;barbarians&#039;.
+Marine Le Pen launches French presidential campaign
 
-🔗 **Read more:** [https://www.aljazeera.com/video/the-listening-post/2026/10/25/the-narrative-battle-over-frances-unrest?traffic_source=rss](https://www.aljazeera.com/video/the-listening-post/2026/10/25/the-narrative-battle-over-frances-unrest?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/25/marine-le-pen-launches-french-presidential-campaign?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/25/marine-le-pen-launches-french-presidential-campaign?traffic_source=rss)
 
 ---
 

@@ -1,90 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-25 16:32:19
+**Last Update:** 2026-10-25 20:07:16
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. fheroes2: A recreation of Heroes of Might and Magic II game engine
+### 1. Show HN: I put employees inside S&P 500 market-cap bubbles
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/ihhub/fheroes2">https://github.com/ihhub/fheroes2</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50230384">https://news.ycombinator.com/item?id=50230384</a></p>
-<p>Points: 44</p>
-<p># Comments: 13</p>
+<p>Article URL: <a href="https://bigwhalehunting.com/workforce/">https://bigwhalehunting.com/workforce/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50232312">https://news.ycombinator.com/item?id=50232312</a></p>
+<p>Points: 71</p>
+<p># Comments: 19</p>
 
-🔗 **Read more:** [https://github.com/ihhub/fheroes2](https://github.com/ihhub/fheroes2)
+🔗 **Read more:** [https://bigwhalehunting.com/workforce/](https://bigwhalehunting.com/workforce/)
 
 ---
 
-### 2. Samsung running a TensorFlow lite model on 960x540 image to track you
+### 2. A few thoughts on intensity
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://twitter.com/mike64_t/status/2114150399406202896">https://twitter.com/mike64_t/status/2114150399406202896</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50230181">https://news.ycombinator.com/item?id=50230181</a></p>
-<p>Points: 90</p>
-<p># Comments: 41</p>
+<p>Article URL: <a href="https://www.tylerhogge.com/blog/a-few-thoughts-on-intensity/">https://www.tylerhogge.com/blog/a-few-thoughts-on-intensity/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50232035">https://news.ycombinator.com/item?id=50232035</a></p>
+<p>Points: 26</p>
+<p># Comments: 14</p>
 
-🔗 **Read more:** [https://twitter.com/mike64_t/status/2114150399406202896](https://twitter.com/mike64_t/status/2114150399406202896)
+🔗 **Read more:** [https://www.tylerhogge.com/blog/a-few-thoughts-on-intensity/](https://www.tylerhogge.com/blog/a-few-thoughts-on-intensity/)
 
 ---
 
-### 3. France asked ISPs to prepare temporary DNS blocks for major social platforms
+### 3. Show HN: Farol – a risk map of a pull request for the person who approves it
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.blast-info.fr/articles/2026/information-exclusive-blast-le-premier-ministre-a-prepare-la-coupure-des-reseaux-sociaux-pour-le-24-octobre-9D8cgrU5S5iiW14Sb9nMzQ">https://www.blast-info.fr/articles/2026/information-exclusive-blast-le-premier-ministre-a-prepare-la-coupure-des-reseaux-sociaux-pour-le-24-octobre-9D8cgrU5S5iiW14Sb9nMzQ</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50229861">https://news.ycombinator.com/item?id=50229861</a></p>
-<p>Points: 103</p>
-<p># Comments: 90</p>
+<p>Article URL: <a href="https://github.com/winnin/farol">https://github.com/winnin/farol</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50231349">https://news.ycombinator.com/item?id=50231349</a></p>
+<p>Points: 46</p>
+<p># Comments: 26</p>
 
-🔗 **Read more:** [https://www.blast-info.fr/articles/2026/information-exclusive-blast-le-premier-ministre-a-prepare-la-coupure-des-reseaux-sociaux-pour-le-24-octobre-9D8cgrU5S5iiW14Sb9nMzQ](https://www.blast-info.fr/articles/2026/information-exclusive-blast-le-premier-ministre-a-prepare-la-coupure-des-reseaux-sociaux-pour-le-24-octobre-9D8cgrU5S5iiW14Sb9nMzQ)
-
----
-
-### 4. Meghan broke contact with father in letter citing abuse claims
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Sources close to the duchess said she warned her father last year that he would never meet his grandchildren.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqzjxg7l19yxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqzjxg7l19yxo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://github.com/winnin/farol](https://github.com/winnin/farol)
 
 ---
 
-### 5. Musk says SpaceX restricted Ukraine's Starlink connection as service restored
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Burnham open to 'honest discussion' on EU free movement
+### 4. Burnham open to 'honest discussion' on EU free movement
 
 **Source:** BBC
 
@@ -97,42 +71,68 @@ The PM says he wants a "factual" and "evidence-based debate" about returning to 
 
 ---
 
-### 7. Algerian parliament’s upper house approves troop deployment to Niger
+### 5. Couple were celebrating anniversary before Bahamas tragedy
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-Vote to send forces comes after a recent defence pact between the two neighbouring countries.
+Leanne Gregory, from Stapleford in Nottinghamshire, died trying to save her sons swept out to sea.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/25/algerian-parliaments-upper-house-approves-troop-deployment-to-niger?traffic_source=rss](https://www.aljazeera.com/news/2026/10/25/algerian-parliaments-upper-house-approves-troop-deployment-to-niger?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c623drpx31xzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c623drpx31xzo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. Why Israel’s latest assault on Hebron is so significant for the West Bank
+### 6. Venezuelan opposition leader María Machado returns after months in exile
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-Mass expulsions, blockades and expanding settler control in Hebron threaten to devastate the West Bank economy.
+Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/25/why-israels-latest-assault-on-hebron-is-so-significant-for-the-west-bank?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/25/why-israels-latest-assault-on-hebron-is-so-significant-for-the-west-bank?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 9. Oil slick from tanker in Hormuz Strait washes up on UAE beaches
+### 7. Israel’s ‘Generation Right’ could shape Netanyahu’s future
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-An oil slick has been filmed washing up on the UAE shoreline, prompting authorities to close beaches in Umm Al Quwain.
+The global trend may show young people leaning politically to the left, but in Israel… they’re leaning to the right.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/25/oil-slick-from-tanker-in-hormuz-strait-washes-up-on-uae-beaches?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/25/oil-slick-from-tanker-in-hormuz-strait-washes-up-on-uae-beaches?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/25/israels-generation-right-could-shape-netanyahus-future?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/25/israels-generation-right-could-shape-netanyahus-future?traffic_source=rss)
+
+---
+
+### 8. Barcelona vs Real Madrid LIVE: La Liga El Clasico
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Follow updates from El Clasico at Camp Nou, including the build-up, analysis and live text commentary of the game.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/liveblog/2026/10/25/barcelona-vs-real-madrid-live-la-liga-el-clasico?traffic_source=rss](https://www.aljazeera.com/sports/liveblog/2026/10/25/barcelona-vs-real-madrid-live-la-liga-el-clasico?traffic_source=rss)
+
+---
+
+### 9. Jordanians mourn victims of deadly church attack
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Jordanians mourn victims of deadly church attack
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/25/jordanians-mourn-victims-of-deadly-church-attack?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/25/jordanians-mourn-victims-of-deadly-church-attack?traffic_source=rss)
 
 ---
 

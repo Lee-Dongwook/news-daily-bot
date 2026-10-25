@@ -1,64 +1,78 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-25 20:59:09
+**Last Update:** 2026-10-25 23:18:03
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Sabre Wulf Remastered
+### 1. Dolly Parton's Imagination Library
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://gp-64.com/swr/">https://gp-64.com/swr/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50233775">https://news.ycombinator.com/item?id=50233775</a></p>
-<p>Points: 7</p>
-<p># Comments: 0</p>
+<p>With today's news, I thought I'd share this great program:<p>“When I was growing up in the hills of East Tennessee, I knew my dreams would come true. I know there are children in your community with their own dreams. They dream of becoming a doctor or an inventor or a minister. Who knows, maybe there is a little girl whose dream is to be a writer and singer.<p>The seeds of these dreams are often found in books and the seeds you help plant in your community can grow across the world.”</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50234474">https://news.ycombinator.com/item?id=50234474</a></p>
+<p>Points: 116</p>
+<p># Comments: 22</p>
 
-🔗 **Read more:** [https://gp-64.com/swr/](https://gp-64.com/swr/)
+🔗 **Read more:** [https://imaginationlibrary.com/](https://imaginationlibrary.com/)
 
 ---
 
-### 2. A Mathematician Reads the AI Future
+### 2. All you need is Wide Events, not "Metrics, Logs and Traces"
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/">https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50233347">https://news.ycombinator.com/item?id=50233347</a></p>
-<p>Points: 20</p>
-<p># Comments: 5</p>
+<p>Article URL: <a href="https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics">https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50234329">https://news.ycombinator.com/item?id=50234329</a></p>
+<p>Points: 22</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/](https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/)
+🔗 **Read more:** [https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics](https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics)
 
 ---
 
-### 3. Anthropic Wanted to Replace Engineers. Instead, They Shot Their Own Customers
+### 3. Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://techbronerd.substack.com/p/openai-and-anthropic-wanted-to-replace">https://techbronerd.substack.com/p/openai-and-anthropic-wanted-to-replace</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50232682">https://news.ycombinator.com/item?id=50232682</a></p>
-<p>Points: 43</p>
-<p># Comments: 21</p>
+<p>Article URL: <a href="https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/">https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50234232">https://news.ycombinator.com/item?id=50234232</a></p>
+<p>Points: 146</p>
+<p># Comments: 29</p>
 
-🔗 **Read more:** [https://techbronerd.substack.com/p/openai-and-anthropic-wanted-to-replace](https://techbronerd.substack.com/p/openai-and-anthropic-wanted-to-replace)
+🔗 **Read more:** [https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/](https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/)
 
 ---
 
-### 4. Burnham open to 'honest discussion' on EU free movement
+### 4. Man killed by falling tree as Storm Boelo leaves 160,000 properties without power
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+An amber wind warning will remain until Sunday evening as severe weather continues to batter the UK.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Burnham open to 'honest discussion' on EU free movement
 
 **Source:** BBC
 
@@ -71,68 +85,55 @@ The PM says he wants a "factual" and "evidence-based debate" about returning to 
 
 ---
 
-### 5. Couple were celebrating anniversary before Bahamas tragedy
+### 6. Letter making claims about Meghan's father written by his first wife, BBC understands
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Leanne Gregory, from Stapleford in Nottinghamshire, died trying to save her sons swept out to sea.
+Roslyn Loveless, who has since died, divorced Meghan's father in 1975. Meghan said she had been informed about the "disturbing allegations" in 2018.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c623drpx31xzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c623drpx31xzo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Venezuelan opposition leader María Machado returns after months in exile
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c60qk44w9wglo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c60qk44w9wglo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Jerusalem Daily: Israel expels thousands from Hebron
+### 7. Serbia voter turnout highest in decades as students oppose longtime leader
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Jerusalem Daily: Israel expels thousands from Hebron
+Election commission says turnout reaches 65% amid allegations of intimidation, violence and voting irregularities.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/25/jerusalem-daily-israel-expels-thousands-from-hebron?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/25/jerusalem-daily-israel-expels-thousands-from-hebron?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/25/serbia-voter-turnout-highest-in-decades-as-students-oppose-longtime-leader?traffic_source=rss](https://www.aljazeera.com/news/2026/10/25/serbia-voter-turnout-highest-in-decades-as-students-oppose-longtime-leader?traffic_source=rss)
 
 ---
 
-### 8. Trump’s tariff pause angers some US ranchers, boosts Brazilian beef imports
+### 8. Venezuela’s opposition leader Maria Corina Machado returns from exile
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Just as American cattle went to market, Trump&#039;s action added unease to an industry already facing uncertainty.
+The Nobel laureate&#039;s homecoming follows national protests demanding free elections.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/25/trumps-tariff-pause-angers-some-us-ranchers-boosts-brazil-beef-imports?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/25/trumps-tariff-pause-angers-some-us-ranchers-boosts-brazil-beef-imports?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/25/venezuelas-opposition-leader-maria-corina-machado-returns-from-exile?traffic_source=rss](https://www.aljazeera.com/news/2026/10/25/venezuelas-opposition-leader-maria-corina-machado-returns-from-exile?traffic_source=rss)
 
 ---
 
-### 9. Israel’s ‘Generation Right’ could shape Netanyahu’s future
+### 9. When is the 2026 Ballon d’Or, who are the favourites, and how can you watch it?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The global trend may show young people leaning politically to the left, but in Israel… they’re leaning to the right.
+Al Jazeera Sport breaks down the award-voting criteria, top candidates and history ahead of the ceremony in London.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/25/israels-generation-right-could-shape-netanyahus-future?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/25/israels-generation-right-could-shape-netanyahus-future?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/25/when-is-the-2026-ballon-dor-who-are-the-favourites-and-how-can-you-watch-it?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/25/when-is-the-2026-ballon-dor-who-are-the-favourites-and-how-can-you-watch-it?traffic_source=rss)
 
 ---
 

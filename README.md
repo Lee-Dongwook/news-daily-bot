@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-25 02:57:10
+**Last Update:** 2026-10-25 04:30:55
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Free Software Is a Failure
+### 1. Why Gopher in 2026?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="http://www.paritybit.ca/blog/free-software-is-an-abject-failure/">http://www.paritybit.ca/blog/free-software-is-an-abject-failure/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50226261">https://news.ycombinator.com/item?id=50226261</a></p>
-<p>Points: 7</p>
-<p># Comments: 6</p>
-
-🔗 **Read more:** [http://www.paritybit.ca/blog/free-software-is-an-abject-failure/](http://www.paritybit.ca/blog/free-software-is-an-abject-failure/)
-
----
-
-### 2. Argus – a free, open-source agentic security operations platform – MIT
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://thomasunise.com/argus">https://thomasunise.com/argus</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50225748">https://news.ycombinator.com/item?id=50225748</a></p>
-<p>Points: 19</p>
+<p>Article URL: <a href="https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt">https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50226577">https://news.ycombinator.com/item?id=50226577</a></p>
+<p>Points: 13</p>
 <p># Comments: 4</p>
 
-🔗 **Read more:** [https://thomasunise.com/argus](https://thomasunise.com/argus)
+🔗 **Read more:** [https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt](https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt)
 
 ---
 
-### 3. We should be more ambitious with the software we build
+### 2. Google has officially turned these Nest thermostats back into dumb thermostats
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://danluu.com/ambitious/">https://danluu.com/ambitious/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50225695">https://news.ycombinator.com/item?id=50225695</a></p>
-<p>Points: 35</p>
-<p># Comments: 23</p>
+<p>Article URL: <a href="https://www.makeuseof.com/google-nest-thermostats-unsupported/">https://www.makeuseof.com/google-nest-thermostats-unsupported/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50226434">https://news.ycombinator.com/item?id=50226434</a></p>
+<p>Points: 29</p>
+<p># Comments: 19</p>
 
-🔗 **Read more:** [https://danluu.com/ambitious/](https://danluu.com/ambitious/)
+🔗 **Read more:** [https://www.makeuseof.com/google-nest-thermostats-unsupported/](https://www.makeuseof.com/google-nest-thermostats-unsupported/)
+
+---
+
+### 3. America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class">https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50226419">https://news.ycombinator.com/item?id=50226419</a></p>
+<p>Points: 93</p>
+<p># Comments: 57</p>
+
+🔗 **Read more:** [https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class](https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class)
 
 ---
 
@@ -97,42 +97,42 @@ Scotland, parts of northern England and Northern Ireland are forecast to be hit 
 
 ---
 
-### 7. Gunmen kill at least 10 people in eastern Nigeria, police say
+### 7. Obama slams Trump’s ‘cruelty and corruption’ at Ohio rally for Democrats
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Nigerian police say a large group carried out the attack on Binnari village in Taraba State.
+Former US president says Trump &#039;chose to make a series of bad decisions&#039;, highlighting the US-Israel war on Iran.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/24/gunmen-kill-at-least-10-people-in-eastern-nigeria-police-say?traffic_source=rss](https://www.aljazeera.com/news/2026/10/24/gunmen-kill-at-least-10-people-in-eastern-nigeria-police-say?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/25/obama-slams-trumps-cruelty-and-corruption-at-ohio-rally-for-democrats?traffic_source=rss](https://www.aljazeera.com/news/2026/10/25/obama-slams-trumps-cruelty-and-corruption-at-ohio-rally-for-democrats?traffic_source=rss)
 
 ---
 
-### 8. How have Democrats’ policies shifted since the last major US election?
+### 8. Violence breaks out across Europe after another day of protests
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-From trans rights to Israel&#039;s war on Gaza, the party&#039;s candidates have responded to voter shifts on a slew of issues.
+Police clashed with demonstrators in France, Italy and Spain over rising living costs and cuts to public services.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/24/how-have-democrats-policies-shifted-since-the-last-major-us-election?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/24/how-have-democrats-policies-shifted-since-the-last-major-us-election?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/25/10-25-sv-europe-protests-wrap?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/25/10-25-sv-europe-protests-wrap?traffic_source=rss)
 
 ---
 
-### 9. Brazil’s Lula, Bolsonaro draw thousands to election-eve rallies
+### 9. Iran war live: Trump hints at possible Sunday Iran attack or deal reached
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The pivotal run-off will determine whether Brazilians stick with their left-wing leader or shift towards the right.
+Trump says US is considering a possible attack on Iran as soon as Sunday, or it could reach a major deal with Tehran.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/24/brazils-lula-bolsonaro-draw-thousands-to-election-eve-rallies?traffic_source=rss](https://www.aljazeera.com/news/2026/10/24/brazils-lula-bolsonaro-draw-thousands-to-election-eve-rallies?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached?traffic_source=rss)
 
 ---
 

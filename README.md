@@ -1,16 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-26 02:10:45
+**Last Update:** 2026-10-26 02:34:40
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Two men killed by falling trees as Storm Boelo leaves 160,000 properties without power
+### 1. Apollo says AI has delivered 'zero financial payoff' outside the tech industry
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10">https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50236828">https://news.ycombinator.com/item?id=50236828</a></p>
+<p>Points: 6</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10](https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10)
+
+---
+
+### 2. OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://minimaxir.com/2026/10/cheap-llms/">https://minimaxir.com/2026/10/cheap-llms/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50236102">https://news.ycombinator.com/item?id=50236102</a></p>
+<p>Points: 45</p>
+<p># Comments: 60</p>
+
+🔗 **Read more:** [https://minimaxir.com/2026/10/cheap-llms/](https://minimaxir.com/2026/10/cheap-llms/)
+
+---
+
+### 3. Serbia's Vucic concedes election defeat in historic win for student movement
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/">https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50236081">https://news.ycombinator.com/item?id=50236081</a></p>
+<p>Points: 137</p>
+<p># Comments: 50</p>
+
+🔗 **Read more:** [https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/](https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/)
+
+---
+
+### 4. Two men killed by falling trees as Storm Boelo leaves 160,000 properties without power
 
 **Source:** BBC
 
@@ -23,7 +71,7 @@ An amber wind warning has now expired after severe weather sweeps across the UK.
 
 ---
 
-### 2. Serbia's veteran ruler Vučić concedes election to student-led protest movement
+### 5. Serbia's veteran ruler Vučić concedes election to student-led protest movement
 
 **Source:** BBC
 
@@ -36,20 +84,33 @@ The populist right-wing leader of 12 years says it is "clear" his party has lost
 
 ---
 
-### 3. Burnham open to 'honest discussion' on EU free movement
+### 6. Funding set to double for plan to get rough sleepers off streets by Christmas
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The PM says he wants a "factual" and "evidence-based debate" about returning to free movement between Britain and Europe.
+Burnham made ending rough sleeping his first pledge when entering Downing Street in July.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3n04yxn2yqro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3n04yxn2yqro?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. Marine Le Pen vows French ‘renaissance’ as far right eyes seat of power
+### 7. Real Madrid beat Barcelona 2-1 at Camp Nou to halve gap to La Liga leaders
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+French superstar Kylian Mbappe scores brace for Madrid to inflict Barcelona&#039;s first domestic defeat of the campaign.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/25/real-madrid-beat-barcelona-2-1-at-camp-nou-to-halve-gap-to-la-liga-leaders?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/25/real-madrid-beat-barcelona-2-1-at-camp-nou-to-halve-gap-to-la-liga-leaders?traffic_source=rss)
+
+---
+
+### 8. Marine Le Pen vows French ‘renaissance’ as far right eyes seat of power
 
 **Source:** Al Jazeera
 
@@ -62,7 +123,7 @@ National Rally&#039;s Le Pen launches presidential campaign against backdrop of 
 
 ---
 
-### 5. US Attorney General Todd Blanche defends Alaska Senate election lawsuit
+### 9. US Attorney General Todd Blanche defends Alaska Senate election lawsuit
 
 **Source:** Al Jazeera
 
@@ -75,20 +136,7 @@ The Department of Justice has faced criticism that its lawsuit is aimed at block
 
 ---
 
-### 6. Marine Le Pen launches French presidential campaign
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Marine Le Pen launches French presidential campaign
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/25/marine-le-pen-launches-french-presidential-campaign?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/25/marine-le-pen-launches-french-presidential-campaign?traffic_source=rss)
-
----
-
-### 7. Wildfire BEE HAVEN (2) (24-06), Hamilton, Florida
+### 10. Wildfire BEE HAVEN (2) (24-06), Hamilton, Florida
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Wildfires
 
 ---
 
-### 8. Hurricane Vance
+### 11. Hurricane Vance
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Severe Storms
 
 ---
 
-### 9. Tropical Cyclone Agueda
+### 12. Tropical Cyclone Agueda
 
 **Source:** NASA
 

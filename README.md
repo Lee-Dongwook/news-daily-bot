@@ -1,64 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-26 04:54:22
+**Last Update:** 2026-10-26 07:24:33
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Lula wins election after final votes tallied
+### 1. Show HN: TitleArt – Make text like it's 1997
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/">https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50237485">https://news.ycombinator.com/item?id=50237485</a></p>
-<p>Points: 97</p>
-<p># Comments: 37</p>
+<p>Article URL: <a href="https://titleart.dvy.io/">https://titleart.dvy.io/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50238708">https://news.ycombinator.com/item?id=50238708</a></p>
+<p>Points: 8</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/](https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/)
+🔗 **Read more:** [https://titleart.dvy.io/](https://titleart.dvy.io/)
 
 ---
 
-### 2. Attention Is Not What You Need
+### 2. Brazil elections: Lula secures fourth term after dramatic comeback
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://arxiv.org/abs/2512.19428">https://arxiv.org/abs/2512.19428</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50237224">https://news.ycombinator.com/item?id=50237224</a></p>
-<p>Points: 8</p>
+<p>Article URL: <a href="https://www.bbc.com/news/articles/cmvg7p001qj9o">https://www.bbc.com/news/articles/cmvg7p001qj9o</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50238557">https://news.ycombinator.com/item?id=50238557</a></p>
+<p>Points: 17</p>
 <p># Comments: 1</p>
 
-🔗 **Read more:** [https://arxiv.org/abs/2512.19428](https://arxiv.org/abs/2512.19428)
+🔗 **Read more:** [https://www.bbc.com/news/articles/cmvg7p001qj9o](https://www.bbc.com/news/articles/cmvg7p001qj9o)
 
 ---
 
-### 3. F-Zero X on Nintendo 3DS
+### 3. If AI displaces human workers, they will lose more than just pay
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://hypnotize.works/gdx-3ds/postmortem/index.html">https://hypnotize.works/gdx-3ds/postmortem/index.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50237078">https://news.ycombinator.com/item?id=50237078</a></p>
-<p>Points: 34</p>
-<p># Comments: 13</p>
+<p>Article URL: <a href="https://www.economist.com/business/2026/10/22/if-ai-displaces-human-workers-they-will-lose-more-than-just-pay">https://www.economist.com/business/2026/10/22/if-ai-displaces-human-workers-they-will-lose-more-than-just-pay</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50238351">https://news.ycombinator.com/item?id=50238351</a></p>
+<p>Points: 7</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://hypnotize.works/gdx-3ds/postmortem/index.html](https://hypnotize.works/gdx-3ds/postmortem/index.html)
+🔗 **Read more:** [https://www.economist.com/business/2026/10/22/if-ai-displaces-human-workers-they-will-lose-more-than-just-pay](https://www.economist.com/business/2026/10/22/if-ai-displaces-human-workers-they-will-lose-more-than-just-pay)
 
 ---
 
-### 4. Lula wins fourth term in Brazil but faces hostile Congress and divided country
+### 4. Lula wins but faces hostile Congress and divided country
 
 **Source:** BBC
 
@@ -71,7 +71,7 @@ President Lula has pulled of a surprise win, but he will face a hostile Congress
 
 ---
 
-### 5. Two men killed by falling trees as Storm Boelo leaves 160,000 properties without power
+### 5. Two men killed by falling trees as Storm Boelo leaves 90,000 properties without power
 
 **Source:** BBC
 
@@ -97,42 +97,42 @@ The populist right-wing leader of 12 years says it is "clear" his party has lost
 
 ---
 
-### 7. Netanyahu rival Eisenkot holds final rally before Israeli election
+### 7. Ballon d’Or 2026 predictions: Yamal, Mbappe and Kane – who will win?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Gadi Eisenkot, Benjamin Netanyahu’s rival in Israel’s upcoming election, held his final campaign rally on Sunday.
+The winner of the 2026 Ballon d&#039;Or will be crowned at Monday&#039;s gala in London, the first time it has been held in Britain.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/26/netanyahu-rival-eisenkot-holds-final-rally-before-israeli-election?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/26/netanyahu-rival-eisenkot-holds-final-rally-before-israeli-election?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/26/ballon-dor-2026-predictions-yamal-mbappe-kane-who-will-win?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/26/ballon-dor-2026-predictions-yamal-mbappe-kane-who-will-win?traffic_source=rss)
 
 ---
 
-### 8. Serbia celebrates historic election win for student-backed movement
+### 8. Lula thanks Brazil’s youth for historic election win
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Celebrations erupted across Belgrade as Serbia&#039;s student-backed movement claimed a major election victory
+Brazil’s President Luiz Inacio Lula da Silva has won an unprecedented fourth term.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/26/serbia-celebrates-historic-election-win-for-student-backed-movement?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/26/serbia-celebrates-historic-election-win-for-student-backed-movement?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/26/lula-thanks-brazils-youth-for-historic-election-win?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/26/lula-thanks-brazils-youth-for-historic-election-win?traffic_source=rss)
 
 ---
 
-### 9. Lula holds off far right with victory in Brazil presidential election
+### 9. Brazil election results 2026: Key takeaways from Lula’s historic win
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Leftist president mounts stunning comeback after unexpected first-round loss galvanised supporters of Flavio Bolsonaro.
+Lula wins a fourth term after a dramatic run-off marred by voting confusion and allegations of interference.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/26/lula-holds-off-far-right-with-victory-in-brazil-presidential-election?traffic_source=rss](https://www.aljazeera.com/news/2026/10/26/lula-holds-off-far-right-with-victory-in-brazil-presidential-election?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/26/brazil-election-2026-key-takeaways-from-lulas-historic-win?traffic_source=rss](https://www.aljazeera.com/news/2026/10/26/brazil-election-2026-key-takeaways-from-lulas-historic-win?traffic_source=rss)
 
 ---
 

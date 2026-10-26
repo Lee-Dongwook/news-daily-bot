@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-26T07:24:33+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: TitleArt – Make text like it's 1997",
+            "description": "<p>Article URL: <a href=\"https://titleart.dvy.io/\">https://titleart.dvy.io/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50238708\">https://news.ycombinator.com/item?id=50238708</a></p>\n<p>Points: 8</p>\n<p># Comments: 0</p>",
+            "url": "https://titleart.dvy.io/",
+            "published": "Mon, 26 Oct 2026 03:23:57 +0000",
+            "fetched": "2026-10-26T07:24:33+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Brazil elections: Lula secures fourth term after dramatic comeback",
+            "description": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cmvg7p001qj9o\">https://www.bbc.com/news/articles/cmvg7p001qj9o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50238557\">https://news.ycombinator.com/item?id=50238557</a></p>\n<p>Points: 17</p>\n<p># Comments: 1</p>",
+            "url": "https://www.bbc.com/news/articles/cmvg7p001qj9o",
+            "published": "Mon, 26 Oct 2026 03:04:08 +0000",
+            "fetched": "2026-10-26T07:24:33+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "If AI displaces human workers, they will lose more than just pay",
+            "description": "<p>Article URL: <a href=\"https://www.economist.com/business/2026/10/22/if-ai-displaces-human-workers-they-will-lose-more-than-just-pay\">https://www.economist.com/business/2026/10/22/if-ai-displaces-human-workers-they-will-lose-more-than-just-pay</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50238351\">https://news.ycombinator.com/item?id=50238351</a></p>\n<p>Points: 7</p>\n<p># Comments: 1</p>",
+            "url": "https://www.economist.com/business/2026/10/22/if-ai-displaces-human-workers-they-will-lose-more-than-just-pay",
+            "published": "Mon, 26 Oct 2026 02:22:38 +0000",
+            "fetched": "2026-10-26T07:24:33+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Lula wins but faces hostile Congress and divided country",
+            "description": "President Lula has pulled of a surprise win, but he will face a hostile Congress and a polarised country.",
+            "url": "https://www.bbc.co.uk/news/articles/cmvg7p001qj9o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 26 Oct 2026 03:31:13 GMT",
+            "fetched": "2026-10-26T07:24:33+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Two men killed by falling trees as Storm Boelo leaves 90,000 properties without power",
+            "description": "An amber wind warning has now expired after severe weather sweeps across the UK.",
+            "url": "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 26 Oct 2026 02:01:29 GMT",
+            "fetched": "2026-10-26T07:24:33+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Elation across Serbia after veteran ruler Vučić concedes to student-led protest movement",
+            "description": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
+            "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 26 Oct 2026 01:07:05 GMT",
+            "fetched": "2026-10-26T07:24:33+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Ballon d’Or 2026 predictions: Yamal, Mbappe and Kane – who will win?",
+            "description": "The winner of the 2026 Ballon d&#039;Or will be crowned at Monday&#039;s gala in London, the first time it has been held in Britain.",
+            "url": "https://www.aljazeera.com/sports/2026/10/26/ballon-dor-2026-predictions-yamal-mbappe-kane-who-will-win?traffic_source=rss",
+            "published": "Mon, 26 Oct 2026 03:34:59 +0000",
+            "fetched": "2026-10-26T07:24:33+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Lula thanks Brazil’s youth for historic election win",
+            "description": "Brazil’s President Luiz Inacio Lula da Silva has won an unprecedented fourth term.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/lula-thanks-brazils-youth-for-historic-election-win?traffic_source=rss",
+            "published": "Mon, 26 Oct 2026 03:14:26 +0000",
+            "fetched": "2026-10-26T07:24:33+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Brazil election results 2026: Key takeaways from Lula’s historic win",
+            "description": "Lula wins a fourth term after a dramatic run-off marred by voting confusion and allegations of interference.",
+            "url": "https://www.aljazeera.com/news/2026/10/26/brazil-election-2026-key-takeaways-from-lulas-historic-win?traffic_source=rss",
+            "published": "Mon, 26 Oct 2026 02:59:50 +0000",
+            "fetched": "2026-10-26T07:24:33+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire BEE HAVEN (2) (24-06), Hamilton, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25590",
+            "published": "2026-10-22T21:45:00Z",
+            "fetched": "2026-10-26T07:24:33+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Vance",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25589",
+            "published": "2026-10-21T18:00:00Z",
+            "fetched": "2026-10-26T07:24:33+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Agueda",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25457",
+            "published": "2026-10-20T06:00:00Z",
+            "fetched": "2026-10-26T07:24:33+03:30"
+        }
+    ]
+}

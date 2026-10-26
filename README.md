@@ -1,16 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-26 17:56:04
+**Last Update:** 2026-10-26 20:09:02
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Chris Brown given suspended eight-month prison sentence over nightclub attack
+### 1. CSS-Tricks has a new owner
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://css-tricks.com/css-tricks-has-a-new-owner/">https://css-tricks.com/css-tricks-has-a-new-owner/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50245831">https://news.ycombinator.com/item?id=50245831</a></p>
+<p>Points: 34</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://css-tricks.com/css-tricks-has-a-new-owner/](https://css-tricks.com/css-tricks-has-a-new-owner/)
+
+---
+
+### 2. Microsoft offers mass buyouts for roughly a quarter of its workforce
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/">https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50245524">https://news.ycombinator.com/item?id=50245524</a></p>
+<p>Points: 124</p>
+<p># Comments: 95</p>
+
+🔗 **Read more:** [https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/](https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/)
+
+---
+
+### 3. NBA announces partnership with prediction markets Kalshi, Polymarket
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.nytimes.com/athletic/7723134/2026/10/26/nba-kalshi-polymarket-agreement-prediction-markets/">https://www.nytimes.com/athletic/7723134/2026/10/26/nba-kalshi-polymarket-agreement-prediction-markets/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50245322">https://news.ycombinator.com/item?id=50245322</a></p>
+<p>Points: 29</p>
+<p># Comments: 12</p>
+
+🔗 **Read more:** [https://www.nytimes.com/athletic/7723134/2026/10/26/nba-kalshi-polymarket-agreement-prediction-markets/](https://www.nytimes.com/athletic/7723134/2026/10/26/nba-kalshi-polymarket-agreement-prediction-markets/)
+
+---
+
+### 4. Independent review announced into murder of student Henry Nowak
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+"We must get to truth of what happened before, during and after that awful night," the home secretary says while announcing the review.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cv70pnw784x7o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cv70pnw784x7o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Chris Brown given suspended eight-month prison sentence over nightclub attack
 
 **Source:** BBC
 
@@ -23,7 +84,7 @@ The R&amp;B star previously pleaded guilty to affray, after attacking a music pr
 
 ---
 
-### 2. Storm Boelo leaves 90,000 without power as Met Office issues new wind warning
+### 6. Storm Boelo leaves 90,000 without power as Met Office issues new wind warning
 
 **Source:** BBC
 
@@ -36,72 +97,46 @@ Around 90,000 properties are without power after Scotland and north England is b
 
 ---
 
-### 3. Healey to shield low-income pensioners from income tax in the Budget
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Changes are needed to prevent the full, flat-rate state pension becoming liable for income tax after it rises in April.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck98zp7zeq65o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck98zp7zeq65o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 4. The Price of Protest
+### 7. ‘Everything destroyed’: Hebron businesses count cost of Israeli assault
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-What does it cost an athlete to take a stand?
+Israeli demolitions and road closures have devastated businesses in Hebron, leaving owners facing millions in losses.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/game-theory/2026/10/26/the-price-of-protest?traffic_source=rss](https://www.aljazeera.com/video/game-theory/2026/10/26/the-price-of-protest?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/10/26/everything-destroyed-hebron-businesses-count-cost-of-israeli-assault?traffic_source=rss](https://www.aljazeera.com/features/2026/10/26/everything-destroyed-hebron-businesses-count-cost-of-israeli-assault?traffic_source=rss)
 
 ---
 
-### 5. US foreign aid to Israel highlighted in campaign ad in support of El-Sayed
+### 8. Jerusalem Daily: Last minute efforts by Israeli politicians before election
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A new political campaign ad in support of US Senate candidate Abdul El-Sayed is generating conversation online.
+Israelis are about to vote in one of the most decisive elections in the country’s history.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/26/us-foreign-aid-to-israel-highlighted-in-campaign-ad-in-support-of-el-sayed?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/26/us-foreign-aid-to-israel-highlighted-in-campaign-ad-in-support-of-el-sayed?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/26/jerusalem-daily-last-minute-efforts-by-israeli-politicians-before-election?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/26/jerusalem-daily-last-minute-efforts-by-israeli-politicians-before-election?traffic_source=rss)
 
 ---
 
-### 6. Israel expands expulsions in occupied West Bank to cement control
+### 9. Saddam Haftar is eyeing the throne in Libya
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israel escalates forced expulsions and infrastructure destruction with the goal of imposing &#039;new reality&#039;, analysts say.
+As the US looks to broker a unity deal, Saddam is trying to position himself as the main contender for the presidency.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/26/israel-expands-occupied-west-bank-expulsions-to-cement-control?traffic_source=rss](https://www.aljazeera.com/news/2026/10/26/israel-expands-occupied-west-bank-expulsions-to-cement-control?traffic_source=rss)
-
----
-
-### 7. Wildfire BEE HAVEN (2) (24-06), Hamilton, Florida
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25590](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25590)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/10/26/saddam-haftar-is-eyeing-the-throne-in-libya?traffic_source=rss](https://www.aljazeera.com/opinions/2026/10/26/saddam-haftar-is-eyeing-the-throne-in-libya?traffic_source=rss)
 
 ---
 
-### 8. Hurricane Vance
+### 10. Tropical Cyclone Arnab
 
 **Source:** NASA
 
@@ -110,11 +145,11 @@ Natural event: Wildfires
 **Description:**
 Natural event: Severe Storms
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25589](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25589)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25729](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25729)
 
 ---
 
-### 9. Tropical Cyclone Agueda
+### 11. Tropical Storm Olana
 
 **Source:** NASA
 
@@ -123,7 +158,20 @@ Natural event: Severe Storms
 **Description:**
 Natural event: Severe Storms
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25457](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25457)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25730](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25730)
+
+---
+
+### 12. Typhoon In-fa
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25728](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25728)
 
 ---
 

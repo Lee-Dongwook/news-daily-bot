@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-26T20:09:02+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "CSS-Tricks has a new owner",
+            "description": "<p>Article URL: <a href=\"https://css-tricks.com/css-tricks-has-a-new-owner/\">https://css-tricks.com/css-tricks-has-a-new-owner/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50245831\">https://news.ycombinator.com/item?id=50245831</a></p>\n<p>Points: 34</p>\n<p># Comments: 4</p>",
+            "url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
+            "published": "Mon, 26 Oct 2026 15:51:23 +0000",
+            "fetched": "2026-10-26T20:09:02+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Microsoft offers mass buyouts for roughly a quarter of its workforce",
+            "description": "<p>Article URL: <a href=\"https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/\">https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50245524\">https://news.ycombinator.com/item?id=50245524</a></p>\n<p>Points: 124</p>\n<p># Comments: 95</p>",
+            "url": "https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/",
+            "published": "Mon, 26 Oct 2026 15:35:12 +0000",
+            "fetched": "2026-10-26T20:09:02+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "NBA announces partnership with prediction markets Kalshi, Polymarket",
+            "description": "<p>Article URL: <a href=\"https://www.nytimes.com/athletic/7723134/2026/10/26/nba-kalshi-polymarket-agreement-prediction-markets/\">https://www.nytimes.com/athletic/7723134/2026/10/26/nba-kalshi-polymarket-agreement-prediction-markets/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50245322\">https://news.ycombinator.com/item?id=50245322</a></p>\n<p>Points: 29</p>\n<p># Comments: 12</p>",
+            "url": "https://www.nytimes.com/athletic/7723134/2026/10/26/nba-kalshi-polymarket-agreement-prediction-markets/",
+            "published": "Mon, 26 Oct 2026 15:22:59 +0000",
+            "fetched": "2026-10-26T20:09:02+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Independent review announced into murder of student Henry Nowak",
+            "description": "\"We must get to truth of what happened before, during and after that awful night,\" the home secretary says while announcing the review.",
+            "url": "https://www.bbc.co.uk/news/articles/cv70pnw784x7o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 26 Oct 2026 16:15:16 GMT",
+            "fetched": "2026-10-26T20:09:02+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Chris Brown given suspended eight-month prison sentence over nightclub attack",
+            "description": "The R&amp;B star previously pleaded guilty to affray, after attacking a music producer with a glass bottle.",
+            "url": "https://www.bbc.co.uk/news/articles/cq3dje4g4d5jo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 26 Oct 2026 14:16:09 GMT",
+            "fetched": "2026-10-26T20:09:02+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Storm Boelo leaves 90,000 without power as Met Office issues new wind warning",
+            "description": "Around 90,000 properties are without power after Scotland and north England is battered by strong winds.",
+            "url": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 26 Oct 2026 12:00:20 GMT",
+            "fetched": "2026-10-26T20:09:02+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘Everything destroyed’: Hebron businesses count cost of Israeli assault",
+            "description": "Israeli demolitions and road closures have devastated businesses in Hebron, leaving owners facing millions in losses.",
+            "url": "https://www.aljazeera.com/features/2026/10/26/everything-destroyed-hebron-businesses-count-cost-of-israeli-assault?traffic_source=rss",
+            "published": "Mon, 26 Oct 2026 16:24:24 +0000",
+            "fetched": "2026-10-26T20:09:02+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Jerusalem Daily: Last minute efforts by Israeli politicians before election",
+            "description": "Israelis are about to vote in one of the most decisive elections in the country’s history.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/jerusalem-daily-last-minute-efforts-by-israeli-politicians-before-election?traffic_source=rss",
+            "published": "Mon, 26 Oct 2026 16:12:00 +0000",
+            "fetched": "2026-10-26T20:09:02+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Saddam Haftar is eyeing the throne in Libya",
+            "description": "As the US looks to broker a unity deal, Saddam is trying to position himself as the main contender for the presidency.",
+            "url": "https://www.aljazeera.com/opinions/2026/10/26/saddam-haftar-is-eyeing-the-throne-in-libya?traffic_source=rss",
+            "published": "Mon, 26 Oct 2026 16:01:19 +0000",
+            "fetched": "2026-10-26T20:09:02+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Arnab",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25729",
+            "published": "2026-10-25T18:00:00Z",
+            "fetched": "2026-10-26T20:09:02+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Olana",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25730",
+            "published": "2026-10-25T18:00:00Z",
+            "fetched": "2026-10-26T20:09:02+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon In-fa",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25728",
+            "published": "2026-10-23T18:00:00Z",
+            "fetched": "2026-10-26T20:09:02+03:30"
+        }
+    ]
+}

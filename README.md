@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-26 10:01:33
+**Last Update:** 2026-10-26 13:24:36
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: Proc-CLI – An agent-friendly CLI tool for process and port management
+### 1. Switzerland. Block by block. At 1:1 scale
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://blocks.manifold3d.ch/">https://blocks.manifold3d.ch/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50240922">https://news.ycombinator.com/item?id=50240922</a></p>
+<p>Points: 46</p>
+<p># Comments: 5</p>
+
+🔗 **Read more:** [https://blocks.manifold3d.ch/](https://blocks.manifold3d.ch/)
+
+---
+
+### 2. The result of the C++26 DIS ballot
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://train-it.eu/blog/cpp26-contracts-the-ballot-result/">https://train-it.eu/blog/cpp26-contracts-the-ballot-result/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50239748">https://news.ycombinator.com/item?id=50239748</a></p>
+<p>Points: 46</p>
+<p># Comments: 33</p>
+
+🔗 **Read more:** [https://train-it.eu/blog/cpp26-contracts-the-ballot-result/](https://train-it.eu/blog/cpp26-contracts-the-ballot-result/)
+
+---
+
+### 3. Show HN: Proc-CLI – An agent-friendly CLI tool for process and port management
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://proc-cli.com/">https://proc-cli.com/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50239041">https://news.ycombinator.com/item?id=50239041</a></p>
-<p>Points: 6</p>
+<p>Points: 11</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://proc-cli.com/](https://proc-cli.com/)
-
----
-
-### 2. Cognitive Mercantilism: AI panic resembles fears of early capitalism
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://contraptions.venkateshrao.com/p/cognitive-mercantilism">https://contraptions.venkateshrao.com/p/cognitive-mercantilism</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50239027">https://news.ycombinator.com/item?id=50239027</a></p>
-<p>Points: 31</p>
-<p># Comments: 5</p>
-
-🔗 **Read more:** [https://contraptions.venkateshrao.com/p/cognitive-mercantilism](https://contraptions.venkateshrao.com/p/cognitive-mercantilism)
-
----
-
-### 3. Behind the scenes at the NeXT Computer office
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&amp;sort=pub_year_isi+asc%2C+title_sort+asc&amp;view=masonry">https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&amp;sort=pub_year_isi+asc%2C+title_sort+asc&amp;view=masonry</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50238763">https://news.ycombinator.com/item?id=50238763</a></p>
-<p>Points: 58</p>
-<p># Comments: 24</p>
-
-🔗 **Read more:** [https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry](https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry)
 
 ---
 
@@ -71,68 +71,68 @@ Brazil's left-wing President has been elected for a fourth term after narrowly b
 
 ---
 
-### 5. Two men killed by falling trees as Storm Boelo leaves 90,000 properties without power
+### 5. Clean-up under way as Storm Boelo leaves 90,000 without power
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-An amber wind warning has now expired after severe weather sweeps across the UK.
+Around 90,000 properties are without power after Scotland and north England is battered by strong winds.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqm264jxxnxzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqm264jxxnxzo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Knighting Sinfield 'easiest decision anyone's had to make,' says Prince William
+### 6. Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The rugby league star is "gold dust" and "should have been Sir Kevin years ago," says the Prince of Wales.
+The populist right-wing leader of 12 years says it is "clear" his party has lost the vote billed as a referendum on the country's future.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c65ynjkrjq4wo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c65ynjkrjq4wo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. The French government is hiding behind a ‘riots’ narrative
+### 7. Flavio Bolsonaro ‘will not give up’ after Brazil election results
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-It is much easier to fearmonger and try to delegitimise the protests than to address students&#039; demands.
+Flavio Bolsonaro is refusing to concede to Lula da Silva who won a historic 4th term in Sunday&#039;s election.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/10/26/the-french-government-is-hiding-behind-a-riots-narrative?traffic_source=rss](https://www.aljazeera.com/opinions/2026/10/26/the-french-government-is-hiding-behind-a-riots-narrative?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/26/flavio-bolsonaro-will-not-give-up-after-brazil-election-results?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/26/flavio-bolsonaro-will-not-give-up-after-brazil-election-results?traffic_source=rss)
 
 ---
 
-### 8. China’s political elite gather for talks on Communist Party discipline
+### 8. California’s billionaire tax faces a precarious road from rich opposition
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The four-day meeting is being watched closely for clues as to the country&#039;s direction and future leadership.
+Tech billionaires have raised more than $300m to oppose the billionaire tax proposal.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/26/chinas-political-elite-gather-for-talks-on-communist-party-discipline?traffic_source=rss](https://www.aljazeera.com/news/2026/10/26/chinas-political-elite-gather-for-talks-on-communist-party-discipline?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/26/californias-billionaire-tax-faces-a-precarious-road-from-rich-opposition?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/26/californias-billionaire-tax-faces-a-precarious-road-from-rich-opposition?traffic_source=rss)
 
 ---
 
-### 9. Aleksandar Vucic, the Serbian leader brought down by students
+### 9. Do Palestinians in Gaza expect anything to change after Israel’s election?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Serbia&#039;s longtime leader concedes defeat to a student-led protest movement in parliamentary elections.
+After years of war, displacement and restrictions, Gazans ask whether Israel’s election will affect their future.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/26/aleksandar-vucic-the-serbian-leader-brought-down-by-students?traffic_source=rss](https://www.aljazeera.com/news/2026/10/26/aleksandar-vucic-the-serbian-leader-brought-down-by-students?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/26/do-palestinians-in-gaza-expect-anything-to-change-after-israels-election?traffic_source=rss](https://www.aljazeera.com/news/2026/10/26/do-palestinians-in-gaza-expect-anything-to-change-after-israels-election?traffic_source=rss)
 
 ---
 

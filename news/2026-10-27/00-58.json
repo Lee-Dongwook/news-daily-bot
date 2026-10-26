@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-27T00:58:40+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Microsoft offers voluntary buyouts to a quarter of its workforce",
+            "description": "<p>Article URL: <a href=\"https://www.kuow.org/technology/2026-10-26/microsoft-offers-voluntary-buyouts-to-a-quarter-of-its-workforce\">https://www.kuow.org/technology/2026-10-26/microsoft-offers-voluntary-buyouts-to-a-quarter-of-its-workforce</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50250937\">https://news.ycombinator.com/item?id=50250937</a></p>\n<p>Points: 24</p>\n<p># Comments: 5</p>",
+            "url": "https://www.kuow.org/technology/2026-10-26/microsoft-offers-voluntary-buyouts-to-a-quarter-of-its-workforce",
+            "published": "Mon, 26 Oct 2026 21:05:15 +0000",
+            "fetched": "2026-10-27T00:58:40+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Somebody please stop the spam texts",
+            "description": "<p>Article URL: <a href=\"https://notes.npilk.com/stop-the-spam-texts\">https://notes.npilk.com/stop-the-spam-texts</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50250016\">https://news.ycombinator.com/item?id=50250016</a></p>\n<p>Points: 92</p>\n<p># Comments: 99</p>",
+            "url": "https://notes.npilk.com/stop-the-spam-texts",
+            "published": "Mon, 26 Oct 2026 19:57:32 +0000",
+            "fetched": "2026-10-27T00:58:40+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The EPA Is Quietly Killing Its Web Archive",
+            "description": "<p>Article URL: <a href=\"https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/\">https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50249275\">https://news.ycombinator.com/item?id=50249275</a></p>\n<p>Points: 154</p>\n<p># Comments: 21</p>",
+            "url": "https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/",
+            "published": "Mon, 26 Oct 2026 19:05:41 +0000",
+            "fetched": "2026-10-27T00:58:40+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Independent review announced into murder of student Henry Nowak",
+            "description": "\"We must get to truth of what happened before, during and after that awful night,\" the home secretary says while announcing the review.",
+            "url": "https://www.bbc.co.uk/news/articles/cv70pnw784x7o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 26 Oct 2026 16:15:16 GMT",
+            "fetched": "2026-10-27T00:58:40+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Israel and the US are both going to the polls - the consequences will be global",
+            "description": "The next fortnight sees two elections on different continents. The outcomes will shape geopolitics and the global economy, writes James Landale",
+            "url": "https://www.bbc.co.uk/news/articles/crlykey9jywqo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 26 Oct 2026 16:30:34 GMT",
+            "fetched": "2026-10-27T00:58:40+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Drivers who killed mum and girl while racing jailed",
+            "description": "Justyna Hulboj and her daughter Lena died when they were hit by a car in Leeds in January 2023.",
+            "url": "https://www.bbc.co.uk/news/articles/cqy0r3n17gjyo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 26 Oct 2026 15:39:39 GMT",
+            "fetched": "2026-10-27T00:58:40+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "What will Lula’s fourth term mean for Brazil?",
+            "description": "Luiz Inacio Lula da Silva wins a fourth term as Bolsonaro disputes the result. Can he deliver on his promises of change?",
+            "url": "https://www.aljazeera.com/video/inside-story/2026/10/26/what-will-lulas-fourth-term-mean-for-brazil?traffic_source=rss",
+            "published": "Mon, 26 Oct 2026 20:55:47 +0000",
+            "fetched": "2026-10-27T00:58:40+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US court rules daughter of Trump critic James Comey was illegally fired",
+            "description": "Maurene Comey had argued that she was fired because her father, former FBI chief James Comey, was target of Trump&#039;s ire.",
+            "url": "https://www.aljazeera.com/news/2026/10/26/us-court-rules-daughter-of-trump-critic-james-comey-was-illegally-fired?traffic_source=rss",
+            "published": "Mon, 26 Oct 2026 20:55:37 +0000",
+            "fetched": "2026-10-27T00:58:40+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Palestinian children crawl under Israeli military gates to get to school",
+            "description": "Palestinian children in Jenin have to crawl under Israeli military gates to get to and from school.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/palestinian-children-crawl-under-israeli-military-gates-to-get-to-school?traffic_source=rss",
+            "published": "Mon, 26 Oct 2026 20:46:01 +0000",
+            "fetched": "2026-10-27T00:58:40+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Arnab",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25729",
+            "published": "2026-10-25T18:00:00Z",
+            "fetched": "2026-10-27T00:58:40+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Olana",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25730",
+            "published": "2026-10-25T18:00:00Z",
+            "fetched": "2026-10-27T00:58:40+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon In-fa",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25728",
+            "published": "2026-10-23T18:00:00Z",
+            "fetched": "2026-10-27T00:58:40+03:30"
+        }
+    ]
+}

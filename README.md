@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-26 23:31:41
+**Last Update:** 2026-10-27 00:58:40
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. The EPA Is Quietly Killing Its Web Archive
+### 1. Microsoft offers voluntary buyouts to a quarter of its workforce
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.kuow.org/technology/2026-10-26/microsoft-offers-voluntary-buyouts-to-a-quarter-of-its-workforce">https://www.kuow.org/technology/2026-10-26/microsoft-offers-voluntary-buyouts-to-a-quarter-of-its-workforce</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50250937">https://news.ycombinator.com/item?id=50250937</a></p>
+<p>Points: 24</p>
+<p># Comments: 5</p>
+
+🔗 **Read more:** [https://www.kuow.org/technology/2026-10-26/microsoft-offers-voluntary-buyouts-to-a-quarter-of-its-workforce](https://www.kuow.org/technology/2026-10-26/microsoft-offers-voluntary-buyouts-to-a-quarter-of-its-workforce)
+
+---
+
+### 2. Somebody please stop the spam texts
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://notes.npilk.com/stop-the-spam-texts">https://notes.npilk.com/stop-the-spam-texts</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50250016">https://news.ycombinator.com/item?id=50250016</a></p>
+<p>Points: 92</p>
+<p># Comments: 99</p>
+
+🔗 **Read more:** [https://notes.npilk.com/stop-the-spam-texts](https://notes.npilk.com/stop-the-spam-texts)
+
+---
+
+### 3. The EPA Is Quietly Killing Its Web Archive
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/">https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50249275">https://news.ycombinator.com/item?id=50249275</a></p>
-<p>Points: 45</p>
-<p># Comments: 1</p>
+<p>Points: 154</p>
+<p># Comments: 21</p>
 
 🔗 **Read more:** [https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/](https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/)
-
----
-
-### 2. US designates helium as a critical material
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c">https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50248665">https://news.ycombinator.com/item?id=50248665</a></p>
-<p>Points: 69</p>
-<p># Comments: 25</p>
-
-🔗 **Read more:** [https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c](https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c)
-
----
-
-### 3. Microsoft Announces Type Server Protocol, Extension of Language Server Protocol
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md">https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50248371">https://news.ycombinator.com/item?id=50248371</a></p>
-<p>Points: 84</p>
-<p># Comments: 37</p>
-
-🔗 **Read more:** [https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md](https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md)
 
 ---
 
@@ -97,42 +97,42 @@ Justyna Hulboj and her daughter Lena died when they were hit by a car in Leeds i
 
 ---
 
-### 7. Jordan arrests three suspects over deadly church attack
+### 7. What will Lula’s fourth term mean for Brazil?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Jordanian authorities have arrested three relatives over a church attack in Karak that killed eight people.
+Luiz Inacio Lula da Silva wins a fourth term as Bolsonaro disputes the result. Can he deliver on his promises of change?
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/26/jordan-arrests-three-suspects-over-deadly-church-attack?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/26/jordan-arrests-three-suspects-over-deadly-church-attack?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/10/26/what-will-lulas-fourth-term-mean-for-brazil?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/10/26/what-will-lulas-fourth-term-mean-for-brazil?traffic_source=rss)
 
 ---
 
-### 8. Trump faces private citizens lawsuit over limiting White House media access
+### 8. US court rules daughter of Trump critic James Comey was illegally fired
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The plaintiffs argue they are losing access to vital information media outlets covering Trump used to provide.
+Maurene Comey had argued that she was fired because her father, former FBI chief James Comey, was target of Trump&#039;s ire.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/26/trump-faces-private-citizens-lawsuit-over-limiting-white-house-media-access?traffic_source=rss](https://www.aljazeera.com/news/2026/10/26/trump-faces-private-citizens-lawsuit-over-limiting-white-house-media-access?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/26/us-court-rules-daughter-of-trump-critic-james-comey-was-illegally-fired?traffic_source=rss](https://www.aljazeera.com/news/2026/10/26/us-court-rules-daughter-of-trump-critic-james-comey-was-illegally-fired?traffic_source=rss)
 
 ---
 
-### 9. Brazil’s real sinks after Lula’s re-election victory
+### 9. Palestinian children crawl under Israeli military gates to get to school
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Investors react to Lula&#039;s victory with a sharp decline in the real and concern over increased spending and fiscal challenges.
+Palestinian children in Jenin have to crawl under Israeli military gates to get to and from school.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/26/brazils-real-sinks-after-lulas-re-election-victory?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/26/brazils-real-sinks-after-lulas-re-election-victory?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/26/palestinian-children-crawl-under-israeli-military-gates-to-get-to-school?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/26/palestinian-children-crawl-under-israeli-military-gates-to-get-to-school?traffic_source=rss)
 
 ---
 

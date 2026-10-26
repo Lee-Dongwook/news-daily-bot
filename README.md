@@ -1,73 +1,73 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-26 07:24:33
+**Last Update:** 2026-10-26 10:01:33
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: TitleArt – Make text like it's 1997
+### 1. Show HN: Proc-CLI – An agent-friendly CLI tool for process and port management
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://titleart.dvy.io/">https://titleart.dvy.io/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50238708">https://news.ycombinator.com/item?id=50238708</a></p>
-<p>Points: 8</p>
+<p>Article URL: <a href="https://proc-cli.com/">https://proc-cli.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50239041">https://news.ycombinator.com/item?id=50239041</a></p>
+<p>Points: 6</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://titleart.dvy.io/](https://titleart.dvy.io/)
+🔗 **Read more:** [https://proc-cli.com/](https://proc-cli.com/)
 
 ---
 
-### 2. Brazil elections: Lula secures fourth term after dramatic comeback
+### 2. Cognitive Mercantilism: AI panic resembles fears of early capitalism
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.bbc.com/news/articles/cmvg7p001qj9o">https://www.bbc.com/news/articles/cmvg7p001qj9o</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50238557">https://news.ycombinator.com/item?id=50238557</a></p>
-<p>Points: 17</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://contraptions.venkateshrao.com/p/cognitive-mercantilism">https://contraptions.venkateshrao.com/p/cognitive-mercantilism</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50239027">https://news.ycombinator.com/item?id=50239027</a></p>
+<p>Points: 31</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://www.bbc.com/news/articles/cmvg7p001qj9o](https://www.bbc.com/news/articles/cmvg7p001qj9o)
+🔗 **Read more:** [https://contraptions.venkateshrao.com/p/cognitive-mercantilism](https://contraptions.venkateshrao.com/p/cognitive-mercantilism)
 
 ---
 
-### 3. If AI displaces human workers, they will lose more than just pay
+### 3. Behind the scenes at the NeXT Computer office
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.economist.com/business/2026/10/22/if-ai-displaces-human-workers-they-will-lose-more-than-just-pay">https://www.economist.com/business/2026/10/22/if-ai-displaces-human-workers-they-will-lose-more-than-just-pay</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50238351">https://news.ycombinator.com/item?id=50238351</a></p>
-<p>Points: 7</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&amp;sort=pub_year_isi+asc%2C+title_sort+asc&amp;view=masonry">https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&amp;sort=pub_year_isi+asc%2C+title_sort+asc&amp;view=masonry</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50238763">https://news.ycombinator.com/item?id=50238763</a></p>
+<p>Points: 58</p>
+<p># Comments: 24</p>
 
-🔗 **Read more:** [https://www.economist.com/business/2026/10/22/if-ai-displaces-human-workers-they-will-lose-more-than-just-pay](https://www.economist.com/business/2026/10/22/if-ai-displaces-human-workers-they-will-lose-more-than-just-pay)
+🔗 **Read more:** [https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry](https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry)
 
 ---
 
-### 4. Lula wins but faces hostile Congress and divided country
+### 4. Watch: How Lula turned it around to beat former president's son
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-President Lula has pulled of a surprise win, but he will face a hostile Congress and a polarised country.
+Brazil's left-wing President has been elected for a fourth term after narrowly beating right-wing Flávio Bolsonaro in a knife-edge vote.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmvg7p001qj9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmvg7p001qj9o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cmp8g0x4l11yo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cmp8g0x4l11yo?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -84,55 +84,55 @@ An amber wind warning has now expired after severe weather sweeps across the UK.
 
 ---
 
-### 6. Elation across Serbia after veteran ruler Vučić concedes to student-led protest movement
+### 6. Knighting Sinfield 'easiest decision anyone's had to make,' says Prince William
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The populist right-wing leader of 12 years says it is "clear" his party has lost the vote billed as a referendum on the country's future.
+The rugby league star is "gold dust" and "should have been Sir Kevin years ago," says the Prince of Wales.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c65ynjkrjq4wo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c65ynjkrjq4wo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Ballon d’Or 2026 predictions: Yamal, Mbappe and Kane – who will win?
+### 7. The French government is hiding behind a ‘riots’ narrative
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The winner of the 2026 Ballon d&#039;Or will be crowned at Monday&#039;s gala in London, the first time it has been held in Britain.
+It is much easier to fearmonger and try to delegitimise the protests than to address students&#039; demands.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/26/ballon-dor-2026-predictions-yamal-mbappe-kane-who-will-win?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/26/ballon-dor-2026-predictions-yamal-mbappe-kane-who-will-win?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/10/26/the-french-government-is-hiding-behind-a-riots-narrative?traffic_source=rss](https://www.aljazeera.com/opinions/2026/10/26/the-french-government-is-hiding-behind-a-riots-narrative?traffic_source=rss)
 
 ---
 
-### 8. Lula thanks Brazil’s youth for historic election win
+### 8. China’s political elite gather for talks on Communist Party discipline
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Brazil’s President Luiz Inacio Lula da Silva has won an unprecedented fourth term.
+The four-day meeting is being watched closely for clues as to the country&#039;s direction and future leadership.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/26/lula-thanks-brazils-youth-for-historic-election-win?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/26/lula-thanks-brazils-youth-for-historic-election-win?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/26/chinas-political-elite-gather-for-talks-on-communist-party-discipline?traffic_source=rss](https://www.aljazeera.com/news/2026/10/26/chinas-political-elite-gather-for-talks-on-communist-party-discipline?traffic_source=rss)
 
 ---
 
-### 9. Brazil election results 2026: Key takeaways from Lula’s historic win
+### 9. Aleksandar Vucic, the Serbian leader brought down by students
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Lula wins a fourth term after a dramatic run-off marred by voting confusion and allegations of interference.
+Serbia&#039;s longtime leader concedes defeat to a student-led protest movement in parliamentary elections.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/26/brazil-election-2026-key-takeaways-from-lulas-historic-win?traffic_source=rss](https://www.aljazeera.com/news/2026/10/26/brazil-election-2026-key-takeaways-from-lulas-historic-win?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/26/aleksandar-vucic-the-serbian-leader-brought-down-by-students?traffic_source=rss](https://www.aljazeera.com/news/2026/10/26/aleksandar-vucic-the-serbian-leader-brought-down-by-students?traffic_source=rss)
 
 ---
 

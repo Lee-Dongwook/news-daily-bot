@@ -1,32 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-27 03:27:12
+**Last Update:** 2026-10-27 04:46:44
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Just Imagining a Workout Can Make You Stronger
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://nautil.us/just-imagining-a-workout-can-make-you-stronger-236068">https://nautil.us/just-imagining-a-workout-can-make-you-stronger-236068</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50252457">https://news.ycombinator.com/item?id=50252457</a></p>
-<p>Points: 31</p>
-<p># Comments: 17</p>
-
-🔗 **Read more:** [https://nautil.us/just-imagining-a-workout-can-make-you-stronger-236068](https://nautil.us/just-imagining-a-workout-can-make-you-stronger-236068)
-
----
-
-### 2. Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)
+### 1. Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)
 
 **Source:** Hacker News
 
@@ -35,10 +19,26 @@
 **Description:**
 <p>Article URL: <a href="https://blog.cloudflare.com/kv-cache-exposure-remediation/">https://blog.cloudflare.com/kv-cache-exposure-remediation/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50252159">https://news.ycombinator.com/item?id=50252159</a></p>
-<p>Points: 33</p>
-<p># Comments: 6</p>
+<p>Points: 59</p>
+<p># Comments: 11</p>
 
 🔗 **Read more:** [https://blog.cloudflare.com/kv-cache-exposure-remediation/](https://blog.cloudflare.com/kv-cache-exposure-remediation/)
+
+---
+
+### 2. Is PHP Running on Your ColdFusion Server? How to Check, and Remove It
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it">https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50252008">https://news.ycombinator.com/item?id=50252008</a></p>
+<p>Points: 16</p>
+<p># Comments: 9</p>
+
+🔗 **Read more:** [https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it](https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it)
 
 ---
 
@@ -49,16 +49,30 @@
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf">https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf</a></p>
+<p>See also: <i>Announcing three new discoveries in mathematics, computer science, and physics</i> - <a href="https://news.ycombinator.com/item?id=50251344">https://news.ycombinator.com/item?id=50251344</a></p>
+<hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50251661">https://news.ycombinator.com/item?id=50251661</a></p>
-<p>Points: 124</p>
-<p># Comments: 48</p>
+<p>Points: 245</p>
+<p># Comments: 100</p>
 
 🔗 **Read more:** [https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf](https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf)
 
 ---
 
-### 4. Chris Mason: The Budget is imminent as tricky things pile up for Burnham
+### 4. Kane ends England’s 25-year wait to win men’s Ballon d’Or award
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Harry Kane becomes the first English player to win the prize since Michael Owen in 2001, and Spain midfielder Alexia Putellas wins the Ballon d’Or Feminin for a record-equalling third time.
+
+🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/cqlye4jpzzxyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/cqlye4jpzzxyo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Chris Mason: Budget is imminent as tricky issues pile up for Burnham
 
 **Source:** BBC
 
@@ -71,7 +85,7 @@ From Brexit debates to North Sea oil, there is plenty getting the cabinet, the L
 
 ---
 
-### 5. Healey vows cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes'
+### 6. Healey vows cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes'
 
 **Source:** BBC
 
@@ -84,55 +98,42 @@ The chancellor will axe tariffs on some staples as part of plans to give househo
 
 ---
 
-### 6. Israel and the US are both going to the polls - the consequences will be global
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The next fortnight sees two elections on different continents. The outcomes will shape geopolitics and the global economy, writes James Landale
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crlykey9jywqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crlykey9jywqo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. England’s Harry Kane wins Ballon d’Or, Alexia Putellas takes women’s award
+### 7. Romania says Russia-run sabotage network set fire near weapons factory
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Bayern Munich striker the first Englishman to win the prestigious award in 25 years, after Michael Owen won it in 2001.
+Authorities say the fire in September is part of a broader campaign against European countries that support Ukraine.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/26/englands-harry-kane-wins-ballon-dor-alexia-putellas-takes-womens-award?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/26/englands-harry-kane-wins-ballon-dor-alexia-putellas-takes-womens-award?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/27/romania-says-russia-run-sabotage-network-set-fire-near-weapons-factory?traffic_source=rss](https://www.aljazeera.com/news/2026/10/27/romania-says-russia-run-sabotage-network-set-fire-near-weapons-factory?traffic_source=rss)
 
 ---
 
-### 8. Mass brawl between Galatasaray and Fenerbahce after Istanbul derby
+### 8. Iran war live: Iran says US ‘not serious’ about talks; ship ablaze off Iraq
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A mass brawl erupted between players of the Turkish football teams Galatasaray and Fenerbahce.
+Iran says the United States is &quot;not serious&quot; about negotiations as UKMTO reports a ship on fire off the coast of Iraq.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/26/mass-brawl-between-galatasaray-and-fenerbahce-after-istanbul-derby?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/26/mass-brawl-between-galatasaray-and-fenerbahce-after-istanbul-derby?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-iran-says-us-not-serious-on-talks-ship-on-fire-off-iraq?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-iran-says-us-not-serious-on-talks-ship-on-fire-off-iraq?traffic_source=rss)
 
 ---
 
-### 9. Former FBI director James Comey hit with third set of charges under Trump
+### 9. Bolsonaro says police demand passports after Brazil election defeat
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Comey, who was fired during Trump&#039;s first term, has been accused of unlawfully divulging national security information.
+Flavio Bolsonaro posted a video on social media saying police ordered him to surrender his passports
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/26/former-fbi-director-james-comey-hit-with-third-set-of-charges-under-trump?traffic_source=rss](https://www.aljazeera.com/news/2026/10/26/former-fbi-director-james-comey-hit-with-third-set-of-charges-under-trump?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/26/bolsonaro-says-police-demand-passports-after-brazil-election-defeat?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/26/bolsonaro-says-police-demand-passports-after-brazil-election-defeat?traffic_source=rss)
 
 ---
 

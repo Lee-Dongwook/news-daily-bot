@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-27 17:39:35
+**Last Update:** 2026-10-27 20:14:44
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Wiz: No successful PHP2Shell exploits seen so far; exposure down 67%
+### 1. Apple introduces the new 14‑inch MacBook Pro with M6
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.wiz.io/blog/php2shell-exploitation-so-far">https://www.wiz.io/blog/php2shell-exploitation-so-far</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50259343">https://news.ycombinator.com/item?id=50259343</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/">https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50261352">https://news.ycombinator.com/item?id=50261352</a></p>
+<p>Points: 21</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://www.wiz.io/blog/php2shell-exploitation-so-far](https://www.wiz.io/blog/php2shell-exploitation-so-far)
+🔗 **Read more:** [https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/](https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/)
 
 ---
 
-### 2. Here Be Monsters: What Do You Still Need to Know When Agents Do the Work?
+### 2. Genie 4
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work">https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50258868">https://news.ycombinator.com/item?id=50258868</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/">https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50261319">https://news.ycombinator.com/item?id=50261319</a></p>
+<p>Points: 59</p>
+<p># Comments: 23</p>
 
-🔗 **Read more:** [https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work](https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work)
+🔗 **Read more:** [https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/)
 
 ---
 
-### 3. New iMac with M6
+### 3. Data Recovery CEO Indicted for Allegedly Scamming Ransomware Victims
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.apple.com/imac/">https://www.apple.com/imac/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50258538">https://news.ycombinator.com/item?id=50258538</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.propublica.org/article/zohar-pinhasi-monstercloud-ransomware-indictment">https://www.propublica.org/article/zohar-pinhasi-monstercloud-ransomware-indictment</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50260960">https://news.ycombinator.com/item?id=50260960</a></p>
+<p>Points: 20</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://www.apple.com/imac/](https://www.apple.com/imac/)
+🔗 **Read more:** [https://www.propublica.org/article/zohar-pinhasi-monstercloud-ransomware-indictment](https://www.propublica.org/article/zohar-pinhasi-monstercloud-ransomware-indictment)
 
 ---
 
@@ -71,20 +71,20 @@ Chancellor John Healey will reveal the new pay rates in the Budget, and has also
 
 ---
 
-### 5. Two charged over alleged plot to assist Iran in RAF Fairford incident
+### 5. Two in court over alleged Iran-linked plot at RAF Fairford
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Mohmed Ahmad Abdulkarim and Nouman Essghir, both 24, will appear at Westminster Magistrates' Court on Tuesday.
+Mohmed Abdulkarim and Nouman Essghir, both 24, appear at Westminster Magistrates' Court on Tuesday.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqly3v5vz4kko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqly3v5vz4kko?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Turnout so far at record levels as Israelis vote in pivotal election
+### 6. Turnout so far highest on record as Israelis vote in pivotal election
 
 **Source:** BBC
 
@@ -97,42 +97,42 @@ The elections - the first since the Hamas-led attacks on Israel and the wars whi
 
 ---
 
-### 7. Melania or the Pope: Who brokered Russia-Ukraine ceasefire in Oleshky?
+### 7. Lula’s victory echoes across BRICS after fears of a Bolsonaro win
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Competing claims over the ceasefire mark the latest tensions between the White House and the Vatican.
+Lula’s fourth term may have spared BRICS an internal fracture at a time when Trump is trying to reassert US power.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/27/melania-or-the-pope-who-brokered-russia-ukraine-ceasefire-in-oleshky?traffic_source=rss](https://www.aljazeera.com/news/2026/10/27/melania-or-the-pope-who-brokered-russia-ukraine-ceasefire-in-oleshky?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news-analysis/2026/10/27/lulas-victory-echoes-across-brics-after-fears-over-a-bolsonaro-win?traffic_source=rss](https://www.aljazeera.com/news-analysis/2026/10/27/lulas-victory-echoes-across-brics-after-fears-over-a-bolsonaro-win?traffic_source=rss)
 
 ---
 
-### 8. Russia strikes Kyiv ahead of localised ceasefire in Oleshky
+### 8. Death toll from attack by gunmen in northeastern Nigeria rises to 62
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Russia struck Kyiv multiple times on Monday night, hours before a humanitarian ceasefire in Oleshky took effect.
+Bandits targeted Binnari village in Taraba state, setting fire to homes, shops, food supplies and motorcycles.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/27/russia-strikes-kyiv-ahead-of-localised-ceasefire-in-oleshky?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/27/russia-strikes-kyiv-ahead-of-localised-ceasefire-in-oleshky?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/27/death-toll-from-attack-by-gunmen-in-northeastern-nigeria-rises-to-62?traffic_source=rss](https://www.aljazeera.com/news/2026/10/27/death-toll-from-attack-by-gunmen-in-northeastern-nigeria-rises-to-62?traffic_source=rss)
 
 ---
 
-### 9. The Netherlands pulls out of Eurovision 2027 due to Israel ‘sensitivities’
+### 9. Iranian and Qatari leaders meet at Russian energy forum
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Dutch withdrawal is the latest in a number of boycotts by countries unhappy about Israel&#039;s inclusion.
+Iranian and Qatari leaders meet at Russian energy forum
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/27/the-netherlands-pulls-out-of-eurovision-2027-due-to-israel-sensitivities?traffic_source=rss](https://www.aljazeera.com/news/2026/10/27/the-netherlands-pulls-out-of-eurovision-2027-due-to-israel-sensitivities?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/27/iranian-and-qatari-leaders-meet-at-russian-energy-forum?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/27/iranian-and-qatari-leaders-meet-at-russian-energy-forum?traffic_source=rss)
 
 ---
 

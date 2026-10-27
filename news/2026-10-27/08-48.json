@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-27T08:48:57+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "I still teach OpenGL ES 3.0",
+            "description": "<p>Article URL: <a href=\"https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html\">https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50253939\">https://news.ycombinator.com/item?id=50253939</a></p>\n<p>Points: 15</p>\n<p># Comments: 9</p>",
+            "url": "https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html",
+            "published": "Tue, 27 Oct 2026 02:15:10 +0000",
+            "fetched": "2026-10-27T08:48:57+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows",
+            "description": "<p>Article URL: <a href=\"https://github.com/otya128/winevdm\">https://github.com/otya128/winevdm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50253529\">https://news.ycombinator.com/item?id=50253529</a></p>\n<p>Points: 57</p>\n<p># Comments: 3</p>",
+            "url": "https://github.com/otya128/winevdm",
+            "published": "Tue, 27 Oct 2026 01:15:04 +0000",
+            "fetched": "2026-10-27T08:48:57+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+            "description": "<p>Article URL: <a href=\"https://blog.cloudflare.com/kv-cache-exposure-remediation/\">https://blog.cloudflare.com/kv-cache-exposure-remediation/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50252159\">https://news.ycombinator.com/item?id=50252159</a></p>\n<p>Points: 104</p>\n<p># Comments: 33</p>",
+            "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+            "published": "Mon, 26 Oct 2026 22:41:48 +0000",
+            "fetched": "2026-10-27T08:48:57+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Kane ends England’s 25-year wait to win men’s Ballon d’Or award",
+            "description": "Harry Kane becomes the first English player to win the prize since Michael Owen in 2001, and Spain midfielder Alexia Putellas wins the Ballon d’Or Feminin for a record-equalling third time.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/cqlye4jpzzxyo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 26 Oct 2026 23:10:59 GMT",
+            "fetched": "2026-10-27T08:48:57+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Chris Mason: Budget is imminent as tricky issues pile up for Burnham",
+            "description": "From Brexit debates to North Sea oil, there is plenty getting the cabinet, the Labour Party and the country talking.",
+            "url": "https://www.bbc.co.uk/news/articles/c317k85r5lglo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 26 Oct 2026 23:03:14 GMT",
+            "fetched": "2026-10-27T08:48:57+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Chancellor to cut tariffs on some staple goods to offer cost of living help",
+            "description": "The chancellor will axe tariffs on some staples as part of plans to give households \"breathing space\".",
+            "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 27 Oct 2026 01:57:48 GMT",
+            "fetched": "2026-10-27T08:48:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "AI makes discoveries in mathematics, computer science, physics, OpenAI says",
+            "description": "OpenAI&#039;s announcement is the latest in a series of claimed scientific breakthroughs credited to AI.",
+            "url": "https://www.aljazeera.com/economy/2026/10/27/ai-makes-discoveries-in-mathematics-computer-science-physics-openai-says?traffic_source=rss",
+            "published": "Tue, 27 Oct 2026 05:01:13 +0000",
+            "fetched": "2026-10-27T08:48:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran, Saudi, Turkiye and Pakistan agree to more talks amid Houthi attacks",
+            "description": "Top officials from four countries to continue talks for peace and security as Saudi forces down more Houthi missiles.",
+            "url": "https://www.aljazeera.com/news/2026/10/27/iran-saudi-turkiye-and-pakistan-agree-to-more-talks-amid-houthi-attacks?traffic_source=rss",
+            "published": "Tue, 27 Oct 2026 04:54:26 +0000",
+            "fetched": "2026-10-27T08:48:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "People missing after massive drilling platform sinks off Gabon",
+            "description": "Five people are missing after a massive offshore drilling platform sank into the sea off Gabon’s southern coast.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/people-missing-after-massive-drilling-platform-sinks-off-gabon?traffic_source=rss",
+            "published": "Tue, 27 Oct 2026 04:45:16 +0000",
+            "fetched": "2026-10-27T08:48:57+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Arnab",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25729",
+            "published": "2026-10-25T18:00:00Z",
+            "fetched": "2026-10-27T08:48:57+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Olana",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25730",
+            "published": "2026-10-25T18:00:00Z",
+            "fetched": "2026-10-27T08:48:57+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon In-fa",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25728",
+            "published": "2026-10-23T18:00:00Z",
+            "fetched": "2026-10-27T08:48:57+03:30"
+        }
+    ]
+}

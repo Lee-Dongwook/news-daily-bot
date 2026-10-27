@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-27 04:46:44
+**Last Update:** 2026-10-27 08:48:57
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)
+### 1. I still teach OpenGL ES 3.0
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html">https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50253939">https://news.ycombinator.com/item?id=50253939</a></p>
+<p>Points: 15</p>
+<p># Comments: 9</p>
+
+🔗 **Read more:** [https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html](https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html)
+
+---
+
+### 2. 16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/otya128/winevdm">https://github.com/otya128/winevdm</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50253529">https://news.ycombinator.com/item?id=50253529</a></p>
+<p>Points: 57</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://github.com/otya128/winevdm](https://github.com/otya128/winevdm)
+
+---
+
+### 3. Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)
 
 **Source:** Hacker News
 
@@ -19,43 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://blog.cloudflare.com/kv-cache-exposure-remediation/">https://blog.cloudflare.com/kv-cache-exposure-remediation/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50252159">https://news.ycombinator.com/item?id=50252159</a></p>
-<p>Points: 59</p>
-<p># Comments: 11</p>
+<p>Points: 104</p>
+<p># Comments: 33</p>
 
 🔗 **Read more:** [https://blog.cloudflare.com/kv-cache-exposure-remediation/](https://blog.cloudflare.com/kv-cache-exposure-remediation/)
-
----
-
-### 2. Is PHP Running on Your ColdFusion Server? How to Check, and Remove It
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it">https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50252008">https://news.ycombinator.com/item?id=50252008</a></p>
-<p>Points: 16</p>
-<p># Comments: 9</p>
-
-🔗 **Read more:** [https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it](https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it)
-
----
-
-### 3. The Exponential Time Hypothesis Is False [pdf]
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>See also: <i>Announcing three new discoveries in mathematics, computer science, and physics</i> - <a href="https://news.ycombinator.com/item?id=50251344">https://news.ycombinator.com/item?id=50251344</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50251661">https://news.ycombinator.com/item?id=50251661</a></p>
-<p>Points: 245</p>
-<p># Comments: 100</p>
-
-🔗 **Read more:** [https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf](https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf)
 
 ---
 
@@ -85,7 +84,7 @@ From Brexit debates to North Sea oil, there is plenty getting the cabinet, the L
 
 ---
 
-### 6. Healey vows cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes'
+### 6. Chancellor to cut tariffs on some staple goods to offer cost of living help
 
 **Source:** BBC
 
@@ -98,42 +97,42 @@ The chancellor will axe tariffs on some staples as part of plans to give househo
 
 ---
 
-### 7. Romania says Russia-run sabotage network set fire near weapons factory
+### 7. AI makes discoveries in mathematics, computer science, physics, OpenAI says
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Authorities say the fire in September is part of a broader campaign against European countries that support Ukraine.
+OpenAI&#039;s announcement is the latest in a series of claimed scientific breakthroughs credited to AI.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/27/romania-says-russia-run-sabotage-network-set-fire-near-weapons-factory?traffic_source=rss](https://www.aljazeera.com/news/2026/10/27/romania-says-russia-run-sabotage-network-set-fire-near-weapons-factory?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/27/ai-makes-discoveries-in-mathematics-computer-science-physics-openai-says?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/27/ai-makes-discoveries-in-mathematics-computer-science-physics-openai-says?traffic_source=rss)
 
 ---
 
-### 8. Iran war live: Iran says US ‘not serious’ about talks; ship ablaze off Iraq
+### 8. Iran, Saudi, Turkiye and Pakistan agree to more talks amid Houthi attacks
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Iran says the United States is &quot;not serious&quot; about negotiations as UKMTO reports a ship on fire off the coast of Iraq.
+Top officials from four countries to continue talks for peace and security as Saudi forces down more Houthi missiles.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-iran-says-us-not-serious-on-talks-ship-on-fire-off-iraq?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-iran-says-us-not-serious-on-talks-ship-on-fire-off-iraq?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/27/iran-saudi-turkiye-and-pakistan-agree-to-more-talks-amid-houthi-attacks?traffic_source=rss](https://www.aljazeera.com/news/2026/10/27/iran-saudi-turkiye-and-pakistan-agree-to-more-talks-amid-houthi-attacks?traffic_source=rss)
 
 ---
 
-### 9. Bolsonaro says police demand passports after Brazil election defeat
+### 9. People missing after massive drilling platform sinks off Gabon
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Flavio Bolsonaro posted a video on social media saying police ordered him to surrender his passports
+Five people are missing after a massive offshore drilling platform sank into the sea off Gabon’s southern coast.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/26/bolsonaro-says-police-demand-passports-after-brazil-election-defeat?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/26/bolsonaro-says-police-demand-passports-after-brazil-election-defeat?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/27/people-missing-after-massive-drilling-platform-sinks-off-gabon?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/27/people-missing-after-massive-drilling-platform-sinks-off-gabon?traffic_source=rss)
 
 ---
 

@@ -1,64 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-27 20:14:44
+**Last Update:** 2026-10-27 23:25:09
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Apple introduces the new 14‑inch MacBook Pro with M6
+### 1. US President says he will ban the term 'artificial intelligence'
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/">https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50261352">https://news.ycombinator.com/item?id=50261352</a></p>
-<p>Points: 21</p>
-<p># Comments: 5</p>
+<p>Article URL: <a href="https://thehill.com/homenews/administration/6175633-trump-bans-artificial-intelligence-term/">https://thehill.com/homenews/administration/6175633-trump-bans-artificial-intelligence-term/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50264228">https://news.ycombinator.com/item?id=50264228</a></p>
+<p>Points: 28</p>
+<p># Comments: 22</p>
 
-🔗 **Read more:** [https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/](https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/)
+🔗 **Read more:** [https://thehill.com/homenews/administration/6175633-trump-bans-artificial-intelligence-term/](https://thehill.com/homenews/administration/6175633-trump-bans-artificial-intelligence-term/)
 
 ---
 
-### 2. Genie 4
+### 2. Discord will soon let anyone find public server messages through Google
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/">https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50261319">https://news.ycombinator.com/item?id=50261319</a></p>
-<p>Points: 59</p>
+<p>Article URL: <a href="https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover">https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50263854">https://news.ycombinator.com/item?id=50263854</a></p>
+<p>Points: 50</p>
 <p># Comments: 23</p>
 
-🔗 **Read more:** [https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/)
+🔗 **Read more:** [https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover](https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover)
 
 ---
 
-### 3. Data Recovery CEO Indicted for Allegedly Scamming Ransomware Victims
+### 3. Three TLS Bugs in GoAhead
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.propublica.org/article/zohar-pinhasi-monstercloud-ransomware-indictment">https://www.propublica.org/article/zohar-pinhasi-monstercloud-ransomware-indictment</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50260960">https://news.ycombinator.com/item?id=50260960</a></p>
-<p>Points: 20</p>
-<p># Comments: 5</p>
+<p>Article URL: <a href="https://foxio.io/blog/choose-your-backend-three-tls-bugs-in-goahead">https://foxio.io/blog/choose-your-backend-three-tls-bugs-in-goahead</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50263701">https://news.ycombinator.com/item?id=50263701</a></p>
+<p>Points: 19</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://www.propublica.org/article/zohar-pinhasi-monstercloud-ransomware-indictment](https://www.propublica.org/article/zohar-pinhasi-monstercloud-ransomware-indictment)
+🔗 **Read more:** [https://foxio.io/blog/choose-your-backend-three-tls-bugs-in-goahead](https://foxio.io/blog/choose-your-backend-three-tls-bugs-in-goahead)
 
 ---
 
-### 4. Minimum wage set to rise but 18-20 year-olds will not get bigger increase
+### 4. What does Israel's election mean for Gaza and the wider world?
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The BBC's diplomatic correspondent James Landale reports from Jerusalem as ballots are cast.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/ck240dg5n4gjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/ck240dg5n4gjo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Minimum wage set to rise but 18-20 year-olds will not get bigger increase
 
 **Source:** BBC
 
@@ -71,7 +84,7 @@ Chancellor John Healey will reveal the new pay rates in the Budget, and has also
 
 ---
 
-### 5. Two in court over alleged Iran-linked plot at RAF Fairford
+### 6. Two in court over alleged Iran-linked plot at RAF Fairford
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ Mohmed Abdulkarim and Nouman Essghir, both 24, appear at Westminster Magistrates
 
 ---
 
-### 6. Turnout so far highest on record as Israelis vote in pivotal election
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The elections - the first since the Hamas-led attacks on Israel and the wars which followed - are widely seen as a referendum on Benjamin Netanyahu.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Lula’s victory echoes across BRICS after fears of a Bolsonaro win
+### 7. Israel election results live: Exit polls soon as Netanyahu faces tight race
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Lula’s fourth term may have spared BRICS an internal fracture at a time when Trump is trying to reassert US power.
+High turnout in vote widely described as the most consequential in Israel&#039;s history.
 
-🔗 **Read more:** [https://www.aljazeera.com/news-analysis/2026/10/27/lulas-victory-echoes-across-brics-after-fears-over-a-bolsonaro-win?traffic_source=rss](https://www.aljazeera.com/news-analysis/2026/10/27/lulas-victory-echoes-across-brics-after-fears-over-a-bolsonaro-win?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/10/27/israel-election-results-live-exit-polls-soon-as-netanyahu-faces-tight-race?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/10/27/israel-election-results-live-exit-polls-soon-as-netanyahu-faces-tight-race?traffic_source=rss)
 
 ---
 
-### 8. Death toll from attack by gunmen in northeastern Nigeria rises to 62
+### 8. US’s RFK Jr claims Arabs ‘don’t produce science’: Why he’s very, very wrong
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Bandits targeted Binnari village in Taraba state, setting fire to homes, shops, food supplies and motorcycles.
+US Health Secretary Robert F Kennedy Jr has claimed Arabs have not made contributions to math, science or literature.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/27/death-toll-from-attack-by-gunmen-in-northeastern-nigeria-rises-to-62?traffic_source=rss](https://www.aljazeera.com/news/2026/10/27/death-toll-from-attack-by-gunmen-in-northeastern-nigeria-rises-to-62?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/27/uss-rfk-jr-claims-arabs-dont-produce-science-why-hes-very-very-wrong?traffic_source=rss](https://www.aljazeera.com/news/2026/10/27/uss-rfk-jr-claims-arabs-dont-produce-science-why-hes-very-very-wrong?traffic_source=rss)
 
 ---
 
-### 9. Iranian and Qatari leaders meet at Russian energy forum
+### 9. Trump says he’ll respect US midterm results if elections are ‘honest’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Iranian and Qatari leaders meet at Russian energy forum
+US President Donald Trump says he will respect the results of the November 3 midterm elections if they are ‘honest’.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/27/iranian-and-qatari-leaders-meet-at-russian-energy-forum?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/27/iranian-and-qatari-leaders-meet-at-russian-energy-forum?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/27/trump-says-hell-respect-us-midterm-results-if-elections-are?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/27/trump-says-hell-respect-us-midterm-results-if-elections-are?traffic_source=rss)
 
 ---
 
@@ -162,16 +162,16 @@ Natural event: Severe Storms
 
 ---
 
-### 12. Typhoon In-fa
+### 12. Wildfire Range  47B, Forrest, Mississippi
 
 **Source:** NASA
 
 **Category:** nature
 
 **Description:**
-Natural event: Severe Storms
+Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25728](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25728)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25769](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25769)
 
 ---
 

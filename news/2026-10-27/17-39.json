@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-27T17:39:35+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Wiz: No successful PHP2Shell exploits seen so far; exposure down 67%",
+            "description": "<p>Article URL: <a href=\"https://www.wiz.io/blog/php2shell-exploitation-so-far\">https://www.wiz.io/blog/php2shell-exploitation-so-far</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50259343\">https://news.ycombinator.com/item?id=50259343</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+            "url": "https://www.wiz.io/blog/php2shell-exploitation-so-far",
+            "published": "Tue, 27 Oct 2026 13:52:12 +0000",
+            "fetched": "2026-10-27T17:39:35+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Here Be Monsters: What Do You Still Need to Know When Agents Do the Work?",
+            "description": "<p>Article URL: <a href=\"https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work\">https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50258868\">https://news.ycombinator.com/item?id=50258868</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+            "url": "https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work",
+            "published": "Tue, 27 Oct 2026 13:23:22 +0000",
+            "fetched": "2026-10-27T17:39:35+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "New iMac with M6",
+            "description": "<p>Article URL: <a href=\"https://www.apple.com/imac/\">https://www.apple.com/imac/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50258538\">https://news.ycombinator.com/item?id=50258538</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://www.apple.com/imac/",
+            "published": "Tue, 27 Oct 2026 13:02:02 +0000",
+            "fetched": "2026-10-27T17:39:35+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
+            "description": "Chancellor John Healey will reveal the new pay rates in the Budget, and has also announced measures to help households with the cost of living.",
+            "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 27 Oct 2026 13:18:37 GMT",
+            "fetched": "2026-10-27T17:39:35+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Two charged over alleged plot to assist Iran in RAF Fairford incident",
+            "description": "Mohmed Ahmad Abdulkarim and Nouman Essghir, both 24, will appear at Westminster Magistrates' Court on Tuesday.",
+            "url": "https://www.bbc.co.uk/news/articles/cqly3v5vz4kko?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 27 Oct 2026 12:50:14 GMT",
+            "fetched": "2026-10-27T17:39:35+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Turnout so far at record levels as Israelis vote in pivotal election",
+            "description": "The elections - the first since the Hamas-led attacks on Israel and the wars which followed - are widely seen as a referendum on Benjamin Netanyahu.",
+            "url": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 27 Oct 2026 11:11:33 GMT",
+            "fetched": "2026-10-27T17:39:35+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Melania or the Pope: Who brokered Russia-Ukraine ceasefire in Oleshky?",
+            "description": "Competing claims over the ceasefire mark the latest tensions between the White House and the Vatican.",
+            "url": "https://www.aljazeera.com/news/2026/10/27/melania-or-the-pope-who-brokered-russia-ukraine-ceasefire-in-oleshky?traffic_source=rss",
+            "published": "Tue, 27 Oct 2026 13:45:01 +0000",
+            "fetched": "2026-10-27T17:39:35+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Russia strikes Kyiv ahead of localised ceasefire in Oleshky",
+            "description": "Russia struck Kyiv multiple times on Monday night, hours before a humanitarian ceasefire in Oleshky took effect.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/russia-strikes-kyiv-ahead-of-localised-ceasefire-in-oleshky?traffic_source=rss",
+            "published": "Tue, 27 Oct 2026 13:34:07 +0000",
+            "fetched": "2026-10-27T17:39:35+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "The Netherlands pulls out of Eurovision 2027 due to Israel ‘sensitivities’",
+            "description": "Dutch withdrawal is the latest in a number of boycotts by countries unhappy about Israel&#039;s inclusion.",
+            "url": "https://www.aljazeera.com/news/2026/10/27/the-netherlands-pulls-out-of-eurovision-2027-due-to-israel-sensitivities?traffic_source=rss",
+            "published": "Tue, 27 Oct 2026 13:29:47 +0000",
+            "fetched": "2026-10-27T17:39:35+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Arnab",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25729",
+            "published": "2026-10-25T18:00:00Z",
+            "fetched": "2026-10-27T17:39:35+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Olana",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25730",
+            "published": "2026-10-25T18:00:00Z",
+            "fetched": "2026-10-27T17:39:35+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon In-fa",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25728",
+            "published": "2026-10-23T18:00:00Z",
+            "fetched": "2026-10-27T17:39:35+03:30"
+        }
+    ]
+}

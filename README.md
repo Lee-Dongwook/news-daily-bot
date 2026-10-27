@@ -1,94 +1,142 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-27 14:13:28
+**Last Update:** 2026-10-27 17:39:35
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Two charged with national security offences over RAF Fairford incident
+### 1. Wiz: No successful PHP2Shell exploits seen so far; exposure down 67%
 
-**Source:** BBC
+**Source:** Hacker News
 
-**Category:** world
+**Category:** technology
 
 **Description:**
-One of the men, Mohmed Ahmad Abdulkarim, 24, is accused of assisting Iran's intelligence service.
+<p>Article URL: <a href="https://www.wiz.io/blog/php2shell-exploitation-so-far">https://www.wiz.io/blog/php2shell-exploitation-so-far</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50259343">https://news.ycombinator.com/item?id=50259343</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqly3v5vz4kko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqly3v5vz4kko?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.wiz.io/blog/php2shell-exploitation-so-far](https://www.wiz.io/blog/php2shell-exploitation-so-far)
 
 ---
 
-### 2. Chancellor to cut tariffs on some staple goods to offer cost of living help
+### 2. Here Be Monsters: What Do You Still Need to Know When Agents Do the Work?
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work">https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50258868">https://news.ycombinator.com/item?id=50258868</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work](https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work)
+
+---
+
+### 3. New iMac with M6
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.apple.com/imac/">https://www.apple.com/imac/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50258538">https://news.ycombinator.com/item?id=50258538</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.apple.com/imac/](https://www.apple.com/imac/)
+
+---
+
+### 4. Minimum wage set to rise but 18-20 year-olds will not get bigger increase
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-A series of small announcements are part of John Healey's pledge to give households help with the cost of living.
+Chancellor John Healey will reveal the new pay rates in the Budget, and has also announced measures to help households with the cost of living.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 3. Israel heads to polls for pivotal election defined by security and democracy
+### 5. Two charged over alleged plot to assist Iran in RAF Fairford incident
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Many fear neither of the leading political blocs will win enough seats for a majority - meaning weeks or months of political wrangling may lie ahead.
+Mohmed Ahmad Abdulkarim and Nouman Essghir, both 24, will appear at Westminster Magistrates' Court on Tuesday.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqly3v5vz4kko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqly3v5vz4kko?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Turnout so far at record levels as Israelis vote in pivotal election
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The elections - the first since the Hamas-led attacks on Israel and the wars which followed - are widely seen as a referendum on Benjamin Netanyahu.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. ‘It’s magical’: London’s iconic Oxford Street goes vehicle-free
+### 7. Melania or the Pope: Who brokered Russia-Ukraine ceasefire in Oleshky?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The cars have gone, and so have the buses, but while retailers expect a boost, residents worry about change.
+Competing claims over the ceasefire mark the latest tensions between the White House and the Vatican.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/10/27/its-magical-londons-iconic-oxford-street-goes-vehicle-free?traffic_source=rss](https://www.aljazeera.com/features/2026/10/27/its-magical-londons-iconic-oxford-street-goes-vehicle-free?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/27/melania-or-the-pope-who-brokered-russia-ukraine-ceasefire-in-oleshky?traffic_source=rss](https://www.aljazeera.com/news/2026/10/27/melania-or-the-pope-who-brokered-russia-ukraine-ceasefire-in-oleshky?traffic_source=rss)
 
 ---
 
-### 5. WNBA Finals: Valkyries beat Dream to reach the brink of their first title
+### 8. Russia strikes Kyiv ahead of localised ceasefire in Oleshky
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Kiah Stokes and Veronica Burton shine for Golden State as Angel Reese&#039;s Atlanta team was stifled by a strong defence.
+Russia struck Kyiv multiple times on Monday night, hours before a humanitarian ceasefire in Oleshky took effect.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/27/wnba-finals-valkyries-beat-dream-to-reach-the-brink-of-their-first-title?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/27/wnba-finals-valkyries-beat-dream-to-reach-the-brink-of-their-first-title?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/27/russia-strikes-kyiv-ahead-of-localised-ceasefire-in-oleshky?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/27/russia-strikes-kyiv-ahead-of-localised-ceasefire-in-oleshky?traffic_source=rss)
 
 ---
 
-### 6. Heavy rains trigger massive flooding in Ecuador’s largest city
+### 9. The Netherlands pulls out of Eurovision 2027 due to Israel ‘sensitivities’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Parts of Ecuador’s largest city are underwater after severe rains battered the coast.
+Dutch withdrawal is the latest in a number of boycotts by countries unhappy about Israel&#039;s inclusion.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/27/heavy-rains-trigger-massive-flooding-in-ecuadors-largest-city?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/27/heavy-rains-trigger-massive-flooding-in-ecuadors-largest-city?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/27/the-netherlands-pulls-out-of-eurovision-2027-due-to-israel-sensitivities?traffic_source=rss](https://www.aljazeera.com/news/2026/10/27/the-netherlands-pulls-out-of-eurovision-2027-due-to-israel-sensitivities?traffic_source=rss)
 
 ---
 
-### 7. Tropical Cyclone Arnab
+### 10. Tropical Cyclone Arnab
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Severe Storms
 
 ---
 
-### 8. Tropical Storm Olana
+### 11. Tropical Storm Olana
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Severe Storms
 
 ---
 
-### 9. Typhoon In-fa
+### 12. Typhoon In-fa
 
 **Source:** NASA
 

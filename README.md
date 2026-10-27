@@ -1,64 +1,42 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-27 10:59:55
+**Last Update:** 2026-10-27 14:13:28
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. A simplified proof of ETH is False [pdf]
+### 1. Two charged with national security offences over RAF Fairford incident
 
-**Source:** Hacker News
+**Source:** BBC
 
-**Category:** technology
+**Category:** world
 
 **Description:**
-<p>Article URL: <a href="https://shivakintali.github.io/papers/ETH.pdf">https://shivakintali.github.io/papers/ETH.pdf</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50255406">https://news.ycombinator.com/item?id=50255406</a></p>
-<p>Points: 7</p>
-<p># Comments: 0</p>
+One of the men, Mohmed Ahmad Abdulkarim, 24, is accused of assisting Iran's intelligence service.
 
-🔗 **Read more:** [https://shivakintali.github.io/papers/ETH.pdf](https://shivakintali.github.io/papers/ETH.pdf)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqly3v5vz4kko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqly3v5vz4kko?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 2. The Mythical Man-Month in the Age of AI
+### 2. Chancellor to cut tariffs on some staple goods to offer cost of living help
 
-**Source:** Hacker News
+**Source:** BBC
 
-**Category:** technology
+**Category:** world
 
 **Description:**
-<p>Article URL: <a href="https://j11g.com/the-mythical-man-month-in-the-age-of-ai">https://j11g.com/the-mythical-man-month-in-the-age-of-ai</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50255298">https://news.ycombinator.com/item?id=50255298</a></p>
-<p>Points: 9</p>
-<p># Comments: 5</p>
+A series of small announcements are part of John Healey's pledge to give households help with the cost of living.
 
-🔗 **Read more:** [https://j11g.com/the-mythical-man-month-in-the-age-of-ai](https://j11g.com/the-mythical-man-month-in-the-age-of-ai)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 3. Writing about pratt parsing so I remember it
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.unix.dog/~yosh/blog/2026-10-25_pratt-parsing.html">https://www.unix.dog/~yosh/blog/2026-10-25_pratt-parsing.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50255177">https://news.ycombinator.com/item?id=50255177</a></p>
-<p>Points: 10</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://www.unix.dog/~yosh/blog/2026-10-25_pratt-parsing.html](https://www.unix.dog/~yosh/blog/2026-10-25_pratt-parsing.html)
-
----
-
-### 4. Israel heads to polls for pivotal election defined by security and democracy
+### 3. Israel heads to polls for pivotal election defined by security and democracy
 
 **Source:** BBC
 
@@ -71,72 +49,46 @@ Many fear neither of the leading political blocs will win enough seats for a maj
 
 ---
 
-### 5. Chancellor to cut tariffs on some staple goods to offer cost of living help
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The chancellor will axe tariffs on some staples as part of plans to give households "breathing space".
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Kane ends England’s 25-year wait to win men’s Ballon d’Or award
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Harry Kane becomes the first English player to win the prize since Michael Owen in 2001, and Spain midfielder Alexia Putellas wins the Ballon d’Or Feminin for a record-equalling third time.
-
-🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/cqlye4jpzzxyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/cqlye4jpzzxyo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. US, EU and 30 countries warn of famine risk in Sudan, call for aid
+### 4. ‘It’s magical’: London’s iconic Oxford Street goes vehicle-free
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Countries also urge Sudan&#039;s warring parties to &#039;lift all impediments on humanitarian assistance&#039;.
+The cars have gone, and so have the buses, but while retailers expect a boost, residents worry about change.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/27/us-eu-and-30-countries-warn-of-famine-risk-in-sudan-call-for-aid?traffic_source=rss](https://www.aljazeera.com/news/2026/10/27/us-eu-and-30-countries-warn-of-famine-risk-in-sudan-call-for-aid?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/10/27/its-magical-londons-iconic-oxford-street-goes-vehicle-free?traffic_source=rss](https://www.aljazeera.com/features/2026/10/27/its-magical-londons-iconic-oxford-street-goes-vehicle-free?traffic_source=rss)
 
 ---
 
-### 8. South Korea’s GDP growth beats forecasts amid AI boom
+### 5. WNBA Finals: Valkyries beat Dream to reach the brink of their first title
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Asia&#039;s fourth-largest economy grows 3.4 percent year-on-year amid strong semiconductor demand.
+Kiah Stokes and Veronica Burton shine for Golden State as Angel Reese&#039;s Atlanta team was stifled by a strong defence.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/27/south-koreas-gdp-growth-beats-forecasts-amid-ai-boom?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/27/south-koreas-gdp-growth-beats-forecasts-amid-ai-boom?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/27/wnba-finals-valkyries-beat-dream-to-reach-the-brink-of-their-first-title?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/27/wnba-finals-valkyries-beat-dream-to-reach-the-brink-of-their-first-title?traffic_source=rss)
 
 ---
 
-### 9. Sixty Christians killed in Ethiopia’s Oromia region
+### 6. Heavy rains trigger massive flooding in Ecuador’s largest city
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Church officials say more than 20 people have been injured, while 20 homes have burned down as religious tensions flare.
+Parts of Ecuador’s largest city are underwater after severe rains battered the coast.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/27/sixty-christians-killed-in-ethiopias-oromia-region?traffic_source=rss](https://www.aljazeera.com/news/2026/10/27/sixty-christians-killed-in-ethiopias-oromia-region?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/27/heavy-rains-trigger-massive-flooding-in-ecuadors-largest-city?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/27/heavy-rains-trigger-massive-flooding-in-ecuadors-largest-city?traffic_source=rss)
 
 ---
 
-### 10. Tropical Cyclone Arnab
+### 7. Tropical Cyclone Arnab
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Severe Storms
 
 ---
 
-### 11. Tropical Storm Olana
+### 8. Tropical Storm Olana
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Severe Storms
 
 ---
 
-### 12. Typhoon In-fa
+### 9. Typhoon In-fa
 
 **Source:** NASA
 

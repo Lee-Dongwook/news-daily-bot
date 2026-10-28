@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-28T21:35:00+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Mac Studio M5 Ultra 512GB Officially Released",
+            "description": "<p>Article URL: <a href=\"https://www.apple.com/shop/buy-mac/mac-studio\">https://www.apple.com/shop/buy-mac/mac-studio</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50277166\">https://news.ycombinator.com/item?id=50277166</a></p>\n<p>Points: 11</p>\n<p># Comments: 4</p>",
+            "url": "https://www.apple.com/shop/buy-mac/mac-studio",
+            "published": "Wed, 28 Oct 2026 17:21:02 +0000",
+            "fetched": "2026-10-28T21:35:00+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "MacBook Pro with PROLED XDR Display and Touch",
+            "description": "<p><a href=\"https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/\" rel=\"nofollow\">https://www.apple.com/newsroom/2026/10/apple-unveils-groundb...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50276940\">https://news.ycombinator.com/item?id=50276940</a></p>\n<p>Points: 168</p>\n<p># Comments: 251</p>",
+            "url": "https://www.apple.com/macbook-pro/proled-xdr-display/",
+            "published": "Wed, 28 Oct 2026 17:10:37 +0000",
+            "fetched": "2026-10-28T21:35:00+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: SlideBySide – Present slides without sharing your screen",
+            "description": "<p>Why is it useful?\n- Present slides without sharing the screen and have every one be on the same page.\n- Present together with other cohosts and all control the current page.\n- Other features such as presentation collab features.<p>Why should I not just vibe code my own solution?\n- Its a hassle to maintain a version online.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50276883\">https://news.ycombinator.com/item?id=50276883</a></p>\n<p>Points: 10</p>\n<p># Comments: 4</p>",
+            "url": "https://slidebyside.com/",
+            "published": "Wed, 28 Oct 2026 17:07:09 +0000",
+            "fetched": "2026-10-28T21:35:00+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Key points at a glance",
+            "description": "Here’s what you need to know from John Healey’s first Budget, as the chancellor sets out the government’s tax and spending plans.",
+            "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 28 Oct 2026 16:55:27 GMT",
+            "fetched": "2026-10-28T21:35:00+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Chris Mason: Budget felt cautious despite its range of small measures",
+            "description": "The chancellor has had to grapple with a mix of public finances and household finances being a mess.",
+            "url": "https://www.bbc.co.uk/news/articles/cm78pljvqvxeo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 28 Oct 2026 16:52:16 GMT",
+            "fetched": "2026-10-28T21:35:00+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Will I get the £100 energy payment and when will I receive it?",
+            "description": "Here is what you need to know about the payment that millions will receive from January.",
+            "url": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 28 Oct 2026 17:47:37 GMT",
+            "fetched": "2026-10-28T21:35:00+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Sudan war and inflation leave families struggling to survive in Khartoum",
+            "description": "Soaring food prices and shrinking incomes force families in Sudan&#039;s capital to borrow money and skip meals.",
+            "url": "https://www.aljazeera.com/features/2026/10/28/sudan-war-and-inflation-leave-families-struggling-to-survive-in-khartoum?traffic_source=rss",
+            "published": "Wed, 28 Oct 2026 17:09:05 +0000",
+            "fetched": "2026-10-28T21:35:00+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Canada-EU summit: What do both sides want, and what’s at stake?",
+            "description": "The EU has proposed to make Canada its first associate member amid tensions over US tariffs.",
+            "url": "https://www.aljazeera.com/economy/2026/10/28/canada-eu-summit-what-do-both-sides-want-and-whats-at-stake?traffic_source=rss",
+            "published": "Wed, 28 Oct 2026 16:54:51 +0000",
+            "fetched": "2026-10-28T21:35:00+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Bank of Canada raises interest rates for the first time in three years",
+            "description": "The central bank increased the key rate by a quarter point as soaring energy prices pushed up inflation.",
+            "url": "https://www.aljazeera.com/economy/2026/10/28/bank-of-canada-raises-interest-rates-for-the-first-time-in-three-years?traffic_source=rss",
+            "published": "Wed, 28 Oct 2026 16:44:44 +0000",
+            "fetched": "2026-10-28T21:35:00+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Arnab",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25729",
+            "published": "2026-10-25T18:00:00Z",
+            "fetched": "2026-10-28T21:35:00+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Olana",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25730",
+            "published": "2026-10-25T18:00:00Z",
+            "fetched": "2026-10-28T21:35:00+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Range  47B, Forrest, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25769",
+            "published": "2026-10-24T17:10:00Z",
+            "fetched": "2026-10-28T21:35:00+03:30"
+        }
+    ]
+}

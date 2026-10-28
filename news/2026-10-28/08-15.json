@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-10-28T08:15:51+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Israeli exit polls suggest no clear winner in pivotal general election",
+            "description": "Two polls project that veteran PM Benjamin Netanyahu and former military chief Gadi Eisenkot are tied, with neither winning a majority.",
+            "url": "https://www.bbc.co.uk/news/articles/cq1kdgxw302zo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 28 Oct 2026 02:09:11 GMT",
+            "fetched": "2026-10-28T08:15:51+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: What happens now after close vote in Israeli election?",
+            "description": "Polls have closed in the Israeli election, but there is no clear winner.",
+            "url": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 28 Oct 2026 04:22:59 GMT",
+            "fetched": "2026-10-28T08:15:51+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Chris Mason: Budget needs to go some way towards delivering PM's promises",
+            "description": "Support on the cost of living, and in particular energy bills, as well as announcments on devolution will be central to John Healey's first Budget.",
+            "url": "https://www.bbc.co.uk/news/articles/c6y43wkln1k2o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 27 Oct 2026 22:30:09 GMT",
+            "fetched": "2026-10-28T08:15:51+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Mbappe faces backlash in China for meme fiasco",
+            "description": "Three major Chinese brands have ended partnerships with French football star Kylian Mbappe",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/mbappe-faces-backlash-in-china-for-meme-fiasco?traffic_source=rss",
+            "published": "Wed, 28 Oct 2026 04:28:22 +0000",
+            "fetched": "2026-10-28T08:15:51+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Mahmoud Khalil credits Palestinian activism for reshaping US politics",
+            "description": "Khalil returned to Columbia University to discuss his memoir detailing his arrest and detention by US immigration agents",
+            "url": "https://www.aljazeera.com/news/2026/10/28/mahmoud-khalil-credits-palestinian-activism-for-reshaping-us-politics?traffic_source=rss",
+            "published": "Wed, 28 Oct 2026 04:13:28 +0000",
+            "fetched": "2026-10-28T08:15:51+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Bolsonaro ally denies knowledge of senator’s plan to flee Brazil",
+            "description": "Flavio Bolsonaro’s former campaign manager says the senator did not inform him that he planned to flee Brazil.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/bolsonaro-ally-denies-knowledge-of-senators-plan-to-flee-brazil?traffic_source=rss",
+            "published": "Wed, 28 Oct 2026 03:49:40 +0000",
+            "fetched": "2026-10-28T08:15:51+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Arnab",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25729",
+            "published": "2026-10-25T18:00:00Z",
+            "fetched": "2026-10-28T08:15:51+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Olana",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25730",
+            "published": "2026-10-25T18:00:00Z",
+            "fetched": "2026-10-28T08:15:51+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Range  47B, Forrest, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25769",
+            "published": "2026-10-24T17:10:00Z",
+            "fetched": "2026-10-28T08:15:51+03:30"
+        }
+    ]
+}

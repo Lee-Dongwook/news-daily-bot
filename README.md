@@ -1,29 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-28 08:15:51
+**Last Update:** 2026-10-28 10:27:39
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Israeli exit polls suggest no clear winner in pivotal general election
+### 1. Artificial Analysis Intelligence Index v5.0
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://artificialanalysis.ai/methodology/intelligence-benchmarking">https://artificialanalysis.ai/methodology/intelligence-benchmarking</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50269651">https://news.ycombinator.com/item?id=50269651</a></p>
+<p>Points: 34</p>
+<p># Comments: 16</p>
+
+🔗 **Read more:** [https://artificialanalysis.ai/methodology/intelligence-benchmarking](https://artificialanalysis.ai/methodology/intelligence-benchmarking)
+
+---
+
+### 2. Artificial Analysis Intelligence Index v5
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5">https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50268868">https://news.ycombinator.com/item?id=50268868</a></p>
+<p>Points: 12</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5](https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5)
+
+---
+
+### 3. Git for the US Code
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://lexifina.com/blog/git-for-the-us-code">https://lexifina.com/blog/git-for-the-us-code</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50268380">https://news.ycombinator.com/item?id=50268380</a></p>
+<p>Points: 183</p>
+<p># Comments: 94</p>
+
+🔗 **Read more:** [https://lexifina.com/blog/git-for-the-us-code](https://lexifina.com/blog/git-for-the-us-code)
+
+---
+
+### 4. Tax on banks, energy bill help and minimum wage rise - what could be in the Budget?
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Two polls project that veteran PM Benjamin Netanyahu and former military chief Gadi Eisenkot are tied, with neither winning a majority.
+Chancellor John Healey will set out his plans for UK taxes on 28 October.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq1kdgxw302zo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq1kdgxw302zo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 2. Watch: What happens now after close vote in Israeli election?
+### 5. Watch: What happens now after close vote in Israeli election?
 
 **Source:** BBC
 
@@ -36,59 +84,59 @@ Polls have closed in the Israeli election, but there is no clear winner.
 
 ---
 
-### 3. Chris Mason: Budget needs to go some way towards delivering PM's promises
+### 6. Defeated presidential candidate Flávio Bolsonaro arrives in US after Brazil cancels his passports, sources say
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Support on the cost of living, and in particular energy bills, as well as announcments on devolution will be central to John Healey's first Budget.
+The defeated presidential candidate's apparent arrival in the US came hours after he failed to turn in his passports to Brazilian authorities.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6y43wkln1k2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6y43wkln1k2o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckly0xpxp243o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckly0xpxp243o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. Mbappe faces backlash in China for meme fiasco
+### 7. The next phase of military rule in Egypt is here
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Three major Chinese brands have ended partnerships with French football star Kylian Mbappe
+El-Sisi’s announcement that he will not run for a fourth term may signal a new leadership arrangement.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/28/mbappe-faces-backlash-in-china-for-meme-fiasco?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/28/mbappe-faces-backlash-in-china-for-meme-fiasco?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/10/28/the-next-phase-of-military-rule-in-egypt-is-here?traffic_source=rss](https://www.aljazeera.com/opinions/2026/10/28/the-next-phase-of-military-rule-in-egypt-is-here?traffic_source=rss)
 
 ---
 
-### 5. Mahmoud Khalil credits Palestinian activism for reshaping US politics
+### 8. Experts defer to AI in decision-making, Anthropic study finds
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Khalil returned to Columbia University to discuss his memoir detailing his arrest and detention by US immigration agents
+Professional analysts chose options that matched AI assistant&#039;s preference 86 percent of the time, research finds.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/28/mahmoud-khalil-credits-palestinian-activism-for-reshaping-us-politics?traffic_source=rss](https://www.aljazeera.com/news/2026/10/28/mahmoud-khalil-credits-palestinian-activism-for-reshaping-us-politics?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/28/experts-defer-to-ai-in-decision-making-anthropic-study-finds?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/28/experts-defer-to-ai-in-decision-making-anthropic-study-finds?traffic_source=rss)
 
 ---
 
-### 6. Bolsonaro ally denies knowledge of senator’s plan to flee Brazil
+### 9. Arsenal knocked out of League Cup by fourth-tier Fleetwood Town
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Flavio Bolsonaro’s former campaign manager says the senator did not inform him that he planned to flee Brazil.
+Fourth-tier Fleetwood beat 10-man Arsenal 5-3 on penalties in ⁠the League Cup last 16, pulling off a major upset.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/28/bolsonaro-ally-denies-knowledge-of-senators-plan-to-flee-brazil?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/28/bolsonaro-ally-denies-knowledge-of-senators-plan-to-flee-brazil?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/28/arsenal-fleetwood-town-league-cup-penalties-guimaraes-dowman?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/28/arsenal-fleetwood-town-league-cup-penalties-guimaraes-dowman?traffic_source=rss)
 
 ---
 
-### 7. Tropical Cyclone Arnab
+### 10. Tropical Cyclone Arnab
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Severe Storms
 
 ---
 
-### 8. Tropical Storm Olana
+### 11. Tropical Storm Olana
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Severe Storms
 
 ---
 
-### 9. Wildfire Range  47B, Forrest, Mississippi
+### 12. Wildfire Range  47B, Forrest, Mississippi
 
 **Source:** NASA
 

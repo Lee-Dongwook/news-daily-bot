@@ -1,94 +1,142 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-28 14:36:49
+**Last Update:** 2026-10-28 17:40:55
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. What could be in the Budget?
+### 1. The Agent SDK
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://cursor.com/blog/agent-sdk">https://cursor.com/blog/agent-sdk</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50273731">https://news.ycombinator.com/item?id=50273731</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://cursor.com/blog/agent-sdk](https://cursor.com/blog/agent-sdk)
+
+---
+
+### 2. Harvey raised 500M for legal AI, I built the same and open sourced it
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/thomasunise/casecite">https://github.com/thomasunise/casecite</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50273623">https://news.ycombinator.com/item?id=50273623</a></p>
+<p>Points: 25</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://github.com/thomasunise/casecite](https://github.com/thomasunise/casecite)
+
+---
+
+### 3. Kentucky man becomes the first humanist granted religious exemption from AI
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/">https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50273396">https://news.ycombinator.com/item?id=50273396</a></p>
+<p>Points: 36</p>
+<p># Comments: 21</p>
+
+🔗 **Read more:** [https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/](https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/)
+
+---
+
+### 4. Key points at a glance
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Chancellor John Healey will set out his plans for UK taxes on 28 October.
+Here’s what you need to know from John Healey’s first Budget, as the chancellor sets out the government’s tax and spending plans.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 2. Watch: What happens now after close vote in Israeli election?
+### 5. How the Budget affects you
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Polls have closed in the Israeli election, but there is no clear winner.
+Changes announced by Chancellor John Healey in his first Budget will affect your finances directly. Here's how.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 3. Russell Brand tells court allegations had devastating impact on him
+### 6. Chancellor takes to the despatch box for his first Budget
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The entertainer begins giving evidence at his trial on charges including rape at Southwark Crown Court.
+The chancellor begins his speech by calling it a Budget for the "working people of Britain, for British businesses big and small."
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmvgxl5kdgrzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmvgxl5kdgrzo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cqn49vy2jlx0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cqn49vy2jlx0o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. Burnham’s government unveils its first UK budget: What to expect
+### 7. Spanish football postpones 24 Copa del Rey games after train crash
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-UK chancellor to present an autumn budget amid rising living costs and energy bills.
+Real Madrid and Barcelona offer messages of support following train crash as Spanish football orders Copa postponement.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/28/burnhams-government-unveils-its-first-uk-budget-what-to-expect?traffic_source=rss](https://www.aljazeera.com/news/2026/10/28/burnhams-government-unveils-its-first-uk-budget-what-to-expect?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/28/spanish-football-postpones-24-copa-del-rey-games-after-train-crash?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/28/spanish-football-postpones-24-copa-del-rey-games-after-train-crash?traffic_source=rss)
 
 ---
 
-### 5. Israeli forces continue West Bank raids as Hebron lockdown enters sixth day
+### 8. Iraqi PM Ali al-Zaidi meets Ahmed al-Sharaa in historic Syria visit
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-UN agency expresses &#039;grave concern&#039; in Hebron and warns of echoes of 2025 &#039;Iron Wall&#039; operation.
+Talks focused on enhancing trade, reviving Baniyas oil pipeline and achieving stability through cooperation.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/28/israeli-forces-continue-west-bank-raids-as-hebron-lockdown-enters-sixth-day?traffic_source=rss](https://www.aljazeera.com/news/2026/10/28/israeli-forces-continue-west-bank-raids-as-hebron-lockdown-enters-sixth-day?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/28/iraqi-pm-ali-al-zaidi-meets-ahmed-al-sharaa-in-historic-syria-visit?traffic_source=rss](https://www.aljazeera.com/news/2026/10/28/iraqi-pm-ali-al-zaidi-meets-ahmed-al-sharaa-in-historic-syria-visit?traffic_source=rss)
 
 ---
 
-### 6. ‘Russia is already part of who I am’: African students in Moscow
+### 9. Real Madrid apologise to Chinese people for Mbappe’s Mao ‘dictator’ remark
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-As the Russia-Africa Summit gets under way, students in the capital say education is helping to build ties.
+Mocking Mao Zedong is taboo in China, which is a lucrative market for players and teams such as Kylian Mbappe&#039;s Real.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/28/russia-is-already-part-of-who-i-am-african-students-in-moscow?traffic_source=rss](https://www.aljazeera.com/news/2026/10/28/russia-is-already-part-of-who-i-am-african-students-in-moscow?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/28/real-madrid-apologise-to-chinese-people-for-mbappes-mao-dictator-remark?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/28/real-madrid-apologise-to-chinese-people-for-mbappes-mao-dictator-remark?traffic_source=rss)
 
 ---
 
-### 7. Tropical Cyclone Arnab
+### 10. Tropical Cyclone Arnab
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Severe Storms
 
 ---
 
-### 8. Tropical Storm Olana
+### 11. Tropical Storm Olana
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Severe Storms
 
 ---
 
-### 9. Wildfire Range  47B, Forrest, Mississippi
+### 12. Wildfire Range  47B, Forrest, Mississippi
 
 **Source:** NASA
 

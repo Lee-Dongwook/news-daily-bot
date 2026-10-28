@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-28 03:07:49
+**Last Update:** 2026-10-28 04:05:25
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Reviewers rarely talk about reliability. Owners bring it up twice as often
+### 1. Free daily JSON feed of Shanghai government subsidy notices
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/ZhongGheart/china-policy-data">https://github.com/ZhongGheart/china-policy-data</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50267494">https://news.ycombinator.com/item?id=50267494</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://github.com/ZhongGheart/china-policy-data](https://github.com/ZhongGheart/china-policy-data)
+
+---
+
+### 2. Reviewers rarely talk about reliability. Owners bring it up twice as often
 
 **Source:** Hacker News
 
@@ -19,42 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://www.bettascore.ai/research/reliability-reviewers-vs-owners">https://www.bettascore.ai/research/reliability-reviewers-vs-owners</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50266780">https://news.ycombinator.com/item?id=50266780</a></p>
-<p>Points: 12</p>
-<p># Comments: 11</p>
+<p>Points: 37</p>
+<p># Comments: 33</p>
 
 🔗 **Read more:** [https://www.bettascore.ai/research/reliability-reviewers-vs-owners](https://www.bettascore.ai/research/reliability-reviewers-vs-owners)
 
 ---
 
-### 2. One year of Dioxus fullstack in production: the good, the painful
+### 3. Expanding our partnership with GSA to bring Claude to all levels of government
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://oxidt.com/blog/one-year-of-dioxus-fullstack-in-production-the-good-the-painful">https://oxidt.com/blog/one-year-of-dioxus-fullstack-in-production-the-good-the-painful</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50265960">https://news.ycombinator.com/item?id=50265960</a></p>
-<p>Points: 17</p>
-<p># Comments: 10</p>
+<p>Article URL: <a href="https://www.anthropic.com/news/expanding-partnership-gsa">https://www.anthropic.com/news/expanding-partnership-gsa</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50266701">https://news.ycombinator.com/item?id=50266701</a></p>
+<p>Points: 14</p>
+<p># Comments: 8</p>
 
-🔗 **Read more:** [https://oxidt.com/blog/one-year-of-dioxus-fullstack-in-production-the-good-the-painful](https://oxidt.com/blog/one-year-of-dioxus-fullstack-in-production-the-good-the-painful)
-
----
-
-### 3. Early progress on accelerating drug development with Claude
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.anthropic.com/research/early-progress-drug-development">https://www.anthropic.com/research/early-progress-drug-development</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50265609">https://news.ycombinator.com/item?id=50265609</a></p>
-<p>Points: 74</p>
-<p># Comments: 64</p>
-
-🔗 **Read more:** [https://www.anthropic.com/research/early-progress-drug-development](https://www.anthropic.com/research/early-progress-drug-development)
+🔗 **Read more:** [https://www.anthropic.com/news/expanding-partnership-gsa](https://www.anthropic.com/news/expanding-partnership-gsa)
 
 ---
 
@@ -97,42 +97,42 @@ The King is on a nine-day tour that will take him to three countries, including 
 
 ---
 
-### 7. A bad day for Ben-Gvir as he addresses his supporters
+### 7. ‘This is America’: US envoy scolds Cuban diplomat at UN
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Itamar Ben Gvir was defiant after polls show his Otzma Yehudit party has lost seats in the Israeli election.
+US envoy Mike Waltz repeatedly told Cuba’s UN team, ‘This is America’, during a heated clash at UN headquarters
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/27/a-bad-day-for-ben-gvir-as-he-addresses-his-supporters?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/27/a-bad-day-for-ben-gvir-as-he-addresses-his-supporters?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/28/this-is-america-us-envoy-scolds-cuban-diplomat-at-un?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/28/this-is-america-us-envoy-scolds-cuban-diplomat-at-un?traffic_source=rss)
 
 ---
 
-### 8. No clear mandate projected in Israel election: What’s next?
+### 8. Gaza’s women filmmakers turn pain into cinema as new academy launches
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-President Isaac Herzog will task the candidate he deems best placed to form a government once results are in.
+Gaza film festival highlights women&#039;s resilience through stories of war, loss and survival.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/27/no-clear-mandate-projected-in-israel-election-whats-next?traffic_source=rss](https://www.aljazeera.com/news/2026/10/27/no-clear-mandate-projected-in-israel-election-whats-next?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/27/gazas-women-filmmakers-turn-pain-into-cinema-as-new-academy-launches?traffic_source=rss](https://www.aljazeera.com/news/2026/10/27/gazas-women-filmmakers-turn-pain-into-cinema-as-new-academy-launches?traffic_source=rss)
 
 ---
 
-### 9. Smotrich dances in Israel despite far-right decline
+### 9. President Lula calls Bolsonaro’s Brazil exit ‘shameful’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli Finance Minister Smotrich celebrates despite exit polls suggesting support for his far-right party declined.
+President Lula da Silva criticised Flavio Bolsonaro for leaving Brazil amid reports he was headed to the US.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/27/smotrich-dances-in-israel-despite-far-right-decline?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/27/smotrich-dances-in-israel-despite-far-right-decline?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/27/president-lula-calls-bolsonaros-brazil-exit?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/27/president-lula-calls-bolsonaros-brazil-exit?traffic_source=rss)
 
 ---
 

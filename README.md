@@ -1,64 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-28 10:27:39
+**Last Update:** 2026-10-28 14:36:49
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Artificial Analysis Intelligence Index v5.0
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://artificialanalysis.ai/methodology/intelligence-benchmarking">https://artificialanalysis.ai/methodology/intelligence-benchmarking</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50269651">https://news.ycombinator.com/item?id=50269651</a></p>
-<p>Points: 34</p>
-<p># Comments: 16</p>
-
-🔗 **Read more:** [https://artificialanalysis.ai/methodology/intelligence-benchmarking](https://artificialanalysis.ai/methodology/intelligence-benchmarking)
-
----
-
-### 2. Artificial Analysis Intelligence Index v5
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5">https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50268868">https://news.ycombinator.com/item?id=50268868</a></p>
-<p>Points: 12</p>
-<p># Comments: 3</p>
-
-🔗 **Read more:** [https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5](https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5)
-
----
-
-### 3. Git for the US Code
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://lexifina.com/blog/git-for-the-us-code">https://lexifina.com/blog/git-for-the-us-code</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50268380">https://news.ycombinator.com/item?id=50268380</a></p>
-<p>Points: 183</p>
-<p># Comments: 94</p>
-
-🔗 **Read more:** [https://lexifina.com/blog/git-for-the-us-code](https://lexifina.com/blog/git-for-the-us-code)
-
----
-
-### 4. Tax on banks, energy bill help and minimum wage rise - what could be in the Budget?
+### 1. What could be in the Budget?
 
 **Source:** BBC
 
@@ -71,7 +23,7 @@ Chancellor John Healey will set out his plans for UK taxes on 28 October.
 
 ---
 
-### 5. Watch: What happens now after close vote in Israeli election?
+### 2. Watch: What happens now after close vote in Israeli election?
 
 **Source:** BBC
 
@@ -84,59 +36,59 @@ Polls have closed in the Israeli election, but there is no clear winner.
 
 ---
 
-### 6. Defeated presidential candidate Flávio Bolsonaro arrives in US after Brazil cancels his passports, sources say
+### 3. Russell Brand tells court allegations had devastating impact on him
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The defeated presidential candidate's apparent arrival in the US came hours after he failed to turn in his passports to Brazilian authorities.
+The entertainer begins giving evidence at his trial on charges including rape at Southwark Crown Court.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckly0xpxp243o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckly0xpxp243o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmvgxl5kdgrzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmvgxl5kdgrzo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. The next phase of military rule in Egypt is here
+### 4. Burnham’s government unveils its first UK budget: What to expect
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-El-Sisi’s announcement that he will not run for a fourth term may signal a new leadership arrangement.
+UK chancellor to present an autumn budget amid rising living costs and energy bills.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/10/28/the-next-phase-of-military-rule-in-egypt-is-here?traffic_source=rss](https://www.aljazeera.com/opinions/2026/10/28/the-next-phase-of-military-rule-in-egypt-is-here?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/28/burnhams-government-unveils-its-first-uk-budget-what-to-expect?traffic_source=rss](https://www.aljazeera.com/news/2026/10/28/burnhams-government-unveils-its-first-uk-budget-what-to-expect?traffic_source=rss)
 
 ---
 
-### 8. Experts defer to AI in decision-making, Anthropic study finds
+### 5. Israeli forces continue West Bank raids as Hebron lockdown enters sixth day
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Professional analysts chose options that matched AI assistant&#039;s preference 86 percent of the time, research finds.
+UN agency expresses &#039;grave concern&#039; in Hebron and warns of echoes of 2025 &#039;Iron Wall&#039; operation.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/28/experts-defer-to-ai-in-decision-making-anthropic-study-finds?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/28/experts-defer-to-ai-in-decision-making-anthropic-study-finds?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/28/israeli-forces-continue-west-bank-raids-as-hebron-lockdown-enters-sixth-day?traffic_source=rss](https://www.aljazeera.com/news/2026/10/28/israeli-forces-continue-west-bank-raids-as-hebron-lockdown-enters-sixth-day?traffic_source=rss)
 
 ---
 
-### 9. Arsenal knocked out of League Cup by fourth-tier Fleetwood Town
+### 6. ‘Russia is already part of who I am’: African students in Moscow
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Fourth-tier Fleetwood beat 10-man Arsenal 5-3 on penalties in ⁠the League Cup last 16, pulling off a major upset.
+As the Russia-Africa Summit gets under way, students in the capital say education is helping to build ties.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/28/arsenal-fleetwood-town-league-cup-penalties-guimaraes-dowman?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/28/arsenal-fleetwood-town-league-cup-penalties-guimaraes-dowman?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/28/russia-is-already-part-of-who-i-am-african-students-in-moscow?traffic_source=rss](https://www.aljazeera.com/news/2026/10/28/russia-is-already-part-of-who-i-am-african-students-in-moscow?traffic_source=rss)
 
 ---
 
-### 10. Tropical Cyclone Arnab
+### 7. Tropical Cyclone Arnab
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Severe Storms
 
 ---
 
-### 11. Tropical Storm Olana
+### 8. Tropical Storm Olana
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Severe Storms
 
 ---
 
-### 12. Wildfire Range  47B, Forrest, Mississippi
+### 9. Wildfire Range  47B, Forrest, Mississippi
 
 **Source:** NASA
 

@@ -1,16 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-28 23:11:09
+**Last Update:** 2026-10-29 02:29:16
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Key points at a glance
+### 1. Formlabs Studio 1 $699 Resin Printer
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://formlabs.com/products/form-studio-1-basic-founders-edition/">https://formlabs.com/products/form-studio-1-basic-founders-edition/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50281044">https://news.ycombinator.com/item?id=50281044</a></p>
+<p>Points: 60</p>
+<p># Comments: 60</p>
+
+🔗 **Read more:** [https://formlabs.com/products/form-studio-1-basic-founders-edition/](https://formlabs.com/products/form-studio-1-basic-founders-edition/)
+
+---
+
+### 2. Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/">https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50280864">https://news.ycombinator.com/item?id=50280864</a></p>
+<p>Points: 174</p>
+<p># Comments: 58</p>
+
+🔗 **Read more:** [https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/](https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/)
+
+---
+
+### 3. Nango (YC W23) Is Hiring Across Eng, FDE, Marketing, DevRel
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://nango.dev/careers">https://nango.dev/careers</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50280824">https://news.ycombinator.com/item?id=50280824</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://nango.dev/careers](https://nango.dev/careers)
+
+---
+
+### 4. Healey unveils £100 for energy bills and bank tax in first Budget
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The chancellor targets the cost of living amid global economic turmoil but opposition parties say he has not been bold enough.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Budget key points at a glance
 
 **Source:** BBC
 
@@ -23,7 +84,7 @@ Here’s what you need to know from John Healey’s first Budget, as the chancel
 
 ---
 
-### 2. Chris Mason: Budget felt cautious despite its range of small measures
+### 6. Chris Mason: Budget felt cautious despite its range of small measures
 
 **Source:** BBC
 
@@ -36,59 +97,46 @@ The chancellor has had to grapple with a mix of public finances and household fi
 
 ---
 
-### 3. Will I get the £100 energy payment and when will I receive it?
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Here is what you need to know about the payment that millions will receive from January.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 4. Fed leaves interest rates unchanged despite inflation in the US
+### 7. UN experts sound alarm at excessive use of force in French student protests
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Rates will remain 3.75-4 percent even as inflation continues to rise.
+UN experts have condemned police crackdowns, warning they deter demonstrators from exercising their rights.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/28/fed-leaves-interest-rates-unchanged-despite-inflation-in-the-us?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/28/fed-leaves-interest-rates-unchanged-despite-inflation-in-the-us?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/28/un-experts-sound-alarm-at-excessive-use-of-force-in-french-student-protests?traffic_source=rss](https://www.aljazeera.com/news/2026/10/28/un-experts-sound-alarm-at-excessive-use-of-force-in-french-student-protests?traffic_source=rss)
 
 ---
 
-### 5. US jury convicts Rwandan American of lying about role in genocide
+### 8. Costa Rica’s mega-prison receives first inmates
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Jurors heard competing witness testimony on where Eric Nshimiye was and what he was doing in April 1994.
+President Laura Fernandez inaugurated the $35m mega-prison built to house up to 5,100 inmates near San Jose.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/28/us-jury-convicts-rwandan-american-of-lying-about-role-in-genocide?traffic_source=rss](https://www.aljazeera.com/news/2026/10/28/us-jury-convicts-rwandan-american-of-lying-about-role-in-genocide?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/28/costa-ricas-mega-prison-receives-first-inmates?traffic_source=rss](https://www.aljazeera.com/news/2026/10/28/costa-ricas-mega-prison-receives-first-inmates?traffic_source=rss)
 
 ---
 
-### 6. Putin tells African leaders Moscow will not pursue ‘neo-colonialism’
+### 9. Indonesian students demand action on wildfires and rising costs
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Speaking at the third Russia-Africa Summit, Putin frames Moscow as an alternative to former colonial powers.
+Hundreds of Indonesian students protested against the government&#039;s handling of forest fires and rising costs.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/28/putin-tells-african-leaders-moscow-will-not-pursue-neo-colonialism?traffic_source=rss](https://www.aljazeera.com/news/2026/10/28/putin-tells-african-leaders-moscow-will-not-pursue-neo-colonialism?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/28/aje-onl-nf_indonesian-students-demand-action-on-wildfires-281026?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/28/aje-onl-nf_indonesian-students-demand-action-on-wildfires-281026?traffic_source=rss)
 
 ---
 
-### 7. Tropical Cyclone Arnab
+### 10. Tropical Cyclone Arnab
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Severe Storms
 
 ---
 
-### 8. Tropical Storm Olana
+### 11. Tropical Storm Olana
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Severe Storms
 
 ---
 
-### 9. Wildfire Range  47B, Forrest, Mississippi
+### 12. Wildfire Range  47B, Forrest, Mississippi
 
 **Source:** NASA
 

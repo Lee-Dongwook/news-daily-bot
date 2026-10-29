@@ -1,65 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-29 20:14:30
+**Last Update:** 2026-10-29 22:33:18
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, Al Jazeera, BBC
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents
+### 1. Show HN: phpClaw – AI agent runtime for PHP with tools, memory and guards
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Hi HN, we're Ahnaf and Seungmin from Simantic (<a href="https://simantic.com">https://simantic.com</a>). We are building the simulation layer that lets engineers and AI agents test and validate firmware without hardware.<p>Before Simantic, we were ex-firmware engineers at companies like Neuralink and Tesla. We’ve worked on some of the coolest projects, like the Cybertruck and Roadster, back when they were still early prototypes.<p>We started working on firmware back when ChatGPT didn’t exist yet, but over the years, we saw how much of the engineering and development work has been automated as the frontier models improved to this point. In software, AI can run and test code inside your computer in a matter of seconds. But as firmware engineers, we didn’t have that luxury. An AI agent can write firmware in seconds, but in order to test it, we had to flash a physical board, then manually run tests using expensive and clunky tools with software made over a decade ago.<p>To speed up the validation loop, we built the simulation layer that lets AI agents test the firmware and make decisions based on evidence, instead of waiting for the engineer to run tests for them. We used to spend hours testing our firmware manually on devboards, but now we use our own simulation to validate firmware in seconds.<p>What we offer:
-- Virtual devboards you can program and run with a single API call, without leaving your terminal.
-- An AI code reviewer for firmware, that makes informed decisions based on evidence, using our simulation as a verification engine.
-- A CI/CD pipeline for your hardware projects that validates your firmware against a simulated version of the microcontroller on every commit.<p>Here is a demo of our simulation used in an AI code review session: <a href="https://www.youtube.com/watch?v=kBK1ZjGWWbQ" rel="nofollow">https://www.youtube.com/watch?v=kBK1ZjGWWbQ</a><p>Our users are using Simantic for bare-metal and RTOS development for applications like flight controllers, electric vehicles, robotics, and satellites. For safety critical systems like avionics and automotives, a robust simulation system is incredibly important, because every change in the firmware puts a human life at stake, especially for machines that cost hundreds of thousands to millions of dollars.<p>We recently helped an early stage space startup building satellites, to test their firmware on hardware that they don't yet have. Even the development modules for those satellites costs over $100k, and we helped them do that at just a hundredth of the cost and time.<p>Early on in our journey, we established our idea to make better simulation but didn’t have a clear idea of how we would do it, we considered developing our software around open source emulation frameworks like Renode (<a href="https://github.com/renode/renode" rel="nofollow">https://github.com/renode/renode</a>) and QEMU (<a href="https://www.qemu.org/" rel="nofollow">https://www.qemu.org/</a>), because they were tools already used within the firmware industry. We built our MVP that was essentially a wrapper around Renode, but we quickly realized there were a lot of limitations to doing this.<p>1. We were bottlenecked by the development speed of Renode themselves. We tried making contributions on Github to fix issues we came across, but the speed in which we could merge our features in was not fast enough for a startup like us trying to move fast.<p>2. Renode is built using Dotnet, and it was proving itself to be slower than we would have liked. Renode was released in 2017, which was when all code was still being written by hand, so I think it made sense looking back, but there were limitations because of the language itself.<p>3. The open source tools were bloated, with features that we would never use. Yes, there were a  breadth of features, but we had a lot of things we had to work around just because we couldn’t remove or change them.
-Users were complaining about simulation accuracy. Renode is an emulator at the core, but our users, especially those who are building systems where timing accuracy is crucial did not find the accuracy good enough to validate their firmware.<p>Because of these issues, we made our own simulation engine from scratch, fully written in Rust.<p>- Our simulation is focused on accuracy. Open source frameworks often focus on expandability and developer experience, which means there were a lot of tradeoffs made to prioritize a breadth of models rather than going deep into a set of select models.<p>- We have our own hardware validation rigs running 24/7 to ensure our simulation models are as close to real world hardware as possible, and any gaps are detected and fixed as soon as we can. It currently looks like devboards connected to a Saleae Logic MSO and a SWD bus, controlled by a Linux PC, running Claude 24/7 just finding these gaps.<p>Our cloud-hosted simulator is available to use right now! We also provide a native binary with our developer plan licenses that let you run your firmware on your machines locally without any limitations.<p>Check it out at <a href="https://simantic.com/cloud-sim">https://simantic.com/cloud-sim</a>, and you can start using our AI firmware reviewer bot in your own Github repos here: <a href="https://simantic.com/dashboard/simantic-bot">https://simantic.com/dashboard/simantic-bot</a>.<p>We currently have support for some models of the STM32F0, F4, H7 series MCUs, ESP32-S3/C3, and RP2040, but we’re constantly working to release new models every week, and improve our existing ones.<p>Thank you, and if you have any questions, feel free to send us an email at founders@simantic.dev</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50291116">https://news.ycombinator.com/item?id=50291116</a></p>
-<p>Points: 8</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://github.com/phpclaw-php/phpclaw-monorepo">https://github.com/phpclaw-php/phpclaw-monorepo</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50293361">https://news.ycombinator.com/item?id=50293361</a></p>
+<p>Points: 6</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://news.ycombinator.com/item?id=50291116](https://news.ycombinator.com/item?id=50291116)
+🔗 **Read more:** [https://github.com/phpclaw-php/phpclaw-monorepo](https://github.com/phpclaw-php/phpclaw-monorepo)
 
 ---
 
-### 2. H.264 Is Magic (2016)
+### 2. I'm building LYNX, an open-source DAW inspired by FL Studio, free,cross-platform
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://sidbala.com/h-264-is-magic/">https://sidbala.com/h-264-is-magic/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50291054">https://news.ycombinator.com/item?id=50291054</a></p>
-<p>Points: 56</p>
-<p># Comments: 18</p>
+<p>Article URL: <a href="https://github.com/Ka1-S/LYNX-SHARE">https://github.com/Ka1-S/LYNX-SHARE</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50293308">https://news.ycombinator.com/item?id=50293308</a></p>
+<p>Points: 18</p>
+<p># Comments: 8</p>
 
-🔗 **Read more:** [https://sidbala.com/h-264-is-magic/](https://sidbala.com/h-264-is-magic/)
+🔗 **Read more:** [https://github.com/Ka1-S/LYNX-SHARE](https://github.com/Ka1-S/LYNX-SHARE)
 
 ---
 
-### 3. Grace Blackwell needs a new scheduler: 27% more usable GPUs from the same racks
+### 3. Thursday: A SerenityOS for Myself
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://skypilot.ai/blog/grace-blackwell-needs-a-new-scheduler">https://skypilot.ai/blog/grace-blackwell-needs-a-new-scheduler</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50290912">https://news.ycombinator.com/item?id=50290912</a></p>
-<p>Points: 24</p>
+<p>Article URL: <a href="https://shantaram.xyz/posts/2026/10/a-serenityos-for-myself">https://shantaram.xyz/posts/2026/10/a-serenityos-for-myself</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50292825">https://news.ycombinator.com/item?id=50292825</a></p>
+<p>Points: 6</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://skypilot.ai/blog/grace-blackwell-needs-a-new-scheduler](https://skypilot.ai/blog/grace-blackwell-needs-a-new-scheduler)
+🔗 **Read more:** [https://shantaram.xyz/posts/2026/10/a-serenityos-for-myself](https://shantaram.xyz/posts/2026/10/a-serenityos-for-myself)
 
 ---
 
@@ -89,55 +84,55 @@ Budget forecasts show growth in living standards grinding almost to a halt.
 
 ---
 
-### 6. Audio reveals exchanges between control centre and drivers before deadly Spain train crash
+### 6. Audio reveals exchanges between Spain train operators and drivers moments before deadly crash
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The recordings appear to show one high-speed train was given clearance to move even though another up ahead had stalled.
+The leaked tapes appear to show one high-speed train was given clearance to move at normal speed, even though another up ahead had stalled.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Deadly rock collapse at famous Turkiye tourist site
+### 7. Texas Republican group seeks to block certification of state’s election
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Deadly rock collapse at famous Turkiye tourist site
+Republicans in a Texas county have filed a lawsuit asking for ballots in the state&#039;s midterm races to be hand-counted.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/29/deadly-rock-collapse-at-famous-turkiye-tourist-site?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/29/deadly-rock-collapse-at-famous-turkiye-tourist-site?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/29/texas-republican-group-seeks-to-block-certification-of-states-election?traffic_source=rss](https://www.aljazeera.com/news/2026/10/29/texas-republican-group-seeks-to-block-certification-of-states-election?traffic_source=rss)
 
 ---
 
-### 8. Israel’s anti-Qatar campaign bleeds into elections
+### 8. US Muslims concerned but resilient as ‘hate’ attacks target Abdul El-Sayed
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Qatar&#039;s Foreign Ministry spokesman rejects &#039;disinformation&#039; amid allegations by some Israelis of voting interference.
+Muslim advocates say the best way to respond to hate is to elect the Democratic candidate in Michigan to US Senate.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/29/israels-anti-qatar-campaign-bleeds-into-elections?traffic_source=rss](https://www.aljazeera.com/news/2026/10/29/israels-anti-qatar-campaign-bleeds-into-elections?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/29/us-muslims-concerned-but-resilient-as-hate-attacks-target-abdul-el-sayed?traffic_source=rss](https://www.aljazeera.com/news/2026/10/29/us-muslims-concerned-but-resilient-as-hate-attacks-target-abdul-el-sayed?traffic_source=rss)
 
 ---
 
-### 9. Spanish long jumper Julieta Gallego among victims of deadly train collision
+### 9. Finland launches criminal probe of suspected environmental damage by Google
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Julieta Gallego, who competed for Madrid-based AD Sprint, among those killed in train crash in Spain.
+The US tech giant is investing $15bn in a huge new data centre project in northern Finland.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/29/spanish-long-jumper-julieta-gallego-among-victims-of-deadly-train-collision?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/29/spanish-long-jumper-julieta-gallego-among-victims-of-deadly-train-collision?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/29/finland-launches-criminal-probe-of-suspected-environmental-damage-by-google?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/29/finland-launches-criminal-probe-of-suspected-environmental-damage-by-google?traffic_source=rss)
 
 ---
 

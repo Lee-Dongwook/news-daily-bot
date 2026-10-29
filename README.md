@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-29 13:06:25
+**Last Update:** 2026-10-29 16:54:45
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Cuba is skipping its November 1, 2026 clock change and staying on DST until 2027
+### 1. Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.timeanddate.com/news/time/cuba-keeps-dst-until-nov-2027.html">https://www.timeanddate.com/news/time/cuba-keeps-dst-until-nov-2027.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50285714">https://news.ycombinator.com/item?id=50285714</a></p>
-<p>Points: 51</p>
-<p># Comments: 84</p>
+<p>Article URL: <a href="https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1">https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50288019">https://news.ycombinator.com/item?id=50288019</a></p>
+<p>Points: 27</p>
+<p># Comments: 12</p>
 
-🔗 **Read more:** [https://www.timeanddate.com/news/time/cuba-keeps-dst-until-nov-2027.html](https://www.timeanddate.com/news/time/cuba-keeps-dst-until-nov-2027.html)
+🔗 **Read more:** [https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1](https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1)
 
 ---
 
-### 2. Zero click, silent, remote Android DoS
+### 2. DoorDash to Acquire Instacart
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://smsofdeath.com/">https://smsofdeath.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50285452">https://news.ycombinator.com/item?id=50285452</a></p>
-<p>Points: 45</p>
-<p># Comments: 23</p>
+<p>Article URL: <a href="https://ir.doordash.com/news/news-details/2026/DoorDash-to-Acquire-Instacart-to-Help-Local-Stores-Win/default.aspx">https://ir.doordash.com/news/news-details/2026/DoorDash-to-Acquire-Instacart-to-Help-Local-Stores-Win/default.aspx</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50287919">https://news.ycombinator.com/item?id=50287919</a></p>
+<p>Points: 46</p>
+<p># Comments: 28</p>
 
-🔗 **Read more:** [https://smsofdeath.com/](https://smsofdeath.com/)
+🔗 **Read more:** [https://ir.doordash.com/news/news-details/2026/DoorDash-to-Acquire-Instacart-to-Help-Local-Stores-Win/default.aspx](https://ir.doordash.com/news/news-details/2026/DoorDash-to-Acquire-Instacart-to-Help-Local-Stores-Win/default.aspx)
 
 ---
 
-### 3. Forging a Microsoft Edge Full Chain with Logic Bugs Only
+### 3. Hackers expose the identities of more than 40k DHS employees
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/">https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50285319">https://news.ycombinator.com/item?id=50285319</a></p>
-<p>Points: 36</p>
-<p># Comments: 5</p>
+<p>Article URL: <a href="https://text.npr.org/nx-s1-6021497">https://text.npr.org/nx-s1-6021497</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50287898">https://news.ycombinator.com/item?id=50287898</a></p>
+<p>Points: 44</p>
+<p># Comments: 10</p>
 
-🔗 **Read more:** [https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/](https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/)
+🔗 **Read more:** [https://text.npr.org/nx-s1-6021497](https://text.npr.org/nx-s1-6021497)
 
 ---
 
-### 4. Healey promises reduction in welfare bill before next election
+### 4. Treasury will not commit to reducing welfare bill before next election
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The Conservatives criticised the chancellor for not providing more details on welfare reform in his Budget.
+The Treasury is disputing that the chancellor suggested to the BBC the benefits bill will be cut before the next election.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm5ynwkjgpz3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm5ynwkjgpz3o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. What we know so far about deadly Spain train crash
+### 5. Audio reveals exchanges between control centre and drivers before deadly Spain train crash
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-More than 500 passengers were on board the trains when the crash occurred in the province of Toledo, south of Madrid.
+The recordings appear to show one high-speed train was given clearance to move even though another up ahead had stalled.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Ofcom sets out social media age-checking methods ahead of ban
+### 6. Russell Brand's wife tells his rape trial he is 'kind and a wonderful father'
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Ofcom says photo and digital ID, banking checks or facial age estimation can help prove someone is 16 or over.
+Laura Brand tells the jury at his trial she feels "very seen by him" and "I love him very much".
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6ly3027820lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6ly3027820lo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cky93127nyepo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cky93127nyepo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Argentina farmers evacuate cattle by boat as El Nino escalates
+### 7. Men pulled from vehicle stranded by floods in Syria
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Argentina’s farmers are evacuating their cattle by boat to higher ground as El Nino raises water levels.
+This is the moment several men were rescued from their vehicle in Syria after becoming stranded by flash floods.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/29/argentina-farmers-evacuate-cattle-by-boat-as-el-nino-escalates?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/29/argentina-farmers-evacuate-cattle-by-boat-as-el-nino-escalates?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/29/men-pulled-from-vehicle-stranded-by-floods-in-syria?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/29/men-pulled-from-vehicle-stranded-by-floods-in-syria?traffic_source=rss)
 
 ---
 
-### 8. Infantino criticism lands Jordan FA chief judicial review with AFC
+### 8. Bangladesh’s Shadman Islam hits century, but West Indies force collapse
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-AFC orders judicial reviews for allegation FIFA President Gianni Infantino used AFC Congress for political purposes.
+Shadman Islam hits 100, but Jomel Warrican bags five wickets before West Indies end day two of first Test on 134-4.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/29/infantino-criticism-lands-jordan-fa-chief-judicial-review-with-afc?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/29/infantino-criticism-lands-jordan-fa-chief-judicial-review-with-afc?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/29/bangladeshs-shadman-islam-hits-100-but-warrican-tops-west-indies-recovery?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/29/bangladeshs-shadman-islam-hits-100-but-warrican-tops-west-indies-recovery?traffic_source=rss)
 
 ---
 
-### 9. Brazilians split over Flavio Bolsonaro’s exit to US
+### 9. Fighting rages near Yemen’s Taiz as UN urges humanitarian access
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Brazilians are split over Flavio Bolsonaro fleeing to the US after refusing to concede the election to President Lula.
+Fighting has forced more than 281,000 people from their homes in Yemen since the beginning of August, the UN said.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/29/brazilians-split-over-flavio-bolsonaros-exit-to-us-2?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/29/brazilians-split-over-flavio-bolsonaros-exit-to-us-2?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/29/fighting-rages-near-yemens-taiz-as-un-urges-humanitarian-access?traffic_source=rss](https://www.aljazeera.com/news/2026/10/29/fighting-rages-near-yemens-taiz-as-un-urges-humanitarian-access?traffic_source=rss)
 
 ---
 

@@ -1,73 +1,73 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-29 05:49:43
+**Last Update:** 2026-10-29 09:34:51
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. MicroZig to Adopt Strict No LLM / No AI Policy
+### 1. Zillow to pay $212.5M to settle class action for real estate venture
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md">https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50282865">https://news.ycombinator.com/item?id=50282865</a></p>
-<p>Points: 36</p>
-<p># Comments: 45</p>
+<p>Article URL: <a href="https://www.reuters.com/legal/government/zillow-pay-2125-million-settle-class-action-over-failed-real-estate-venture-2026-10-28/">https://www.reuters.com/legal/government/zillow-pay-2125-million-settle-class-action-over-failed-real-estate-venture-2026-10-28/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50284342">https://news.ycombinator.com/item?id=50284342</a></p>
+<p>Points: 26</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md](https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md)
+🔗 **Read more:** [https://www.reuters.com/legal/government/zillow-pay-2125-million-settle-class-action-over-failed-real-estate-venture-2026-10-28/](https://www.reuters.com/legal/government/zillow-pay-2125-million-settle-class-action-over-failed-real-estate-venture-2026-10-28/)
 
 ---
 
-### 2. Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5
+### 2. The Milwaukee Brewers win the first World Series title in franchise history
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://divagr.com/blog/qwenputer">https://divagr.com/blog/qwenputer</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50282838">https://news.ycombinator.com/item?id=50282838</a></p>
-<p>Points: 89</p>
-<p># Comments: 16</p>
-
-🔗 **Read more:** [https://divagr.com/blog/qwenputer](https://divagr.com/blog/qwenputer)
-
----
-
-### 3. GitLab Security Incident: Attempted Exploitation of CVE-2026-97229
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html">https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50282544">https://news.ycombinator.com/item?id=50282544</a></p>
-<p>Points: 82</p>
+<p>Article URL: <a href="https://www.cnn.com/2026/10/28/sport/live-news/game-5-world-series">https://www.cnn.com/2026/10/28/sport/live-news/game-5-world-series</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50284329">https://news.ycombinator.com/item?id=50284329</a></p>
+<p>Points: 69</p>
 <p># Comments: 28</p>
 
-🔗 **Read more:** [https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html](https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html)
+🔗 **Read more:** [https://www.cnn.com/2026/10/28/sport/live-news/game-5-world-series](https://www.cnn.com/2026/10/28/sport/live-news/game-5-world-series)
 
 ---
 
-### 4. Healey unveils £100 for energy bills and bank tax in first Budget
+### 3. Claude Code burns ~15–20% of your tokens on a 3-word status line
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce">https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50284255">https://news.ycombinator.com/item?id=50284255</a></p>
+<p>Points: 203</p>
+<p># Comments: 48</p>
+
+🔗 **Read more:** [https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce](https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce)
+
+---
+
+### 4. Healey promises reduction in welfare bill before next election
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The chancellor targets the cost of living amid global economic turmoil but opposition parties say he has not been bold enough.
+The Conservatives criticised the chancellor for not providing more details on welfare reform in his Budget.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm5ynwkjgpz3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm5ynwkjgpz3o?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -84,55 +84,55 @@ People on a range of incomes from £4,062 to £150,000 a year tell the BBC what 
 
 ---
 
-### 6. High-speed train crash kills at least 68 people in Spain
+### 6. Spain begins three days of mourning after train crash kills dozens
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The crash, between a moving train and another that was stopped further up the track, was caused by an "inexplicable" error, the transport minister said.
+Emergency teams worked through the night to find victims after one of the worst rail disasters in Europe's modern history.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Serbians storm TV studio as pro-Vucic media faces reckoning
+### 7. Can Turkiye’s Libya breakthrough reshape Eastern Mediterranean diplomacy?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Serbians stormed a TV studio and confronted its editor-in-chief after a student-led protest movement swept into power.
+Ankara wins backing from former adversaries in Libya for maritime border agreement, but other diplomatic tests remain.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/29/serbians-storm-tv-studio-as-pro-vucic-media-faces-reckoning?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/29/serbians-storm-tv-studio-as-pro-vucic-media-faces-reckoning?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news-analysis/2026/10/29/can-turkiyes-libya-breakthrough-reshape-eastern-mediterranean-diplomacy?traffic_source=rss](https://www.aljazeera.com/news-analysis/2026/10/29/can-turkiyes-libya-breakthrough-reshape-eastern-mediterranean-diplomacy?traffic_source=rss)
 
 ---
 
-### 8. Bolsonaro in Miami: I am the ‘true president-elect’
+### 8. Russia says more than 600 drones launched towards Moscow overnight
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Flavio Bolsonaro claimed to be the ‘true president-elect’ of Brazil in his first statement since fleeing to the US.
+The attack is the latest in a series of major drone assaults targeting the Moscow region.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/29/bolsonaro-in-miami-i-am-the-true-president?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/29/bolsonaro-in-miami-i-am-the-true-president?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/29/russia-says-more-than-600-drones-launched-towards-moscow-overnight?traffic_source=rss](https://www.aljazeera.com/news/2026/10/29/russia-says-more-than-600-drones-launched-towards-moscow-overnight?traffic_source=rss)
 
 ---
 
-### 9. Riot police deployed in Madrid as protests erupt over deadly train crash
+### 9. Judge rejects Trump effort to block California ‘noncitizen’ ballots
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A deadly train crash fuelled anger in Spain as far-right demonstrators clashed with police
+More than 100 subpoenas issued across 13 states as government ramps up search for alleged noncitizen voters.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/29/riot-police-deployed-in-madrid-as-protests-erupt-over-deadly-train-crash?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/29/riot-police-deployed-in-madrid-as-protests-erupt-over-deadly-train-crash?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/29/judge-rejects-trump-effort-to-block-california-noncitizen-ballots?traffic_source=rss](https://www.aljazeera.com/news/2026/10/29/judge-rejects-trump-effort-to-block-california-noncitizen-ballots?traffic_source=rss)
 
 ---
 

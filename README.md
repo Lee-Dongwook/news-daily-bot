@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-29 02:29:16
+**Last Update:** 2026-10-29 03:35:19
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
@@ -19,26 +19,26 @@
 **Description:**
 <p>Article URL: <a href="https://formlabs.com/products/form-studio-1-basic-founders-edition/">https://formlabs.com/products/form-studio-1-basic-founders-edition/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50281044">https://news.ycombinator.com/item?id=50281044</a></p>
-<p>Points: 60</p>
-<p># Comments: 60</p>
+<p>Points: 83</p>
+<p># Comments: 68</p>
 
 🔗 **Read more:** [https://formlabs.com/products/form-studio-1-basic-founders-edition/](https://formlabs.com/products/form-studio-1-basic-founders-edition/)
 
 ---
 
-### 2. Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents
+### 2. A Health Update
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/">https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50280864">https://news.ycombinator.com/item?id=50280864</a></p>
-<p>Points: 174</p>
-<p># Comments: 58</p>
+<p>Article URL: <a href="https://furbo.org/2026/10/28/a-health-update/">https://furbo.org/2026/10/28/a-health-update/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50280974">https://news.ycombinator.com/item?id=50280974</a></p>
+<p>Points: 32</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/](https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/)
+🔗 **Read more:** [https://furbo.org/2026/10/28/a-health-update/](https://furbo.org/2026/10/28/a-health-update/)
 
 ---
 
@@ -97,7 +97,20 @@ The chancellor has had to grapple with a mix of public finances and household fi
 
 ---
 
-### 7. UN experts sound alarm at excessive use of force in French student protests
+### 7. Romania extends pre-trial detention of far-right politician Calin Georgescu
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The Bucharest court has extended the pre-trial detention of Calin Georgescu by 30 days, appealing a lower court ruling.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/28/romania-extends-pre-trial-detention-of-far-right-politician-calin-georgescu?traffic_source=rss](https://www.aljazeera.com/news/2026/10/28/romania-extends-pre-trial-detention-of-far-right-politician-calin-georgescu?traffic_source=rss)
+
+---
+
+### 8. UN experts sound alarm at excessive use of force in French student protests
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ UN experts have condemned police crackdowns, warning they deter demonstrators fr
 
 ---
 
-### 8. Costa Rica’s mega-prison receives first inmates
+### 9. Costa Rica’s mega-prison receives first inmates
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ UN experts have condemned police crackdowns, warning they deter demonstrators fr
 President Laura Fernandez inaugurated the $35m mega-prison built to house up to 5,100 inmates near San Jose.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/28/costa-ricas-mega-prison-receives-first-inmates?traffic_source=rss](https://www.aljazeera.com/news/2026/10/28/costa-ricas-mega-prison-receives-first-inmates?traffic_source=rss)
-
----
-
-### 9. Indonesian students demand action on wildfires and rising costs
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Hundreds of Indonesian students protested against the government&#039;s handling of forest fires and rising costs.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/28/aje-onl-nf_indonesian-students-demand-action-on-wildfires-281026?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/28/aje-onl-nf_indonesian-students-demand-action-on-wildfires-281026?traffic_source=rss)
 
 ---
 

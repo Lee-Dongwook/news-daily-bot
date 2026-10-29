@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-29T13:06:25+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Cuba is skipping its November 1, 2026 clock change and staying on DST until 2027",
+            "description": "<p>Article URL: <a href=\"https://www.timeanddate.com/news/time/cuba-keeps-dst-until-nov-2027.html\">https://www.timeanddate.com/news/time/cuba-keeps-dst-until-nov-2027.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50285714\">https://news.ycombinator.com/item?id=50285714</a></p>\n<p>Points: 51</p>\n<p># Comments: 84</p>",
+            "url": "https://www.timeanddate.com/news/time/cuba-keeps-dst-until-nov-2027.html",
+            "published": "Thu, 29 Oct 2026 07:52:32 +0000",
+            "fetched": "2026-10-29T13:06:25+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Zero click, silent, remote Android DoS",
+            "description": "<p>Article URL: <a href=\"https://smsofdeath.com/\">https://smsofdeath.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50285452\">https://news.ycombinator.com/item?id=50285452</a></p>\n<p>Points: 45</p>\n<p># Comments: 23</p>",
+            "url": "https://smsofdeath.com/",
+            "published": "Thu, 29 Oct 2026 07:08:50 +0000",
+            "fetched": "2026-10-29T13:06:25+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Forging a Microsoft Edge Full Chain with Logic Bugs Only",
+            "description": "<p>Article URL: <a href=\"https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/\">https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50285319\">https://news.ycombinator.com/item?id=50285319</a></p>\n<p>Points: 36</p>\n<p># Comments: 5</p>",
+            "url": "https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/",
+            "published": "Thu, 29 Oct 2026 06:47:28 +0000",
+            "fetched": "2026-10-29T13:06:25+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Healey promises reduction in welfare bill before next election",
+            "description": "The Conservatives criticised the chancellor for not providing more details on welfare reform in his Budget.",
+            "url": "https://www.bbc.co.uk/news/articles/cm5ynwkjgpz3o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 29 Oct 2026 05:57:01 GMT",
+            "fetched": "2026-10-29T13:06:25+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "What we know so far about deadly Spain train crash",
+            "description": "More than 500 passengers were on board the trains when the crash occurred in the province of Toledo, south of Madrid.",
+            "url": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 29 Oct 2026 07:59:20 GMT",
+            "fetched": "2026-10-29T13:06:25+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Ofcom sets out social media age-checking methods ahead of ban",
+            "description": "Ofcom says photo and digital ID, banking checks or facial age estimation can help prove someone is 16 or over.",
+            "url": "https://www.bbc.co.uk/news/articles/c6ly3027820lo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 29 Oct 2026 09:31:44 GMT",
+            "fetched": "2026-10-29T13:06:25+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Argentina farmers evacuate cattle by boat as El Nino escalates",
+            "description": "Argentina’s farmers are evacuating their cattle by boat to higher ground as El Nino raises water levels.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/argentina-farmers-evacuate-cattle-by-boat-as-el-nino-escalates?traffic_source=rss",
+            "published": "Thu, 29 Oct 2026 09:17:10 +0000",
+            "fetched": "2026-10-29T13:06:25+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Infantino criticism lands Jordan FA chief judicial review with AFC",
+            "description": "AFC orders judicial reviews for allegation FIFA President Gianni Infantino used AFC Congress for political purposes.",
+            "url": "https://www.aljazeera.com/sports/2026/10/29/infantino-criticism-lands-jordan-fa-chief-judicial-review-with-afc?traffic_source=rss",
+            "published": "Thu, 29 Oct 2026 09:12:53 +0000",
+            "fetched": "2026-10-29T13:06:25+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Brazilians split over Flavio Bolsonaro’s exit to US",
+            "description": "Brazilians are split over Flavio Bolsonaro fleeing to the US after refusing to concede the election to President Lula.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/brazilians-split-over-flavio-bolsonaros-exit-to-us-2?traffic_source=rss",
+            "published": "Thu, 29 Oct 2026 09:12:40 +0000",
+            "fetched": "2026-10-29T13:06:25+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Arnab",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25729",
+            "published": "2026-10-25T18:00:00Z",
+            "fetched": "2026-10-29T13:06:25+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Olana",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25730",
+            "published": "2026-10-25T18:00:00Z",
+            "fetched": "2026-10-29T13:06:25+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Range  47B, Forrest, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25769",
+            "published": "2026-10-24T17:10:00Z",
+            "fetched": "2026-10-29T13:06:25+03:30"
+        }
+    ]
+}

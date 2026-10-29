@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-29 09:34:51
+**Last Update:** 2026-10-29 13:06:25
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Zillow to pay $212.5M to settle class action for real estate venture
+### 1. Cuba is skipping its November 1, 2026 clock change and staying on DST until 2027
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.reuters.com/legal/government/zillow-pay-2125-million-settle-class-action-over-failed-real-estate-venture-2026-10-28/">https://www.reuters.com/legal/government/zillow-pay-2125-million-settle-class-action-over-failed-real-estate-venture-2026-10-28/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50284342">https://news.ycombinator.com/item?id=50284342</a></p>
-<p>Points: 26</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://www.timeanddate.com/news/time/cuba-keeps-dst-until-nov-2027.html">https://www.timeanddate.com/news/time/cuba-keeps-dst-until-nov-2027.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50285714">https://news.ycombinator.com/item?id=50285714</a></p>
+<p>Points: 51</p>
+<p># Comments: 84</p>
 
-🔗 **Read more:** [https://www.reuters.com/legal/government/zillow-pay-2125-million-settle-class-action-over-failed-real-estate-venture-2026-10-28/](https://www.reuters.com/legal/government/zillow-pay-2125-million-settle-class-action-over-failed-real-estate-venture-2026-10-28/)
+🔗 **Read more:** [https://www.timeanddate.com/news/time/cuba-keeps-dst-until-nov-2027.html](https://www.timeanddate.com/news/time/cuba-keeps-dst-until-nov-2027.html)
 
 ---
 
-### 2. The Milwaukee Brewers win the first World Series title in franchise history
+### 2. Zero click, silent, remote Android DoS
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.cnn.com/2026/10/28/sport/live-news/game-5-world-series">https://www.cnn.com/2026/10/28/sport/live-news/game-5-world-series</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50284329">https://news.ycombinator.com/item?id=50284329</a></p>
-<p>Points: 69</p>
-<p># Comments: 28</p>
+<p>Article URL: <a href="https://smsofdeath.com/">https://smsofdeath.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50285452">https://news.ycombinator.com/item?id=50285452</a></p>
+<p>Points: 45</p>
+<p># Comments: 23</p>
 
-🔗 **Read more:** [https://www.cnn.com/2026/10/28/sport/live-news/game-5-world-series](https://www.cnn.com/2026/10/28/sport/live-news/game-5-world-series)
+🔗 **Read more:** [https://smsofdeath.com/](https://smsofdeath.com/)
 
 ---
 
-### 3. Claude Code burns ~15–20% of your tokens on a 3-word status line
+### 3. Forging a Microsoft Edge Full Chain with Logic Bugs Only
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce">https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50284255">https://news.ycombinator.com/item?id=50284255</a></p>
-<p>Points: 203</p>
-<p># Comments: 48</p>
+<p>Article URL: <a href="https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/">https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50285319">https://news.ycombinator.com/item?id=50285319</a></p>
+<p>Points: 36</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce](https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce)
+🔗 **Read more:** [https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/](https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/)
 
 ---
 
@@ -71,68 +71,68 @@ The Conservatives criticised the chancellor for not providing more details on we
 
 ---
 
-### 5. I earn £30,000. I'm angry there was no fuel duty cut in the Budget
+### 5. What we know so far about deadly Spain train crash
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they made of this year's Budget.
+More than 500 passengers were on board the trains when the crash occurred in the province of Toledo, south of Madrid.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Spain begins three days of mourning after train crash kills dozens
+### 6. Ofcom sets out social media age-checking methods ahead of ban
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Emergency teams worked through the night to find victims after one of the worst rail disasters in Europe's modern history.
+Ofcom says photo and digital ID, banking checks or facial age estimation can help prove someone is 16 or over.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6ly3027820lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6ly3027820lo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Can Turkiye’s Libya breakthrough reshape Eastern Mediterranean diplomacy?
+### 7. Argentina farmers evacuate cattle by boat as El Nino escalates
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ankara wins backing from former adversaries in Libya for maritime border agreement, but other diplomatic tests remain.
+Argentina’s farmers are evacuating their cattle by boat to higher ground as El Nino raises water levels.
 
-🔗 **Read more:** [https://www.aljazeera.com/news-analysis/2026/10/29/can-turkiyes-libya-breakthrough-reshape-eastern-mediterranean-diplomacy?traffic_source=rss](https://www.aljazeera.com/news-analysis/2026/10/29/can-turkiyes-libya-breakthrough-reshape-eastern-mediterranean-diplomacy?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/29/argentina-farmers-evacuate-cattle-by-boat-as-el-nino-escalates?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/29/argentina-farmers-evacuate-cattle-by-boat-as-el-nino-escalates?traffic_source=rss)
 
 ---
 
-### 8. Russia says more than 600 drones launched towards Moscow overnight
+### 8. Infantino criticism lands Jordan FA chief judicial review with AFC
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The attack is the latest in a series of major drone assaults targeting the Moscow region.
+AFC orders judicial reviews for allegation FIFA President Gianni Infantino used AFC Congress for political purposes.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/29/russia-says-more-than-600-drones-launched-towards-moscow-overnight?traffic_source=rss](https://www.aljazeera.com/news/2026/10/29/russia-says-more-than-600-drones-launched-towards-moscow-overnight?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/29/infantino-criticism-lands-jordan-fa-chief-judicial-review-with-afc?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/29/infantino-criticism-lands-jordan-fa-chief-judicial-review-with-afc?traffic_source=rss)
 
 ---
 
-### 9. Judge rejects Trump effort to block California ‘noncitizen’ ballots
+### 9. Brazilians split over Flavio Bolsonaro’s exit to US
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-More than 100 subpoenas issued across 13 states as government ramps up search for alleged noncitizen voters.
+Brazilians are split over Flavio Bolsonaro fleeing to the US after refusing to concede the election to President Lula.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/29/judge-rejects-trump-effort-to-block-california-noncitizen-ballots?traffic_source=rss](https://www.aljazeera.com/news/2026/10/29/judge-rejects-trump-effort-to-block-california-noncitizen-ballots?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/29/brazilians-split-over-flavio-bolsonaros-exit-to-us-2?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/29/brazilians-split-over-flavio-bolsonaros-exit-to-us-2?traffic_source=rss)
 
 ---
 

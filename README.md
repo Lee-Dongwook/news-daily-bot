@@ -1,77 +1,95 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-29 16:54:45
+**Last Update:** 2026-10-29 20:14:30
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5
+### 1. Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1">https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50288019">https://news.ycombinator.com/item?id=50288019</a></p>
-<p>Points: 27</p>
-<p># Comments: 12</p>
+<p>Hi HN, we're Ahnaf and Seungmin from Simantic (<a href="https://simantic.com">https://simantic.com</a>). We are building the simulation layer that lets engineers and AI agents test and validate firmware without hardware.<p>Before Simantic, we were ex-firmware engineers at companies like Neuralink and Tesla. We’ve worked on some of the coolest projects, like the Cybertruck and Roadster, back when they were still early prototypes.<p>We started working on firmware back when ChatGPT didn’t exist yet, but over the years, we saw how much of the engineering and development work has been automated as the frontier models improved to this point. In software, AI can run and test code inside your computer in a matter of seconds. But as firmware engineers, we didn’t have that luxury. An AI agent can write firmware in seconds, but in order to test it, we had to flash a physical board, then manually run tests using expensive and clunky tools with software made over a decade ago.<p>To speed up the validation loop, we built the simulation layer that lets AI agents test the firmware and make decisions based on evidence, instead of waiting for the engineer to run tests for them. We used to spend hours testing our firmware manually on devboards, but now we use our own simulation to validate firmware in seconds.<p>What we offer:
+- Virtual devboards you can program and run with a single API call, without leaving your terminal.
+- An AI code reviewer for firmware, that makes informed decisions based on evidence, using our simulation as a verification engine.
+- A CI/CD pipeline for your hardware projects that validates your firmware against a simulated version of the microcontroller on every commit.<p>Here is a demo of our simulation used in an AI code review session: <a href="https://www.youtube.com/watch?v=kBK1ZjGWWbQ" rel="nofollow">https://www.youtube.com/watch?v=kBK1ZjGWWbQ</a><p>Our users are using Simantic for bare-metal and RTOS development for applications like flight controllers, electric vehicles, robotics, and satellites. For safety critical systems like avionics and automotives, a robust simulation system is incredibly important, because every change in the firmware puts a human life at stake, especially for machines that cost hundreds of thousands to millions of dollars.<p>We recently helped an early stage space startup building satellites, to test their firmware on hardware that they don't yet have. Even the development modules for those satellites costs over $100k, and we helped them do that at just a hundredth of the cost and time.<p>Early on in our journey, we established our idea to make better simulation but didn’t have a clear idea of how we would do it, we considered developing our software around open source emulation frameworks like Renode (<a href="https://github.com/renode/renode" rel="nofollow">https://github.com/renode/renode</a>) and QEMU (<a href="https://www.qemu.org/" rel="nofollow">https://www.qemu.org/</a>), because they were tools already used within the firmware industry. We built our MVP that was essentially a wrapper around Renode, but we quickly realized there were a lot of limitations to doing this.<p>1. We were bottlenecked by the development speed of Renode themselves. We tried making contributions on Github to fix issues we came across, but the speed in which we could merge our features in was not fast enough for a startup like us trying to move fast.<p>2. Renode is built using Dotnet, and it was proving itself to be slower than we would have liked. Renode was released in 2017, which was when all code was still being written by hand, so I think it made sense looking back, but there were limitations because of the language itself.<p>3. The open source tools were bloated, with features that we would never use. Yes, there were a  breadth of features, but we had a lot of things we had to work around just because we couldn’t remove or change them.
+Users were complaining about simulation accuracy. Renode is an emulator at the core, but our users, especially those who are building systems where timing accuracy is crucial did not find the accuracy good enough to validate their firmware.<p>Because of these issues, we made our own simulation engine from scratch, fully written in Rust.<p>- Our simulation is focused on accuracy. Open source frameworks often focus on expandability and developer experience, which means there were a lot of tradeoffs made to prioritize a breadth of models rather than going deep into a set of select models.<p>- We have our own hardware validation rigs running 24/7 to ensure our simulation models are as close to real world hardware as possible, and any gaps are detected and fixed as soon as we can. It currently looks like devboards connected to a Saleae Logic MSO and a SWD bus, controlled by a Linux PC, running Claude 24/7 just finding these gaps.<p>Our cloud-hosted simulator is available to use right now! We also provide a native binary with our developer plan licenses that let you run your firmware on your machines locally without any limitations.<p>Check it out at <a href="https://simantic.com/cloud-sim">https://simantic.com/cloud-sim</a>, and you can start using our AI firmware reviewer bot in your own Github repos here: <a href="https://simantic.com/dashboard/simantic-bot">https://simantic.com/dashboard/simantic-bot</a>.<p>We currently have support for some models of the STM32F0, F4, H7 series MCUs, ESP32-S3/C3, and RP2040, but we’re constantly working to release new models every week, and improve our existing ones.<p>Thank you, and if you have any questions, feel free to send us an email at founders@simantic.dev</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50291116">https://news.ycombinator.com/item?id=50291116</a></p>
+<p>Points: 8</p>
+<p># Comments: 6</p>
 
-🔗 **Read more:** [https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1](https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1)
+🔗 **Read more:** [https://news.ycombinator.com/item?id=50291116](https://news.ycombinator.com/item?id=50291116)
 
 ---
 
-### 2. DoorDash to Acquire Instacart
+### 2. H.264 Is Magic (2016)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://ir.doordash.com/news/news-details/2026/DoorDash-to-Acquire-Instacart-to-Help-Local-Stores-Win/default.aspx">https://ir.doordash.com/news/news-details/2026/DoorDash-to-Acquire-Instacart-to-Help-Local-Stores-Win/default.aspx</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50287919">https://news.ycombinator.com/item?id=50287919</a></p>
-<p>Points: 46</p>
-<p># Comments: 28</p>
+<p>Article URL: <a href="https://sidbala.com/h-264-is-magic/">https://sidbala.com/h-264-is-magic/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50291054">https://news.ycombinator.com/item?id=50291054</a></p>
+<p>Points: 56</p>
+<p># Comments: 18</p>
 
-🔗 **Read more:** [https://ir.doordash.com/news/news-details/2026/DoorDash-to-Acquire-Instacart-to-Help-Local-Stores-Win/default.aspx](https://ir.doordash.com/news/news-details/2026/DoorDash-to-Acquire-Instacart-to-Help-Local-Stores-Win/default.aspx)
+🔗 **Read more:** [https://sidbala.com/h-264-is-magic/](https://sidbala.com/h-264-is-magic/)
 
 ---
 
-### 3. Hackers expose the identities of more than 40k DHS employees
+### 3. Grace Blackwell needs a new scheduler: 27% more usable GPUs from the same racks
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://text.npr.org/nx-s1-6021497">https://text.npr.org/nx-s1-6021497</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50287898">https://news.ycombinator.com/item?id=50287898</a></p>
-<p>Points: 44</p>
-<p># Comments: 10</p>
+<p>Article URL: <a href="https://skypilot.ai/blog/grace-blackwell-needs-a-new-scheduler">https://skypilot.ai/blog/grace-blackwell-needs-a-new-scheduler</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50290912">https://news.ycombinator.com/item?id=50290912</a></p>
+<p>Points: 24</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://text.npr.org/nx-s1-6021497](https://text.npr.org/nx-s1-6021497)
+🔗 **Read more:** [https://skypilot.ai/blog/grace-blackwell-needs-a-new-scheduler](https://skypilot.ai/blog/grace-blackwell-needs-a-new-scheduler)
 
 ---
 
-### 4. Treasury will not commit to reducing welfare bill before next election
+### 4. Burnham says he wants to cut welfare bill 'as soon as we possibly can'
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The Treasury is disputing that the chancellor suggested to the BBC the benefits bill will be cut before the next election.
+Opponents have questioned the Budget's lack of detail on welfare reform, with the prime minister not outlining a timetable for any reductions.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm5ynwkjgpz3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm5ynwkjgpz3o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6x2w4zy15nwo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6x2w4zy15nwo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Audio reveals exchanges between control centre and drivers before deadly Spain train crash
+### 5. 'Painful' years ahead, think tanks warn, as living standards set to fall
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Budget forecasts show growth in living standards grinding almost to a halt.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6z7x8214np7o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6z7x8214np7o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Audio reveals exchanges between control centre and drivers before deadly Spain train crash
 
 **Source:** BBC
 
@@ -84,85 +102,46 @@ The recordings appear to show one high-speed train was given clearance to move e
 
 ---
 
-### 6. Russell Brand's wife tells his rape trial he is 'kind and a wonderful father'
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Laura Brand tells the jury at his trial she feels "very seen by him" and "I love him very much".
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cky93127nyepo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cky93127nyepo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Men pulled from vehicle stranded by floods in Syria
+### 7. Deadly rock collapse at famous Turkiye tourist site
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-This is the moment several men were rescued from their vehicle in Syria after becoming stranded by flash floods.
+Deadly rock collapse at famous Turkiye tourist site
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/29/men-pulled-from-vehicle-stranded-by-floods-in-syria?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/29/men-pulled-from-vehicle-stranded-by-floods-in-syria?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/29/deadly-rock-collapse-at-famous-turkiye-tourist-site?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/29/deadly-rock-collapse-at-famous-turkiye-tourist-site?traffic_source=rss)
 
 ---
 
-### 8. Bangladesh’s Shadman Islam hits century, but West Indies force collapse
+### 8. Israel’s anti-Qatar campaign bleeds into elections
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Shadman Islam hits 100, but Jomel Warrican bags five wickets before West Indies end day two of first Test on 134-4.
+Qatar&#039;s Foreign Ministry spokesman rejects &#039;disinformation&#039; amid allegations by some Israelis of voting interference.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/29/bangladeshs-shadman-islam-hits-100-but-warrican-tops-west-indies-recovery?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/29/bangladeshs-shadman-islam-hits-100-but-warrican-tops-west-indies-recovery?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/29/israels-anti-qatar-campaign-bleeds-into-elections?traffic_source=rss](https://www.aljazeera.com/news/2026/10/29/israels-anti-qatar-campaign-bleeds-into-elections?traffic_source=rss)
 
 ---
 
-### 9. Fighting rages near Yemen’s Taiz as UN urges humanitarian access
+### 9. Spanish long jumper Julieta Gallego among victims of deadly train collision
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Fighting has forced more than 281,000 people from their homes in Yemen since the beginning of August, the UN said.
+Julieta Gallego, who competed for Madrid-based AD Sprint, among those killed in train crash in Spain.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/29/fighting-rages-near-yemens-taiz-as-un-urges-humanitarian-access?traffic_source=rss](https://www.aljazeera.com/news/2026/10/29/fighting-rages-near-yemens-taiz-as-un-urges-humanitarian-access?traffic_source=rss)
-
----
-
-### 10. Tropical Cyclone Arnab
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25729](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25729)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/29/spanish-long-jumper-julieta-gallego-among-victims-of-deadly-train-collision?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/29/spanish-long-jumper-julieta-gallego-among-victims-of-deadly-train-collision?traffic_source=rss)
 
 ---
 
-### 11. Tropical Storm Olana
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25730](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25730)
-
----
-
-### 12. Wildfire Range  47B, Forrest, Mississippi
+### 10. Wildfire South Tank Trail, Perry, Mississippi
 
 **Source:** NASA
 
@@ -171,7 +150,33 @@ Natural event: Severe Storms
 **Description:**
 Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25769](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25769)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25827](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25827)
+
+---
+
+### 11. Prescribed Fire Walker Hill 3 Piles RX, Coconino, Arizona
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25829](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25829)
+
+---
+
+### 12. Prescribed Fire Brie Slash Piles RX, Coconino, Arizona
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25830](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25830)
 
 ---
 

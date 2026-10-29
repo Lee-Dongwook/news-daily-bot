@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-29 03:35:19
+**Last Update:** 2026-10-29 05:49:43
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Formlabs Studio 1 $699 Resin Printer
+### 1. MicroZig to Adopt Strict No LLM / No AI Policy
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://formlabs.com/products/form-studio-1-basic-founders-edition/">https://formlabs.com/products/form-studio-1-basic-founders-edition/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50281044">https://news.ycombinator.com/item?id=50281044</a></p>
-<p>Points: 83</p>
-<p># Comments: 68</p>
+<p>Article URL: <a href="https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md">https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50282865">https://news.ycombinator.com/item?id=50282865</a></p>
+<p>Points: 36</p>
+<p># Comments: 45</p>
 
-🔗 **Read more:** [https://formlabs.com/products/form-studio-1-basic-founders-edition/](https://formlabs.com/products/form-studio-1-basic-founders-edition/)
+🔗 **Read more:** [https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md](https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md)
 
 ---
 
-### 2. A Health Update
+### 2. Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://furbo.org/2026/10/28/a-health-update/">https://furbo.org/2026/10/28/a-health-update/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50280974">https://news.ycombinator.com/item?id=50280974</a></p>
-<p>Points: 32</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://divagr.com/blog/qwenputer">https://divagr.com/blog/qwenputer</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50282838">https://news.ycombinator.com/item?id=50282838</a></p>
+<p>Points: 89</p>
+<p># Comments: 16</p>
 
-🔗 **Read more:** [https://furbo.org/2026/10/28/a-health-update/](https://furbo.org/2026/10/28/a-health-update/)
+🔗 **Read more:** [https://divagr.com/blog/qwenputer](https://divagr.com/blog/qwenputer)
 
 ---
 
-### 3. Nango (YC W23) Is Hiring Across Eng, FDE, Marketing, DevRel
+### 3. GitLab Security Incident: Attempted Exploitation of CVE-2026-97229
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://nango.dev/careers">https://nango.dev/careers</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50280824">https://news.ycombinator.com/item?id=50280824</a></p>
-<p>Points: 0</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html">https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50282544">https://news.ycombinator.com/item?id=50282544</a></p>
+<p>Points: 82</p>
+<p># Comments: 28</p>
 
-🔗 **Read more:** [https://nango.dev/careers](https://nango.dev/careers)
+🔗 **Read more:** [https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html](https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html)
 
 ---
 
@@ -71,68 +71,68 @@ The chancellor targets the cost of living amid global economic turmoil but oppos
 
 ---
 
-### 5. Budget key points at a glance
+### 5. I earn £30,000. I'm angry there was no fuel duty cut in the Budget
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Here’s what you need to know from John Healey’s first Budget, as the chancellor sets out the government’s tax and spending plans.
+People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they made of this year's Budget.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Chris Mason: Budget felt cautious despite its range of small measures
+### 6. High-speed train crash kills at least 68 people in Spain
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The chancellor has had to grapple with a mix of public finances and household finances being a mess.
+The crash, between a moving train and another that was stopped further up the track, was caused by an "inexplicable" error, the transport minister said.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm78pljvqvxeo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm78pljvqvxeo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Romania extends pre-trial detention of far-right politician Calin Georgescu
+### 7. Serbians storm TV studio as pro-Vucic media faces reckoning
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The Bucharest court has extended the pre-trial detention of Calin Georgescu by 30 days, appealing a lower court ruling.
+Serbians stormed a TV studio and confronted its editor-in-chief after a student-led protest movement swept into power.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/28/romania-extends-pre-trial-detention-of-far-right-politician-calin-georgescu?traffic_source=rss](https://www.aljazeera.com/news/2026/10/28/romania-extends-pre-trial-detention-of-far-right-politician-calin-georgescu?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/29/serbians-storm-tv-studio-as-pro-vucic-media-faces-reckoning?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/29/serbians-storm-tv-studio-as-pro-vucic-media-faces-reckoning?traffic_source=rss)
 
 ---
 
-### 8. UN experts sound alarm at excessive use of force in French student protests
+### 8. Bolsonaro in Miami: I am the ‘true president-elect’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-UN experts have condemned police crackdowns, warning they deter demonstrators from exercising their rights.
+Flavio Bolsonaro claimed to be the ‘true president-elect’ of Brazil in his first statement since fleeing to the US.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/28/un-experts-sound-alarm-at-excessive-use-of-force-in-french-student-protests?traffic_source=rss](https://www.aljazeera.com/news/2026/10/28/un-experts-sound-alarm-at-excessive-use-of-force-in-french-student-protests?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/29/bolsonaro-in-miami-i-am-the-true-president?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/29/bolsonaro-in-miami-i-am-the-true-president?traffic_source=rss)
 
 ---
 
-### 9. Costa Rica’s mega-prison receives first inmates
+### 9. Riot police deployed in Madrid as protests erupt over deadly train crash
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-President Laura Fernandez inaugurated the $35m mega-prison built to house up to 5,100 inmates near San Jose.
+A deadly train crash fuelled anger in Spain as far-right demonstrators clashed with police
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/28/costa-ricas-mega-prison-receives-first-inmates?traffic_source=rss](https://www.aljazeera.com/news/2026/10/28/costa-ricas-mega-prison-receives-first-inmates?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/29/riot-police-deployed-in-madrid-as-protests-erupt-over-deadly-train-crash?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/29/riot-police-deployed-in-madrid-as-protests-erupt-over-deadly-train-crash?traffic_source=rss)
 
 ---
 

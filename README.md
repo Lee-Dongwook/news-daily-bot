@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-30 06:13:57
+**Last Update:** 2026-10-30 11:47:44
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Pico CSS is no longer maintained
+### 1. Wasmer (YC S19) Is Hiring OS/Hypervisor Experts in Europe
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.workatastartup.com/jobs/98722">https://www.workatastartup.com/jobs/98722</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50300643">https://news.ycombinator.com/item?id=50300643</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.workatastartup.com/jobs/98722](https://www.workatastartup.com/jobs/98722)
+
+---
+
+### 2. Pico CSS is no longer maintained
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/picocss/pico/discussions/754">https://github.com/picocss/pico/discussions/754</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50298964">https://news.ycombinator.com/item?id=50298964</a></p>
-<p>Points: 15</p>
-<p># Comments: 3</p>
+<p>Points: 113</p>
+<p># Comments: 43</p>
 
 🔗 **Read more:** [https://github.com/picocss/pico/discussions/754](https://github.com/picocss/pico/discussions/754)
 
 ---
 
-### 2. Herdr has released native app
+### 3. Herdr has released native app
 
 **Source:** Hacker News
 
@@ -35,104 +51,88 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/herdrdev/herdr-app">https://github.com/herdrdev/herdr-app</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50298436">https://news.ycombinator.com/item?id=50298436</a></p>
-<p>Points: 21</p>
-<p># Comments: 17</p>
+<p>Points: 161</p>
+<p># Comments: 96</p>
 
 🔗 **Read more:** [https://github.com/herdrdev/herdr-app](https://github.com/herdrdev/herdr-app)
 
 ---
 
-### 3. Cormac McCarthy's Library
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://cormacmccarthy.lib.utk.edu/">https://cormacmccarthy.lib.utk.edu/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50298318">https://news.ycombinator.com/item?id=50298318</a></p>
-<p>Points: 15</p>
-<p># Comments: 4</p>
-
-🔗 **Read more:** [https://cormacmccarthy.lib.utk.edu/](https://cormacmccarthy.lib.utk.edu/)
-
----
-
-### 4. Google value plunges by $500bn as AI fears rattle Wall Street
+### 4. What we know about Binance's $6.3bn hack
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI search summaries were affecting ad revenue.
+BBC business reporter Archana Shukla explains more about what is suspected to be the largest hack in history.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Australian mushroom murderer loses appeal to overturn convictions
+### 5. Sir Ian McKellen leads tributes to 'beloved actor' Sir Patrick Stewart after his death at 86
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Erin Patterson argued her trial was unfair due to seven grounds but three appeal judges dismissed them all.
+The actor died in Los Angeles following a "a brief and poignant journey" with Alzheimer's Disease and Lewy Body Dementia.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck8dz8j5n993o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck8dz8j5n993o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm20v3029p5xo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm20v3029p5xo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Crypto worth billions frozen after suspected Binance hack
+### 6. Watch: Australia's mushroom murderer loses appeal and may now die in prison
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The firm has not said how much was potentially stolen but some crypto experts have put the figure at over $5bn.
+Judges agreed with the prosecution’s appeal that Erin Patterson’s initial non-parole period of 33 years was insufficient.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cmlykpd9kpy7o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cmlykpd9kpy7o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Trump administration renews bid to block Alaska election results
+### 7. ‘My life is buried here’: Iranian man whose 12 family members were killed
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The updated lawsuit cites a new report that Democratic operatives recruited a competitor to confuse voters.
+Hamed Mirzaei lost his wife, parents and many others in a devastating US-Israeli attack on Tehran.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/30/trump-administration-renews-bid-to-block-alaska-election-results?traffic_source=rss](https://www.aljazeera.com/news/2026/10/30/trump-administration-renews-bid-to-block-alaska-election-results?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/30/my-life-is-buried-here-iranian-man-whose-12-family-members-were-killed?traffic_source=rss](https://www.aljazeera.com/news/2026/10/30/my-life-is-buried-here-iranian-man-whose-12-family-members-were-killed?traffic_source=rss)
 
 ---
 
-### 8. Ethiopia border clashes leave families hungry and homeless in Kenya
+### 8. Australian court rejects ‘mushroom murderer’ Erin Patterson’s appeal
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Fighting over disputed land and water in Ethiopia’s Moyale border region has driven thousands of people into Kenya.
+Court rules Patterson will spend the rest of her life behind bars after denying parole.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/30/ethiopia-border-clashes-leave-families-hungry-and-homeless-in-kenya?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/30/ethiopia-border-clashes-leave-families-hungry-and-homeless-in-kenya?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/30/australian-mushroom-murderer-erin-patterson-loses-appeal-bid?traffic_source=rss](https://www.aljazeera.com/news/2026/10/30/australian-mushroom-murderer-erin-patterson-loses-appeal-bid?traffic_source=rss)
 
 ---
 
-### 9. EU force helicopter crash kills four in Bosnia
+### 9. Philippines raises alert as Mayon Volcano erupts
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-EUFOR confirms CH-47 Chinook helicopter crash in Bosnia, with four Italian nationals confirmed dead.
+The Philippines’ Mayon Volcano has erupted, sending ash plumes 3,000 metres above its summit.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/30/eu-force-helicopter-crash-kills-four-in-bosnia?traffic_source=rss](https://www.aljazeera.com/news/2026/10/30/eu-force-helicopter-crash-kills-four-in-bosnia?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/30/philippines-raises-alert-as-mayon-volcano-erupts?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/30/philippines-raises-alert-as-mayon-volcano-erupts?traffic_source=rss)
 
 ---
 

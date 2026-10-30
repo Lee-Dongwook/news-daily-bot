@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-30T11:47:44+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Wasmer (YC S19) Is Hiring OS/Hypervisor Experts in Europe",
+            "description": "<p>Article URL: <a href=\"https://www.workatastartup.com/jobs/98722\">https://www.workatastartup.com/jobs/98722</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50300643\">https://news.ycombinator.com/item?id=50300643</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+            "url": "https://www.workatastartup.com/jobs/98722",
+            "published": "Fri, 30 Oct 2026 07:00:35 +0000",
+            "fetched": "2026-10-30T11:47:44+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Pico CSS is no longer maintained",
+            "description": "<p>Article URL: <a href=\"https://github.com/picocss/pico/discussions/754\">https://github.com/picocss/pico/discussions/754</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50298964\">https://news.ycombinator.com/item?id=50298964</a></p>\n<p>Points: 113</p>\n<p># Comments: 43</p>",
+            "url": "https://github.com/picocss/pico/discussions/754",
+            "published": "Fri, 30 Oct 2026 01:58:44 +0000",
+            "fetched": "2026-10-30T11:47:44+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Herdr has released native app",
+            "description": "<p>Article URL: <a href=\"https://github.com/herdrdev/herdr-app\">https://github.com/herdrdev/herdr-app</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50298436\">https://news.ycombinator.com/item?id=50298436</a></p>\n<p>Points: 161</p>\n<p># Comments: 96</p>",
+            "url": "https://github.com/herdrdev/herdr-app",
+            "published": "Fri, 30 Oct 2026 00:42:41 +0000",
+            "fetched": "2026-10-30T11:47:44+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "What we know about Binance's $6.3bn hack",
+            "description": "BBC business reporter Archana Shukla explains more about what is suspected to be the largest hack in history.",
+            "url": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 30 Oct 2026 08:02:02 GMT",
+            "fetched": "2026-10-30T11:47:44+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Sir Ian McKellen leads tributes to 'beloved actor' Sir Patrick Stewart after his death at 86",
+            "description": "The actor died in Los Angeles following a \"a brief and poignant journey\" with Alzheimer's Disease and Lewy Body Dementia.",
+            "url": "https://www.bbc.co.uk/news/articles/cm20v3029p5xo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 30 Oct 2026 07:39:12 GMT",
+            "fetched": "2026-10-30T11:47:44+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Australia's mushroom murderer loses appeal and may now die in prison",
+            "description": "Judges agreed with the prosecution’s appeal that Erin Patterson’s initial non-parole period of 33 years was insufficient.",
+            "url": "https://www.bbc.co.uk/news/videos/cmlykpd9kpy7o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 30 Oct 2026 01:38:54 GMT",
+            "fetched": "2026-10-30T11:47:44+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘My life is buried here’: Iranian man whose 12 family members were killed",
+            "description": "Hamed Mirzaei lost his wife, parents and many others in a devastating US-Israeli attack on Tehran.",
+            "url": "https://www.aljazeera.com/news/2026/10/30/my-life-is-buried-here-iranian-man-whose-12-family-members-were-killed?traffic_source=rss",
+            "published": "Fri, 30 Oct 2026 07:51:08 +0000",
+            "fetched": "2026-10-30T11:47:44+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Australian court rejects ‘mushroom murderer’ Erin Patterson’s appeal",
+            "description": "Court rules Patterson will spend the rest of her life behind bars after denying parole.",
+            "url": "https://www.aljazeera.com/news/2026/10/30/australian-mushroom-murderer-erin-patterson-loses-appeal-bid?traffic_source=rss",
+            "published": "Fri, 30 Oct 2026 07:38:20 +0000",
+            "fetched": "2026-10-30T11:47:44+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Philippines raises alert as Mayon Volcano erupts",
+            "description": "The Philippines’ Mayon Volcano has erupted, sending ash plumes 3,000 metres above its summit.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/philippines-raises-alert-as-mayon-volcano-erupts?traffic_source=rss",
+            "published": "Fri, 30 Oct 2026 07:37:38 +0000",
+            "fetched": "2026-10-30T11:47:44+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire South Tank Trail, Perry, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25827",
+            "published": "2026-10-28T18:02:00Z",
+            "fetched": "2026-10-30T11:47:44+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Walker Hill 3 Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25829",
+            "published": "2026-10-28T11:22:00Z",
+            "fetched": "2026-10-30T11:47:44+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Brie Slash Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25830",
+            "published": "2026-10-28T11:21:00Z",
+            "fetched": "2026-10-30T11:47:44+03:30"
+        }
+    ]
+}

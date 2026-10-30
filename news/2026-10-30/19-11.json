@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-30T19:11:40+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "$300k for a personalized cancer vaccine",
+            "description": "<p>Article URL: <a href=\"https://rnafoundry.com\">https://rnafoundry.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50305309\">https://news.ycombinator.com/item?id=50305309</a></p>\n<p>Points: 9</p>\n<p># Comments: 1</p>",
+            "url": "https://rnafoundry.com",
+            "published": "Fri, 30 Oct 2026 15:29:08 +0000",
+            "fetched": "2026-10-30T19:11:40+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "What SBF's Anthropic investment would be worth today",
+            "description": "<p>Article URL: <a href=\"https://sbfindex.com/\">https://sbfindex.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50305299\">https://news.ycombinator.com/item?id=50305299</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://sbfindex.com/",
+            "published": "Fri, 30 Oct 2026 15:28:29 +0000",
+            "fetched": "2026-10-30T19:11:40+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Northflank Breached",
+            "description": "<p>Article URL: <a href=\"https://status.northflank.com\">https://status.northflank.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50305025\">https://news.ycombinator.com/item?id=50305025</a></p>\n<p>Points: 13</p>\n<p># Comments: 4</p>",
+            "url": "https://status.northflank.com",
+            "published": "Fri, 30 Oct 2026 15:10:31 +0000",
+            "fetched": "2026-10-30T19:11:40+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "What we know about Binance's $6.3bn hack",
+            "description": "Cyber correspondent Joe Tidy explains more about what is suspected to be the biggest hack in history.",
+            "url": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 30 Oct 2026 12:27:28 GMT",
+            "fetched": "2026-10-30T19:11:40+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Driver guilty of hitting cyclist and dragging him to death under car",
+            "description": "Simon Richardson is convicted of murdering head teacher Michael Mullins and will be sentenced on Monday.",
+            "url": "https://www.bbc.co.uk/news/articles/c6e3xg5we9eyo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 30 Oct 2026 15:27:40 GMT",
+            "fetched": "2026-10-30T19:11:40+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Police Scotland carrying out 'active inquiries' into Andrew and Epstein Balmoral visits",
+            "description": "The force said it had received information and stressed its inquiries were at \"an early stage\".",
+            "url": "https://www.bbc.co.uk/news/articles/cqglwp088532o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 30 Oct 2026 15:39:49 GMT",
+            "fetched": "2026-10-30T19:11:40+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli forces blow up homes of Palestinians accused of killing soldiers",
+            "description": "Israeli forces demolished the homes of two Palestinians accused of killing two Israeli soldiers in Hebron last week.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/israeli-forces-blow-up-homes-of-palestinians-accused-of-killing-soldiers?traffic_source=rss",
+            "published": "Fri, 30 Oct 2026 15:06:00 +0000",
+            "fetched": "2026-10-30T19:11:40+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Senators briefed on Trump’s ‘insane’ plan to restart war on Iran",
+            "description": "Senator Chris Murphy says he’s been briefed on Trump’s plan to restart the war on Iran.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/senators-briefed-on-trumps-insane-plan-to-restart-war-on-iran-2?traffic_source=rss",
+            "published": "Fri, 30 Oct 2026 14:40:19 +0000",
+            "fetched": "2026-10-30T19:11:40+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Russian, Ukrainian humanitarian officials enter Oleshky",
+            "description": "A humanitarian aid convoy containing both Russian and Ukrainian officials entered the besieged Ukrainian city of Oleshky",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/russian-ukrainian-humanitarian-officials-enter-oleshky?traffic_source=rss",
+            "published": "Fri, 30 Oct 2026 14:19:49 +0000",
+            "fetched": "2026-10-30T19:11:40+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire South Tank Trail, Perry, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25827",
+            "published": "2026-10-28T18:02:00Z",
+            "fetched": "2026-10-30T19:11:40+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Walker Hill 3 Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25829",
+            "published": "2026-10-28T11:22:00Z",
+            "fetched": "2026-10-30T19:11:40+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Brie Slash Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25830",
+            "published": "2026-10-28T11:21:00Z",
+            "fetched": "2026-10-30T19:11:40+03:30"
+        }
+    ]
+}

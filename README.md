@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-30 13:46:23
+**Last Update:** 2026-10-30 19:11:40
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. How Do You Take a Picture of a Black Hole?
+### 1. $300k for a personalized cancer vaccine
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/">https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50301717">https://news.ycombinator.com/item?id=50301717</a></p>
+<p>Article URL: <a href="https://rnafoundry.com">https://rnafoundry.com</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50305309">https://news.ycombinator.com/item?id=50305309</a></p>
+<p>Points: 9</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://rnafoundry.com](https://rnafoundry.com)
+
+---
+
+### 2. What SBF's Anthropic investment would be worth today
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://sbfindex.com/">https://sbfindex.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50305299">https://news.ycombinator.com/item?id=50305299</a></p>
 <p>Points: 4</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/](https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/)
+🔗 **Read more:** [https://sbfindex.com/](https://sbfindex.com/)
 
 ---
 
-### 2. I Returned My iPhone Duo
+### 3. Northflank Breached
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://codakuma.com/i-returned-my-duo/">https://codakuma.com/i-returned-my-duo/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50301373">https://news.ycombinator.com/item?id=50301373</a></p>
-<p>Points: 32</p>
-<p># Comments: 48</p>
+<p>Article URL: <a href="https://status.northflank.com">https://status.northflank.com</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50305025">https://news.ycombinator.com/item?id=50305025</a></p>
+<p>Points: 13</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://codakuma.com/i-returned-my-duo/](https://codakuma.com/i-returned-my-duo/)
-
----
-
-### 3. 'Elite North Korean hackers' blamed for $6.3B Binance hack
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates">https://www.theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50300853">https://news.ycombinator.com/item?id=50300853</a></p>
-<p>Points: 50</p>
-<p># Comments: 41</p>
-
-🔗 **Read more:** [https://www.theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates](https://www.theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates)
+🔗 **Read more:** [https://status.northflank.com](https://status.northflank.com)
 
 ---
 
@@ -65,74 +65,74 @@
 **Category:** world
 
 **Description:**
-BBC business reporter Archana Shukla explains more about what is suspected to be the largest hack in history.
+Cyber correspondent Joe Tidy explains more about what is suspected to be the biggest hack in history.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Sir Ian McKellen leads tributes to 'beloved actor' Sir Patrick Stewart after his death at 86
+### 5. Driver guilty of hitting cyclist and dragging him to death under car
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The actor died in Los Angeles following a "a brief and poignant journey" with Alzheimer's Disease and Lewy Body Dementia.
+Simon Richardson is convicted of murdering head teacher Michael Mullins and will be sentenced on Monday.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm20v3029p5xo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm20v3029p5xo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6e3xg5we9eyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6e3xg5we9eyo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Watch: Iconic moments from Sir Patrick Stewart's career
+### 6. Police Scotland carrying out 'active inquiries' into Andrew and Epstein Balmoral visits
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The renowned British actor died after "a brief and poignant journey" with Alzheimer's disease and Lewy Body Dementia, his spokesperson says.
+The force said it had received information and stressed its inquiries were at "an early stage".
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c6qxnlxn0n15o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c6qxnlxn0n15o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqglwp088532o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqglwp088532o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. AFCON returns to 2-year cycle after CAF reverses quadrennial decision
+### 7. Israeli forces blow up homes of Palestinians accused of killing soldiers
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Kenya, Tanzania and Uganda will cohost the next AFCON in 2027, with subsequent tournaments in 2028, 2031 and 2033.
+Israeli forces demolished the homes of two Palestinians accused of killing two Israeli soldiers in Hebron last week.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/30/afcon-returns-to-2-year-cycle-after-caf-reverses-quadrennial-decision?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/30/afcon-returns-to-2-year-cycle-after-caf-reverses-quadrennial-decision?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/30/israeli-forces-blow-up-homes-of-palestinians-accused-of-killing-soldiers?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/30/israeli-forces-blow-up-homes-of-palestinians-accused-of-killing-soldiers?traffic_source=rss)
 
 ---
 
-### 8. Bhutan glacial lake outburst triggers flash floods
+### 8. Senators briefed on Trump’s ‘insane’ plan to restart war on Iran
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A glacial lake outburst in northern Bhutan has triggered flash flooding.
+Senator Chris Murphy says he’s been briefed on Trump’s plan to restart the war on Iran.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/30/30-10-sv-bhutan-glacial-lake-outburst-flash-floods-301026?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/30/30-10-sv-bhutan-glacial-lake-outburst-flash-floods-301026?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/30/senators-briefed-on-trumps-insane-plan-to-restart-war-on-iran-2?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/30/senators-briefed-on-trumps-insane-plan-to-restart-war-on-iran-2?traffic_source=rss)
 
 ---
 
-### 9. Saudi Arabia reports interception of Houthi drone targeting Mecca
+### 9. Russian, Ukrainian humanitarian officials enter Oleshky
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Houthis deny targeting the region of the Muslim holy city as hostilities continue to escalate.
+A humanitarian aid convoy containing both Russian and Ukrainian officials entered the besieged Ukrainian city of Oleshky
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/30/saudi-arabia-reports-interception-of-houthi-drone-targeting-mecca?traffic_source=rss](https://www.aljazeera.com/news/2026/10/30/saudi-arabia-reports-interception-of-houthi-drone-targeting-mecca?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/30/russian-ukrainian-humanitarian-officials-enter-oleshky?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/30/russian-ukrainian-humanitarian-officials-enter-oleshky?traffic_source=rss)
 
 ---
 

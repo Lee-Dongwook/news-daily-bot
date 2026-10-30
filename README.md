@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-30 11:47:44
+**Last Update:** 2026-10-30 13:46:23
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Wasmer (YC S19) Is Hiring OS/Hypervisor Experts in Europe
+### 1. How Do You Take a Picture of a Black Hole?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.workatastartup.com/jobs/98722">https://www.workatastartup.com/jobs/98722</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50300643">https://news.ycombinator.com/item?id=50300643</a></p>
-<p>Points: 0</p>
+<p>Article URL: <a href="https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/">https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50301717">https://news.ycombinator.com/item?id=50301717</a></p>
+<p>Points: 4</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.workatastartup.com/jobs/98722](https://www.workatastartup.com/jobs/98722)
+🔗 **Read more:** [https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/](https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/)
 
 ---
 
-### 2. Pico CSS is no longer maintained
+### 2. I Returned My iPhone Duo
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/picocss/pico/discussions/754">https://github.com/picocss/pico/discussions/754</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50298964">https://news.ycombinator.com/item?id=50298964</a></p>
-<p>Points: 113</p>
-<p># Comments: 43</p>
+<p>Article URL: <a href="https://codakuma.com/i-returned-my-duo/">https://codakuma.com/i-returned-my-duo/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50301373">https://news.ycombinator.com/item?id=50301373</a></p>
+<p>Points: 32</p>
+<p># Comments: 48</p>
 
-🔗 **Read more:** [https://github.com/picocss/pico/discussions/754](https://github.com/picocss/pico/discussions/754)
+🔗 **Read more:** [https://codakuma.com/i-returned-my-duo/](https://codakuma.com/i-returned-my-duo/)
 
 ---
 
-### 3. Herdr has released native app
+### 3. 'Elite North Korean hackers' blamed for $6.3B Binance hack
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/herdrdev/herdr-app">https://github.com/herdrdev/herdr-app</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50298436">https://news.ycombinator.com/item?id=50298436</a></p>
-<p>Points: 161</p>
-<p># Comments: 96</p>
+<p>Article URL: <a href="https://www.theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates">https://www.theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50300853">https://news.ycombinator.com/item?id=50300853</a></p>
+<p>Points: 50</p>
+<p># Comments: 41</p>
 
-🔗 **Read more:** [https://github.com/herdrdev/herdr-app](https://github.com/herdrdev/herdr-app)
+🔗 **Read more:** [https://www.theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates](https://www.theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates)
 
 ---
 
@@ -84,55 +84,55 @@ The actor died in Los Angeles following a "a brief and poignant journey" with Al
 
 ---
 
-### 6. Watch: Australia's mushroom murderer loses appeal and may now die in prison
+### 6. Watch: Iconic moments from Sir Patrick Stewart's career
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Judges agreed with the prosecution’s appeal that Erin Patterson’s initial non-parole period of 33 years was insufficient.
+The renowned British actor died after "a brief and poignant journey" with Alzheimer's disease and Lewy Body Dementia, his spokesperson says.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cmlykpd9kpy7o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cmlykpd9kpy7o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c6qxnlxn0n15o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c6qxnlxn0n15o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. ‘My life is buried here’: Iranian man whose 12 family members were killed
+### 7. AFCON returns to 2-year cycle after CAF reverses quadrennial decision
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Hamed Mirzaei lost his wife, parents and many others in a devastating US-Israeli attack on Tehran.
+Kenya, Tanzania and Uganda will cohost the next AFCON in 2027, with subsequent tournaments in 2028, 2031 and 2033.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/30/my-life-is-buried-here-iranian-man-whose-12-family-members-were-killed?traffic_source=rss](https://www.aljazeera.com/news/2026/10/30/my-life-is-buried-here-iranian-man-whose-12-family-members-were-killed?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/30/afcon-returns-to-2-year-cycle-after-caf-reverses-quadrennial-decision?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/30/afcon-returns-to-2-year-cycle-after-caf-reverses-quadrennial-decision?traffic_source=rss)
 
 ---
 
-### 8. Australian court rejects ‘mushroom murderer’ Erin Patterson’s appeal
+### 8. Bhutan glacial lake outburst triggers flash floods
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Court rules Patterson will spend the rest of her life behind bars after denying parole.
+A glacial lake outburst in northern Bhutan has triggered flash flooding.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/30/australian-mushroom-murderer-erin-patterson-loses-appeal-bid?traffic_source=rss](https://www.aljazeera.com/news/2026/10/30/australian-mushroom-murderer-erin-patterson-loses-appeal-bid?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/30/30-10-sv-bhutan-glacial-lake-outburst-flash-floods-301026?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/30/30-10-sv-bhutan-glacial-lake-outburst-flash-floods-301026?traffic_source=rss)
 
 ---
 
-### 9. Philippines raises alert as Mayon Volcano erupts
+### 9. Saudi Arabia reports interception of Houthi drone targeting Mecca
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The Philippines’ Mayon Volcano has erupted, sending ash plumes 3,000 metres above its summit.
+Houthis deny targeting the region of the Muslim holy city as hostilities continue to escalate.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/30/philippines-raises-alert-as-mayon-volcano-erupts?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/30/philippines-raises-alert-as-mayon-volcano-erupts?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/30/saudi-arabia-reports-interception-of-houthi-drone-targeting-mecca?traffic_source=rss](https://www.aljazeera.com/news/2026/10/30/saudi-arabia-reports-interception-of-houthi-drone-targeting-mecca?traffic_source=rss)
 
 ---
 

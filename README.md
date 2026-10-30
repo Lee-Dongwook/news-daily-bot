@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-30 19:11:40
+**Last Update:** 2026-10-30 20:14:47
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. $300k for a personalized cancer vaccine
+### 1. AI Isn't Replacing SREs. It's Deskilling Them
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://rnafoundry.com">https://rnafoundry.com</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50305309">https://news.ycombinator.com/item?id=50305309</a></p>
-<p>Points: 9</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling">https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50305693">https://news.ycombinator.com/item?id=50305693</a></p>
+<p>Points: 101</p>
+<p># Comments: 76</p>
 
-🔗 **Read more:** [https://rnafoundry.com](https://rnafoundry.com)
+🔗 **Read more:** [https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling](https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling)
 
 ---
 
-### 2. What SBF's Anthropic investment would be worth today
+### 2. Geist Serif
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://sbfindex.com/">https://sbfindex.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50305299">https://news.ycombinator.com/item?id=50305299</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://vercel.com/blog/introducing-geist-serif">https://vercel.com/blog/introducing-geist-serif</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50305601">https://news.ycombinator.com/item?id=50305601</a></p>
+<p>Points: 24</p>
+<p># Comments: 11</p>
 
-🔗 **Read more:** [https://sbfindex.com/](https://sbfindex.com/)
+🔗 **Read more:** [https://vercel.com/blog/introducing-geist-serif](https://vercel.com/blog/introducing-geist-serif)
 
 ---
 
-### 3. Northflank Breached
+### 3. The Federated Code Forge
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://status.northflank.com">https://status.northflank.com</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50305025">https://news.ycombinator.com/item?id=50305025</a></p>
-<p>Points: 13</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://tangled.org/blog/forge/">https://tangled.org/blog/forge/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50305573">https://news.ycombinator.com/item?id=50305573</a></p>
+<p>Points: 24</p>
+<p># Comments: 7</p>
 
-🔗 **Read more:** [https://status.northflank.com](https://status.northflank.com)
+🔗 **Read more:** [https://tangled.org/blog/forge/](https://tangled.org/blog/forge/)
 
 ---
 
@@ -84,55 +84,55 @@ Simon Richardson is convicted of murdering head teacher Michael Mullins and will
 
 ---
 
-### 6. Police Scotland carrying out 'active inquiries' into Andrew and Epstein Balmoral visits
+### 6. Ceasefire allows evacuation from devastated Russian-occupied Oleshky
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The force said it had received information and stressed its inquiries were at "an early stage".
+But several hundred people are understood to have decided to stay in the frontline town, despite the lack of gas, electricity and running water.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqglwp088532o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqglwp088532o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Israeli forces blow up homes of Palestinians accused of killing soldiers
+### 7. Jerusalem Daily: Israel’s siege on Hebron displaces thousands
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli forces demolished the homes of two Palestinians accused of killing two Israeli soldiers in Hebron last week.
+Israel has announced its final election results, tightened its siege on Hebron, and arrested people returning to Gaza.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/30/israeli-forces-blow-up-homes-of-palestinians-accused-of-killing-soldiers?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/30/israeli-forces-blow-up-homes-of-palestinians-accused-of-killing-soldiers?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/30/jerusalem-daily-israels-siege-on-hebron-displaces-thousands?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/30/jerusalem-daily-israels-siege-on-hebron-displaces-thousands?traffic_source=rss)
 
 ---
 
-### 8. Senators briefed on Trump’s ‘insane’ plan to restart war on Iran
+### 8. Swiss foreign minister talks political ties on rare visit to North Korea
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Senator Chris Murphy says he’s been briefed on Trump’s plan to restart the war on Iran.
+Switzerland formally reopens diplomatic office in North Korea after its closure in 2020.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/30/senators-briefed-on-trumps-insane-plan-to-restart-war-on-iran-2?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/30/senators-briefed-on-trumps-insane-plan-to-restart-war-on-iran-2?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/30/swiss-foreign-minister-talks-political-ties-on-rare-visit-to-north-korea?traffic_source=rss](https://www.aljazeera.com/news/2026/10/30/swiss-foreign-minister-talks-political-ties-on-rare-visit-to-north-korea?traffic_source=rss)
 
 ---
 
-### 9. Russian, Ukrainian humanitarian officials enter Oleshky
+### 9. Trump reverses course, reinstates cancelled campaign rallies
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A humanitarian aid convoy containing both Russian and Ukrainian officials entered the besieged Ukrainian city of Oleshky
+The decision marks a sharp reversal after the US president said he didn&#039;t feel like he had to hold the events.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/30/russian-ukrainian-humanitarian-officials-enter-oleshky?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/30/russian-ukrainian-humanitarian-officials-enter-oleshky?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/30/trump-reverses-course-reinstates-cancelled-campaign-rallies?traffic_source=rss](https://www.aljazeera.com/news/2026/10/30/trump-reverses-course-reinstates-cancelled-campaign-rallies?traffic_source=rss)
 
 ---
 

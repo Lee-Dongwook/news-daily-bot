@@ -1,64 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-30 20:14:47
+**Last Update:** 2026-10-31 00:01:52
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. AI Isn't Replacing SREs. It's Deskilling Them
+### 1. The oldest ice disappears and the Stone Age emerges from it
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling">https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50305693">https://news.ycombinator.com/item?id=50305693</a></p>
-<p>Points: 101</p>
-<p># Comments: 76</p>
+<p>Article URL: <a href="https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921">https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50309266">https://news.ycombinator.com/item?id=50309266</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling](https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling)
+🔗 **Read more:** [https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921](https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921)
 
 ---
 
-### 2. Geist Serif
+### 2. Infinite Mac: BeOS
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://vercel.com/blog/introducing-geist-serif">https://vercel.com/blog/introducing-geist-serif</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50305601">https://news.ycombinator.com/item?id=50305601</a></p>
-<p>Points: 24</p>
-<p># Comments: 11</p>
+<p>Article URL: <a href="https://blog.persistent.info/2026/10/infinite-mac-beos.html">https://blog.persistent.info/2026/10/infinite-mac-beos.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50309029">https://news.ycombinator.com/item?id=50309029</a></p>
+<p>Points: 8</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://vercel.com/blog/introducing-geist-serif](https://vercel.com/blog/introducing-geist-serif)
+🔗 **Read more:** [https://blog.persistent.info/2026/10/infinite-mac-beos.html](https://blog.persistent.info/2026/10/infinite-mac-beos.html)
 
 ---
 
-### 3. The Federated Code Forge
+### 3. A Pickpocket's Guide to New York
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://tangled.org/blog/forge/">https://tangled.org/blog/forge/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50305573">https://news.ycombinator.com/item?id=50305573</a></p>
-<p>Points: 24</p>
-<p># Comments: 7</p>
+<p>Article URL: <a href="https://www.newyorker.com/magazine/2026/11/02/a-pickpockets-guide-to-new-york">https://www.newyorker.com/magazine/2026/11/02/a-pickpockets-guide-to-new-york</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50308986">https://news.ycombinator.com/item?id=50308986</a></p>
+<p>Points: 10</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://tangled.org/blog/forge/](https://tangled.org/blog/forge/)
+🔗 **Read more:** [https://www.newyorker.com/magazine/2026/11/02/a-pickpockets-guide-to-new-york](https://www.newyorker.com/magazine/2026/11/02/a-pickpockets-guide-to-new-york)
 
 ---
 
-### 4. What we know about Binance's $6.3bn hack
+### 4. Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. What we know about Binance's $6.3bn hack
 
 **Source:** BBC
 
@@ -71,7 +84,7 @@ Cyber correspondent Joe Tidy explains more about what is suspected to be the big
 
 ---
 
-### 5. Driver guilty of hitting cyclist and dragging him to death under car
+### 6. Driver guilty of hitting cyclist and dragging him to death under car
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ Simon Richardson is convicted of murdering head teacher Michael Mullins and will
 
 ---
 
-### 6. Ceasefire allows evacuation from devastated Russian-occupied Oleshky
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-But several hundred people are understood to have decided to stay in the frontline town, despite the lack of gas, electricity and running water.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Jerusalem Daily: Israel’s siege on Hebron displaces thousands
+### 7. EU and Canada seek deeper ties amid worsening global uncertainty
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israel has announced its final election results, tightened its siege on Hebron, and arrested people returning to Gaza.
+Both sides signed a digital trade deal, as Trump&#039;s trade threats push Washington&#039;s allies to seek closer ties elsewhere.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/30/jerusalem-daily-israels-siege-on-hebron-displaces-thousands?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/30/jerusalem-daily-israels-siege-on-hebron-displaces-thousands?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/30/eu-and-canada-seek-deeper-ties-amid-worsening-global-uncertainty?traffic_source=rss](https://www.aljazeera.com/news/2026/10/30/eu-and-canada-seek-deeper-ties-amid-worsening-global-uncertainty?traffic_source=rss)
 
 ---
 
-### 8. Swiss foreign minister talks political ties on rare visit to North Korea
+### 8. How 20-year-old Kimi Antonelli is making F1 history
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Switzerland formally reopens diplomatic office in North Korea after its closure in 2020.
+Kimi Antonelli had an F1 licence before he could legally drive. Now he could become Formula One’s youngest champion.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/30/swiss-foreign-minister-talks-political-ties-on-rare-visit-to-north-korea?traffic_source=rss](https://www.aljazeera.com/news/2026/10/30/swiss-foreign-minister-talks-political-ties-on-rare-visit-to-north-korea?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/30/how-20-year-old-kimi-antonelli-is-making-f1-history?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/30/how-20-year-old-kimi-antonelli-is-making-f1-history?traffic_source=rss)
 
 ---
 
-### 9. Trump reverses course, reinstates cancelled campaign rallies
+### 9. What to know about California’s midterm elections
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The decision marks a sharp reversal after the US president said he didn&#039;t feel like he had to hold the events.
+Redistricting in California, the most populous US state, could flip control of US House from Republican to Democrat.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/30/trump-reverses-course-reinstates-cancelled-campaign-rallies?traffic_source=rss](https://www.aljazeera.com/news/2026/10/30/trump-reverses-course-reinstates-cancelled-campaign-rallies?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/30/what-to-know-about-the-midterm-elections-in-california?traffic_source=rss](https://www.aljazeera.com/news/2026/10/30/what-to-know-about-the-midterm-elections-in-california?traffic_source=rss)
 
 ---
 

@@ -1,60 +1,69 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-31 05:11:25
+**Last Update:** 2026-10-31 10:16:33
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game
+### 1. Tools Hacker News keeps asking for
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://tng.episodle.com/">https://tng.episodle.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50311686">https://news.ycombinator.com/item?id=50311686</a></p>
-<p>Points: 43</p>
-<p># Comments: 13</p>
+<p>Article URL: <a href="https://stillunbuilt.shiptiffin.app/">https://stillunbuilt.shiptiffin.app/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50313508">https://news.ycombinator.com/item?id=50313508</a></p>
+<p>Points: 6</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://tng.episodle.com/](https://tng.episodle.com/)
+🔗 **Read more:** [https://stillunbuilt.shiptiffin.app/](https://stillunbuilt.shiptiffin.app/)
 
 ---
 
-### 2. Linode Security Incident
+### 2. OpenAI raises less than half of $30B target
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://status.linode.com/incidents/nt58zhx3pmgm">https://status.linode.com/incidents/nt58zhx3pmgm</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50310687">https://news.ycombinator.com/item?id=50310687</a></p>
-<p>Points: 141</p>
-<p># Comments: 73</p>
+<p>Article URL: <a href="https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5">https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50312922">https://news.ycombinator.com/item?id=50312922</a></p>
+<p>Points: 132</p>
+<p># Comments: 99</p>
 
-🔗 **Read more:** [https://status.linode.com/incidents/nt58zhx3pmgm](https://status.linode.com/incidents/nt58zhx3pmgm)
+🔗 **Read more:** [https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5](https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5)
 
 ---
 
-### 3. sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust
+### 3. Tell HN: Scribd Breached
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.firezone.dev/blog/introducing-sanstun">https://www.firezone.dev/blog/introducing-sanstun</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50310398">https://news.ycombinator.com/item?id=50310398</a></p>
-<p>Points: 56</p>
-<p># Comments: 12</p>
+<p>Not seeing anything posted about this anywhere, received on Monday, 26th of Oct 2026:<p>Subject: Notice of Security Incident<p>This notice is being sent on behalf of Scribd, Inc., the parent company of Scribd, Slideshare, Everand, and Fable, by Epiq, Scribd Inc.’s notification partner.<p>Hello,<p>We are writing to let you know that Scribd, Inc. recently experienced a security incident that may have affected your data.<p>We detected that an unauthorized third party may have gained access to certain user data in one of our systems. After investigating this activity, we found that the third party may have accessed your email address and the following of your information: last 4 digits of your credit card and country, credit card issuer, credit card expiry date, payment history (not including credit card details).<p>We have no evidence that this data has been misused, but we are notifying you out of an abundance of caution so that you can take steps to protect your information.<p>Watch for phishing<p>We encourage you to stay vigilant for phishing attempts by bad actors pretending to be Scribd, Inc. or Scribd, Slideshare, Everand or Fable.<p>Remember that Scribd, Inc. will never ask you for your username and password or other sensitive information via email or text. If you did receive a message like that:<p><pre><code>    Don't click on any links in it. Instead type scribd.com, slideshare.net, everand.com, or fable.co directly into your browser.
+    Call us at: +1-877-361-9887. Hours of operation are Monday-Friday, 11:00 a.m.-11:00 p.m., Central European Time.
+    Report it through Scribd, Inc.'s Help Center.
+</code></pre>
+For more information<p>We regret that this incident occurred and any concern it may cause you. If you have additional questions, contact the dedicated call center at +1-877-361-9887. Hours of operation are Monday-Friday, 11:00 a.m.-11:00 p.m. Central European Time.<p>The National Cyber Security Center has helpful guidance on how to recognize and avoid phishing scams here.<p>What Scribd, Inc. is doing<p><pre><code>    We have secured the affected system and ended the unauthorized access.
+    We have notified law enforcement as well as the relevant data protection authorities.
+    We are working with an expert third party cybersecurity firm to strengthen our access controls and monitoring.
+</code></pre>
+We value the trust you place in us with your information, and don’t take that lightly. We are deeply sorry this happened and will keep you updated if anything further changes.<p>Scribd, Inc.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50312756">https://news.ycombinator.com/item?id=50312756</a></p>
+<p>Points: 129</p>
+<p># Comments: 52</p>
 
-🔗 **Read more:** [https://www.firezone.dev/blog/introducing-sanstun](https://www.firezone.dev/blog/introducing-sanstun)
+🔗 **Read more:** [https://news.ycombinator.com/item?id=50312756](https://news.ycombinator.com/item?id=50312756)
 
 ---
 
@@ -71,68 +80,68 @@ The American-made interceptors are the only effective weapon for downing Russia'
 
 ---
 
-### 5. Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea
+### 5. Burnham 'open' to calls for slavery apology but not reparations
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.
+The prime minister says Britain must "face up to the past" for its role in the transatlantic slave trade but reparations are "not the right answer".
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5398239je88o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5398239je88o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. What we know about Binance's $6.3bn hack
+### 6. Why North Korea's 'elite' hackers are the prime suspect in major Binance hack
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Cyber correspondent Joe Tidy explains more about what is suspected to be the biggest hack in history.
+If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Dog walker threatened with gun during ICE arrest in North Hollywood
+### 7. LeBron James, Tyrese Maxey shine as 76ers beat Knicks in NBA Cup thriller
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Footage shows masked ICE agents pointing a handgun at a bystander walking his dogs as they arrest another man in the US.
+LeBron scored 20 points and hit the go-ahead fadeaway late, and Maxey had 27 points to lead the 76ers to a victory.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/31/dog-walker-threatened-with-gun-during-ice-arrest-in-north-hollywood?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/31/dog-walker-threatened-with-gun-during-ice-arrest-in-north-hollywood?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/31/lebron-james-tyrese-maxey-philadelphia-76ers-win-new-york-knicks-nba-cup?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/31/lebron-james-tyrese-maxey-philadelphia-76ers-win-new-york-knicks-nba-cup?traffic_source=rss)
 
 ---
 
-### 8. Germany and France brace for protests on Halloween weekend
+### 8. The selective solidarity at the heart of India’s voter protests
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A wave of youth-led protests has swept Europe, with demonstrators denouncing rising prices and a lack of prospects.
+The opposition is fighting voter exclusion without confronting the discrimination Muslims warned about in 2019.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/31/germany-and-france-brace-for-protests-on-halloween-weekend?traffic_source=rss](https://www.aljazeera.com/news/2026/10/31/germany-and-france-brace-for-protests-on-halloween-weekend?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/10/31/the-selective-solidarity-at-the-heart-of-indias-voter-protests?traffic_source=rss](https://www.aljazeera.com/opinions/2026/10/31/the-selective-solidarity-at-the-heart-of-indias-voter-protests?traffic_source=rss)
 
 ---
 
-### 9. Brazil summons Argentinian diplomat over Bolsonaro’s flight to US
+### 9. What has it cost to keep Al Jazeera on air for 30 years?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The move threatens to further strain relations between Brazilian President Lula and his Argentinian counterpart, Milei.
+For 30 years, Al Jazeera went where others couldn’t. Or wouldn’t. AJLabs traces the price of staying on air.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/31/brazil-summons-argentinian-diplomat-over-bolsonaros-flight-to-us?traffic_source=rss](https://www.aljazeera.com/news/2026/10/31/brazil-summons-argentinian-diplomat-over-bolsonaros-flight-to-us?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/by-the-numbers-3/2026/10/31/what-has-it-cost-to-keep-al-jazeera-on-air-for-30-years?traffic_source=rss](https://www.aljazeera.com/video/by-the-numbers-3/2026/10/31/what-has-it-cost-to-keep-al-jazeera-on-air-for-30-years?traffic_source=rss)
 
 ---
 

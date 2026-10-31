@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-31 04:02:34
+**Last Update:** 2026-10-31 05:11:25
 
 **Total News:** 12
 
@@ -19,42 +19,42 @@
 **Description:**
 <p>Article URL: <a href="https://tng.episodle.com/">https://tng.episodle.com/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50311686">https://news.ycombinator.com/item?id=50311686</a></p>
-<p>Points: 10</p>
-<p># Comments: 4</p>
+<p>Points: 43</p>
+<p># Comments: 13</p>
 
 🔗 **Read more:** [https://tng.episodle.com/](https://tng.episodle.com/)
 
 ---
 
-### 2. Fair Use Benefits Everyone
+### 2. Linode Security Incident
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://openai.com/index/fair-use-benefits-everyone/">https://openai.com/index/fair-use-benefits-everyone/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50311537">https://news.ycombinator.com/item?id=50311537</a></p>
-<p>Points: 13</p>
-<p># Comments: 27</p>
+<p>Article URL: <a href="https://status.linode.com/incidents/nt58zhx3pmgm">https://status.linode.com/incidents/nt58zhx3pmgm</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50310687">https://news.ycombinator.com/item?id=50310687</a></p>
+<p>Points: 141</p>
+<p># Comments: 73</p>
 
-🔗 **Read more:** [https://openai.com/index/fair-use-benefits-everyone/](https://openai.com/index/fair-use-benefits-everyone/)
+🔗 **Read more:** [https://status.linode.com/incidents/nt58zhx3pmgm](https://status.linode.com/incidents/nt58zhx3pmgm)
 
 ---
 
-### 3. Anthropic to receive high 'junk' rating from credit agencies following IPO
+### 3. sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/">https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50311311">https://news.ycombinator.com/item?id=50311311</a></p>
-<p>Points: 22</p>
-<p># Comments: 10</p>
+<p>Article URL: <a href="https://www.firezone.dev/blog/introducing-sanstun">https://www.firezone.dev/blog/introducing-sanstun</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50310398">https://news.ycombinator.com/item?id=50310398</a></p>
+<p>Points: 56</p>
+<p># Comments: 12</p>
 
-🔗 **Read more:** [https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/](https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/)
+🔗 **Read more:** [https://www.firezone.dev/blog/introducing-sanstun](https://www.firezone.dev/blog/introducing-sanstun)
 
 ---
 
@@ -97,42 +97,42 @@ Cyber correspondent Joe Tidy explains more about what is suspected to be the big
 
 ---
 
-### 7. Fans voice support on final night of Macklemore’s ‘Free Palestine’ tour
+### 7. Dog walker threatened with gun during ICE arrest in North Hollywood
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Al Jazeera spoke to fans attending Macklemore’s ‘Free Palestine’ concert after he was dropped from Ed Sheeran’s tour.
+Footage shows masked ICE agents pointing a handgun at a bystander walking his dogs as they arrest another man in the US.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/30/fans-voice-support-on-final-night-of-macklemores-free-palestine-tour?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/30/fans-voice-support-on-final-night-of-macklemores-free-palestine-tour?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/31/dog-walker-threatened-with-gun-during-ice-arrest-in-north-hollywood?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/31/dog-walker-threatened-with-gun-during-ice-arrest-in-north-hollywood?traffic_source=rss)
 
 ---
 
-### 8. Polish police deployed to top court after head judge suspended
+### 8. Germany and France brace for protests on Halloween weekend
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Judge&#039;s suspension is part of a long dispute over politicisation of the Constitutional Tribunal under former government.
+A wave of youth-led protests has swept Europe, with demonstrators denouncing rising prices and a lack of prospects.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/30/polish-police-deployed-to-top-court-after-head-judge-suspended?traffic_source=rss](https://www.aljazeera.com/news/2026/10/30/polish-police-deployed-to-top-court-after-head-judge-suspended?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/31/germany-and-france-brace-for-protests-on-halloween-weekend?traffic_source=rss](https://www.aljazeera.com/news/2026/10/31/germany-and-france-brace-for-protests-on-halloween-weekend?traffic_source=rss)
 
 ---
 
-### 9. Why AI could threaten much of the world’s digital infrastructure
+### 9. Brazil summons Argentinian diplomat over Bolsonaro’s flight to US
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Volunteer-led PHP, which powers most websites, is increasingly under threat from cyberattacks using AI capabilities.
+The move threatens to further strain relations between Brazilian President Lula and his Argentinian counterpart, Milei.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/30/why-ai-could-threaten-much-of-the-worlds-digital-infrastructure?traffic_source=rss](https://www.aljazeera.com/news/2026/10/30/why-ai-could-threaten-much-of-the-worlds-digital-infrastructure?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/31/brazil-summons-argentinian-diplomat-over-bolsonaros-flight-to-us?traffic_source=rss](https://www.aljazeera.com/news/2026/10/31/brazil-summons-argentinian-diplomat-over-bolsonaros-flight-to-us?traffic_source=rss)
 
 ---
 

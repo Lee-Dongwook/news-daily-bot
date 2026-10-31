@@ -1,64 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-31 01:07:43
+**Last Update:** 2026-10-31 04:02:34
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: Ultrafast Rust Based ADE
+### 1. Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://trypalomino.com/">https://trypalomino.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50310055">https://news.ycombinator.com/item?id=50310055</a></p>
-<p>Points: 6</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://tng.episodle.com/">https://tng.episodle.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50311686">https://news.ycombinator.com/item?id=50311686</a></p>
+<p>Points: 10</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://trypalomino.com/](https://trypalomino.com/)
+🔗 **Read more:** [https://tng.episodle.com/](https://tng.episodle.com/)
 
 ---
 
-### 2. Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man
+### 2. Fair Use Benefits Everyone
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/">https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50309647">https://news.ycombinator.com/item?id=50309647</a></p>
-<p>Points: 38</p>
-<p># Comments: 14</p>
+<p>Article URL: <a href="https://openai.com/index/fair-use-benefits-everyone/">https://openai.com/index/fair-use-benefits-everyone/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50311537">https://news.ycombinator.com/item?id=50311537</a></p>
+<p>Points: 13</p>
+<p># Comments: 27</p>
 
-🔗 **Read more:** [https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/](https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/)
+🔗 **Read more:** [https://openai.com/index/fair-use-benefits-everyone/](https://openai.com/index/fair-use-benefits-everyone/)
 
 ---
 
-### 3. Embraer's Atech aims to double in size by 2030 with drone traffic control
+### 3. Anthropic to receive high 'junk' rating from credit agencies following IPO
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.bloomberglinea.com.br/negocios/atech-da-embraer-quer-dobrar-de-tamanho-ate-2030-com-controle-de-trafego-de-drones/">https://www.bloomberglinea.com.br/negocios/atech-da-embraer-quer-dobrar-de-tamanho-ate-2030-com-controle-de-trafego-de-drones/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50309573">https://news.ycombinator.com/item?id=50309573</a></p>
-<p>Points: 12</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/">https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50311311">https://news.ycombinator.com/item?id=50311311</a></p>
+<p>Points: 22</p>
+<p># Comments: 10</p>
 
-🔗 **Read more:** [https://www.bloomberglinea.com.br/negocios/atech-da-embraer-quer-dobrar-de-tamanho-ate-2030-com-controle-de-trafego-de-drones/](https://www.bloomberglinea.com.br/negocios/atech-da-embraer-quer-dobrar-de-tamanho-ate-2030-com-controle-de-trafego-de-drones/)
+🔗 **Read more:** [https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/](https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/)
 
 ---
 
-### 4. Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea
+### 4. US approves sale of 500 Patriot missiles to Ukraine
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea
 
 **Source:** BBC
 
@@ -71,7 +84,7 @@ The cyber-attack, which the company describes as complex, is believed to be the 
 
 ---
 
-### 5. What we know about Binance's $6.3bn hack
+### 6. What we know about Binance's $6.3bn hack
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ Cyber correspondent Joe Tidy explains more about what is suspected to be the big
 
 ---
 
-### 6. Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Hundreds of people are also understood to have stayed in the front-line town, despite the dangers.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Swiss supreme court upholds Liberian ex-rebel commander’s 20-year sentence
+### 7. Fans voice support on final night of Macklemore’s ‘Free Palestine’ tour
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Alieu Kosiah killed civilians and unarmed soldiers, and ordered lootings and other crimes against humanity.
+Al Jazeera spoke to fans attending Macklemore’s ‘Free Palestine’ concert after he was dropped from Ed Sheeran’s tour.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/30/swiss-supreme-court-upholds-liberian-ex-rebel-commanders-20-year-sentence?traffic_source=rss](https://www.aljazeera.com/news/2026/10/30/swiss-supreme-court-upholds-liberian-ex-rebel-commanders-20-year-sentence?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/30/fans-voice-support-on-final-night-of-macklemores-free-palestine-tour?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/30/fans-voice-support-on-final-night-of-macklemores-free-palestine-tour?traffic_source=rss)
 
 ---
 
-### 8. US appeals court again rejects Trump bid to set aside California ballots
+### 8. Polish police deployed to top court after head judge suspended
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The 9th Circuit Court called the petition to remove 20,000 ballots from California&#039;s vote count unconstitutional.
+Judge&#039;s suspension is part of a long dispute over politicisation of the Constitutional Tribunal under former government.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/30/us-appeals-court-again-rejects-trump-bid-to-set-aside-california-ballots?traffic_source=rss](https://www.aljazeera.com/news/2026/10/30/us-appeals-court-again-rejects-trump-bid-to-set-aside-california-ballots?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/30/polish-police-deployed-to-top-court-after-head-judge-suspended?traffic_source=rss](https://www.aljazeera.com/news/2026/10/30/polish-police-deployed-to-top-court-after-head-judge-suspended?traffic_source=rss)
 
 ---
 
-### 9. G20 drops group photo as Europeans refuse to stand with Lavrov
+### 9. Why AI could threaten much of the world’s digital infrastructure
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Sanctioned Russian FM attends Atlanta talks as Iran war, Hormuz disruption and Ukraine divide G20 members.
+Volunteer-led PHP, which powers most websites, is increasingly under threat from cyberattacks using AI capabilities.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/30/g20-drops-group-photo-as-europeans-refuse-to-stand-with-lavrov?traffic_source=rss](https://www.aljazeera.com/news/2026/10/30/g20-drops-group-photo-as-europeans-refuse-to-stand-with-lavrov?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/30/why-ai-could-threaten-much-of-the-worlds-digital-infrastructure?traffic_source=rss](https://www.aljazeera.com/news/2026/10/30/why-ai-could-threaten-much-of-the-worlds-digital-infrastructure?traffic_source=rss)
 
 ---
 

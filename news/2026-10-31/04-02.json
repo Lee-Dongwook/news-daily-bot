@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-31T04:02:34+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
+            "description": "<p>Article URL: <a href=\"https://tng.episodle.com/\">https://tng.episodle.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50311686\">https://news.ycombinator.com/item?id=50311686</a></p>\n<p>Points: 10</p>\n<p># Comments: 4</p>",
+            "url": "https://tng.episodle.com/",
+            "published": "Fri, 30 Oct 2026 23:51:24 +0000",
+            "fetched": "2026-10-31T04:02:34+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Fair Use Benefits Everyone",
+            "description": "<p>Article URL: <a href=\"https://openai.com/index/fair-use-benefits-everyone/\">https://openai.com/index/fair-use-benefits-everyone/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50311537\">https://news.ycombinator.com/item?id=50311537</a></p>\n<p>Points: 13</p>\n<p># Comments: 27</p>",
+            "url": "https://openai.com/index/fair-use-benefits-everyone/",
+            "published": "Fri, 30 Oct 2026 23:33:55 +0000",
+            "fetched": "2026-10-31T04:02:34+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Anthropic to receive high 'junk' rating from credit agencies following IPO",
+            "description": "<p>Article URL: <a href=\"https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/\">https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50311311\">https://news.ycombinator.com/item?id=50311311</a></p>\n<p>Points: 22</p>\n<p># Comments: 10</p>",
+            "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+            "published": "Fri, 30 Oct 2026 23:08:12 +0000",
+            "fetched": "2026-10-31T04:02:34+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "US approves sale of 500 Patriot missiles to Ukraine",
+            "description": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
+            "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 30 Oct 2026 22:20:52 GMT",
+            "fetched": "2026-10-31T04:02:34+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+            "description": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
+            "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 30 Oct 2026 21:13:14 GMT",
+            "fetched": "2026-10-31T04:02:34+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "What we know about Binance's $6.3bn hack",
+            "description": "Cyber correspondent Joe Tidy explains more about what is suspected to be the biggest hack in history.",
+            "url": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 30 Oct 2026 12:27:28 GMT",
+            "fetched": "2026-10-31T04:02:34+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Fans voice support on final night of Macklemore’s ‘Free Palestine’ tour",
+            "description": "Al Jazeera spoke to fans attending Macklemore’s ‘Free Palestine’ concert after he was dropped from Ed Sheeran’s tour.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/fans-voice-support-on-final-night-of-macklemores-free-palestine-tour?traffic_source=rss",
+            "published": "Fri, 30 Oct 2026 23:39:19 +0000",
+            "fetched": "2026-10-31T04:02:34+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Polish police deployed to top court after head judge suspended",
+            "description": "Judge&#039;s suspension is part of a long dispute over politicisation of the Constitutional Tribunal under former government.",
+            "url": "https://www.aljazeera.com/news/2026/10/30/polish-police-deployed-to-top-court-after-head-judge-suspended?traffic_source=rss",
+            "published": "Fri, 30 Oct 2026 23:19:42 +0000",
+            "fetched": "2026-10-31T04:02:34+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why AI could threaten much of the world’s digital infrastructure",
+            "description": "Volunteer-led PHP, which powers most websites, is increasingly under threat from cyberattacks using AI capabilities.",
+            "url": "https://www.aljazeera.com/news/2026/10/30/why-ai-could-threaten-much-of-the-worlds-digital-infrastructure?traffic_source=rss",
+            "published": "Fri, 30 Oct 2026 23:13:51 +0000",
+            "fetched": "2026-10-31T04:02:34+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire South Tank Trail, Perry, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25827",
+            "published": "2026-10-28T18:02:00Z",
+            "fetched": "2026-10-31T04:02:34+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Walker Hill 3 Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25829",
+            "published": "2026-10-28T11:22:00Z",
+            "fetched": "2026-10-31T04:02:34+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Brie Slash Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25830",
+            "published": "2026-10-28T11:21:00Z",
+            "fetched": "2026-10-31T04:02:34+03:30"
+        }
+    ]
+}

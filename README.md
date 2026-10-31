@@ -1,95 +1,86 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-31 12:05:08
+**Last Update:** 2026-10-31 16:56:53
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Tell HN: Scribd Breached
+### 1. Why Anthropic's Filing Crushed Tech Stocks
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Not seeing anything posted about this anywhere, received on Monday, 26th of Oct 2026:<p>Subject: Notice of Security Incident<p>This notice is being sent on behalf of Scribd, Inc., the parent company of Scribd, Slideshare, Everand, and Fable, by Epiq, Scribd Inc.’s notification partner.<p>Hello,<p>We are writing to let you know that Scribd, Inc. recently experienced a security incident that may have affected your data.<p>We detected that an unauthorized third party may have gained access to certain user data in one of our systems. After investigating this activity, we found that the third party may have accessed your email address and the following of your information: last 4 digits of your credit card and country, credit card issuer, credit card expiry date, payment history (not including credit card details).<p>We have no evidence that this data has been misused, but we are notifying you out of an abundance of caution so that you can take steps to protect your information.<p>Watch for phishing<p>We encourage you to stay vigilant for phishing attempts by bad actors pretending to be Scribd, Inc. or Scribd, Slideshare, Everand or Fable.<p>Remember that Scribd, Inc. will never ask you for your username and password or other sensitive information via email or text. If you did receive a message like that:<p><pre><code>    Don't click on any links in it. Instead type scribd.com, slideshare.net, everand.com, or fable.co directly into your browser.
-    Call us at: +1-877-361-9887. Hours of operation are Monday-Friday, 11:00 a.m.-11:00 p.m., Central European Time.
-    Report it through Scribd, Inc.'s Help Center.
-</code></pre>
-For more information<p>We regret that this incident occurred and any concern it may cause you. If you have additional questions, contact the dedicated call center at +1-877-361-9887. Hours of operation are Monday-Friday, 11:00 a.m.-11:00 p.m. Central European Time.<p>The National Cyber Security Center has helpful guidance on how to recognize and avoid phishing scams here.<p>What Scribd, Inc. is doing<p><pre><code>    We have secured the affected system and ended the unauthorized access.
-    We have notified law enforcement as well as the relevant data protection authorities.
-    We are working with an expert third party cybersecurity firm to strengthen our access controls and monitoring.
-</code></pre>
-We value the trust you place in us with your information, and don’t take that lightly. We are deeply sorry this happened and will keep you updated if anything further changes.<p>Scribd, Inc.</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50312756">https://news.ycombinator.com/item?id=50312756</a></p>
-<p>Points: 178</p>
-<p># Comments: 70</p>
+<p>Article URL: <a href="https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech">https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50315574">https://news.ycombinator.com/item?id=50315574</a></p>
+<p>Points: 8</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://news.ycombinator.com/item?id=50312756](https://news.ycombinator.com/item?id=50312756)
+🔗 **Read more:** [https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech](https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech)
 
 ---
 
-### 2. Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game
+### 2. Shiny Object Syndrome
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://tng.episodle.com/">https://tng.episodle.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50311686">https://news.ycombinator.com/item?id=50311686</a></p>
-<p>Points: 183</p>
-<p># Comments: 50</p>
+<p>Article URL: <a href="https://en.wikipedia.org/wiki/Shiny_object_syndrome">https://en.wikipedia.org/wiki/Shiny_object_syndrome</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50314872">https://news.ycombinator.com/item?id=50314872</a></p>
+<p>Points: 29</p>
+<p># Comments: 11</p>
 
-🔗 **Read more:** [https://tng.episodle.com/](https://tng.episodle.com/)
+🔗 **Read more:** [https://en.wikipedia.org/wiki/Shiny_object_syndrome](https://en.wikipedia.org/wiki/Shiny_object_syndrome)
 
 ---
 
-### 3. Sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust
+### 3. We Took over ChatGPT Accounts
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.firezone.dev/blog/introducing-sanstun">https://www.firezone.dev/blog/introducing-sanstun</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50310398">https://news.ycombinator.com/item?id=50310398</a></p>
-<p>Points: 125</p>
-<p># Comments: 20</p>
+<p>Article URL: <a href="https://www.parameter.ai/labs/we-found-a-gap-at-openai">https://www.parameter.ai/labs/we-found-a-gap-at-openai</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50314699">https://news.ycombinator.com/item?id=50314699</a></p>
+<p>Points: 66</p>
+<p># Comments: 28</p>
 
-🔗 **Read more:** [https://www.firezone.dev/blog/introducing-sanstun](https://www.firezone.dev/blog/introducing-sanstun)
+🔗 **Read more:** [https://www.parameter.ai/labs/we-found-a-gap-at-openai](https://www.parameter.ai/labs/we-found-a-gap-at-openai)
 
 ---
 
-### 4. US approves sale of 500 Patriot missiles to Ukraine
+### 4. Burnham 'open' to calls for slavery apology but not reparations
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Burnham 'open' to calls for slavery apology but not reparations
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The prime minister says Britain must "face up to the past" for its role in the transatlantic slave trade but reparations are "not the right answer".
+The British government has never formally apologised for slavery despite repeated calls from a number of Commonwealth leaders.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5398239je88o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5398239je88o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Evacuees from Russia-occupied city where residents ate weeds arrive in Ukraine
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Residents left the devastated city on Friday following a ceasefire brokered by US First Lady Melania Trump.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -106,42 +97,42 @@ If the accusations are true, the record-making heist shows how powerful suspecte
 
 ---
 
-### 7. Hakimi’s hat-trick guides PSG to stunning 5-1 win at Le Havre in Ligue 1
+### 7. Burnham opens door to formal apology for Britain’s slave trade
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-European champions PSG registered their sixth league victory and sit two points clear at top of the Ligue 1 standings.
+UK Prime Minister rules out financial reparations, despite longstanding Caribbean demands.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/31/achraf-hakimi-hattrick-ligue-1-psg-le-havre-football?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/31/achraf-hakimi-hattrick-ligue-1-psg-le-havre-football?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/31/burnham-opens-door-to-formal-apology-for-britains-slave-trade?traffic_source=rss](https://www.aljazeera.com/news/2026/10/31/burnham-opens-door-to-formal-apology-for-britains-slave-trade?traffic_source=rss)
 
 ---
 
-### 8. US, South Korea, Japan call for ‘complete denuclearisation’ of North Korea
+### 8. On the Norway-Russia border, the Sámi people face a growing divide
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The joint statement comes as US President Donald Trump seeks a new meeting with North Korean leader Kim Jong Un.
+As Russia’s war in Ukraine reshapes this Arctic frontier, Sámi communities struggle to sustain cross-border traditions.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/31/us-south-korea-japan-call-for-complete-denuclearisation-of-north-korea?traffic_source=rss](https://www.aljazeera.com/news/2026/10/31/us-south-korea-japan-call-for-complete-denuclearisation-of-north-korea?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/longform/2026/10/31/on-the-norway-russia-border-the-sami-people-face-a-growing-divide?traffic_source=rss](https://www.aljazeera.com/features/longform/2026/10/31/on-the-norway-russia-border-the-sami-people-face-a-growing-divide?traffic_source=rss)
 
 ---
 
-### 9. US midterms: 3 days to go – What latest polls say as early voting surges
+### 9. West Indies thrash Bangladesh by eight wickets in first Test in Mirpur
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-More than 43 million Americans have voted early as Democrats lead opinion polls and Trump prepares for final rallies.
+West Indies extended ‌their encouraging run in red-ball cricket with an emphatic eight-wicket victory ⁠over Bangladesh.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/31/us-midterms-3-days-to-go-what-latest-polls-say-as-early-voting-surges?traffic_source=rss](https://www.aljazeera.com/news/2026/10/31/us-midterms-3-days-to-go-what-latest-polls-say-as-early-voting-surges?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/31/west-indies-bangladesh-first-test-eight-wickets-mirpur-series-lead?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/31/west-indies-bangladesh-first-test-eight-wickets-mirpur-series-lead?traffic_source=rss)
 
 ---
 

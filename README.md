@@ -1,48 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-31 10:16:33
+**Last Update:** 2026-10-31 12:05:08
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Tools Hacker News keeps asking for
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://stillunbuilt.shiptiffin.app/">https://stillunbuilt.shiptiffin.app/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50313508">https://news.ycombinator.com/item?id=50313508</a></p>
-<p>Points: 6</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://stillunbuilt.shiptiffin.app/](https://stillunbuilt.shiptiffin.app/)
-
----
-
-### 2. OpenAI raises less than half of $30B target
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5">https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50312922">https://news.ycombinator.com/item?id=50312922</a></p>
-<p>Points: 132</p>
-<p># Comments: 99</p>
-
-🔗 **Read more:** [https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5](https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5)
-
----
-
-### 3. Tell HN: Scribd Breached
+### 1. Tell HN: Scribd Breached
 
 **Source:** Hacker News
 
@@ -60,10 +28,42 @@ For more information<p>We regret that this incident occurred and any concern it 
 We value the trust you place in us with your information, and don’t take that lightly. We are deeply sorry this happened and will keep you updated if anything further changes.<p>Scribd, Inc.</p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50312756">https://news.ycombinator.com/item?id=50312756</a></p>
-<p>Points: 129</p>
-<p># Comments: 52</p>
+<p>Points: 178</p>
+<p># Comments: 70</p>
 
 🔗 **Read more:** [https://news.ycombinator.com/item?id=50312756](https://news.ycombinator.com/item?id=50312756)
+
+---
+
+### 2. Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://tng.episodle.com/">https://tng.episodle.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50311686">https://news.ycombinator.com/item?id=50311686</a></p>
+<p>Points: 183</p>
+<p># Comments: 50</p>
+
+🔗 **Read more:** [https://tng.episodle.com/](https://tng.episodle.com/)
+
+---
+
+### 3. Sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.firezone.dev/blog/introducing-sanstun">https://www.firezone.dev/blog/introducing-sanstun</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50310398">https://news.ycombinator.com/item?id=50310398</a></p>
+<p>Points: 125</p>
+<p># Comments: 20</p>
+
+🔗 **Read more:** [https://www.firezone.dev/blog/introducing-sanstun](https://www.firezone.dev/blog/introducing-sanstun)
 
 ---
 
@@ -106,42 +106,42 @@ If the accusations are true, the record-making heist shows how powerful suspecte
 
 ---
 
-### 7. LeBron James, Tyrese Maxey shine as 76ers beat Knicks in NBA Cup thriller
+### 7. Hakimi’s hat-trick guides PSG to stunning 5-1 win at Le Havre in Ligue 1
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-LeBron scored 20 points and hit the go-ahead fadeaway late, and Maxey had 27 points to lead the 76ers to a victory.
+European champions PSG registered their sixth league victory and sit two points clear at top of the Ligue 1 standings.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/31/lebron-james-tyrese-maxey-philadelphia-76ers-win-new-york-knicks-nba-cup?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/31/lebron-james-tyrese-maxey-philadelphia-76ers-win-new-york-knicks-nba-cup?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/31/achraf-hakimi-hattrick-ligue-1-psg-le-havre-football?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/31/achraf-hakimi-hattrick-ligue-1-psg-le-havre-football?traffic_source=rss)
 
 ---
 
-### 8. The selective solidarity at the heart of India’s voter protests
+### 8. US, South Korea, Japan call for ‘complete denuclearisation’ of North Korea
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The opposition is fighting voter exclusion without confronting the discrimination Muslims warned about in 2019.
+The joint statement comes as US President Donald Trump seeks a new meeting with North Korean leader Kim Jong Un.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/10/31/the-selective-solidarity-at-the-heart-of-indias-voter-protests?traffic_source=rss](https://www.aljazeera.com/opinions/2026/10/31/the-selective-solidarity-at-the-heart-of-indias-voter-protests?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/31/us-south-korea-japan-call-for-complete-denuclearisation-of-north-korea?traffic_source=rss](https://www.aljazeera.com/news/2026/10/31/us-south-korea-japan-call-for-complete-denuclearisation-of-north-korea?traffic_source=rss)
 
 ---
 
-### 9. What has it cost to keep Al Jazeera on air for 30 years?
+### 9. US midterms: 3 days to go – What latest polls say as early voting surges
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-For 30 years, Al Jazeera went where others couldn’t. Or wouldn’t. AJLabs traces the price of staying on air.
+More than 43 million Americans have voted early as Democrats lead opinion polls and Trump prepares for final rallies.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/by-the-numbers-3/2026/10/31/what-has-it-cost-to-keep-al-jazeera-on-air-for-30-years?traffic_source=rss](https://www.aljazeera.com/video/by-the-numbers-3/2026/10/31/what-has-it-cost-to-keep-al-jazeera-on-air-for-30-years?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/31/us-midterms-3-days-to-go-what-latest-polls-say-as-early-voting-surges?traffic_source=rss](https://www.aljazeera.com/news/2026/10/31/us-midterms-3-days-to-go-what-latest-polls-say-as-early-voting-surges?traffic_source=rss)
 
 ---
 

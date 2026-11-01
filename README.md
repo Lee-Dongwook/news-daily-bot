@@ -1,64 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-01 12:56:17
+**Last Update:** 2026-11-01 19:40:50
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Pac-Man's Siren Call
+### 1. We Took over ChatGPT Accounts
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://unsung.aresluna.org/pac-mans-siren-call/">https://unsung.aresluna.org/pac-mans-siren-call/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50323187">https://news.ycombinator.com/item?id=50323187</a></p>
-<p>Points: 13</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/">https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50326699">https://news.ycombinator.com/item?id=50326699</a></p>
+<p>Points: 11</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://unsung.aresluna.org/pac-mans-siren-call/](https://unsung.aresluna.org/pac-mans-siren-call/)
+🔗 **Read more:** [https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/](https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/)
 
 ---
 
-### 2. The AI cost of JavaScript frameworks
+### 2. Enlightenment 0.28.0 Release
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/">https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50323088">https://news.ycombinator.com/item?id=50323088</a></p>
-<p>Points: 46</p>
-<p># Comments: 24</p>
+<p>Article URL: <a href="https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0">https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50326530">https://news.ycombinator.com/item?id=50326530</a></p>
+<p>Points: 8</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/](https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/)
+🔗 **Read more:** [https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0](https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0)
 
 ---
 
-### 3. Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing
+### 3. Police chief unplugs Flock cameras after company ignores contract cancellation
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/">https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50322173">https://news.ycombinator.com/item?id=50322173</a></p>
-<p>Points: 110</p>
-<p># Comments: 44</p>
+<p>Article URL: <a href="https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies">https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50326118">https://news.ycombinator.com/item?id=50326118</a></p>
+<p>Points: 54</p>
+<p># Comments: 8</p>
 
-🔗 **Read more:** [https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/](https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/)
+🔗 **Read more:** [https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies](https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies)
 
 ---
 
-### 4. Shops looted as German cost of living protests turn violent
+### 4. Shops looted as German cost-of-living protests turn violent
 
 **Source:** BBC
 
@@ -71,68 +71,68 @@ The protests in cities across Germany - including Berlin, Hamburg and Frankfurt 
 
 ---
 
-### 5. Democrats are used to heartbreak in Texas - could Talarico turn the tide?
+### 5. Healey risks breaking minimum wage promise for younger workers
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The state's $500m Senate race may be the most closely watched in the US midterms, and is about far more than control of Congress.
+The Chancellor has suggested that younger workers might not receive the same minimum wage as others before the next election.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmy0r2y6zeddo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmy0r2y6zeddo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cv369266644lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cv369266644lo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Reeves says UK's future should be inside the EU
+### 6. Five teenagers stabbed at Halloween party
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-In her first major intervention since leaving the Treasury, Rachel Reeves says Brexit has made the UK "poorer, weaker and less secure".
+Hampshire Police believes an unknown group gained entry to the party at an address in Chandler's Ford.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c62l4yz0eexpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c62l4yz0eexpo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6n4ed1l2pn1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6n4ed1l2pn1o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Lamine Yamal, Raphinha help Barcelona hammer Alaves to retain Liga top spot
+### 7. Trump slams ex-lawyer’s $50m deal with pardoned banker’s family
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Yamal and Raphinha score two goals each as Barcelona recover from last week&#039;s loss in El Clasico to move back on top.
+Alina Habba Mildon signed lucrative contract while working at the Justice Department, before Trump pardoned the banker.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/1/lamine-yamal-raphinha-help-barcelona-hammer-alaves-to-retain-liga-top-spot?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/1/lamine-yamal-raphinha-help-barcelona-hammer-alaves-to-retain-liga-top-spot?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/1/trump-slams-ex-lawyers-50m-deal-with-pardoned-bankers-family?traffic_source=rss](https://www.aljazeera.com/news/2026/11/1/trump-slams-ex-lawyers-50m-deal-with-pardoned-bankers-family?traffic_source=rss)
 
 ---
 
-### 8. Where are the most expensive midterm races and who is funding them?
+### 8. Dramatic helicopter rescue saves climbers stranded on Italian cliff
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Senate races in Texas, Michigan and Ohio rank among the most expensive in this year&#039;s midterm cycle.
+Dramatic helicopter rescue saves climbers stranded on Italian cliff
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/11/1/where-are-the-most-expensive-midterm-races-and-who-is-funding-them?traffic_source=rss](https://www.aljazeera.com/economy/2026/11/1/where-are-the-most-expensive-midterm-races-and-who-is-funding-them?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/1/dramatic-helicopter-rescue-saves-climbers-stranded-on-italian-cliff?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/1/dramatic-helicopter-rescue-saves-climbers-stranded-on-italian-cliff?traffic_source=rss)
 
 ---
 
-### 9. F1: Hamilton takes first Ferrari pole; Antonelli starts fourth in Mexico
+### 9. JERUSALEM DAILY: Israel continues siege and arrests in Hebron
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-George Russell is second fastest and Charles Leclerc third while reigning champion Lando Norris qualifies sixth.
+Israel’s siege on Hebron is on its 10th day and its attacks on Gaza continue.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/1/f1-hamilton-takes-first-ferrari-pole-antonelli-starts-fourth-in-mexico?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/1/f1-hamilton-takes-first-ferrari-pole-antonelli-starts-fourth-in-mexico?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/1/jerusalem-daily-israel-continues-siege-and-arrests-in-hebron?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/1/jerusalem-daily-israel-continues-siege-and-arrests-in-hebron?traffic_source=rss)
 
 ---
 

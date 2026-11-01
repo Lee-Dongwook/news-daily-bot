@@ -1,61 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-01 02:07:40
+**Last Update:** 2026-11-01 05:28:25
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Distributed Proofreaders
+### 1. Constructing a Quine from Kleene's Second Recursion Theorem
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.pgdp.net/c/">https://www.pgdp.net/c/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50320137">https://news.ycombinator.com/item?id=50320137</a></p>
-<p>Points: 11</p>
+<p>Article URL: <a href="https://emarzion.github.io/KSRT/">https://emarzion.github.io/KSRT/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50321436">https://news.ycombinator.com/item?id=50321436</a></p>
+<p>Points: 5</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.pgdp.net/c/](https://www.pgdp.net/c/)
+🔗 **Read more:** [https://emarzion.github.io/KSRT/](https://emarzion.github.io/KSRT/)
 
 ---
 
-### 2. With 86% of the words, you might understand only 38% of an anime's lines
+### 2. When electric cars were for women
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://learnfromx.com/research/anime-word-coverage-vs-lines-understood">https://learnfromx.com/research/anime-word-coverage-vs-lines-understood</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50320028">https://news.ycombinator.com/item?id=50320028</a></p>
-<p>Points: 31</p>
-<p># Comments: 22</p>
+<p>Article URL: <a href="https://spectrum.ieee.org/early-electric-vehicles">https://spectrum.ieee.org/early-electric-vehicles</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50321130">https://news.ycombinator.com/item?id=50321130</a></p>
+<p>Points: 36</p>
+<p># Comments: 9</p>
 
-🔗 **Read more:** [https://learnfromx.com/research/anime-word-coverage-vs-lines-understood](https://learnfromx.com/research/anime-word-coverage-vs-lines-understood)
+🔗 **Read more:** [https://spectrum.ieee.org/early-electric-vehicles](https://spectrum.ieee.org/early-electric-vehicles)
 
 ---
 
-### 3. Surviving "The Graduate"
+### 3. Altoids Project
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p><a href="https://archive.ph/Eqn1F" rel="nofollow">https://archive.ph/Eqn1F</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50319563">https://news.ycombinator.com/item?id=50319563</a></p>
-<p>Points: 27</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://uvdn7.github.io/altoids-project/">https://uvdn7.github.io/altoids-project/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50321048">https://news.ycombinator.com/item?id=50321048</a></p>
+<p>Points: 38</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.newyorker.com/culture/the-weekend-essay/dustin-hoffman-on-surviving-the-graduate](https://www.newyorker.com/culture/the-weekend-essay/dustin-hoffman-on-surviving-the-graduate)
+🔗 **Read more:** [https://uvdn7.github.io/altoids-project/](https://uvdn7.github.io/altoids-project/)
 
 ---
 
@@ -85,55 +84,55 @@ The Chancellor has suggested that younger workers might not receive the same min
 
 ---
 
-### 6. Thousands demonstrate in Paris as protests spread across Europe
+### 6. King to address slavery during Commonwealth speech in Antigua on final leg of Caribbean tour
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-More than 320,000 people demonstrated across France against the rising cost of living and poor public services, with clashes between some protesters and police.
+King Charles III will deliver a speech to the Commonwealth Heads of Government Meeting on Tuesday as he concludes his nine-day Caribbean tour.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq398y0zj9rpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq398y0zj9rpo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Palestine Action supporters arrested outside US embassy in London
+### 7. Talarico draws a packed campus rally, but can he win over young voters?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Hundreds of protesters gathered outside the US Embassy in London to oppose the UK government&#039;s ban on Palestine Action.
+Al Jazeera’s @EmmaWithrow attended a packed rally for Democrat Senate Candidate James Talarico at Texas A&amp;M.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/31/aje-onl-nf_palestine-action-supporters-arrested-in-london-311026?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/31/aje-onl-nf_palestine-action-supporters-arrested-in-london-311026?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/1/talarico-draws-a-packed-campus-rally-but-can-he-win-over-young-voters?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/1/talarico-draws-a-packed-campus-rally-but-can-he-win-over-young-voters?traffic_source=rss)
 
 ---
 
-### 8. Legal filing questions Trump’s claims of non-citizen voting in California
+### 8. Polish president holds crisis talks in court standoff
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Data scientists find that many &#039;likely non-citizens&#039; identified by the Trump administration were erroneously flagged.
+A dispute over the politicisation of Poland&#039;s constitutional court is deepening, with no side appearing to back down.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/31/legal-filing-questions-trumps-claims-of-non-citizen-voting-in-california?traffic_source=rss](https://www.aljazeera.com/news/2026/10/31/legal-filing-questions-trumps-claims-of-non-citizen-voting-in-california?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/1/polish-president-holds-crisis-talks-in-court-standoff?traffic_source=rss](https://www.aljazeera.com/news/2026/11/1/polish-president-holds-crisis-talks-in-court-standoff?traffic_source=rss)
 
 ---
 
-### 9. Fiery confrontations between protestors and police in Albania
+### 9. Gen Z-led protests in Germany turn violent
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Fiery confrontations between protestors and police in Albania
+Protesters clashed with police as thousands took to the streets across 34 cities in Germany.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/31/fiery-confrontations-between-protestors-and-police-in-albania?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/31/fiery-confrontations-between-protestors-and-police-in-albania?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/1/germany-gen-z-protests-education-military-service?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/1/germany-gen-z-protests-education-military-service?traffic_source=rss)
 
 ---
 

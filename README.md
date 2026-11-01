@@ -1,28 +1,29 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-01 19:40:50
+**Last Update:** 2026-11-01 20:08:46
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. We Took over ChatGPT Accounts
+### 1. Show HN: HackerBooks – HackerTube, but for books recommended on HN
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/">https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50326699">https://news.ycombinator.com/item?id=50326699</a></p>
-<p>Points: 11</p>
-<p># Comments: 1</p>
+<p>Saw Karpathy's HackerTube and wanted the same thing for books. So I had Claude build one (Opus 5.5).<p>It's ~16.5k books that at least two different HN commenters brought up, from 2007 till now. Each book links back to the comments that mentioned it. Data is downloadable from the about page.<p>To be clear: Claude wrote almost all of it, including the data pipeline and the site. I mostly steered and made calls, bought the domain name, etc.<p>It counts mentions, so it's not perfect (praising a book and trashing it both count). If your favourite book is missing or matched to the wrong thing, tell me.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50326821">https://news.ycombinator.com/item?id=50326821</a></p>
+<p>Points: 51</p>
+<p># Comments: 14</p>
 
-🔗 **Read more:** [https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/](https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/)
+🔗 **Read more:** [https://hackerbooks.org](https://hackerbooks.org)
 
 ---
 
@@ -35,8 +36,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0">https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50326530">https://news.ycombinator.com/item?id=50326530</a></p>
-<p>Points: 8</p>
-<p># Comments: 0</p>
+<p>Points: 21</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0](https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0)
 
@@ -51,8 +52,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies">https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50326118">https://news.ycombinator.com/item?id=50326118</a></p>
-<p>Points: 54</p>
-<p># Comments: 8</p>
+<p>Points: 105</p>
+<p># Comments: 22</p>
 
 🔗 **Read more:** [https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies](https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies)
 
@@ -97,42 +98,42 @@ Hampshire Police believes an unknown group gained entry to the party at an addre
 
 ---
 
-### 7. Trump slams ex-lawyer’s $50m deal with pardoned banker’s family
+### 7. Russia detains minor over alleged Moscow attack plot after US warning
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Alina Habba Mildon signed lucrative contract while working at the Justice Department, before Trump pardoned the banker.
+Russian authorities say a US tip-off helped them identify teenager suspected of planning attack at a Moscow park.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/1/trump-slams-ex-lawyers-50m-deal-with-pardoned-bankers-family?traffic_source=rss](https://www.aljazeera.com/news/2026/11/1/trump-slams-ex-lawyers-50m-deal-with-pardoned-bankers-family?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/1/russia-detains-minor-over-alleged-moscow-attack-plot-after-us-warning?traffic_source=rss](https://www.aljazeera.com/news/2026/11/1/russia-detains-minor-over-alleged-moscow-attack-plot-after-us-warning?traffic_source=rss)
 
 ---
 
-### 8. Dramatic helicopter rescue saves climbers stranded on Italian cliff
+### 8. Trump rallies in Iowa, Kansas to maintain Republican control of US Senate
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Dramatic helicopter rescue saves climbers stranded on Italian cliff
+US President Trump returns to the campaign trail after taking a break at his ⁠⁠Mar-a-Lago club in Florida on Saturday.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/1/dramatic-helicopter-rescue-saves-climbers-stranded-on-italian-cliff?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/1/dramatic-helicopter-rescue-saves-climbers-stranded-on-italian-cliff?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/1/trump-rallies-in-iowa-kansas-to-maintain-republican-control-of-us-senate?traffic_source=rss](https://www.aljazeera.com/news/2026/11/1/trump-rallies-in-iowa-kansas-to-maintain-republican-control-of-us-senate?traffic_source=rss)
 
 ---
 
-### 9. JERUSALEM DAILY: Israel continues siege and arrests in Hebron
+### 9. Al Jazeera Balkans relaunches in new digital-first format
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israel’s siege on Hebron is on its 10th day and its attacks on Gaza continue.
+AJB&#039;s return is a &#039;reaffirmation&#039; of the network’s mission to go where the story matters, says its digital director.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/1/jerusalem-daily-israel-continues-siege-and-arrests-in-hebron?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/1/jerusalem-daily-israel-continues-siege-and-arrests-in-hebron?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/1/al-jazeera-balkans-relaunches-in-new-digital-first-format?traffic_source=rss](https://www.aljazeera.com/news/2026/11/1/al-jazeera-balkans-relaunches-in-new-digital-first-format?traffic_source=rss)
 
 ---
 

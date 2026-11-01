@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-01 12:33:47
+**Last Update:** 2026-11-01 12:56:17
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://unsung.aresluna.org/pac-mans-siren-call/">https://unsung.aresluna.org/pac-mans-siren-call/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50323187">https://news.ycombinator.com/item?id=50323187</a></p>
-<p>Points: 9</p>
-<p># Comments: 3</p>
+<p>Points: 13</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://unsung.aresluna.org/pac-mans-siren-call/](https://unsung.aresluna.org/pac-mans-siren-call/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/">https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50323088">https://news.ycombinator.com/item?id=50323088</a></p>
-<p>Points: 38</p>
-<p># Comments: 13</p>
+<p>Points: 46</p>
+<p># Comments: 24</p>
 
 🔗 **Read more:** [https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/](https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/">https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50322173">https://news.ycombinator.com/item?id=50322173</a></p>
-<p>Points: 104</p>
-<p># Comments: 41</p>
+<p>Points: 110</p>
+<p># Comments: 44</p>
 
 🔗 **Read more:** [https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/](https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/)
 
@@ -71,20 +71,7 @@ The protests in cities across Germany - including Berlin, Hamburg and Frankfurt 
 
 ---
 
-### 5. Emotional reunions for Oleshky evacuees after years in Russia-occupied city
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The BBC's Dan Johnson travelled to the northern Ukrainian border with Belarus after evacuated Oleshky residents  arrived in buses and ambulances following a temporary ceasefire.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cmy83w0jwznpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cmy83w0jwznpo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Democrats are used to heartbreak in Texas - could Talarico turn the tide?
+### 5. Democrats are used to heartbreak in Texas - could Talarico turn the tide?
 
 **Source:** BBC
 
@@ -97,42 +84,55 @@ The state's $500m Senate race may be the most closely watched in the US midterms
 
 ---
 
-### 7. Trump at Halloween party ‘as himself’ says he’s ‘in no hurry’ with Iran
+### 6. Reeves says UK's future should be inside the EU
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-Trump, who came to his Halloween party dressed as himself, says US not in a hurry to make a decision on striking Iran.
+In her first major intervention since leaving the Treasury, Rachel Reeves says Brexit has made the UK "poorer, weaker and less secure".
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/1/trump-at-halloween-party-as-himself-says-hes-in-no-hurry-with-iran?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/1/trump-at-halloween-party-as-himself-says-hes-in-no-hurry-with-iran?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c62l4yz0eexpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c62l4yz0eexpo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. Mamdani says Trump to grant visa to mother of boy killed in Bronx shooting
+### 7. Lamine Yamal, Raphinha help Barcelona hammer Alaves to retain Liga top spot
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-New York City mayor says US president &#039;has agreed to grant her visa immediately&#039;.
+Yamal and Raphinha score two goals each as Barcelona recover from last week&#039;s loss in El Clasico to move back on top.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/1/mamdani-says-trump-to-grant-visa-to-mother-of-boy-killed-in-bronx-shooting?traffic_source=rss](https://www.aljazeera.com/news/2026/11/1/mamdani-says-trump-to-grant-visa-to-mother-of-boy-killed-in-bronx-shooting?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/1/lamine-yamal-raphinha-help-barcelona-hammer-alaves-to-retain-liga-top-spot?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/1/lamine-yamal-raphinha-help-barcelona-hammer-alaves-to-retain-liga-top-spot?traffic_source=rss)
 
 ---
 
-### 9. Iran security chief says US letter signals ‘positive’ shift
+### 8. Where are the most expensive midterm races and who is funding them?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US Vice-President JD Vance has sent a letter to Iran’s security chief in a reported effort to revive talks.
+Senate races in Texas, Michigan and Ohio rank among the most expensive in this year&#039;s midterm cycle.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/1/iran-security-chief-says-us-letter-signals-positive-shift?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/1/iran-security-chief-says-us-letter-signals-positive-shift?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/11/1/where-are-the-most-expensive-midterm-races-and-who-is-funding-them?traffic_source=rss](https://www.aljazeera.com/economy/2026/11/1/where-are-the-most-expensive-midterm-races-and-who-is-funding-them?traffic_source=rss)
+
+---
+
+### 9. F1: Hamilton takes first Ferrari pole; Antonelli starts fourth in Mexico
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+George Russell is second fastest and Charles Leclerc third while reigning champion Lando Norris qualifies sixth.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/1/f1-hamilton-takes-first-ferrari-pole-antonelli-starts-fourth-in-mexico?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/1/f1-hamilton-takes-first-ferrari-pole-antonelli-starts-fourth-in-mexico?traffic_source=rss)
 
 ---
 

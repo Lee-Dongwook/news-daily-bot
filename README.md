@@ -1,33 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-02 00:09:25
+**Last Update:** 2026-11-02 00:29:52
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Ask HN: Which TV do you recommend for privacy?
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>I haven’t owned a TV in years and would like one that respects my privacy. Are there any TV’s which do this well? I am looking for something in the 60”to 80”range and would like a 4k display with at least 60hz display. I don’t mind paying a premium.<p>I have heard good things about Apple TV as a better alternative to most smart TV native apps. Would some TV’s pair better with this than others for privacy? I don’t want the TV doing anything other than being the display for Apple TV.<p>I am curious what success others have had.</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50328896">https://news.ycombinator.com/item?id=50328896</a></p>
-<p>Points: 21</p>
-<p># Comments: 25</p>
-
-🔗 **Read more:** [https://news.ycombinator.com/item?id=50328896](https://news.ycombinator.com/item?id=50328896)
-
----
-
-### 2. It wasn't AI that flipped Proton's charge
+### 1. It wasn't AI that flipped Proton's charge
 
 **Source:** Hacker News
 
@@ -36,14 +19,14 @@
 **Description:**
 <p>Article URL: <a href="https://blog.raed.dev/posts/proton-loser-thinking/">https://blog.raed.dev/posts/proton-loser-thinking/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50328488">https://news.ycombinator.com/item?id=50328488</a></p>
-<p>Points: 72</p>
-<p># Comments: 28</p>
+<p>Points: 90</p>
+<p># Comments: 38</p>
 
 🔗 **Read more:** [https://blog.raed.dev/posts/proton-loser-thinking/](https://blog.raed.dev/posts/proton-loser-thinking/)
 
 ---
 
-### 3. Nurses Sound Alarm as 'Uber for Nursing' Apps Push to Deregulate Healthcare
+### 2. Nurses Sound Alarm as 'Uber for Nursing' Apps Push to Deregulate Healthcare
 
 **Source:** Hacker News
 
@@ -52,10 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://nurse.org/news/uber-for-nursing-gig-apps-report/">https://nurse.org/news/uber-for-nursing-gig-apps-report/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50328487">https://news.ycombinator.com/item?id=50328487</a></p>
-<p>Points: 109</p>
-<p># Comments: 94</p>
+<p>Points: 112</p>
+<p># Comments: 108</p>
 
 🔗 **Read more:** [https://nurse.org/news/uber-for-nursing-gig-apps-report/](https://nurse.org/news/uber-for-nursing-gig-apps-report/)
+
+---
+
+### 3. US Jobs Pickup May Keep Fed on Track to Hike Rates Again
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.bloomberg.com/news/articles/2026-10-31/us-jobs-pickup-may-keep-fed-on-track-to-hike-rates-again">https://www.bloomberg.com/news/articles/2026-10-31/us-jobs-pickup-may-keep-fed-on-track-to-hike-rates-again</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50328462">https://news.ycombinator.com/item?id=50328462</a></p>
+<p>Points: 20</p>
+<p># Comments: 11</p>
+
+🔗 **Read more:** [https://www.bloomberg.com/news/articles/2026-10-31/us-jobs-pickup-may-keep-fed-on-track-to-hike-rates-again](https://www.bloomberg.com/news/articles/2026-10-31/us-jobs-pickup-may-keep-fed-on-track-to-hike-rates-again)
 
 ---
 
@@ -98,7 +97,33 @@ The broadband provider has not finalised the number of roles to be axed but it w
 
 ---
 
-### 7. Police clash with housing crisis protesters in Portugal
+### 7. Al Jazeera Director General hails 30 years of groundbreaking news
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Al Jazeera has marked 30 years since its first broadcast in 1996, with a ceremony in Doha attended by Qatar’s Emir.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/1/al-jazeera-director-general-hails-30-years-of-groundbreaking-news?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/1/al-jazeera-director-general-hails-30-years-of-groundbreaking-news?traffic_source=rss)
+
+---
+
+### 8. Bulgaria’s acting President Iotova leads in run-off exit polls
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Iliana Iotova would become the nation’s first elected female president if results confirm her win on Monday.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/1/bulgarian-president-yotova-leads-runoff-exit-polls-show?traffic_source=rss](https://www.aljazeera.com/news/2026/11/1/bulgarian-president-yotova-leads-runoff-exit-polls-show?traffic_source=rss)
+
+---
+
+### 9. Police clash with housing crisis protesters in Portugal
 
 **Source:** Al Jazeera
 
@@ -108,32 +133,6 @@ The broadband provider has not finalised the number of roles to be axed but it w
 Police clash with housing crisis protesters in Portugal
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/1/police-clash-with-housing-crisis-protesters-in-portugal?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/1/police-clash-with-housing-crisis-protesters-in-portugal?traffic_source=rss)
-
----
-
-### 8. Al Jazeera celebrates 30th anniversary
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Since its first broadcast in 1996, Al Jazeera has spent three decades bringing stories to audiences worldwide.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/1/al-jazeera-celebrates-30th-anniversary?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/1/al-jazeera-celebrates-30th-anniversary?traffic_source=rss)
-
----
-
-### 9. Video captures house collapsing due to Ecuador floods
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Residents filmed as a house collapsed into a swollen river in Ecuador, where torrential rains and floods linked to El N
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/1/video-captures-house-collapsing-due-to-ecuador-floods?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/1/video-captures-house-collapsing-due-to-ecuador-floods?traffic_source=rss)
 
 ---
 

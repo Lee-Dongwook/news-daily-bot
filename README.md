@@ -1,73 +1,74 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-02 00:29:52
+**Last Update:** 2026-11-02 04:05:08
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. It wasn't AI that flipped Proton's charge
+### 1. U.S. workers took home their smallest share of capital since at least 1947
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.raed.dev/posts/proton-loser-thinking/">https://blog.raed.dev/posts/proton-loser-thinking/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50328488">https://news.ycombinator.com/item?id=50328488</a></p>
-<p>Points: 90</p>
-<p># Comments: 38</p>
+<p>Article URL: <a href="https://fortune.com/article/why-did-us-workers-just-take-home-smallest-share-of-capital-since-1947-lowest-ever-recorded/">https://fortune.com/article/why-did-us-workers-just-take-home-smallest-share-of-capital-since-1947-lowest-ever-recorded/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50330939">https://news.ycombinator.com/item?id=50330939</a></p>
+<p>Points: 146</p>
+<p># Comments: 40</p>
 
-🔗 **Read more:** [https://blog.raed.dev/posts/proton-loser-thinking/](https://blog.raed.dev/posts/proton-loser-thinking/)
+🔗 **Read more:** [https://fortune.com/article/why-did-us-workers-just-take-home-smallest-share-of-capital-since-1947-lowest-ever-recorded/](https://fortune.com/article/why-did-us-workers-just-take-home-smallest-share-of-capital-since-1947-lowest-ever-recorded/)
 
 ---
 
-### 2. Nurses Sound Alarm as 'Uber for Nursing' Apps Push to Deregulate Healthcare
+### 2. AI delivers 'zero financial payoff' to most companies, Apollo economist says
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://nurse.org/news/uber-for-nursing-gig-apps-report/">https://nurse.org/news/uber-for-nursing-gig-apps-report/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50328487">https://news.ycombinator.com/item?id=50328487</a></p>
-<p>Points: 112</p>
-<p># Comments: 108</p>
+<p>Article URL: <a href="https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/">https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50330456">https://news.ycombinator.com/item?id=50330456</a></p>
+<p>Points: 104</p>
+<p># Comments: 86</p>
 
-🔗 **Read more:** [https://nurse.org/news/uber-for-nursing-gig-apps-report/](https://nurse.org/news/uber-for-nursing-gig-apps-report/)
+🔗 **Read more:** [https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/](https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/)
 
 ---
 
-### 3. US Jobs Pickup May Keep Fed on Track to Hike Rates Again
+### 3. Ask HN: Which TV do you recommend for privacy?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.bloomberg.com/news/articles/2026-10-31/us-jobs-pickup-may-keep-fed-on-track-to-hike-rates-again">https://www.bloomberg.com/news/articles/2026-10-31/us-jobs-pickup-may-keep-fed-on-track-to-hike-rates-again</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50328462">https://news.ycombinator.com/item?id=50328462</a></p>
-<p>Points: 20</p>
-<p># Comments: 11</p>
+<p>I haven’t owned a TV in years and would like one that respects my privacy. Are there any TV’s which do this well? I am looking for something in the 60”to 80”range and would like a 4k display with at least 60hz display. I don’t mind paying a premium.<p>I have heard good things about Apple TV as a better alternative to most smart TV native apps. Would some TV’s pair better with this than others for privacy? I don’t want the TV doing anything other than being the display for Apple TV.<p>I am curious what success others have had.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50328896">https://news.ycombinator.com/item?id=50328896</a></p>
+<p>Points: 97</p>
+<p># Comments: 175</p>
 
-🔗 **Read more:** [https://www.bloomberg.com/news/articles/2026-10-31/us-jobs-pickup-may-keep-fed-on-track-to-hike-rates-again](https://www.bloomberg.com/news/articles/2026-10-31/us-jobs-pickup-may-keep-fed-on-track-to-hike-rates-again)
+🔗 **Read more:** [https://news.ycombinator.com/item?id=50328896](https://news.ycombinator.com/item?id=50328896)
 
 ---
 
-### 4. Russian strikes cut power to thousands in Ukraine as Kherson ceasefire to end
+### 4. Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-A rare humanitarian ceasefire has allowed civilians to evacuate the Russian-occupied city of Oleshky.
+Authorities say there is no threat and have advised the public to stay calm and follow official channels for information.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +98,42 @@ The broadband provider has not finalised the number of roles to be axed but it w
 
 ---
 
-### 7. Al Jazeera Director General hails 30 years of groundbreaking news
+### 7. Iran war live: Tankers hit in Hormuz; Trump again says conflict to end soon
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Al Jazeera has marked 30 years since its first broadcast in 1996, with a ceremony in Doha attended by Qatar’s Emir.
+US president warns Iran to make a deal as IRGC says two tankers have hit mines and caught fire in the Strait of Hormuz.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/1/al-jazeera-director-general-hails-30-years-of-groundbreaking-news?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/1/al-jazeera-director-general-hails-30-years-of-groundbreaking-news?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/11/2/iran-war-live-tankers-hit-in-hormuz-trump-again-says-conflict-to-end-soon?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/11/2/iran-war-live-tankers-hit-in-hormuz-trump-again-says-conflict-to-end-soon?traffic_source=rss)
 
 ---
 
-### 8. Bulgaria’s acting President Iotova leads in run-off exit polls
+### 8. Nine people dead after Learjet crashes in Florida
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Iliana Iotova would become the nation’s first elected female president if results confirm her win on Monday.
+A private jet travelling from Austin, Texas, to the Bahamas crashed in Greenacres, near West Palm Beach, Florida.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/1/bulgarian-president-yotova-leads-runoff-exit-polls-show?traffic_source=rss](https://www.aljazeera.com/news/2026/11/1/bulgarian-president-yotova-leads-runoff-exit-polls-show?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/1/nine-people-dead-after-learjet-crashes-in-florida?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/1/nine-people-dead-after-learjet-crashes-in-florida?traffic_source=rss)
 
 ---
 
-### 9. Police clash with housing crisis protesters in Portugal
+### 9. Why governors’ races are important in the 2026 US midterms
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Police clash with housing crisis protesters in Portugal
+Historic turnover in this election will allow dozens of states to vote on significant changes in leadership.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/1/police-clash-with-housing-crisis-protesters-in-portugal?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/1/police-clash-with-housing-crisis-protesters-in-portugal?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/1/why-governors-races-are-important-in-the-2026-us-midterms?traffic_source=rss](https://www.aljazeera.com/news/2026/11/1/why-governors-races-are-important-in-the-2026-us-midterms?traffic_source=rss)
 
 ---
 

@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-02 04:05:08
+**Last Update:** 2026-11-02 04:24:58
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://fortune.com/article/why-did-us-workers-just-take-home-smallest-share-of-capital-since-1947-lowest-ever-recorded/">https://fortune.com/article/why-did-us-workers-just-take-home-smallest-share-of-capital-since-1947-lowest-ever-recorded/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50330939">https://news.ycombinator.com/item?id=50330939</a></p>
-<p>Points: 146</p>
-<p># Comments: 40</p>
+<p>Points: 161</p>
+<p># Comments: 55</p>
 
 🔗 **Read more:** [https://fortune.com/article/why-did-us-workers-just-take-home-smallest-share-of-capital-since-1947-lowest-ever-recorded/](https://fortune.com/article/why-did-us-workers-just-take-home-smallest-share-of-capital-since-1947-lowest-ever-recorded/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/">https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50330456">https://news.ycombinator.com/item?id=50330456</a></p>
-<p>Points: 104</p>
-<p># Comments: 86</p>
+<p>Points: 119</p>
+<p># Comments: 105</p>
 
 🔗 **Read more:** [https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/](https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/)
 
@@ -52,8 +52,8 @@
 <p>I haven’t owned a TV in years and would like one that respects my privacy. Are there any TV’s which do this well? I am looking for something in the 60”to 80”range and would like a 4k display with at least 60hz display. I don’t mind paying a premium.<p>I have heard good things about Apple TV as a better alternative to most smart TV native apps. Would some TV’s pair better with this than others for privacy? I don’t want the TV doing anything other than being the display for Apple TV.<p>I am curious what success others have had.</p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50328896">https://news.ycombinator.com/item?id=50328896</a></p>
-<p>Points: 97</p>
-<p># Comments: 175</p>
+<p>Points: 110</p>
+<p># Comments: 192</p>
 
 🔗 **Read more:** [https://news.ycombinator.com/item?id=50328896](https://news.ycombinator.com/item?id=50328896)
 
@@ -98,42 +98,42 @@ The broadband provider has not finalised the number of roles to be axed but it w
 
 ---
 
-### 7. Iran war live: Tankers hit in Hormuz; Trump again says conflict to end soon
+### 7. Nine die in ‘cataclysmic’ Florida business jet crash
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US president warns Iran to make a deal as IRGC says two tankers have hit mines and caught fire in the Strait of Hormuz.
+Florida Governor Ron DeSantis tells reporters there appeared to be no casualties on the ground.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/11/2/iran-war-live-tankers-hit-in-hormuz-trump-again-says-conflict-to-end-soon?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/11/2/iran-war-live-tankers-hit-in-hormuz-trump-again-says-conflict-to-end-soon?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/2/nine-die-in-cataclysmic-florida-business-jet?traffic_source=rss](https://www.aljazeera.com/news/2026/11/2/nine-die-in-cataclysmic-florida-business-jet?traffic_source=rss)
 
 ---
 
-### 8. Nine people dead after Learjet crashes in Florida
+### 8. Israeli officials say results stand as Netanyahu claims election ‘stolen’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A private jet travelling from Austin, Texas, to the Bahamas crashed in Greenacres, near West Palm Beach, Florida.
+Election body says deadlocked result won&#039;t be undermined even if foreign interference claims are found to be true.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/1/nine-people-dead-after-learjet-crashes-in-florida?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/1/nine-people-dead-after-learjet-crashes-in-florida?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/2/israeli-officials-say-results-stand-as-netanyahu-claims-election-stolen?traffic_source=rss](https://www.aljazeera.com/news/2026/11/2/israeli-officials-say-results-stand-as-netanyahu-claims-election-stolen?traffic_source=rss)
 
 ---
 
-### 9. Why governors’ races are important in the 2026 US midterms
+### 9. Bollywood star greets fans in bulletproof glass after bomb threat
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Historic turnover in this election will allow dozens of states to vote on significant changes in leadership.
+Bollywood legend Amitabh Bachchan had greeted fans from a bulletproof enclosure outside his residence in Mumbai.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/1/why-governors-races-are-important-in-the-2026-us-midterms?traffic_source=rss](https://www.aljazeera.com/news/2026/11/1/why-governors-races-are-important-in-the-2026-us-midterms?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/2/bollywood-star-greets-fans-in-bulletproof-glass-after-bomb-threat?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/2/bollywood-star-greets-fans-in-bulletproof-glass-after-bomb-threat?traffic_source=rss)
 
 ---
 

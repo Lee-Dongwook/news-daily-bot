@@ -1,78 +1,91 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-02 04:24:58
+**Last Update:** 2026-11-02 10:57:43
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. U.S. workers took home their smallest share of capital since at least 1947
+### 1. Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://fortune.com/article/why-did-us-workers-just-take-home-smallest-share-of-capital-since-1947-lowest-ever-recorded/">https://fortune.com/article/why-did-us-workers-just-take-home-smallest-share-of-capital-since-1947-lowest-ever-recorded/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50330939">https://news.ycombinator.com/item?id=50330939</a></p>
-<p>Points: 161</p>
-<p># Comments: 55</p>
-
-🔗 **Read more:** [https://fortune.com/article/why-did-us-workers-just-take-home-smallest-share-of-capital-since-1947-lowest-ever-recorded/](https://fortune.com/article/why-did-us-workers-just-take-home-smallest-share-of-capital-since-1947-lowest-ever-recorded/)
-
----
-
-### 2. AI delivers 'zero financial payoff' to most companies, Apollo economist says
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/">https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50330456">https://news.ycombinator.com/item?id=50330456</a></p>
-<p>Points: 119</p>
-<p># Comments: 105</p>
-
-🔗 **Read more:** [https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/](https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/)
-
----
-
-### 3. Ask HN: Which TV do you recommend for privacy?
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>I haven’t owned a TV in years and would like one that respects my privacy. Are there any TV’s which do this well? I am looking for something in the 60”to 80”range and would like a 4k display with at least 60hz display. I don’t mind paying a premium.<p>I have heard good things about Apple TV as a better alternative to most smart TV native apps. Would some TV’s pair better with this than others for privacy? I don’t want the TV doing anything other than being the display for Apple TV.<p>I am curious what success others have had.</p>
+<p>After seeing Karpathy's Hackertube and Hackerbooks, I just had to make Wikihack.<p>I scraped all mentions of wikipedia on hackernews and ranked them, and turn them into a scrollable feed to make it a bit more easy to digest / interact with. You can see where people submitted the articles and where people mentioned it in comments.<p>The top shows the most frequently linked articles.<p>Random is random but slightly weighted towards the more frequently linked articles (a little bit like Wikipedia actually).<p>Rising is ranked towards the past 12 months.<p>The entire site is served only through the frontend -- I'll add more features if people enjoy this!</p>
 <hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50328896">https://news.ycombinator.com/item?id=50328896</a></p>
-<p>Points: 110</p>
-<p># Comments: 192</p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50333339">https://news.ycombinator.com/item?id=50333339</a></p>
+<p>Points: 27</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://news.ycombinator.com/item?id=50328896](https://news.ycombinator.com/item?id=50328896)
+🔗 **Read more:** [https://wikihack.netlify.app](https://wikihack.netlify.app)
 
 ---
 
-### 4. Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says
+### 2. F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/">https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50332163">https://news.ycombinator.com/item?id=50332163</a></p>
+<p>Points: 82</p>
+<p># Comments: 8</p>
+
+🔗 **Read more:** [https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/](https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/)
+
+---
+
+### 3. AI fan wikis riddled with errors are muddying the waters of games culture
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture">https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50332086">https://news.ycombinator.com/item?id=50332086</a></p>
+<p>Points: 71</p>
+<p># Comments: 52</p>
+
+🔗 **Read more:** [https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture](https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture)
+
+---
+
+### 4. Mother told to book appointment to give birth to her dead baby
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Authorities say there is no threat and have advised the public to stay calm and follow official channels for information.
+Newcastle Hospitals NHS Trust apologises for care it says "fell short of the standards" expected.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm9dzn8e737jo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm9dzn8e737jo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Five teenagers stabbed at Halloween party
+### 5. Iran killed her teenage daughter - now she is facing up to the regime
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Samira's 16-year-old daughter Sevda was shot dead as they took part in mass protests in January.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3qjn8117kwjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3qjn8117kwjo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Five teenagers stabbed at Halloween party
 
 **Source:** BBC
 
@@ -85,55 +98,42 @@ Hampshire Police believes an unknown group gained entry to the party at an addre
 
 ---
 
-### 6. Thousands of jobs at Virgin Media O2 to be cut
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The broadband provider has not finalised the number of roles to be axed but it will likely be a sizeable chunk of its workforce, the BBC understands.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Nine die in ‘cataclysmic’ Florida business jet crash
+### 7. The future of the Palestinian vote in Israel
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Florida Governor Ron DeSantis tells reporters there appeared to be no casualties on the ground.
+The backlash against the high Palestinian turnout reveals much about the state of Israeli democracy and its future.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/2/nine-die-in-cataclysmic-florida-business-jet?traffic_source=rss](https://www.aljazeera.com/news/2026/11/2/nine-die-in-cataclysmic-florida-business-jet?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/11/2/the-future-of-the-palestinian-vote-in-israel?traffic_source=rss](https://www.aljazeera.com/opinions/2026/11/2/the-future-of-the-palestinian-vote-in-israel?traffic_source=rss)
 
 ---
 
-### 8. Israeli officials say results stand as Netanyahu claims election ‘stolen’
+### 8. Bangladesh garment factories disrupted as protests continue for third day
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Election body says deadlocked result won&#039;t be undermined even if foreign interference claims are found to be true.
+Workers in Bangladesh&#039;s largest export sector are demanding a minimum wage increase amid rising inflation.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/2/israeli-officials-say-results-stand-as-netanyahu-claims-election-stolen?traffic_source=rss](https://www.aljazeera.com/news/2026/11/2/israeli-officials-say-results-stand-as-netanyahu-claims-election-stolen?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/2/bangladesh-garment-factories-disrupted-as-protests-continue-for-third-day?traffic_source=rss](https://www.aljazeera.com/news/2026/11/2/bangladesh-garment-factories-disrupted-as-protests-continue-for-third-day?traffic_source=rss)
 
 ---
 
-### 9. Bollywood star greets fans in bulletproof glass after bomb threat
+### 9. Final distress call with Learjet pilot captured moments before crash
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Bollywood legend Amitabh Bachchan had greeted fans from a bulletproof enclosure outside his residence in Mumbai.
+Newly released air traffic control recordings reveal the crew’s urgent mayday calls onboard a Learjet 60 jet
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/2/bollywood-star-greets-fans-in-bulletproof-glass-after-bomb-threat?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/2/bollywood-star-greets-fans-in-bulletproof-glass-after-bomb-threat?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/2/final-distress-call-with-learjet-pilot-captured-moments-before-crash?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/2/final-distress-call-with-learjet-pilot-captured-moments-before-crash?traffic_source=rss)
 
 ---
 

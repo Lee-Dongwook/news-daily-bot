@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-02 10:57:43
+**Last Update:** 2026-11-02 11:19:55
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
@@ -20,8 +20,8 @@
 <p>After seeing Karpathy's Hackertube and Hackerbooks, I just had to make Wikihack.<p>I scraped all mentions of wikipedia on hackernews and ranked them, and turn them into a scrollable feed to make it a bit more easy to digest / interact with. You can see where people submitted the articles and where people mentioned it in comments.<p>The top shows the most frequently linked articles.<p>Random is random but slightly weighted towards the more frequently linked articles (a little bit like Wikipedia actually).<p>Rising is ranked towards the past 12 months.<p>The entire site is served only through the frontend -- I'll add more features if people enjoy this!</p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50333339">https://news.ycombinator.com/item?id=50333339</a></p>
-<p>Points: 27</p>
-<p># Comments: 2</p>
+<p>Points: 60</p>
+<p># Comments: 15</p>
 
 🔗 **Read more:** [https://wikihack.netlify.app](https://wikihack.netlify.app)
 
@@ -36,26 +36,26 @@
 **Description:**
 <p>Article URL: <a href="https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/">https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50332163">https://news.ycombinator.com/item?id=50332163</a></p>
-<p>Points: 82</p>
+<p>Points: 92</p>
 <p># Comments: 8</p>
 
 🔗 **Read more:** [https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/](https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/)
 
 ---
 
-### 3. AI fan wikis riddled with errors are muddying the waters of games culture
+### 3. Bones may release proteins that slow aging and extend life span
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture">https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50332086">https://news.ycombinator.com/item?id=50332086</a></p>
-<p>Points: 71</p>
-<p># Comments: 52</p>
+<p>Article URL: <a href="https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span">https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50331957">https://news.ycombinator.com/item?id=50331957</a></p>
+<p>Points: 37</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture](https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture)
+🔗 **Read more:** [https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span](https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span)
 
 ---
 

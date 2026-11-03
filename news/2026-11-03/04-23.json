@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-11-03T04:23:59+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Mahmood scraps settlement plans for migrant care workers",
+            "description": "The home secretary laid out a revised proposal for changing when migrants can claim permanent residency.",
+            "url": "https://www.bbc.co.uk/news/articles/c6lye8g4w7g1o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 02 Nov 2026 22:32:31 GMT",
+            "fetched": "2026-11-03T04:23:59+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Shop freezers in seven European countries hit by cyber-attack",
+            "description": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
+            "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 02 Nov 2026 17:38:11 GMT",
+            "fetched": "2026-11-03T04:23:59+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'All this food is now useless': Piles of rubbish after shop freezers hit by cyber-attack",
+            "description": "Dozens of supermarkets in seven European countries dumped huge quantities of food after refrigerators and freezers were targeted in a cyber-attack.",
+            "url": "https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 02 Nov 2026 17:34:58 GMT",
+            "fetched": "2026-11-03T04:23:59+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran war live: Vance sees ‘progress’, Tehran says ‘ball is in US court’",
+            "description": "Tehran says the US must lift its naval blockade and meet its demands in full before any agreement is reached.",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/11/3/iran-war-live-vance-sees-progress-in-talks-tehran-says-ball-in-us-court?traffic_source=rss",
+            "published": "Tue, 03 Nov 2026 00:00:00 +0000",
+            "fetched": "2026-11-03T04:23:59+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "War, tariffs and China: What the US midterms mean for the Asia-Pacific",
+            "description": "Hit hard by Trump&#039;s tariffs and the war on Iran, countries in the Asia-Pacific want &#039;enormous changes&#039; in US policies.",
+            "url": "https://www.aljazeera.com/news/2026/11/2/war-tariffs-and-china-what-the-us-midterms-mean-for-the-asia-pacific?traffic_source=rss",
+            "published": "Mon, 02 Nov 2026 23:41:18 +0000",
+            "fetched": "2026-11-03T04:23:59+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump approval rating near record low on eve of US midterm elections: Poll",
+            "description": "Only 32 percent of voters approve of Trump&#039;s job performance in the latest Reuters/Ipsos poll.",
+            "url": "https://www.aljazeera.com/news/2026/11/2/trump-approval-rating-near-record-low-on-eve-of-us-midterm-elections-poll?traffic_source=rss",
+            "published": "Mon, 02 Nov 2026 23:05:30 +0000",
+            "fetched": "2026-11-03T04:23:59+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Murasu",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25964",
+            "published": "2026-11-01T00:00:00Z",
+            "fetched": "2026-11-03T04:23:59+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25984",
+            "published": "2026-10-30T10:13:00Z",
+            "fetched": "2026-11-03T04:23:59+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire McCarty Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25986",
+            "published": "2026-10-29T12:16:00Z",
+            "fetched": "2026-11-03T04:23:59+03:30"
+        }
+    ]
+}

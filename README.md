@@ -1,65 +1,90 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-04 01:10:52
+**Last Update:** 2026-11-04 03:01:33
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, Al Jazeera, BBC
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: Kairos – Open-source risk and fraud decisioning platform
+### 1. The Internals of PostgreSQL
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Hey HN, Ayan here from Finic. We’re launching Kairos, an open source alternative to Sift, Sardine, and other real-time fraud decisioning platforms. Kairos addresses two of the biggest problems facing traditional decisioning tools: a lack of labeled data to train on and dealing with fraudsters that are constantly changing their tactics.<p>1. Traditional fraud solutions use ML models such as XGBoost to detect fraud, but these models are dependent on quality labeled data which many businesses do not have. We address this by using “System One” decision models in additional to traditional models such as XGBoost and logistic regression. This allows you to incorporate plain language questions such as “Is this a throwaway email” into your decisioning, bypassing the need for large amounts of labeled data. This also allows you to capture aspects of fraud that are more unstructured, which is something that XGBoost models struggle with.<p>2. Fraud teams are facing off with live players that are constantly changing their behavior to bypass the detection logic they have in place. You can train a detection model or define a ruleset once, but it will become obsolete in a matter of weeks as fraudsters figure out what your detection logic is. This means that you need a team regularly training models and updating rules based on new fraud patterns. Typically this takes a large data science/ML team. Kairos addresses this by introducing an MCP server, so that your agent (Claude Code, Cursor, Codex, etc.) can define a decision workflow, train models on your data, and pick the variant that performs best.<p>You can self-host Kairos with Docker or use the hosted version at <a href="https://kairos.finic.ai">https://kairos.finic.ai</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50358314">https://news.ycombinator.com/item?id=50358314</a></p>
-<p>Points: 7</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.interdb.jp/pg/index.html">https://www.interdb.jp/pg/index.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50358702">https://news.ycombinator.com/item?id=50358702</a></p>
+<p>Points: 47</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://github.com/finic-ai/kairos](https://github.com/finic-ai/kairos)
+🔗 **Read more:** [https://www.interdb.jp/pg/index.html](https://www.interdb.jp/pg/index.html)
 
 ---
 
-### 2. I dumped Apple’s word list
+### 2. The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://helgesver.re/articles/macos-vulgar-word-flags">https://helgesver.re/articles/macos-vulgar-word-flags</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50357782">https://news.ycombinator.com/item?id=50357782</a></p>
-<p>Points: 95</p>
-<p># Comments: 43</p>
+<p>Article URL: <a href="https://arxiv.org/abs/2605.29713">https://arxiv.org/abs/2605.29713</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50358582">https://news.ycombinator.com/item?id=50358582</a></p>
+<p>Points: 128</p>
+<p># Comments: 13</p>
 
-🔗 **Read more:** [https://helgesver.re/articles/macos-vulgar-word-flags](https://helgesver.re/articles/macos-vulgar-word-flags)
+🔗 **Read more:** [https://arxiv.org/abs/2605.29713](https://arxiv.org/abs/2605.29713)
 
 ---
 
-### 3. Pratt parsing is a black box
+### 3. Safari introduces Adaptive Dark Mode in 27.3
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://vinipsmaker.github.io/blog/article/pratt-parsing-is-a-black-box/">https://vinipsmaker.github.io/blog/article/pratt-parsing-is-a-black-box/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50357457">https://news.ycombinator.com/item?id=50357457</a></p>
-<p>Points: 14</p>
-<p># Comments: 7</p>
+<p>Article URL: <a href="https://webkit.org/blog/18541/introducing-adaptive-dark-mode/">https://webkit.org/blog/18541/introducing-adaptive-dark-mode/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50358562">https://news.ycombinator.com/item?id=50358562</a></p>
+<p>Points: 190</p>
+<p># Comments: 121</p>
 
-🔗 **Read more:** [https://vinipsmaker.github.io/blog/article/pratt-parsing-is-a-black-box/](https://vinipsmaker.github.io/blog/article/pratt-parsing-is-a-black-box/)
+🔗 **Read more:** [https://webkit.org/blog/18541/introducing-adaptive-dark-mode/](https://webkit.org/blog/18541/introducing-adaptive-dark-mode/)
 
 ---
 
-### 4. How the US midterm results could unfold - as millions of Americans head to the polls
+### 4. A simple guide to the midterms
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+US voters will head to the polls on Tuesday in a ballot that could have a major impact on Donald Trump’s presidency.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6wyz223j19po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6wyz223j19po?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. When will we know the results?
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Once polls close, it is possible the results will not be projected for several hours, days or even weeks
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq20321y2nlyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq20321y2nlyo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. How the US midterm results could unfold - as millions of Americans head to the polls
 
 **Source:** BBC
 
@@ -72,68 +97,42 @@ The BBC's North America correspondent considers three different scenarios, and w
 
 ---
 
-### 5. Spanish transport minister resigns days after deadly train crash
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-At least 69 people were killed and dozens injured in the collision south of the capital, Madrid.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. King calls slave trade a 'shameful chapter' during Commonwealth address
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The speech comes after calls for the UK government to issue a formal apology for Britain's historic role in the trade.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr89znnnn7dno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr89znnnn7dno?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Netanyahu’s eight-seat problem
+### 7. First polls close in pivotal US midterm elections
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Netanyahu’s Likud-led bloc won the most seats in the general election, but forming a government is another battle
+With control of the US Congress on the line, results from Tuesday&#039;s races will have marked implications for the country.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/3/netanyahus-eight-seat-problem?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/3/netanyahus-eight-seat-problem?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/3/first-polls-close-in-pivotal-us-midterm-elections?traffic_source=rss](https://www.aljazeera.com/news/2026/11/3/first-polls-close-in-pivotal-us-midterm-elections?traffic_source=rss)
 
 ---
 
-### 8. Palestinian families return home after Israeli siege of Hebron
+### 8. US midterm election results live: Polls start closing in some states
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Palestinian families return home after Israeli siege of Hebron
+Polls to start closing in waves across the country, with the earliest closures at 23:00 GMT in Indiana and Kentucky.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/3/palestinian-families-return-home-after-israeli-siege-of-hebron?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/3/palestinian-families-return-home-after-israeli-siege-of-hebron?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/11/3/us-midterm-election-results-live-polls-to-start-closing-in-some-states?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/11/3/us-midterm-election-results-live-polls-to-start-closing-in-some-states?traffic_source=rss)
 
 ---
 
-### 9. US astronauts vote from space in 2026 midterm elections
+### 9. Raphinha, Lamal fire Barcelona to 3-0 Champions League win over Aston Villa
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-NASA astronaut Anil Menon demonstrated on social media how he cast his ballot for Harris County in Texas, from space.
+Barca took early lead through Lamine Yamal before Raphinha continued fine goal-scoring form with a second-half brace.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/3/aje-onl-nf_us-astronauts-vote-from-space-in-2026-elections-031126?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/3/aje-onl-nf_us-astronauts-vote-from-space-in-2026-elections-031126?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/3/raphinha-lamal-fire-barcelona-to-3-0-champions-league-win-over-aston-villa?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/3/raphinha-lamal-fire-barcelona-to-3-0-champions-league-win-over-aston-villa?traffic_source=rss)
 
 ---
 

@@ -1,139 +1,139 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-03 05:11:35
+**Last Update:** 2026-11-03 11:12:19
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Ask HN: Does anyone have a contact with Cleveland-area Ham club?
+### 1. Show HN: ReBirth 338 in Browser
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>I filled out the web form for the Cuyahoga Amateur Radio Club but it's probably been circular-filed...  I gave some info about a large collection of radio gear that needs to be removed from a home or it will be put into a dumpster.  A lot of it brand-new.  If you know anybody at the club, please tell them to check whatever it is that receives their webform input.</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50346164">https://news.ycombinator.com/item?id=50346164</a></p>
-<p>Points: 13</p>
+<p>Article URL: <a href="https://margeux.com/rb338.html">https://margeux.com/rb338.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50348740">https://news.ycombinator.com/item?id=50348740</a></p>
+<p>Points: 11</p>
 <p># Comments: 2</p>
 
-🔗 **Read more:** [https://news.ycombinator.com/item?id=50346164](https://news.ycombinator.com/item?id=50346164)
+🔗 **Read more:** [https://margeux.com/rb338.html](https://margeux.com/rb338.html)
 
 ---
 
-### 2. Intel stock collapse worsens as $3.5T chip rout spreads
+### 2. Cloudflare experiencing multiple active incidents
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html">https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50346153">https://news.ycombinator.com/item?id=50346153</a></p>
-<p>Points: 57</p>
-<p># Comments: 24</p>
+<p>Article URL: <a href="https://www.cloudflarestatus.com/">https://www.cloudflarestatus.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50348260">https://news.ycombinator.com/item?id=50348260</a></p>
+<p>Points: 29</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html](https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html)
+🔗 **Read more:** [https://www.cloudflarestatus.com/](https://www.cloudflarestatus.com/)
 
 ---
 
-### 3. GUI64 – GUI for the Commodore 64 running on top of the built-in ROM
+### 3. Show HN: I built a little browser game to practice Vim commands
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.c64-wiki.com/wiki/GUI64">https://www.c64-wiki.com/wiki/GUI64</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50345735">https://news.ycombinator.com/item?id=50345735</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
+<p>I made hjkl to help myself remember Vim commands. It’s a little browser game you can play when you want to unwind and get a bit of Vim practice in.<p>There are still a lot of commands I want to add, but I hope someone finds it useful in the meantime :)</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50347552">https://news.ycombinator.com/item?id=50347552</a></p>
+<p>Points: 18</p>
+<p># Comments: 11</p>
 
-🔗 **Read more:** [https://www.c64-wiki.com/wiki/GUI64](https://www.c64-wiki.com/wiki/GUI64)
+🔗 **Read more:** [https://hjkl.duy.run](https://hjkl.duy.run)
 
 ---
 
-### 4. Mahmood scraps settlement plans for migrant care workers
+### 4. Americans head to the polls for elections that could define Trump's closing chapter
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The home secretary laid out a revised proposal for changing when migrants can claim permanent residency.
+The midterms will shape Congress for the last years of his presidency, writes Sarah Smith, but they are also a test of what politics may look like without him.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6lye8g4w7g1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6lye8g4w7g1o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq2d6k4r5n9ro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq2d6k4r5n9ro?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Shop freezers in seven European countries hit by cyber-attack
+### 5. US strikes Iran ahead of midterm elections
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.
+US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. 'All this food is now useless': Piles of rubbish after shop freezers hit by cyber-attack
+### 6. UK and EU agree draft deal to scrap Brexit red tape over food exports
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Dozens of supermarkets in seven European countries dumped huge quantities of food after refrigerators and freezers were targeted in a cyber-attack.
+The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Trump makes final midterms pitch at Lincoln Memorial Reflecting Pool
+### 7. A response to Andy Burnham: We need an apology and reparations
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US President Donald Trump urged supporters to turn out ahead of Election Day
+It is good news the British PM is open to calls for an apology. But debt restructuring instead of reparations won’t do.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/3/trump-makes-final-midterms-pitch-at-lincoln-memorial-reflecting-pool?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/3/trump-makes-final-midterms-pitch-at-lincoln-memorial-reflecting-pool?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/11/3/a-response-to-andy-burnham-we-need-an-apology-and-reparations?traffic_source=rss](https://www.aljazeera.com/opinions/2026/11/3/a-response-to-andy-burnham-we-need-an-apology-and-reparations?traffic_source=rss)
 
 ---
 
-### 8. Ebola outbreak kills more than 5,300 people in DR Congo
+### 8. One dead after two helicopters collide near Mount Everest in Nepal
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The Bundibugyo strain has spread to Kenya and Uganda, while two in Nigeria returned negative results.
+Authorities have confirmed that a 47-year-old Indian national was killed and two people injured.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/3/ebola-outbreak-kills-more-than-5300-people-in-dr-congo?traffic_source=rss](https://www.aljazeera.com/news/2026/11/3/ebola-outbreak-kills-more-than-5300-people-in-dr-congo?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/3/one-dead-after-two-helicopters-collide-near-mount-everest-in-nepal?traffic_source=rss](https://www.aljazeera.com/news/2026/11/3/one-dead-after-two-helicopters-collide-near-mount-everest-in-nepal?traffic_source=rss)
 
 ---
 
-### 9. Iran war live: Vance sees ‘progress’, Tehran says ‘ball is in US court’
+### 9. Australia’s High Court hears bid to overturn under-16s social media ban
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Tehran says the US must lift its naval blockade and meet its demands in full before any agreement is reached.
+Online giant Reddit and advocacy group Digital Freedom Project argue ban is unconstitutional.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/11/3/iran-war-live-vance-sees-progress-in-talks-tehran-says-ball-in-us-court?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/11/3/iran-war-live-vance-sees-progress-in-talks-tehran-says-ball-in-us-court?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/3/australias-high-court-hears-bid-to-overturn-under-16s-social-media-ban?traffic_source=rss](https://www.aljazeera.com/news/2026/11/3/australias-high-court-hears-bid-to-overturn-under-16s-social-media-ban?traffic_source=rss)
 
 ---
 

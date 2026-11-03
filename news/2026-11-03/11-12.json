@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-03T11:12:19+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: ReBirth 338 in Browser",
+            "description": "<p>Article URL: <a href=\"https://margeux.com/rb338.html\">https://margeux.com/rb338.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50348740\">https://news.ycombinator.com/item?id=50348740</a></p>\n<p>Points: 11</p>\n<p># Comments: 2</p>",
+            "url": "https://margeux.com/rb338.html",
+            "published": "Tue, 03 Nov 2026 06:24:50 +0000",
+            "fetched": "2026-11-03T11:12:19+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Cloudflare experiencing multiple active incidents",
+            "description": "<p>Article URL: <a href=\"https://www.cloudflarestatus.com/\">https://www.cloudflarestatus.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50348260\">https://news.ycombinator.com/item?id=50348260</a></p>\n<p>Points: 29</p>\n<p># Comments: 4</p>",
+            "url": "https://www.cloudflarestatus.com/",
+            "published": "Tue, 03 Nov 2026 04:57:27 +0000",
+            "fetched": "2026-11-03T11:12:19+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: I built a little browser game to practice Vim commands",
+            "description": "<p>I made hjkl to help myself remember Vim commands. It’s a little browser game you can play when you want to unwind and get a bit of Vim practice in.<p>There are still a lot of commands I want to add, but I hope someone finds it useful in the meantime :)</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50347552\">https://news.ycombinator.com/item?id=50347552</a></p>\n<p>Points: 18</p>\n<p># Comments: 11</p>",
+            "url": "https://hjkl.duy.run",
+            "published": "Tue, 03 Nov 2026 03:10:04 +0000",
+            "fetched": "2026-11-03T11:12:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Americans head to the polls for elections that could define Trump's closing chapter",
+            "description": "The midterms will shape Congress for the last years of his presidency, writes Sarah Smith, but they are also a test of what politics may look like without him.",
+            "url": "https://www.bbc.co.uk/news/articles/cq2d6k4r5n9ro?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 03 Nov 2026 05:00:43 GMT",
+            "fetched": "2026-11-03T11:12:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "US strikes Iran ahead of midterm elections",
+            "description": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner.",
+            "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 03 Nov 2026 03:39:08 GMT",
+            "fetched": "2026-11-03T11:12:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
+            "description": "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far.",
+            "url": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 03 Nov 2026 02:11:13 GMT",
+            "fetched": "2026-11-03T11:12:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "A response to Andy Burnham: We need an apology and reparations",
+            "description": "It is good news the British PM is open to calls for an apology. But debt restructuring instead of reparations won’t do.",
+            "url": "https://www.aljazeera.com/opinions/2026/11/3/a-response-to-andy-burnham-we-need-an-apology-and-reparations?traffic_source=rss",
+            "published": "Tue, 03 Nov 2026 07:07:54 +0000",
+            "fetched": "2026-11-03T11:12:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "One dead after two helicopters collide near Mount Everest in Nepal",
+            "description": "Authorities have confirmed that a 47-year-old Indian national was killed and two people injured.",
+            "url": "https://www.aljazeera.com/news/2026/11/3/one-dead-after-two-helicopters-collide-near-mount-everest-in-nepal?traffic_source=rss",
+            "published": "Tue, 03 Nov 2026 07:06:07 +0000",
+            "fetched": "2026-11-03T11:12:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Australia’s High Court hears bid to overturn under-16s social media ban",
+            "description": "Online giant Reddit and advocacy group Digital Freedom Project argue ban is unconstitutional.",
+            "url": "https://www.aljazeera.com/news/2026/11/3/australias-high-court-hears-bid-to-overturn-under-16s-social-media-ban?traffic_source=rss",
+            "published": "Tue, 03 Nov 2026 06:59:20 +0000",
+            "fetched": "2026-11-03T11:12:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Murasu",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25964",
+            "published": "2026-11-01T00:00:00Z",
+            "fetched": "2026-11-03T11:12:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25984",
+            "published": "2026-10-30T10:13:00Z",
+            "fetched": "2026-11-03T11:12:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire McCarty Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25986",
+            "published": "2026-10-29T12:16:00Z",
+            "fetched": "2026-11-03T11:12:19+03:30"
+        }
+    ]
+}

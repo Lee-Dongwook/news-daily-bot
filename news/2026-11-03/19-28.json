@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-03T19:28:10+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Quili AI",
+            "description": "<p>Article URL: <a href=\"https://www.quili.ai/\">https://www.quili.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50353475\">https://news.ycombinator.com/item?id=50353475</a></p>\n<p>Points: 6</p>\n<p># Comments: 1</p>",
+            "url": "https://www.quili.ai/",
+            "published": "Tue, 03 Nov 2026 15:49:02 +0000",
+            "fetched": "2026-11-03T19:28:10+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The State of Longevity: The healthmaxxing economy is here",
+            "description": "<p>Article URL: <a href=\"https://www.a16z.news/p/the-state-of-longevity\">https://www.a16z.news/p/the-state-of-longevity</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50353465\">https://news.ycombinator.com/item?id=50353465</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://www.a16z.news/p/the-state-of-longevity",
+            "published": "Tue, 03 Nov 2026 15:48:31 +0000",
+            "fetched": "2026-11-03T19:28:10+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Are the Fridges Ok?",
+            "description": "<p>Article URL: <a href=\"https://arethefridgesok.org/\">https://arethefridgesok.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50353387\">https://news.ycombinator.com/item?id=50353387</a></p>\n<p>Points: 10</p>\n<p># Comments: 3</p>",
+            "url": "https://arethefridgesok.org/",
+            "published": "Tue, 03 Nov 2026 15:41:52 +0000",
+            "fetched": "2026-11-03T19:28:10+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "How the US midterm results could unfold - as millions of Americans head to the polls",
+            "description": "The BBC's North America correspondent considers three different scenarios, and what they would mean for the country.",
+            "url": "https://www.bbc.co.uk/news/articles/cq78pgn7em34o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 03 Nov 2026 10:32:56 GMT",
+            "fetched": "2026-11-03T19:28:10+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Celebrity loses injunction bid but will stay anonymous pending appeal",
+            "description": "The unnamed man asked for an injunction to stop his identity being reported in connection with allegations against him.",
+            "url": "https://www.bbc.co.uk/news/articles/cqglwjdgg045o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 03 Nov 2026 14:33:14 GMT",
+            "fetched": "2026-11-03T19:28:10+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Spanish footballer dies after collision with goalkeeper during match",
+            "description": "Tenerife striker Jesus de Miguel has died after the 30-year-old suffered a serious injury during a Spanish second-division match.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 03 Nov 2026 09:09:18 GMT",
+            "fetched": "2026-11-03T19:28:10+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "How US midterms have cost a record $12bn as cost of living soars",
+            "description": "Candidates, donors and super PACs are spending more than ever on political campaigns.",
+            "url": "https://www.aljazeera.com/news/2026/11/3/how-us-midterms-have-cost-a-record-12bn-as-cost-of-living-soars?traffic_source=rss",
+            "published": "Tue, 03 Nov 2026 15:40:56 +0000",
+            "fetched": "2026-11-03T19:28:10+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Nordic nations refuse to face Russia in ice hockey World Championship",
+            "description": "Denmark, Norway and Sweden join Finland in refusing to face Russia in 2027 World Championships in Germany next May.",
+            "url": "https://www.aljazeera.com/sports/2026/11/3/nordic-nations-refuse-to-face-russia-in-ice-hockey-world-championship?traffic_source=rss",
+            "published": "Tue, 03 Nov 2026 15:18:13 +0000",
+            "fetched": "2026-11-03T19:28:10+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israel’s opposition leaders back Eisenkot to oust Netanyahu",
+            "description": "Opposition promises to form a government quickly but remains split over whether to ally with Arab-led parties.",
+            "url": "https://www.aljazeera.com/news/2026/11/3/israeli-opposition-leaders-back-eisenkot-to-oust-netanyahu?traffic_source=rss",
+            "published": "Tue, 03 Nov 2026 15:00:10 +0000",
+            "fetched": "2026-11-03T19:28:10+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Murasu",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25964",
+            "published": "2026-11-01T00:00:00Z",
+            "fetched": "2026-11-03T19:28:10+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25984",
+            "published": "2026-10-30T10:13:00Z",
+            "fetched": "2026-11-03T19:28:10+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Iceberg C39",
+            "description": "Natural event: Sea and Lake Ice",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6051",
+            "published": "2022-04-29T00:00:00Z",
+            "fetched": "2026-11-03T19:28:10+03:30"
+        }
+    ]
+}

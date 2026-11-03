@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-03 13:15:15
+**Last Update:** 2026-11-03 19:28:10
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. uBlock Origin filter to block autoplay videos in TechCrunch
+### 1. Quili AI
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://cornfieldlabs.github.io/posts/ublock-stop-techcrunch-autoplay-video/post.html">https://cornfieldlabs.github.io/posts/ublock-stop-techcrunch-autoplay-video/post.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50349155">https://news.ycombinator.com/item?id=50349155</a></p>
-<p>Points: 70</p>
-<p># Comments: 21</p>
+<p>Article URL: <a href="https://www.quili.ai/">https://www.quili.ai/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50353475">https://news.ycombinator.com/item?id=50353475</a></p>
+<p>Points: 6</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://cornfieldlabs.github.io/posts/ublock-stop-techcrunch-autoplay-video/post.html](https://cornfieldlabs.github.io/posts/ublock-stop-techcrunch-autoplay-video/post.html)
+🔗 **Read more:** [https://www.quili.ai/](https://www.quili.ai/)
 
 ---
 
-### 2. Nvidia – open-source auto-ontology
+### 2. The State of Longevity: The healthmaxxing economy is here
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/NVIDIA/auto-ontology">https://github.com/NVIDIA/auto-ontology</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50348962">https://news.ycombinator.com/item?id=50348962</a></p>
-<p>Points: 53</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://www.a16z.news/p/the-state-of-longevity">https://www.a16z.news/p/the-state-of-longevity</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50353465">https://news.ycombinator.com/item?id=50353465</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://github.com/NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology)
+🔗 **Read more:** [https://www.a16z.news/p/the-state-of-longevity](https://www.a16z.news/p/the-state-of-longevity)
 
 ---
 
-### 3. Cloudflare experiencing multiple active incidents
+### 3. Are the Fridges Ok?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.cloudflarestatus.com/">https://www.cloudflarestatus.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50348260">https://news.ycombinator.com/item?id=50348260</a></p>
-<p>Points: 49</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://arethefridgesok.org/">https://arethefridgesok.org/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50353387">https://news.ycombinator.com/item?id=50353387</a></p>
+<p>Points: 10</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://www.cloudflarestatus.com/](https://www.cloudflarestatus.com/)
+🔗 **Read more:** [https://arethefridgesok.org/](https://arethefridgesok.org/)
 
 ---
 
-### 4. UK and EU agree draft deal to scrap Brexit red tape over food exports
+### 4. How the US midterm results could unfold - as millions of Americans head to the polls
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far.
+The BBC's North America correspondent considers three different scenarios, and what they would mean for the country.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq78pgn7em34o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq78pgn7em34o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Americans head to the polls for elections that could define Trump's closing chapter
+### 5. Celebrity loses injunction bid but will stay anonymous pending appeal
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The midterms will shape Congress for the last years of his presidency, writes Sarah Smith, but they are also a test of what politics may look like without him.
+The unnamed man asked for an injunction to stop his identity being reported in connection with allegations against him.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq2d6k4r5n9ro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq2d6k4r5n9ro?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqglwjdgg045o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqglwjdgg045o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. US strikes Iranian island ahead of midterm elections
+### 6. Spanish footballer dies after collision with goalkeeper during match
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner.
+Tenerife striker Jesus de Miguel has died after the 30-year-old suffered a serious injury during a Spanish second-division match.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Cyclone Murasu makes landfall on India’s eastern coast
+### 7. How US midterms have cost a record $12bn as cost of living soars
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Severe cyclonic storm uproots trees and downs power lines, days after another cyclone battered the same region.
+Candidates, donors and super PACs are spending more than ever on political campaigns.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/3/cyclone-murasu-makes-landfall-on-indias-eastern-coast?traffic_source=rss](https://www.aljazeera.com/news/2026/11/3/cyclone-murasu-makes-landfall-on-indias-eastern-coast?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/3/how-us-midterms-have-cost-a-record-12bn-as-cost-of-living-soars?traffic_source=rss](https://www.aljazeera.com/news/2026/11/3/how-us-midterms-have-cost-a-record-12bn-as-cost-of-living-soars?traffic_source=rss)
 
 ---
 
-### 8. Sudan’s displaced return to new challenges in war-battered Khartoum
+### 8. Nordic nations refuse to face Russia in ice hockey World Championship
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The capital was one of the first areas to be affected, and one of the worst hit, by the war between the SAF and the RSF.
+Denmark, Norway and Sweden join Finland in refusing to face Russia in 2027 World Championships in Germany next May.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/11/3/sudans-displaced-return-to-new-challenges-in-war-battered-khartoum?traffic_source=rss](https://www.aljazeera.com/features/2026/11/3/sudans-displaced-return-to-new-challenges-in-war-battered-khartoum?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/3/nordic-nations-refuse-to-face-russia-in-ice-hockey-world-championship?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/3/nordic-nations-refuse-to-face-russia-in-ice-hockey-world-championship?traffic_source=rss)
 
 ---
 
-### 9. Surging ICE raids shadow final weeks of California congressional race
+### 9. Israel’s opposition leaders back Eisenkot to oust Netanyahu
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Local organisations and representatives say immigration raids have spread fear and uncertainty through communities.
+Opposition promises to form a government quickly but remains split over whether to ally with Arab-led parties.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/3/surging-ice-raids-shadow-final-weeks-of-california-congressional-race?traffic_source=rss](https://www.aljazeera.com/news/2026/11/3/surging-ice-raids-shadow-final-weeks-of-california-congressional-race?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/3/israeli-opposition-leaders-back-eisenkot-to-oust-netanyahu?traffic_source=rss](https://www.aljazeera.com/news/2026/11/3/israeli-opposition-leaders-back-eisenkot-to-oust-netanyahu?traffic_source=rss)
 
 ---
 
@@ -162,16 +162,16 @@ Natural event: Wildfires
 
 ---
 
-### 12. Prescribed Fire McCarty Piles RX, Coconino, Arizona
+### 12. Iceberg C39
 
 **Source:** NASA
 
 **Category:** nature
 
 **Description:**
-Natural event: Wildfires
+Natural event: Sea and Lake Ice
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25986](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25986)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6051](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6051)
 
 ---
 

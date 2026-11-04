@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-04 05:29:32
+**Last Update:** 2026-11-04 10:15:03
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. The Internals of PostgreSQL
+### 1. US midterm elections 2026 live updates: Democrats win Senate control and edge
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.interdb.jp/pg/index.html">https://www.interdb.jp/pg/index.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50358702">https://news.ycombinator.com/item?id=50358702</a></p>
-<p>Points: 112</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates">https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50361936">https://news.ycombinator.com/item?id=50361936</a></p>
+<p>Points: 43</p>
+<p># Comments: 12</p>
 
-🔗 **Read more:** [https://www.interdb.jp/pg/index.html](https://www.interdb.jp/pg/index.html)
+🔗 **Read more:** [https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates](https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates)
 
 ---
 
-### 2. The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer
+### 2. Jelly Sheet
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://arxiv.org/abs/2605.29713">https://arxiv.org/abs/2605.29713</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50358582">https://news.ycombinator.com/item?id=50358582</a></p>
-<p>Points: 231</p>
-<p># Comments: 37</p>
+<p>Article URL: <a href="https://mrdoob.github.io/codevember-2026/01/">https://mrdoob.github.io/codevember-2026/01/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50361268">https://news.ycombinator.com/item?id=50361268</a></p>
+<p>Points: 88</p>
+<p># Comments: 16</p>
 
-🔗 **Read more:** [https://arxiv.org/abs/2605.29713](https://arxiv.org/abs/2605.29713)
+🔗 **Read more:** [https://mrdoob.github.io/codevember-2026/01/](https://mrdoob.github.io/codevember-2026/01/)
 
 ---
 
-### 3. Safari introduces Adaptive Dark Mode in 27.3
+### 3. Distinct cellular and genetic differences in colorectal cancer in young patients
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://webkit.org/blog/18541/introducing-adaptive-dark-mode/">https://webkit.org/blog/18541/introducing-adaptive-dark-mode/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50358562">https://news.ycombinator.com/item?id=50358562</a></p>
-<p>Points: 291</p>
-<p># Comments: 187</p>
+<p>Article URL: <a href="https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients">https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50361154">https://news.ycombinator.com/item?id=50361154</a></p>
+<p>Points: 48</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://webkit.org/blog/18541/introducing-adaptive-dark-mode/](https://webkit.org/blog/18541/introducing-adaptive-dark-mode/)
+🔗 **Read more:** [https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients](https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients)
 
 ---
 
-### 4. When will we know the results?
+### 4. Anthony Zurcher: Democrats tear up Trump's political map on historic night
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The first polls have closed, but it is possible the results will not be projected for several hours, days or even weeks.
+Two Senate races that a year ago were thought to be battlegrounds turned out to be slam-dunks for the Democrats.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq20321y2nlyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq20321y2nlyo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. US voters name economy and state of democracy as top issues, poll says
+### 5. How America voted in maps and charts
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-A major election day survey suggests voters are the most unhappy with the economy.
+See the maps and charts that show how America voted in the US midterm elections.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c39wz0970eypo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c39wz0970eypo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. How the US midterm results could unfold - as millions of Americans head to the polls
+### 6. Ecstatic scenes and historic moments: What's happened so far in the midterms
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The BBC's North America correspondent considers three different scenarios, and what they would mean for the country.
+Democrats have taken control of Congress for the rest of Donald Trump's presidency - proving moments of celebration.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq78pgn7em34o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq78pgn7em34o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Kazakhstan releases second tiger into the wild
+### 7. Photos: Champions League and Tenerife fans pay tribute to De Miguel
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Kazakhstan has released a second Siberian tiger, this time a male named Amur, into a nature reserve.
+CD Tenerife forward Jesus de Miguel died after suffering cardiac arrest following an on-field collision.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/4/kazakhstan-releases-second-tiger-into-the-wild?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/4/kazakhstan-releases-second-tiger-into-the-wild?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/11/4/photos-champions-league-and-tenerife-fans-pay-tribute-to-de-miguel?traffic_source=rss](https://www.aljazeera.com/gallery/2026/11/4/photos-champions-league-and-tenerife-fans-pay-tribute-to-de-miguel?traffic_source=rss)
 
 ---
 
-### 8. Democrat Roy Cooper flips North Carolina US Senate seat
+### 8. Democrats dominate NYC races, Hochul re-elected New York governor
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Roy Cooper beat out Republican Michael Whatley.
+Brad Lander, Darializa Avila Chevalier and Claire Valdez sweep their congressional races in key Democratic districts.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/4/democrat-roy-cooper-flips-north-carolina-us-senate-seat?traffic_source=rss](https://www.aljazeera.com/news/2026/11/4/democrat-roy-cooper-flips-north-carolina-us-senate-seat?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/11/4/democrats-dominate-nyc-races-hochul-re-elected-new-york-governor?traffic_source=rss](https://www.aljazeera.com/economy/2026/11/4/democrats-dominate-nyc-races-hochul-re-elected-new-york-governor?traffic_source=rss)
 
 ---
 
-### 9. Scepticism as Trump says he’s ending Israel’s $3.8 bn military aid deal
+### 9. N Korea fires multiple missiles, denies US claims on Binance hack
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US President Donald Trump says he plans to stop the annual $3.8bn military aid package to Israel by the end of the year.
+Kim Yo Jong refuses dialogue with US after denying responsibility for theft of more than $6bn in crypto assets.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/4/scepticism-as-trump-says-hes-ending-israels-3-8-bn-military-aid-deal?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/4/scepticism-as-trump-says-hes-ending-israels-3-8-bn-military-aid-deal?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/4/n-korea-fires-multiple-missiles-denies-us-claims-on-binance-hack?traffic_source=rss](https://www.aljazeera.com/news/2026/11/4/n-korea-fires-multiple-missiles-denies-us-claims-on-binance-hack?traffic_source=rss)
 
 ---
 

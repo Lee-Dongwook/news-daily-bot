@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-04T10:15:03+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "US midterm elections 2026 live updates: Democrats win Senate control and edge",
+            "description": "<p>Article URL: <a href=\"https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates\">https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50361936\">https://news.ycombinator.com/item?id=50361936</a></p>\n<p>Points: 43</p>\n<p># Comments: 12</p>",
+            "url": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates",
+            "published": "Wed, 04 Nov 2026 06:00:30 +0000",
+            "fetched": "2026-11-04T10:15:03+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Jelly Sheet",
+            "description": "<p>Article URL: <a href=\"https://mrdoob.github.io/codevember-2026/01/\">https://mrdoob.github.io/codevember-2026/01/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50361268\">https://news.ycombinator.com/item?id=50361268</a></p>\n<p>Points: 88</p>\n<p># Comments: 16</p>",
+            "url": "https://mrdoob.github.io/codevember-2026/01/",
+            "published": "Wed, 04 Nov 2026 03:40:50 +0000",
+            "fetched": "2026-11-04T10:15:03+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Distinct cellular and genetic differences in colorectal cancer in young patients",
+            "description": "<p>Article URL: <a href=\"https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients\">https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50361154\">https://news.ycombinator.com/item?id=50361154</a></p>\n<p>Points: 48</p>\n<p># Comments: 1</p>",
+            "url": "https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients",
+            "published": "Wed, 04 Nov 2026 03:20:13 +0000",
+            "fetched": "2026-11-04T10:15:03+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Anthony Zurcher: Democrats tear up Trump's political map on historic night",
+            "description": "Two Senate races that a year ago were thought to be battlegrounds turned out to be slam-dunks for the Democrats.",
+            "url": "https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 04 Nov 2026 06:14:20 GMT",
+            "fetched": "2026-11-04T10:15:03+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "How America voted in maps and charts",
+            "description": "See the maps and charts that show how America voted in the US midterm elections.",
+            "url": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 04 Nov 2026 04:47:08 GMT",
+            "fetched": "2026-11-04T10:15:03+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Ecstatic scenes and historic moments: What's happened so far in the midterms",
+            "description": "Democrats have taken control of Congress for the rest of Donald Trump's presidency - proving moments of celebration.",
+            "url": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 04 Nov 2026 06:13:09 GMT",
+            "fetched": "2026-11-04T10:15:03+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Photos: Champions League and Tenerife fans pay tribute to De Miguel",
+            "description": "CD Tenerife forward Jesus de Miguel died after suffering cardiac arrest following an on-field collision.",
+            "url": "https://www.aljazeera.com/gallery/2026/11/4/photos-champions-league-and-tenerife-fans-pay-tribute-to-de-miguel?traffic_source=rss",
+            "published": "Wed, 04 Nov 2026 05:49:43 +0000",
+            "fetched": "2026-11-04T10:15:03+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Democrats dominate NYC races, Hochul re-elected New York governor",
+            "description": "Brad Lander, Darializa Avila Chevalier and Claire Valdez sweep their congressional races in key Democratic districts.",
+            "url": "https://www.aljazeera.com/economy/2026/11/4/democrats-dominate-nyc-races-hochul-re-elected-new-york-governor?traffic_source=rss",
+            "published": "Wed, 04 Nov 2026 05:27:30 +0000",
+            "fetched": "2026-11-04T10:15:03+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "N Korea fires multiple missiles, denies US claims on Binance hack",
+            "description": "Kim Yo Jong refuses dialogue with US after denying responsibility for theft of more than $6bn in crypto assets.",
+            "url": "https://www.aljazeera.com/news/2026/11/4/n-korea-fires-multiple-missiles-denies-us-claims-on-binance-hack?traffic_source=rss",
+            "published": "Wed, 04 Nov 2026 05:11:00 +0000",
+            "fetched": "2026-11-04T10:15:03+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Murasu",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25964",
+            "published": "2026-11-01T00:00:00Z",
+            "fetched": "2026-11-04T10:15:03+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25984",
+            "published": "2026-10-30T10:13:00Z",
+            "fetched": "2026-11-04T10:15:03+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Iceberg B22K",
+            "description": "Natural event: Sea and Lake Ice",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25990",
+            "published": "2026-10-30T00:00:00Z",
+            "fetched": "2026-11-04T10:15:03+03:30"
+        }
+    ]
+}

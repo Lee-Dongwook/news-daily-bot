@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-04T05:29:32+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Internals of PostgreSQL",
+            "description": "<p>Article URL: <a href=\"https://www.interdb.jp/pg/index.html\">https://www.interdb.jp/pg/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50358702\">https://news.ycombinator.com/item?id=50358702</a></p>\n<p>Points: 112</p>\n<p># Comments: 2</p>",
+            "url": "https://www.interdb.jp/pg/index.html",
+            "published": "Tue, 03 Nov 2026 21:51:06 +0000",
+            "fetched": "2026-11-04T05:29:32+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+            "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2605.29713\">https://arxiv.org/abs/2605.29713</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50358582\">https://news.ycombinator.com/item?id=50358582</a></p>\n<p>Points: 231</p>\n<p># Comments: 37</p>",
+            "url": "https://arxiv.org/abs/2605.29713",
+            "published": "Tue, 03 Nov 2026 21:40:53 +0000",
+            "fetched": "2026-11-04T05:29:32+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Safari introduces Adaptive Dark Mode in 27.3",
+            "description": "<p>Article URL: <a href=\"https://webkit.org/blog/18541/introducing-adaptive-dark-mode/\">https://webkit.org/blog/18541/introducing-adaptive-dark-mode/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50358562\">https://news.ycombinator.com/item?id=50358562</a></p>\n<p>Points: 291</p>\n<p># Comments: 187</p>",
+            "url": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
+            "published": "Tue, 03 Nov 2026 21:39:05 +0000",
+            "fetched": "2026-11-04T05:29:32+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "When will we know the results?",
+            "description": "The first polls have closed, but it is possible the results will not be projected for several hours, days or even weeks.",
+            "url": "https://www.bbc.co.uk/news/articles/cq20321y2nlyo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 04 Nov 2026 00:56:05 GMT",
+            "fetched": "2026-11-04T05:29:32+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "US voters name economy and state of democracy as top issues, poll says",
+            "description": "A major election day survey suggests voters are the most unhappy with the economy.",
+            "url": "https://www.bbc.co.uk/news/articles/c39wz0970eypo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 04 Nov 2026 01:47:35 GMT",
+            "fetched": "2026-11-04T05:29:32+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "How the US midterm results could unfold - as millions of Americans head to the polls",
+            "description": "The BBC's North America correspondent considers three different scenarios, and what they would mean for the country.",
+            "url": "https://www.bbc.co.uk/news/articles/cq78pgn7em34o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 03 Nov 2026 10:32:56 GMT",
+            "fetched": "2026-11-04T05:29:32+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Kazakhstan releases second tiger into the wild",
+            "description": "Kazakhstan has released a second Siberian tiger, this time a male named Amur, into a nature reserve.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/kazakhstan-releases-second-tiger-into-the-wild?traffic_source=rss",
+            "published": "Wed, 04 Nov 2026 01:39:46 +0000",
+            "fetched": "2026-11-04T05:29:32+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Democrat Roy Cooper flips North Carolina US Senate seat",
+            "description": "Roy Cooper beat out Republican Michael Whatley.",
+            "url": "https://www.aljazeera.com/news/2026/11/4/democrat-roy-cooper-flips-north-carolina-us-senate-seat?traffic_source=rss",
+            "published": "Wed, 04 Nov 2026 01:36:33 +0000",
+            "fetched": "2026-11-04T05:29:32+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Scepticism as Trump says he’s ending Israel’s $3.8 bn military aid deal",
+            "description": "US President Donald Trump says he plans to stop the annual $3.8bn military aid package to Israel by the end of the year.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/scepticism-as-trump-says-hes-ending-israels-3-8-bn-military-aid-deal?traffic_source=rss",
+            "published": "Wed, 04 Nov 2026 01:13:49 +0000",
+            "fetched": "2026-11-04T05:29:32+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Murasu",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25964",
+            "published": "2026-11-01T00:00:00Z",
+            "fetched": "2026-11-04T05:29:32+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25984",
+            "published": "2026-10-30T10:13:00Z",
+            "fetched": "2026-11-04T05:29:32+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Iceberg B22K",
+            "description": "Natural event: Sea and Lake Ice",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25990",
+            "published": "2026-10-30T00:00:00Z",
+            "fetched": "2026-11-04T05:29:32+03:30"
+        }
+    ]
+}

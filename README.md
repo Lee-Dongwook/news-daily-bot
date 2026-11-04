@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-04 03:01:33
+**Last Update:** 2026-11-04 05:29:32
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.interdb.jp/pg/index.html">https://www.interdb.jp/pg/index.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50358702">https://news.ycombinator.com/item?id=50358702</a></p>
-<p>Points: 47</p>
-<p># Comments: 1</p>
+<p>Points: 112</p>
+<p># Comments: 2</p>
 
 🔗 **Read more:** [https://www.interdb.jp/pg/index.html](https://www.interdb.jp/pg/index.html)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://arxiv.org/abs/2605.29713">https://arxiv.org/abs/2605.29713</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50358582">https://news.ycombinator.com/item?id=50358582</a></p>
-<p>Points: 128</p>
-<p># Comments: 13</p>
+<p>Points: 231</p>
+<p># Comments: 37</p>
 
 🔗 **Read more:** [https://arxiv.org/abs/2605.29713](https://arxiv.org/abs/2605.29713)
 
@@ -51,36 +51,36 @@
 **Description:**
 <p>Article URL: <a href="https://webkit.org/blog/18541/introducing-adaptive-dark-mode/">https://webkit.org/blog/18541/introducing-adaptive-dark-mode/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50358562">https://news.ycombinator.com/item?id=50358562</a></p>
-<p>Points: 190</p>
-<p># Comments: 121</p>
+<p>Points: 291</p>
+<p># Comments: 187</p>
 
 🔗 **Read more:** [https://webkit.org/blog/18541/introducing-adaptive-dark-mode/](https://webkit.org/blog/18541/introducing-adaptive-dark-mode/)
 
 ---
 
-### 4. A simple guide to the midterms
+### 4. When will we know the results?
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-US voters will head to the polls on Tuesday in a ballot that could have a major impact on Donald Trump’s presidency.
+The first polls have closed, but it is possible the results will not be projected for several hours, days or even weeks.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6wyz223j19po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6wyz223j19po?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq20321y2nlyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq20321y2nlyo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. When will we know the results?
+### 5. US voters name economy and state of democracy as top issues, poll says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Once polls close, it is possible the results will not be projected for several hours, days or even weeks
+A major election day survey suggests voters are the most unhappy with the economy.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq20321y2nlyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq20321y2nlyo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c39wz0970eypo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c39wz0970eypo?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +97,42 @@ The BBC's North America correspondent considers three different scenarios, and w
 
 ---
 
-### 7. First polls close in pivotal US midterm elections
+### 7. Kazakhstan releases second tiger into the wild
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-With control of the US Congress on the line, results from Tuesday&#039;s races will have marked implications for the country.
+Kazakhstan has released a second Siberian tiger, this time a male named Amur, into a nature reserve.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/3/first-polls-close-in-pivotal-us-midterm-elections?traffic_source=rss](https://www.aljazeera.com/news/2026/11/3/first-polls-close-in-pivotal-us-midterm-elections?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/4/kazakhstan-releases-second-tiger-into-the-wild?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/4/kazakhstan-releases-second-tiger-into-the-wild?traffic_source=rss)
 
 ---
 
-### 8. US midterm election results live: Polls start closing in some states
+### 8. Democrat Roy Cooper flips North Carolina US Senate seat
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Polls to start closing in waves across the country, with the earliest closures at 23:00 GMT in Indiana and Kentucky.
+Roy Cooper beat out Republican Michael Whatley.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/11/3/us-midterm-election-results-live-polls-to-start-closing-in-some-states?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/11/3/us-midterm-election-results-live-polls-to-start-closing-in-some-states?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/4/democrat-roy-cooper-flips-north-carolina-us-senate-seat?traffic_source=rss](https://www.aljazeera.com/news/2026/11/4/democrat-roy-cooper-flips-north-carolina-us-senate-seat?traffic_source=rss)
 
 ---
 
-### 9. Raphinha, Lamal fire Barcelona to 3-0 Champions League win over Aston Villa
+### 9. Scepticism as Trump says he’s ending Israel’s $3.8 bn military aid deal
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Barca took early lead through Lamine Yamal before Raphinha continued fine goal-scoring form with a second-half brace.
+US President Donald Trump says he plans to stop the annual $3.8bn military aid package to Israel by the end of the year.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/3/raphinha-lamal-fire-barcelona-to-3-0-champions-league-win-over-aston-villa?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/3/raphinha-lamal-fire-barcelona-to-3-0-champions-league-win-over-aston-villa?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/4/scepticism-as-trump-says-hes-ending-israels-3-8-bn-military-aid-deal?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/4/scepticism-as-trump-says-hes-ending-israels-3-8-bn-military-aid-deal?traffic_source=rss)
 
 ---
 

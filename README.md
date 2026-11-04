@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-04 19:05:33
+**Last Update:** 2026-11-04 20:35:05
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Pierre Computer is being acquired by OpenAI
+### 1. 'It's just vape, nail, charity shops': Can anything save UK high street?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://twitter.com/pierrecomputer/status/2117999036175188183">https://twitter.com/pierrecomputer/status/2117999036175188183</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50366863">https://news.ycombinator.com/item?id=50366863</a></p>
-<p>Points: 6</p>
+<p>Article URL: <a href="https://www.theguardian.com/business/2026/nov/04/what-can-save-the-british-high-street-rotherham">https://www.theguardian.com/business/2026/nov/04/what-can-save-the-british-high-street-rotherham</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50367653">https://news.ycombinator.com/item?id=50367653</a></p>
+<p>Points: 39</p>
+<p># Comments: 55</p>
+
+🔗 **Read more:** [https://www.theguardian.com/business/2026/nov/04/what-can-save-the-british-high-street-rotherham](https://www.theguardian.com/business/2026/nov/04/what-can-save-the-british-high-street-rotherham)
+
+---
+
+### 2. AMD expects to outsell Intel in Q4 for the first time in history
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections">https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50367125">https://news.ycombinator.com/item?id=50367125</a></p>
+<p>Points: 75</p>
+<p># Comments: 19</p>
+
+🔗 **Read more:** [https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections](https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections)
+
+---
+
+### 3. Letting users trust their own MCP clients, without opening a phishing hole
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://streamvessel.com/blog/mcp-trusted-redirect-uris">https://streamvessel.com/blog/mcp-trusted-redirect-uris</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50367004">https://news.ycombinator.com/item?id=50367004</a></p>
+<p>Points: 15</p>
 <p># Comments: 2</p>
 
-🔗 **Read more:** [https://twitter.com/pierrecomputer/status/2117999036175188183](https://twitter.com/pierrecomputer/status/2117999036175188183)
-
----
-
-### 2. Adding Window Functions to a Spreadsheet
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.getgrist.com/blog/running-totals-you-dont-have-to-chase/">https://www.getgrist.com/blog/running-totals-you-dont-have-to-chase/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50366860">https://news.ycombinator.com/item?id=50366860</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://www.getgrist.com/blog/running-totals-you-dont-have-to-chase/](https://www.getgrist.com/blog/running-totals-you-dont-have-to-chase/)
-
----
-
-### 3. Coffee's new status symbol is a machine without plastic
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.cnn.com/2026/11/02/food/coffee-machine-plastic-free">https://www.cnn.com/2026/11/02/food/coffee-machine-plastic-free</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50366853">https://news.ycombinator.com/item?id=50366853</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://www.cnn.com/2026/11/02/food/coffee-machine-plastic-free](https://www.cnn.com/2026/11/02/food/coffee-machine-plastic-free)
+🔗 **Read more:** [https://streamvessel.com/blog/mcp-trusted-redirect-uris](https://streamvessel.com/blog/mcp-trusted-redirect-uris)
 
 ---
 
@@ -97,42 +97,42 @@ From angry voters to an unpopular president, here is why Americans in traditiona
 
 ---
 
-### 7. Iranian leaders welcome US midterms, but Trump may still attack
+### 7. Ukrainian strikes kill three in Russia’s Belgorod region
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Tehran views midterm results as a rejection of Trump&#039;s &#039;war on Iran&#039;, signalling US frustration with foreign policy.
+Russian strikes also cut power to Ukrainian cities as Moscow claims 700 Ukrainian drones downed across multiple regions.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/4/iranian-leaders-welcome-us-midterms-but-trump-may-still-attack?traffic_source=rss](https://www.aljazeera.com/news/2026/11/4/iranian-leaders-welcome-us-midterms-but-trump-may-still-attack?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/4/ukrainian-strikes-kill-three-in-russias-belgorod-region?traffic_source=rss](https://www.aljazeera.com/news/2026/11/4/ukrainian-strikes-kill-three-in-russias-belgorod-region?traffic_source=rss)
 
 ---
 
-### 8. Ice hockey federation reiterates opposition to reinstatement of Russia
+### 8. Democratic voters celebrate El-Sayed’s Michigan win in election ‘blue wave’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The CAS ruled last week to overturn governing body&#039;s exclusion of ‌Russia over its 2022 invasion of Ukraine.
+Democratic voters danced as they celebrated Abdul El-Sayed’s victory in Michigan.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/4/ice-hockey-federation-reiterates-opposition-to-reinstatement-of-russia?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/4/ice-hockey-federation-reiterates-opposition-to-reinstatement-of-russia?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/4/democratic-voters-celebrate-el-sayeds-michigan-win-in-election-blue?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/4/democratic-voters-celebrate-el-sayeds-michigan-win-in-election-blue?traffic_source=rss)
 
 ---
 
-### 9. Is Trump really a ‘lame duck’ after losing both houses of US Congress?
+### 9. US markets rise as Democrats sweep midterm elections
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Despite losing legislative control, the US president still has strong executive powers to push his agenda forward.
+Nasdaq, Dow, and S&amp;P 500 open higher after Democrats take control and Trump accepts results.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/4/is-trump-really-a-lame-duck-after-losing-both-houses-of-us-congress?traffic_source=rss](https://www.aljazeera.com/news/2026/11/4/is-trump-really-a-lame-duck-after-losing-both-houses-of-us-congress?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/11/4/us-markets-rise-as-democrats-sweep-midterm-elections?traffic_source=rss](https://www.aljazeera.com/economy/2026/11/4/us-markets-rise-as-democrats-sweep-midterm-elections?traffic_source=rss)
 
 ---
 

@@ -1,64 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-05 09:18:04
+**Last Update:** 2026-11-05 14:45:37
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Lemmings CSS Animation
+### 1. OpenSSH 10.6p2 has been released with a workaround for a critical vulnerability
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://markblah.github.io/lemmings/">https://markblah.github.io/lemmings/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50375354">https://news.ycombinator.com/item?id=50375354</a></p>
-<p>Points: 4</p>
+<p>Article URL: <a href="https://hachyderm.io/@damienmiller/117563026759098135">https://hachyderm.io/@damienmiller/117563026759098135</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50377221">https://news.ycombinator.com/item?id=50377221</a></p>
+<p>Points: 28</p>
+<p># Comments: 6</p>
+
+🔗 **Read more:** [https://hachyderm.io/@damienmiller/117563026759098135](https://hachyderm.io/@damienmiller/117563026759098135)
+
+---
+
+### 2. Baidu released ERNIE 5.5 Flash Base
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://ernie.baidu.com/release/ernie-5-5-flash-base/">https://ernie.baidu.com/release/ernie-5-5-flash-base/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50377078">https://news.ycombinator.com/item?id=50377078</a></p>
+<p>Points: 34</p>
+<p># Comments: 23</p>
+
+🔗 **Read more:** [https://ernie.baidu.com/release/ernie-5-5-flash-base/](https://ernie.baidu.com/release/ernie-5-5-flash-base/)
+
+---
+
+### 3. Being a kid making games in the early 2000s
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://jaytholen.net/teengamedev/">https://jaytholen.net/teengamedev/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50375691">https://news.ycombinator.com/item?id=50375691</a></p>
+<p>Points: 17</p>
 <p># Comments: 1</p>
 
-🔗 **Read more:** [https://markblah.github.io/lemmings/](https://markblah.github.io/lemmings/)
+🔗 **Read more:** [https://jaytholen.net/teengamedev/](https://jaytholen.net/teengamedev/)
 
 ---
 
-### 2. Starfall – Affordable, routine access to microgravity
+### 4. Married at First Sight UK cancelled after BBC revealed rape allegations
 
-**Source:** Hacker News
+**Source:** BBC
 
-**Category:** technology
+**Category:** world
 
 **Description:**
-<p>Article URL: <a href="https://www.spacex.com/starfall">https://www.spacex.com/starfall</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50373308">https://news.ycombinator.com/item?id=50373308</a></p>
-<p>Points: 172</p>
-<p># Comments: 106</p>
+Three women made allegations about the men they were partnered with. Channel 4 has apologised and said the show's budget would be reinvested  in "distinctive new programming".
 
-🔗 **Read more:** [https://www.spacex.com/starfall](https://www.spacex.com/starfall)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw33xm0de221o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw33xm0de221o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 3. Images 2.6
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://openai.com/index/introducing-images-2-6/">https://openai.com/index/introducing-images-2-6/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50372945">https://news.ycombinator.com/item?id=50372945</a></p>
-<p>Points: 197</p>
-<p># Comments: 134</p>
-
-🔗 **Read more:** [https://openai.com/index/introducing-images-2-6/](https://openai.com/index/introducing-images-2-6/)
-
----
-
-### 4. Vance walks Trump tightrope with scathing election critique blaming Iran war
+### 5. Vance walks Trump tightrope after blaming Iran war for election defeat
 
 **Source:** BBC
 
@@ -71,68 +84,55 @@ The vice-president's blunt assessment of Republican election defeat marked one o
 
 ---
 
-### 5. UK commits to 'time-bound' talks on slavery apology
+### 6. Cristiano Ronaldo retires from international football
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-British diplomats are looking to offer reassurance that there is a sense of urgency to deal with the issue, even if a date for doing so is not yet confirmed, Chris Mason writes.
+Portugal legend Cristiano Ronaldo says he is retiring from international football.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqdr872jkk7vo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqdr872jkk7vo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. The NHS is relying more on charities - and that might be creating problems for patients
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Is it symptom a health service at breaking point - or a positive way of involving the public?
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c65yn75g9d18o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c65yn75g9d18o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Zelenskyy hopes Democratic Congress will bring more US help for Ukraine
+### 7. Serbian officers arrested for using ‘excessive force’ against protesters
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-EU officials also urge new US Congress to step up pressure on Russia to end the four-and-a-half-year war.
+Ten suspects are accused of abusing and torturing several people in the garage of a government compound in Belgrade.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/5/zelenskyy-hopes-democratic-congress-will-bring-more-us-help-for-ukraine?traffic_source=rss](https://www.aljazeera.com/news/2026/11/5/zelenskyy-hopes-democratic-congress-will-bring-more-us-help-for-ukraine?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/5/serbian-officers-arrested-for-using-excessive-force-against-protesters?traffic_source=rss](https://www.aljazeera.com/news/2026/11/5/serbian-officers-arrested-for-using-excessive-force-against-protesters?traffic_source=rss)
 
 ---
 
-### 8. Mamdani: ‘it’s morning again in America’ after blue wave
+### 8. ‘Helpless’: The families facing winter in tents on the beach in Gaza
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-New York City Mayor Zohran Mamdani urged fellow Democrats to ‘fulfill promises’ after sweeping wins.
+An innovative idea to turn damaged cooking pots into seawater barriers is providing families in Gaza with some relief.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/5/mamdani-its-morning-again-in-america-after-blue-wave?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/5/mamdani-its-morning-again-in-america-after-blue-wave?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/11/5/helpless-the-families-facing-winter-in-tents-on-the-beach-in-gaza?traffic_source=rss](https://www.aljazeera.com/features/2026/11/5/helpless-the-families-facing-winter-in-tents-on-the-beach-in-gaza?traffic_source=rss)
 
 ---
 
-### 9. Brazilian airport torn apart by violent storm
+### 9. Congress defeat: How Trump’s allies are distancing themselves from Iran war
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Dramatic footage captured the moment a powerful tornado struck Chapecó Airport in Santa Catarina, Brazil
+US Vice President JD Vance blames the war for the midterm rout as Democrats prepare to use Congress to rein it in.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/5/brazilian-airport-torn-apart-by-violent-storm?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/5/brazilian-airport-torn-apart-by-violent-storm?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/5/congress-defeat-how-trumps-allies-are-distancing-themselves-from-iran-war?traffic_source=rss](https://www.aljazeera.com/news/2026/11/5/congress-defeat-how-trumps-allies-are-distancing-themselves-from-iran-war?traffic_source=rss)
 
 ---
 

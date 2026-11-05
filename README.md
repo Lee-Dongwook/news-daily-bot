@@ -1,42 +1,90 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-05 06:06:55
+**Last Update:** 2026-11-05 09:18:04
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Chris Mason: The US elections will change Trump - how will Burnham react?
+### 1. Lemmings CSS Animation
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://markblah.github.io/lemmings/">https://markblah.github.io/lemmings/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50375354">https://news.ycombinator.com/item?id=50375354</a></p>
+<p>Points: 4</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://markblah.github.io/lemmings/](https://markblah.github.io/lemmings/)
+
+---
+
+### 2. Starfall – Affordable, routine access to microgravity
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.spacex.com/starfall">https://www.spacex.com/starfall</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50373308">https://news.ycombinator.com/item?id=50373308</a></p>
+<p>Points: 172</p>
+<p># Comments: 106</p>
+
+🔗 **Read more:** [https://www.spacex.com/starfall](https://www.spacex.com/starfall)
+
+---
+
+### 3. Images 2.6
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://openai.com/index/introducing-images-2-6/">https://openai.com/index/introducing-images-2-6/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50372945">https://news.ycombinator.com/item?id=50372945</a></p>
+<p>Points: 197</p>
+<p># Comments: 134</p>
+
+🔗 **Read more:** [https://openai.com/index/introducing-images-2-6/](https://openai.com/index/introducing-images-2-6/)
+
+---
+
+### 4. Vance walks Trump tightrope with scathing election critique blaming Iran war
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The big question for the British government is does defeat at home make it more likely that President Trump gets angrier abroad?
+The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c615j8pw1y81o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c615j8pw1y81o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 2. Pound rises to its highest level since the Brexit referendum
+### 5. UK commits to 'time-bound' talks on slavery apology
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Pound reaches highest level against a basket of currencies since the Brexit referendum a decade ago
+British diplomats are looking to offer reassurance that there is a sense of urgency to deal with the issue, even if a date for doing so is not yet confirmed, Chris Mason writes.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqdr872jkk7vo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqdr872jkk7vo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 3. The NHS is relying more on charities - and that might be creating problems for patients
+### 6. The NHS is relying more on charities - and that might be creating problems for patients
 
 **Source:** BBC
 
@@ -49,46 +97,46 @@ Is it symptom a health service at breaking point - or a positive way of involvin
 
 ---
 
-### 4. Israel’s Herzog accepts vote results, opens talks on forming a government
+### 7. Zelenskyy hopes Democratic Congress will bring more US help for Ukraine
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Move deals blow to Netanyahu&#039;s efforts to discredit the elections, in which he and his allies lost their majority.
+EU officials also urge new US Congress to step up pressure on Russia to end the four-and-a-half-year war.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/5/israels-herzog-accepts-vote-results-opens-talks-on-forming-a-government?traffic_source=rss](https://www.aljazeera.com/news/2026/11/5/israels-herzog-accepts-vote-results-opens-talks-on-forming-a-government?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/5/zelenskyy-hopes-democratic-congress-will-bring-more-us-help-for-ukraine?traffic_source=rss](https://www.aljazeera.com/news/2026/11/5/zelenskyy-hopes-democratic-congress-will-bring-more-us-help-for-ukraine?traffic_source=rss)
 
 ---
 
-### 5. Africa’s richest man launches mega oil tank farm in Namibia
+### 8. Mamdani: ‘it’s morning again in America’ after blue wave
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Nigerian billionaire Aliko Dangote launched a fuel storage facility in Namibia to future-proof Southern Africa&#039;s supply.
+New York City Mayor Zohran Mamdani urged fellow Democrats to ‘fulfill promises’ after sweeping wins.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/5/africas-richest-man-launches-mega-oil-tank-farm-in-namibia?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/5/africas-richest-man-launches-mega-oil-tank-farm-in-namibia?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/5/mamdani-its-morning-again-in-america-after-blue-wave?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/5/mamdani-its-morning-again-in-america-after-blue-wave?traffic_source=rss)
 
 ---
 
-### 6. Ohio’s voters tell Republicans: don’t take us for granted
+### 9. Brazilian airport torn apart by violent storm
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Democrats flipped a Senate seat and recaptured the governor’s mansion in Ohio.
+Dramatic footage captured the moment a powerful tornado struck Chapecó Airport in Santa Catarina, Brazil
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/5/ohios-voters-tell-republicans-dont-take-us-for-granted?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/5/ohios-voters-tell-republicans-dont-take-us-for-granted?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/5/brazilian-airport-torn-apart-by-violent-storm?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/5/brazilian-airport-torn-apart-by-violent-storm?traffic_source=rss)
 
 ---
 
-### 7. Tropical Cyclone Murasu
+### 10. Tropical Cyclone Murasu
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Severe Storms
 
 ---
 
-### 8. Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona
+### 11. Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Wildfires
 
 ---
 
-### 9. Iceberg B22K
+### 12. Iceberg B22K
 
 **Source:** NASA
 

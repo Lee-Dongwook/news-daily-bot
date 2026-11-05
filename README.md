@@ -1,64 +1,29 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-05 14:45:37
+**Last Update:** 2026-11-05 17:48:52
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. OpenSSH 10.6p2 has been released with a workaround for a critical vulnerability
+### 1. Faisal Islam: How high will interest rates go?
 
-**Source:** Hacker News
+**Source:** BBC
 
-**Category:** technology
+**Category:** world
 
 **Description:**
-<p>Article URL: <a href="https://hachyderm.io/@damienmiller/117563026759098135">https://hachyderm.io/@damienmiller/117563026759098135</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50377221">https://news.ycombinator.com/item?id=50377221</a></p>
-<p>Points: 28</p>
-<p># Comments: 6</p>
+The BBC's economics editor views one more interest rate as likely, but thinks that will be all.
 
-🔗 **Read more:** [https://hachyderm.io/@damienmiller/117563026759098135](https://hachyderm.io/@damienmiller/117563026759098135)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckr5y0y37gv3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckr5y0y37gv3o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 2. Baidu released ERNIE 5.5 Flash Base
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://ernie.baidu.com/release/ernie-5-5-flash-base/">https://ernie.baidu.com/release/ernie-5-5-flash-base/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50377078">https://news.ycombinator.com/item?id=50377078</a></p>
-<p>Points: 34</p>
-<p># Comments: 23</p>
-
-🔗 **Read more:** [https://ernie.baidu.com/release/ernie-5-5-flash-base/](https://ernie.baidu.com/release/ernie-5-5-flash-base/)
-
----
-
-### 3. Being a kid making games in the early 2000s
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://jaytholen.net/teengamedev/">https://jaytholen.net/teengamedev/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50375691">https://news.ycombinator.com/item?id=50375691</a></p>
-<p>Points: 17</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://jaytholen.net/teengamedev/](https://jaytholen.net/teengamedev/)
-
----
-
-### 4. Married at First Sight UK cancelled after BBC revealed rape allegations
+### 2. Married at First Sight UK cancelled after BBC revealed rape allegations
 
 **Source:** BBC
 
@@ -71,72 +36,59 @@ Three women made allegations about the men they were partnered with. Channel 4 h
 
 ---
 
-### 5. Vance walks Trump tightrope after blaming Iran war for election defeat
+### 3. Could this be the last Bonfire Night for noisy fireworks at home?
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory.
+About 20 million people enjoy fireworks at home every year, but some campaigners want quieter displays.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Cristiano Ronaldo retires from international football
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Portugal legend Cristiano Ronaldo says he is retiring from international football.
-
-🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crp3gk07850zo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crp3gk07850zo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Serbian officers arrested for using ‘excessive force’ against protesters
+### 4. What can Democrats do in Congress under President Trump?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ten suspects are accused of abusing and torturing several people in the garage of a government compound in Belgrade.
+What can the Democratic party actually change when it comes to Donald Trump’s decisions, policies and presidency?
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/5/serbian-officers-arrested-for-using-excessive-force-against-protesters?traffic_source=rss](https://www.aljazeera.com/news/2026/11/5/serbian-officers-arrested-for-using-excessive-force-against-protesters?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/5/what-can-democrats-do-in-congress-under-president-trump?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/5/what-can-democrats-do-in-congress-under-president-trump?traffic_source=rss)
 
 ---
 
-### 8. ‘Helpless’: The families facing winter in tents on the beach in Gaza
+### 5. Indonesia rushes thousands of troops to Jakarta amid wiretap scandal
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-An innovative idea to turn damaged cooking pots into seawater barriers is providing families in Gaza with some relief.
+Indonesia is deploying thousands of troops in Jakarta amid an alleged wiretapping scandal targeting the president.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/11/5/helpless-the-families-facing-winter-in-tents-on-the-beach-in-gaza?traffic_source=rss](https://www.aljazeera.com/features/2026/11/5/helpless-the-families-facing-winter-in-tents-on-the-beach-in-gaza?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/5/indonesia-rushes-thousands-of-troops-to-jakarta-amid-wiretap-scandal?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/5/indonesia-rushes-thousands-of-troops-to-jakarta-amid-wiretap-scandal?traffic_source=rss)
 
 ---
 
-### 9. Congress defeat: How Trump’s allies are distancing themselves from Iran war
+### 6. Police bodycam captures moments before deadly Russian strike in Ukraine
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US Vice President JD Vance blames the war for the midterm rout as Democrats prepare to use Congress to rein it in.
+Bodycam footage released by Ukraine’s National Police shows people rushing into an underground shelter.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/5/congress-defeat-how-trumps-allies-are-distancing-themselves-from-iran-war?traffic_source=rss](https://www.aljazeera.com/news/2026/11/5/congress-defeat-how-trumps-allies-are-distancing-themselves-from-iran-war?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/5/police-bodycam-captures-moments-before-deadly-russian-strike-in-ukraine?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/5/police-bodycam-captures-moments-before-deadly-russian-strike-in-ukraine?traffic_source=rss)
 
 ---
 
-### 10. Tropical Cyclone Murasu
+### 7. Tropical Cyclone Murasu
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Severe Storms
 
 ---
 
-### 11. Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona
+### 8. Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Iceberg B22K
+### 9. Iceberg B22K
 
 **Source:** NASA
 

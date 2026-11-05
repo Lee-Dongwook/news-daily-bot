@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-11-05T17:48:52+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Faisal Islam: How high will interest rates go?",
+            "description": "The BBC's economics editor views one more interest rate as likely, but thinks that will be all.",
+            "url": "https://www.bbc.co.uk/news/articles/ckr5y0y37gv3o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 05 Nov 2026 13:17:10 GMT",
+            "fetched": "2026-11-05T17:48:52+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Married at First Sight UK cancelled after BBC revealed rape allegations",
+            "description": "Three women made allegations about the men they were partnered with. Channel 4 has apologised and said the show's budget would be reinvested  in \"distinctive new programming\".",
+            "url": "https://www.bbc.co.uk/news/articles/cw33xm0de221o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 05 Nov 2026 12:26:24 GMT",
+            "fetched": "2026-11-05T17:48:52+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Could this be the last Bonfire Night for noisy fireworks at home?",
+            "description": "About 20 million people enjoy fireworks at home every year, but some campaigners want quieter displays.",
+            "url": "https://www.bbc.co.uk/news/articles/crp3gk07850zo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 05 Nov 2026 13:24:26 GMT",
+            "fetched": "2026-11-05T17:48:52+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "What can Democrats do in Congress under President Trump?",
+            "description": "What can the Democratic party actually change when it comes to Donald Trump’s decisions, policies and presidency?",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/what-can-democrats-do-in-congress-under-president-trump?traffic_source=rss",
+            "published": "Thu, 05 Nov 2026 13:43:56 +0000",
+            "fetched": "2026-11-05T17:48:52+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Indonesia rushes thousands of troops to Jakarta amid wiretap scandal",
+            "description": "Indonesia is deploying thousands of troops in Jakarta amid an alleged wiretapping scandal targeting the president.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/indonesia-rushes-thousands-of-troops-to-jakarta-amid-wiretap-scandal?traffic_source=rss",
+            "published": "Thu, 05 Nov 2026 13:41:24 +0000",
+            "fetched": "2026-11-05T17:48:52+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Police bodycam captures moments before deadly Russian strike in Ukraine",
+            "description": "Bodycam footage released by Ukraine’s National Police shows people rushing into an underground shelter.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/police-bodycam-captures-moments-before-deadly-russian-strike-in-ukraine?traffic_source=rss",
+            "published": "Thu, 05 Nov 2026 13:28:12 +0000",
+            "fetched": "2026-11-05T17:48:52+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Murasu",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25964",
+            "published": "2026-11-01T00:00:00Z",
+            "fetched": "2026-11-05T17:48:52+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25984",
+            "published": "2026-10-30T10:13:00Z",
+            "fetched": "2026-11-05T17:48:52+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Iceberg B22K",
+            "description": "Natural event: Sea and Lake Ice",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25990",
+            "published": "2026-10-30T00:00:00Z",
+            "fetched": "2026-11-05T17:48:52+03:30"
+        }
+    ]
+}

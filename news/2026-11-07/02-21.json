@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-07T02:21:42+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "AI is dramatically accelerating AI research",
+            "description": "<p>Article URL: <a href=\"https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai\">https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50397994\">https://news.ycombinator.com/item?id=50397994</a></p>\n<p>Points: 108</p>\n<p># Comments: 58</p>",
+            "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+            "published": "Fri, 06 Nov 2026 20:27:23 +0000",
+            "fetched": "2026-11-07T02:21:42+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+            "description": "<p>Article URL: <a href=\"https://hightouch.com/blog/llm-judges-identity-resolution\">https://hightouch.com/blog/llm-judges-identity-resolution</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50397429\">https://news.ycombinator.com/item?id=50397429</a></p>\n<p>Points: 210</p>\n<p># Comments: 44</p>",
+            "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
+            "published": "Fri, 06 Nov 2026 19:48:51 +0000",
+            "fetched": "2026-11-07T02:21:42+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Agents infer Lego mechanisms from sources, then animate them",
+            "description": "<p>Hi there :)<p>Around a month ago, I released LDraw Nova, an agentic toolset for assembling LEGO CAD models by generating LDraw source code files.<p>For more details, here's the Show HN post:<p><a href=\"https://news.ycombinator.com/item?id=49937916\">https://news.ycombinator.com/item?id=49937916</a><p>From the comments, I got the impression that there was quite an interest in seeing not only AI-generated LEGO models, but also AI-animated LEGO ones.<p>I took a look at results from past experiments, and found it feasible to use agentic LLMs for:<p>- analyzing the LDraw source code for LEGO models\n- reverse-engineer! the mechanisms present by reading the descriptions and sequence for the parts there\n- and then, animate them via Blender!<p>This new project I'm presenting, LDraw Mecha, is the end result and proof that can be done:<p>- Read specially annotated LDraw LEGO models .mpd source files\n- Infer the model structure in terms of submodels\n- Select from those the ones that are mechanisms\n- Plan animations\n- Execute them in Blender<p>In summary, from an initial .mpd source file, get a rigged and animated version for the model as a Blender (.blend) file.<p>See the results here:<p>- Repo (v0.5.0): <a href=\"https://github.com/anteloc/ldraw-mecha/tree/v0.5.0\" rel=\"nofollow\">https://github.com/anteloc/ldraw-mecha/tree/v0.5.0</a>\n- Gallery: <a href=\"https://github.com/anteloc/ldraw-mecha/blob/v0.5.0/GALLERY.md\" rel=\"nofollow\">https://github.com/anteloc/ldraw-mecha/blob/v0.5.0/GALLERY.m...</a>\n- Process: <a href=\"https://github.com/anteloc/ldraw-mecha/blob/v0.5.0/PROCESS.md\" rel=\"nofollow\">https://github.com/anteloc/ldraw-mecha/blob/v0.5.0/PROCESS.m...</a><p>This project is very unusual, I'd really appreciate some feedback from the community.<p>Cheers!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50397325\">https://news.ycombinator.com/item?id=50397325</a></p>\n<p>Points: 19</p>\n<p># Comments: 0</p>",
+            "url": "https://github.com/anteloc/ldraw-mecha/tree/v0.5.0",
+            "published": "Fri, 06 Nov 2026 19:41:20 +0000",
+            "fetched": "2026-11-07T02:21:42+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Meghan's father Thomas Markle appears in court over child sex abuse material",
+            "description": "The 82-year-old was arrested in Florida after the FBI searched two Los Angeles-area storage units he rented.",
+            "url": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 06 Nov 2026 21:26:56 GMT",
+            "fetched": "2026-11-07T02:21:42+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Brand's barrister refers himself to regulator after report he confronted journalist",
+            "description": "Ian Winter allegedly confronted a reporter outside court who had investigated the comedian.",
+            "url": "https://www.bbc.co.uk/news/articles/c8kgee9yxvn7o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 06 Nov 2026 16:49:31 GMT",
+            "fetched": "2026-11-07T02:21:42+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "How 2000s lad culture helped Russell Brand to hide in plain sight",
+            "description": "The behaviour that formed the backdrop to Brand's prosecution also helped elevate him, writes the BBC's media editor Katie Razzall.",
+            "url": "https://www.bbc.co.uk/news/articles/cm4g1jqwylvgo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 06 Nov 2026 12:16:44 GMT",
+            "fetched": "2026-11-07T02:21:42+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Palestinian couples tie the knot in mass wedding in Gaza",
+            "description": "The event brought 250 couples together to celebrate love and new beginnings despite Israel’s genocidal war on Gaza.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/palestinian-couples-tie-the-knot-in-mass-wedding-in-gaza?traffic_source=rss",
+            "published": "Fri, 06 Nov 2026 21:37:30 +0000",
+            "fetched": "2026-11-07T02:21:42+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Who is Stephen Miller, Trump’s new White House chief of staff?",
+            "description": "Miller has been a close confidant of Trump since 2016 and an architect of the president&#039;s hardline immigration policies.",
+            "url": "https://www.aljazeera.com/news/2026/11/6/who-is-stephen-miller-trumps-new-white-house-chief-of-staff?traffic_source=rss",
+            "published": "Fri, 06 Nov 2026 21:22:57 +0000",
+            "fetched": "2026-11-07T02:21:42+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Protesters break into Microsoft data centre site in Amsterdam",
+            "description": "Data centres face protests across Europe due to the massive amounts of computing power and water they use.",
+            "url": "https://www.aljazeera.com/news/2026/11/6/protesters-break-into-microsoft-data-centre-site-in-amsterdam?traffic_source=rss",
+            "published": "Fri, 06 Nov 2026 21:04:40 +0000",
+            "fetched": "2026-11-07T02:21:42+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Wild River, Coos, New Hampshire",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26057",
+            "published": "2026-11-02T07:58:00Z",
+            "fetched": "2026-11-07T02:21:42+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Murasu",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25964",
+            "published": "2026-11-01T00:00:00Z",
+            "fetched": "2026-11-07T02:21:42+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25984",
+            "published": "2026-10-30T10:13:00Z",
+            "fetched": "2026-11-07T02:21:42+03:30"
+        }
+    ]
+}

@@ -1,69 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-07 02:21:42
+**Last Update:** 2026-11-07 04:29:48
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** BBC, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. AI is dramatically accelerating AI research
+### 1. Libghostty 1.0
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai">https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50397994">https://news.ycombinator.com/item?id=50397994</a></p>
-<p>Points: 108</p>
-<p># Comments: 58</p>
+<p>Article URL: <a href="https://mitchellh.com/writing/libghostty-1-0">https://mitchellh.com/writing/libghostty-1-0</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50399933">https://news.ycombinator.com/item?id=50399933</a></p>
+<p>Points: 33</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai](https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai)
+🔗 **Read more:** [https://mitchellh.com/writing/libghostty-1-0](https://mitchellh.com/writing/libghostty-1-0)
 
 ---
 
-### 2. A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost
+### 2. Outbound SIP calling is now available to all organizations
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://hightouch.com/blog/llm-judges-identity-resolution">https://hightouch.com/blog/llm-judges-identity-resolution</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50397429">https://news.ycombinator.com/item?id=50397429</a></p>
-<p>Points: 210</p>
-<p># Comments: 44</p>
+<p>Article URL: <a href="https://developers.openai.com/api/docs/guides/voice-sip">https://developers.openai.com/api/docs/guides/voice-sip</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50399695">https://news.ycombinator.com/item?id=50399695</a></p>
+<p>Points: 15</p>
+<p># Comments: 9</p>
 
-🔗 **Read more:** [https://hightouch.com/blog/llm-judges-identity-resolution](https://hightouch.com/blog/llm-judges-identity-resolution)
+🔗 **Read more:** [https://developers.openai.com/api/docs/guides/voice-sip](https://developers.openai.com/api/docs/guides/voice-sip)
 
 ---
 
-### 3. Show HN: Agents infer Lego mechanisms from sources, then animate them
+### 3. CATL Sodium Battery Hits LFP Cost Parity in 2026: 15,000 Cycles, 30-Year Life
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Hi there :)<p>Around a month ago, I released LDraw Nova, an agentic toolset for assembling LEGO CAD models by generating LDraw source code files.<p>For more details, here's the Show HN post:<p><a href="https://news.ycombinator.com/item?id=49937916">https://news.ycombinator.com/item?id=49937916</a><p>From the comments, I got the impression that there was quite an interest in seeing not only AI-generated LEGO models, but also AI-animated LEGO ones.<p>I took a look at results from past experiments, and found it feasible to use agentic LLMs for:<p>- analyzing the LDraw source code for LEGO models
-- reverse-engineer! the mechanisms present by reading the descriptions and sequence for the parts there
-- and then, animate them via Blender!<p>This new project I'm presenting, LDraw Mecha, is the end result and proof that can be done:<p>- Read specially annotated LDraw LEGO models .mpd source files
-- Infer the model structure in terms of submodels
-- Select from those the ones that are mechanisms
-- Plan animations
-- Execute them in Blender<p>In summary, from an initial .mpd source file, get a rigged and animated version for the model as a Blender (.blend) file.<p>See the results here:<p>- Repo (v0.5.0): <a href="https://github.com/anteloc/ldraw-mecha/tree/v0.5.0" rel="nofollow">https://github.com/anteloc/ldraw-mecha/tree/v0.5.0</a>
-- Gallery: <a href="https://github.com/anteloc/ldraw-mecha/blob/v0.5.0/GALLERY.md" rel="nofollow">https://github.com/anteloc/ldraw-mecha/blob/v0.5.0/GALLERY.m...</a>
-- Process: <a href="https://github.com/anteloc/ldraw-mecha/blob/v0.5.0/PROCESS.md" rel="nofollow">https://github.com/anteloc/ldraw-mecha/blob/v0.5.0/PROCESS.m...</a><p>This project is very unusual, I'd really appreciate some feedback from the community.<p>Cheers!</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50397325">https://news.ycombinator.com/item?id=50397325</a></p>
-<p>Points: 19</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://ievchina.com/energy-storage/catl-sodium-battery-cost-parity-lfp-2026-15000-cycles/">https://ievchina.com/energy-storage/catl-sodium-battery-cost-parity-lfp-2026-15000-cycles/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50399657">https://news.ycombinator.com/item?id=50399657</a></p>
+<p>Points: 98</p>
+<p># Comments: 39</p>
 
-🔗 **Read more:** [https://github.com/anteloc/ldraw-mecha/tree/v0.5.0](https://github.com/anteloc/ldraw-mecha/tree/v0.5.0)
+🔗 **Read more:** [https://ievchina.com/energy-storage/catl-sodium-battery-cost-parity-lfp-2026-15000-cycles/](https://ievchina.com/energy-storage/catl-sodium-battery-cost-parity-lfp-2026-15000-cycles/)
 
 ---
 
@@ -106,81 +97,42 @@ The behaviour that formed the backdrop to Brand's prosecution also helped elevat
 
 ---
 
-### 7. Palestinian couples tie the knot in mass wedding in Gaza
+### 7. Paraguay’s Santiago Pena under arrest, new president Pedro Alliana sworn in
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The event brought 250 couples together to celebrate love and new beginnings despite Israel’s genocidal war on Gaza.
+The sudden leadership change comes as Paraguay reels from the collapse of the Ueno Bank, a popular lender.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/6/palestinian-couples-tie-the-knot-in-mass-wedding-in-gaza?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/6/palestinian-couples-tie-the-knot-in-mass-wedding-in-gaza?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/7/paraguays-santiago-pena-under-arrest-new-president-pedro-alliana-sworn-in?traffic_source=rss](https://www.aljazeera.com/news/2026/11/7/paraguays-santiago-pena-under-arrest-new-president-pedro-alliana-sworn-in?traffic_source=rss)
 
 ---
 
-### 8. Who is Stephen Miller, Trump’s new White House chief of staff?
+### 8. MTG warns Miller-Wiles shakeup will sink Republican chances in 2028
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Miller has been a close confidant of Trump since 2016 and an architect of the president&#039;s hardline immigration policies.
+Marjorie Taylor Greene says Trump&#039;s White House personnel shuffle will sink the party’s next presidential campaign.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/6/who-is-stephen-miller-trumps-new-white-house-chief-of-staff?traffic_source=rss](https://www.aljazeera.com/news/2026/11/6/who-is-stephen-miller-trumps-new-white-house-chief-of-staff?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/7/aje-onl-nf_mtg-warns-white-house-shakeup-sink-republican-2028-061126?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/7/aje-onl-nf_mtg-warns-white-house-shakeup-sink-republican-2028-061126?traffic_source=rss)
 
 ---
 
-### 9. Protesters break into Microsoft data centre site in Amsterdam
+### 9. Iran war live: Qatar says US, Iran should not wait to reach a peace deal
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Data centres face protests across Europe due to the massive amounts of computing power and water they use.
+Qatar&#039;s prime minister urges the US and Iran not to wait for a &#039;perfect moment&#039; to reach a deal to end the war.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/6/protesters-break-into-microsoft-data-centre-site-in-amsterdam?traffic_source=rss](https://www.aljazeera.com/news/2026/11/6/protesters-break-into-microsoft-data-centre-site-in-amsterdam?traffic_source=rss)
-
----
-
-### 10. Wildfire Wild River, Coos, New Hampshire
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26057](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26057)
-
----
-
-### 11. Tropical Cyclone Murasu
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25964](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25964)
-
----
-
-### 12. Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25984](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25984)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/11/7/iran-war-live-qatar-says-us-iran-should-not-wait-to-reach-a-peace-deal?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/11/7/iran-war-live-qatar-says-us-iran-should-not-wait-to-reach-a-peace-deal?traffic_source=rss)
 
 ---
 

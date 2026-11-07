@@ -1,90 +1,90 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-07 13:14:59
+**Last Update:** 2026-11-07 17:44:20
 
 **Total News:** 9
 
-**Sources:** BBC, Al Jazeera, NASA
+**Sources:** Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Meghan's father Thomas Markle under house arrest after child sex abuse material charge
+### 1. UK cannot 'cherry pick' EU single market deal, Barnier tells BBC
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The 82-year-old appeared in court in Florida after the FBI searched two Los Angeles-area storage units he rented.
+The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules "a la carte".
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 2. With Stephen Miller pick as new chief of staff, Trump readies for a battle
+### 2. Victims in rape cases must not feel like they are on trial, Burnham says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.
+The PM was responding after a police chief said comments made during Russell Brand's trial came close to "victim blaming".
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crgj99j8y998o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crgj99j8y998o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 3. Paraguay's president impeached after collapse of bank
+### 3. Two men arrested after boy injured in sword attack
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.
+Police say a 17-year-old suffered a wound "believed to have been caused by a sword" in Gloucester on Friday.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmwy99yzd0v9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmwy99yzd0v9o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. China’s e-bikes boom as fuel prices rise
+### 4. New Zealand’s prime minister says election is ‘too close to call’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-E-bikes manufacturers in China are are now looking to expand to markets abroad as fuel prices stay high.
+New Zealand prime minister Christopher Luxon says he has a pathway to form the next government.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/7/chinas-e-bikes-boom-as-fuel-prices-rise?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/7/chinas-e-bikes-boom-as-fuel-prices-rise?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/7/new-zealands-prime-minister-says-election-is-too-close-to?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/7/new-zealands-prime-minister-says-election-is-too-close-to?traffic_source=rss)
 
 ---
 
-### 5. US Senator Abdul El-Sayed launches ‘Habibi’ political action committee
+### 5. Who is Hakeem Jeffries, the Democrat poised to become House speaker?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The first Muslim senator&#039;s new committee will let him raise money for other candidates.
+Likely to become the first Black House speaker, Jeffries faces pressure from progressives over Trump and Israel.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/7/el-sayed-launches-habibi-pac-days-after-historic-michigan-senate-win?traffic_source=rss](https://www.aljazeera.com/news/2026/11/7/el-sayed-launches-habibi-pac-days-after-historic-michigan-senate-win?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/7/who-is-hakeem-jeffries-the-democrat-poised-to-become-house-speaker?traffic_source=rss](https://www.aljazeera.com/news/2026/11/7/who-is-hakeem-jeffries-the-democrat-poised-to-become-house-speaker?traffic_source=rss)
 
 ---
 
-### 6. Will Trump strike nuclear sites again as Iran engages ‘cognitive warfare’?
+### 6. ‘Radical’ or ‘hero’?: France debates leftist candidate Jean-Luc Melenchon
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The US president has been sending mixed messages after his party suffered a defeat at the midterm elections.
+The hard-left leader has transformed into a real contender in next year presidential elections.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/7/will-trump-strike-nuclear-sites-again-as-iran-engages-cognitive?traffic_source=rss](https://www.aljazeera.com/news/2026/11/7/will-trump-strike-nuclear-sites-again-as-iran-engages-cognitive?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/7/radical-or-hero-france-debates-leftist-candidate-jean-luc-melenchon?traffic_source=rss](https://www.aljazeera.com/news/2026/11/7/radical-or-hero-france-debates-leftist-candidate-jean-luc-melenchon?traffic_source=rss)
 
 ---
 

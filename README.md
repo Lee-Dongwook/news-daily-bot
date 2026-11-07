@@ -1,77 +1,29 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-07 10:54:35
+**Last Update:** 2026-11-07 13:14:59
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. The Components of Agent Memory
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.anthropic.com/research/components-of-agent-memory">https://www.anthropic.com/research/components-of-agent-memory</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50402212">https://news.ycombinator.com/item?id=50402212</a></p>
-<p>Points: 4</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://www.anthropic.com/research/components-of-agent-memory](https://www.anthropic.com/research/components-of-agent-memory)
-
----
-
-### 2. Asahi Linux Progress Linux 7.3
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://asahilinux.org/2026/11/progress-report-7-3/">https://asahilinux.org/2026/11/progress-report-7-3/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50401867">https://news.ycombinator.com/item?id=50401867</a></p>
-<p>Points: 69</p>
-<p># Comments: 31</p>
-
-🔗 **Read more:** [https://asahilinux.org/2026/11/progress-report-7-3/](https://asahilinux.org/2026/11/progress-report-7-3/)
-
----
-
-### 3. A barbarian tribe's mythic origin story is true, ancient DNA reveals
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals">https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50401740">https://news.ycombinator.com/item?id=50401740</a></p>
-<p>Points: 45</p>
-<p># Comments: 12</p>
-
-🔗 **Read more:** [https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals](https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals)
-
----
-
-### 4. Meghan's father Thomas Markle appears in court over child sex abuse material
+### 1. Meghan's father Thomas Markle under house arrest after child sex abuse material charge
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The 82-year-old was arrested in Florida after the FBI searched two Los Angeles-area storage units he rented.
+The 82-year-old appeared in court in Florida after the FBI searched two Los Angeles-area storage units he rented.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. With Stephen Miller pick as new chief of staff, Trump readies for a battle
+### 2. With Stephen Miller pick as new chief of staff, Trump readies for a battle
 
 **Source:** BBC
 
@@ -84,59 +36,59 @@ The US president's promotion of Miller, a loyal partisan firebrand to be his new
 
 ---
 
-### 6. Brand's barrister refers himself to regulator after report he confronted journalist
+### 3. Paraguay's president impeached after collapse of bank
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Ian Winter allegedly confronted a reporter outside court who had investigated the comedian.
+Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c8kgee9yxvn7o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c8kgee9yxvn7o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Qatari PM says US willing to seek solution to war with Iran
+### 4. China’s e-bikes boom as fuel prices rise
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Qatari PM says US willing to seek solution to war with Iran
+E-bikes manufacturers in China are are now looking to expand to markets abroad as fuel prices stay high.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/7/qatari-pm-says-us-willing-to-seek-solution-to-war-with-iran?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/7/qatari-pm-says-us-willing-to-seek-solution-to-war-with-iran?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/7/chinas-e-bikes-boom-as-fuel-prices-rise?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/7/chinas-e-bikes-boom-as-fuel-prices-rise?traffic_source=rss)
 
 ---
 
-### 8. WTA apologises to Pegula for broadcast of ‘diva’ comment about Andreeva
+### 5. US Senator Abdul El-Sayed launches ‘Habibi’ political action committee
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Pegula&#039;s conversation with her coach on a practice court at Indian Wells was broadcast on a WTA YouTube livestream.
+The first Muslim senator&#039;s new committee will let him raise money for other candidates.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/7/jessica-pegula-mirra-andreeva-diva-comment-wta-finals-tennis?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/7/jessica-pegula-mirra-andreeva-diva-comment-wta-finals-tennis?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/7/el-sayed-launches-habibi-pac-days-after-historic-michigan-senate-win?traffic_source=rss](https://www.aljazeera.com/news/2026/11/7/el-sayed-launches-habibi-pac-days-after-historic-michigan-senate-win?traffic_source=rss)
 
 ---
 
-### 9. Trump confirms US strikes in Iran, insists ‘it’s not a war’
+### 6. Will Trump strike nuclear sites again as Iran engages ‘cognitive warfare’?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US President Donald Trump said America has carried out ‘minor strikes’ on Iran’s Qeshm Island.
+The US president has been sending mixed messages after his party suffered a defeat at the midterm elections.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/7/trump-confirms-us-strikes-in-iran-insists-its-not-a?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/7/trump-confirms-us-strikes-in-iran-insists-its-not-a?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/7/will-trump-strike-nuclear-sites-again-as-iran-engages-cognitive?traffic_source=rss](https://www.aljazeera.com/news/2026/11/7/will-trump-strike-nuclear-sites-again-as-iran-engages-cognitive?traffic_source=rss)
 
 ---
 
-### 10. Wildfire Wild River, Coos, New Hampshire
+### 7. Wildfire Wild River, Coos, New Hampshire
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Wildfires
 
 ---
 
-### 11. Tropical Cyclone Murasu
+### 8. Tropical Cyclone Murasu
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Severe Storms
 
 ---
 
-### 12. Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona
+### 9. Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona
 
 **Source:** NASA
 

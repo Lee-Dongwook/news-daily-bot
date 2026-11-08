@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-08 20:38:48
+**Last Update:** 2026-11-08 22:54:49
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. "RAM Altman"= Linux script emailing Altman daily on how much RAM left on your PC
+### 1. Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/">https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50414839">https://news.ycombinator.com/item?id=50414839</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c">https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50415817">https://news.ycombinator.com/item?id=50415817</a></p>
+<p>Points: 14</p>
+<p># Comments: 9</p>
 
-🔗 **Read more:** [https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/](https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/)
+🔗 **Read more:** [https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c](https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c)
 
 ---
 
-### 2. Tesla Hasn't Had a Successful New Product Launch Since JB Straubel Stepped Down
+### 2. Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://cleantechnica.com/2026/11/07/tesla-hasnt-had-a-successful-new-product-launch-since-jb-straubel-stepped-down-as-cto/">https://cleantechnica.com/2026/11/07/tesla-hasnt-had-a-successful-new-product-launch-since-jb-straubel-stepped-down-as-cto/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50414427">https://news.ycombinator.com/item?id=50414427</a></p>
-<p>Points: 138</p>
-<p># Comments: 89</p>
+<p>Article URL: <a href="https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers">https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50415628">https://news.ycombinator.com/item?id=50415628</a></p>
+<p>Points: 119</p>
+<p># Comments: 55</p>
 
-🔗 **Read more:** [https://cleantechnica.com/2026/11/07/tesla-hasnt-had-a-successful-new-product-launch-since-jb-straubel-stepped-down-as-cto/](https://cleantechnica.com/2026/11/07/tesla-hasnt-had-a-successful-new-product-launch-since-jb-straubel-stepped-down-as-cto/)
+🔗 **Read more:** [https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers](https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers)
 
 ---
 
-### 3. Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy
+### 3. Ads in Popular Apps Give Police a Powerful Tool to Spy on Users
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up">https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50414021">https://news.ycombinator.com/item?id=50414021</a></p>
-<p>Points: 27</p>
-<p># Comments: 39</p>
+<p>Article URL: <a href="https://www.bloomberg.com/features/2026-police-phone-tracking-advertising-tech/">https://www.bloomberg.com/features/2026-police-phone-tracking-advertising-tech/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50415281">https://news.ycombinator.com/item?id=50415281</a></p>
+<p>Points: 33</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up](https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up)
+🔗 **Read more:** [https://www.bloomberg.com/features/2026-police-phone-tracking-advertising-tech/](https://www.bloomberg.com/features/2026-police-phone-tracking-advertising-tech/)
 
 ---
 
@@ -71,7 +71,20 @@ Wreaths are laid as 10,000 armed forces veterans, including 12 from World War Tw
 
 ---
 
-### 5. Footage shows derailed carriages after fatal train crash in Egypt
+### 5. Seven dead and more than 100 injured after trains collide in Egypt
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Footage shows derailed carriages after fatal train crash in Egypt
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ It is yet unclear what caused the accident but Egyptian President Abdel Fattah a
 
 ---
 
-### 6. Nandy defends linking Erasmus student scheme to Remembrance Sunday after backlash
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The culture secretary says the UK rejoining the EU's study and work scheme will help honour wartime sacrifice.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmvg72p1zgvlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmvg72p1zgvlo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Photos: Diwali celebrations light up India and its global diaspora
+### 7. After the midterms, where does the Republican Party stand?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Celebrations feature fireworks, prayers, reunions, rangoli designs, feasting, and the sharing of sweets and gifts.
+GOP suffered a loss, but it is hardly a historic one. A party in power has always been held to account in the midterms.
 
-🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/11/8/photos-diwali-celebrations-light-up-india-and-its-global-diaspora?traffic_source=rss](https://www.aljazeera.com/gallery/2026/11/8/photos-diwali-celebrations-light-up-india-and-its-global-diaspora?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/11/8/after-the-midterms-where-does-the-republican-party-stand?traffic_source=rss](https://www.aljazeera.com/opinions/2026/11/8/after-the-midterms-where-does-the-republican-party-stand?traffic_source=rss)
 
 ---
 
-### 8. Atletico Madrid vs Barcelona: La Liga live
+### 8. Carlos Alcaraz beats Ben Shelton to win Paris Masters tennis title
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Previews, team news and live text updates from Atletico Madrid vs Barcelona in football&#039;s La Liga.
+Alcaraz bagged a 7-6 (7/5), 7-5 straight sets for an elusive Paris crown before the year-end ATP Finals.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/liveblog/2026/11/8/atletico-madrid-vs-barcelona-la-liga-live?traffic_source=rss](https://www.aljazeera.com/sports/liveblog/2026/11/8/atletico-madrid-vs-barcelona-la-liga-live?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/8/carlos-alcaraz-beats-ben-shelton-to-win-paris-masters-tennis-title?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/8/carlos-alcaraz-beats-ben-shelton-to-win-paris-masters-tennis-title?traffic_source=rss)
 
 ---
 
-### 9. India’s ‘cockroach’ movement seeks to restore culture of accountability
+### 9. Eisenkot open to Netanyahu joining Israel’s next government
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-India&#039;s Cockroach Janta Party is a youth movement demanding political accountability, employment and fair elections.
+Israel&#039;s president officially tasks the opposition leader with forming a new government.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/talk-to-al-jazeera/2026/11/8/indias-cockroach-movement-seeks-to-restore-culture-of-accountability?traffic_source=rss](https://www.aljazeera.com/video/talk-to-al-jazeera/2026/11/8/indias-cockroach-movement-seeks-to-restore-culture-of-accountability?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/8/israels-president-tasks-eisenkot-to-form-new-coalition-government?traffic_source=rss](https://www.aljazeera.com/news/2026/11/8/israels-president-tasks-eisenkot-to-form-new-coalition-government?traffic_source=rss)
 
 ---
 

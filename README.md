@@ -1,90 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-08 10:29:53
+**Last Update:** 2026-11-08 14:07:08
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Kirlian Photography: Building Your Own Equipment
+### 1. GitHub Down Again?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://imagesco.com/articles/kirlian/kirlian-photography.html">https://imagesco.com/articles/kirlian/kirlian-photography.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50410359">https://news.ycombinator.com/item?id=50410359</a></p>
-<p>Points: 15</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://github.com/torvalds/linux">https://github.com/torvalds/linux</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50411818">https://news.ycombinator.com/item?id=50411818</a></p>
+<p>Points: 55</p>
+<p># Comments: 43</p>
 
-🔗 **Read more:** [https://imagesco.com/articles/kirlian/kirlian-photography.html](https://imagesco.com/articles/kirlian/kirlian-photography.html)
+🔗 **Read more:** [https://github.com/torvalds/linux](https://github.com/torvalds/linux)
 
 ---
 
-### 2. ISponsorBlockTV: SponsorBlock client for all YouTube TV clients
+### 2. I'm Rewriting IBM SPSS Statistics in 100% Safe Rust, Alone
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/dmunozv04/isponsorblocktv">https://github.com/dmunozv04/isponsorblocktv</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50410249">https://news.ycombinator.com/item?id=50410249</a></p>
-<p>Points: 5</p>
+<p>Article URL: <a href="https://github.com/kobaltgit/StatCraft">https://github.com/kobaltgit/StatCraft</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50411522">https://news.ycombinator.com/item?id=50411522</a></p>
+<p>Points: 6</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://github.com/dmunozv04/isponsorblocktv](https://github.com/dmunozv04/isponsorblocktv)
+🔗 **Read more:** [https://github.com/kobaltgit/StatCraft](https://github.com/kobaltgit/StatCraft)
 
 ---
 
-### 3. Goodbye Claude, Hello Pi
+### 3. Agent memory needs its OpenTelemetry moment
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://caleb.software/posts/claude-to-pi.html">https://caleb.software/posts/claude-to-pi.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50410107">https://news.ycombinator.com/item?id=50410107</a></p>
-<p>Points: 121</p>
-<p># Comments: 72</p>
+<p>Article URL: <a href="https://www.lorekit.io/blog/open-agent-memory-format">https://www.lorekit.io/blog/open-agent-memory-format</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50411467">https://news.ycombinator.com/item?id=50411467</a></p>
+<p>Points: 31</p>
+<p># Comments: 19</p>
 
-🔗 **Read more:** [https://caleb.software/posts/claude-to-pi.html](https://caleb.software/posts/claude-to-pi.html)
+🔗 **Read more:** [https://www.lorekit.io/blog/open-agent-memory-format](https://www.lorekit.io/blog/open-agent-memory-format)
 
 ---
 
-### 4. Briton among six killed in Krakow shooting as three more bodies found at suspect's home
+### 4. How the deadly shooting in Krakow unfolded
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Authorities say the attacker, described as being "fascinated by far-right ideologies", drove into a popular city centre square and opened fire.
+Video authenticated by BBC Verify shows the moment gunshots rang out in Krakow's main market square.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6n9r01d2709o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6n9r01d2709o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Germans wrestle with what to do with Hitler's destroyed Eagle's Nest retreat
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-While some believe the site should be partially or completely rebuilt, others want it abandoned and all memory of its Nazi past forgotten.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm74pk1g51nko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm74pk1g51nko?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cq74p2zpwyjmo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cq74p2zpwyjmo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Veterans shouldn't sleep rough this Christmas, Burnham says
+### 5. Veterans shouldn't sleep rough this Christmas, Burnham says
 
 **Source:** BBC
 
@@ -97,42 +84,55 @@ Downing Street says the prime minister will personally write to councils on Armi
 
 ---
 
-### 7. Photos: Heavy rains leave tens of thousands without shelter in Gaza
+### 6. Two seriously hurt in 30-vehicle crash on the M20 in Kent
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-Heavy rain floods tents housing displaced Palestinians in Gaza as Israeli restrictions on aid hamper response.
+The crash happened in fog on Saturday evening on the London-bound carriageway near Maidstone, Kent.
 
-🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/11/8/photos-heavy-rains-leave-tens-of-thousands-without-shelter-in-gaza?traffic_source=rss](https://www.aljazeera.com/gallery/2026/11/8/photos-heavy-rains-leave-tens-of-thousands-without-shelter-in-gaza?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck87z9exex2lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck87z9exex2lo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. Is unconditional support for Israel becoming a liability for Republicans?
+### 7. Tennis world number one Rybakina withdraws from WTA Finals due to virus
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-JD Vance’s response to the midterm defeat suggests a once-untouchable Republican consensus may be starting to crack.
+Rybakina pulled out on the eve of the Indian Wells tournament, with Ukraine&#039;s Marta Kostyuk replacing the top seed.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/11/8/is-unconditional-support-for-israel-becoming-a-liability-for-republicans?traffic_source=rss](https://www.aljazeera.com/opinions/2026/11/8/is-unconditional-support-for-israel-becoming-a-liability-for-republicans?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/8/tennis-world-number-one-rybakina-withdraws-from-wta-finals-due-to-virus?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/8/tennis-world-number-one-rybakina-withdraws-from-wta-finals-due-to-virus?traffic_source=rss)
 
 ---
 
-### 9. There is reason to hope that the Democrats might deliver this time
+### 8. Democrats’ congressional win could strengthen Ukraine’s hand against Russia
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-With a decisive rejection of Trumpism, US voters have given Democrats one more chance — they better not blow it.
+Ukraine hopes for more US support but faces uncertainty over Trump’s peace efforts and continued military aid.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/11/8/there-is-reason-to-hope-that-the-democrats-might-deliver-this-time?traffic_source=rss](https://www.aljazeera.com/opinions/2026/11/8/there-is-reason-to-hope-that-the-democrats-might-deliver-this-time?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/8/democrats-congressional-win-could-strengthen-ukraines-hand-against-russia?traffic_source=rss](https://www.aljazeera.com/news/2026/11/8/democrats-congressional-win-could-strengthen-ukraines-hand-against-russia?traffic_source=rss)
+
+---
+
+### 9. Floods in Gaza leave tens of thousands without shelter
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Civil Defence reports over 1,500 emergency calls as thousands of tents and shelters destroyed after heavy rains.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/8/floods-in-gaza-leave-tens-of-thousands-without-shelter?traffic_source=rss](https://www.aljazeera.com/news/2026/11/8/floods-in-gaza-leave-tens-of-thousands-without-shelter?traffic_source=rss)
 
 ---
 

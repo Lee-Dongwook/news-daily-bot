@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-08T17:44:48+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Person of Interest",
+            "description": "<p>Article URL: <a href=\"https://krthr.co/person-of-interest/\">https://krthr.co/person-of-interest/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50412318\">https://news.ycombinator.com/item?id=50412318</a></p>\n<p>Points: 143</p>\n<p># Comments: 84</p>",
+            "url": "https://krthr.co/person-of-interest/",
+            "published": "Sun, 08 Nov 2026 11:23:28 +0000",
+            "fetched": "2026-11-08T17:44:48+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Petered (what happens after the Peter Principle)",
+            "description": "<p>Article URL: <a href=\"https://aworkinglibrary.com/writing/petered\">https://aworkinglibrary.com/writing/petered</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50412152\">https://news.ycombinator.com/item?id=50412152</a></p>\n<p>Points: 81</p>\n<p># Comments: 37</p>",
+            "url": "https://aworkinglibrary.com/writing/petered",
+            "published": "Sun, 08 Nov 2026 10:56:43 +0000",
+            "fetched": "2026-11-08T17:44:48+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "JIT bitmap text rendering for microcontrollers",
+            "description": "<p>Article URL: <a href=\"https://linebender.org/blog/jit-bitmap-text/\">https://linebender.org/blog/jit-bitmap-text/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50412072\">https://news.ycombinator.com/item?id=50412072</a></p>\n<p>Points: 40</p>\n<p># Comments: 6</p>",
+            "url": "https://linebender.org/blog/jit-bitmap-text/",
+            "published": "Sun, 08 Nov 2026 10:42:15 +0000",
+            "fetched": "2026-11-08T17:44:48+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "King leads solemn Remembrance service at Cenotaph",
+            "description": "Wreaths are laid as 10,000 armed forces veterans, including 12 from World War Two, pay tribute in central London.",
+            "url": "https://www.bbc.co.uk/news/articles/cqy8l0gyvvv2o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 08 Nov 2026 13:49:07 GMT",
+            "fetched": "2026-11-08T17:44:48+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Royals and veterans reflect at Remembrance ceremony",
+            "description": "King Charles has led the annual Remembrance Sunday commemorations, laying a wreath at the solemn ceremony held at the Cenotaph.",
+            "url": "https://www.bbc.co.uk/news/videos/cw1l307v4edlo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 08 Nov 2026 12:16:10 GMT",
+            "fetched": "2026-11-08T17:44:48+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'Time is up': Minister warns media industry to take abuse seriously in wake of Brand case",
+            "description": "Lisa Nandy tells the BBC \"many people\" in the media industry have come forward to her.",
+            "url": "https://www.bbc.co.uk/news/articles/ckn9r0zd0ynwo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 08 Nov 2026 13:57:43 GMT",
+            "fetched": "2026-11-08T17:44:48+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Spain win Padel World Cup in Qatar as sport’s popularity soars",
+            "description": "Spain has beaten Argentina at another world cup. The Spanish men’s and women’s team swept the Padel World Championships",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/spain-win-padel-world-cup-in-qatar-as-sports-popularity-soars-2?traffic_source=rss",
+            "published": "Sun, 08 Nov 2026 14:02:35 +0000",
+            "fetched": "2026-11-08T17:44:48+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "At least 21 dead as small boat sinks off Senegal",
+            "description": "Senegalese Interior Ministry says one person rescued as search operation continues after migrant vessel capsized.",
+            "url": "https://www.aljazeera.com/news/2026/11/8/at-least-21-dead-as-small-boat-sinks-off-senegal?traffic_source=rss",
+            "published": "Sun, 08 Nov 2026 13:32:17 +0000",
+            "fetched": "2026-11-08T17:44:48+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Egypt’s reopening of its embassy in Tripoli signals regional shift on Libya",
+            "description": "Former rivals in Libya are pushing for a unity government to end years of conflict.",
+            "url": "https://www.aljazeera.com/news/2026/11/8/egypts-reopening-of-its-embassy-in-tripoli-signals-regional-shift-on-libya?traffic_source=rss",
+            "published": "Sun, 08 Nov 2026 13:27:57 +0000",
+            "fetched": "2026-11-08T17:44:48+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Wild River, Coos, New Hampshire",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26057",
+            "published": "2026-11-02T07:58:00Z",
+            "fetched": "2026-11-08T17:44:48+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25984",
+            "published": "2026-10-30T10:13:00Z",
+            "fetched": "2026-11-08T17:44:48+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Iceberg B22K",
+            "description": "Natural event: Sea and Lake Ice",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25990",
+            "published": "2026-10-30T00:00:00Z",
+            "fetched": "2026-11-08T17:44:48+03:30"
+        }
+    ]
+}

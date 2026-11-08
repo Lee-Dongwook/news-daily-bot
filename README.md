@@ -1,64 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-08 17:44:48
+**Last Update:** 2026-11-08 20:38:48
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Person of Interest
+### 1. "RAM Altman"= Linux script emailing Altman daily on how much RAM left on your PC
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://krthr.co/person-of-interest/">https://krthr.co/person-of-interest/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50412318">https://news.ycombinator.com/item?id=50412318</a></p>
-<p>Points: 143</p>
-<p># Comments: 84</p>
+<p>Article URL: <a href="https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/">https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50414839">https://news.ycombinator.com/item?id=50414839</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://krthr.co/person-of-interest/](https://krthr.co/person-of-interest/)
+🔗 **Read more:** [https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/](https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/)
 
 ---
 
-### 2. Petered (what happens after the Peter Principle)
+### 2. Tesla Hasn't Had a Successful New Product Launch Since JB Straubel Stepped Down
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://aworkinglibrary.com/writing/petered">https://aworkinglibrary.com/writing/petered</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50412152">https://news.ycombinator.com/item?id=50412152</a></p>
-<p>Points: 81</p>
-<p># Comments: 37</p>
+<p>Article URL: <a href="https://cleantechnica.com/2026/11/07/tesla-hasnt-had-a-successful-new-product-launch-since-jb-straubel-stepped-down-as-cto/">https://cleantechnica.com/2026/11/07/tesla-hasnt-had-a-successful-new-product-launch-since-jb-straubel-stepped-down-as-cto/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50414427">https://news.ycombinator.com/item?id=50414427</a></p>
+<p>Points: 138</p>
+<p># Comments: 89</p>
 
-🔗 **Read more:** [https://aworkinglibrary.com/writing/petered](https://aworkinglibrary.com/writing/petered)
+🔗 **Read more:** [https://cleantechnica.com/2026/11/07/tesla-hasnt-had-a-successful-new-product-launch-since-jb-straubel-stepped-down-as-cto/](https://cleantechnica.com/2026/11/07/tesla-hasnt-had-a-successful-new-product-launch-since-jb-straubel-stepped-down-as-cto/)
 
 ---
 
-### 3. JIT bitmap text rendering for microcontrollers
+### 3. Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://linebender.org/blog/jit-bitmap-text/">https://linebender.org/blog/jit-bitmap-text/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50412072">https://news.ycombinator.com/item?id=50412072</a></p>
-<p>Points: 40</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up">https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50414021">https://news.ycombinator.com/item?id=50414021</a></p>
+<p>Points: 27</p>
+<p># Comments: 39</p>
 
-🔗 **Read more:** [https://linebender.org/blog/jit-bitmap-text/](https://linebender.org/blog/jit-bitmap-text/)
+🔗 **Read more:** [https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up](https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up)
 
 ---
 
-### 4. King leads solemn Remembrance service at Cenotaph
+### 4. King leads solemn Remembrance Sunday service at Cenotaph
 
 **Source:** BBC
 
@@ -71,68 +71,68 @@ Wreaths are laid as 10,000 armed forces veterans, including 12 from World War Tw
 
 ---
 
-### 5. Watch: Royals and veterans reflect at Remembrance ceremony
+### 5. Footage shows derailed carriages after fatal train crash in Egypt
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-King Charles has led the annual Remembrance Sunday commemorations, laying a wreath at the solemn ceremony held at the Cenotaph.
+It is yet unclear what caused the accident but Egyptian President Abdel Fattah al-Sisi said an investigation is underway and will "hold accountable anyone who proves their negligence".
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cw1l307v4edlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cw1l307v4edlo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cw78p2km7d94o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cw78p2km7d94o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. 'Time is up': Minister warns media industry to take abuse seriously in wake of Brand case
+### 6. Nandy defends linking Erasmus student scheme to Remembrance Sunday after backlash
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Lisa Nandy tells the BBC "many people" in the media industry have come forward to her.
+The culture secretary says the UK rejoining the EU's study and work scheme will help honour wartime sacrifice.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckn9r0zd0ynwo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckn9r0zd0ynwo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmvg72p1zgvlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmvg72p1zgvlo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Spain win Padel World Cup in Qatar as sport’s popularity soars
+### 7. Photos: Diwali celebrations light up India and its global diaspora
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Spain has beaten Argentina at another world cup. The Spanish men’s and women’s team swept the Padel World Championships
+Celebrations feature fireworks, prayers, reunions, rangoli designs, feasting, and the sharing of sweets and gifts.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/8/spain-win-padel-world-cup-in-qatar-as-sports-popularity-soars-2?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/8/spain-win-padel-world-cup-in-qatar-as-sports-popularity-soars-2?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/11/8/photos-diwali-celebrations-light-up-india-and-its-global-diaspora?traffic_source=rss](https://www.aljazeera.com/gallery/2026/11/8/photos-diwali-celebrations-light-up-india-and-its-global-diaspora?traffic_source=rss)
 
 ---
 
-### 8. At least 21 dead as small boat sinks off Senegal
+### 8. Atletico Madrid vs Barcelona: La Liga live
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Senegalese Interior Ministry says one person rescued as search operation continues after migrant vessel capsized.
+Previews, team news and live text updates from Atletico Madrid vs Barcelona in football&#039;s La Liga.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/8/at-least-21-dead-as-small-boat-sinks-off-senegal?traffic_source=rss](https://www.aljazeera.com/news/2026/11/8/at-least-21-dead-as-small-boat-sinks-off-senegal?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/liveblog/2026/11/8/atletico-madrid-vs-barcelona-la-liga-live?traffic_source=rss](https://www.aljazeera.com/sports/liveblog/2026/11/8/atletico-madrid-vs-barcelona-la-liga-live?traffic_source=rss)
 
 ---
 
-### 9. Egypt’s reopening of its embassy in Tripoli signals regional shift on Libya
+### 9. India’s ‘cockroach’ movement seeks to restore culture of accountability
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Former rivals in Libya are pushing for a unity government to end years of conflict.
+India&#039;s Cockroach Janta Party is a youth movement demanding political accountability, employment and fair elections.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/8/egypts-reopening-of-its-embassy-in-tripoli-signals-regional-shift-on-libya?traffic_source=rss](https://www.aljazeera.com/news/2026/11/8/egypts-reopening-of-its-embassy-in-tripoli-signals-regional-shift-on-libya?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/talk-to-al-jazeera/2026/11/8/indias-cockroach-movement-seeks-to-restore-culture-of-accountability?traffic_source=rss](https://www.aljazeera.com/video/talk-to-al-jazeera/2026/11/8/indias-cockroach-movement-seeks-to-restore-culture-of-accountability?traffic_source=rss)
 
 ---
 

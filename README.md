@@ -1,64 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-09 19:07:44
+**Last Update:** 2026-11-09 22:27:40
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Zebkit – Chromium as an embeddable library
+### 1. Too many men suffering in silence, national health report finds (Canada)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/ikey4u/zebkit">https://github.com/ikey4u/zebkit</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50426207">https://news.ycombinator.com/item?id=50426207</a></p>
-<p>Points: 35</p>
-<p># Comments: 18</p>
+<p>Article URL: <a href="https://www.westcentralonline.com/articles/too-many-men-suffering-in-silence-national-health-report-finds">https://www.westcentralonline.com/articles/too-many-men-suffering-in-silence-national-health-report-finds</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50429475">https://news.ycombinator.com/item?id=50429475</a></p>
+<p>Points: 7</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://github.com/ikey4u/zebkit](https://github.com/ikey4u/zebkit)
+🔗 **Read more:** [https://www.westcentralonline.com/articles/too-many-men-suffering-in-silence-national-health-report-finds](https://www.westcentralonline.com/articles/too-many-men-suffering-in-silence-national-health-report-finds)
 
 ---
 
-### 2. Children of Men: The Future Is a Mirror for the Present
+### 2. Infineon marks innovation milestone with 300mm power silicon carbide wafer
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://reactormag.com/children-of-men-the-future-is-a-mirror-for-the-present/">https://reactormag.com/children-of-men-the-future-is-a-mirror-for-the-present/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50425303">https://news.ycombinator.com/item?id=50425303</a></p>
-<p>Points: 67</p>
-<p># Comments: 57</p>
+<p>Article URL: <a href="https://www.infineon.com/press-release/2026/infpr202611-028">https://www.infineon.com/press-release/2026/infpr202611-028</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50429430">https://news.ycombinator.com/item?id=50429430</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://reactormag.com/children-of-men-the-future-is-a-mirror-for-the-present/](https://reactormag.com/children-of-men-the-future-is-a-mirror-for-the-present/)
+🔗 **Read more:** [https://www.infineon.com/press-release/2026/infpr202611-028](https://www.infineon.com/press-release/2026/infpr202611-028)
 
 ---
 
-### 3. Humans will never again create a project like Wikipedia
+### 3. Our Smallest, Most Efficient Model: Muse Ember
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia">https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50424704">https://news.ycombinator.com/item?id=50424704</a></p>
-<p>Points: 311</p>
-<p># Comments: 243</p>
+<p>Article URL: <a href="https://research.meta.ai/blog/muse-ember">https://research.meta.ai/blog/muse-ember</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50429024">https://news.ycombinator.com/item?id=50429024</a></p>
+<p>Points: 22</p>
+<p># Comments: 8</p>
 
-🔗 **Read more:** [https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia](https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia)
+🔗 **Read more:** [https://research.meta.ai/blog/muse-ember](https://research.meta.ai/blog/muse-ember)
 
 ---
 
-### 4. Watch: Moment judge sentences Brand in court
+### 4. Russell Brand sentenced to 10-and-a-half years in prison for rape and sexual assault
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The disgraced entertainer was sentenced on Monday following a four-week trial at Southwark Crown Court.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckzd6dl18dmyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckzd6dl18dmyo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Watch: Moment judge sentences Brand in court
 
 **Source:** BBC
 
@@ -71,68 +84,55 @@ Russell Brand was sentenced for rape and three counts of sexual assault at South
 
 ---
 
-### 5. Civil servant who juggled five jobs found guilty of fraud
+### 6. France accuses Iran of supermarket fridge hacking
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Kashim Chowdhury had secretly held multiple public sector jobs on full-time salaries.
+The cyber-attack last month saw fridges and freezers in hundreds of supermarkets across France heated up.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm70pgnx891do?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm70pgnx891do?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Krakow shooting suspect has died in hospital, police say
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Six people were killed in the shooting, and three bodies of the suspect's family members were found at their home.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. IRGC strikes three tankers near Hormuz over ‘US links’
+### 7. Russian investigative newspaper Novaya Gazeta closes citing gov’t clampdown
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-An oil tanker caught fire near the Strait of Hormuz after Iran’s IRGC said it had struck three tankers on Sunday,
+The paper was one of the few remaining outlets in Russia that criticised Moscow&#039;s war on Ukraine.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/9/irgc-strikes-three-tankers-near-hormuz-over-us?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/9/irgc-strikes-three-tankers-near-hormuz-over-us?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/9/russian-investigative-newspaper-novaya-gazeta-closes-citing-govt-clampdown?traffic_source=rss](https://www.aljazeera.com/news/2026/11/9/russian-investigative-newspaper-novaya-gazeta-closes-citing-govt-clampdown?traffic_source=rss)
 
 ---
 
-### 8. Los Angeles mayoral race points to growing sway of democratic socialists
+### 8. Krakow shooting suspect dies as Poland mourns six victims
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Nithya Raman taps into frustration with economic and political status quo to become mayor of the second-largest US city.
+A 24-year-old man who killed six people and wounded 15 in a shooting in Krakow, has died in hospital.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/9/los-angeles-mayoral-race-points-to-growing-sway-of-democratic-socialists?traffic_source=rss](https://www.aljazeera.com/news/2026/11/9/los-angeles-mayoral-race-points-to-growing-sway-of-democratic-socialists?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/9/krakow-shooting-suspect-dies-as-poland-mourns-six-victims?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/9/krakow-shooting-suspect-dies-as-poland-mourns-six-victims?traffic_source=rss)
 
 ---
 
-### 9. UK court hands comedian Russell Brand 10.5 years for rape, sexual assault
+### 9. Meta rolls out automated age checks for teens globally
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Brand was convicted last week of raping one woman and sexually assaulting three more between 2004 ​and 2009.
+AI-powered scans will be used for Instagram accounts starting this month and later extended to Facebook and Threads.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/9/uk-court-hands-comedian-russel-brand-10-5-years-for-rape-sexual-assault?traffic_source=rss](https://www.aljazeera.com/news/2026/11/9/uk-court-hands-comedian-russel-brand-10-5-years-for-rape-sexual-assault?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/9/meta-rolls-out-automated-age-checks-for-teens-globally?traffic_source=rss](https://www.aljazeera.com/news/2026/11/9/meta-rolls-out-automated-age-checks-for-teens-globally?traffic_source=rss)
 
 ---
 

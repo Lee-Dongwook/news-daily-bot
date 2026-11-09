@@ -1,142 +1,169 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-09 08:52:14
+**Last Update:** 2026-11-09 11:42:31
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. A Critique of GPUI
+### 1. Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.zortax.de/posts/a-critique-of-gpui">https://blog.zortax.de/posts/a-critique-of-gpui</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50420857">https://news.ycombinator.com/item?id=50420857</a></p>
-<p>Points: 32</p>
-<p># Comments: 6</p>
-
-🔗 **Read more:** [https://blog.zortax.de/posts/a-critique-of-gpui](https://blog.zortax.de/posts/a-critique-of-gpui)
-
----
-
-### 2. The Qlobe: Rotating Quine (2010)
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="http://mamememo.blogspot.com/2010/09/qlobe.html">http://mamememo.blogspot.com/2010/09/qlobe.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50420599">https://news.ycombinator.com/item?id=50420599</a></p>
-<p>Points: 12</p>
+<p>Article URL: <a href="https://arxiv.org/abs/2610.14162">https://arxiv.org/abs/2610.14162</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50422168">https://news.ycombinator.com/item?id=50422168</a></p>
+<p>Points: 8</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [http://mamememo.blogspot.com/2010/09/qlobe.html](http://mamememo.blogspot.com/2010/09/qlobe.html)
+🔗 **Read more:** [https://arxiv.org/abs/2610.14162](https://arxiv.org/abs/2610.14162)
 
 ---
 
-### 3. A Bit about Email
+### 2. Is Opus 5.5 nerfed? Thinking patterns changed on November 3
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://maurycyz.com/misc/email/">https://maurycyz.com/misc/email/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50420383">https://news.ycombinator.com/item?id=50420383</a></p>
+<p>Article URL: <a href="https://twitter.com/shanemelaugh/status/2119192075505893695">https://twitter.com/shanemelaugh/status/2119192075505893695</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50422069">https://news.ycombinator.com/item?id=50422069</a></p>
+<p>Points: 12</p>
+<p># Comments: 5</p>
+
+🔗 **Read more:** [https://twitter.com/shanemelaugh/status/2119192075505893695](https://twitter.com/shanemelaugh/status/2119192075505893695)
+
+---
+
+### 3. Show HN: Flide: Make Jev-like decision models up to 9.5x faster
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Decision models need their own inference engine.<p>So we developed Flide, a high-performance and exact inference engine for Jev-like decision models.<p>Flide achieves up to a 9.5x speedup over vLLM and SGLang.<p>It now supports 30+ popular local Jev-like decision models.<p>Start to make your decision immediately:<p>pip install flide</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50421155">https://news.ycombinator.com/item?id=50421155</a></p>
 <p>Points: 13</p>
-<p># Comments: 2</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://maurycyz.com/misc/email/](https://maurycyz.com/misc/email/)
+🔗 **Read more:** [https://github.com/OmniJev/Flide](https://github.com/OmniJev/Flide)
 
 ---
 
-### 4. Woman says Al Fayed's brother drugged and sexually abused her at Highland estate
+### 4. Will Jensen Huang’s rockstar reputation survive after scandal?
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The woman says she was flown to the Fayed family's Balnagown estate, where she was repeatedly assaulted.
+Adoration for the US tech giant’s CEO Jensen Huang has been labelled “Jensanity”, but can his reputation survive the news of his affair?
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm2d6kk0wzw4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm2d6kk0wzw4o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. 'I treat all these people like they are victims', says doctor who treated Krakow shooting suspect
+### 5. Inside the French drug gangs recruiting children to kill
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Two doctors were eating near the Polish city's Main Market Square when a gunman began firing at random.
+The BBC enters Marseille's dangerous underworld, where young people are trapped, brutalised and exploited.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c63elgqqz5y0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c63elgqqz5y0o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq62y01r2313o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq62y01r2313o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Dense fog threatens Monday morning rush-hour disruption
+### 6. Krakow shooting suspect has died in hospital, police say
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Fog could disrupt Monday morning’s commute
+At least six people were killed in the shooting, and three bodies of the suspect's family members were found at their home.
 
-🔗 **Read more:** [https://www.bbc.co.uk/weather/articles/cj75p29nz6e6o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/weather/articles/cj75p29nz6e6o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Turkiye pushes electrification top of climate agenda as COP31 set to open
+### 7. MotoGP: Bezzecchi denies Marquez world title as motorsport returns to Qatar
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ankara aims to make electricity account for 35 percent of global energy demand by 2035.
+Aprilia&#039;s Marco Bezzecchi wins Qatar Grand Prix as Ducati&#039;s Marc Marquez finishes second.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/9/turkiye-pushes-electrification-top-of-climate-agenda-as-cop31-set-to-open?traffic_source=rss](https://www.aljazeera.com/news/2026/11/9/turkiye-pushes-electrification-top-of-climate-agenda-as-cop31-set-to-open?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/9/motogp-bezzecchi-denies-marquez-world-title-as-motorsport-returns-to-qatar?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/9/motogp-bezzecchi-denies-marquez-world-title-as-motorsport-returns-to-qatar?traffic_source=rss)
 
 ---
 
-### 8. A joke or test? Why Trump floated UFC’s Dana White as his press secretary
+### 8. Which countries and industries emit the most greenhouse gases?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-White is a close friend of Trump and has endorsed him for president, but has never held a government position.
+The US has emitted the most CO2 in history; China is now the biggest emitter. Here’s who is driving global emissions.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/9/a-joke-or-test-why-trump-floated-ufcs-dana-white-as-his-press-secretary?traffic_source=rss](https://www.aljazeera.com/news/2026/11/9/a-joke-or-test-why-trump-floated-ufcs-dana-white-as-his-press-secretary?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/9/which-countries-and-industries-emit-the-most-greenhouse-gases?traffic_source=rss](https://www.aljazeera.com/news/2026/11/9/which-countries-and-industries-emit-the-most-greenhouse-gases?traffic_source=rss)
 
 ---
 
-### 9. Pope tells Argentina’s Milei leaders should know limits of power
+### 9. Ousted PM Sheikh Hasina seeks passport in sign of Bangladesh return plan
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Pope Leo XIV urged Argentina to protect democracy during an address alongside President Javier Milei.
+Hasina, who has been living in India for two years, has promised that she would return to Bangladesh in December.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/9/pope-tells-argentinas-milei-leaders-should-know-limits-of-power?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/9/pope-tells-argentinas-milei-leaders-should-know-limits-of-power?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/9/ousted-pm-sheikh-hasina-seeks-passport-in-sign-of-bangladesh-return-plan?traffic_source=rss](https://www.aljazeera.com/news/2026/11/9/ousted-pm-sheikh-hasina-seeks-passport-in-sign-of-bangladesh-return-plan?traffic_source=rss)
 
 ---
 
-### 10. Iceberg B22A
+### 10. Wildfire Wild River, Coos, New Hampshire
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26057](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26057)
+
+---
+
+### 11. Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25984](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25984)
+
+---
+
+### 12. Iceberg B22K
 
 **Source:** NASA
 
@@ -145,33 +172,7 @@ Pope Leo XIV urged Argentina to protect democracy during an address alongside Pr
 **Description:**
 Natural event: Sea and Lake Ice
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_2736](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_2736)
-
----
-
-### 11. Iceberg A81
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Sea and Lake Ice
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6320](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6320)
-
----
-
-### 12. Iceberg D35
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Sea and Lake Ice
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6474](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6474)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25990](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25990)
 
 ---
 

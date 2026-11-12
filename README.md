@@ -1,64 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-12 23:41:03
+**Last Update:** 2026-11-13 02:59:29
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Data centers need power – lower income, rural residents pay the price
+### 1. Chinese frontier AI models carry the fingerprint of export-controlled GPUs
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://news.cornell.edu/stories/2026/11/data-centers-need-power-lower-income-rural-residents-pay-price">https://news.cornell.edu/stories/2026/11/data-centers-need-power-lower-income-rural-residents-pay-price</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50473231">https://news.ycombinator.com/item?id=50473231</a></p>
-<p>Points: 9</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://unemploymentlabs.com/checkpoint-forensics">https://unemploymentlabs.com/checkpoint-forensics</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50474883">https://news.ycombinator.com/item?id=50474883</a></p>
+<p>Points: 76</p>
+<p># Comments: 16</p>
 
-🔗 **Read more:** [https://news.cornell.edu/stories/2026/11/data-centers-need-power-lower-income-rural-residents-pay-price](https://news.cornell.edu/stories/2026/11/data-centers-need-power-lower-income-rural-residents-pay-price)
+🔗 **Read more:** [https://unemploymentlabs.com/checkpoint-forensics](https://unemploymentlabs.com/checkpoint-forensics)
 
 ---
 
-### 2. Dwarf planet candidate appears which takes roughly 280 years to orbit our sun
+### 2. Foundation Models framework
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/">https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50472490">https://news.ycombinator.com/item?id=50472490</a></p>
-<p>Points: 49</p>
-<p># Comments: 10</p>
-
-🔗 **Read more:** [https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/](https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/)
-
----
-
-### 3. Gemini 4 Hydrogen and Orchestrator
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/">https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50472260">https://news.ycombinator.com/item?id=50472260</a></p>
-<p>Points: 57</p>
+<p>Article URL: <a href="https://developer.apple.com/foundation-models-framework/">https://developer.apple.com/foundation-models-framework/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50474361">https://news.ycombinator.com/item?id=50474361</a></p>
+<p>Points: 80</p>
 <p># Comments: 9</p>
 
-🔗 **Read more:** [https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/](https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/)
+🔗 **Read more:** [https://developer.apple.com/foundation-models-framework/](https://developer.apple.com/foundation-models-framework/)
 
 ---
 
-### 4. Zoe Kleinman: How AI visionary Jensen Huang was undone by his own bad decisions
+### 3. AI is turning Apple's app review process into a nightmare for synth developers
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html">https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50474311">https://news.ycombinator.com/item?id=50474311</a></p>
+<p>Points: 47</p>
+<p># Comments: 30</p>
+
+🔗 **Read more:** [https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html](https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html)
+
+---
+
+### 4. How AI visionary Jensen Huang was undone by his own bad decisions
 
 **Source:** BBC
 
@@ -71,68 +71,68 @@ Zoe Kleinman explains how the man who built Nvidia from the ground up lost every
 
 ---
 
-### 5. What we know about Brooklyn building collapse that killed eight people
+### 5. Russian warship hit by Ukrainian drone in Gulf of Finland
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Two construction workers and two children were killed when a residential building fell into an adjacent construction site on Wednesday.
+The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm20v66jq611o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm20v66jq611o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Faisal Islam: Why the UK economy is surprisingly resilient
+### 6. US envoys meet Zelensky in Dublin after talks with Putin in Moscow
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The UK is seeing impressive growth, but will it last?
+US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cj62p32k90wyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cj62p32k90wyo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Palestinian baby dies from cold in Gaza amid Israeli restrictions on aid
+### 7. Russian court jails rights lawyer for 12 years on treason charge
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The baby&#039;s father said he died of hypothermia overnight in their family&#039;s tent in southern Gaza.
+Prosecutors say the woman shared security details with Ukraine, while her lawyers argue the information was not secret.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/12/palestinian-baby-dies-from-cold-in-gaza-amid-israeli-restrictions-on-aid?traffic_source=rss](https://www.aljazeera.com/news/2026/11/12/palestinian-baby-dies-from-cold-in-gaza-amid-israeli-restrictions-on-aid?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/12/russian-court-jails-rights-lawyer-for-12-years-on-treason-charge?traffic_source=rss](https://www.aljazeera.com/news/2026/11/12/russian-court-jails-rights-lawyer-for-12-years-on-treason-charge?traffic_source=rss)
 
 ---
 
-### 8. US nonprofits sue tech giants to halt AI development
+### 8. Italy fight back to beat France 3-1 and move top of Nations League group
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-California lawsuit demands freeze training on &#039;catastrophic&#039; artificial intelligence models.
+Michael Olise gives France the lead, but double from Pio Esposito and one from Davide Frattesi secure win for Italy.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/12/us-nonprofits-sue-tech-giants-to-halt-ai-development?traffic_source=rss](https://www.aljazeera.com/news/2026/11/12/us-nonprofits-sue-tech-giants-to-halt-ai-development?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/12/italy-fight-back-to-beat-france-3-1-and-move-top-of-nations-league-group?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/12/italy-fight-back-to-beat-france-3-1-and-move-top-of-nations-league-group?traffic_source=rss)
 
 ---
 
-### 9. Why did Nvidia CEO Jensen Huang resign, and who is Colette Kress?
+### 9. Deadly shooting in Washington DC
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Huang has stepped down amid revelations about extramarital affairs and allegations of Chinese espionage.
+Police in the US capital are investigating a shooting around a mile from the White House that led to one person killed
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/12/why-did-nvidia-ceo-jensen-huang-resign-and-who-is-colette-kress?traffic_source=rss](https://www.aljazeera.com/news/2026/11/12/why-did-nvidia-ceo-jensen-huang-resign-and-who-is-colette-kress?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/12/deadly-shooting-in-washington-dc?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/12/deadly-shooting-in-washington-dc?traffic_source=rss)
 
 ---
 

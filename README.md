@@ -1,16 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-13 11:44:27
+**Last Update:** 2026-11-13 17:42:37
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. What we know about the global Microsoft outage
+### 1. Eli Lilly CEO pushes back on Dario Amodei's ludicrous medical claims
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://garymarcus.substack.com/p/breaking-eli-lilly-ceo-becomes-latest">https://garymarcus.substack.com/p/breaking-eli-lilly-ceo-becomes-latest</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50483480">https://news.ycombinator.com/item?id=50483480</a></p>
+<p>Points: 29</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://garymarcus.substack.com/p/breaking-eli-lilly-ceo-becomes-latest](https://garymarcus.substack.com/p/breaking-eli-lilly-ceo-becomes-latest)
+
+---
+
+### 2. Show HN: Reflota – Open-source data recovery for NTFS/FAT disks with phased copy
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/Christ10-8/reflota">https://github.com/Christ10-8/reflota</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50482455">https://news.ycombinator.com/item?id=50482455</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://github.com/Christ10-8/reflota](https://github.com/Christ10-8/reflota)
+
+---
+
+### 3. Doomsday: Friday, 13 November, A.D. 2026 (1960)
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.science.org/doi/10.1126/science.132.3436.1291">https://www.science.org/doi/10.1126/science.132.3436.1291</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50482379">https://news.ycombinator.com/item?id=50482379</a></p>
+<p>Points: 165</p>
+<p># Comments: 103</p>
+
+🔗 **Read more:** [https://www.science.org/doi/10.1126/science.132.3436.1291](https://www.science.org/doi/10.1126/science.132.3436.1291)
+
+---
+
+### 4. What we know about the global outage
 
 **Source:** BBC
 
@@ -23,72 +71,72 @@ Microsoft has said the outage was not caused by a cyber-security incident, but e
 
 ---
 
-### 2. Migrants offered help to fake artworks to gain UK 'talent' visas - BBC investigation finds
+### 5. Watch: How a server outage took down Microsoft Teams and Outlook
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Going undercover to expose an elaborate fraud aimed at obtaining fast-track settlement for wealthy migrants.
+A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmkgdw24l1kdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmkgdw24l1kdo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 3. Asylum centre on military base near Piddington approved
+### 6. Former Hamas bodyguard guilty of UK knife attack
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The Home Office's application to house up to 1,256 men at the site near Bicester was fast-tracked.
+Mohammed Alfatih was granted asylum in the UK in 2015 and British citizenship in 2020.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c58j4798874go?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c58j4798874go?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c51k9709krxvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c51k9709krxvo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. Washington residents hold vigil after deadly shooting
+### 7. China warns against fresh US chip curbs
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Residents gathered in Washington, DC, to mourn victims of a shooting that left one person dead and four others wounded.
+China has warned the US against imposing additional export controls on AI chips.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/13/13-11-sv-washington-dc-shooting-vigil?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/13/13-11-sv-washington-dc-shooting-vigil?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/13/china-warns-against-fresh-us-chip-curbs?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/13/china-warns-against-fresh-us-chip-curbs?traffic_source=rss)
 
 ---
 
-### 5. Australia’s friendly against Jordan moved to Qatar over security concerns
+### 8. Nvidia scandal: What’s next for the US tech company?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Asian football giants Australia&#039;s upcoming friendly with Jordan was initially scheduled to be played in Amman.
+What happens next at one of the world&#039;s most valuable companies will have repercussions far beyond Silicon Valley.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/13/australia-jordan-football-friendly-amman-doha-qatar-socceroos?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/13/australia-jordan-football-friendly-amman-doha-qatar-socceroos?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/13/nvidia-scandal-whats-next-for-the-us-tech-company?traffic_source=rss](https://www.aljazeera.com/news/2026/11/13/nvidia-scandal-whats-next-for-the-us-tech-company?traffic_source=rss)
 
 ---
 
-### 6. NBA: Cunningham scores 52 as Pistons win double OT thriller against Wizards
+### 9. UK accused of ‘silencing’ pro-Palestine voices through entry bans
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Cunningham became the first NBA player to record a 50-point, 10-assist game without committing a turnover since 1977-78.
+A Palestinian American activist has been refused entry to the UK to attend his charity’s annual Gaza fundraiser.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/13/cade-cunningham-detroit-pistons-washington-wizards-nba?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/13/cade-cunningham-detroit-pistons-washington-wizards-nba?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/13/uk-accused-of-silencing-pro-palestine-voices-through-entry-bans?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/13/uk-accused-of-silencing-pro-palestine-voices-through-entry-bans?traffic_source=rss)
 
 ---
 
-### 7. Wildfire Red Hill, Perry, Mississippi
+### 10. Wildfire Red Hill, Perry, Mississippi
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Wildfires
 
 ---
 
-### 8. Prescribed Fire Bienville CPT 29 Sub 2 RX, Scott, Mississippi
+### 11. Prescribed Fire Bienville CPT 29 Sub 2 RX, Scott, Mississippi
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Wildfires
 
 ---
 
-### 9. Prescribed Fire Compartment 170 RX, Greene, Georgia
+### 12. Prescribed Fire Compartment 170 RX, Greene, Georgia
 
 **Source:** NASA
 

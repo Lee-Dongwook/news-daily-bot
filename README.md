@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-14 00:45:52
+**Last Update:** 2026-11-14 02:13:44
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth
+### 1. Live airband on all frequencies from KORS. Victoria, CA also ground stopped
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://atg.science/careers">https://atg.science/careers</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50489589">https://news.ycombinator.com/item?id=50489589</a></p>
-<p>Points: 0</p>
+<p>Article URL: <a href="https://orcasairband.com/">https://orcasairband.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50490593">https://news.ycombinator.com/item?id=50490593</a></p>
+<p>Points: 12</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://atg.science/careers](https://atg.science/careers)
+🔗 **Read more:** [https://orcasairband.com/](https://orcasairband.com/)
 
 ---
 
-### 2. Big tech is here to let us down
+### 2. FAA issues nationwide ground stop due to "extraordinary circumstances"
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.jsweeting.me/big-tech-is-here-to-let-us-down">https://blog.jsweeting.me/big-tech-is-here-to-let-us-down</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50489083">https://news.ycombinator.com/item?id=50489083</a></p>
-<p>Points: 33</p>
-<p># Comments: 10</p>
+<p>Article URL: <a href="https://www.axios.com/2026/11/13/faa-nationwide-ground-stop">https://www.axios.com/2026/11/13/faa-nationwide-ground-stop</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50489678">https://news.ycombinator.com/item?id=50489678</a></p>
+<p>Points: 81</p>
+<p># Comments: 22</p>
 
-🔗 **Read more:** [https://blog.jsweeting.me/big-tech-is-here-to-let-us-down](https://blog.jsweeting.me/big-tech-is-here-to-let-us-down)
+🔗 **Read more:** [https://www.axios.com/2026/11/13/faa-nationwide-ground-stop](https://www.axios.com/2026/11/13/faa-nationwide-ground-stop)
 
 ---
 
-### 3. Live-migration support in FreeBSD and bhyve coming
+### 3. All US airports are currently ground stopped
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/">https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50488835">https://news.ycombinator.com/item?id=50488835</a></p>
-<p>Points: 3</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://twitter.com/flightradar24/status/2121347654714077605">https://twitter.com/flightradar24/status/2121347654714077605</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50489652">https://news.ycombinator.com/item?id=50489652</a></p>
+<p>Points: 83</p>
+<p># Comments: 21</p>
 
-🔗 **Read more:** [https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/](https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/)
+🔗 **Read more:** [https://twitter.com/flightradar24/status/2121347654714077605](https://twitter.com/flightradar24/status/2121347654714077605)
 
 ---
 
@@ -97,42 +97,42 @@ Experts say the event is a "stark reminder" of how heavily the world relies on a
 
 ---
 
-### 7. Qatar and Turkiye send message of deterrence with new defence pact
+### 7. LIVE: FAA issues nationwide ground stop after communications outage in US
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Qatar and Turkiye have signed a mutual defence pact, deepening their partnership amid growing regional instability.
+US air regulators have issued a nationwide ground stop for departing flights, citing a communications problem.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/13/qatar-and-turkiye-send-message-of-deterrence-with-new-defence-pact?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/13/qatar-and-turkiye-send-message-of-deterrence-with-new-defence-pact?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/11/13/groundling-live?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/11/13/groundling-live?traffic_source=rss)
 
 ---
 
-### 8. Australia captain Cummins denies involvement in ‘Sandpapergate’
+### 8. FAA grounds US flights nationwide after ‘communication issue’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Australia cricket captain Cummins has rejected claims by ex-teammate Usman Khawaja linking him to 2018 ball-tampering
+US Transportation Secretary Sean Duffy says federal aviation agency is &#039;investigating the issue&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/13/australia-captain-cummins-denies-involvement-in?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/13/australia-captain-cummins-denies-involvement-in?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/13/us-grounds-all-flights-after-communication-issue?traffic_source=rss](https://www.aljazeera.com/news/2026/11/13/us-grounds-all-flights-after-communication-issue?traffic_source=rss)
 
 ---
 
-### 9. Pope thanks crowds on emotional return to ‘second home’ in Peru’s Chiclayo
+### 9. Pope Leo cheered on return to Peru city where he served as bishop
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The Chicago-born pope was welcomed by huge crowds in the coastal city, on the final leg of his South America tour.
+An estimated 1.5 million people have welcomed Pope Leo XIV back to the city in Peru where he once served as bishop.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/13/pope-thanks-crowds-on-emotional-return-to-second-home-in-perus-chiclayo?traffic_source=rss](https://www.aljazeera.com/news/2026/11/13/pope-thanks-crowds-on-emotional-return-to-second-home-in-perus-chiclayo?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/13/pope-leo-cheered-on-return-to-peru-city-where-he-served-as-bishop?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/13/pope-leo-cheered-on-return-to-peru-city-where-he-served-as-bishop?traffic_source=rss)
 
 ---
 

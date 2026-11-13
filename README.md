@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-13 02:59:29
+**Last Update:** 2026-11-13 04:45:16
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Chinese frontier AI models carry the fingerprint of export-controlled GPUs
+### 1. Edge0-145B: Frontier AI Capabilities on Your Own Computer
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer">https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50475713">https://news.ycombinator.com/item?id=50475713</a></p>
+<p>Points: 22</p>
+<p># Comments: 6</p>
+
+🔗 **Read more:** [https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer](https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer)
+
+---
+
+### 2. Chinese frontier AI models carry the fingerprint of export-controlled GPUs
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://unemploymentlabs.com/checkpoint-forensics">https://unemploymentlabs.com/checkpoint-forensics</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50474883">https://news.ycombinator.com/item?id=50474883</a></p>
-<p>Points: 76</p>
-<p># Comments: 16</p>
+<p>Points: 143</p>
+<p># Comments: 41</p>
 
 🔗 **Read more:** [https://unemploymentlabs.com/checkpoint-forensics](https://unemploymentlabs.com/checkpoint-forensics)
 
 ---
 
-### 2. Foundation Models framework
+### 3. Foundation Models framework
 
 **Source:** Hacker News
 
@@ -35,39 +51,23 @@
 **Description:**
 <p>Article URL: <a href="https://developer.apple.com/foundation-models-framework/">https://developer.apple.com/foundation-models-framework/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50474361">https://news.ycombinator.com/item?id=50474361</a></p>
-<p>Points: 80</p>
-<p># Comments: 9</p>
+<p>Points: 116</p>
+<p># Comments: 14</p>
 
 🔗 **Read more:** [https://developer.apple.com/foundation-models-framework/](https://developer.apple.com/foundation-models-framework/)
 
 ---
 
-### 3. AI is turning Apple's app review process into a nightmare for synth developers
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html">https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50474311">https://news.ycombinator.com/item?id=50474311</a></p>
-<p>Points: 47</p>
-<p># Comments: 30</p>
-
-🔗 **Read more:** [https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html](https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html)
-
----
-
-### 4. How AI visionary Jensen Huang was undone by his own bad decisions
+### 4. Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Zoe Kleinman explains how the man who built Nvidia from the ground up lost everything in a matter of days.
+US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq5y13819gpjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq5y13819gpjo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -84,20 +84,46 @@ The attack is thought to be the first time Ukrainian drones have attacked a Russ
 
 ---
 
-### 6. US envoys meet Zelensky in Dublin after talks with Putin in Moscow
+### 6. Junior doctor burnout putting maternity patients at risk, says regulator
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.
+Trainee doctors delivering babies are more likely to suffer from overwork and burnout than other specialties, evidence suggests.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckx28le8dv9wo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckx28le8dv9wo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Russian court jails rights lawyer for 12 years on treason charge
+### 7. Iran war live: Trump says Gulf allies urged pause in Iran strikes
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Speaking at the White House, Trump says Gulf countries asked him to hold off on further attacks against Iran.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/11/13/iran-war-live-riyadh-china-discuss-houthis-as-group-claims-aramco-attacks?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/11/13/iran-war-live-riyadh-china-discuss-houthis-as-group-claims-aramco-attacks?traffic_source=rss)
+
+---
+
+### 8. Yemen’s Houthis renew strikes on Saudi Arabia as UNSC extends sanctions
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Saudi-led coalition intercepts flurry of suspected Houthi drones targeting oil and military infrastructure.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/12/yemens-houthis-renew-strikes-on-saudi-arabia-as-unsc-extends-sanctions?traffic_source=rss](https://www.aljazeera.com/news/2026/11/12/yemens-houthis-renew-strikes-on-saudi-arabia-as-unsc-extends-sanctions?traffic_source=rss)
+
+---
+
+### 9. Russian court jails rights lawyer for 12 years on treason charge
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ US envoy Steve Witkoff says President Putin has agreed to European negotiators j
 Prosecutors say the woman shared security details with Ukraine, while her lawyers argue the information was not secret.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/12/russian-court-jails-rights-lawyer-for-12-years-on-treason-charge?traffic_source=rss](https://www.aljazeera.com/news/2026/11/12/russian-court-jails-rights-lawyer-for-12-years-on-treason-charge?traffic_source=rss)
-
----
-
-### 8. Italy fight back to beat France 3-1 and move top of Nations League group
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Michael Olise gives France the lead, but double from Pio Esposito and one from Davide Frattesi secure win for Italy.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/12/italy-fight-back-to-beat-france-3-1-and-move-top-of-nations-league-group?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/12/italy-fight-back-to-beat-france-3-1-and-move-top-of-nations-league-group?traffic_source=rss)
-
----
-
-### 9. Deadly shooting in Washington DC
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Police in the US capital are investigating a shooting around a mile from the White House that led to one person killed
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/12/deadly-shooting-in-washington-dc?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/12/deadly-shooting-in-washington-dc?traffic_source=rss)
 
 ---
 

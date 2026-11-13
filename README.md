@@ -1,68 +1,42 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-13 09:14:54
+**Last Update:** 2026-11-13 11:44:27
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** NASA, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: PharmA2A, an open protocol for pharmacy-to-supplier orders on A2A
+### 1. What we know about the global Microsoft outage
 
-**Source:** Hacker News
+**Source:** BBC
 
-**Category:** technology
+**Category:** world
 
 **Description:**
-<p>I'm a pharmacist in France and a nerd. I built an open source protocol based on A2A, Called PharmA2A. Why, because normally I order directly from more than hundred of suppliers, by phone mails or on the web forms. 
-The idea is to automatise orders of selling and buying between pharmacies and their suppliers. 
-Since 12 November, PharmA2A is live on GH. 
-Is anyone of you is using A2A in real life ?</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50478543">https://news.ycombinator.com/item?id=50478543</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.
 
-🔗 **Read more:** [https://github.com/pharma2a/pharma2a](https://github.com/pharma2a/pharma2a)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 2. IceWM
+### 2. Migrants offered help to fake artworks to gain UK 'talent' visas - BBC investigation finds
 
-**Source:** Hacker News
+**Source:** BBC
 
-**Category:** technology
+**Category:** world
 
 **Description:**
-<p>Article URL: <a href="https://ice-wm.org/">https://ice-wm.org/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50478515">https://news.ycombinator.com/item?id=50478515</a></p>
-<p>Points: 22</p>
-<p># Comments: 3</p>
+Going undercover to expose an elaborate fraud aimed at obtaining fast-track settlement for wealthy migrants.
 
-🔗 **Read more:** [https://ice-wm.org/](https://ice-wm.org/)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmkgdw24l1kdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmkgdw24l1kdo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 3. Switcher (2004)
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://folklore.org/Switcher.html">https://folklore.org/Switcher.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50477714">https://news.ycombinator.com/item?id=50477714</a></p>
-<p>Points: 61</p>
-<p># Comments: 13</p>
-
-🔗 **Read more:** [https://folklore.org/Switcher.html](https://folklore.org/Switcher.html)
-
----
-
-### 4. Military base asylum plans granted planning approval
+### 3. Asylum centre on military base near Piddington approved
 
 **Source:** BBC
 
@@ -75,72 +49,46 @@ The Home Office's application to house up to 1,256 men at the site near Bicester
 
 ---
 
-### 5. Junior doctor burnout putting maternity patients at risk, says regulator
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Trainee doctors delivering babies are more likely to suffer from overwork and burnout than other specialties, evidence suggests.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckx28le8dv9wo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckx28le8dv9wo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Harry Kane breaks caps record as England reach Nations League knockouts
+### 4. Washington residents hold vigil after deadly shooting
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-England moved to second spot in Group A3 behind Spain, confirming their place in the Nations League last eight in March.
+Residents gathered in Washington, DC, to mourn victims of a shooting that left one person dead and four others wounded.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/13/harry-kane-england-appearance-record-126-croatia-nations-league-quarterfinals?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/13/harry-kane-england-appearance-record-126-croatia-nations-league-quarterfinals?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/13/13-11-sv-washington-dc-shooting-vigil?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/13/13-11-sv-washington-dc-shooting-vigil?traffic_source=rss)
 
 ---
 
-### 8. Burkina Faso’s rival armed groups turn on each other as state loses ground
+### 5. Australia’s friendly against Jordan moved to Qatar over security concerns
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-JNIM and ISIL intensify their fight for control as Burkina Faso struggles to contain the wider armed conflict.
+Asian football giants Australia&#039;s upcoming friendly with Jordan was initially scheduled to be played in Amman.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/13/burkina-fasos-rival-armed-groups-turn-on-each-other-as-state-loses-ground?traffic_source=rss](https://www.aljazeera.com/news/2026/11/13/burkina-fasos-rival-armed-groups-turn-on-each-other-as-state-loses-ground?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/13/australia-jordan-football-friendly-amman-doha-qatar-socceroos?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/13/australia-jordan-football-friendly-amman-doha-qatar-socceroos?traffic_source=rss)
 
 ---
 
-### 9. Pope Leo meets clergy abuse survivors in Peru amid calls for justice
+### 6. NBA: Cunningham scores 52 as Pistons win double OT thriller against Wizards
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Pope Leo met six clergy abuse survivors in Peru, while hundreds more say they remain excluded as they seek justice.
+Cunningham became the first NBA player to record a 50-point, 10-assist game without committing a turnover since 1977-78.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/13/aje-onl-nf_pope-leo-meets-clergy-abuse-survivors-in-peru-121126?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/13/aje-onl-nf_pope-leo-meets-clergy-abuse-survivors-in-peru-121126?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/13/cade-cunningham-detroit-pistons-washington-wizards-nba?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/13/cade-cunningham-detroit-pistons-washington-wizards-nba?traffic_source=rss)
 
 ---
 
-### 10. Wildfire Red Hill, Perry, Mississippi
+### 7. Wildfire Red Hill, Perry, Mississippi
 
 **Source:** NASA
 
@@ -153,7 +101,7 @@ Natural event: Wildfires
 
 ---
 
-### 11. Prescribed Fire Bienville CPT 29 Sub 2 RX, Scott, Mississippi
+### 8. Prescribed Fire Bienville CPT 29 Sub 2 RX, Scott, Mississippi
 
 **Source:** NASA
 
@@ -166,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Prescribed Fire Compartment 170 RX, Greene, Georgia
+### 9. Prescribed Fire Compartment 170 RX, Greene, Georgia
 
 **Source:** NASA
 

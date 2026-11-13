@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-13 20:05:02
+**Last Update:** 2026-11-14 00:45:52
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Brazil's Caixa insurer breach exposes names and tax IDs of all 7.6M customers
+### 1. Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://filemanager-cdn.mziq.com/published/3972906b-e50b-4f74-ab74-4d0d32125d11/9567a559-d20a-486e-a7ae-5c6bbc030c5e">https://filemanager-cdn.mziq.com/published/3972906b-e50b-4f74-ab74-4d0d32125d11/9567a559-d20a-486e-a7ae-5c6bbc030c5e</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50485295">https://news.ycombinator.com/item?id=50485295</a></p>
-<p>Points: 31</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://atg.science/careers">https://atg.science/careers</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50489589">https://news.ycombinator.com/item?id=50489589</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://filemanager-cdn.mziq.com/published/3972906b-e50b-4f74-ab74-4d0d32125d11/9567a559-d20a-486e-a7ae-5c6bbc030c5e](https://filemanager-cdn.mziq.com/published/3972906b-e50b-4f74-ab74-4d0d32125d11/9567a559-d20a-486e-a7ae-5c6bbc030c5e)
+🔗 **Read more:** [https://atg.science/careers](https://atg.science/careers)
 
 ---
 
-### 2. Why is Google cutting off Search from AI-free schools? Here are some theories
+### 2. Big tech is here to let us down
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://text.npr.org/nx-s1-6029408">https://text.npr.org/nx-s1-6029408</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50484960">https://news.ycombinator.com/item?id=50484960</a></p>
-<p>Points: 12</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://blog.jsweeting.me/big-tech-is-here-to-let-us-down">https://blog.jsweeting.me/big-tech-is-here-to-let-us-down</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50489083">https://news.ycombinator.com/item?id=50489083</a></p>
+<p>Points: 33</p>
+<p># Comments: 10</p>
 
-🔗 **Read more:** [https://text.npr.org/nx-s1-6029408](https://text.npr.org/nx-s1-6029408)
+🔗 **Read more:** [https://blog.jsweeting.me/big-tech-is-here-to-let-us-down](https://blog.jsweeting.me/big-tech-is-here-to-let-us-down)
 
 ---
 
-### 3. Jonathan Blow – If AI Solved Coding, Why Is My Software Still the Same? [video]
+### 3. Live-migration support in FreeBSD and bhyve coming
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.youtube.com/watch?v=IRK8h67ol7Q">https://www.youtube.com/watch?v=IRK8h67ol7Q</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50484658">https://news.ycombinator.com/item?id=50484658</a></p>
-<p>Points: 34</p>
-<p># Comments: 8</p>
+<p>Article URL: <a href="https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/">https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50488835">https://news.ycombinator.com/item?id=50488835</a></p>
+<p>Points: 3</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.youtube.com/watch?v=IRK8h67ol7Q](https://www.youtube.com/watch?v=IRK8h67ol7Q)
+🔗 **Read more:** [https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/](https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/)
 
 ---
 
-### 4. Police investigating David Walliams over alleged serious sexual offences
+### 4. Police investigating David Walliams over reports alleging serious sexual offences
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The Met Police said the allegations are separate from those reported by ITN and The Guardian earlier this week.
+The Met Police said the allegations are separate from those reported by ITV and the Guardian earlier this week.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwx2emg4xe72o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwx2emg4xe72o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Why is the Microsoft outage lasting so long?
+### 5. US Air Force says it responded to 'suspected drones' over RAF Lakenheath
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Microsoft says it is seeing "improvements" following a global outage but efforts to fully resume services are ongoing.
+The American military says there were no injuries or damage after "suspected unauthorised drone activity" this evening.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6jd75geegzyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6jd75geegzyo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Former Hamas bodyguard guilty of UK knife attack
+### 6. Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Mohammed Alfatih was granted asylum in the UK in 2015 and British citizenship in 2020.
+Experts say the event is a "stark reminder" of how heavily the world relies on a small group of big tech providers.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c51k9709krxvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c51k9709krxvo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Truck and bus crash in India’s Assam state kills at least 24 people
+### 7. Qatar and Turkiye send message of deterrence with new defence pact
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Several children and the bus driver were among those killed, officials said, with the death toll expected to rise.
+Qatar and Turkiye have signed a mutual defence pact, deepening their partnership amid growing regional instability.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/13/truck-and-bus-crash-in-indias-assam-state-kills-at-least-24-people?traffic_source=rss](https://www.aljazeera.com/news/2026/11/13/truck-and-bus-crash-in-indias-assam-state-kills-at-least-24-people?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/13/qatar-and-turkiye-send-message-of-deterrence-with-new-defence-pact?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/13/qatar-and-turkiye-send-message-of-deterrence-with-new-defence-pact?traffic_source=rss)
 
 ---
 
-### 8. Turkiye and Qatar sign mutual defence agreement
+### 8. Australia captain Cummins denies involvement in ‘Sandpapergate’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-This is a breaking news story.
+Australia cricket captain Cummins has rejected claims by ex-teammate Usman Khawaja linking him to 2018 ball-tampering
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/13/turkiye-and-qatar-sign-mutual-defence-agreement?traffic_source=rss](https://www.aljazeera.com/news/2026/11/13/turkiye-and-qatar-sign-mutual-defence-agreement?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/13/australia-captain-cummins-denies-involvement-in?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/13/australia-captain-cummins-denies-involvement-in?traffic_source=rss)
 
 ---
 
-### 9. Europe seeks seat at Ukraine peace talks but lacks unified voice
+### 9. Pope thanks crowds on emotional return to ‘second home’ in Peru’s Chiclayo
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-EU leaders believe a US-backed process will allow Moscow and Washington to decide the fate of a conflict.
+The Chicago-born pope was welcomed by huge crowds in the coastal city, on the final leg of his South America tour.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/13/europe-seeks-seat-at-ukraine-peace-talks-but-lacks-unified-voice?traffic_source=rss](https://www.aljazeera.com/news/2026/11/13/europe-seeks-seat-at-ukraine-peace-talks-but-lacks-unified-voice?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/13/pope-thanks-crowds-on-emotional-return-to-second-home-in-perus-chiclayo?traffic_source=rss](https://www.aljazeera.com/news/2026/11/13/pope-thanks-crowds-on-emotional-return-to-second-home-in-perus-chiclayo?traffic_source=rss)
 
 ---
 

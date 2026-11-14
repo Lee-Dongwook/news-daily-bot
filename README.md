@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-14 05:31:48
+**Last Update:** 2026-11-14 06:54:35
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. FAA lifted National Ground Stop at 0119Z
+### 1. Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&amp;advn=5">https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&amp;advn=5</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50492601">https://news.ycombinator.com/item?id=50492601</a></p>
-<p>Points: 41</p>
-<p># Comments: 9</p>
+<p>Article URL: <a href="https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus">https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50493251">https://news.ycombinator.com/item?id=50493251</a></p>
+<p>Points: 13</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&advn=5](https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&advn=5)
+🔗 **Read more:** [https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus](https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus)
 
 ---
 
-### 2. Ukraine knocks out 36% of Russia's oil refining capacity in under two weeks
+### 2. Ggml v1.0.0
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://english.nv.ua/nation/thirteen-day-drone-blitz-paralyzes-36-of-moscow-s-oil-50658616.html">https://english.nv.ua/nation/thirteen-day-drone-blitz-paralyzes-36-of-moscow-s-oil-50658616.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50492456">https://news.ycombinator.com/item?id=50492456</a></p>
-<p>Points: 66</p>
-<p># Comments: 9</p>
+<p>Article URL: <a href="https://github.com/ggml-org/ggml/releases/tag/v1.0.0">https://github.com/ggml-org/ggml/releases/tag/v1.0.0</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50493062">https://news.ycombinator.com/item?id=50493062</a></p>
+<p>Points: 12</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://english.nv.ua/nation/thirteen-day-drone-blitz-paralyzes-36-of-moscow-s-oil-50658616.html](https://english.nv.ua/nation/thirteen-day-drone-blitz-paralyzes-36-of-moscow-s-oil-50658616.html)
+🔗 **Read more:** [https://github.com/ggml-org/ggml/releases/tag/v1.0.0](https://github.com/ggml-org/ggml/releases/tag/v1.0.0)
 
 ---
 
-### 3. Amtrak booking system experiencing major issues amid nationwide FAA ground stop
+### 3. Nvidia director sold nearly $1B in stock weeks before the Jensen Huang scandal
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026">https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50492315">https://news.ycombinator.com/item?id=50492315</a></p>
-<p>Points: 96</p>
-<p># Comments: 29</p>
+<p>Article URL: <a href="https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html">https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50492993">https://news.ycombinator.com/item?id=50492993</a></p>
+<p>Points: 31</p>
+<p># Comments: 9</p>
 
-🔗 **Read more:** [https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026](https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026)
+🔗 **Read more:** [https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html](https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html)
 
 ---
 
@@ -84,20 +84,33 @@ The American military says there were no injuries or damage after "suspected una
 
 ---
 
-### 6. Police investigating David Walliams over reports alleging serious sexual offences
+### 6. Trump, Putin and Xi plan historic joint meeting in China next week, White House says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The Met Police said the allegations are separate from those reported by ITV and the Guardian earlier this week.
+Trump will discuss the "reduction of nuclear weapons" during the unprecedented talks, a spokeswoman says.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwx2emg4xe72o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwx2emg4xe72o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Tanker collision leaves riverboat passengers clinging to railings
+### 7. Measles-associated deaths reach 10 in US after two more deaths reported
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+More than 5,400 confirmed measles cases have been recorded in the US to date this year.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/14/measles-associated-deaths-reach-10-in-us-after-two-more-deaths-reported?traffic_source=rss](https://www.aljazeera.com/news/2026/11/14/measles-associated-deaths-reach-10-in-us-after-two-more-deaths-reported?traffic_source=rss)
+
+---
+
+### 8. Tanker collision leaves riverboat passengers clinging to railings
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Passengers were rescued after a tanker ship collided with a riverboat docked on 
 
 ---
 
-### 8. Former FAA official says ‘nobody really knows what is going on’
+### 9. Former FAA official says ‘nobody really knows what is going on’
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Passengers were rescued after a tanker ship collided with a riverboat docked on 
 Former FAA safety team representative Kyle Bailey says grounding flights is the safest course of action.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/14/former-faa-official-says-nobody-really-knows-what-is-going?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/14/former-faa-official-says-nobody-really-knows-what-is-going?traffic_source=rss)
-
----
-
-### 9. UK police open sex offence probe into comedian and author David Walliams
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The British TV personality, 55, denies sexual assault allegations, saying he has not broken the law.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/14/uk-police-open-sex-offence-probe-into-comedian-and-author-david-walliams?traffic_source=rss](https://www.aljazeera.com/news/2026/11/14/uk-police-open-sex-offence-probe-into-comedian-and-author-david-walliams?traffic_source=rss)
 
 ---
 

@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-14 06:54:35
+**Last Update:** 2026-11-14 13:25:22
 
 **Total News:** 12
 
@@ -10,7 +10,23 @@
 
 ## 📰 Latest News
 
-### 1. Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs
+### 1. Monkey Island: all 13 versions side by side
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://monkeyisland.pages.dev/">https://monkeyisland.pages.dev/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50493904">https://news.ycombinator.com/item?id=50493904</a></p>
+<p>Points: 92</p>
+<p># Comments: 14</p>
+
+🔗 **Read more:** [https://monkeyisland.pages.dev/](https://monkeyisland.pages.dev/)
+
+---
+
+### 2. Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus">https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50493251">https://news.ycombinator.com/item?id=50493251</a></p>
-<p>Points: 13</p>
-<p># Comments: 0</p>
+<p>Points: 548</p>
+<p># Comments: 327</p>
 
 🔗 **Read more:** [https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus](https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus)
 
 ---
 
-### 2. Ggml v1.0.0
+### 3. Ggml v1.0.0
 
 **Source:** Hacker News
 
@@ -35,52 +51,36 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/ggml-org/ggml/releases/tag/v1.0.0">https://github.com/ggml-org/ggml/releases/tag/v1.0.0</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50493062">https://news.ycombinator.com/item?id=50493062</a></p>
-<p>Points: 12</p>
-<p># Comments: 0</p>
+<p>Points: 255</p>
+<p># Comments: 41</p>
 
 🔗 **Read more:** [https://github.com/ggml-org/ggml/releases/tag/v1.0.0](https://github.com/ggml-org/ggml/releases/tag/v1.0.0)
 
 ---
 
-### 3. Nvidia director sold nearly $1B in stock weeks before the Jensen Huang scandal
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html">https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50492993">https://news.ycombinator.com/item?id=50492993</a></p>
-<p>Points: 31</p>
-<p># Comments: 9</p>
-
-🔗 **Read more:** [https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html](https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html)
-
----
-
-### 4. 'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision
+### 4. Young people should have legal guarantee of job or training, Milburn tells BBC
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.
+The author of a major review on youth unemployment, due next week, acknowledges the change would mean some young people losing out on benefits.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c69vwp09d7vvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c69vwp09d7vvo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. US Air Force says it responded to 'suspected drones' over RAF Lakenheath
+### 5. What we know about the US ground stop and what to do if your flight is affected
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The American military says there were no injuries or damage after "suspected unauthorised drone activity" this evening.
+US officials say the disruption was caused by old equipment overloading and not a cyber-attack.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6jd75geegzyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6jd75geegzyo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +97,42 @@ Trump will discuss the "reduction of nuclear weapons" during the unprecedented t
 
 ---
 
-### 7. Measles-associated deaths reach 10 in US after two more deaths reported
+### 7. Migrant caravan heads to US from Mexico after Democrats’ midterm win
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-More than 5,400 confirmed measles cases have been recorded in the US to date this year.
+A migrant caravan of more than a thousand people is heading towards the US border from southern Mexico.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/14/measles-associated-deaths-reach-10-in-us-after-two-more-deaths-reported?traffic_source=rss](https://www.aljazeera.com/news/2026/11/14/measles-associated-deaths-reach-10-in-us-after-two-more-deaths-reported?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/14/migrant-caravan-heads-to-us-from-mexico-after-democrats-midterm-win?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/14/migrant-caravan-heads-to-us-from-mexico-after-democrats-midterm-win?traffic_source=rss)
 
 ---
 
-### 8. Tanker collision leaves riverboat passengers clinging to railings
+### 8. Netanyahu may fall, but his far-right legacy in Israel is going nowhere
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Passengers were rescued after a tanker ship collided with a riverboat docked on the Mississippi River in New Orleans.
+Israel’s far-right is accused of embedding a hardline agenda so deeply that reversing it may prove almost impossible.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/14/aje-onl-nf_tanker-collision-in-new-orleans-131126?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/14/aje-onl-nf_tanker-collision-in-new-orleans-131126?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/14/netanyahu-may-fall-but-his-far-right-legacy-in-israel-is-going-nowhere?traffic_source=rss](https://www.aljazeera.com/news/2026/11/14/netanyahu-may-fall-but-his-far-right-legacy-in-israel-is-going-nowhere?traffic_source=rss)
 
 ---
 
-### 9. Former FAA official says ‘nobody really knows what is going on’
+### 9. Pochettino bids emotional farewell to US football ahead of Man Utd move
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Former FAA safety team representative Kyle Bailey says grounding flights is the safest course of action.
+Mauricio Pochettino has bid an emotional farewell to US football as he prepares to take charge of Manchester United.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/14/former-faa-official-says-nobody-really-knows-what-is-going?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/14/former-faa-official-says-nobody-really-knows-what-is-going?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/14/pochettino-bids-emotional-farewell-to-us-football-ahead-of-man-utd-move?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/14/pochettino-bids-emotional-farewell-to-us-football-ahead-of-man-utd-move?traffic_source=rss)
 
 ---
 

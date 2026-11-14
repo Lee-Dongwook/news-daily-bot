@@ -1,16 +1,33 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-14 13:25:22
+**Last Update:** 2026-11-14 14:13:00
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Monkey Island: all 13 versions side by side
+### 1. Ask HN: What are the most useful, concrete AI skills to independently learn?
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Specifically, what are the most useful, concrete skills to learn as an individual to take economic advantage of the advances in LLMs, agents and associated new technological capabilities?<p>What is accessible to learn just from the internet and experimentation, without a degree program, assuming a preexisting moderately technical background? The clearer and more specific (eg. “Learn how-to x with y”) the better.<p>Thank you!</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50494696">https://news.ycombinator.com/item?id=50494696</a></p>
+<p>Points: 25</p>
+<p># Comments: 28</p>
+
+🔗 **Read more:** [https://news.ycombinator.com/item?id=50494696](https://news.ycombinator.com/item?id=50494696)
+
+---
+
+### 2. Monkey Island: all 13 versions side by side
 
 **Source:** Hacker News
 
@@ -19,14 +36,14 @@
 **Description:**
 <p>Article URL: <a href="https://monkeyisland.pages.dev/">https://monkeyisland.pages.dev/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50493904">https://news.ycombinator.com/item?id=50493904</a></p>
-<p>Points: 92</p>
-<p># Comments: 14</p>
+<p>Points: 125</p>
+<p># Comments: 25</p>
 
 🔗 **Read more:** [https://monkeyisland.pages.dev/](https://monkeyisland.pages.dev/)
 
 ---
 
-### 2. Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs
+### 3. Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs
 
 **Source:** Hacker News
 
@@ -35,26 +52,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus">https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50493251">https://news.ycombinator.com/item?id=50493251</a></p>
-<p>Points: 548</p>
-<p># Comments: 327</p>
+<p>Points: 587</p>
+<p># Comments: 343</p>
 
 🔗 **Read more:** [https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus](https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus)
-
----
-
-### 3. Ggml v1.0.0
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/ggml-org/ggml/releases/tag/v1.0.0">https://github.com/ggml-org/ggml/releases/tag/v1.0.0</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50493062">https://news.ycombinator.com/item?id=50493062</a></p>
-<p>Points: 255</p>
-<p># Comments: 41</p>
-
-🔗 **Read more:** [https://github.com/ggml-org/ggml/releases/tag/v1.0.0](https://github.com/ggml-org/ggml/releases/tag/v1.0.0)
 
 ---
 
@@ -84,20 +85,33 @@ US officials say the disruption was caused by old equipment overloading and not 
 
 ---
 
-### 6. Trump, Putin and Xi plan historic joint meeting in China next week, White House says
+### 6. US has floated Ukraine ceding Donbas for Nato membership, Zelensky says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Trump will discuss the "reduction of nuclear weapons" during the unprecedented talks, a spokeswoman says.
+The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Migrant caravan heads to US from Mexico after Democrats’ midterm win
+### 7. Sabalenka crashes out of season-ending WTA Finals after losing to Svitolina
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+World number two Sabalenka&#039;s season came to a disappointing end after she failed to reach the WTA Finals semifinals.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/14/aryna-sabalenka-elina-svitolina-wta-finals-indian-wells-semifinals-tennis?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/14/aryna-sabalenka-elina-svitolina-wta-finals-indian-wells-semifinals-tennis?traffic_source=rss)
+
+---
+
+### 8. Migrant caravan heads to US from Mexico after Democrats’ midterm win
 
 **Source:** Al Jazeera
 
@@ -110,7 +124,7 @@ A migrant caravan of more than a thousand people is heading towards the US borde
 
 ---
 
-### 8. Netanyahu may fall, but his far-right legacy in Israel is going nowhere
+### 9. Netanyahu may fall, but his far-right legacy in Israel is going nowhere
 
 **Source:** Al Jazeera
 
@@ -120,19 +134,6 @@ A migrant caravan of more than a thousand people is heading towards the US borde
 Israel’s far-right is accused of embedding a hardline agenda so deeply that reversing it may prove almost impossible.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/14/netanyahu-may-fall-but-his-far-right-legacy-in-israel-is-going-nowhere?traffic_source=rss](https://www.aljazeera.com/news/2026/11/14/netanyahu-may-fall-but-his-far-right-legacy-in-israel-is-going-nowhere?traffic_source=rss)
-
----
-
-### 9. Pochettino bids emotional farewell to US football ahead of Man Utd move
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Mauricio Pochettino has bid an emotional farewell to US football as he prepares to take charge of Manchester United.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/14/pochettino-bids-emotional-farewell-to-us-football-ahead-of-man-utd-move?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/14/pochettino-bids-emotional-farewell-to-us-football-ahead-of-man-utd-move?traffic_source=rss)
 
 ---
 

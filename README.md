@@ -1,64 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-15 00:40:48
+**Last Update:** 2026-11-15 01:06:47
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Dartmouth (Guarini) will not admit math PhD cohort this year
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.thedartmouth.com/article/2026/11/gandhi-fagell-guarini-will-not-admit-math-ph-d-cohort-this-year">https://www.thedartmouth.com/article/2026/11/gandhi-fagell-guarini-will-not-admit-math-ph-d-cohort-this-year</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50499945">https://news.ycombinator.com/item?id=50499945</a></p>
-<p>Points: 24</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://www.thedartmouth.com/article/2026/11/gandhi-fagell-guarini-will-not-admit-math-ph-d-cohort-this-year](https://www.thedartmouth.com/article/2026/11/gandhi-fagell-guarini-will-not-admit-math-ph-d-cohort-this-year)
-
----
-
-### 2. LinkedIn, Monster take down over 1000 fake job postings after CBC investigation
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379">https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50499723">https://news.ycombinator.com/item?id=50499723</a></p>
-<p>Points: 94</p>
-<p># Comments: 32</p>
-
-🔗 **Read more:** [https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379](https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379)
-
----
-
-### 3. US IRS free online tax filing open source repo (2025)
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/IRS-Public/direct-file">https://github.com/IRS-Public/direct-file</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50499083">https://news.ycombinator.com/item?id=50499083</a></p>
-<p>Points: 107</p>
-<p># Comments: 52</p>
-
-🔗 **Read more:** [https://github.com/IRS-Public/direct-file](https://github.com/IRS-Public/direct-file)
-
----
-
-### 4. US has floated Ukraine ceding Donbas for Nato membership, Zelensky says
+### 1. US has floated Ukraine ceding Donbas for Nato membership, Zelensky says
 
 **Source:** BBC
 
@@ -71,7 +23,7 @@ The US has not confirmed the Ukrainian president's comments which follow meeting
 
 ---
 
-### 5. Young people should have legal guarantee of job or training, Milburn tells BBC
+### 2. Young people should have legal guarantee of job or training, Milburn tells BBC
 
 **Source:** BBC
 
@@ -84,7 +36,7 @@ The author of a major review on youth unemployment, due next week, acknowledges 
 
 ---
 
-### 6. Neets review won't be for the faint-hearted - and will test Burnham's appetite for a welfare fight
+### 3. Neets review won't be for the faint-hearted - and will test Burnham's appetite for a welfare fight
 
 **Source:** BBC
 
@@ -97,7 +49,7 @@ Milburn is not the first to try and fix the Neets problem - so what’s differen
 
 ---
 
-### 7. India’s Assam state demolishes homes of 132 Muslim families
+### 4. India’s Assam state demolishes homes of 132 Muslim families
 
 **Source:** Al Jazeera
 
@@ -110,7 +62,7 @@ Authorities in India’s Assam have demolished the homes of 132 Muslim families.
 
 ---
 
-### 8. Can being ‘non-Western’ cost you your home in Denmark?
+### 5. Can being ‘non-Western’ cost you your home in Denmark?
 
 **Source:** Al Jazeera
 
@@ -123,7 +75,7 @@ Denmark’s Supreme Court is set to rule on whether families can be forced from 
 
 ---
 
-### 9. Deadly car bomb blast kills two near Syria’s capital
+### 6. Deadly car bomb blast kills two near Syria’s capital
 
 **Source:** Al Jazeera
 
@@ -136,7 +88,7 @@ At least two people, a man and a girl, have been killed in a car bomb blast in J
 
 ---
 
-### 10. Wildfire Red Hill, Perry, Mississippi
+### 7. Wildfire Red Hill, Perry, Mississippi
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Wildfires
 
 ---
 
-### 11. Prescribed Fire Bienville CPT 29 Sub 2 RX, Scott, Mississippi
+### 8. Prescribed Fire Bienville CPT 29 Sub 2 RX, Scott, Mississippi
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Prescribed Fire Compartment 170 RX, Greene, Georgia
+### 9. Prescribed Fire Compartment 170 RX, Greene, Georgia
 
 **Source:** NASA
 

@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-14T19:57:10+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "PyPI's redesigned project pages with clearer security signals are now live",
+            "description": "<p>Article URL: <a href=\"https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/\">https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50497892\">https://news.ycombinator.com/item?id=50497892</a></p>\n<p>Points: 22</p>\n<p># Comments: 1</p>",
+            "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
+            "published": "Sat, 14 Nov 2026 15:40:52 +0000",
+            "fetched": "2026-11-14T19:57:10+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
+            "description": "<p>Article URL: <a href=\"https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/\">https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50497155\">https://news.ycombinator.com/item?id=50497155</a></p>\n<p>Points: 58</p>\n<p># Comments: 31</p>",
+            "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/",
+            "published": "Sat, 14 Nov 2026 14:09:25 +0000",
+            "fetched": "2026-11-14T19:57:10+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Agweb – a browser for agents that stays out of your way",
+            "description": "<p>Article URL: <a href=\"https://github.com/paul-nameless/agweb\">https://github.com/paul-nameless/agweb</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50497147\">https://news.ycombinator.com/item?id=50497147</a></p>\n<p>Points: 29</p>\n<p># Comments: 6</p>",
+            "url": "https://github.com/paul-nameless/agweb",
+            "published": "Sat, 14 Nov 2026 14:08:12 +0000",
+            "fetched": "2026-11-14T19:57:10+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Young people should have legal guarantee of job or training, Milburn tells BBC",
+            "description": "The author of a major review on youth unemployment, due next week, acknowledges the change would mean some young people losing out on benefits.",
+            "url": "https://www.bbc.co.uk/news/articles/c69vwp09d7vvo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 14 Nov 2026 13:48:37 GMT",
+            "fetched": "2026-11-14T19:57:10+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Neets review won't be for the faint-hearted - and will test Burnham's appetite for a welfare fight",
+            "description": "Milburn is not the first to try and fix the Neets problem - so what’s different this time round, asks Laura Kuenssberg.",
+            "url": "https://www.bbc.co.uk/news/articles/cmg46qgkl7r4o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 14 Nov 2026 12:22:43 GMT",
+            "fetched": "2026-11-14T19:57:10+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+            "description": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
+            "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 14 Nov 2026 15:15:57 GMT",
+            "fetched": "2026-11-14T19:57:10+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "EU calls for immediate humanitarian access to Gaza",
+            "description": "The EU said that “Israel must enable the work of the UN and its agencies&quot; after the group was blocked access into Gaza.",
+            "url": "https://www.aljazeera.com/news/2026/11/14/eu-calls-for-immediate-humanitarian-access-to-gaza?traffic_source=rss",
+            "published": "Sat, 14 Nov 2026 15:57:22 +0000",
+            "fetched": "2026-11-14T19:57:10+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Jerusalem Daily: Israeli forces occupy Palestinian-American’s home",
+            "description": "Israeli forces occupied a Palestinian-American’s home in the occupied West Bank for 17 days.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/jerusalem-daily-israeli-forces-occupy-palestinian-americans-home?traffic_source=rss",
+            "published": "Sat, 14 Nov 2026 15:36:37 +0000",
+            "fetched": "2026-11-14T19:57:10+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "NASA’s Voyager 1 to hit new space distance record of one light-day",
+            "description": "The probe was launched in 1977, and it continues to relay space-related data back to a team of NASA scientists.",
+            "url": "https://www.aljazeera.com/news/2026/11/14/nasas-voyager-1-to-hit-new-space-distance-record-of-one-light-day?traffic_source=rss",
+            "published": "Sat, 14 Nov 2026 15:14:54 +0000",
+            "fetched": "2026-11-14T19:57:10+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Red Hill, Perry, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26331",
+            "published": "2026-11-12T00:22:00Z",
+            "fetched": "2026-11-14T19:57:10+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Bienville CPT 29 Sub 2 RX, Scott, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26332",
+            "published": "2026-11-11T09:57:00Z",
+            "fetched": "2026-11-14T19:57:10+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Compartment 170 RX, Greene, Georgia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26333",
+            "published": "2026-11-09T16:30:00Z",
+            "fetched": "2026-11-14T19:57:10+03:30"
+        }
+    ]
+}

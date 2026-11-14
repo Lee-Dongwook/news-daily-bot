@@ -1,61 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-14 14:13:00
+**Last Update:** 2026-11-14 19:57:10
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Ask HN: What are the most useful, concrete AI skills to independently learn?
+### 1. PyPI's redesigned project pages with clearer security signals are now live
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Specifically, what are the most useful, concrete skills to learn as an individual to take economic advantage of the advances in LLMs, agents and associated new technological capabilities?<p>What is accessible to learn just from the internet and experimentation, without a degree program, assuming a preexisting moderately technical background? The clearer and more specific (eg. “Learn how-to x with y”) the better.<p>Thank you!</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50494696">https://news.ycombinator.com/item?id=50494696</a></p>
-<p>Points: 25</p>
-<p># Comments: 28</p>
+<p>Article URL: <a href="https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/">https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50497892">https://news.ycombinator.com/item?id=50497892</a></p>
+<p>Points: 22</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://news.ycombinator.com/item?id=50494696](https://news.ycombinator.com/item?id=50494696)
+🔗 **Read more:** [https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/](https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/)
 
 ---
 
-### 2. Monkey Island: all 13 versions side by side
+### 2. Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://monkeyisland.pages.dev/">https://monkeyisland.pages.dev/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50493904">https://news.ycombinator.com/item?id=50493904</a></p>
-<p>Points: 125</p>
-<p># Comments: 25</p>
+<p>Article URL: <a href="https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/">https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50497155">https://news.ycombinator.com/item?id=50497155</a></p>
+<p>Points: 58</p>
+<p># Comments: 31</p>
 
-🔗 **Read more:** [https://monkeyisland.pages.dev/](https://monkeyisland.pages.dev/)
+🔗 **Read more:** [https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/](https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/)
 
 ---
 
-### 3. Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs
+### 3. Show HN: Agweb – a browser for agents that stays out of your way
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus">https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50493251">https://news.ycombinator.com/item?id=50493251</a></p>
-<p>Points: 587</p>
-<p># Comments: 343</p>
+<p>Article URL: <a href="https://github.com/paul-nameless/agweb">https://github.com/paul-nameless/agweb</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50497147">https://news.ycombinator.com/item?id=50497147</a></p>
+<p>Points: 29</p>
+<p># Comments: 6</p>
 
-🔗 **Read more:** [https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus](https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus)
+🔗 **Read more:** [https://github.com/paul-nameless/agweb](https://github.com/paul-nameless/agweb)
 
 ---
 
@@ -72,16 +71,16 @@ The author of a major review on youth unemployment, due next week, acknowledges 
 
 ---
 
-### 5. What we know about the US ground stop and what to do if your flight is affected
+### 5. Neets review won't be for the faint-hearted - and will test Burnham's appetite for a welfare fight
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-US officials say the disruption was caused by old equipment overloading and not a cyber-attack.
+Milburn is not the first to try and fix the Neets problem - so what’s different this time round, asks Laura Kuenssberg.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmg46qgkl7r4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmg46qgkl7r4o?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -98,42 +97,42 @@ The Ukrainian president says US envoys touted the exchange as part of efforts to
 
 ---
 
-### 7. Sabalenka crashes out of season-ending WTA Finals after losing to Svitolina
+### 7. EU calls for immediate humanitarian access to Gaza
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-World number two Sabalenka&#039;s season came to a disappointing end after she failed to reach the WTA Finals semifinals.
+The EU said that “Israel must enable the work of the UN and its agencies&quot; after the group was blocked access into Gaza.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/14/aryna-sabalenka-elina-svitolina-wta-finals-indian-wells-semifinals-tennis?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/14/aryna-sabalenka-elina-svitolina-wta-finals-indian-wells-semifinals-tennis?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/14/eu-calls-for-immediate-humanitarian-access-to-gaza?traffic_source=rss](https://www.aljazeera.com/news/2026/11/14/eu-calls-for-immediate-humanitarian-access-to-gaza?traffic_source=rss)
 
 ---
 
-### 8. Migrant caravan heads to US from Mexico after Democrats’ midterm win
+### 8. Jerusalem Daily: Israeli forces occupy Palestinian-American’s home
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A migrant caravan of more than a thousand people is heading towards the US border from southern Mexico.
+Israeli forces occupied a Palestinian-American’s home in the occupied West Bank for 17 days.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/14/migrant-caravan-heads-to-us-from-mexico-after-democrats-midterm-win?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/14/migrant-caravan-heads-to-us-from-mexico-after-democrats-midterm-win?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/14/jerusalem-daily-israeli-forces-occupy-palestinian-americans-home?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/14/jerusalem-daily-israeli-forces-occupy-palestinian-americans-home?traffic_source=rss)
 
 ---
 
-### 9. Netanyahu may fall, but his far-right legacy in Israel is going nowhere
+### 9. NASA’s Voyager 1 to hit new space distance record of one light-day
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israel’s far-right is accused of embedding a hardline agenda so deeply that reversing it may prove almost impossible.
+The probe was launched in 1977, and it continues to relay space-related data back to a team of NASA scientists.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/14/netanyahu-may-fall-but-his-far-right-legacy-in-israel-is-going-nowhere?traffic_source=rss](https://www.aljazeera.com/news/2026/11/14/netanyahu-may-fall-but-his-far-right-legacy-in-israel-is-going-nowhere?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/14/nasas-voyager-1-to-hit-new-space-distance-record-of-one-light-day?traffic_source=rss](https://www.aljazeera.com/news/2026/11/14/nasas-voyager-1-to-hit-new-space-distance-record-of-one-light-day?traffic_source=rss)
 
 ---
 

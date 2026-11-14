@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-14T05:31:48+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "FAA lifted National Ground Stop at 0119Z",
+            "description": "<p>Article URL: <a href=\"https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&amp;advn=5\">https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&amp;advn=5</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50492601\">https://news.ycombinator.com/item?id=50492601</a></p>\n<p>Points: 41</p>\n<p># Comments: 9</p>",
+            "url": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&advn=5",
+            "published": "Sat, 14 Nov 2026 01:30:01 +0000",
+            "fetched": "2026-11-14T05:31:48+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Ukraine knocks out 36% of Russia's oil refining capacity in under two weeks",
+            "description": "<p>Article URL: <a href=\"https://english.nv.ua/nation/thirteen-day-drone-blitz-paralyzes-36-of-moscow-s-oil-50658616.html\">https://english.nv.ua/nation/thirteen-day-drone-blitz-paralyzes-36-of-moscow-s-oil-50658616.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50492456\">https://news.ycombinator.com/item?id=50492456</a></p>\n<p>Points: 66</p>\n<p># Comments: 9</p>",
+            "url": "https://english.nv.ua/nation/thirteen-day-drone-blitz-paralyzes-36-of-moscow-s-oil-50658616.html",
+            "published": "Sat, 14 Nov 2026 01:10:22 +0000",
+            "fetched": "2026-11-14T05:31:48+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Amtrak booking system experiencing major issues amid nationwide FAA ground stop",
+            "description": "<p>Article URL: <a href=\"https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026\">https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50492315\">https://news.ycombinator.com/item?id=50492315</a></p>\n<p>Points: 96</p>\n<p># Comments: 29</p>",
+            "url": "https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026",
+            "published": "Sat, 14 Nov 2026 00:52:29 +0000",
+            "fetched": "2026-11-14T05:31:48+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+            "description": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
+            "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 13 Nov 2026 23:40:45 GMT",
+            "fetched": "2026-11-14T05:31:48+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "US Air Force says it responded to 'suspected drones' over RAF Lakenheath",
+            "description": "The American military says there were no injuries or damage after \"suspected unauthorised drone activity\" this evening.",
+            "url": "https://www.bbc.co.uk/news/articles/c6jd75geegzyo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 13 Nov 2026 22:12:33 GMT",
+            "fetched": "2026-11-14T05:31:48+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Police investigating David Walliams over reports alleging serious sexual offences",
+            "description": "The Met Police said the allegations are separate from those reported by ITV and the Guardian earlier this week.",
+            "url": "https://www.bbc.co.uk/news/articles/cwx2emg4xe72o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 13 Nov 2026 16:53:50 GMT",
+            "fetched": "2026-11-14T05:31:48+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Tanker collision leaves riverboat passengers clinging to railings",
+            "description": "Passengers were rescued after a tanker ship collided with a riverboat docked on the Mississippi River in New Orleans.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/aje-onl-nf_tanker-collision-in-new-orleans-131126?traffic_source=rss",
+            "published": "Sat, 14 Nov 2026 01:37:08 +0000",
+            "fetched": "2026-11-14T05:31:48+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Former FAA official says ‘nobody really knows what is going on’",
+            "description": "Former FAA safety team representative Kyle Bailey says grounding flights is the safest course of action.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/former-faa-official-says-nobody-really-knows-what-is-going?traffic_source=rss",
+            "published": "Sat, 14 Nov 2026 01:28:46 +0000",
+            "fetched": "2026-11-14T05:31:48+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "UK police open sex offence probe into comedian and author David Walliams",
+            "description": "The British TV personality, 55, denies sexual assault allegations, saying he has not broken the law.",
+            "url": "https://www.aljazeera.com/news/2026/11/14/uk-police-open-sex-offence-probe-into-comedian-and-author-david-walliams?traffic_source=rss",
+            "published": "Sat, 14 Nov 2026 00:22:07 +0000",
+            "fetched": "2026-11-14T05:31:48+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Red Hill, Perry, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26331",
+            "published": "2026-11-12T00:22:00Z",
+            "fetched": "2026-11-14T05:31:48+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Bienville CPT 29 Sub 2 RX, Scott, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26332",
+            "published": "2026-11-11T09:57:00Z",
+            "fetched": "2026-11-14T05:31:48+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Compartment 170 RX, Greene, Georgia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26333",
+            "published": "2026-11-09T16:30:00Z",
+            "fetched": "2026-11-14T05:31:48+03:30"
+        }
+    ]
+}

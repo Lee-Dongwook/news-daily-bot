@@ -1,16 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-16 01:01:00
+**Last Update:** 2026-11-16 01:25:06
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Staggered age of consent to be discussed after Brand case, minister says
+### 1. Your Agent Will Pick the Hackable One
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/">https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50510799">https://news.ycombinator.com/item?id=50510799</a></p>
+<p>Points: 8</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/](https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/)
+
+---
+
+### 2. Vulcan rocket fails during return-to-flight launch, 40 Amazon satellites lost
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch">https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50510442">https://news.ycombinator.com/item?id=50510442</a></p>
+<p>Points: 33</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch](https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch)
+
+---
+
+### 3. WebGL Flight Simulator with seed generated terrain
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://baron.by.dai.studio/">https://baron.by.dai.studio/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50510296">https://news.ycombinator.com/item?id=50510296</a></p>
+<p>Points: 7</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://baron.by.dai.studio/](https://baron.by.dai.studio/)
+
+---
+
+### 4. Staggered age of consent to be discussed after Brand case, minister says
 
 **Source:** BBC
 
@@ -23,7 +71,7 @@ A woman who alleges she was raped by the jailed comedian when she was 16 is camp
 
 ---
 
-### 2. Man and woman die and four arrested after police pursuit crash in Leeds
+### 5. Man and woman die and four arrested after police pursuit crash in Leeds
 
 **Source:** BBC
 
@@ -36,20 +84,33 @@ Four people have been arrested on suspicion of causing death by dangerous drivin
 
 ---
 
-### 3. Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'
+### 6. Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The Ukrainian president says restrictions are still in place and making it difficult to stop Russian attacks.
+The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. Photos: Pope Leo visits Peru’s Amazon and Andean regions during 12-day tour
+### 7. Yemen’s Houthis unilaterally release 600 war detainees
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Yemen’s Houthis have released 600 people imprisoned during the country’s civil war.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/15/yemens-houthis-unilaterally-release-600-war-detainees?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/15/yemens-houthis-unilaterally-release-600-war-detainees?traffic_source=rss)
+
+---
+
+### 8. Photos: Pope Leo visits Peru’s Amazon and Andean regions during 12-day tour
 
 **Source:** Al Jazeera
 
@@ -62,7 +123,7 @@ The pope has called for the preservation of Indigenous traditions in Peru as he 
 
 ---
 
-### 5. Palestinians reclaim Gaza’s shores with a swim for hope
+### 9. Palestinians reclaim Gaza’s shores with a swim for hope
 
 **Source:** Al Jazeera
 
@@ -75,20 +136,7 @@ For the first time in more than three years, Gaza’s swimming federation has he
 
 ---
 
-### 6. Who can force Israel to implement Gaza ceasefire deal?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Storms batter Palestinian territory as Israel restricts entry of aid.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/11/15/who-can-force-israel-to-implement-gaza-ceasefire-deal?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/11/15/who-can-force-israel-to-implement-gaza-ceasefire-deal?traffic_source=rss)
-
----
-
-### 7. Wildfire Red Hill, Perry, Mississippi
+### 10. Wildfire Red Hill, Perry, Mississippi
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Wildfires
 
 ---
 
-### 8. Prescribed Fire Bienville CPT 29 Sub 2 RX, Scott, Mississippi
+### 11. Prescribed Fire Bienville CPT 29 Sub 2 RX, Scott, Mississippi
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Wildfires
 
 ---
 
-### 9. Prescribed Fire Compartment 170 RX, Greene, Georgia
+### 12. Prescribed Fire Compartment 170 RX, Greene, Georgia
 
 **Source:** NASA
 

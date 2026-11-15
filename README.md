@@ -1,64 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-15 20:47:25
+**Last Update:** 2026-11-16 01:01:00
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** NASA, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. 'Duffy Lied': Controllers Refute Transportation Secretary's Ground Stop Story
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.commondreams.org/news/duffy-ground-stop-explanation">https://www.commondreams.org/news/duffy-ground-stop-explanation</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50507791">https://news.ycombinator.com/item?id=50507791</a></p>
-<p>Points: 42</p>
-<p># Comments: 9</p>
-
-🔗 **Read more:** [https://www.commondreams.org/news/duffy-ground-stop-explanation](https://www.commondreams.org/news/duffy-ground-stop-explanation)
-
----
-
-### 2. Emacs Is My Browser
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://joshblais.com/blog/emacs-as-my-browser/">https://joshblais.com/blog/emacs-as-my-browser/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50507553">https://news.ycombinator.com/item?id=50507553</a></p>
-<p>Points: 42</p>
-<p># Comments: 13</p>
-
-🔗 **Read more:** [https://joshblais.com/blog/emacs-as-my-browser/](https://joshblais.com/blog/emacs-as-my-browser/)
-
----
-
-### 3. All AI-generated code should be Open Source
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://jakub.jankiewicz.org/blog/ai-code-open-source/">https://jakub.jankiewicz.org/blog/ai-code-open-source/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50507303">https://news.ycombinator.com/item?id=50507303</a></p>
-<p>Points: 405</p>
-<p># Comments: 248</p>
-
-🔗 **Read more:** [https://jakub.jankiewicz.org/blog/ai-code-open-source/](https://jakub.jankiewicz.org/blog/ai-code-open-source/)
-
----
-
-### 4. Staggered age of consent to be discussed after Brand case, minister says
+### 1. Staggered age of consent to be discussed after Brand case, minister says
 
 **Source:** BBC
 
@@ -71,7 +23,7 @@ A woman who alleges she was raped by the jailed comedian when she was 16 is camp
 
 ---
 
-### 5. Man and woman die and four arrested after police pursuit crash in Leeds
+### 2. Man and woman die and four arrested after police pursuit crash in Leeds
 
 **Source:** BBC
 
@@ -84,59 +36,59 @@ Four people have been arrested on suspicion of causing death by dangerous drivin
 
 ---
 
-### 6. Ex-Met Police inspector lied about wife's death in Barbados hotel room, BBC learns
+### 3. Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Warren Arter faced claims of sexually exploiting crime victims - his wife was found in a blood-stained room.
+The Ukrainian president says restrictions are still in place and making it difficult to stop Russian attacks.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6jd7k7g57x5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6jd7k7g57x5o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. LIVE: Spain vs England – UEFA Nations League
+### 4. Photos: Pope Leo visits Peru’s Amazon and Andean regions during 12-day tour
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Previews, team news and live text commentary as England and Spain vie for top spot in final Nations League group game.
+The pope has called for the preservation of Indigenous traditions in Peru as he wraps up a 12-day tour of Latin America.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/liveblog/2026/11/15/live-spain-vs-england-uefa-nations-league?traffic_source=rss](https://www.aljazeera.com/sports/liveblog/2026/11/15/live-spain-vs-england-uefa-nations-league?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/11/15/photos-pope-leo-visits-perus-amazon-and-andean-regions-during-12-day-tour?traffic_source=rss](https://www.aljazeera.com/gallery/2026/11/15/photos-pope-leo-visits-perus-amazon-and-andean-regions-during-12-day-tour?traffic_source=rss)
 
 ---
 
-### 8. Thousands rally in Czech Republic against state media funding changes
+### 5. Palestinians reclaim Gaza’s shores with a swim for hope
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Critics say proposed funding changes will give the government more control of state media.
+For the first time in more than three years, Gaza’s swimming federation has held a competition.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/15/thousands-rally-in-czech-republic-against-state-media-funding-changes?traffic_source=rss](https://www.aljazeera.com/news/2026/11/15/thousands-rally-in-czech-republic-against-state-media-funding-changes?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/15/palestinians-reclaim-gazas-shores-with-a-swim-for-hope?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/15/palestinians-reclaim-gazas-shores-with-a-swim-for-hope?traffic_source=rss)
 
 ---
 
-### 9. British tourist smashes Jesus statue outside Vilnius church
+### 6. Who can force Israel to implement Gaza ceasefire deal?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A man removed a statue of the crucified Jesus from a church in Vilnius and it smashed to the ground.
+Storms batter Palestinian territory as Israel restricts entry of aid.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/15/british-tourist-smashes-jesus-statue-outside-vilnius-church?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/15/british-tourist-smashes-jesus-statue-outside-vilnius-church?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/11/15/who-can-force-israel-to-implement-gaza-ceasefire-deal?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/11/15/who-can-force-israel-to-implement-gaza-ceasefire-deal?traffic_source=rss)
 
 ---
 
-### 10. Wildfire Red Hill, Perry, Mississippi
+### 7. Wildfire Red Hill, Perry, Mississippi
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Wildfires
 
 ---
 
-### 11. Prescribed Fire Bienville CPT 29 Sub 2 RX, Scott, Mississippi
+### 8. Prescribed Fire Bienville CPT 29 Sub 2 RX, Scott, Mississippi
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Prescribed Fire Compartment 170 RX, Greene, Georgia
+### 9. Prescribed Fire Compartment 170 RX, Greene, Georgia
 
 **Source:** NASA
 

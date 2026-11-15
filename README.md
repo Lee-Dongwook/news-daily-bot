@@ -1,90 +1,78 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-15 05:29:52
+**Last Update:** 2026-11-15 12:26:59
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. L3Harris statement on the Nov. 13 ground stop
+### 1. Disk encryption on NetBSD – achieving secrecy
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.l3harris.com/newsroom/press-release/2026/11/l3harris-statement-nov-13-ground-stop">https://www.l3harris.com/newsroom/press-release/2026/11/l3harris-statement-nov-13-ground-stop</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50501844">https://news.ycombinator.com/item?id=50501844</a></p>
-<p>Points: 67</p>
-<p># Comments: 37</p>
+<p>Article URL: <a href="https://netbsd.org/~nia/disk-encrypt/">https://netbsd.org/~nia/disk-encrypt/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50504277">https://news.ycombinator.com/item?id=50504277</a></p>
+<p>Points: 14</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.l3harris.com/newsroom/press-release/2026/11/l3harris-statement-nov-13-ground-stop](https://www.l3harris.com/newsroom/press-release/2026/11/l3harris-statement-nov-13-ground-stop)
+🔗 **Read more:** [https://netbsd.org/~nia/disk-encrypt/](https://netbsd.org/~nia/disk-encrypt/)
 
 ---
 
-### 2. Nvidia deliberately kept GPU prices high through circular financing deals
+### 2. Kiri – The Modern Container Runtime
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html">https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50501631">https://news.ycombinator.com/item?id=50501631</a></p>
-<p>Points: 187</p>
-<p># Comments: 108</p>
+<p>Article URL: <a href="https://runkiri.com/">https://runkiri.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50504077">https://news.ycombinator.com/item?id=50504077</a></p>
+<p>Points: 30</p>
+<p># Comments: 15</p>
 
-🔗 **Read more:** [https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html](https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html)
+🔗 **Read more:** [https://runkiri.com/](https://runkiri.com/)
 
 ---
 
-### 3. How did Woz write the Apple 1 BASIC before building the computer?
+### 3. Show HN: Gawain – Require type hints on all Python variables
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://retrocomputing.stackexchange.com/questions/17957">https://retrocomputing.stackexchange.com/questions/17957</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50501594">https://news.ycombinator.com/item?id=50501594</a></p>
-<p>Points: 92</p>
-<p># Comments: 29</p>
+<p>Yes, i really hate "dict[str, ANY]"</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50504072">https://news.ycombinator.com/item?id=50504072</a></p>
+<p>Points: 43</p>
+<p># Comments: 20</p>
 
-🔗 **Read more:** [https://retrocomputing.stackexchange.com/questions/17957](https://retrocomputing.stackexchange.com/questions/17957)
+🔗 **Read more:** [https://github.com/matheuzgomes/gawain](https://github.com/matheuzgomes/gawain)
 
 ---
 
-### 4. US has floated Ukraine ceding Donbas for Nato membership, Zelensky says
+### 4. Ex-Met Police inspector lied about wife's death in Barbados hotel room, BBC learns
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The US has not confirmed the Ukrainian president's comments - a US official told the BBC "many ideas continue to be discussed".
+Warren Arter faced claims of sexually exploiting crime victims - his wife was found in a blood-stained room.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Neets review won't be for the faint-hearted - and will test Burnham's appetite for a welfare fight
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Milburn is not the first to try and fix the Neets problem - so what’s different this time round, asks Laura Kuenssberg.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmg46qgkl7r4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmg46qgkl7r4o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6jd7k7g57x5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6jd7k7g57x5o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Alleged Russell Brand rape victim wants age of consent law changed
+### 5. Alleged Russell Brand rape victim wants age of consent law changed
 
 **Source:** BBC
 
@@ -97,42 +85,55 @@ Mia Latter, who says she was 16 when she met the convicted rapist, wants a stagg
 
 ---
 
-### 7. Netanyahu sends plea to Eisenkot for unity government
+### 6. Watch: SpaceX catches part of its Starship rocket on return to Earth
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-Benjamin Netanyahu has issued a public plea to opposition leader Gadi Eisenkot to form a unity government.
+SpaceX has performed the historic catch using mechanical arms nicknamed "chopsticks".
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/15/netanyahu-sends-plea-to-eisenkot-for-unity-government?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/15/netanyahu-sends-plea-to-eisenkot-for-unity-government?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. Thailand’s elderly kept in cages
+### 7. De la Fuente denies racism in Spain despite Yamal, Vinicius avowals
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A nursing home in Thailand, has been accused of keeping dozens of senior residents, in metal cages.
+Yamal and Vinicius have publicly said they face racist abuse in Spain, which has faced FIFA punishment over the issue.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/15/thailands-elderly-kept-in-cages?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/15/thailands-elderly-kept-in-cages?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/15/de-la-fuente-denies-racism-in-spain-despite-yamal-vinicius-avowals?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/15/de-la-fuente-denies-racism-in-spain-despite-yamal-vinicius-avowals?traffic_source=rss)
 
 ---
 
-### 9. SpaceX’s Starship nails a smooth return with historic catch
+### 8. Jordan sentences three men to death by hanging after deadly church attack
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-SpaceX Starship made a triumphant return to Earth, caught midair by giant mechanical ‘chopsticks’.
+This is a breaking news story.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/15/aje-onl-nf_spacexs-starship-nails-a-smooth-return-141126?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/15/aje-onl-nf_spacexs-starship-nails-a-smooth-return-141126?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/15/jordan-sentences-three-men-to-death-by-hanging-after-deadly-church-attack?traffic_source=rss](https://www.aljazeera.com/news/2026/11/15/jordan-sentences-three-men-to-death-by-hanging-after-deadly-church-attack?traffic_source=rss)
+
+---
+
+### 9. Pact on South China Sea code of conduct unlikely, as ASEAN leaders gather
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Finishing negotiations for disputed South China Sea agreement will be a &#039;tall order&#039;, analysts say.
+
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/11/15/pact-on-south-china-sea-code-of-conduct-unlikely-as-asean-leaders-gather?traffic_source=rss](https://www.aljazeera.com/economy/2026/11/15/pact-on-south-china-sea-code-of-conduct-unlikely-as-asean-leaders-gather?traffic_source=rss)
 
 ---
 

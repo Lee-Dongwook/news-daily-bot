@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-11-15T19:43:16+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Staggered age of consent to be discussed after Brand case, minister says",
+            "description": "A woman who alleges she was raped by the jailed comedian when she was 16 is campaigning to see relationships between 16-and 17-year-olds and adults made illegal.",
+            "url": "https://www.bbc.co.uk/news/articles/cwdr1dmn563do?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 15 Nov 2026 15:08:30 GMT",
+            "fetched": "2026-11-15T19:43:16+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Man and woman die and four arrested after police pursuit crash in Leeds",
+            "description": "Four people have been arrested on suspicion of causing death by dangerous driving, police say.",
+            "url": "https://www.bbc.co.uk/news/articles/cm3eg8x9zkvno?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 15 Nov 2026 12:38:28 GMT",
+            "fetched": "2026-11-15T19:43:16+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Ex-Met Police inspector lied about wife's death in Barbados hotel room, BBC learns",
+            "description": "Warren Arter faced claims of sexually exploiting crime victims - his wife was found in a blood-stained room.",
+            "url": "https://www.bbc.co.uk/news/articles/c6jd7k7g57x5o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 15 Nov 2026 06:01:46 GMT",
+            "fetched": "2026-11-15T19:43:16+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "70 bodies recovered from Gaza rubble, thousands still missing",
+            "description": "70 bodies recovered from Gaza rubble, thousands still missing",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/70-bodies-recovered-from-gaza-rubble-thousands-still-missing?traffic_source=rss",
+            "published": "Sun, 15 Nov 2026 15:32:43 +0000",
+            "fetched": "2026-11-15T19:43:16+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Will Iraq’s oil smuggling crackdown disarm militias without a conflict?",
+            "description": "Iraq has dismantled an alleged smuggling ring in Jurf al-Sakhar which could squeeze militias and avert internal strife",
+            "url": "https://www.aljazeera.com/news/2026/11/15/will-iraqs-oil-smuggllng-crackdown-disarm-militias-without-a-conflict?traffic_source=rss",
+            "published": "Sun, 15 Nov 2026 15:21:21 +0000",
+            "fetched": "2026-11-15T19:43:16+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "20 years of Al Jazeera English: Our story is still being written",
+            "description": "As we celebrate our 20th anniversary, we remain committed to our values and the quality of our journalism.",
+            "url": "https://www.aljazeera.com/opinions/2026/11/15/20-years-of-al-jazeera-english-our-story-is-still-being-written?traffic_source=rss",
+            "published": "Sun, 15 Nov 2026 15:21:12 +0000",
+            "fetched": "2026-11-15T19:43:16+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Red Hill, Perry, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26331",
+            "published": "2026-11-12T00:22:00Z",
+            "fetched": "2026-11-15T19:43:16+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Bienville CPT 29 Sub 2 RX, Scott, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26332",
+            "published": "2026-11-11T09:57:00Z",
+            "fetched": "2026-11-15T19:43:16+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Compartment 170 RX, Greene, Georgia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26333",
+            "published": "2026-11-09T16:30:00Z",
+            "fetched": "2026-11-15T19:43:16+03:30"
+        }
+    ]
+}

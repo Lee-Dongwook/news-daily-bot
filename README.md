@@ -1,16 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-15 05:04:41
+**Last Update:** 2026-11-15 05:29:52
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. US has floated Ukraine ceding Donbas for Nato membership, Zelensky says
+### 1. L3Harris statement on the Nov. 13 ground stop
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.l3harris.com/newsroom/press-release/2026/11/l3harris-statement-nov-13-ground-stop">https://www.l3harris.com/newsroom/press-release/2026/11/l3harris-statement-nov-13-ground-stop</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50501844">https://news.ycombinator.com/item?id=50501844</a></p>
+<p>Points: 67</p>
+<p># Comments: 37</p>
+
+🔗 **Read more:** [https://www.l3harris.com/newsroom/press-release/2026/11/l3harris-statement-nov-13-ground-stop](https://www.l3harris.com/newsroom/press-release/2026/11/l3harris-statement-nov-13-ground-stop)
+
+---
+
+### 2. Nvidia deliberately kept GPU prices high through circular financing deals
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html">https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50501631">https://news.ycombinator.com/item?id=50501631</a></p>
+<p>Points: 187</p>
+<p># Comments: 108</p>
+
+🔗 **Read more:** [https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html](https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html)
+
+---
+
+### 3. How did Woz write the Apple 1 BASIC before building the computer?
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://retrocomputing.stackexchange.com/questions/17957">https://retrocomputing.stackexchange.com/questions/17957</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50501594">https://news.ycombinator.com/item?id=50501594</a></p>
+<p>Points: 92</p>
+<p># Comments: 29</p>
+
+🔗 **Read more:** [https://retrocomputing.stackexchange.com/questions/17957](https://retrocomputing.stackexchange.com/questions/17957)
+
+---
+
+### 4. US has floated Ukraine ceding Donbas for Nato membership, Zelensky says
 
 **Source:** BBC
 
@@ -23,7 +71,7 @@ The US has not confirmed the Ukrainian president's comments - a US official told
 
 ---
 
-### 2. Neets review won't be for the faint-hearted - and will test Burnham's appetite for a welfare fight
+### 5. Neets review won't be for the faint-hearted - and will test Burnham's appetite for a welfare fight
 
 **Source:** BBC
 
@@ -36,7 +84,7 @@ Milburn is not the first to try and fix the Neets problem - so what’s differen
 
 ---
 
-### 3. Alleged Russell Brand rape victim wants age of consent law changed
+### 6. Alleged Russell Brand rape victim wants age of consent law changed
 
 **Source:** BBC
 
@@ -49,46 +97,46 @@ Mia Latter, who says she was 16 when she met the convicted rapist, wants a stagg
 
 ---
 
-### 4. Israeli air strike kills senior Hamas commander in Gaza
+### 7. Netanyahu sends plea to Eisenkot for unity government
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Hamas confirms the death of Rafah brigade commander Samir Abu Younis in an attack on Khan Younis on Saturday.
+Benjamin Netanyahu has issued a public plea to opposition leader Gadi Eisenkot to form a unity government.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza?traffic_source=rss](https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/15/netanyahu-sends-plea-to-eisenkot-for-unity-government?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/15/netanyahu-sends-plea-to-eisenkot-for-unity-government?traffic_source=rss)
 
 ---
 
-### 5. Hundreds of men march in Switzerland to protest violence against women
+### 8. Thailand’s elderly kept in cages
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Organisers say men must speak out, as Swiss study finds half of men aged 18 to 24 hold restrictive view of masculinity.
+A nursing home in Thailand, has been accused of keeping dozens of senior residents, in metal cages.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/15/hundreds-of-men-march-in-switzerland-to-protest-violence-against-women?traffic_source=rss](https://www.aljazeera.com/news/2026/11/15/hundreds-of-men-march-in-switzerland-to-protest-violence-against-women?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/15/thailands-elderly-kept-in-cages?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/15/thailands-elderly-kept-in-cages?traffic_source=rss)
 
 ---
 
-### 6. SpaceX’s Starship captured by launchpad arms in dramatic first
+### 9. SpaceX’s Starship nails a smooth return with historic catch
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-SpaceX officials say catch by mechanical arms shows Starship&#039;s full reusability, crucial for rapid, low-cost recycling.
+SpaceX Starship made a triumphant return to Earth, caught midair by giant mechanical ‘chopsticks’.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/15/spacexs-starship-captured-by-launchpad-arms-in-dramatic-first?traffic_source=rss](https://www.aljazeera.com/news/2026/11/15/spacexs-starship-captured-by-launchpad-arms-in-dramatic-first?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/15/aje-onl-nf_spacexs-starship-nails-a-smooth-return-141126?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/15/aje-onl-nf_spacexs-starship-nails-a-smooth-return-141126?traffic_source=rss)
 
 ---
 
-### 7. Wildfire Red Hill, Perry, Mississippi
+### 10. Wildfire Red Hill, Perry, Mississippi
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Wildfires
 
 ---
 
-### 8. Prescribed Fire Bienville CPT 29 Sub 2 RX, Scott, Mississippi
+### 11. Prescribed Fire Bienville CPT 29 Sub 2 RX, Scott, Mississippi
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Wildfires
 
 ---
 
-### 9. Prescribed Fire Compartment 170 RX, Greene, Georgia
+### 12. Prescribed Fire Compartment 170 RX, Greene, Georgia
 
 **Source:** NASA
 

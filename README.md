@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-15 12:26:59
+**Last Update:** 2026-11-15 13:08:55
 
 **Total News:** 12
 
@@ -19,7 +19,7 @@
 **Description:**
 <p>Article URL: <a href="https://netbsd.org/~nia/disk-encrypt/">https://netbsd.org/~nia/disk-encrypt/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50504277">https://news.ycombinator.com/item?id=50504277</a></p>
-<p>Points: 14</p>
+<p>Points: 21</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://netbsd.org/~nia/disk-encrypt/](https://netbsd.org/~nia/disk-encrypt/)
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://runkiri.com/">https://runkiri.com/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50504077">https://news.ycombinator.com/item?id=50504077</a></p>
-<p>Points: 30</p>
-<p># Comments: 15</p>
+<p>Points: 40</p>
+<p># Comments: 19</p>
 
 🔗 **Read more:** [https://runkiri.com/](https://runkiri.com/)
 
@@ -52,8 +52,8 @@
 <p>Yes, i really hate "dict[str, ANY]"</p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50504072">https://news.ycombinator.com/item?id=50504072</a></p>
-<p>Points: 43</p>
-<p># Comments: 20</p>
+<p>Points: 47</p>
+<p># Comments: 22</p>
 
 🔗 **Read more:** [https://github.com/matheuzgomes/gawain](https://github.com/matheuzgomes/gawain)
 
@@ -98,42 +98,42 @@ SpaceX has performed the historic catch using mechanical arms nicknamed "chopsti
 
 ---
 
-### 7. De la Fuente denies racism in Spain despite Yamal, Vinicius avowals
+### 7. What forced the US to ground all planes? A router switch, we now know
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Yamal and Vinicius have publicly said they face racist abuse in Spain, which has faced FIFA punishment over the issue.
+US officials say a routine upgrade that went awry caused the mass disruption of air travel.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/15/de-la-fuente-denies-racism-in-spain-despite-yamal-vinicius-avowals?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/15/de-la-fuente-denies-racism-in-spain-despite-yamal-vinicius-avowals?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/15/what-forced-the-us-to-ground-all-planes-a-router-switch-we-now-know?traffic_source=rss](https://www.aljazeera.com/news/2026/11/15/what-forced-the-us-to-ground-all-planes-a-router-switch-we-now-know?traffic_source=rss)
 
 ---
 
-### 8. Jordan sentences three men to death by hanging after deadly church attack
+### 8. India pulled 500m people out of poverty. Many of them still barely survive
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-This is a breaking news story.
+World Bank says India pulled a record number of citizens out of poverty, but millions of them still live on the edge.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/15/jordan-sentences-three-men-to-death-by-hanging-after-deadly-church-attack?traffic_source=rss](https://www.aljazeera.com/news/2026/11/15/jordan-sentences-three-men-to-death-by-hanging-after-deadly-church-attack?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/11/15/india-pulled-500m-people-out-of-poverty-since-2011-why-doesnt-it-feel-so?traffic_source=rss](https://www.aljazeera.com/features/2026/11/15/india-pulled-500m-people-out-of-poverty-since-2011-why-doesnt-it-feel-so?traffic_source=rss)
 
 ---
 
-### 9. Pact on South China Sea code of conduct unlikely, as ASEAN leaders gather
+### 9. Thousands in Portugal protest against surging rental prices
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Finishing negotiations for disputed South China Sea agreement will be a &#039;tall order&#039;, analysts say.
+Thousands of people across Portugal are angry about rising rental prices, demanding action to end the housing crisis.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/11/15/pact-on-south-china-sea-code-of-conduct-unlikely-as-asean-leaders-gather?traffic_source=rss](https://www.aljazeera.com/economy/2026/11/15/pact-on-south-china-sea-code-of-conduct-unlikely-as-asean-leaders-gather?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/15/thousands-in-portugal-protest-against-surging-rental-prices?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/15/thousands-in-portugal-protest-against-surging-rental-prices?traffic_source=rss)
 
 ---
 

@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-15 01:06:47
+**Last Update:** 2026-11-15 05:04:41
 
 **Total News:** 9
 
-**Sources:** BBC, NASA, Al Jazeera
+**Sources:** Al Jazeera, BBC, NASA
 
 ---
 
@@ -17,26 +17,13 @@
 **Category:** world
 
 **Description:**
-The US has not confirmed the Ukrainian president's comments which follow meetings US envoys had with him and Russia's Vladimir Putin.
+The US has not confirmed the Ukrainian president's comments - a US official told the BBC "many ideas continue to be discussed".
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 2. Young people should have legal guarantee of job or training, Milburn tells BBC
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The author of a major review on youth unemployment, due next week, acknowledges the change would mean some young people losing out on benefits.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c69vwp09d7vvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c69vwp09d7vvo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 3. Neets review won't be for the faint-hearted - and will test Burnham's appetite for a welfare fight
+### 2. Neets review won't be for the faint-hearted - and will test Burnham's appetite for a welfare fight
 
 **Source:** BBC
 
@@ -49,42 +36,55 @@ Milburn is not the first to try and fix the Neets problem - so what’s differen
 
 ---
 
-### 4. India’s Assam state demolishes homes of 132 Muslim families
+### 3. Alleged Russell Brand rape victim wants age of consent law changed
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-Authorities in India’s Assam have demolished the homes of 132 Muslim families.
+Mia Latter, who says she was 16 when she met the convicted rapist, wants a staggered age of consent.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/14/14-11-sv-assam-muslim-families-evicted-demolition-drive?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/14/14-11-sv-assam-muslim-families-evicted-demolition-drive?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm3rgx9p583zo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm3rgx9p583zo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Can being ‘non-Western’ cost you your home in Denmark?
+### 4. Israeli air strike kills senior Hamas commander in Gaza
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Denmark’s Supreme Court is set to rule on whether families can be forced from their homes under a law.
+Hamas confirms the death of Rafah brigade commander Samir Abu Younis in an attack on Khan Younis on Saturday.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/14/adlern-can_non-westren_cost_home_denmark-141126?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/14/adlern-can_non-westren_cost_home_denmark-141126?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza?traffic_source=rss](https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza?traffic_source=rss)
 
 ---
 
-### 6. Deadly car bomb blast kills two near Syria’s capital
+### 5. Hundreds of men march in Switzerland to protest violence against women
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-At least two people, a man and a girl, have been killed in a car bomb blast in Jaramana, near Syria&#039;s capital Damascus.
+Organisers say men must speak out, as Swiss study finds half of men aged 18 to 24 hold restrictive view of masculinity.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/14/deadly-car-bomb-blast-kills-two-near-syrias-capital?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/14/deadly-car-bomb-blast-kills-two-near-syrias-capital?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/15/hundreds-of-men-march-in-switzerland-to-protest-violence-against-women?traffic_source=rss](https://www.aljazeera.com/news/2026/11/15/hundreds-of-men-march-in-switzerland-to-protest-violence-against-women?traffic_source=rss)
+
+---
+
+### 6. SpaceX’s Starship captured by launchpad arms in dramatic first
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+SpaceX officials say catch by mechanical arms shows Starship&#039;s full reusability, crucial for rapid, low-cost recycling.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/15/spacexs-starship-captured-by-launchpad-arms-in-dramatic-first?traffic_source=rss](https://www.aljazeera.com/news/2026/11/15/spacexs-starship-captured-by-launchpad-arms-in-dramatic-first?traffic_source=rss)
 
 ---
 

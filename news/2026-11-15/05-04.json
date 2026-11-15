@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-11-15T05:04:41+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+            "description": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
+            "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 14 Nov 2026 22:37:25 GMT",
+            "fetched": "2026-11-15T05:04:41+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Neets review won't be for the faint-hearted - and will test Burnham's appetite for a welfare fight",
+            "description": "Milburn is not the first to try and fix the Neets problem - so what’s different this time round, asks Laura Kuenssberg.",
+            "url": "https://www.bbc.co.uk/news/articles/cmg46qgkl7r4o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 14 Nov 2026 12:22:43 GMT",
+            "fetched": "2026-11-15T05:04:41+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Alleged Russell Brand rape victim wants age of consent law changed",
+            "description": "Mia Latter, who says she was 16 when she met the convicted rapist, wants a staggered age of consent.",
+            "url": "https://www.bbc.co.uk/news/articles/cm3rgx9p583zo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 14 Nov 2026 22:37:14 GMT",
+            "fetched": "2026-11-15T05:04:41+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli air strike kills senior Hamas commander in Gaza",
+            "description": "Hamas confirms the death of Rafah brigade commander Samir Abu Younis in an attack on Khan Younis on Saturday.",
+            "url": "https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza?traffic_source=rss",
+            "published": "Sun, 15 Nov 2026 01:00:42 +0000",
+            "fetched": "2026-11-15T05:04:41+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Hundreds of men march in Switzerland to protest violence against women",
+            "description": "Organisers say men must speak out, as Swiss study finds half of men aged 18 to 24 hold restrictive view of masculinity.",
+            "url": "https://www.aljazeera.com/news/2026/11/15/hundreds-of-men-march-in-switzerland-to-protest-violence-against-women?traffic_source=rss",
+            "published": "Sun, 15 Nov 2026 00:27:14 +0000",
+            "fetched": "2026-11-15T05:04:41+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "SpaceX’s Starship captured by launchpad arms in dramatic first",
+            "description": "SpaceX officials say catch by mechanical arms shows Starship&#039;s full reusability, crucial for rapid, low-cost recycling.",
+            "url": "https://www.aljazeera.com/news/2026/11/15/spacexs-starship-captured-by-launchpad-arms-in-dramatic-first?traffic_source=rss",
+            "published": "Sun, 15 Nov 2026 00:14:22 +0000",
+            "fetched": "2026-11-15T05:04:41+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Red Hill, Perry, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26331",
+            "published": "2026-11-12T00:22:00Z",
+            "fetched": "2026-11-15T05:04:41+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Bienville CPT 29 Sub 2 RX, Scott, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26332",
+            "published": "2026-11-11T09:57:00Z",
+            "fetched": "2026-11-15T05:04:41+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Compartment 170 RX, Greene, Georgia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26333",
+            "published": "2026-11-09T16:30:00Z",
+            "fetched": "2026-11-15T05:04:41+03:30"
+        }
+    ]
+}

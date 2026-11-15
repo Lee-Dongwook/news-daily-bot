@@ -1,16 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-15 19:43:16
+**Last Update:** 2026-11-15 20:47:25
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Staggered age of consent to be discussed after Brand case, minister says
+### 1. 'Duffy Lied': Controllers Refute Transportation Secretary's Ground Stop Story
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.commondreams.org/news/duffy-ground-stop-explanation">https://www.commondreams.org/news/duffy-ground-stop-explanation</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50507791">https://news.ycombinator.com/item?id=50507791</a></p>
+<p>Points: 42</p>
+<p># Comments: 9</p>
+
+🔗 **Read more:** [https://www.commondreams.org/news/duffy-ground-stop-explanation](https://www.commondreams.org/news/duffy-ground-stop-explanation)
+
+---
+
+### 2. Emacs Is My Browser
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://joshblais.com/blog/emacs-as-my-browser/">https://joshblais.com/blog/emacs-as-my-browser/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50507553">https://news.ycombinator.com/item?id=50507553</a></p>
+<p>Points: 42</p>
+<p># Comments: 13</p>
+
+🔗 **Read more:** [https://joshblais.com/blog/emacs-as-my-browser/](https://joshblais.com/blog/emacs-as-my-browser/)
+
+---
+
+### 3. All AI-generated code should be Open Source
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://jakub.jankiewicz.org/blog/ai-code-open-source/">https://jakub.jankiewicz.org/blog/ai-code-open-source/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50507303">https://news.ycombinator.com/item?id=50507303</a></p>
+<p>Points: 405</p>
+<p># Comments: 248</p>
+
+🔗 **Read more:** [https://jakub.jankiewicz.org/blog/ai-code-open-source/](https://jakub.jankiewicz.org/blog/ai-code-open-source/)
+
+---
+
+### 4. Staggered age of consent to be discussed after Brand case, minister says
 
 **Source:** BBC
 
@@ -23,7 +71,7 @@ A woman who alleges she was raped by the jailed comedian when she was 16 is camp
 
 ---
 
-### 2. Man and woman die and four arrested after police pursuit crash in Leeds
+### 5. Man and woman die and four arrested after police pursuit crash in Leeds
 
 **Source:** BBC
 
@@ -36,7 +84,7 @@ Four people have been arrested on suspicion of causing death by dangerous drivin
 
 ---
 
-### 3. Ex-Met Police inspector lied about wife's death in Barbados hotel room, BBC learns
+### 6. Ex-Met Police inspector lied about wife's death in Barbados hotel room, BBC learns
 
 **Source:** BBC
 
@@ -49,46 +97,46 @@ Warren Arter faced claims of sexually exploiting crime victims - his wife was fo
 
 ---
 
-### 4. 70 bodies recovered from Gaza rubble, thousands still missing
+### 7. LIVE: Spain vs England – UEFA Nations League
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-70 bodies recovered from Gaza rubble, thousands still missing
+Previews, team news and live text commentary as England and Spain vie for top spot in final Nations League group game.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/15/70-bodies-recovered-from-gaza-rubble-thousands-still-missing?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/15/70-bodies-recovered-from-gaza-rubble-thousands-still-missing?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/liveblog/2026/11/15/live-spain-vs-england-uefa-nations-league?traffic_source=rss](https://www.aljazeera.com/sports/liveblog/2026/11/15/live-spain-vs-england-uefa-nations-league?traffic_source=rss)
 
 ---
 
-### 5. Will Iraq’s oil smuggling crackdown disarm militias without a conflict?
+### 8. Thousands rally in Czech Republic against state media funding changes
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Iraq has dismantled an alleged smuggling ring in Jurf al-Sakhar which could squeeze militias and avert internal strife
+Critics say proposed funding changes will give the government more control of state media.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/15/will-iraqs-oil-smuggllng-crackdown-disarm-militias-without-a-conflict?traffic_source=rss](https://www.aljazeera.com/news/2026/11/15/will-iraqs-oil-smuggllng-crackdown-disarm-militias-without-a-conflict?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/15/thousands-rally-in-czech-republic-against-state-media-funding-changes?traffic_source=rss](https://www.aljazeera.com/news/2026/11/15/thousands-rally-in-czech-republic-against-state-media-funding-changes?traffic_source=rss)
 
 ---
 
-### 6. 20 years of Al Jazeera English: Our story is still being written
+### 9. British tourist smashes Jesus statue outside Vilnius church
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-As we celebrate our 20th anniversary, we remain committed to our values and the quality of our journalism.
+A man removed a statue of the crucified Jesus from a church in Vilnius and it smashed to the ground.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/11/15/20-years-of-al-jazeera-english-our-story-is-still-being-written?traffic_source=rss](https://www.aljazeera.com/opinions/2026/11/15/20-years-of-al-jazeera-english-our-story-is-still-being-written?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/15/british-tourist-smashes-jesus-statue-outside-vilnius-church?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/15/british-tourist-smashes-jesus-statue-outside-vilnius-church?traffic_source=rss)
 
 ---
 
-### 7. Wildfire Red Hill, Perry, Mississippi
+### 10. Wildfire Red Hill, Perry, Mississippi
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Wildfires
 
 ---
 
-### 8. Prescribed Fire Bienville CPT 29 Sub 2 RX, Scott, Mississippi
+### 11. Prescribed Fire Bienville CPT 29 Sub 2 RX, Scott, Mississippi
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Wildfires
 
 ---
 
-### 9. Prescribed Fire Compartment 170 RX, Greene, Georgia
+### 12. Prescribed Fire Compartment 170 RX, Greene, Georgia
 
 **Source:** NASA
 

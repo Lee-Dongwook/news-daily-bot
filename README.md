@@ -1,64 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-16 01:25:06
+**Last Update:** 2026-11-16 05:08:35
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, Al Jazeera, BBC
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Your Agent Will Pick the Hackable One
+### 1. What's Next for Nvidia?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/">https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50510799">https://news.ycombinator.com/item?id=50510799</a></p>
-<p>Points: 8</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://steveblank.com/2026/11/15/whats-next-for-nvidia/">https://steveblank.com/2026/11/15/whats-next-for-nvidia/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50512235">https://news.ycombinator.com/item?id=50512235</a></p>
+<p>Points: 30</p>
+<p># Comments: 17</p>
 
-🔗 **Read more:** [https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/](https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/)
+🔗 **Read more:** [https://steveblank.com/2026/11/15/whats-next-for-nvidia/](https://steveblank.com/2026/11/15/whats-next-for-nvidia/)
 
 ---
 
-### 2. Vulcan rocket fails during return-to-flight launch, 40 Amazon satellites lost
+### 2. Mini.nvim Is Now on Tangled
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch">https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50510442">https://news.ycombinator.com/item?id=50510442</a></p>
-<p>Points: 33</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://tangled.org/nvim-mini.org/mini.nvim">https://tangled.org/nvim-mini.org/mini.nvim</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50512231">https://news.ycombinator.com/item?id=50512231</a></p>
+<p>Points: 25</p>
+<p># Comments: 7</p>
 
-🔗 **Read more:** [https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch](https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch)
+🔗 **Read more:** [https://tangled.org/nvim-mini.org/mini.nvim](https://tangled.org/nvim-mini.org/mini.nvim)
 
 ---
 
-### 3. WebGL Flight Simulator with seed generated terrain
+### 3. Jensen Huang might return to Nvidia as CEO
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://baron.by.dai.studio/">https://baron.by.dai.studio/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50510296">https://news.ycombinator.com/item?id=50510296</a></p>
-<p>Points: 7</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.reuters.com/world/china/jensen-huang-discusses-comeback-nvidia-ceo-with-allies-ft-reports-2026-11-15/">https://www.reuters.com/world/china/jensen-huang-discusses-comeback-nvidia-ceo-with-allies-ft-reports-2026-11-15/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50511982">https://news.ycombinator.com/item?id=50511982</a></p>
+<p>Points: 120</p>
+<p># Comments: 101</p>
 
-🔗 **Read more:** [https://baron.by.dai.studio/](https://baron.by.dai.studio/)
+🔗 **Read more:** [https://www.reuters.com/world/china/jensen-huang-discusses-comeback-nvidia-ceo-with-allies-ft-reports-2026-11-15/](https://www.reuters.com/world/china/jensen-huang-discusses-comeback-nvidia-ceo-with-allies-ft-reports-2026-11-15/)
 
 ---
 
-### 4. Staggered age of consent to be discussed after Brand case, minister says
+### 4. Cut national insurance for under-25s to create jobs, Milburn report to say
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The report being launched this week will suggest gradually reducing employment costs over five years.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Staggered age of consent to be discussed after Brand case, minister says
 
 **Source:** BBC
 
@@ -68,19 +81,6 @@
 A woman who alleges she was raped by the jailed comedian when she was 16 is campaigning to see relationships between 16-and 17-year-olds and adults made illegal.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwdr1dmn563do?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwdr1dmn563do?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Man and woman die and four arrested after police pursuit crash in Leeds
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Four people have been arrested on suspicion of causing death by dangerous driving, police say.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm3eg8x9zkvno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm3eg8x9zkvno?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +97,42 @@ The Ukrainian president says the slowed-down internet is making it difficult to 
 
 ---
 
-### 7. Yemen’s Houthis unilaterally release 600 war detainees
+### 7. Founder of Guadalajara cartel dies in hospital after decades in prison
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Yemen’s Houthis have released 600 people imprisoned during the country’s civil war.
+Miguel Angel Felix Gallardo was convicted of the 1985 murder of a US drug enforcement agent and a Mexican pilot.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/15/yemens-houthis-unilaterally-release-600-war-detainees?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/15/yemens-houthis-unilaterally-release-600-war-detainees?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/16/founder-of-guadalajara-cartel-dies-in-hospital-after-decades-in-prison?traffic_source=rss](https://www.aljazeera.com/news/2026/11/16/founder-of-guadalajara-cartel-dies-in-hospital-after-decades-in-prison?traffic_source=rss)
 
 ---
 
-### 8. Photos: Pope Leo visits Peru’s Amazon and Andean regions during 12-day tour
+### 8. After a nationwide ground stop, US faces aviation infrastructure questions
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The pope has called for the preservation of Indigenous traditions in Peru as he wraps up a 12-day tour of Latin America.
+Trump has requested $50bn for upgrades, but Democratic lawmakers are asking for transparency before spending more.
 
-🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/11/15/photos-pope-leo-visits-perus-amazon-and-andean-regions-during-12-day-tour?traffic_source=rss](https://www.aljazeera.com/gallery/2026/11/15/photos-pope-leo-visits-perus-amazon-and-andean-regions-during-12-day-tour?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/16/after-a-nationwide-ground-stop-us-faces-aviation-infrastructure-questions?traffic_source=rss](https://www.aljazeera.com/news/2026/11/16/after-a-nationwide-ground-stop-us-faces-aviation-infrastructure-questions?traffic_source=rss)
 
 ---
 
-### 9. Palestinians reclaim Gaza’s shores with a swim for hope
+### 9. Czechs rally against gov’t threat to media independence
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-For the first time in more than three years, Gaza’s swimming federation has held a competition.
+Czechs rallied in Prague over plans to shift public media funding to the state, raising fears of government influence.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/15/palestinians-reclaim-gazas-shores-with-a-swim-for-hope?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/15/palestinians-reclaim-gazas-shores-with-a-swim-for-hope?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/16/czechs-rally-against-govt-threat-to-media-independence?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/16/czechs-rally-against-govt-threat-to-media-independence?traffic_source=rss)
 
 ---
 

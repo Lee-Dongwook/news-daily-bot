@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-16T05:08:35+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "What's Next for Nvidia?",
+            "description": "<p>Article URL: <a href=\"https://steveblank.com/2026/11/15/whats-next-for-nvidia/\">https://steveblank.com/2026/11/15/whats-next-for-nvidia/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50512235\">https://news.ycombinator.com/item?id=50512235</a></p>\n<p>Points: 30</p>\n<p># Comments: 17</p>",
+            "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
+            "published": "Sun, 15 Nov 2026 23:55:55 +0000",
+            "fetched": "2026-11-16T05:08:35+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Mini.nvim Is Now on Tangled",
+            "description": "<p>Article URL: <a href=\"https://tangled.org/nvim-mini.org/mini.nvim\">https://tangled.org/nvim-mini.org/mini.nvim</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50512231\">https://news.ycombinator.com/item?id=50512231</a></p>\n<p>Points: 25</p>\n<p># Comments: 7</p>",
+            "url": "https://tangled.org/nvim-mini.org/mini.nvim",
+            "published": "Sun, 15 Nov 2026 23:55:41 +0000",
+            "fetched": "2026-11-16T05:08:35+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Jensen Huang might return to Nvidia as CEO",
+            "description": "<p>Article URL: <a href=\"https://www.reuters.com/world/china/jensen-huang-discusses-comeback-nvidia-ceo-with-allies-ft-reports-2026-11-15/\">https://www.reuters.com/world/china/jensen-huang-discusses-comeback-nvidia-ceo-with-allies-ft-reports-2026-11-15/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50511982\">https://news.ycombinator.com/item?id=50511982</a></p>\n<p>Points: 120</p>\n<p># Comments: 101</p>",
+            "url": "https://www.reuters.com/world/china/jensen-huang-discusses-comeback-nvidia-ceo-with-allies-ft-reports-2026-11-15/",
+            "published": "Sun, 15 Nov 2026 23:24:53 +0000",
+            "fetched": "2026-11-16T05:08:35+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Cut national insurance for under-25s to create jobs, Milburn report to say",
+            "description": "The report being launched this week will suggest gradually reducing employment costs over five years.",
+            "url": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 15 Nov 2026 22:30:03 GMT",
+            "fetched": "2026-11-16T05:08:35+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Staggered age of consent to be discussed after Brand case, minister says",
+            "description": "A woman who alleges she was raped by the jailed comedian when she was 16 is campaigning to see relationships between 16-and 17-year-olds and adults made illegal.",
+            "url": "https://www.bbc.co.uk/news/articles/cwdr1dmn563do?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 15 Nov 2026 17:15:46 GMT",
+            "fetched": "2026-11-16T05:08:35+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+            "description": "The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks.",
+            "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 15 Nov 2026 19:32:39 GMT",
+            "fetched": "2026-11-16T05:08:35+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Founder of Guadalajara cartel dies in hospital after decades in prison",
+            "description": "Miguel Angel Felix Gallardo was convicted of the 1985 murder of a US drug enforcement agent and a Mexican pilot.",
+            "url": "https://www.aljazeera.com/news/2026/11/16/founder-of-guadalajara-cartel-dies-in-hospital-after-decades-in-prison?traffic_source=rss",
+            "published": "Mon, 16 Nov 2026 00:51:23 +0000",
+            "fetched": "2026-11-16T05:08:35+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "After a nationwide ground stop, US faces aviation infrastructure questions",
+            "description": "Trump has requested $50bn for upgrades, but Democratic lawmakers are asking for transparency before spending more.",
+            "url": "https://www.aljazeera.com/news/2026/11/16/after-a-nationwide-ground-stop-us-faces-aviation-infrastructure-questions?traffic_source=rss",
+            "published": "Mon, 16 Nov 2026 00:45:48 +0000",
+            "fetched": "2026-11-16T05:08:35+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Czechs rally against gov’t threat to media independence",
+            "description": "Czechs rallied in Prague over plans to shift public media funding to the state, raising fears of government influence.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/czechs-rally-against-govt-threat-to-media-independence?traffic_source=rss",
+            "published": "Mon, 16 Nov 2026 00:26:32 +0000",
+            "fetched": "2026-11-16T05:08:35+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Red Hill, Perry, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26331",
+            "published": "2026-11-12T00:22:00Z",
+            "fetched": "2026-11-16T05:08:35+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Bienville CPT 29 Sub 2 RX, Scott, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26332",
+            "published": "2026-11-11T09:57:00Z",
+            "fetched": "2026-11-16T05:08:35+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Compartment 170 RX, Greene, Georgia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26333",
+            "published": "2026-11-09T16:30:00Z",
+            "fetched": "2026-11-16T05:08:35+03:30"
+        }
+    ]
+}

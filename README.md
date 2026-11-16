@@ -1,16 +1,33 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-16 23:35:01
+**Last Update:** 2026-11-17 00:04:58
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. How to Intercept HTTP/3 Traffic: QUIC and Qpack
+### 1. Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Hi HN! We’re Arsh and Max, founders of Axonnic (<a href="https://axonnic.com">https://axonnic.com</a>). We’ve developed a forearm sleeve that reads muscle activity to decode finger movements and estimate fingertip force, while leaving the hands bare. It’s used to record human movement and generate training data for dextrous robots.<p>Here’s a demo video: <a href="https://youtube.com/shorts/xBrocTc9cfA" rel="nofollow">https://youtube.com/shorts/xBrocTc9cfA</a><p>We’ve found that electromyography (EMG) is a much better way to train robots than by video alone because video only captures movement, not muscle activity or the effort behind the movement. A useful signal can be present even when the hand barely moves; just maintaining a grip involves muscle activation. The subtle muscle movements that can barely be picked up in video are the most important details for activities like sewing and delicate assembly.<p>The sleeve has 64 channels of surface electromyography, or EMG. Electrodes on the skin detect electrical activity from muscles in the forearm. We distribute sensors across the forearm so as to not overfit to one muscle group. We synchronize EMG with hand tracking to train a model that predicts finger joint angles, then we run the decoder solely from EMG, adding in fingertip force estimates that have been calibrated from finger presses on force sensors.<p>When the user takes the sleeve off then puts it back on again, the electrode positions change, so we run tests over separate wearings. In one case, we ran a 215-second recording, four days after training, without any recalibration, and compared the results with Apple Vision Pro hand tracking. The result was just 6.9° error across 20 joint angles. We’ve published the measurements and evaluation details here: <a href="https://axonnic.com/benchmarks">https://axonnic.com/benchmarks</a>.<p>We faced many challenges doing recordings in factories, including wireless interference and unreliable off-the-shelf hardware. This led to some bad recordings and the need to repeat data collection. For that reason, we’re developing our own electronics that use a wired PCB design that will eliminate interference and timing inconsistencies.<p>Axonnic grew out of Max's EMG research at Oxford. We looked at using the technology for computer control, then we thought a more promising use-case was in capturing the effort involved in skilled manual tasks. This technology could be described as a computer to human interface. Where computers gain insight and learn from human skills. Sewing particularly stood out because the material deforms and the operator is constantly adjusting grip and tension.<p>Maxim has an Oxford MBiol and conducted research on high-density surface EMG. He previously built internal tools at Skyscanner and worked at Voxblock across PCB development and supply chain. Arsh studied medicine at Oxford and has research experience applying machine learning to medical imaging, alongside software and robotics projects. Together we have built the sleeve, decoding software and data-collection system and tested them in industrial settings.<p>So far we have the tech being used to record sewing and other manual tasks at a European manufacturer, which signed an LOI for support with robotic implementation. We have also collected construction demonstrations involving electricians, plumbers and demolition work. These are pilot and data-collection examples. Separately, our public demos include controlling a Proception robotic hand from forearm EMG.<p>If you’ve done any of your own trials for training robots for manual tasks, we’d love to hear about what tasks you were trying to train for and how the trials went. We’re happy to discuss the hardware, calibration and models here in the comments. Thanks!<p><a href="https://axonnic.com">https://axonnic.com</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50522776">https://news.ycombinator.com/item?id=50522776</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://news.ycombinator.com/item?id=50522776](https://news.ycombinator.com/item?id=50522776)
+
+---
+
+### 2. How to Intercept HTTP/3 Traffic: QUIC and Qpack
 
 **Source:** Hacker News
 
@@ -19,14 +36,14 @@
 **Description:**
 <p>Article URL: <a href="https://interceptsuite.com/blog/intercept-http3-traffic-quic-qpack-explained/">https://interceptsuite.com/blog/intercept-http3-traffic-quic-qpack-explained/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50521870">https://news.ycombinator.com/item?id=50521870</a></p>
-<p>Points: 6</p>
+<p>Points: 14</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://interceptsuite.com/blog/intercept-http3-traffic-quic-qpack-explained/](https://interceptsuite.com/blog/intercept-http3-traffic-quic-qpack-explained/)
 
 ---
 
-### 2. Outages reported at Bank of America, Chase, U.S. Bank, Wells Fargo and Zelle
+### 3. Outages reported at Bank of America, Chase, U.S. Bank, Wells Fargo and Zelle
 
 **Source:** Hacker News
 
@@ -35,26 +52,10 @@
 **Description:**
 <p>Article URL: <a href="https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda">https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50521045">https://news.ycombinator.com/item?id=50521045</a></p>
-<p>Points: 271</p>
-<p># Comments: 160</p>
+<p>Points: 398</p>
+<p># Comments: 282</p>
 
 🔗 **Read more:** [https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda](https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda)
-
----
-
-### 3. Software is breaking down at a systemic level
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/">https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50520866">https://news.ycombinator.com/item?id=50520866</a></p>
-<p>Points: 134</p>
-<p># Comments: 95</p>
-
-🔗 **Read more:** [https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/](https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/)
 
 ---
 
@@ -97,42 +98,42 @@ Robert Pattinson has been announced as the next James Bond, becoming the seventh
 
 ---
 
-### 7. Five EU countries announce plan to send rejected asylum seekers to Rwanda
+### 7. UEFA backs Diallo to challenge Infantino for FIFA presidency
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-In a joint statement, 47 aid, trade union and rights groups urged ‌the five countries to ​abandon the Rwanda plan.
+UEFA has found its candidate to take on Gianni Infantino in next year’s FIFA presidential election
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/16/five-eu-countries-announce-plan-to-send-rejected-asylum-seekers-to-rwanda?traffic_source=rss](https://www.aljazeera.com/news/2026/11/16/five-eu-countries-announce-plan-to-send-rejected-asylum-seekers-to-rwanda?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/16/uefa-backs-diallo-to-challenge-infantino-for-fifa-presidency?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/16/uefa-backs-diallo-to-challenge-infantino-for-fifa-presidency?traffic_source=rss)
 
 ---
 
-### 8. Saudi Arabia dismisses commander of coalition forces fighting Houthis
+### 8. What will Europe do next in Ukraine?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Move comes as government forces withdraw from Red Sea coast to halt Houthi approach to interim capital Aden.
+There is division within the European Union over diplomatic strategy for efforts to end the Russia-Ukraine war.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/16/saudi-arabia-dismisses-commander-of-coalition-forces-fighting-houthis?traffic_source=rss](https://www.aljazeera.com/news/2026/11/16/saudi-arabia-dismisses-commander-of-coalition-forces-fighting-houthis?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/11/16/what-will-europe-do-next-in-ukraine?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/11/16/what-will-europe-do-next-in-ukraine?traffic_source=rss)
 
 ---
 
-### 9. Thousands report difficulties accessing accounts online at major US banks
+### 9. Nationwide ground stop could cost US airlines hundreds of millions
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Customers report online access issues at major US banks, including Chase, Wells Fargo, and Bank of America.
+Airline executives support modernising FAA systems as US Transportation Secretary Duffy seeks $50bn from Congress.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/16/thousands-report-difficulties-accessing-accounts-online-at-major-us-banks?traffic_source=rss](https://www.aljazeera.com/news/2026/11/16/thousands-report-difficulties-accessing-accounts-online-at-major-us-banks?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/16/nationwide-ground-stop-could-cost-us-airlines-hundreds-of-millions?traffic_source=rss](https://www.aljazeera.com/news/2026/11/16/nationwide-ground-stop-could-cost-us-airlines-hundreds-of-millions?traffic_source=rss)
 
 ---
 

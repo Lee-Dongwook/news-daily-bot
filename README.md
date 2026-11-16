@@ -1,16 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-16 12:41:01
+**Last Update:** 2026-11-16 13:27:01
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Cut National Insurance for under-25s to create jobs, Milburn report to say
+### 1. How to make almost anything
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://pub.cba.mit.edu/863.26/site/">https://pub.cba.mit.edu/863.26/site/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50514470">https://news.ycombinator.com/item?id=50514470</a></p>
+<p>Points: 252</p>
+<p># Comments: 43</p>
+
+🔗 **Read more:** [https://pub.cba.mit.edu/863.26/site/](https://pub.cba.mit.edu/863.26/site/)
+
+---
+
+### 2. Did the Apollo Guidance Computer use 60% of the ICs in 1963?
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://retrocomputing.stackexchange.com/questions/12158/did-the-apollo-guidance-computer-really-use-60-of-the-worlds-ics-in-1963">https://retrocomputing.stackexchange.com/questions/12158/did-the-apollo-guidance-computer-really-use-60-of-the-worlds-ics-in-1963</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50514257">https://news.ycombinator.com/item?id=50514257</a></p>
+<p>Points: 11</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://retrocomputing.stackexchange.com/questions/12158/did-the-apollo-guidance-computer-really-use-60-of-the-worlds-ics-in-1963](https://retrocomputing.stackexchange.com/questions/12158/did-the-apollo-guidance-computer-really-use-60-of-the-worlds-ics-in-1963)
+
+---
+
+### 3. Debian Becomes Unresponsive after 6.1.0-55 Kernel Update
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1154101">https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1154101</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50514180">https://news.ycombinator.com/item?id=50514180</a></p>
+<p>Points: 85</p>
+<p># Comments: 25</p>
+
+🔗 **Read more:** [https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1154101](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1154101)
+
+---
+
+### 4. Create more jobs for under-25s by cutting National Insurance, key report urges
 
 **Source:** BBC
 
@@ -23,7 +71,7 @@ The report being launched this week will suggest gradually reducing employment c
 
 ---
 
-### 2. UK lost more than it gained from Brexit, Burnham to say ahead of EU summit
+### 5. UK lost more than it gained from Brexit, Burnham to say ahead of EU summit
 
 **Source:** BBC
 
@@ -36,7 +84,7 @@ The prime minister will say the "Brexit we were given has not worked" in a speec
 
 ---
 
-### 3. 'I'd throw up in the car park': How school anxiety is harming children's futures
+### 6. 'I'd throw up in the car park': How school anxiety is harming children's futures
 
 **Source:** BBC
 
@@ -49,7 +97,20 @@ As a landmark report is published, the BBC speaks to school avoiders and those t
 
 ---
 
-### 4. Ronaldinho comes out retirement for 45 mins in Italy’s third division
+### 7. Third US aircraft carrier arrives in Middle East amid tensions with Iran
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Trump shares a message saying: ‘May God protect our troops’ as the USS Theodore Roosevelt arrives in the Middle East.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/16/third-us-aircraft-carrier-arrives-in-middle-east-amid-tensions-with-iran?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/16/third-us-aircraft-carrier-arrives-in-middle-east-amid-tensions-with-iran?traffic_source=rss)
+
+---
+
+### 8. Ronaldinho comes out retirement for 45 mins in Italy’s third division
 
 **Source:** Al Jazeera
 
@@ -62,7 +123,7 @@ Football legend Ronaldinho came out of retirement to play 45 minutes of a match 
 
 ---
 
-### 5. Kachin: where Myanmar’s rare earth minerals are in tight grip
+### 9. Kachin: where Myanmar’s rare earth minerals are in tight grip
 
 **Source:** Al Jazeera
 
@@ -75,20 +136,7 @@ In Myanmar’s northern state of Kachin lies millions of dollars worth of rare e
 
 ---
 
-### 6. Ahmed Tibi appointed as deputy speaker of Israel’s Knesset
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-This is a breaking news story.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/16/ahmed-tibi-appointed-as-deputy-speaker-of-israels-knesset?traffic_source=rss](https://www.aljazeera.com/news/2026/11/16/ahmed-tibi-appointed-as-deputy-speaker-of-israels-knesset?traffic_source=rss)
-
----
-
-### 7. Wildfire Red Hill, Perry, Mississippi
+### 10. Wildfire Red Hill, Perry, Mississippi
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Wildfires
 
 ---
 
-### 8. Prescribed Fire Bienville CPT 29 Sub 2 RX, Scott, Mississippi
+### 11. Prescribed Fire Bienville CPT 29 Sub 2 RX, Scott, Mississippi
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Wildfires
 
 ---
 
-### 9. Prescribed Fire Compartment 170 RX, Greene, Georgia
+### 12. Prescribed Fire Compartment 170 RX, Greene, Georgia
 
 **Source:** NASA
 

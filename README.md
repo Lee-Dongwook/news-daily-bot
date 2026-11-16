@@ -1,142 +1,155 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-16 13:27:01
+**Last Update:** 2026-11-16 23:35:01
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. How to make almost anything
+### 1. How to Intercept HTTP/3 Traffic: QUIC and Qpack
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://pub.cba.mit.edu/863.26/site/">https://pub.cba.mit.edu/863.26/site/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50514470">https://news.ycombinator.com/item?id=50514470</a></p>
-<p>Points: 252</p>
-<p># Comments: 43</p>
+<p>Article URL: <a href="https://interceptsuite.com/blog/intercept-http3-traffic-quic-qpack-explained/">https://interceptsuite.com/blog/intercept-http3-traffic-quic-qpack-explained/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50521870">https://news.ycombinator.com/item?id=50521870</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://pub.cba.mit.edu/863.26/site/](https://pub.cba.mit.edu/863.26/site/)
+🔗 **Read more:** [https://interceptsuite.com/blog/intercept-http3-traffic-quic-qpack-explained/](https://interceptsuite.com/blog/intercept-http3-traffic-quic-qpack-explained/)
 
 ---
 
-### 2. Did the Apollo Guidance Computer use 60% of the ICs in 1963?
+### 2. Outages reported at Bank of America, Chase, U.S. Bank, Wells Fargo and Zelle
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://retrocomputing.stackexchange.com/questions/12158/did-the-apollo-guidance-computer-really-use-60-of-the-worlds-ics-in-1963">https://retrocomputing.stackexchange.com/questions/12158/did-the-apollo-guidance-computer-really-use-60-of-the-worlds-ics-in-1963</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50514257">https://news.ycombinator.com/item?id=50514257</a></p>
-<p>Points: 11</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda">https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50521045">https://news.ycombinator.com/item?id=50521045</a></p>
+<p>Points: 271</p>
+<p># Comments: 160</p>
 
-🔗 **Read more:** [https://retrocomputing.stackexchange.com/questions/12158/did-the-apollo-guidance-computer-really-use-60-of-the-worlds-ics-in-1963](https://retrocomputing.stackexchange.com/questions/12158/did-the-apollo-guidance-computer-really-use-60-of-the-worlds-ics-in-1963)
+🔗 **Read more:** [https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda](https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda)
 
 ---
 
-### 3. Debian Becomes Unresponsive after 6.1.0-55 Kernel Update
+### 3. Software is breaking down at a systemic level
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1154101">https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1154101</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50514180">https://news.ycombinator.com/item?id=50514180</a></p>
-<p>Points: 85</p>
-<p># Comments: 25</p>
+<p>Article URL: <a href="https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/">https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50520866">https://news.ycombinator.com/item?id=50520866</a></p>
+<p>Points: 134</p>
+<p># Comments: 95</p>
 
-🔗 **Read more:** [https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1154101](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1154101)
+🔗 **Read more:** [https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/](https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/)
 
 ---
 
-### 4. Create more jobs for under-25s by cutting National Insurance, key report urges
+### 4. Russell Brand prison message 'appalling' and being investigated, No 10 says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The report being launched this week will suggest gradually reducing employment costs over five years.
+Brand's wife read out comments from the comedian on their podcast in which the convicted rapist said he was "not guilty of the offences I have been jailed for".
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm9d7pe8y559o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm9d7pe8y559o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. UK lost more than it gained from Brexit, Burnham to say ahead of EU summit
+### 5. Robert Pattinson to replace Daniel Craig as James Bond
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The prime minister will say the "Brexit we were given has not worked" in a speech on Monday.
+The 40-year old is best known for his role in films including Twilight, The Batman and The Odyssey.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crp3e1n5kezpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crp3e1n5kezpo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwx2ev0pxmvjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwx2ev0pxmvjo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. 'I'd throw up in the car park': How school anxiety is harming children's futures
+### 6. When will we see Robert Pattinson as Bond in cinemas?
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-As a landmark report is published, the BBC speaks to school avoiders and those trying to fix the issue.
+Robert Pattinson has been announced as the next James Bond, becoming the seventh actor to take up the mantle of 007.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm62pl6lglvwo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm62pl6lglvwo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cmd91xjd9zk2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cmd91xjd9zk2o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Third US aircraft carrier arrives in Middle East amid tensions with Iran
+### 7. Five EU countries announce plan to send rejected asylum seekers to Rwanda
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Trump shares a message saying: ‘May God protect our troops’ as the USS Theodore Roosevelt arrives in the Middle East.
+In a joint statement, 47 aid, trade union and rights groups urged ‌the five countries to ​abandon the Rwanda plan.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/16/third-us-aircraft-carrier-arrives-in-middle-east-amid-tensions-with-iran?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/16/third-us-aircraft-carrier-arrives-in-middle-east-amid-tensions-with-iran?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/16/five-eu-countries-announce-plan-to-send-rejected-asylum-seekers-to-rwanda?traffic_source=rss](https://www.aljazeera.com/news/2026/11/16/five-eu-countries-announce-plan-to-send-rejected-asylum-seekers-to-rwanda?traffic_source=rss)
 
 ---
 
-### 8. Ronaldinho comes out retirement for 45 mins in Italy’s third division
+### 8. Saudi Arabia dismisses commander of coalition forces fighting Houthis
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Football legend Ronaldinho came out of retirement to play 45 minutes of a match in Italy’s third division.
+Move comes as government forces withdraw from Red Sea coast to halt Houthi approach to interim capital Aden.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/sports-world/2026/11/16/ronaldinho-comes-out-retirement-for-45-mins-in-italys-third-division?traffic_source=rss](https://www.aljazeera.com/video/sports-world/2026/11/16/ronaldinho-comes-out-retirement-for-45-mins-in-italys-third-division?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/16/saudi-arabia-dismisses-commander-of-coalition-forces-fighting-houthis?traffic_source=rss](https://www.aljazeera.com/news/2026/11/16/saudi-arabia-dismisses-commander-of-coalition-forces-fighting-houthis?traffic_source=rss)
 
 ---
 
-### 9. Kachin: where Myanmar’s rare earth minerals are in tight grip
+### 9. Thousands report difficulties accessing accounts online at major US banks
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-In Myanmar’s northern state of Kachin lies millions of dollars worth of rare earth minerals.
+Customers report online access issues at major US banks, including Chase, Wells Fargo, and Bank of America.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/16/kachin-where-myanmars-rare-earth-minerals-are-in-tight-grip?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/16/kachin-where-myanmars-rare-earth-minerals-are-in-tight-grip?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/16/thousands-report-difficulties-accessing-accounts-online-at-major-us-banks?traffic_source=rss](https://www.aljazeera.com/news/2026/11/16/thousands-report-difficulties-accessing-accounts-online-at-major-us-banks?traffic_source=rss)
 
 ---
 
-### 10. Wildfire Red Hill, Perry, Mississippi
+### 10. Tropical Cyclone Xavier
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26463](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26463)
+
+---
+
+### 11. Wildfire Range 47, Forrest, Mississippi
 
 **Source:** NASA
 
@@ -145,11 +158,11 @@ In Myanmar’s northern state of Kachin lies millions of dollars worth of rare e
 **Description:**
 Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26331](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26331)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26465](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26465)
 
 ---
 
-### 11. Prescribed Fire Bienville CPT 29 Sub 2 RX, Scott, Mississippi
+### 12. Wildfire 201W, Perry, Mississippi
 
 **Source:** NASA
 
@@ -158,20 +171,7 @@ Natural event: Wildfires
 **Description:**
 Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26332](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26332)
-
----
-
-### 12. Prescribed Fire Compartment 170 RX, Greene, Georgia
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26333](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26333)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26464](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26464)
 
 ---
 

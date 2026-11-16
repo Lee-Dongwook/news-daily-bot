@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-16T23:35:01+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "How to Intercept HTTP/3 Traffic: QUIC and Qpack",
+            "description": "<p>Article URL: <a href=\"https://interceptsuite.com/blog/intercept-http3-traffic-quic-qpack-explained/\">https://interceptsuite.com/blog/intercept-http3-traffic-quic-qpack-explained/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50521870\">https://news.ycombinator.com/item?id=50521870</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+            "url": "https://interceptsuite.com/blog/intercept-http3-traffic-quic-qpack-explained/",
+            "published": "Mon, 16 Nov 2026 19:29:17 +0000",
+            "fetched": "2026-11-16T23:35:01+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Outages reported at Bank of America, Chase, U.S. Bank, Wells Fargo and Zelle",
+            "description": "<p>Article URL: <a href=\"https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda\">https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50521045\">https://news.ycombinator.com/item?id=50521045</a></p>\n<p>Points: 271</p>\n<p># Comments: 160</p>",
+            "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
+            "published": "Mon, 16 Nov 2026 18:31:30 +0000",
+            "fetched": "2026-11-16T23:35:01+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Software is breaking down at a systemic level",
+            "description": "<p>Article URL: <a href=\"https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/\">https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50520866\">https://news.ycombinator.com/item?id=50520866</a></p>\n<p>Points: 134</p>\n<p># Comments: 95</p>",
+            "url": "https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/",
+            "published": "Mon, 16 Nov 2026 18:17:17 +0000",
+            "fetched": "2026-11-16T23:35:01+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Russell Brand prison message 'appalling' and being investigated, No 10 says",
+            "description": "Brand's wife read out comments from the comedian on their podcast in which the convicted rapist said he was \"not guilty of the offences I have been jailed for\".",
+            "url": "https://www.bbc.co.uk/news/articles/cm9d7pe8y559o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 16 Nov 2026 18:22:22 GMT",
+            "fetched": "2026-11-16T23:35:01+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Robert Pattinson to replace Daniel Craig as James Bond",
+            "description": "The 40-year old is best known for his role in films including Twilight, The Batman and The Odyssey.",
+            "url": "https://www.bbc.co.uk/news/articles/cwx2ev0pxmvjo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 16 Nov 2026 19:43:58 GMT",
+            "fetched": "2026-11-16T23:35:01+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "When will we see Robert Pattinson as Bond in cinemas?",
+            "description": "Robert Pattinson has been announced as the next James Bond, becoming the seventh actor to take up the mantle of 007.",
+            "url": "https://www.bbc.co.uk/news/videos/cmd91xjd9zk2o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 16 Nov 2026 17:18:54 GMT",
+            "fetched": "2026-11-16T23:35:01+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Five EU countries announce plan to send rejected asylum seekers to Rwanda",
+            "description": "In a joint statement, 47 aid, trade union and rights groups urged ‌the five countries to ​abandon the Rwanda plan.",
+            "url": "https://www.aljazeera.com/news/2026/11/16/five-eu-countries-announce-plan-to-send-rejected-asylum-seekers-to-rwanda?traffic_source=rss",
+            "published": "Mon, 16 Nov 2026 19:26:40 +0000",
+            "fetched": "2026-11-16T23:35:01+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Saudi Arabia dismisses commander of coalition forces fighting Houthis",
+            "description": "Move comes as government forces withdraw from Red Sea coast to halt Houthi approach to interim capital Aden.",
+            "url": "https://www.aljazeera.com/news/2026/11/16/saudi-arabia-dismisses-commander-of-coalition-forces-fighting-houthis?traffic_source=rss",
+            "published": "Mon, 16 Nov 2026 19:19:21 +0000",
+            "fetched": "2026-11-16T23:35:01+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Thousands report difficulties accessing accounts online at major US banks",
+            "description": "Customers report online access issues at major US banks, including Chase, Wells Fargo, and Bank of America.",
+            "url": "https://www.aljazeera.com/news/2026/11/16/thousands-report-difficulties-accessing-accounts-online-at-major-us-banks?traffic_source=rss",
+            "published": "Mon, 16 Nov 2026 19:18:10 +0000",
+            "fetched": "2026-11-16T23:35:01+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Xavier",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26463",
+            "published": "2026-11-15T08:00:00Z",
+            "fetched": "2026-11-16T23:35:01+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Range 47, Forrest, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26465",
+            "published": "2026-11-13T15:18:00Z",
+            "fetched": "2026-11-16T23:35:01+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire 201W, Perry, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26464",
+            "published": "2026-11-13T13:31:00Z",
+            "fetched": "2026-11-16T23:35:01+03:30"
+        }
+    ]
+}

@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-17 16:22:50
+**Last Update:** 2026-11-17 17:10:43
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, Al Jazeera, BBC
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. New Evidence Shows School Phone Bans Are Gradually Improving Test Scores
+### 1. Regulatory Capture by Anthropic Through METR
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://nitter.cf/kevinnbass/status/2099621874279817638">https://nitter.cf/kevinnbass/status/2099621874279817638</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50530450">https://news.ycombinator.com/item?id=50530450</a></p>
+<p>Points: 22</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://nitter.cf/kevinnbass/status/2099621874279817638](https://nitter.cf/kevinnbass/status/2099621874279817638)
+
+---
+
+### 2. New Evidence Shows School Phone Bans Are Gradually Improving Test Scores
 
 **Source:** Hacker News
 
@@ -19,42 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html">https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50530163">https://news.ycombinator.com/item?id=50530163</a></p>
-<p>Points: 39</p>
-<p># Comments: 4</p>
+<p>Points: 176</p>
+<p># Comments: 89</p>
 
 🔗 **Read more:** [https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html](https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html)
 
 ---
 
-### 2. How the Claude Code team thinks about verification
+### 3. My Empire of Dirt
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/">https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50529612">https://news.ycombinator.com/item?id=50529612</a></p>
-<p>Points: 56</p>
-<p># Comments: 68</p>
+<p>Article URL: <a href="https://geohot.github.io//blog/jekyll/update/2026/11/17/my-empire-of-dirt.html">https://geohot.github.io//blog/jekyll/update/2026/11/17/my-empire-of-dirt.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50530114">https://news.ycombinator.com/item?id=50530114</a></p>
+<p>Points: 41</p>
+<p># Comments: 20</p>
 
-🔗 **Read more:** [https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/](https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/)
-
----
-
-### 3. If an App Asks for Full Disk Access or System and App Protection Override
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://support.apple.com/en-us/149699">https://support.apple.com/en-us/149699</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50526560">https://news.ycombinator.com/item?id=50526560</a></p>
-<p>Points: 153</p>
-<p># Comments: 86</p>
-
-🔗 **Read more:** [https://support.apple.com/en-us/149699](https://support.apple.com/en-us/149699)
+🔗 **Read more:** [https://geohot.github.io//blog/jekyll/update/2026/11/17/my-empire-of-dirt.html](https://geohot.github.io//blog/jekyll/update/2026/11/17/my-empire-of-dirt.html)
 
 ---
 
@@ -97,42 +97,42 @@ How many jobs are there where you live and in which sectors are you most likely 
 
 ---
 
-### 7. How is US Senate majority leader chosen?
+### 7. At the origin of France’s education protests, students refuse to give up
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Chris Van Hollen set to challenge Chuck Schumer for the post as the Democrats prepare to take control of Congress.
+Blockades continue at some schools in the Parisian suburbs as students and teachers say little has improved.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/17/how-is-us-senate-majority-leader-chosen?traffic_source=rss](https://www.aljazeera.com/news/2026/11/17/how-is-us-senate-majority-leader-chosen?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/17/at-the-origin-of-frances-education-protests-students-refuse-to-give-up?traffic_source=rss](https://www.aljazeera.com/news/2026/11/17/at-the-origin-of-frances-education-protests-students-refuse-to-give-up?traffic_source=rss)
 
 ---
 
-### 8. Is the US-Israel war on Iran turning into a ‘frozen conflict’?
+### 8. Infantino’s FIFA challenger Diallo claims to have support beyond Europe
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Trump says Washington doesn&#039;t need a deal with Tehran, while Iran rejects &#039;no war, no peace&#039;. Is the war at an impasse?
+French football chief Philippe Diallo says he has received &#039;spontaneous signs of strong support&#039; against Infantino.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/17/is-the-us-israel-war-on-iran-turning-into-a-frozen-conflict?traffic_source=rss](https://www.aljazeera.com/news/2026/11/17/is-the-us-israel-war-on-iran-turning-into-a-frozen-conflict?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/17/infantinos-fifa-challenger-diallo-claims-to-have-support-beyond-europe?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/17/infantinos-fifa-challenger-diallo-claims-to-have-support-beyond-europe?traffic_source=rss)
 
 ---
 
-### 9. Trump addresses Quad leaders at first summit since 2024
+### 9. Why do governments switch off the internet?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US President Donald Trump spoke to leaders of the Quad security bloc at their first summit since 2024.
+The internet went dark somewhere every day in 2025. AJLabs explains why authorities switch it off.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/17/trump-addresses-quad-leaders-at-first-summit-since-2024?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/17/trump-addresses-quad-leaders-at-first-summit-since-2024?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/by-the-numbers-3/2026/11/17/why-do-governments-switch-off-the-internet?traffic_source=rss](https://www.aljazeera.com/video/by-the-numbers-3/2026/11/17/why-do-governments-switch-off-the-internet?traffic_source=rss)
 
 ---
 

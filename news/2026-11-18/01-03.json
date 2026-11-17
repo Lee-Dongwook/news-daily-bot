@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-11-18T01:03:49+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Government backs welfare shake-up to prevent 'lost generation'",
+            "description": "Ex-minister Alan Milburn has set out plans to divert spending from benefits towards job support.",
+            "url": "https://www.bbc.co.uk/news/articles/ck79210y125xo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 17 Nov 2026 18:43:05 GMT",
+            "fetched": "2026-11-18T01:03:49+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'Can I really do this?': Neets speak to BBC about struggling to get a job",
+            "description": "A government-backed review has proposed wide-ranging measures to help get young people into work - but what do young people think?",
+            "url": "https://www.bbc.co.uk/news/videos/cm0l3z8gn67eo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 17 Nov 2026 17:35:22 GMT",
+            "fetched": "2026-11-18T01:03:49+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
+            "description": "Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return.",
+            "url": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 17 Nov 2026 18:24:21 GMT",
+            "fetched": "2026-11-18T01:03:49+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Whistleblower: Deadly drone strike in Kuwait could’ve been avoided",
+            "description": "Whistleblower accuses military of dismissing advanced security warnings of drone strike that killed six US soldiers.",
+            "url": "https://www.aljazeera.com/news/2026/11/17/whistleblower-deadly-drone-strike-in-kuwait-couldve-been-avoided?traffic_source=rss",
+            "published": "Tue, 17 Nov 2026 21:14:31 +0000",
+            "fetched": "2026-11-18T01:03:49+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US Navy chief says Iran war has put ‘strain’ on maritime forces",
+            "description": "Lawmakers hound Hung Cao over expanding war, opaque leadership shake-ups, and low crew morale at confirmation hearing.",
+            "url": "https://www.aljazeera.com/news/2026/11/17/us-navy-chief-says-iran-war-has-put-strain-on-maritime-forces?traffic_source=rss",
+            "published": "Tue, 17 Nov 2026 20:57:56 +0000",
+            "fetched": "2026-11-18T01:03:49+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "What’s behind the ANC’s decline in South Africa?",
+            "description": "African National Congress won its lowest-ever vote share in local elections this month.",
+            "url": "https://www.aljazeera.com/video/inside-story/2026/11/17/whats-behind-the-ancs-decline-in-south-africa?traffic_source=rss",
+            "published": "Tue, 17 Nov 2026 20:47:07 +0000",
+            "fetched": "2026-11-18T01:03:49+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Akvan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26494",
+            "published": "2026-11-16T18:00:00Z",
+            "fetched": "2026-11-18T01:03:49+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Xavier",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26463",
+            "published": "2026-11-15T08:00:00Z",
+            "fetched": "2026-11-18T01:03:49+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Range 47, Forrest, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26465",
+            "published": "2026-11-13T15:18:00Z",
+            "fetched": "2026-11-18T01:03:49+03:30"
+        }
+    ]
+}

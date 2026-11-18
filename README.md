@@ -1,142 +1,94 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-18 16:16:05
+**Last Update:** 2026-11-18 17:51:49
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** NASA, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. I had AI read my entire field, Theoretical Astrophysics
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://science.caseyhandmer.com/physics/">https://science.caseyhandmer.com/physics/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50545118">https://news.ycombinator.com/item?id=50545118</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://science.caseyhandmer.com/physics/](https://science.caseyhandmer.com/physics/)
-
----
-
-### 2. Codeberg.org Not Reachable
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://social.anoxinon.de/@codebergstatus/117636437840688845">https://social.anoxinon.de/@codebergstatus/117636437840688845</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50544261">https://news.ycombinator.com/item?id=50544261</a></p>
-<p>Points: 213</p>
-<p># Comments: 164</p>
-
-🔗 **Read more:** [https://social.anoxinon.de/@codebergstatus/117636437840688845](https://social.anoxinon.de/@codebergstatus/117636437840688845)
-
----
-
-### 3. Energy-Based Reasoners: 385x more efficient inference
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://energy-based-reasoners.github.io/">https://energy-based-reasoners.github.io/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50543989">https://news.ycombinator.com/item?id=50543989</a></p>
-<p>Points: 52</p>
-<p># Comments: 4</p>
-
-🔗 **Read more:** [https://energy-based-reasoners.github.io/](https://energy-based-reasoners.github.io/)
-
----
-
-### 4. Energy bills forecast to go up by £443 a year from January as UK inflation rises again
+### 1. Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The rise to 3.6% in October is the fourth monthly increase in a row - and most economists expect it to keep going up. The Bank of England's target is 2%.
+Energy bills are expected to jump by 26% a year for a typical household as UK inflation hits its highest rate for a year.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Watch: Why historic US, China and Russia meeting matters
+### 2. Trump shakes hands with Putin and Xi ahead of landmark talks in China
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The BBC’s Laura Bicker, Steve Rosenberg and Nada Tawfik explain everything you need to know ahead of the unprecedented trilateral meeting.
+The three leaders will meet together for the first time on Thursday during a closely-watched summit.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cqp86k23d84ro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cqp86k23d84ro?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Minister criticises media for 'amplifying' Russell Brand's prison message
+### 3. Steve Rosenberg: Historic talks with Xi and Trump are a coup for Putin
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Lucy Powell says outlets shouldn't have played a clip of a message read by the jailed rapist's wife.
+Thursday's meeting between the leaders of US, China and Russia will give Vladimir Putin a big stage - but it does not bring him closer to winning the war in Ukraine.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq702k1w8xd3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq702k1w8xd3o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9n70gd320mpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9n70gd320mpo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Ukraine mourns mother, athlete and drone operator killed in Russian strike
+### 4. What is the ‘endgame’ in Syria, as Israeli rivals look for new government?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Rayana joined Ukraine’s army in 2024 to protect her son from Russia’s invasion. She was killed in Russian air strike.
+As Israel intensifies its incursions into southern Syria, analysts say there will be little change in the future.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/18/ukraine-mourns-mother-athlete-and-drone-operator-killed-in-russian-strike?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/18/ukraine-mourns-mother-athlete-and-drone-operator-killed-in-russian-strike?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/11/18/what-is-the-end-game-in-syria-as-israeli-rivals-look-for-new-government?traffic_source=rss](https://www.aljazeera.com/features/2026/11/18/what-is-the-end-game-in-syria-as-israeli-rivals-look-for-new-government?traffic_source=rss)
 
 ---
 
-### 8. Rwanda and DRC: What is holding up the Washington peace process?
+### 5. How the US House of Representatives chooses its leaders: A visual guide
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The two sides remain divided over key security commitments under the Washington Accords.
+After their midterm win, Democrats will lead the House from January 3. Here’s how its speaker and leaders are chosen.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/18/rwanda-and-drc-what-is-holding-up-the-washington-peace-process?traffic_source=rss](https://www.aljazeera.com/news/2026/11/18/rwanda-and-drc-what-is-holding-up-the-washington-peace-process?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/18/how-the-us-house-of-representatives-chooses-its-leaders-a-visual-guide?traffic_source=rss](https://www.aljazeera.com/news/2026/11/18/how-the-us-house-of-representatives-chooses-its-leaders-a-visual-guide?traffic_source=rss)
 
 ---
 
-### 9. ICJ to rule on Rohingya genocide case: What to expect
+### 6. GTA 6: Everything you need to know about the highly anticipated game
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The ICJ rules on The Gambia’s genocide case against Myanmar. Here’s what’s at stake for the Rohingya.
+Economists predict GTA 6 could cost US up to $1bn in lost productivity, with the game set for release at midnight.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/18/icj-to-rule-on-rohingya-genocide-case-what-to-expect?traffic_source=rss](https://www.aljazeera.com/news/2026/11/18/icj-to-rule-on-rohingya-genocide-case-what-to-expect?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/11/18/gta-6-everything-you-need-to-know-about-the-highly-anticipated-game?traffic_source=rss](https://www.aljazeera.com/economy/2026/11/18/gta-6-everything-you-need-to-know-about-the-highly-anticipated-game?traffic_source=rss)
 
 ---
 
-### 10. Tropical Cyclone Akvan
+### 7. Tropical Cyclone Akvan
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Severe Storms
 
 ---
 
-### 11. Tropical Cyclone Xavier
+### 8. Tropical Cyclone Xavier
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Severe Storms
 
 ---
 
-### 12. Wildfire Range 47, Forrest, Mississippi
+### 9. Wildfire Range 47, Forrest, Mississippi
 
 **Source:** NASA
 

@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-18 06:54:16
+**Last Update:** 2026-11-18 08:06:02
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Cerebras Disaggregated Inference
+### 1. Climate change is making some African deserts greener
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference">https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50540472">https://news.ycombinator.com/item?id=50540472</a></p>
-<p>Points: 31</p>
-<p># Comments: 9</p>
+<p>Article URL: <a href="https://www.economist.com/middle-east-and-africa/2026/11/17/climate-change-is-making-some-african-deserts-greener">https://www.economist.com/middle-east-and-africa/2026/11/17/climate-change-is-making-some-african-deserts-greener</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50541613">https://news.ycombinator.com/item?id=50541613</a></p>
+<p>Points: 8</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference](https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference)
+🔗 **Read more:** [https://www.economist.com/middle-east-and-africa/2026/11/17/climate-change-is-making-some-african-deserts-greener](https://www.economist.com/middle-east-and-africa/2026/11/17/climate-change-is-making-some-african-deserts-greener)
 
 ---
 
-### 2. ID.me terms required for IRS sign-in
+### 2. H-1B Executive Actions in 2026 [pdf]
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in">https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50540437">https://news.ycombinator.com/item?id=50540437</a></p>
-<p>Points: 144</p>
-<p># Comments: 51</p>
+<p>Article URL: <a href="https://www.everycrsreport.com/files/2026-10-14_IN12747_fcb1389788aa7b9102b795882af042e85d20532c.pdf">https://www.everycrsreport.com/files/2026-10-14_IN12747_fcb1389788aa7b9102b795882af042e85d20532c.pdf</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50541550">https://news.ycombinator.com/item?id=50541550</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in](https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in)
+🔗 **Read more:** [https://www.everycrsreport.com/files/2026-10-14_IN12747_fcb1389788aa7b9102b795882af042e85d20532c.pdf](https://www.everycrsreport.com/files/2026-10-14_IN12747_fcb1389788aa7b9102b795882af042e85d20532c.pdf)
 
 ---
 
-### 3. Google's AI answers reducing search traffic by 40%
+### 3. Engineering Vitals in the Age of AI
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://revscope.co/blog/search-seo-geo-2026/">https://revscope.co/blog/search-seo-geo-2026/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50540178">https://news.ycombinator.com/item?id=50540178</a></p>
-<p>Points: 135</p>
-<p># Comments: 90</p>
+<p>Article URL: <a href="https://octopus.com/blog/engineering-vitals-in-the-age-of-ai">https://octopus.com/blog/engineering-vitals-in-the-age-of-ai</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50541542">https://news.ycombinator.com/item?id=50541542</a></p>
+<p>Points: 7</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://revscope.co/blog/search-seo-geo-2026/](https://revscope.co/blog/search-seo-geo-2026/)
+🔗 **Read more:** [https://octopus.com/blog/engineering-vitals-in-the-age-of-ai](https://octopus.com/blog/engineering-vitals-in-the-age-of-ai)
 
 ---
 
@@ -97,42 +97,42 @@ The prime minister says he will set out options for the future "alongside" his 1
 
 ---
 
-### 7. Nvidia shoots down calls for Jensen Huang’s return amid strong earnings
+### 7. Australia issues sanctions targeting Israeli settlers
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Nvidia board chair says chip giant &#039;does not intend&#039; to reinstate Huang as it projects revenues of $130bn in Q4.
+Australia has imposed sanctions on three Israeli individuals and four organisations for illegal settlement expansion.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/11/18/nvidia-shoots-down-calls-for-jensen-huangs-return-amid-strong-earnings?traffic_source=rss](https://www.aljazeera.com/economy/2026/11/18/nvidia-shoots-down-calls-for-jensen-huangs-return-amid-strong-earnings?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/18/australia-issues-sanctions-targeting-israeli-settlers?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/18/australia-issues-sanctions-targeting-israeli-settlers?traffic_source=rss)
 
 ---
 
-### 8. Rare images of Indigenous group in Amazon highlight threats, advocates say
+### 8. Rubio rules out cyberattacks or links between tech outages
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Illegal activities in the Amazon pose grave risks to uncontacted Indigenous groups like Brazil’s Awa,.
+US Secretary of State Marco Rubio said there is no evidence linking technical outages to each other or to cyberattacks.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/18/rare-images-of-indigenous-group-in-amazon-highlight-threats-advocates-say?traffic_source=rss](https://www.aljazeera.com/news/2026/11/18/rare-images-of-indigenous-group-in-amazon-highlight-threats-advocates-say?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/18/rubio-rules-out-cyberattacks-or-links-between-tech-outages?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/18/rubio-rules-out-cyberattacks-or-links-between-tech-outages?traffic_source=rss)
 
 ---
 
-### 9. Hungary on the hunt for a football hero
+### 9. Mary Peltola flips Alaska Senate seat in another Democratic win
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Northern Ireland has secured a Nations League promotion, drawing with Hungary 1-1.
+The hard-fought contest is the last to be called for the US Senate and likely faces legal challenges.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/18/hungary-on-the-hunt-for-a-football-hero?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/18/hungary-on-the-hunt-for-a-football-hero?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/18/mary-peltola-wins-alaska-senate-seat-in-another-democratic-win?traffic_source=rss](https://www.aljazeera.com/news/2026/11/18/mary-peltola-wins-alaska-senate-seat-in-another-democratic-win?traffic_source=rss)
 
 ---
 

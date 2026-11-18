@@ -1,16 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-19 00:40:08
+**Last Update:** 2026-11-19 01:40:16
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Inside the old gas pipeline where Ukraine is fighting an underground war with Russia
+### 1. Gemini 4 Neon
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/">https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50552424">https://news.ycombinator.com/item?id=50552424</a></p>
+<p>Points: 143</p>
+<p># Comments: 102</p>
+
+🔗 **Read more:** [https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/)
+
+---
+
+### 2. Google Gemini's "Tasks" Personal Assistant Is Now Free
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/">https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50551601">https://news.ycombinator.com/item?id=50551601</a></p>
+<p>Points: 33</p>
+<p># Comments: 23</p>
+
+🔗 **Read more:** [https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/](https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/)
+
+---
+
+### 3. Search Browser – Minimalist WebKit browser with Chrome extension support
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://searchbrowser.app/">https://searchbrowser.app/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50551398">https://news.ycombinator.com/item?id=50551398</a></p>
+<p>Points: 30</p>
+<p># Comments: 21</p>
+
+🔗 **Read more:** [https://searchbrowser.app/](https://searchbrowser.app/)
+
+---
+
+### 4. Inside the old gas pipeline where Ukraine is fighting an underground war with Russia
 
 **Source:** BBC
 
@@ -23,7 +71,7 @@ Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below g
 
 ---
 
-### 2. 'The drones don't fly here' - BBC reports from Ukraine's new front line
+### 5. 'The drones don't fly here' - BBC reports from Ukraine's new front line
 
 **Source:** BBC
 
@@ -36,7 +84,7 @@ Ukrainian forces are fighting Russian troops in an old Soviet tunnel in the Khar
 
 ---
 
-### 3. UK government asks for Russell Brand's YouTube account to be removed
+### 6. UK government asks for Russell Brand's YouTube account to be removed
 
 **Source:** BBC
 
@@ -49,46 +97,46 @@ This comes after Brand's wife shared a message from him in which he claimed his 
 
 ---
 
-### 4. US defence secretary announces military partnership on trip to Venezuela
+### 7. Iraq sentences six French nationals to life in prison for joining ISIL
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Pete Hegseth says the agreement will include joint training and intelligence sharing with the Venezuelan military.
+Trials began in September for 47 French citizens who were transferred from Syria last year.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/18/us-defence-secretary-announces-military-partnership-on-trip-to-venezuela?traffic_source=rss](https://www.aljazeera.com/news/2026/11/18/us-defence-secretary-announces-military-partnership-on-trip-to-venezuela?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/18/iraq-sentences-six-french-nationals-to-life-in-prison-for-joining-isil?traffic_source=rss](https://www.aljazeera.com/news/2026/11/18/iraq-sentences-six-french-nationals-to-life-in-prison-for-joining-isil?traffic_source=rss)
 
 ---
 
-### 5. What does Israel’s new ground offensive mean for Palestinians in Gaza?
+### 8. US lawmakers push to raise minimum wage to $25, end tipped pay system
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli tanks advance beyond the &#039;Yellow Line&#039;, forcing Palestinians to flee again in Gaza.
+Public support for raising the minimum wage grows, with 78 percent of voters saying it was an important election issue.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/18/what-does-israels-new-ground-offensive-mean-for-palestinians-in-gaza?traffic_source=rss](https://www.aljazeera.com/news/2026/11/18/what-does-israels-new-ground-offensive-mean-for-palestinians-in-gaza?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/11/18/us-lawmakers-push-to-raise-minimum-wage-to-25-end-tipped-pay-system?traffic_source=rss](https://www.aljazeera.com/economy/2026/11/18/us-lawmakers-push-to-raise-minimum-wage-to-25-end-tipped-pay-system?traffic_source=rss)
 
 ---
 
-### 6. Pew Research: Islam on track to become world’s largest religion by 2035
+### 9. Floodwaters submerge cars and parking lots in Florida town
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The report projects steady increases for both Christianity and Islam from 2020 to 2070.
+Floodwaters turned streets and parking lots into rivers in Davie, Florida, leaving drivers facing dangerous conditions.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/18/pew-research-islam-on-track-to-become-worlds-largest-religion-by-2035?traffic_source=rss](https://www.aljazeera.com/news/2026/11/18/pew-research-islam-on-track-to-become-worlds-largest-religion-by-2035?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/18/aje-onl-nf_floodwaters-submerge-cars-in-florida-181126?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/18/aje-onl-nf_floodwaters-submerge-cars-in-florida-181126?traffic_source=rss)
 
 ---
 
-### 7. Tropical Cyclone Akvan
+### 10. Tropical Cyclone Akvan
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Severe Storms
 
 ---
 
-### 8. Tropical Cyclone Xavier
+### 11. Tropical Cyclone Xavier
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Severe Storms
 
 ---
 
-### 9. Wildfire Range 47, Forrest, Mississippi
+### 12. Wildfire Range 47, Forrest, Mississippi
 
 **Source:** NASA
 

@@ -1,90 +1,90 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-18 17:51:49
+**Last Update:** 2026-11-19 00:40:08
 
 **Total News:** 9
 
-**Sources:** NASA, BBC, Al Jazeera
+**Sources:** BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again
+### 1. Inside the old gas pipeline where Ukraine is fighting an underground war with Russia
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Energy bills are expected to jump by 26% a year for a typical household as UK inflation hits its highest rate for a year.
+Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 2. Trump shakes hands with Putin and Xi ahead of landmark talks in China
+### 2. 'The drones don't fly here' - BBC reports from Ukraine's new front line
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The three leaders will meet together for the first time on Thursday during a closely-watched summit.
+Ukrainian forces are fighting Russian troops in an old Soviet tunnel in the Kharkiv region.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 3. Steve Rosenberg: Historic talks with Xi and Trump are a coup for Putin
+### 3. UK government asks for Russell Brand's YouTube account to be removed
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Thursday's meeting between the leaders of US, China and Russia will give Vladimir Putin a big stage - but it does not bring him closer to winning the war in Ukraine.
+This comes after Brand's wife shared a message from him in which he claimed his innocence.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9n70gd320mpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9n70gd320mpo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmgrenln8p29o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmgrenln8p29o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. What is the ‘endgame’ in Syria, as Israeli rivals look for new government?
+### 4. US defence secretary announces military partnership on trip to Venezuela
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-As Israel intensifies its incursions into southern Syria, analysts say there will be little change in the future.
+Pete Hegseth says the agreement will include joint training and intelligence sharing with the Venezuelan military.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/11/18/what-is-the-end-game-in-syria-as-israeli-rivals-look-for-new-government?traffic_source=rss](https://www.aljazeera.com/features/2026/11/18/what-is-the-end-game-in-syria-as-israeli-rivals-look-for-new-government?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/18/us-defence-secretary-announces-military-partnership-on-trip-to-venezuela?traffic_source=rss](https://www.aljazeera.com/news/2026/11/18/us-defence-secretary-announces-military-partnership-on-trip-to-venezuela?traffic_source=rss)
 
 ---
 
-### 5. How the US House of Representatives chooses its leaders: A visual guide
+### 5. What does Israel’s new ground offensive mean for Palestinians in Gaza?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-After their midterm win, Democrats will lead the House from January 3. Here’s how its speaker and leaders are chosen.
+Israeli tanks advance beyond the &#039;Yellow Line&#039;, forcing Palestinians to flee again in Gaza.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/18/how-the-us-house-of-representatives-chooses-its-leaders-a-visual-guide?traffic_source=rss](https://www.aljazeera.com/news/2026/11/18/how-the-us-house-of-representatives-chooses-its-leaders-a-visual-guide?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/18/what-does-israels-new-ground-offensive-mean-for-palestinians-in-gaza?traffic_source=rss](https://www.aljazeera.com/news/2026/11/18/what-does-israels-new-ground-offensive-mean-for-palestinians-in-gaza?traffic_source=rss)
 
 ---
 
-### 6. GTA 6: Everything you need to know about the highly anticipated game
+### 6. Pew Research: Islam on track to become world’s largest religion by 2035
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Economists predict GTA 6 could cost US up to $1bn in lost productivity, with the game set for release at midnight.
+The report projects steady increases for both Christianity and Islam from 2020 to 2070.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/11/18/gta-6-everything-you-need-to-know-about-the-highly-anticipated-game?traffic_source=rss](https://www.aljazeera.com/economy/2026/11/18/gta-6-everything-you-need-to-know-about-the-highly-anticipated-game?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/18/pew-research-islam-on-track-to-become-worlds-largest-religion-by-2035?traffic_source=rss](https://www.aljazeera.com/news/2026/11/18/pew-research-islam-on-track-to-become-worlds-largest-religion-by-2035?traffic_source=rss)
 
 ---
 

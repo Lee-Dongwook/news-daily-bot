@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-11-19T00:40:08+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
+            "description": "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones.",
+            "url": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 18 Nov 2026 17:00:40 GMT",
+            "fetched": "2026-11-19T00:40:08+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
+            "description": "Ukrainian forces are fighting Russian troops in an old Soviet tunnel in the Kharkiv region.",
+            "url": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 18 Nov 2026 17:00:04 GMT",
+            "fetched": "2026-11-19T00:40:08+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK government asks for Russell Brand's YouTube account to be removed",
+            "description": "This comes after Brand's wife shared a message from him in which he claimed his innocence.",
+            "url": "https://www.bbc.co.uk/news/articles/cmgrenln8p29o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 18 Nov 2026 20:48:58 GMT",
+            "fetched": "2026-11-19T00:40:08+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US defence secretary announces military partnership on trip to Venezuela",
+            "description": "Pete Hegseth says the agreement will include joint training and intelligence sharing with the Venezuelan military.",
+            "url": "https://www.aljazeera.com/news/2026/11/18/us-defence-secretary-announces-military-partnership-on-trip-to-venezuela?traffic_source=rss",
+            "published": "Wed, 18 Nov 2026 21:01:05 +0000",
+            "fetched": "2026-11-19T00:40:08+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "What does Israel’s new ground offensive mean for Palestinians in Gaza?",
+            "description": "Israeli tanks advance beyond the &#039;Yellow Line&#039;, forcing Palestinians to flee again in Gaza.",
+            "url": "https://www.aljazeera.com/news/2026/11/18/what-does-israels-new-ground-offensive-mean-for-palestinians-in-gaza?traffic_source=rss",
+            "published": "Wed, 18 Nov 2026 20:38:06 +0000",
+            "fetched": "2026-11-19T00:40:08+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Pew Research: Islam on track to become world’s largest religion by 2035",
+            "description": "The report projects steady increases for both Christianity and Islam from 2020 to 2070.",
+            "url": "https://www.aljazeera.com/news/2026/11/18/pew-research-islam-on-track-to-become-worlds-largest-religion-by-2035?traffic_source=rss",
+            "published": "Wed, 18 Nov 2026 20:37:40 +0000",
+            "fetched": "2026-11-19T00:40:08+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Akvan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26494",
+            "published": "2026-11-16T18:00:00Z",
+            "fetched": "2026-11-19T00:40:08+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Xavier",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26463",
+            "published": "2026-11-15T08:00:00Z",
+            "fetched": "2026-11-19T00:40:08+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Range 47, Forrest, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26465",
+            "published": "2026-11-13T15:18:00Z",
+            "fetched": "2026-11-19T00:40:08+03:30"
+        }
+    ]
+}

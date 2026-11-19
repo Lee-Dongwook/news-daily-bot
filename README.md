@@ -1,73 +1,73 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-19 07:12:47
+**Last Update:** 2026-11-19 14:57:15
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. AI will not make you rich (2025)
+### 1. DeepMind Employees Are Unionising
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://colossus.com/article/ai-will-not-make-you-rich/">https://colossus.com/article/ai-will-not-make-you-rich/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50555093">https://news.ycombinator.com/item?id=50555093</a></p>
-<p>Points: 64</p>
-<p># Comments: 40</p>
+<p>Article URL: <a href="https://www.gdmunion.co.uk">https://www.gdmunion.co.uk</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50557885">https://news.ycombinator.com/item?id=50557885</a></p>
+<p>Points: 20</p>
+<p># Comments: 7</p>
 
-🔗 **Read more:** [https://colossus.com/article/ai-will-not-make-you-rich/](https://colossus.com/article/ai-will-not-make-you-rich/)
+🔗 **Read more:** [https://www.gdmunion.co.uk](https://www.gdmunion.co.uk)
 
 ---
 
-### 2. FailTrace – Reproduce a failed GitHub Actions run locally from its URL
+### 2. What's New in PHP 8.6
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/Ri4dH/failtrace">https://github.com/Ri4dH/failtrace</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50554941">https://news.ycombinator.com/item?id=50554941</a></p>
-<p>Points: 10</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.php.net/releases/8.6/en.php">https://www.php.net/releases/8.6/en.php</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50557870">https://news.ycombinator.com/item?id=50557870</a></p>
+<p>Points: 56</p>
+<p># Comments: 31</p>
 
-🔗 **Read more:** [https://github.com/Ri4dH/failtrace](https://github.com/Ri4dH/failtrace)
+🔗 **Read more:** [https://www.php.net/releases/8.6/en.php](https://www.php.net/releases/8.6/en.php)
 
 ---
 
-### 3. Unreal Tournament 2004 in the Browser
+### 3. SSD prices will start going down the second half of next year
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://ut2004.dev/">https://ut2004.dev/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50554935">https://news.ycombinator.com/item?id=50554935</a></p>
-<p>Points: 42</p>
-<p># Comments: 11</p>
+<p>Article URL: <a href="https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html">https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50557716">https://news.ycombinator.com/item?id=50557716</a></p>
+<p>Points: 84</p>
+<p># Comments: 53</p>
 
-🔗 **Read more:** [https://ut2004.dev/](https://ut2004.dev/)
+🔗 **Read more:** [https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html](https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html)
 
 ---
 
-### 4. Inside the old gas pipeline where Ukraine is fighting an underground war with Russia
+### 4. Watch: Trump greets 'my friend' Putin as pair shake hands
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones.
+The pair met ahead of a trilateral meeting later with Chinese leader Xi Jinping.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c6j9m19llmv3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c6j9m19llmv3o?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -84,7 +84,7 @@ A former McDonald's worker calls on the firm to “change the way they treat you
 
 ---
 
-### 6. 'Feudal' leasehold system set to be scrapped in England and Wales
+### 6. Leasehold system set to be scrapped in England and Wales
 
 **Source:** BBC
 
@@ -97,42 +97,42 @@ The proposed Commonhold and Leasehold Reform Bill will also include capping grou
 
 ---
 
-### 7. China’s Xi greets Putin and Trump at APEC before historic summit
+### 7. Will lasers weapons change warfare?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Chinese President Xi Jinping greeted Donald Trump and Vladimir Putin at APEC summit.
+The use of lasers is increasing in warfare — which countries are deploying them and how?
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/19/chinas-xi-greets-putin-and-trump-at-apec-before-historic-summit?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/19/chinas-xi-greets-putin-and-trump-at-apec-before-historic-summit?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/project-force-2/2026/11/19/will-lasers-weapons-change-warfare?traffic_source=rss](https://www.aljazeera.com/video/project-force-2/2026/11/19/will-lasers-weapons-change-warfare?traffic_source=rss)
 
 ---
 
-### 8. Google’s driverless car hits a roadblock
+### 8. Denmark parliament approves security deal with Greenland and US
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Waymo faces fresh scrutiny after a driverless car stalled in San Francisco floodwaters amid other traffic incidents.
+All 109 Danish lawmakers present approved the deal, easing tensions over Trump&#039;s desire to annex the Arctic island.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/19/googles-driverless-car-hits-a-roadblock?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/19/googles-driverless-car-hits-a-roadblock?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/19/denmark-parliament-approves-security-deal-with-greenland-and-us?traffic_source=rss](https://www.aljazeera.com/news/2026/11/19/denmark-parliament-approves-security-deal-with-greenland-and-us?traffic_source=rss)
 
 ---
 
-### 9. What do Trump, Putin and Xi want from their Shenzhen meeting?
+### 9. FIFA confirms Diallo, Tashima as Infantino’s challengers at 2027 election
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The US, Chinese and Russian leaders are to hold their first three-way talks on the sidelines of the APEC summit.
+French football chief Philippe Diallo and Japan&#039;s Kozo Tashima will be the only candidates to run for FIFA presidency.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/19/what-do-trump-putin-and-xi-want-from-their-shenzhen-meeting?traffic_source=rss](https://www.aljazeera.com/news/2026/11/19/what-do-trump-putin-and-xi-want-from-their-shenzhen-meeting?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/19/fifa-confirms-diallo-tashima-as-infantinos-challengers-at-2027-election?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/19/fifa-confirms-diallo-tashima-as-infantinos-challengers-at-2027-election?traffic_source=rss)
 
 ---
 

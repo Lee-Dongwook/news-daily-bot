@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-19T23:42:24+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
+            "description": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=lwfewYL7X0o\">https://www.youtube.com/watch?v=lwfewYL7X0o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50564366\">https://news.ycombinator.com/item?id=50564366</a></p>\n<p>Points: 9</p>\n<p># Comments: 4</p>",
+            "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
+            "published": "Thu, 19 Nov 2026 18:47:16 +0000",
+            "fetched": "2026-11-19T23:42:24+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
+            "description": "<p>Article URL: <a href=\"https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine\">https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50564159\">https://news.ycombinator.com/item?id=50564159</a></p>\n<p>Points: 6</p>\n<p># Comments: 1</p>",
+            "url": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
+            "published": "Thu, 19 Nov 2026 18:35:17 +0000",
+            "fetched": "2026-11-19T23:42:24+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Claude solves two open problems in the physics of black holes",
+            "description": "<p>Article URL: <a href=\"https://www.anthropic.com/research/claude-black-hole-physics\">https://www.anthropic.com/research/claude-black-hole-physics</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50563148\">https://news.ycombinator.com/item?id=50563148</a></p>\n<p>Points: 163</p>\n<p># Comments: 42</p>",
+            "url": "https://www.anthropic.com/research/claude-black-hole-physics",
+            "published": "Thu, 19 Nov 2026 17:30:44 +0000",
+            "fetched": "2026-11-19T23:42:24+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Men guilty of abusing woman drugged and advertised for sex by husband",
+            "description": "Philip Young, 50, drugged and raped his wife, Joanne Young, over a 13-year period.",
+            "url": "https://www.bbc.co.uk/news/articles/crq5n5pe935no?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 19 Nov 2026 17:42:25 GMT",
+            "fetched": "2026-11-19T23:42:24+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'You can be believed and understood': Joanne Young speaks after verdict",
+            "description": "Joanne Young, who has waived her right to anonymity, urged other victims of similar crimes to come forward.",
+            "url": "https://www.bbc.co.uk/news/videos/cv0l31g7g8j0o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 19 Nov 2026 16:44:22 GMT",
+            "fetched": "2026-11-19T23:42:24+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Bowen: Myanmar genocide verdict is historic and could have far-reaching implications",
+            "description": "Lawyers will study the way in which Gambia proved the crucial point that Myanmar intended to commit genocide, writes the BBC's international editor.",
+            "url": "https://www.bbc.co.uk/news/articles/c6ly58ndgd0no?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 19 Nov 2026 20:02:02 GMT",
+            "fetched": "2026-11-19T23:42:24+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘On the same page’: Hegseth hails US ties with Colombia’s de la Espriella",
+            "description": "The US defence secretary praised security cooperation with Colombia as country joins Americas Counter Cartel Coalition.",
+            "url": "https://www.aljazeera.com/news/2026/11/19/on-the-same-page-hegseth-hails-us-ties-with-colombias-de-la-espriella?traffic_source=rss",
+            "published": "Thu, 19 Nov 2026 19:53:24 +0000",
+            "fetched": "2026-11-19T23:42:24+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "European leaders unite in Berlin to reaffirm support for Ukraine",
+            "description": "German chancellor warns peace talks without Europe&#039;s involvement are doomed to fail, urging unity with Ukraine.",
+            "url": "https://www.aljazeera.com/news/2026/11/19/european-leaders-unite-in-berlin-to-reaffirm-support-for-ukraine?traffic_source=rss",
+            "published": "Thu, 19 Nov 2026 19:40:23 +0000",
+            "fetched": "2026-11-19T23:42:24+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Photos: Genocide ruling spotlights human toll of 2017 Rohingya crisis",
+            "description": "Nearly a million Rohingya fled to Bangladesh in 2017, forming one of the world&#039;s largest refugee camps near Cox&#039;s Bazar.",
+            "url": "https://www.aljazeera.com/gallery/2026/11/19/photos-genocide-ruling-spotlights-2017-rohingya-crisis-human-toll?traffic_source=rss",
+            "published": "Thu, 19 Nov 2026 19:33:25 +0000",
+            "fetched": "2026-11-19T23:42:24+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Akvan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26494",
+            "published": "2026-11-16T18:00:00Z",
+            "fetched": "2026-11-19T23:42:24+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Xavier",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26463",
+            "published": "2026-11-15T08:00:00Z",
+            "fetched": "2026-11-19T23:42:24+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Range 47, Forrest, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26465",
+            "published": "2026-11-13T15:18:00Z",
+            "fetched": "2026-11-19T23:42:24+03:30"
+        }
+    ]
+}

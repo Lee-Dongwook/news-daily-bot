@@ -1,77 +1,90 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-20 16:48:41
+**Last Update:** 2026-11-20 23:15:57
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. The Making of Oxygene
+### 1. Hurried Announcement: Alessandro Masullo GRH
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://jeanmicheljarre.com/aaa/the-making-of-oxygene">https://jeanmicheljarre.com/aaa/the-making-of-oxygene</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50572822">https://news.ycombinator.com/item?id=50572822</a></p>
-<p>Points: 59</p>
-<p># Comments: 22</p>
+<p>Article URL: <a href="https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/">https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50579568">https://news.ycombinator.com/item?id=50579568</a></p>
+<p>Points: 385</p>
+<p># Comments: 115</p>
 
-🔗 **Read more:** [https://jeanmicheljarre.com/aaa/the-making-of-oxygene](https://jeanmicheljarre.com/aaa/the-making-of-oxygene)
+🔗 **Read more:** [https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/](https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/)
 
 ---
 
-### 2. Frostbite: A new CPU architecture discovered, designed and verified by AI
+### 2. We promoted developers into architects without informing them
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://architectlabs.com/blog/frostbite">https://architectlabs.com/blog/frostbite</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50572503">https://news.ycombinator.com/item?id=50572503</a></p>
-<p>Points: 230</p>
-<p># Comments: 141</p>
+<p>Article URL: <a href="https://manidoraisamy.com/developer-to-architect.html">https://manidoraisamy.com/developer-to-architect.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50579331">https://news.ycombinator.com/item?id=50579331</a></p>
+<p>Points: 62</p>
+<p># Comments: 23</p>
 
-🔗 **Read more:** [https://architectlabs.com/blog/frostbite](https://architectlabs.com/blog/frostbite)
+🔗 **Read more:** [https://manidoraisamy.com/developer-to-architect.html](https://manidoraisamy.com/developer-to-architect.html)
 
 ---
 
-### 3. What people are building, discovered through new domains
+### 3. Vibecoding an Inference Chip
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://startups.novumsignals.com/">https://startups.novumsignals.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50572448">https://news.ycombinator.com/item?id=50572448</a></p>
-<p>Points: 52</p>
-<p># Comments: 19</p>
+<p>Article URL: <a href="https://ankitg.me/blog/vibecoding-inference-chip/">https://ankitg.me/blog/vibecoding-inference-chip/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50579297">https://news.ycombinator.com/item?id=50579297</a></p>
+<p>Points: 24</p>
+<p># Comments: 6</p>
 
-🔗 **Read more:** [https://startups.novumsignals.com/](https://startups.novumsignals.com/)
+🔗 **Read more:** [https://ankitg.me/blog/vibecoding-inference-chip/](https://ankitg.me/blog/vibecoding-inference-chip/)
 
 ---
 
-### 4. Secret UK cyber operation protected tens of thousands of fridges from hackers
+### 4. UK to explore even closer ties with EU after agreeing deal, says Burnham
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Supermarkets, warehouses, restaurants and stadiums have been scrambling to make their devices safe.
+The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk
+### 5. Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The trade deal is unlikely lower food prices for shoppers, but should boost the economy more than other post-Brexit agreements.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Russian missile hits Poland as Kyiv's allies hold military exercise, says Tusk
 
 **Source:** BBC
 
@@ -84,85 +97,46 @@ Nobody was hurt and no damage has been reported, but Warsaw described the incide
 
 ---
 
-### 6. Calls for consent law change after Joanne Young rape case
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Joanne Young's daughter joins her mother in calling for a change to the law on consent.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqy4jvprxyrdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqy4jvprxyrdo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Brexit debate returns as UK PM seeks closer EU ties
+### 7. Former US national security adviser confronted by students on Gaza
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Brexit debate returns as UK PM seeks closer EU ties
+Former US National Security Adviser Jake Sullivan was confronted by student protesters during a speaking event at MIT.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/20/brexit-debate-returns-as-uk-pm-seeks-closer-eu-ties?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/20/brexit-debate-returns-as-uk-pm-seeks-closer-eu-ties?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/20/former-us-national-security-adviser-confronted-by-students-on-gaza?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/20/former-us-national-security-adviser-confronted-by-students-on-gaza?traffic_source=rss)
 
 ---
 
-### 8. Nations League quarterfinal draw: Spain face France, England play Norway
+### 8. Swimming lessons offer Gaza’s children a moment of relief
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-World Cup winners and European champions Spain have reached three of the four Nations League finals, winning in 2023.
+Palestinian children gathered along Gaza’s coast for swimming lessons, finding relief from the psychological toll of war
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/20/nations-league-knockouts-spain-france-england-norway-quarterfinals?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/20/nations-league-knockouts-spain-france-england-norway-quarterfinals?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_swimming-lessons-offer-gazas-children-relief-201126?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_swimming-lessons-offer-gazas-children-relief-201126?traffic_source=rss)
 
 ---
 
-### 9. BaddyDeadpool: The protester blending humour with activism
+### 9. Ukraine strikes Kerch Bridge as Putin ally declares ‘no one needs Europe’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Al Jazeera spoke to BaddyDeadpool, a French protester who uses dance to ease tensions between police and demonstrators.
+Russia-Europe tensions rise as Ukraine uses its own weapons and communications tech to hit the Kerch Bridge.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/20/baddydeadpool-the-protester-blending-humour-with-activism?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/20/baddydeadpool-the-protester-blending-humour-with-activism?traffic_source=rss)
-
----
-
-### 10. Tropical Cyclone Akvan
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26494](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26494)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/20/ukraine-strikes-kerch-bridge-as-putin-ally-declares-no-one-needs?traffic_source=rss](https://www.aljazeera.com/news/2026/11/20/ukraine-strikes-kerch-bridge-as-putin-ally-declares-no-one-needs?traffic_source=rss)
 
 ---
 
-### 11. Tropical Cyclone Xavier
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26463](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26463)
-
----
-
-### 12. Wildfire Range 47, Forrest, Mississippi
+### 10. Wildfire Greene - Caney Creek Lane, Greene, Tennessee
 
 **Source:** NASA
 
@@ -171,7 +145,33 @@ Natural event: Severe Storms
 **Description:**
 Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26465](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26465)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26568](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26568)
+
+---
+
+### 11. Prescribed Fire 2027 TXTMR HFR RX, Matagorda, Texas
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26569](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26569)
+
+---
+
+### 12. Prescribed Fire OAK Compartment 29 RX, Bibb, Alabama
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26571](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26571)
 
 ---
 

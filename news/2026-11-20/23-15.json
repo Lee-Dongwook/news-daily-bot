@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-20T23:15:57+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Hurried Announcement: Alessandro Masullo GRH",
+            "description": "<p>Article URL: <a href=\"https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/\">https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50579568\">https://news.ycombinator.com/item?id=50579568</a></p>\n<p>Points: 385</p>\n<p># Comments: 115</p>",
+            "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+            "published": "Fri, 20 Nov 2026 18:33:14 +0000",
+            "fetched": "2026-11-20T23:15:57+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "We promoted developers into architects without informing them",
+            "description": "<p>Article URL: <a href=\"https://manidoraisamy.com/developer-to-architect.html\">https://manidoraisamy.com/developer-to-architect.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50579331\">https://news.ycombinator.com/item?id=50579331</a></p>\n<p>Points: 62</p>\n<p># Comments: 23</p>",
+            "url": "https://manidoraisamy.com/developer-to-architect.html",
+            "published": "Fri, 20 Nov 2026 18:17:51 +0000",
+            "fetched": "2026-11-20T23:15:57+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Vibecoding an Inference Chip",
+            "description": "<p>Article URL: <a href=\"https://ankitg.me/blog/vibecoding-inference-chip/\">https://ankitg.me/blog/vibecoding-inference-chip/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50579297\">https://news.ycombinator.com/item?id=50579297</a></p>\n<p>Points: 24</p>\n<p># Comments: 6</p>",
+            "url": "https://ankitg.me/blog/vibecoding-inference-chip/",
+            "published": "Fri, 20 Nov 2026 18:15:16 +0000",
+            "fetched": "2026-11-20T23:15:57+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+            "description": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
+            "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 20 Nov 2026 17:49:48 GMT",
+            "fetched": "2026-11-20T23:15:57+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
+            "description": "The trade deal is unlikely lower food prices for shoppers, but should boost the economy more than other post-Brexit agreements.",
+            "url": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 20 Nov 2026 16:41:52 GMT",
+            "fetched": "2026-11-20T23:15:57+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Russian missile hits Poland as Kyiv's allies hold military exercise, says Tusk",
+            "description": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
+            "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 20 Nov 2026 16:54:29 GMT",
+            "fetched": "2026-11-20T23:15:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Former US national security adviser confronted by students on Gaza",
+            "description": "Former US National Security Adviser Jake Sullivan was confronted by student protesters during a speaking event at MIT.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/former-us-national-security-adviser-confronted-by-students-on-gaza?traffic_source=rss",
+            "published": "Fri, 20 Nov 2026 18:51:26 +0000",
+            "fetched": "2026-11-20T23:15:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Swimming lessons offer Gaza’s children a moment of relief",
+            "description": "Palestinian children gathered along Gaza’s coast for swimming lessons, finding relief from the psychological toll of war",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_swimming-lessons-offer-gazas-children-relief-201126?traffic_source=rss",
+            "published": "Fri, 20 Nov 2026 18:43:37 +0000",
+            "fetched": "2026-11-20T23:15:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Ukraine strikes Kerch Bridge as Putin ally declares ‘no one needs Europe’",
+            "description": "Russia-Europe tensions rise as Ukraine uses its own weapons and communications tech to hit the Kerch Bridge.",
+            "url": "https://www.aljazeera.com/news/2026/11/20/ukraine-strikes-kerch-bridge-as-putin-ally-declares-no-one-needs?traffic_source=rss",
+            "published": "Fri, 20 Nov 2026 18:37:35 +0000",
+            "fetched": "2026-11-20T23:15:57+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Greene - Caney Creek Lane, Greene, Tennessee",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26568",
+            "published": "2026-11-18T14:11:00Z",
+            "fetched": "2026-11-20T23:15:57+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire 2027 TXTMR HFR RX, Matagorda, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26569",
+            "published": "2026-11-18T09:44:00Z",
+            "fetched": "2026-11-20T23:15:57+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire OAK Compartment 29 RX, Bibb, Alabama",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26571",
+            "published": "2026-11-18T09:18:00Z",
+            "fetched": "2026-11-20T23:15:57+03:30"
+        }
+    ]
+}

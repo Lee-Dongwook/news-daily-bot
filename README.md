@@ -1,77 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-20 07:05:21
+**Last Update:** 2026-11-20 14:33:21
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)
+### 1. Frostbite: A new CPU architecture discovered, designed and verified by AI
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/openssl/openssl/pull/33652">https://github.com/openssl/openssl/pull/33652</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50569226">https://news.ycombinator.com/item?id=50569226</a></p>
-<p>Points: 42</p>
-<p># Comments: 10</p>
+<p>Article URL: <a href="https://architectlabs.com/blog/frostbite">https://architectlabs.com/blog/frostbite</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50572503">https://news.ycombinator.com/item?id=50572503</a></p>
+<p>Points: 61</p>
+<p># Comments: 41</p>
 
-🔗 **Read more:** [https://github.com/openssl/openssl/pull/33652](https://github.com/openssl/openssl/pull/33652)
+🔗 **Read more:** [https://architectlabs.com/blog/frostbite](https://architectlabs.com/blog/frostbite)
 
 ---
 
-### 2. Vint Cerf on why TCP/IP was never patented
+### 2. UK fridges secured from hackers in secret nationwide operation
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://seremot.com/p/vint-cerf-on-why-tcpip-was-never">https://seremot.com/p/vint-cerf-on-why-tcpip-was-never</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50568861">https://news.ycombinator.com/item?id=50568861</a></p>
-<p>Points: 29</p>
-<p># Comments: 5</p>
+<p>Article URL: <a href="https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o">https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50572430">https://news.ycombinator.com/item?id=50572430</a></p>
+<p>Points: 35</p>
+<p># Comments: 18</p>
 
-🔗 **Read more:** [https://seremot.com/p/vint-cerf-on-why-tcpip-was-never](https://seremot.com/p/vint-cerf-on-why-tcpip-was-never)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o](https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o)
 
 ---
 
-### 3. Postgres 19 is out, and it's available on Neon and Databricks Lakebase
+### 3. If you can't explain something in simple terms, you don't understand it (2017)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.databricks.com/blog/postgresql-19-available-lakebase">https://www.databricks.com/blog/postgresql-19-available-lakebase</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50568643">https://news.ycombinator.com/item?id=50568643</a></p>
-<p>Points: 18</p>
-<p># Comments: 5</p>
+<p>Article URL: <a href="https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it">https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50572355">https://news.ycombinator.com/item?id=50572355</a></p>
+<p>Points: 9</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://www.databricks.com/blog/postgresql-19-available-lakebase](https://www.databricks.com/blog/postgresql-19-available-lakebase)
+🔗 **Read more:** [https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it](https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it)
 
 ---
 
-### 4. Woman drugged and advertised for sex by husband speaks out as abusers found guilty
+### 4. What the Brussels summit could mean for the Brexit deal
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Joanne Young said the actions of her husband over 13 years had "cost me my life as I knew it".
+BBC political editor Chris Mason looks at the potential agreements between the UK and EU that could be reached on food, energy and youth mobility.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crq5n5pe935no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crq5n5pe935no?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c6lymr5x4ye5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c6lymr5x4ye5o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Tens of thousands of UK fridges secured from hackers in secret nationwide operation
+### 5. Secret UK cyber operation protected tens of thousands of fridges from hackers
 
 **Source:** BBC
 
@@ -84,55 +84,55 @@ Supermarkets, warehouses, restaurants and stadiums have been scrambling to make 
 
 ---
 
-### 6. Anthropic becomes one of world's most valuable public companies in stock market debut
+### 6. Massive hope for pancreatic cancer pill after trial saw tumours vanish
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.
+Daily pill daraxonrasib appears to shrink and possibly even eliminate tumours in some patients with one of the deadliest cancers.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqrmgjnzz9l0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqrmgjnzz9l0o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Asia’s stock markets dive as Anthropic debut fails to allay AI bubble fears
+### 7. Can the Rohingya genocide verdict deliver justice?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Indexes in Japan, South Korea, Taiwan and Hong Kong fall amid tech sell-off.
+The ICJ has ruled against Myanmar, but safe return, citizenship and reparations remain far from guaranteed.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/11/20/asias-stock-markets-dive-as-anthropic-debut-fails-to-allay-ai-bubble-fears?traffic_source=rss](https://www.aljazeera.com/economy/2026/11/20/asias-stock-markets-dive-as-anthropic-debut-fails-to-allay-ai-bubble-fears?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/11/20/can-the-rohingya-genocide-verdict-deliver-justice?traffic_source=rss](https://www.aljazeera.com/opinions/2026/11/20/can-the-rohingya-genocide-verdict-deliver-justice?traffic_source=rss)
 
 ---
 
-### 8. Beloved hippo Fiona dies days after swallowing visitor’s hat
+### 8. Drone operator removes Man United training footage and issues apology
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Hippo Fiona, who became a global sensation after being born six weeks premature in 2017, has died at Cincinnati Zoo.
+The footage, filmed during new manager Mauricio Pochettino&#039;s first training session, was uploaded online.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/20/beloved-hippo-fiona-dies-days-after-swallowing-visitors-hat?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/20/beloved-hippo-fiona-dies-days-after-swallowing-visitors-hat?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/20/drone-operator-removes-man-united-training-footage-and-issues-apology?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/20/drone-operator-removes-man-united-training-footage-and-issues-apology?traffic_source=rss)
 
 ---
 
-### 9. Trump nominee refuses to call Jan 6 an ‘attack’ at Senate hearing
+### 9. Searching for the next Messi at the Under-17 World Cup
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Trump’s nominee to lead the US agency responsible for election security, refused to call the insurrection an attack.
+Nearly 100 football scouts are in Qatar, searching for the next global superstar at the FIFA Under-17 World Cup.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/20/trump-nominee-refuses-to-call-jan-6-an-attack-at-senate-hearing?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/20/trump-nominee-refuses-to-call-jan-6-an-attack-at-senate-hearing?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/20/searching-for-the-next-messi-at-the-under-17-world-cup?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/20/searching-for-the-next-messi-at-the-under-17-world-cup?traffic_source=rss)
 
 ---
 

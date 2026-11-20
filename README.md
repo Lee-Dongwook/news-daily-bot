@@ -1,60 +1,65 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-20 23:15:57
+**Last Update:** 2026-11-21 00:51:33
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Hurried Announcement: Alessandro Masullo GRH
+### 1. Nvidia accounting under SEC investigation, sources say
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/">https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50579568">https://news.ycombinator.com/item?id=50579568</a></p>
-<p>Points: 385</p>
-<p># Comments: 115</p>
+<p>Article URL: <a href="https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html">https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50581438">https://news.ycombinator.com/item?id=50581438</a></p>
+<p>Points: 77</p>
+<p># Comments: 20</p>
 
-🔗 **Read more:** [https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/](https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/)
+🔗 **Read more:** [https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html](https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html)
 
 ---
 
-### 2. We promoted developers into architects without informing them
+### 2. Show HN: OpenComputer – an open source alternative to Devin
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://manidoraisamy.com/developer-to-architect.html">https://manidoraisamy.com/developer-to-architect.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50579331">https://news.ycombinator.com/item?id=50579331</a></p>
-<p>Points: 62</p>
-<p># Comments: 23</p>
+<p>Hi HN!<p>Utpal here, I'm one of the founders of OpenComputer.<p>OpenComputer is an open source cloud coding agent for teams that can run in your own cloud account (AWS, GCP, Azure).<p>We run the agent harness and the sandbox on the same durable VM (architecture in the docs [1]). First commit lands in 24s; the alternatives we benchmarked took 53-72s (benchmarks below [2]).<p>Two other choices:<p>- One VM per team, scalable horizontally. Sessions are isolated in git worktrees.
+- Session files are backed up to a repo after every turn, so any session can resume on another VM.<p>We noticed that past ~640 session-hours a month, one always-on 4 vCPU VM is cheaper than per-session E2B sandboxes, for example. So at scale, this setup would not only be faster than current SOTA coding agents, but also more cost-efficient.<p>Feel free to try via cloud for free [4] or self host. We would love any and all feedback, and happy to answer any questions! Full demo below [3].<p>[1]: <a href="https://docs.opencomputer.dev/getting-started/architecture" rel="nofollow">https://docs.opencomputer.dev/getting-started/architecture</a>
+[2]: <a href="https://opencomputer.dev/blog/cloud-agents-as-fast-as-local/" rel="nofollow">https://opencomputer.dev/blog/cloud-agents-as-fast-as-local/</a>
+[3]: <a href="https://x.com/IgorZIJ/status/2121309785882591711" rel="nofollow">https://x.com/IgorZIJ/status/2121309785882591711</a>
+[4]: <a href="https://app.opencomputer.dev" rel="nofollow">https://app.opencomputer.dev</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50581403">https://news.ycombinator.com/item?id=50581403</a></p>
+<p>Points: 16</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://manidoraisamy.com/developer-to-architect.html](https://manidoraisamy.com/developer-to-architect.html)
+🔗 **Read more:** [https://github.com/diggerhq/opencomputer](https://github.com/diggerhq/opencomputer)
 
 ---
 
-### 3. Vibecoding an Inference Chip
+### 3. Inkling 2 Mini
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://ankitg.me/blog/vibecoding-inference-chip/">https://ankitg.me/blog/vibecoding-inference-chip/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50579297">https://news.ycombinator.com/item?id=50579297</a></p>
-<p>Points: 24</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://thinkingmachines.ai/news/inkling-2-mini/">https://thinkingmachines.ai/news/inkling-2-mini/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50581260">https://news.ycombinator.com/item?id=50581260</a></p>
+<p>Points: 233</p>
+<p># Comments: 25</p>
 
-🔗 **Read more:** [https://ankitg.me/blog/vibecoding-inference-chip/](https://ankitg.me/blog/vibecoding-inference-chip/)
+🔗 **Read more:** [https://thinkingmachines.ai/news/inkling-2-mini/](https://thinkingmachines.ai/news/inkling-2-mini/)
 
 ---
 
@@ -97,42 +102,42 @@ Nobody was hurt and no damage has been reported, but Warsaw described the incide
 
 ---
 
-### 7. Former US national security adviser confronted by students on Gaza
+### 7. Trump defends Putin relationship, warns AI data centres must stay in US
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Former US National Security Adviser Jake Sullivan was confronted by student protesters during a speaking event at MIT.
+The US president also spoke about the war in Iran and praised trip to China during a wide-ranging news conference.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/20/former-us-national-security-adviser-confronted-by-students-on-gaza?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/20/former-us-national-security-adviser-confronted-by-students-on-gaza?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/20/trump-defends-putin-relationship-warns-ai-data-centres-must-stay-in-us?traffic_source=rss](https://www.aljazeera.com/news/2026/11/20/trump-defends-putin-relationship-warns-ai-data-centres-must-stay-in-us?traffic_source=rss)
 
 ---
 
-### 8. Swimming lessons offer Gaza’s children a moment of relief
+### 8. Two Salvadoran soldiers killed in Haiti while handling explosives
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Palestinian children gathered along Gaza’s coast for swimming lessons, finding relief from the psychological toll of war
+Two others were injured in the explosion, marking the first deaths among troops deployed to Haiti since late October.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_swimming-lessons-offer-gazas-children-relief-201126?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_swimming-lessons-offer-gazas-children-relief-201126?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/20/two-salvadoran-soldiers-killed-in-haiti-while-handling-explosives?traffic_source=rss](https://www.aljazeera.com/news/2026/11/20/two-salvadoran-soldiers-killed-in-haiti-while-handling-explosives?traffic_source=rss)
 
 ---
 
-### 9. Ukraine strikes Kerch Bridge as Putin ally declares ‘no one needs Europe’
+### 9. Can the UK and EU turn the page on Brexit?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Russia-Europe tensions rise as Ukraine uses its own weapons and communications tech to hit the Kerch Bridge.
+A decade after the Brexit vote, the UK and EU have struck deals. But divisions persist.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/20/ukraine-strikes-kerch-bridge-as-putin-ally-declares-no-one-needs?traffic_source=rss](https://www.aljazeera.com/news/2026/11/20/ukraine-strikes-kerch-bridge-as-putin-ally-declares-no-one-needs?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/20/can-the-uk-and-eu-turn-the-page-on-brexit?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/20/can-the-uk-and-eu-turn-the-page-on-brexit?traffic_source=rss)
 
 ---
 

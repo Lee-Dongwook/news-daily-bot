@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-20 01:49:17
+**Last Update:** 2026-11-20 05:35:51
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Synology Security Advisory
+### 1. Gemini 4 Neon is the new #1 on the Models Engineering Index
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21">https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50567209">https://news.ycombinator.com/item?id=50567209</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://git-aarvin.github.io/mei/">https://git-aarvin.github.io/mei/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50568130">https://news.ycombinator.com/item?id=50568130</a></p>
+<p>Points: 110</p>
+<p># Comments: 59</p>
 
-🔗 **Read more:** [https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21](https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21)
+🔗 **Read more:** [https://git-aarvin.github.io/mei/](https://git-aarvin.github.io/mei/)
 
 ---
 
-### 2. Rebuilding my local voice assistant pipeline
+### 2. Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline">https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50566261">https://news.ycombinator.com/item?id=50566261</a></p>
-<p>Points: 17</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87">https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50568082">https://news.ycombinator.com/item?id=50568082</a></p>
+<p>Points: 92</p>
+<p># Comments: 26</p>
 
-🔗 **Read more:** [https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline](https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline)
+🔗 **Read more:** [https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87](https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87)
 
 ---
 
-### 3. Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]
+### 3. RegExr: Temporarily Offline
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.youtube.com/watch?v=lwfewYL7X0o">https://www.youtube.com/watch?v=lwfewYL7X0o</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50564366">https://news.ycombinator.com/item?id=50564366</a></p>
-<p>Points: 45</p>
-<p># Comments: 75</p>
+<p>Article URL: <a href="https://regexr.com/">https://regexr.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50567374">https://news.ycombinator.com/item?id=50567374</a></p>
+<p>Points: 48</p>
+<p># Comments: 25</p>
 
-🔗 **Read more:** [https://www.youtube.com/watch?v=lwfewYL7X0o](https://www.youtube.com/watch?v=lwfewYL7X0o)
+🔗 **Read more:** [https://regexr.com/](https://regexr.com/)
 
 ---
 
@@ -71,7 +71,20 @@ Joanne Young said the actions of her husband over 13 years had "cost me my life 
 
 ---
 
-### 5. Anthropic becomes one of world's most valuable public companies in stock market debut
+### 5. Tens of thousands of UK fridges secured from hackers in secret nationwide operation
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Supermarkets, warehouses, restaurants and stadiums have been scrambling to make their devices safe.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Anthropic becomes one of world's most valuable public companies in stock market debut
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ Anthropic is the first purely AI company to be publicly listed, creating a test 
 
 ---
 
-### 6. Bowen: Myanmar genocide verdict is historic and could have far-reaching implications
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Lawyers will study the way in which Gambia proved the crucial point that Myanmar intended to commit genocide, writes the BBC's international editor.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6ly58ndgd0no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6ly58ndgd0no?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. US signed off on sales of nearly 900,000 AI chips to China in six months
+### 7. Meta rethinks 2030 climate goals as AI data centres drive emissions up
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US House committee releases chip export data amid scrutiny of former Nvidia CEO&#039;s alleged links to a Chinese spy.
+Rising data centre energy needs force Meta to review sustainability targets amid growing corporate climate retreat.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/11/19/us-signed-off-on-sales-of-nearly-900000-ai-chips-to-china-in-six-months?traffic_source=rss](https://www.aljazeera.com/economy/2026/11/19/us-signed-off-on-sales-of-nearly-900000-ai-chips-to-china-in-six-months?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/20/meta-rethinks-2030-climate-goals-as-ai-data-centres-drive-emissions-up?traffic_source=rss](https://www.aljazeera.com/news/2026/11/20/meta-rethinks-2030-climate-goals-as-ai-data-centres-drive-emissions-up?traffic_source=rss)
 
 ---
 
-### 8. Haiti police say at least 34 suspected gang members killed in raid
+### 8. Democrats say law firm gave $11.8m in free services to Trump administration
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Police say the raid targeted the Martissant area, located on a key route out of Port-au-Prince held by gangs since 2021.
+Three top Democrats called Trump&#039;s dealings with law firms a case of &#039;official coercion&#039; and pledged investigations.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/19/haiti-police-say-at-least-34-suspected-gang-members-killed-in-raid?traffic_source=rss](https://www.aljazeera.com/news/2026/11/19/haiti-police-say-at-least-34-suspected-gang-members-killed-in-raid?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/20/democrats-say-law-firm-gave-11-8m-worth-of-service-to-trump-administration?traffic_source=rss](https://www.aljazeera.com/news/2026/11/20/democrats-say-law-firm-gave-11-8m-worth-of-service-to-trump-administration?traffic_source=rss)
 
 ---
 
-### 9. US appeals court lets Trump end TPS deportation protections for Venezuelans
+### 9. ‘Completely messed up everything’: Malawi’s fuel crisis causes chaos
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The appeals court&#039;s ruling prevents a lower-court decision from taking effect, which would block Trump from lifting TPS.
+Motorists and businesses struggle as shortages disrupt daily life.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/19/us-appeals-court-lets-trump-end-tps-deportation-protections-for-venezuelans?traffic_source=rss](https://www.aljazeera.com/news/2026/11/19/us-appeals-court-lets-trump-end-tps-deportation-protections-for-venezuelans?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/20/completely-messed-up-everything-malawis-fuel-crisis-causes-chaos?traffic_source=rss](https://www.aljazeera.com/news/2026/11/20/completely-messed-up-everything-malawis-fuel-crisis-causes-chaos?traffic_source=rss)
 
 ---
 

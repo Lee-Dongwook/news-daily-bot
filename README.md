@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-20 14:33:21
+**Last Update:** 2026-11-20 16:48:41
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Frostbite: A new CPU architecture discovered, designed and verified by AI
+### 1. The Making of Oxygene
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://jeanmicheljarre.com/aaa/the-making-of-oxygene">https://jeanmicheljarre.com/aaa/the-making-of-oxygene</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50572822">https://news.ycombinator.com/item?id=50572822</a></p>
+<p>Points: 59</p>
+<p># Comments: 22</p>
+
+🔗 **Read more:** [https://jeanmicheljarre.com/aaa/the-making-of-oxygene](https://jeanmicheljarre.com/aaa/the-making-of-oxygene)
+
+---
+
+### 2. Frostbite: A new CPU architecture discovered, designed and verified by AI
 
 **Source:** Hacker News
 
@@ -19,59 +35,30 @@
 **Description:**
 <p>Article URL: <a href="https://architectlabs.com/blog/frostbite">https://architectlabs.com/blog/frostbite</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50572503">https://news.ycombinator.com/item?id=50572503</a></p>
-<p>Points: 61</p>
-<p># Comments: 41</p>
+<p>Points: 230</p>
+<p># Comments: 141</p>
 
 🔗 **Read more:** [https://architectlabs.com/blog/frostbite](https://architectlabs.com/blog/frostbite)
 
 ---
 
-### 2. UK fridges secured from hackers in secret nationwide operation
+### 3. What people are building, discovered through new domains
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o">https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50572430">https://news.ycombinator.com/item?id=50572430</a></p>
-<p>Points: 35</p>
-<p># Comments: 18</p>
+<p>Article URL: <a href="https://startups.novumsignals.com/">https://startups.novumsignals.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50572448">https://news.ycombinator.com/item?id=50572448</a></p>
+<p>Points: 52</p>
+<p># Comments: 19</p>
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o](https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o)
-
----
-
-### 3. If you can't explain something in simple terms, you don't understand it (2017)
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it">https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50572355">https://news.ycombinator.com/item?id=50572355</a></p>
-<p>Points: 9</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it](https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it)
+🔗 **Read more:** [https://startups.novumsignals.com/](https://startups.novumsignals.com/)
 
 ---
 
-### 4. What the Brussels summit could mean for the Brexit deal
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-BBC political editor Chris Mason looks at the potential agreements between the UK and EU that could be reached on food, energy and youth mobility.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c6lymr5x4ye5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c6lymr5x4ye5o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Secret UK cyber operation protected tens of thousands of fridges from hackers
+### 4. Secret UK cyber operation protected tens of thousands of fridges from hackers
 
 **Source:** BBC
 
@@ -84,55 +71,68 @@ Supermarkets, warehouses, restaurants and stadiums have been scrambling to make 
 
 ---
 
-### 6. Massive hope for pancreatic cancer pill after trial saw tumours vanish
+### 5. Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Daily pill daraxonrasib appears to shrink and possibly even eliminate tumours in some patients with one of the deadliest cancers.
+Nobody was hurt and no damage has been reported, but Warsaw described the incident as a "provocation" from Moscow.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqrmgjnzz9l0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqrmgjnzz9l0o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Can the Rohingya genocide verdict deliver justice?
+### 6. Calls for consent law change after Joanne Young rape case
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Joanne Young's daughter joins her mother in calling for a change to the law on consent.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqy4jvprxyrdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqy4jvprxyrdo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 7. Brexit debate returns as UK PM seeks closer EU ties
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The ICJ has ruled against Myanmar, but safe return, citizenship and reparations remain far from guaranteed.
+Brexit debate returns as UK PM seeks closer EU ties
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/11/20/can-the-rohingya-genocide-verdict-deliver-justice?traffic_source=rss](https://www.aljazeera.com/opinions/2026/11/20/can-the-rohingya-genocide-verdict-deliver-justice?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/20/brexit-debate-returns-as-uk-pm-seeks-closer-eu-ties?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/20/brexit-debate-returns-as-uk-pm-seeks-closer-eu-ties?traffic_source=rss)
 
 ---
 
-### 8. Drone operator removes Man United training footage and issues apology
+### 8. Nations League quarterfinal draw: Spain face France, England play Norway
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The footage, filmed during new manager Mauricio Pochettino&#039;s first training session, was uploaded online.
+World Cup winners and European champions Spain have reached three of the four Nations League finals, winning in 2023.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/20/drone-operator-removes-man-united-training-footage-and-issues-apology?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/20/drone-operator-removes-man-united-training-footage-and-issues-apology?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/20/nations-league-knockouts-spain-france-england-norway-quarterfinals?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/20/nations-league-knockouts-spain-france-england-norway-quarterfinals?traffic_source=rss)
 
 ---
 
-### 9. Searching for the next Messi at the Under-17 World Cup
+### 9. BaddyDeadpool: The protester blending humour with activism
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Nearly 100 football scouts are in Qatar, searching for the next global superstar at the FIFA Under-17 World Cup.
+Al Jazeera spoke to BaddyDeadpool, a French protester who uses dance to ease tensions between police and demonstrators.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/20/searching-for-the-next-messi-at-the-under-17-world-cup?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/20/searching-for-the-next-messi-at-the-under-17-world-cup?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/20/baddydeadpool-the-protester-blending-humour-with-activism?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/20/baddydeadpool-the-protester-blending-humour-with-activism?traffic_source=rss)
 
 ---
 

@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-21 14:59:25
+**Last Update:** 2026-11-21 20:41:19
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. FBI reportedly investigating apparent hack of its criminal database
+### 1. Show HN: Zero C#, Power of C# without any GC
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.bbc.com/news/articles/cvze7de86pk3o">https://www.bbc.com/news/articles/cvze7de86pk3o</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50587859">https://news.ycombinator.com/item?id=50587859</a></p>
-<p>Points: 24</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://onurgumus.github.io/zero-csharp/index.html">https://onurgumus.github.io/zero-csharp/index.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50590279">https://news.ycombinator.com/item?id=50590279</a></p>
+<p>Points: 32</p>
+<p># Comments: 20</p>
 
-🔗 **Read more:** [https://www.bbc.com/news/articles/cvze7de86pk3o](https://www.bbc.com/news/articles/cvze7de86pk3o)
+🔗 **Read more:** [https://onurgumus.github.io/zero-csharp/index.html](https://onurgumus.github.io/zero-csharp/index.html)
 
 ---
 
-### 2. RCE in Gnupg
+### 2. Lean Verification of the Riemann Hypothesis - Joint statement by...
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html">https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50587208">https://news.ycombinator.com/item?id=50587208</a></p>
-<p>Points: 23</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://leanprover-community.github.io/blog/posts/riemann-hypothesis/">https://leanprover-community.github.io/blog/posts/riemann-hypothesis/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50589618">https://news.ycombinator.com/item?id=50589618</a></p>
+<p>Points: 302</p>
+<p># Comments: 224</p>
 
-🔗 **Read more:** [https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html](https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html)
+🔗 **Read more:** [https://leanprover-community.github.io/blog/posts/riemann-hypothesis/](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/)
 
 ---
 
-### 3. Exascale fusion simulation team named finalist for 2026 Gordon Bell Prize
+### 3. Derek Lowe: Detonating a Pile of Lead Azide
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.alcf.anl.gov/news/exascale-fusion-simulation-team-named-finalist-2026-gordon-bell-prize">https://www.alcf.anl.gov/news/exascale-fusion-simulation-team-named-finalist-2026-gordon-bell-prize</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50587205">https://news.ycombinator.com/item?id=50587205</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really">https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50588982">https://news.ycombinator.com/item?id=50588982</a></p>
+<p>Points: 275</p>
+<p># Comments: 160</p>
 
-🔗 **Read more:** [https://www.alcf.anl.gov/news/exascale-fusion-simulation-team-named-finalist-2026-gordon-bell-prize](https://www.alcf.anl.gov/news/exascale-fusion-simulation-team-named-finalist-2026-gordon-bell-prize)
+🔗 **Read more:** [https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really](https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really)
 
 ---
 
-### 4. Deal with EU not dependent on tuition fees agreement, Miliband says
+### 4. Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.
+Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend
+### 5. Streeting calls Putin a 'cold-blooded killer' as he meets Zelensky in Kyiv
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a "great relationship".
+The BBC's Sarah Rainsford reports from Kyiv after Ukrainian President Zelensky met the UK defence secretary.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cqevrddp91z8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cqevrddp91z8o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Fight over fossil fuels leaves COP31 climate talks in deadlock
+### 6. Catherine talks openly about how cancer changed her in documentary on BBC
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.
+"There is a much, much deeper part to what a cancer diagnosis shifts in you," says Catherine in the documentary.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c85y14zvexz9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c85y14zvexz9o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Migrants caravan in Mexico walks towards US border
+### 7. India’s opposition stages protests against Meta over account removals
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Around 300 migrants have crossed from Guatemala into Mexico, hoping to reach the United States.
+Indian Youth Congress issues a seven-day &#039;ultimatum&#039; to the US technology giant, urging it to lift all restrictions.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/21/migrants-caravan-in-mexico-walks-towards-us-border?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/21/migrants-caravan-in-mexico-walks-towards-us-border?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/21/indias-opposition-stages-protests-against-meta-over-account-removals?traffic_source=rss](https://www.aljazeera.com/news/2026/11/21/indias-opposition-stages-protests-against-meta-over-account-removals?traffic_source=rss)
 
 ---
 
-### 8. Russian missiles hit Poland: What happened, and could NATO respond?
+### 8. Who is El Chapo Isidro, the alleged cartel boss arrested in Mexico?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Warsaw accuses Moscow of intentional provocation, but bar for triggering NATO&#039;s collective defence clause remains high.
+Mexican forces arrested Chapo Isidro in Sinaloa. He was on the FBI’s most wanted list and faces US drug charges.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond?traffic_source=rss](https://www.aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/21/who-is-el-chapo-isidro-the-alleged-cartel-boss-arrested-in-mexico?traffic_source=rss](https://www.aljazeera.com/news/2026/11/21/who-is-el-chapo-isidro-the-alleged-cartel-boss-arrested-in-mexico?traffic_source=rss)
 
 ---
 
-### 9. Deadly fire engulfs power station in southern Iraq
+### 9. US midterms 2026: What happens before the new Congress takes office?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-At least four people were killed and 30 injured after a fire tore through the Hartha power station complex.
+What happens between the US midterm elections and January, when Democrats take control of Congress?
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/21/deadly-fire-engulfs-power-station-in-southern-iraq?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/21/deadly-fire-engulfs-power-station-in-southern-iraq?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/21/us-midterms-2026-what-happens-before-the-new-congress-takes-office?traffic_source=rss](https://www.aljazeera.com/news/2026/11/21/us-midterms-2026-what-happens-before-the-new-congress-takes-office?traffic_source=rss)
 
 ---
 

@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-21T21:37:35+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "PostgreSQL Extensions in Go",
+            "description": "<p>Article URL: <a href=\"https://jespino.github.io/gopgext/\">https://jespino.github.io/gopgext/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50591260\">https://news.ycombinator.com/item?id=50591260</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+            "url": "https://jespino.github.io/gopgext/",
+            "published": "Sat, 21 Nov 2026 17:08:04 +0000",
+            "fetched": "2026-11-21T21:37:35+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Zero C#, Power of C# without any GC",
+            "description": "<p>Article URL: <a href=\"https://onurgumus.github.io/zero-csharp/index.html\">https://onurgumus.github.io/zero-csharp/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50590279\">https://news.ycombinator.com/item?id=50590279</a></p>\n<p>Points: 45</p>\n<p># Comments: 33</p>",
+            "url": "https://onurgumus.github.io/zero-csharp/index.html",
+            "published": "Sat, 21 Nov 2026 15:39:09 +0000",
+            "fetched": "2026-11-21T21:37:35+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Lean Verification of the Riemann Hypothesis - Joint statement by...",
+            "description": "<p>Article URL: <a href=\"https://leanprover-community.github.io/blog/posts/riemann-hypothesis/\">https://leanprover-community.github.io/blog/posts/riemann-hypothesis/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50589618\">https://news.ycombinator.com/item?id=50589618</a></p>\n<p>Points: 373</p>\n<p># Comments: 288</p>",
+            "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+            "published": "Sat, 21 Nov 2026 14:36:45 +0000",
+            "fetched": "2026-11-21T21:37:35+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets Wes Streeting",
+            "description": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
+            "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 21 Nov 2026 13:17:38 GMT",
+            "fetched": "2026-11-21T21:37:35+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Streeting calls Putin a 'cold-blooded killer' as he meets Zelensky in Kyiv",
+            "description": "The BBC's Sarah Rainsford reports from Kyiv after Ukrainian President Zelensky met the UK defence secretary.",
+            "url": "https://www.bbc.co.uk/news/videos/cqevrddp91z8o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 21 Nov 2026 16:16:29 GMT",
+            "fetched": "2026-11-21T21:37:35+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Catherine talks openly about how cancer changed her in documentary on BBC",
+            "description": "\"There is a much, much deeper part to what a cancer diagnosis shifts in you,\" says Catherine in the documentary.",
+            "url": "https://www.bbc.co.uk/news/articles/c85y14zvexz9o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 21 Nov 2026 12:00:03 GMT",
+            "fetched": "2026-11-21T21:37:35+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "UK police drag man from protest over ‘Pallet Sign Acton’ shirt",
+            "description": "UK police drag man from protest over ‘Pallet Sign Acton’ shirt",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/uk-police-drag-man-from-protest-over-pallet-sign-acton-shirt?traffic_source=rss",
+            "published": "Sat, 21 Nov 2026 17:57:27 +0000",
+            "fetched": "2026-11-21T21:37:35+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli strike hits food aid vehicle in Gaza, killing three",
+            "description": "Three Palestinians were killed in an Israeli air attack on a vehicle carrying food.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-sv-israel-targets-gaza-food-truck?traffic_source=rss",
+            "published": "Sat, 21 Nov 2026 17:54:19 +0000",
+            "fetched": "2026-11-21T21:37:35+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Liverpool vs Manchester United: Premier League – teams, prediction, lineups",
+            "description": "One of sport&#039;s biggest rivalries takes centre stage as Liverpool host a Man United side in the EPL relegation zone.",
+            "url": "https://www.aljazeera.com/sports/2026/11/21/liverpool-vs-manchester-united-premier-league-teams-prediction-lineups?traffic_source=rss",
+            "published": "Sat, 21 Nov 2026 17:28:51 +0000",
+            "fetched": "2026-11-21T21:37:35+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Greene - Caney Creek Lane, Greene, Tennessee",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26568",
+            "published": "2026-11-18T14:11:00Z",
+            "fetched": "2026-11-21T21:37:35+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire 2027 TXTMR HFR RX, Matagorda, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26569",
+            "published": "2026-11-18T09:44:00Z",
+            "fetched": "2026-11-21T21:37:35+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire OAK Compartment 29 RX, Bibb, Alabama",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26571",
+            "published": "2026-11-18T09:18:00Z",
+            "fetched": "2026-11-21T21:37:35+03:30"
+        }
+    ]
+}

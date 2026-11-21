@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-21 20:41:19
+**Last Update:** 2026-11-21 21:37:35
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: Zero C#, Power of C# without any GC
+### 1. PostgreSQL Extensions in Go
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://jespino.github.io/gopgext/">https://jespino.github.io/gopgext/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50591260">https://news.ycombinator.com/item?id=50591260</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://jespino.github.io/gopgext/](https://jespino.github.io/gopgext/)
+
+---
+
+### 2. Show HN: Zero C#, Power of C# without any GC
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://onurgumus.github.io/zero-csharp/index.html">https://onurgumus.github.io/zero-csharp/index.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50590279">https://news.ycombinator.com/item?id=50590279</a></p>
-<p>Points: 32</p>
-<p># Comments: 20</p>
+<p>Points: 45</p>
+<p># Comments: 33</p>
 
 🔗 **Read more:** [https://onurgumus.github.io/zero-csharp/index.html](https://onurgumus.github.io/zero-csharp/index.html)
 
 ---
 
-### 2. Lean Verification of the Riemann Hypothesis - Joint statement by...
+### 3. Lean Verification of the Riemann Hypothesis - Joint statement by...
 
 **Source:** Hacker News
 
@@ -35,30 +51,14 @@
 **Description:**
 <p>Article URL: <a href="https://leanprover-community.github.io/blog/posts/riemann-hypothesis/">https://leanprover-community.github.io/blog/posts/riemann-hypothesis/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50589618">https://news.ycombinator.com/item?id=50589618</a></p>
-<p>Points: 302</p>
-<p># Comments: 224</p>
+<p>Points: 373</p>
+<p># Comments: 288</p>
 
 🔗 **Read more:** [https://leanprover-community.github.io/blog/posts/riemann-hypothesis/](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/)
 
 ---
 
-### 3. Derek Lowe: Detonating a Pile of Lead Azide
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really">https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50588982">https://news.ycombinator.com/item?id=50588982</a></p>
-<p>Points: 275</p>
-<p># Comments: 160</p>
-
-🔗 **Read more:** [https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really](https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really)
-
----
-
-### 4. Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting
+### 4. Zelensky says Crimean Bridge strikes 'fair response' as he meets Wes Streeting
 
 **Source:** BBC
 
@@ -97,42 +97,42 @@ The BBC's Sarah Rainsford reports from Kyiv after Ukrainian President Zelensky m
 
 ---
 
-### 7. India’s opposition stages protests against Meta over account removals
+### 7. UK police drag man from protest over ‘Pallet Sign Acton’ shirt
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Indian Youth Congress issues a seven-day &#039;ultimatum&#039; to the US technology giant, urging it to lift all restrictions.
+UK police drag man from protest over ‘Pallet Sign Acton’ shirt
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/21/indias-opposition-stages-protests-against-meta-over-account-removals?traffic_source=rss](https://www.aljazeera.com/news/2026/11/21/indias-opposition-stages-protests-against-meta-over-account-removals?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/21/uk-police-drag-man-from-protest-over-pallet-sign-acton-shirt?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/21/uk-police-drag-man-from-protest-over-pallet-sign-acton-shirt?traffic_source=rss)
 
 ---
 
-### 8. Who is El Chapo Isidro, the alleged cartel boss arrested in Mexico?
+### 8. Israeli strike hits food aid vehicle in Gaza, killing three
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Mexican forces arrested Chapo Isidro in Sinaloa. He was on the FBI’s most wanted list and faces US drug charges.
+Three Palestinians were killed in an Israeli air attack on a vehicle carrying food.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/21/who-is-el-chapo-isidro-the-alleged-cartel-boss-arrested-in-mexico?traffic_source=rss](https://www.aljazeera.com/news/2026/11/21/who-is-el-chapo-isidro-the-alleged-cartel-boss-arrested-in-mexico?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-sv-israel-targets-gaza-food-truck?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-sv-israel-targets-gaza-food-truck?traffic_source=rss)
 
 ---
 
-### 9. US midterms 2026: What happens before the new Congress takes office?
+### 9. Liverpool vs Manchester United: Premier League – teams, prediction, lineups
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-What happens between the US midterm elections and January, when Democrats take control of Congress?
+One of sport&#039;s biggest rivalries takes centre stage as Liverpool host a Man United side in the EPL relegation zone.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/21/us-midterms-2026-what-happens-before-the-new-congress-takes-office?traffic_source=rss](https://www.aljazeera.com/news/2026/11/21/us-midterms-2026-what-happens-before-the-new-congress-takes-office?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/21/liverpool-vs-manchester-united-premier-league-teams-prediction-lineups?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/21/liverpool-vs-manchester-united-premier-league-teams-prediction-lineups?traffic_source=rss)
 
 ---
 

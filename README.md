@@ -1,86 +1,86 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-21 06:06:28
+**Last Update:** 2026-11-21 12:53:04
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Integrals of Polynomials with Galois Group S_p
+### 1. Surprisingly Adorable Insect Portraits
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://m-slee.netlify.app/posts/integrals-galois-polynomials">https://m-slee.netlify.app/posts/integrals-galois-polynomials</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50584776">https://news.ycombinator.com/item?id=50584776</a></p>
-<p>Points: 3</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/">https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50586648">https://news.ycombinator.com/item?id=50586648</a></p>
+<p>Points: 28</p>
+<p># Comments: 6</p>
 
-🔗 **Read more:** [https://m-slee.netlify.app/posts/integrals-galois-polynomials](https://m-slee.netlify.app/posts/integrals-galois-polynomials)
+🔗 **Read more:** [https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/](https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/)
 
 ---
 
-### 2. Re: Riemann
+### 2. ClawDOS – An AI coding agent for DOS
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://borretti.me/article/re-riemann">https://borretti.me/article/re-riemann</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50583982">https://news.ycombinator.com/item?id=50583982</a></p>
-<p>Points: 129</p>
-<p># Comments: 115</p>
+<p>Article URL: <a href="http://ricapar.net/ClawDOS/">http://ricapar.net/ClawDOS/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50586292">https://news.ycombinator.com/item?id=50586292</a></p>
+<p>Points: 56</p>
+<p># Comments: 15</p>
 
-🔗 **Read more:** [https://borretti.me/article/re-riemann](https://borretti.me/article/re-riemann)
+🔗 **Read more:** [http://ricapar.net/ClawDOS/](http://ricapar.net/ClawDOS/)
 
 ---
 
-### 3. Serious cyberattack thought backed by wealthy operators
+### 3. Backblaze Notice at Collection and Privacy Policy
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411">https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50583856">https://news.ycombinator.com/item?id=50583856</a></p>
-<p>Points: 11</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://www.backblaze.com/company/policy/privacy">https://www.backblaze.com/company/policy/privacy</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50585593">https://news.ycombinator.com/item?id=50585593</a></p>
+<p>Points: 185</p>
+<p># Comments: 56</p>
 
-🔗 **Read more:** [https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411](https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411)
+🔗 **Read more:** [https://www.backblaze.com/company/policy/privacy](https://www.backblaze.com/company/policy/privacy)
 
 ---
 
-### 4. UK to explore even closer ties with EU after agreeing deal, says Burnham
+### 4. Deal with EU not dependent on tuition fees agreement, Miliband says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.
+Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow
+### 5. Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The trade deal is unlikely lower food prices for shoppers, but should boost the economy more than other post-Brexit agreements.
+Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a "great relationship".
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +97,42 @@ Pressures weighed on US markets, with the S&amp;P 500 and the Dow Jones Industri
 
 ---
 
-### 7. Trump calls for Nvidia to reinstate ‘brilliant’ Jensen Huang
+### 7. Harry Kane to miss ‘a few months’ after injury as Bayern Munich draw
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US president calls tech giant to give former CEO &#039;a second chance&#039; and urges him to &#039;make a big apology&#039;.
+Ballon d&#039;Or winner tears a ligament in his left ankle during Bayern Munich’s 1-1 draw against Cologne.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/21/trump-calls-for-nvidia-to-reinstate-brilliant-jensen-huang?traffic_source=rss](https://www.aljazeera.com/news/2026/11/21/trump-calls-for-nvidia-to-reinstate-brilliant-jensen-huang?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/21/ballon-dor-kane-to-miss-a-few-months-after-injury-as-bayern-munich-held?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/21/ballon-dor-kane-to-miss-a-few-months-after-injury-as-bayern-munich-held?traffic_source=rss)
 
 ---
 
-### 8. COP31 deal stalls as nations struggle to agree on climate plan
+### 8. Illicit alcohol kills 11, poisons 180 in northeast India’s Manipur state
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-COP31 deal stalls as nations struggle to agree on climate plan
+Manipur&#039;s chief minister orders a probe into the incident, saying those responsible will be arrested and punished.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/21/cop31-deal-stalls-as-nations-struggle-to-agree-on-climate-plan?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/21/cop31-deal-stalls-as-nations-struggle-to-agree-on-climate-plan?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/21/suspected-toxic-alcohol-kills-at-least-11-people-in-northeast-india?traffic_source=rss](https://www.aljazeera.com/news/2026/11/21/suspected-toxic-alcohol-kills-at-least-11-people-in-northeast-india?traffic_source=rss)
 
 ---
 
-### 9. Can Africa’s new credit rating agency change how the continent is assessed?
+### 9. Swimmer braves tanker attacks to expose Hormuz contamination
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The new African agency aims to bring greater transparency to credit ratings.
+As tankers burned in Hormuz, swimmer Lewis Pugh exposed another casualty of the US-Israeli war on Iran: marine life.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/21/can-africas-new-credit-rating-agency-change-how-the-continent-is-assessed?traffic_source=rss](https://www.aljazeera.com/news/2026/11/21/can-africas-new-credit-rating-agency-change-how-the-continent-is-assessed?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/21/swimmer-braves-tanker-attacks-to-expose-hormuz-contamination?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/21/swimmer-braves-tanker-attacks-to-expose-hormuz-contamination?traffic_source=rss)
 
 ---
 

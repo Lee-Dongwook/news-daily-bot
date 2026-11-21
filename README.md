@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-21 21:37:35
+**Last Update:** 2026-11-22 02:24:02
 
 **Total News:** 12
 
@@ -10,51 +10,51 @@
 
 ## 📰 Latest News
 
-### 1. PostgreSQL Extensions in Go
+### 1. PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://jespino.github.io/gopgext/">https://jespino.github.io/gopgext/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50591260">https://news.ycombinator.com/item?id=50591260</a></p>
-<p>Points: 5</p>
+<p>Article URL: <a href="https://github.com/sebaandrada-cell/PcapAnalyzer">https://github.com/sebaandrada-cell/PcapAnalyzer</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50594132">https://news.ycombinator.com/item?id=50594132</a></p>
+<p>Points: 6</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://jespino.github.io/gopgext/](https://jespino.github.io/gopgext/)
+🔗 **Read more:** [https://github.com/sebaandrada-cell/PcapAnalyzer](https://github.com/sebaandrada-cell/PcapAnalyzer)
 
 ---
 
-### 2. Show HN: Zero C#, Power of C# without any GC
+### 2. Advice for the next 100 Rust GUIs
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://onurgumus.github.io/zero-csharp/index.html">https://onurgumus.github.io/zero-csharp/index.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50590279">https://news.ycombinator.com/item?id=50590279</a></p>
-<p>Points: 45</p>
-<p># Comments: 33</p>
+<p>Article URL: <a href="https://linebender.org/blog/next-100-guis/">https://linebender.org/blog/next-100-guis/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50593737">https://news.ycombinator.com/item?id=50593737</a></p>
+<p>Points: 7</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://onurgumus.github.io/zero-csharp/index.html](https://onurgumus.github.io/zero-csharp/index.html)
+🔗 **Read more:** [https://linebender.org/blog/next-100-guis/](https://linebender.org/blog/next-100-guis/)
 
 ---
 
-### 3. Lean Verification of the Riemann Hypothesis - Joint statement by...
+### 3. Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://leanprover-community.github.io/blog/posts/riemann-hypothesis/">https://leanprover-community.github.io/blog/posts/riemann-hypothesis/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50589618">https://news.ycombinator.com/item?id=50589618</a></p>
-<p>Points: 373</p>
-<p># Comments: 288</p>
+<p>Article URL: <a href="https://tasklet.ai/careers">https://tasklet.ai/careers</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50593679">https://news.ycombinator.com/item?id=50593679</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://leanprover-community.github.io/blog/posts/riemann-hypothesis/](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/)
+🔗 **Read more:** [https://tasklet.ai/careers](https://tasklet.ai/careers)
 
 ---
 
@@ -97,42 +97,42 @@ The BBC's Sarah Rainsford reports from Kyiv after Ukrainian President Zelensky m
 
 ---
 
-### 7. UK police drag man from protest over ‘Pallet Sign Acton’ shirt
+### 7. Bahrain says Iranian attack hits industrial facility
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-UK police drag man from protest over ‘Pallet Sign Acton’ shirt
+Bahrain says Iranian attack hits industrial facility
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/21/uk-police-drag-man-from-protest-over-pallet-sign-acton-shirt?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/21/uk-police-drag-man-from-protest-over-pallet-sign-acton-shirt?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/21/bahrain-says-iranian-attack-hits-industrial-facility?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/21/bahrain-says-iranian-attack-hits-industrial-facility?traffic_source=rss)
 
 ---
 
-### 8. Israeli strike hits food aid vehicle in Gaza, killing three
+### 8. Bahrain says Iranian attack causes fire at industrial facility
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Three Palestinians were killed in an Israeli air attack on a vehicle carrying food.
+Bahrain reports no injuries, as Iran&#039;s IRGC says it targeted US military positions at two bases in al-Riffa and Awali.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-sv-israel-targets-gaza-food-truck?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-sv-israel-targets-gaza-food-truck?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility?traffic_source=rss](https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility?traffic_source=rss)
 
 ---
 
-### 9. Liverpool vs Manchester United: Premier League – teams, prediction, lineups
+### 9. Impunity fuels surge in settler violence across occupied West Bank
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-One of sport&#039;s biggest rivalries takes centre stage as Liverpool host a Man United side in the EPL relegation zone.
+Impunity fuels surge in settler violence across occupied West Bank
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/21/liverpool-vs-manchester-united-premier-league-teams-prediction-lineups?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/21/liverpool-vs-manchester-united-premier-league-teams-prediction-lineups?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/21/impunity-fuels-surge-in-settler-violence-across-occupied-west-bank?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/21/impunity-fuels-surge-in-settler-violence-across-occupied-west-bank?traffic_source=rss)
 
 ---
 

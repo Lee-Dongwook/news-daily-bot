@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-21 04:41:12
+**Last Update:** 2026-11-21 06:06:28
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Re: Riemann
+### 1. Integrals of Polynomials with Galois Group S_p
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://m-slee.netlify.app/posts/integrals-galois-polynomials">https://m-slee.netlify.app/posts/integrals-galois-polynomials</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50584776">https://news.ycombinator.com/item?id=50584776</a></p>
+<p>Points: 3</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://m-slee.netlify.app/posts/integrals-galois-polynomials](https://m-slee.netlify.app/posts/integrals-galois-polynomials)
+
+---
+
+### 2. Re: Riemann
 
 **Source:** Hacker News
 
@@ -19,42 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://borretti.me/article/re-riemann">https://borretti.me/article/re-riemann</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50583982">https://news.ycombinator.com/item?id=50583982</a></p>
-<p>Points: 88</p>
-<p># Comments: 66</p>
+<p>Points: 129</p>
+<p># Comments: 115</p>
 
 🔗 **Read more:** [https://borretti.me/article/re-riemann](https://borretti.me/article/re-riemann)
 
 ---
 
-### 2. Uncontacted Indigenous people emerge from Amazon forest to ask for food
+### 3. Serious cyberattack thought backed by wealthy operators
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.washingtonpost.com/world/2026/11/19/uncontacted-indigenous-people-emerge-amazon-forest-ask-food/">https://www.washingtonpost.com/world/2026/11/19/uncontacted-indigenous-people-emerge-amazon-forest-ask-food/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50583877">https://news.ycombinator.com/item?id=50583877</a></p>
-<p>Points: 21</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411">https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50583856">https://news.ycombinator.com/item?id=50583856</a></p>
+<p>Points: 11</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.washingtonpost.com/world/2026/11/19/uncontacted-indigenous-people-emerge-amazon-forest-ask-food/](https://www.washingtonpost.com/world/2026/11/19/uncontacted-indigenous-people-emerge-amazon-forest-ask-food/)
-
----
-
-### 3. Sir Brian May adds new dimension to Hera asteroid
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid">https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50583768">https://news.ycombinator.com/item?id=50583768</a></p>
-<p>Points: 28</p>
-<p># Comments: 5</p>
-
-🔗 **Read more:** [https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid](https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid)
+🔗 **Read more:** [https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411](https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411)
 
 ---
 
@@ -84,55 +84,55 @@ The trade deal is unlikely lower food prices for shoppers, but should boost the 
 
 ---
 
-### 6. Russian missile hits Poland as Kyiv's allies hold military exercise, says Tusk
+### 6. Tech stock sell-off drags markets down as Anthropic shares slide
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Nobody was hurt and no damage has been reported, but Warsaw described the incident as a "provocation" from Moscow.
+Pressures weighed on US markets, with the S&amp;P 500 and the Dow Jones Industrial Average pushed into correction territory.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Iran war live: Saudi-led coalition downs Houthi missiles
+### 7. Trump calls for Nvidia to reinstate ‘brilliant’ Jensen Huang
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Saudi Arabia issues a flurry of emergency alerts for Riyadh, as the Saudi coalition says it intercepted three missiles.
+US president calls tech giant to give former CEO &#039;a second chance&#039; and urges him to &#039;make a big apology&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-saudi-led-coalition-repels-houthi-missiles?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-saudi-led-coalition-repels-houthi-missiles?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/21/trump-calls-for-nvidia-to-reinstate-brilliant-jensen-huang?traffic_source=rss](https://www.aljazeera.com/news/2026/11/21/trump-calls-for-nvidia-to-reinstate-brilliant-jensen-huang?traffic_source=rss)
 
 ---
 
-### 8. Overturned boat carrying mourners to funeral kills at least four in Nigeria
+### 8. COP31 deal stalls as nations struggle to agree on climate plan
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Police say two children among dead as search continues for more victims.
+COP31 deal stalls as nations struggle to agree on climate plan
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/20/overturned-boat-carrying-mourners-to-funeral-kills-at-least-four-in-nigeria?traffic_source=rss](https://www.aljazeera.com/news/2026/11/20/overturned-boat-carrying-mourners-to-funeral-kills-at-least-four-in-nigeria?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/21/cop31-deal-stalls-as-nations-struggle-to-agree-on-climate-plan?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/21/cop31-deal-stalls-as-nations-struggle-to-agree-on-climate-plan?traffic_source=rss)
 
 ---
 
-### 9. Rahul Gandhi backs strong India-Israel ties despite Gaza war
+### 9. Can Africa’s new credit rating agency change how the continent is assessed?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-India’s opposition leader Rahul Gandhi, says New Delhi should continue to maintain strong ties with Israel.
+The new African agency aims to bring greater transparency to credit ratings.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/20/rahul-gandhi-backs-strong-india-israel-ties-despite-gaza-war?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/20/rahul-gandhi-backs-strong-india-israel-ties-despite-gaza-war?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/21/can-africas-new-credit-rating-agency-change-how-the-continent-is-assessed?traffic_source=rss](https://www.aljazeera.com/news/2026/11/21/can-africas-new-credit-rating-agency-change-how-the-continent-is-assessed?traffic_source=rss)
 
 ---
 

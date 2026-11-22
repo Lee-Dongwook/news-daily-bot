@@ -1,64 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-22 06:23:42
+**Last Update:** 2026-11-22 06:51:50
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. OpenRouter off-boards 3 providers, pulls 125 endpoints from zero data retention
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/">https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50595554">https://news.ycombinator.com/item?id=50595554</a></p>
-<p>Points: 13</p>
-<p># Comments: 3</p>
-
-🔗 **Read more:** [https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/](https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/)
-
----
-
-### 2. Leonida – PC Recompilation of the Xbox Version of GTA 6
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/ItsNotRexed/Leonida">https://github.com/ItsNotRexed/Leonida</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50595168">https://news.ycombinator.com/item?id=50595168</a></p>
-<p>Points: 18</p>
-<p># Comments: 5</p>
-
-🔗 **Read more:** [https://github.com/ItsNotRexed/Leonida](https://github.com/ItsNotRexed/Leonida)
-
----
-
-### 3. Sandwich Simulator
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://stulle.app/">https://stulle.app/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50594911">https://news.ycombinator.com/item?id=50594911</a></p>
-<p>Points: 40</p>
-<p># Comments: 18</p>
-
-🔗 **Read more:** [https://stulle.app/](https://stulle.app/)
-
----
-
-### 4. Zelensky says Crimean Bridge strikes 'fair response' as he meets Wes Streeting
+### 1. Zelensky says Crimean Bridge strikes 'fair response' as he meets Wes Streeting
 
 **Source:** BBC
 
@@ -71,7 +23,7 @@ Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on
 
 ---
 
-### 5. Streeting calls Putin a 'cold-blooded killer' as he meets Zelensky in Kyiv
+### 2. Streeting calls Putin a 'cold-blooded killer' as he meets Zelensky in Kyiv
 
 **Source:** BBC
 
@@ -84,20 +36,20 @@ The BBC's Sarah Rainsford reports from Kyiv after Ukrainian President Zelensky m
 
 ---
 
-### 6. Fight over fossil fuels leaves COP31 climate talks in deadlock
+### 3. Catherine talks openly about how cancer changed her in documentary on BBC
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.
+"There is a much, much deeper part to what a cancer diagnosis shifts in you," says Catherine in the documentary.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c85y14zvexz9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c85y14zvexz9o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Displaced Palestinians protest as Israeli air strikes continue in Gaza
+### 4. Displaced Palestinians protest as Israeli air strikes continue in Gaza
 
 **Source:** Al Jazeera
 
@@ -110,7 +62,7 @@ Israeli forces continue to destroy residential buildings as part of a &#039;grad
 
 ---
 
-### 8. Bessent confirms he’s living on US military base over Iran fears
+### 5. Bessent confirms he’s living on US military base over Iran fears
 
 **Source:** Al Jazeera
 
@@ -123,7 +75,7 @@ US Treasury Secretary Scott Bessent says he’s still living at a US military ba
 
 ---
 
-### 9. Moviegoers head for the exits as quake strikes Peru
+### 6. Moviegoers head for the exits as quake strikes Peru
 
 **Source:** Al Jazeera
 
@@ -136,7 +88,7 @@ Moviegoers head for the exits as quake strikes Peru
 
 ---
 
-### 10. Wildfire Greene - Caney Creek Lane, Greene, Tennessee
+### 7. Wildfire Greene - Caney Creek Lane, Greene, Tennessee
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Wildfires
 
 ---
 
-### 11. Prescribed Fire 2027 TXTMR HFR RX, Matagorda, Texas
+### 8. Prescribed Fire 2027 TXTMR HFR RX, Matagorda, Texas
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Prescribed Fire OAK Compartment 29 RX, Bibb, Alabama
+### 9. Prescribed Fire OAK Compartment 29 RX, Bibb, Alabama
 
 **Source:** NASA
 

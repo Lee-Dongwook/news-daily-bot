@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-22T21:49:08+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Perplexity and Intelligence",
+            "description": "<p>Article URL: <a href=\"https://openai.com/index/perplexity-and-intelligence/\">https://openai.com/index/perplexity-and-intelligence/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50601525\">https://news.ycombinator.com/item?id=50601525</a></p>\n<p>Points: 45</p>\n<p># Comments: 20</p>",
+            "url": "https://openai.com/index/perplexity-and-intelligence/",
+            "published": "Sun, 22 Nov 2026 17:06:27 +0000",
+            "fetched": "2026-11-22T21:49:08+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Ask HN: Are the trades a safe career transition?",
+            "description": "<p>I am a software guy. Engineering degree but not PEng. Im thinking of jumping ship because i dont see much of a future in the career. Ai has me a little discouraged<p>I need a few decades of at least mild security to get to retirement...<p>Are the trades safe?<p>Im worried about homeowners and companies ending up with robots that do all those tasks. Not next year obviously, but it could happen before the career change fully pays off<p>And if not the trades, then what is a better bet?</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50600771\">https://news.ycombinator.com/item?id=50600771</a></p>\n<p>Points: 28</p>\n<p># Comments: 38</p>",
+            "url": "https://news.ycombinator.com/item?id=50600771",
+            "published": "Sun, 22 Nov 2026 15:52:33 +0000",
+            "fetched": "2026-11-22T21:49:08+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Europe weakens chemical rules as science links them to 'lifestyle diseases'",
+            "description": "<p>Article URL: <a href=\"https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html\">https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50600677\">https://news.ycombinator.com/item?id=50600677</a></p>\n<p>Points: 75</p>\n<p># Comments: 52</p>",
+            "url": "https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html",
+            "published": "Sun, 22 Nov 2026 15:42:40 +0000",
+            "fetched": "2026-11-22T21:49:08+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Boss of British Gas owner Centrica 'hugely concerned' over impact of soaring energy bills",
+            "description": "Chris O'Shea says the number of people unable or unwilling to pay their energy bills will increase when prices jump in the new year.",
+            "url": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 22 Nov 2026 13:50:21 GMT",
+            "fetched": "2026-11-22T21:49:08+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+            "description": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
+            "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 22 Nov 2026 17:16:47 GMT",
+            "fetched": "2026-11-22T21:49:08+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+            "description": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
+            "url": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 22 Nov 2026 17:57:43 GMT",
+            "fetched": "2026-11-22T21:49:08+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "India-Pakistan cricket rivalry brings World Cup atmosphere to Qatar",
+            "description": "India and Pakistan’s A teams meet at the Asia Cup Rising Stars. The packed stands show the rivalry remains as intense.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/india-pakistan-cricket-rivalry-brings-world-cup-atmosphere-to-qatar?traffic_source=rss",
+            "published": "Sun, 22 Nov 2026 17:46:32 +0000",
+            "fetched": "2026-11-22T21:49:08+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Russian vessel hit by suspected sea drone at Libya’s Benghazi naval base",
+            "description": "There was no immediate reaction from Russia, and no one has claimed responsibility for the suspected attack.",
+            "url": "https://www.aljazeera.com/news/2026/11/22/suspected-drone-strike-hits-russian-vessel-in-libya?traffic_source=rss",
+            "published": "Sun, 22 Nov 2026 17:12:48 +0000",
+            "fetched": "2026-11-22T21:49:08+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli settlers attack multiple Palestinian villages as pogroms surge",
+            "description": "Israeli settlers attacked several Palestinian towns and villages in the occupied West Bank on Sunday.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/israeli-settlers-attack-multiple-palestinian-villages-as-pogroms-surge?traffic_source=rss",
+            "published": "Sun, 22 Nov 2026 16:50:48 +0000",
+            "fetched": "2026-11-22T21:49:08+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Greene - Caney Creek Lane, Greene, Tennessee",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26568",
+            "published": "2026-11-18T14:11:00Z",
+            "fetched": "2026-11-22T21:49:08+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire 2027 TXTMR HFR RX, Matagorda, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26569",
+            "published": "2026-11-18T09:44:00Z",
+            "fetched": "2026-11-22T21:49:08+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire OAK Compartment 29 RX, Bibb, Alabama",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26571",
+            "published": "2026-11-18T09:18:00Z",
+            "fetched": "2026-11-22T21:49:08+03:30"
+        }
+    ]
+}

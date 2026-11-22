@@ -1,138 +1,139 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-22 15:13:59
+**Last Update:** 2026-11-22 21:49:08
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts
+### 1. Perplexity and Intelligence
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://arxiv.org/abs/2606.14068">https://arxiv.org/abs/2606.14068</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50597743">https://news.ycombinator.com/item?id=50597743</a></p>
-<p>Points: 15</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://openai.com/index/perplexity-and-intelligence/">https://openai.com/index/perplexity-and-intelligence/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50601525">https://news.ycombinator.com/item?id=50601525</a></p>
+<p>Points: 45</p>
+<p># Comments: 20</p>
 
-🔗 **Read more:** [https://arxiv.org/abs/2606.14068](https://arxiv.org/abs/2606.14068)
+🔗 **Read more:** [https://openai.com/index/perplexity-and-intelligence/](https://openai.com/index/perplexity-and-intelligence/)
 
 ---
 
-### 2. 87% of the Anthropic power will come from gas and 11% from coal in 2028
+### 2. Ask HN: Are the trades a safe career transition?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/">https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50597612">https://news.ycombinator.com/item?id=50597612</a></p>
-<p>Points: 163</p>
-<p># Comments: 219</p>
+<p>I am a software guy. Engineering degree but not PEng. Im thinking of jumping ship because i dont see much of a future in the career. Ai has me a little discouraged<p>I need a few decades of at least mild security to get to retirement...<p>Are the trades safe?<p>Im worried about homeowners and companies ending up with robots that do all those tasks. Not next year obviously, but it could happen before the career change fully pays off<p>And if not the trades, then what is a better bet?</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50600771">https://news.ycombinator.com/item?id=50600771</a></p>
+<p>Points: 28</p>
+<p># Comments: 38</p>
 
-🔗 **Read more:** [https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/](https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/)
+🔗 **Read more:** [https://news.ycombinator.com/item?id=50600771](https://news.ycombinator.com/item?id=50600771)
 
 ---
 
-### 3. Notes on the discrete Fourier transform (DFT)
+### 3. Europe weakens chemical rules as science links them to 'lifestyle diseases'
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/">https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50596960">https://news.ycombinator.com/item?id=50596960</a></p>
-<p>Points: 35</p>
-<p># Comments: 5</p>
+<p>Article URL: <a href="https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html">https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50600677">https://news.ycombinator.com/item?id=50600677</a></p>
+<p>Points: 75</p>
+<p># Comments: 52</p>
 
-🔗 **Read more:** [https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/](https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/)
+🔗 **Read more:** [https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html](https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html)
 
 ---
 
-### 4. Theresa May 'aghast' at Burnham's EU plans and says 'Brexit is done'
+### 4. Boss of British Gas owner Centrica 'hugely concerned' over impact of soaring energy bills
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-"Just accept Brexit and move on," the former prime minister tells BBC's Laura Kuenssberg.
+Chris O'Shea says the number of people unable or unwilling to pay their energy bills will increase when prices jump in the new year.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvj6l8y3x1x4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvj6l8y3x1x4o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. 'Move on!' Former PMs pile in with advice for Andy Burnham, but will he listen?
+### 5. Explosion on Russian ship at Libya port caused by suspected drone attack, officials say
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Theresa May, David Cameron and Tony Blair have weighed in on Burnham's plans on moving closer to the EU, but the prime minister's message itself is not very precise.
+Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cjn5023e6ez4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cjn5023e6ez4o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. How a teen gamer and his mother helped rescue a missing girl
+### 6. 'Danger seems greater all the time': Ukrainians search for missing after Russian strikes
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-When 16-year-old Landon Tresp met a teenage girl in an online game, it led to him and his mother helping the FBI rescue her from kidnapping.
+The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Russian ship attacked by drone in Baltic Sea off Finland
+### 7. India-Pakistan cricket rivalry brings World Cup atmosphere to Qatar
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Russian ship attacked by drone in Baltic Sea off Finland
+India and Pakistan’s A teams meet at the Asia Cup Rising Stars. The packed stands show the rivalry remains as intense.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/22/russian-ship-attacked-by-drone-in-baltic-sea-off-finland?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/22/russian-ship-attacked-by-drone-in-baltic-sea-off-finland?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/22/india-pakistan-cricket-rivalry-brings-world-cup-atmosphere-to-qatar?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/22/india-pakistan-cricket-rivalry-brings-world-cup-atmosphere-to-qatar?traffic_source=rss)
 
 ---
 
-### 8. Messi throws ball in opponent’s face, avoids red card as Inter Miami lose
+### 8. Russian vessel hit by suspected sea drone at Libya’s Benghazi naval base
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Lionel Messi escapes red-card booking for controversial throw-in in Miami&#039;s 3-0 defeat by Columbus in MLS Cup playoffs.
+There was no immediate reaction from Russia, and no one has claimed responsibility for the suspected attack.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/22/lionel-messi-inter-miami-yellow-red-card-mls-playoffs?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/22/lionel-messi-inter-miami-yellow-red-card-mls-playoffs?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/22/suspected-drone-strike-hits-russian-vessel-in-libya?traffic_source=rss](https://www.aljazeera.com/news/2026/11/22/suspected-drone-strike-hits-russian-vessel-in-libya?traffic_source=rss)
 
 ---
 
-### 9. Russian cargo ship still on fire off Finland after drone attack
+### 9. Israeli settlers attack multiple Palestinian villages as pogroms surge
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The ship, bound for Russia&#039;s Kaliningrad, was damaged in international waters before drifting into Finnish territory.
+Israeli settlers attacked several Palestinian towns and villages in the occupied West Bank on Sunday.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/22/russian-cargo-ship-still-on-fire-off-finland-after-drone-attack?traffic_source=rss](https://www.aljazeera.com/news/2026/11/22/russian-cargo-ship-still-on-fire-off-finland-after-drone-attack?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/22/israeli-settlers-attack-multiple-palestinian-villages-as-pogroms-surge?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/22/israeli-settlers-attack-multiple-palestinian-villages-as-pogroms-surge?traffic_source=rss)
 
 ---
 

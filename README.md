@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-22 02:59:40
+**Last Update:** 2026-11-22 06:23:42
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors
+### 1. OpenRouter off-boards 3 providers, pulls 125 endpoints from zero data retention
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/sebaandrada-cell/PcapAnalyzer">https://github.com/sebaandrada-cell/PcapAnalyzer</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50594132">https://news.ycombinator.com/item?id=50594132</a></p>
-<p>Points: 20</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/">https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50595554">https://news.ycombinator.com/item?id=50595554</a></p>
+<p>Points: 13</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://github.com/sebaandrada-cell/PcapAnalyzer](https://github.com/sebaandrada-cell/PcapAnalyzer)
+🔗 **Read more:** [https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/](https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/)
 
 ---
 
-### 2. Advice for the next 100 Rust GUIs
+### 2. Leonida – PC Recompilation of the Xbox Version of GTA 6
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://linebender.org/blog/next-100-guis/">https://linebender.org/blog/next-100-guis/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50593737">https://news.ycombinator.com/item?id=50593737</a></p>
-<p>Points: 24</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://github.com/ItsNotRexed/Leonida">https://github.com/ItsNotRexed/Leonida</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50595168">https://news.ycombinator.com/item?id=50595168</a></p>
+<p>Points: 18</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://linebender.org/blog/next-100-guis/](https://linebender.org/blog/next-100-guis/)
+🔗 **Read more:** [https://github.com/ItsNotRexed/Leonida](https://github.com/ItsNotRexed/Leonida)
 
 ---
 
-### 3. Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers
+### 3. Sandwich Simulator
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://tasklet.ai/careers">https://tasklet.ai/careers</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50593679">https://news.ycombinator.com/item?id=50593679</a></p>
-<p>Points: 0</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://stulle.app/">https://stulle.app/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50594911">https://news.ycombinator.com/item?id=50594911</a></p>
+<p>Points: 40</p>
+<p># Comments: 18</p>
 
-🔗 **Read more:** [https://tasklet.ai/careers](https://tasklet.ai/careers)
+🔗 **Read more:** [https://stulle.app/](https://stulle.app/)
 
 ---
 
@@ -84,55 +84,55 @@ The BBC's Sarah Rainsford reports from Kyiv after Ukrainian President Zelensky m
 
 ---
 
-### 6. Catherine talks openly about how cancer changed her in documentary on BBC
+### 6. Fight over fossil fuels leaves COP31 climate talks in deadlock
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-"There is a much, much deeper part to what a cancer diagnosis shifts in you," says Catherine in the documentary.
+Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c85y14zvexz9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c85y14zvexz9o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Bahrain says Iranian attack hits industrial facility
+### 7. Displaced Palestinians protest as Israeli air strikes continue in Gaza
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Bahrain says Iranian attack hits industrial facility
+Israeli forces continue to destroy residential buildings as part of a &#039;gradual displacement&#039; policy, a Gaza mayor says.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/21/bahrain-says-iranian-attack-hits-industrial-facility?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/21/bahrain-says-iranian-attack-hits-industrial-facility?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/22/displaced-palestinians-protest-as-israeli-air-strikes-continue-in-gaza?traffic_source=rss](https://www.aljazeera.com/news/2026/11/22/displaced-palestinians-protest-as-israeli-air-strikes-continue-in-gaza?traffic_source=rss)
 
 ---
 
-### 8. Bahrain says Iranian attack causes fire at industrial facility
+### 8. Bessent confirms he’s living on US military base over Iran fears
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Bahrain reports no injuries, as Iran&#039;s IRGC says it targeted US military positions at two bases in al-Riffa and Awali.
+US Treasury Secretary Scott Bessent says he’s still living at a US military base, two weeks after an Israeli warning.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility?traffic_source=rss](https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/22/bessent-confirms-hes-living-on-us-military-base-over-iran-fears?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/22/bessent-confirms-hes-living-on-us-military-base-over-iran-fears?traffic_source=rss)
 
 ---
 
-### 9. Impunity fuels surge in settler violence across occupied West Bank
+### 9. Moviegoers head for the exits as quake strikes Peru
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Impunity fuels surge in settler violence across occupied West Bank
+Moviegoers head for the exits as quake strikes Peru
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/21/impunity-fuels-surge-in-settler-violence-across-occupied-west-bank?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/21/impunity-fuels-surge-in-settler-violence-across-occupied-west-bank?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/22/moviegoers-head-for-the-exits-as-quake-strikes-peru?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/22/moviegoers-head-for-the-exits-as-quake-strikes-peru?traffic_source=rss)
 
 ---
 

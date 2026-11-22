@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-22 14:23:08
+**Last Update:** 2026-11-22 15:13:59
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. 87% of the Anthropic power will come from gas and 11% from coal in 2028
+### 1. Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://arxiv.org/abs/2606.14068">https://arxiv.org/abs/2606.14068</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50597743">https://news.ycombinator.com/item?id=50597743</a></p>
+<p>Points: 15</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://arxiv.org/abs/2606.14068](https://arxiv.org/abs/2606.14068)
+
+---
+
+### 2. 87% of the Anthropic power will come from gas and 11% from coal in 2028
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/">https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50597612">https://news.ycombinator.com/item?id=50597612</a></p>
-<p>Points: 133</p>
-<p># Comments: 144</p>
+<p>Points: 163</p>
+<p># Comments: 219</p>
 
 🔗 **Read more:** [https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/](https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/)
 
 ---
 
-### 2. Notes on the discrete Fourier transform (DFT)
+### 3. Notes on the discrete Fourier transform (DFT)
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/">https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50596960">https://news.ycombinator.com/item?id=50596960</a></p>
-<p>Points: 31</p>
-<p># Comments: 4</p>
+<p>Points: 35</p>
+<p># Comments: 5</p>
 
 🔗 **Read more:** [https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/](https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/)
-
----
-
-### 3. Show HN: The Riemann Proof Handbook
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/tamnd/riemann-handbook">https://github.com/tamnd/riemann-handbook</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50596664">https://news.ycombinator.com/item?id=50596664</a></p>
-<p>Points: 51</p>
-<p># Comments: 19</p>
-
-🔗 **Read more:** [https://github.com/tamnd/riemann-handbook](https://github.com/tamnd/riemann-handbook)
 
 ---
 
@@ -97,7 +97,33 @@ When 16-year-old Landon Tresp met a teenage girl in an online game, it led to hi
 
 ---
 
-### 7. Russian cargo ship still on fire off Finland after drone attack
+### 7. Russian ship attacked by drone in Baltic Sea off Finland
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Russian ship attacked by drone in Baltic Sea off Finland
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/22/russian-ship-attacked-by-drone-in-baltic-sea-off-finland?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/22/russian-ship-attacked-by-drone-in-baltic-sea-off-finland?traffic_source=rss)
+
+---
+
+### 8. Messi throws ball in opponent’s face, avoids red card as Inter Miami lose
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Lionel Messi escapes red-card booking for controversial throw-in in Miami&#039;s 3-0 defeat by Columbus in MLS Cup playoffs.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/22/lionel-messi-inter-miami-yellow-red-card-mls-playoffs?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/22/lionel-messi-inter-miami-yellow-red-card-mls-playoffs?traffic_source=rss)
+
+---
+
+### 9. Russian cargo ship still on fire off Finland after drone attack
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ When 16-year-old Landon Tresp met a teenage girl in an online game, it led to hi
 The ship, bound for Russia&#039;s Kaliningrad, was damaged in international waters before drifting into Finnish territory.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/22/russian-cargo-ship-still-on-fire-off-finland-after-drone-attack?traffic_source=rss](https://www.aljazeera.com/news/2026/11/22/russian-cargo-ship-still-on-fire-off-finland-after-drone-attack?traffic_source=rss)
-
----
-
-### 8. Iraqi bodybuilding champion Sajad Jawad dies days after winning the Asian crown
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Sajad Jawad died three days after winning the gold medal in the 90kg category at the Asian Championships in Thailand.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/22/iraqi-bodybuilding-champion-sajad-jawad-dies-days-after-winning-the-asian-crown?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/22/iraqi-bodybuilding-champion-sajad-jawad-dies-days-after-winning-the-asian-crown?traffic_source=rss)
-
----
-
-### 9. Restored wells bring life back to Hebron’s occupied Old City
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Hebron&#039;s Old City has been under constant siege by Israeli settlers and the military.
-
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/11/22/restored-wells-bring-life-back-to-hebrons-occupied-old-city?traffic_source=rss](https://www.aljazeera.com/features/2026/11/22/restored-wells-bring-life-back-to-hebrons-occupied-old-city?traffic_source=rss)
 
 ---
 

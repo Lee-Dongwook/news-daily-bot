@@ -1,65 +1,90 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-22 21:49:08
+**Last Update:** 2026-11-22 23:22:42
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Perplexity and Intelligence
+### 1. What Happened to Silicon Valley?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://openai.com/index/perplexity-and-intelligence/">https://openai.com/index/perplexity-and-intelligence/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50601525">https://news.ycombinator.com/item?id=50601525</a></p>
-<p>Points: 45</p>
-<p># Comments: 20</p>
+<p>Article URL: <a href="https://www.oreilly.com/radar/what-happened-to-silicon-valley/">https://www.oreilly.com/radar/what-happened-to-silicon-valley/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50602947">https://news.ycombinator.com/item?id=50602947</a></p>
+<p>Points: 7</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://openai.com/index/perplexity-and-intelligence/](https://openai.com/index/perplexity-and-intelligence/)
+🔗 **Read more:** [https://www.oreilly.com/radar/what-happened-to-silicon-valley/](https://www.oreilly.com/radar/what-happened-to-silicon-valley/)
 
 ---
 
-### 2. Ask HN: Are the trades a safe career transition?
+### 2. Canada recommits to federal funding for news
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>I am a software guy. Engineering degree but not PEng. Im thinking of jumping ship because i dont see much of a future in the career. Ai has me a little discouraged<p>I need a few decades of at least mild security to get to retirement...<p>Are the trades safe?<p>Im worried about homeowners and companies ending up with robots that do all those tasks. Not next year obviously, but it could happen before the career change fully pays off<p>And if not the trades, then what is a better bet?</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50600771">https://news.ycombinator.com/item?id=50600771</a></p>
-<p>Points: 28</p>
-<p># Comments: 38</p>
+<p>Article URL: <a href="https://www.niemanlab.org/2026/11/a-government-that-gets-it-canada-recommits-to-federal-funding-for-news/">https://www.niemanlab.org/2026/11/a-government-that-gets-it-canada-recommits-to-federal-funding-for-news/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50602847">https://news.ycombinator.com/item?id=50602847</a></p>
+<p>Points: 71</p>
+<p># Comments: 48</p>
 
-🔗 **Read more:** [https://news.ycombinator.com/item?id=50600771](https://news.ycombinator.com/item?id=50600771)
+🔗 **Read more:** [https://www.niemanlab.org/2026/11/a-government-that-gets-it-canada-recommits-to-federal-funding-for-news/](https://www.niemanlab.org/2026/11/a-government-that-gets-it-canada-recommits-to-federal-funding-for-news/)
 
 ---
 
-### 3. Europe weakens chemical rules as science links them to 'lifestyle diseases'
+### 3. The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html">https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50600677">https://news.ycombinator.com/item?id=50600677</a></p>
-<p>Points: 75</p>
-<p># Comments: 52</p>
+<p>Article URL: <a href="https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife">https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50602843">https://news.ycombinator.com/item?id=50602843</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html](https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html)
+🔗 **Read more:** [https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife](https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife)
 
 ---
 
-### 4. Boss of British Gas owner Centrica 'hugely concerned' over impact of soaring energy bills
+### 4. COP31 fails to reach major climate deal as talks expose deep divisions
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The talks fail to make a breakthrough on tackling climate change after a row about mentioning fossil fuels.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. What's next after no deal at COP31 climate talks?
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The COP31 climate summit in Turkey has formally come to an end after countries failed to agree a deal.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Boss of British Gas owner Centrica 'hugely concerned' over impact of soaring energy bills
 
 **Source:** BBC
 
@@ -72,68 +97,42 @@ Chris O'Shea says the number of people unable or unwilling to pay their energy b
 
 ---
 
-### 5. Explosion on Russian ship at Libya port caused by suspected drone attack, officials say
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. 'Danger seems greater all the time': Ukrainians search for missing after Russian strikes
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. India-Pakistan cricket rivalry brings World Cup atmosphere to Qatar
+### 7. On China, is Trump bucking the US national security establishment?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-India and Pakistan’s A teams meet at the Asia Cup Rising Stars. The packed stands show the rivalry remains as intense.
+On China, US is torn between the fears of the national security establishment and the prospect of expanded trade.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/22/india-pakistan-cricket-rivalry-brings-world-cup-atmosphere-to-qatar?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/22/india-pakistan-cricket-rivalry-brings-world-cup-atmosphere-to-qatar?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/the-bottom-line/2026/11/22/on-china-is-trump-bucking-the-us-national-security-establishment?traffic_source=rss](https://www.aljazeera.com/video/the-bottom-line/2026/11/22/on-china-is-trump-bucking-the-us-national-security-establishment?traffic_source=rss)
 
 ---
 
-### 8. Russian vessel hit by suspected sea drone at Libya’s Benghazi naval base
+### 8. Aber Kawas becomes first Palestinian in New York state Senate history
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-There was no immediate reaction from Russia, and no one has claimed responsibility for the suspected attack.
+Kawas, a democratic socialist, won with 74.5 percent of the vote, championing progressive politics.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/22/suspected-drone-strike-hits-russian-vessel-in-libya?traffic_source=rss](https://www.aljazeera.com/news/2026/11/22/suspected-drone-strike-hits-russian-vessel-in-libya?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/22/aber-kawas-becomes-first-palestinian-in-new-york-state-senate-history?traffic_source=rss](https://www.aljazeera.com/news/2026/11/22/aber-kawas-becomes-first-palestinian-in-new-york-state-senate-history?traffic_source=rss)
 
 ---
 
-### 9. Israeli settlers attack multiple Palestinian villages as pogroms surge
+### 9. ‘Horrific’ and ‘chilling’: Officials condemn ICE arrests at Seattle airport
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli settlers attacked several Palestinian towns and villages in the occupied West Bank on Sunday.
+Video shows masked immigration agents forcibly detaining two people at Seattle airport, raising concerns over tactics.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/22/israeli-settlers-attack-multiple-palestinian-villages-as-pogroms-surge?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/22/israeli-settlers-attack-multiple-palestinian-villages-as-pogroms-surge?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/22/horrific-and-chilling-officials-condemn-ice-arrests-at-seattle-airport?traffic_source=rss](https://www.aljazeera.com/news/2026/11/22/horrific-and-chilling-officials-condemn-ice-arrests-at-seattle-airport?traffic_source=rss)
 
 ---
 

@@ -1,94 +1,142 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-22 06:51:50
+**Last Update:** 2026-11-22 14:23:08
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Zelensky says Crimean Bridge strikes 'fair response' as he meets Wes Streeting
+### 1. 87% of the Anthropic power will come from gas and 11% from coal in 2028
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/">https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50597612">https://news.ycombinator.com/item?id=50597612</a></p>
+<p>Points: 133</p>
+<p># Comments: 144</p>
+
+🔗 **Read more:** [https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/](https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/)
+
+---
+
+### 2. Notes on the discrete Fourier transform (DFT)
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/">https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50596960">https://news.ycombinator.com/item?id=50596960</a></p>
+<p>Points: 31</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/](https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/)
+
+---
+
+### 3. Show HN: The Riemann Proof Handbook
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/tamnd/riemann-handbook">https://github.com/tamnd/riemann-handbook</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50596664">https://news.ycombinator.com/item?id=50596664</a></p>
+<p>Points: 51</p>
+<p># Comments: 19</p>
+
+🔗 **Read more:** [https://github.com/tamnd/riemann-handbook](https://github.com/tamnd/riemann-handbook)
+
+---
+
+### 4. Theresa May 'aghast' at Burnham's EU plans and says 'Brexit is done'
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.
+"Just accept Brexit and move on," the former prime minister tells BBC's Laura Kuenssberg.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvj6l8y3x1x4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvj6l8y3x1x4o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 2. Streeting calls Putin a 'cold-blooded killer' as he meets Zelensky in Kyiv
+### 5. 'Move on!' Former PMs pile in with advice for Andy Burnham, but will he listen?
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The BBC's Sarah Rainsford reports from Kyiv after Ukrainian President Zelensky met the UK defence secretary.
+Theresa May, David Cameron and Tony Blair have weighed in on Burnham's plans on moving closer to the EU, but the prime minister's message itself is not very precise.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cqevrddp91z8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cqevrddp91z8o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cjn5023e6ez4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cjn5023e6ez4o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 3. Catherine talks openly about how cancer changed her in documentary on BBC
+### 6. How a teen gamer and his mother helped rescue a missing girl
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-"There is a much, much deeper part to what a cancer diagnosis shifts in you," says Catherine in the documentary.
+When 16-year-old Landon Tresp met a teenage girl in an online game, it led to him and his mother helping the FBI rescue her from kidnapping.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c85y14zvexz9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c85y14zvexz9o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. Displaced Palestinians protest as Israeli air strikes continue in Gaza
+### 7. Russian cargo ship still on fire off Finland after drone attack
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli forces continue to destroy residential buildings as part of a &#039;gradual displacement&#039; policy, a Gaza mayor says.
+The ship, bound for Russia&#039;s Kaliningrad, was damaged in international waters before drifting into Finnish territory.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/22/displaced-palestinians-protest-as-israeli-air-strikes-continue-in-gaza?traffic_source=rss](https://www.aljazeera.com/news/2026/11/22/displaced-palestinians-protest-as-israeli-air-strikes-continue-in-gaza?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/22/russian-cargo-ship-still-on-fire-off-finland-after-drone-attack?traffic_source=rss](https://www.aljazeera.com/news/2026/11/22/russian-cargo-ship-still-on-fire-off-finland-after-drone-attack?traffic_source=rss)
 
 ---
 
-### 5. Bessent confirms he’s living on US military base over Iran fears
+### 8. Iraqi bodybuilding champion Sajad Jawad dies days after winning the Asian crown
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US Treasury Secretary Scott Bessent says he’s still living at a US military base, two weeks after an Israeli warning.
+Sajad Jawad died three days after winning the gold medal in the 90kg category at the Asian Championships in Thailand.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/22/bessent-confirms-hes-living-on-us-military-base-over-iran-fears?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/22/bessent-confirms-hes-living-on-us-military-base-over-iran-fears?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/22/iraqi-bodybuilding-champion-sajad-jawad-dies-days-after-winning-the-asian-crown?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/22/iraqi-bodybuilding-champion-sajad-jawad-dies-days-after-winning-the-asian-crown?traffic_source=rss)
 
 ---
 
-### 6. Moviegoers head for the exits as quake strikes Peru
+### 9. Restored wells bring life back to Hebron’s occupied Old City
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Moviegoers head for the exits as quake strikes Peru
+Hebron&#039;s Old City has been under constant siege by Israeli settlers and the military.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/22/moviegoers-head-for-the-exits-as-quake-strikes-peru?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/22/moviegoers-head-for-the-exits-as-quake-strikes-peru?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/11/22/restored-wells-bring-life-back-to-hebrons-occupied-old-city?traffic_source=rss](https://www.aljazeera.com/features/2026/11/22/restored-wells-bring-life-back-to-hebrons-occupied-old-city?traffic_source=rss)
 
 ---
 
-### 7. Wildfire Greene - Caney Creek Lane, Greene, Tennessee
+### 10. Wildfire Greene - Caney Creek Lane, Greene, Tennessee
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Wildfires
 
 ---
 
-### 8. Prescribed Fire 2027 TXTMR HFR RX, Matagorda, Texas
+### 11. Prescribed Fire 2027 TXTMR HFR RX, Matagorda, Texas
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Wildfires
 
 ---
 
-### 9. Prescribed Fire OAK Compartment 29 RX, Bibb, Alabama
+### 12. Prescribed Fire OAK Compartment 29 RX, Bibb, Alabama
 
 **Source:** NASA
 

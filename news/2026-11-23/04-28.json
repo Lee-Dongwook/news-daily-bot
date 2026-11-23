@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-23T04:28:49+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "FBI is having a mass hire for IT specialists",
+            "description": "<p>Article URL: <a href=\"https://apply.fbijobs.gov/psc/ps/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Action=U&amp;FOCUS=Applicant&amp;JobOpeningId=68871&amp;Page=HRS_APP_JBPST_FL&amp;PostingSeq=1&amp;SiteId=1&amp;\">https://apply.fbijobs.gov/psc/ps/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Action=U&amp;FOCUS=Applicant&amp;JobOpeningId=68871&amp;Page=HRS_APP_JBPST_FL&amp;PostingSeq=1&amp;SiteId=1&</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50605483\">https://news.ycombinator.com/item?id=50605483</a></p>\n<p>Points: 28</p>\n<p># Comments: 36</p>",
+            "url": "https://apply.fbijobs.gov/psc/ps/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Action=U&FOCUS=Applicant&JobOpeningId=68871&Page=HRS_APP_JBPST_FL&PostingSeq=1&SiteId=1&",
+            "published": "Sun, 22 Nov 2026 23:58:22 +0000",
+            "fetched": "2026-11-23T04:28:49+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Nespresso's project to reduce grams of coffee per capsule",
+            "description": "<p>Article URL: <a href=\"https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/\">https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50605479\">https://news.ycombinator.com/item?id=50605479</a></p>\n<p>Points: 58</p>\n<p># Comments: 51</p>",
+            "url": "https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/",
+            "published": "Sun, 22 Nov 2026 23:57:45 +0000",
+            "fetched": "2026-11-23T04:28:49+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "0rwx – A simple model of AI usage, inspired by Unix permissions",
+            "description": "<p>Article URL: <a href=\"https://0rwx.com/\">https://0rwx.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50605445\">https://news.ycombinator.com/item?id=50605445</a></p>\n<p>Points: 11</p>\n<p># Comments: 3</p>",
+            "url": "https://0rwx.com/",
+            "published": "Sun, 22 Nov 2026 23:53:00 +0000",
+            "fetched": "2026-11-23T04:28:49+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+            "description": "Hopes for an agreement on tackling climate change collapsed after a row about mentioning fossil fuels",
+            "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 23 Nov 2026 00:50:35 GMT",
+            "fetched": "2026-11-23T04:28:49+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "What's next after no deal at COP31 climate talks?",
+            "description": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.",
+            "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 22 Nov 2026 18:57:24 GMT",
+            "fetched": "2026-11-23T04:28:49+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
+            "description": "The prime minister will tell MPs the deal agreed on Friday is a \"choice between a broken status quo or change\".",
+            "url": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 22 Nov 2026 22:49:10 GMT",
+            "fetched": "2026-11-23T04:28:49+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "WHO chief calls for peace amid heavy fighting in Ebola-hit DR Congo region",
+            "description": "Fighting near a DRC hospital disrupts Ebola efforts, putting patients and workers at &#039;grave risk&#039;, WHO warns.",
+            "url": "https://www.aljazeera.com/news/2026/11/23/who-chief-calls-for-peace-amid-heavy-fighting-in-ebola-hit-dr-congo-region?traffic_source=rss",
+            "published": "Mon, 23 Nov 2026 00:39:51 +0000",
+            "fetched": "2026-11-23T04:28:49+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "South Korea’s stock market tumbles as AI bubble fears mount",
+            "description": "The Kospi falls more than 3 percent as markets across the region brace for losses.",
+            "url": "https://www.aljazeera.com/news/2026/11/23/south-koreas-stock-market-tumbles-as-ai-bubble-fears-mount?traffic_source=rss",
+            "published": "Mon, 23 Nov 2026 00:18:03 +0000",
+            "fetched": "2026-11-23T04:28:49+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Cameroon’s ex-rebels caught between hiding and broken promises",
+            "description": "Cameroon’s former rebels face arrest fears and failed reintegration.",
+            "url": "https://www.aljazeera.com/news/2026/11/23/cameroons-ex-rebels-caught-between-hiding-and-broken-promises?traffic_source=rss",
+            "published": "Mon, 23 Nov 2026 00:03:30 +0000",
+            "fetched": "2026-11-23T04:28:49+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Greene - Caney Creek Lane, Greene, Tennessee",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26568",
+            "published": "2026-11-18T14:11:00Z",
+            "fetched": "2026-11-23T04:28:49+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire 2027 TXTMR HFR RX, Matagorda, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26569",
+            "published": "2026-11-18T09:44:00Z",
+            "fetched": "2026-11-23T04:28:49+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire OAK Compartment 29 RX, Bibb, Alabama",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26571",
+            "published": "2026-11-18T09:18:00Z",
+            "fetched": "2026-11-23T04:28:49+03:30"
+        }
+    ]
+}

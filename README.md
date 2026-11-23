@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-23 03:33:37
+**Last Update:** 2026-11-23 04:28:49
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Progress map for the Lean formalization of Alessandro Masullo's manuscript
+### 1. FBI is having a mass hire for IT specialists
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3">https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50605045">https://news.ycombinator.com/item?id=50605045</a></p>
-<p>Points: 62</p>
-<p># Comments: 14</p>
+<p>Article URL: <a href="https://apply.fbijobs.gov/psc/ps/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Action=U&amp;FOCUS=Applicant&amp;JobOpeningId=68871&amp;Page=HRS_APP_JBPST_FL&amp;PostingSeq=1&amp;SiteId=1&amp;">https://apply.fbijobs.gov/psc/ps/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Action=U&amp;FOCUS=Applicant&amp;JobOpeningId=68871&amp;Page=HRS_APP_JBPST_FL&amp;PostingSeq=1&amp;SiteId=1&</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50605483">https://news.ycombinator.com/item?id=50605483</a></p>
+<p>Points: 28</p>
+<p># Comments: 36</p>
 
-🔗 **Read more:** [https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3](https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3)
+🔗 **Read more:** [https://apply.fbijobs.gov/psc/ps/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Action=U&FOCUS=Applicant&JobOpeningId=68871&Page=HRS_APP_JBPST_FL&PostingSeq=1&SiteId=1&](https://apply.fbijobs.gov/psc/ps/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Action=U&FOCUS=Applicant&JobOpeningId=68871&Page=HRS_APP_JBPST_FL&PostingSeq=1&SiteId=1&)
 
 ---
 
-### 2. GL.iNet Security Notice 2026-11-20
+### 2. Nespresso's project to reduce grams of coffee per capsule
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20">https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50604988">https://news.ycombinator.com/item?id=50604988</a></p>
-<p>Points: 24</p>
-<p># Comments: 7</p>
+<p>Article URL: <a href="https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/">https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50605479">https://news.ycombinator.com/item?id=50605479</a></p>
+<p>Points: 58</p>
+<p># Comments: 51</p>
 
-🔗 **Read more:** [https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20](https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20)
+🔗 **Read more:** [https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/](https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/)
 
 ---
 
-### 3. Localcode, open source agentic coding on your Mac with one command
+### 3. 0rwx – A simple model of AI usage, inspired by Unix permissions
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/mjwsolo/localcode">https://github.com/mjwsolo/localcode</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50604540">https://news.ycombinator.com/item?id=50604540</a></p>
-<p>Points: 7</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://0rwx.com/">https://0rwx.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50605445">https://news.ycombinator.com/item?id=50605445</a></p>
+<p>Points: 11</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://github.com/mjwsolo/localcode](https://github.com/mjwsolo/localcode)
+🔗 **Read more:** [https://0rwx.com/](https://0rwx.com/)
 
 ---
 
@@ -65,7 +65,7 @@
 **Category:** world
 
 **Description:**
-The talks fail to make a breakthrough on tackling climate change after a row about mentioning fossil fuels.
+Hopes for an agreement on tackling climate change collapsed after a row about mentioning fossil fuels
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss)
 
@@ -84,55 +84,55 @@ The talks have been the longest-running in the summit's history, with negotiatio
 
 ---
 
-### 6. Boss of British Gas owner Centrica 'hugely concerned' over impact of soaring energy bills
+### 6. Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Chris O'Shea says the number of people unable or unwilling to pay their energy bills will increase when prices jump in the new year.
+The prime minister will tell MPs the deal agreed on Friday is a "choice between a broken status quo or change".
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Trump criticises Schumer amid push for new Democrat leadership in US Senate
+### 7. WHO chief calls for peace amid heavy fighting in Ebola-hit DR Congo region
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Schumer, who has led the Democrats since 2017, faces a challenge from Chris Van Hollen in his bid for majority leader.
+Fighting near a DRC hospital disrupts Ebola efforts, putting patients and workers at &#039;grave risk&#039;, WHO warns.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/22/trump-criticises-schumer-amid-push-for-new-democrat-leadership-in-us-senate?traffic_source=rss](https://www.aljazeera.com/news/2026/11/22/trump-criticises-schumer-amid-push-for-new-democrat-leadership-in-us-senate?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/23/who-chief-calls-for-peace-amid-heavy-fighting-in-ebola-hit-dr-congo-region?traffic_source=rss](https://www.aljazeera.com/news/2026/11/23/who-chief-calls-for-peace-amid-heavy-fighting-in-ebola-hit-dr-congo-region?traffic_source=rss)
 
 ---
 
-### 8. Trump to host private dinner for largest owners of his meme coin
+### 8. South Korea’s stock market tumbles as AI bubble fears mount
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Sunday&#039;s dinner is the third event for top holders of the $Trump meme coin, launched shortly before his inauguration.
+The Kospi falls more than 3 percent as markets across the region brace for losses.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/22/trump-to-host-private-dinner-for-largest-owners-of-his-meme-coin?traffic_source=rss](https://www.aljazeera.com/news/2026/11/22/trump-to-host-private-dinner-for-largest-owners-of-his-meme-coin?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/23/south-koreas-stock-market-tumbles-as-ai-bubble-fears-mount?traffic_source=rss](https://www.aljazeera.com/news/2026/11/23/south-koreas-stock-market-tumbles-as-ai-bubble-fears-mount?traffic_source=rss)
 
 ---
 
-### 9. Democrats win largest House majority since 1992 with North Carolina seat
+### 9. Cameroon’s ex-rebels caught between hiding and broken promises
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-At least 258 US House seats are now under Democratic control, with four more midterm races yet to be decided.
+Cameroon’s former rebels face arrest fears and failed reintegration.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/22/democrats-win-largest-house-majority-since-1992-with-north-carolina-seat?traffic_source=rss](https://www.aljazeera.com/news/2026/11/22/democrats-win-largest-house-majority-since-1992-with-north-carolina-seat?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/23/cameroons-ex-rebels-caught-between-hiding-and-broken-promises?traffic_source=rss](https://www.aljazeera.com/news/2026/11/23/cameroons-ex-rebels-caught-between-hiding-and-broken-promises?traffic_source=rss)
 
 ---
 

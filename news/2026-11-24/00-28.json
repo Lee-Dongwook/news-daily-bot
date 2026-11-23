@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-24T00:28:27+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Congress shreds Nvidia's 'outrageous' return of Huang: 'Failure of character'",
+            "description": "<p>Article URL: <a href=\"https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress-trump.html\">https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress-trump.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50618490\">https://news.ycombinator.com/item?id=50618490</a></p>\n<p>Points: 34</p>\n<p># Comments: 12</p>",
+            "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress-trump.html",
+            "published": "Mon, 23 Nov 2026 20:13:18 +0000",
+            "fetched": "2026-11-24T00:28:27+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "\"Per ARM's Request, This Site Will Be Discontinued on 4 December 2026\"",
+            "description": "<p>Article URL: <a href=\"https://arm.jonpalmisc.com/\">https://arm.jonpalmisc.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50617499\">https://news.ycombinator.com/item?id=50617499</a></p>\n<p>Points: 468</p>\n<p># Comments: 94</p>",
+            "url": "https://arm.jonpalmisc.com/",
+            "published": "Mon, 23 Nov 2026 19:17:55 +0000",
+            "fetched": "2026-11-24T00:28:27+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Apple removed my open-source app from EU App Stores after 9 years",
+            "description": "<p>Article URL: <a href=\"https://github.com/glushchenko/fsnotes/discussions/2056\">https://github.com/glushchenko/fsnotes/discussions/2056</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50616933\">https://news.ycombinator.com/item?id=50616933</a></p>\n<p>Points: 289</p>\n<p># Comments: 54</p>",
+            "url": "https://github.com/glushchenko/fsnotes/discussions/2056",
+            "published": "Mon, 23 Nov 2026 18:48:10 +0000",
+            "fetched": "2026-11-24T00:28:27+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "My approach to EU is pragmatic, says Burnham",
+            "description": "The prime minister also said his predecessors who have urged him not to reopen the Brexit debate are \"stuck in the past\".",
+            "url": "https://www.bbc.co.uk/news/articles/c6vg2v9xkr40o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 23 Nov 2026 19:10:44 GMT",
+            "fetched": "2026-11-24T00:28:27+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
+            "description": "Ukraine's sinking of a Russian battleship at a port in Libya raises the stakes of the war a notch, writes Frank Gardner.",
+            "url": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 23 Nov 2026 20:48:35 GMT",
+            "fetched": "2026-11-24T00:28:27+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "How Ukraine attacked Russian ships in Libya",
+            "description": "Verified videos show huge fireballs, smoke plumes rising and sea drones attacking the vessels.",
+            "url": "https://www.bbc.co.uk/news/videos/cmz6q3001pw6o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 23 Nov 2026 14:32:12 GMT",
+            "fetched": "2026-11-24T00:28:27+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran flogs singer Parastoo Ahmadi for performing without headscarf",
+            "description": "Ahmadi and four production team members also face two-year bans on travel and artistic activity.",
+            "url": "https://www.aljazeera.com/news/2026/11/23/iran-flogs-singer-parastoo-ahmadi-for-performing-without-headscarf?traffic_source=rss",
+            "published": "Mon, 23 Nov 2026 20:41:56 +0000",
+            "fetched": "2026-11-24T00:28:27+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran hits US bases and civilian sites in the Gulf after a lull",
+            "description": "Tehran has ramped up attacks in recent days as the US naval blockade and sanctions campaign hurt the country.",
+            "url": "https://www.aljazeera.com/video/inside-story/2026/11/23/iran-hits-us-bases-and-civilian-sites-in-the-gulf-after-a-lull?traffic_source=rss",
+            "published": "Mon, 23 Nov 2026 20:26:40 +0000",
+            "fetched": "2026-11-24T00:28:27+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Turkish police hunting for lioness stalking Istanbul",
+            "description": "Questions being asked about big cat&#039;s origins, with suspicion falling on the country&#039;s growing role in animal smuggling.",
+            "url": "https://www.aljazeera.com/news/2026/11/23/turkish-police-hunting-for-lioness-stalking-istanbul?traffic_source=rss",
+            "published": "Mon, 23 Nov 2026 20:22:28 +0000",
+            "fetched": "2026-11-24T00:28:27+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Greene - Caney Creek Lane, Greene, Tennessee",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26568",
+            "published": "2026-11-18T14:11:00Z",
+            "fetched": "2026-11-24T00:28:27+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire 2027 TXTMR HFR RX, Matagorda, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26569",
+            "published": "2026-11-18T09:44:00Z",
+            "fetched": "2026-11-24T00:28:27+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire OAK Compartment 29 RX, Bibb, Alabama",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26571",
+            "published": "2026-11-18T09:18:00Z",
+            "fetched": "2026-11-24T00:28:27+03:30"
+        }
+    ]
+}

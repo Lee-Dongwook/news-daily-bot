@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-23 12:47:52
+**Last Update:** 2026-11-24 00:28:27
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. CollectWise (YC F24) Is Hiring
+### 1. Congress shreds Nvidia's 'outrageous' return of Huang: 'Failure of character'
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.ycombinator.com/companies/collectwise/jobs/lgobCse-founding-customer-success-manager">https://www.ycombinator.com/companies/collectwise/jobs/lgobCse-founding-customer-success-manager</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50608390">https://news.ycombinator.com/item?id=50608390</a></p>
-<p>Points: 0</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress-trump.html">https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress-trump.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50618490">https://news.ycombinator.com/item?id=50618490</a></p>
+<p>Points: 34</p>
+<p># Comments: 12</p>
 
-🔗 **Read more:** [https://www.ycombinator.com/companies/collectwise/jobs/lgobCse-founding-customer-success-manager](https://www.ycombinator.com/companies/collectwise/jobs/lgobCse-founding-customer-success-manager)
+🔗 **Read more:** [https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress-trump.html](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress-trump.html)
 
 ---
 
-### 2. Yes, 17M lines of Lean is a lot
+### 2. "Per ARM's Request, This Site Will Be Discontinued on 4 December 2026"
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/">https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50607668">https://news.ycombinator.com/item?id=50607668</a></p>
-<p>Points: 45</p>
-<p># Comments: 57</p>
+<p>Article URL: <a href="https://arm.jonpalmisc.com/">https://arm.jonpalmisc.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50617499">https://news.ycombinator.com/item?id=50617499</a></p>
+<p>Points: 468</p>
+<p># Comments: 94</p>
 
-🔗 **Read more:** [https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/](https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/)
+🔗 **Read more:** [https://arm.jonpalmisc.com/](https://arm.jonpalmisc.com/)
 
 ---
 
-### 3. A Partial Evaluator for C
+### 3. Apple removed my open-source app from EU App Stores after 9 years
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://phoenix.labri.fr/software/tempo/">https://phoenix.labri.fr/software/tempo/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50607627">https://news.ycombinator.com/item?id=50607627</a></p>
-<p>Points: 55</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://github.com/glushchenko/fsnotes/discussions/2056">https://github.com/glushchenko/fsnotes/discussions/2056</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50616933">https://news.ycombinator.com/item?id=50616933</a></p>
+<p>Points: 289</p>
+<p># Comments: 54</p>
 
-🔗 **Read more:** [https://phoenix.labri.fr/software/tempo/](https://phoenix.labri.fr/software/tempo/)
+🔗 **Read more:** [https://github.com/glushchenko/fsnotes/discussions/2056](https://github.com/glushchenko/fsnotes/discussions/2056)
 
 ---
 
-### 4. Manchester's Co-op Live evacuated after 'unknown substance' let off in crowd
+### 4. My approach to EU is pragmatic, says Burnham
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-One person was taken to hospital after a major incident was declared during a performance by US rapper Don Toliver.
+The prime minister also said his predecessors who have urged him not to reopen the Brexit debate are "stuck in the past".
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9e851dn8516o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9e851dn8516o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6vg2v9xkr40o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6vg2v9xkr40o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. NHS launches world's largest AI breast cancer screening trial
+### 5. What strike on Russian ship in Libya says about spread of Ukraine war
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Researchers will test the technology in breast cancer screening which could ease pressure on the NHS.
+Ukraine's sinking of a Russian battleship at a port in Libya raises the stakes of the war a notch, writes Frank Gardner.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmpdwnw3nvzjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmpdwnw3nvzjo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Five takeaways from the failed climate talks COP31
+### 6. How Ukraine attacked Russian ships in Libya
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The COP31 summit in Antalya was the longest-running climate talks in UN history.
+Verified videos show huge fireballs, smoke plumes rising and sea drones attacking the vessels.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm75237wlp3lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm75237wlp3lo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cmz6q3001pw6o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cmz6q3001pw6o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Widowed amid war and displacement: Sudanese mothers struggle to survive
+### 7. Iran flogs singer Parastoo Ahmadi for performing without headscarf
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-War widows in Sudan face growing challenges supporting their children as the cost of living increases.
+Ahmadi and four production team members also face two-year bans on travel and artistic activity.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/11/23/widowed-amid-war-and-displacement-sudanese-mothers-struggle-to-survive?traffic_source=rss](https://www.aljazeera.com/features/2026/11/23/widowed-amid-war-and-displacement-sudanese-mothers-struggle-to-survive?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/23/iran-flogs-singer-parastoo-ahmadi-for-performing-without-headscarf?traffic_source=rss](https://www.aljazeera.com/news/2026/11/23/iran-flogs-singer-parastoo-ahmadi-for-performing-without-headscarf?traffic_source=rss)
 
 ---
 
-### 8. Europe’s hot autumn of protests is a symptom of economic breakdown
+### 8. Iran hits US bases and civilian sites in the Gulf after a lull
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-European governments beholden to corporate interests no longer have the wellbeing of their nations as a top priority.
+Tehran has ramped up attacks in recent days as the US naval blockade and sanctions campaign hurt the country.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/11/23/europes-hot-autumn-of-protests-is-a-symptom-of-economic-breakdown-2?traffic_source=rss](https://www.aljazeera.com/opinions/2026/11/23/europes-hot-autumn-of-protests-is-a-symptom-of-economic-breakdown-2?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/11/23/iran-hits-us-bases-and-civilian-sites-in-the-gulf-after-a-lull?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/11/23/iran-hits-us-bases-and-civilian-sites-in-the-gulf-after-a-lull?traffic_source=rss)
 
 ---
 
-### 9. Taliban deploys police to protect Afghanistan’s vanishing forests
+### 9. Turkish police hunting for lioness stalking Istanbul
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Afghanistan’s last remaining forests are being guarded by a Taliban-run police force known as Green Units.
+Questions being asked about big cat&#039;s origins, with suspicion falling on the country&#039;s growing role in animal smuggling.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/23/taliban-deploys-police-to-protect-afghanistans-vanishing-forests?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/23/taliban-deploys-police-to-protect-afghanistans-vanishing-forests?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/23/turkish-police-hunting-for-lioness-stalking-istanbul?traffic_source=rss](https://www.aljazeera.com/news/2026/11/23/turkish-police-hunting-for-lioness-stalking-istanbul?traffic_source=rss)
 
 ---
 

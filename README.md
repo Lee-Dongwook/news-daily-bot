@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-22 23:22:42
+**Last Update:** 2026-11-23 03:33:37
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. What Happened to Silicon Valley?
+### 1. Progress map for the Lean formalization of Alessandro Masullo's manuscript
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.oreilly.com/radar/what-happened-to-silicon-valley/">https://www.oreilly.com/radar/what-happened-to-silicon-valley/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50602947">https://news.ycombinator.com/item?id=50602947</a></p>
+<p>Article URL: <a href="https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3">https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50605045">https://news.ycombinator.com/item?id=50605045</a></p>
+<p>Points: 62</p>
+<p># Comments: 14</p>
+
+🔗 **Read more:** [https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3](https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3)
+
+---
+
+### 2. GL.iNet Security Notice 2026-11-20
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20">https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50604988">https://news.ycombinator.com/item?id=50604988</a></p>
+<p>Points: 24</p>
+<p># Comments: 7</p>
+
+🔗 **Read more:** [https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20](https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20)
+
+---
+
+### 3. Localcode, open source agentic coding on your Mac with one command
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/mjwsolo/localcode">https://github.com/mjwsolo/localcode</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50604540">https://news.ycombinator.com/item?id=50604540</a></p>
 <p>Points: 7</p>
-<p># Comments: 0</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.oreilly.com/radar/what-happened-to-silicon-valley/](https://www.oreilly.com/radar/what-happened-to-silicon-valley/)
-
----
-
-### 2. Canada recommits to federal funding for news
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.niemanlab.org/2026/11/a-government-that-gets-it-canada-recommits-to-federal-funding-for-news/">https://www.niemanlab.org/2026/11/a-government-that-gets-it-canada-recommits-to-federal-funding-for-news/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50602847">https://news.ycombinator.com/item?id=50602847</a></p>
-<p>Points: 71</p>
-<p># Comments: 48</p>
-
-🔗 **Read more:** [https://www.niemanlab.org/2026/11/a-government-that-gets-it-canada-recommits-to-federal-funding-for-news/](https://www.niemanlab.org/2026/11/a-government-that-gets-it-canada-recommits-to-federal-funding-for-news/)
-
----
-
-### 3. The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife">https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50602843">https://news.ycombinator.com/item?id=50602843</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife](https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife)
+🔗 **Read more:** [https://github.com/mjwsolo/localcode](https://github.com/mjwsolo/localcode)
 
 ---
 
@@ -78,7 +78,7 @@ The talks fail to make a breakthrough on tackling climate change after a row abo
 **Category:** world
 
 **Description:**
-The COP31 climate summit in Turkey has formally come to an end after countries failed to agree a deal.
+The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss)
 
@@ -97,42 +97,42 @@ Chris O'Shea says the number of people unable or unwilling to pay their energy b
 
 ---
 
-### 7. On China, is Trump bucking the US national security establishment?
+### 7. Trump criticises Schumer amid push for new Democrat leadership in US Senate
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-On China, US is torn between the fears of the national security establishment and the prospect of expanded trade.
+Schumer, who has led the Democrats since 2017, faces a challenge from Chris Van Hollen in his bid for majority leader.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/the-bottom-line/2026/11/22/on-china-is-trump-bucking-the-us-national-security-establishment?traffic_source=rss](https://www.aljazeera.com/video/the-bottom-line/2026/11/22/on-china-is-trump-bucking-the-us-national-security-establishment?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/22/trump-criticises-schumer-amid-push-for-new-democrat-leadership-in-us-senate?traffic_source=rss](https://www.aljazeera.com/news/2026/11/22/trump-criticises-schumer-amid-push-for-new-democrat-leadership-in-us-senate?traffic_source=rss)
 
 ---
 
-### 8. Aber Kawas becomes first Palestinian in New York state Senate history
+### 8. Trump to host private dinner for largest owners of his meme coin
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Kawas, a democratic socialist, won with 74.5 percent of the vote, championing progressive politics.
+Sunday&#039;s dinner is the third event for top holders of the $Trump meme coin, launched shortly before his inauguration.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/22/aber-kawas-becomes-first-palestinian-in-new-york-state-senate-history?traffic_source=rss](https://www.aljazeera.com/news/2026/11/22/aber-kawas-becomes-first-palestinian-in-new-york-state-senate-history?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/22/trump-to-host-private-dinner-for-largest-owners-of-his-meme-coin?traffic_source=rss](https://www.aljazeera.com/news/2026/11/22/trump-to-host-private-dinner-for-largest-owners-of-his-meme-coin?traffic_source=rss)
 
 ---
 
-### 9. ‘Horrific’ and ‘chilling’: Officials condemn ICE arrests at Seattle airport
+### 9. Democrats win largest House majority since 1992 with North Carolina seat
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Video shows masked immigration agents forcibly detaining two people at Seattle airport, raising concerns over tactics.
+At least 258 US House seats are now under Democratic control, with four more midterm races yet to be decided.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/22/horrific-and-chilling-officials-condemn-ice-arrests-at-seattle-airport?traffic_source=rss](https://www.aljazeera.com/news/2026/11/22/horrific-and-chilling-officials-condemn-ice-arrests-at-seattle-airport?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/22/democrats-win-largest-house-majority-since-1992-with-north-carolina-seat?traffic_source=rss](https://www.aljazeera.com/news/2026/11/22/democrats-win-largest-house-majority-since-1992-with-north-carolina-seat?traffic_source=rss)
 
 ---
 

@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-11-23T12:12:37+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Manchester's Co-op Live evacuated after 'unknown substance' let off in crowd",
+            "description": "One person was taken to hospital after a major incident was declared during a performance by US rapper Don Toliver.",
+            "url": "https://www.bbc.co.uk/news/articles/c9e851dn8516o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 23 Nov 2026 04:21:50 GMT",
+            "fetched": "2026-11-23T12:12:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "NHS launches world's largest AI breast cancer screening trial",
+            "description": "Researchers will test the technology in breast cancer screening which could ease pressure on the NHS.",
+            "url": "https://www.bbc.co.uk/news/articles/cmpdwnw3nvzjo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 23 Nov 2026 00:49:22 GMT",
+            "fetched": "2026-11-23T12:12:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Longest-ever UN climate talks end with no deal as deep divisions exposed",
+            "description": "The prime minister of Australia, which co-hosted COP31, attributed the failure to \"difficult geopolitical times\".",
+            "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 23 Nov 2026 05:15:06 GMT",
+            "fetched": "2026-11-23T12:12:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Europe’s hot autumn of protests is a symptom of economic breakdown",
+            "description": "European governments beholden to corporate interests no longer have the wellbeing of their nations as a top priority.",
+            "url": "https://www.aljazeera.com/opinions/2026/11/23/europes-hot-autumn-of-protests-is-a-symptom-of-economic-breakdown-2?traffic_source=rss",
+            "published": "Mon, 23 Nov 2026 08:08:00 +0000",
+            "fetched": "2026-11-23T12:12:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Taliban deploys police to protect Afghanistan’s vanishing forests",
+            "description": "Afghanistan’s last remaining forests are being guarded by a Taliban-run police force known as Green Units.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/taliban-deploys-police-to-protect-afghanistans-vanishing-forests?traffic_source=rss",
+            "published": "Mon, 23 Nov 2026 07:47:32 +0000",
+            "fetched": "2026-11-23T12:12:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Zelenskyy says Ukraine behind drone attacks on Russian ships near Libya",
+            "description": "President Zelenskyy says Ukrainian forces sank the Russian warship Merkury in an &quot;exemplary&quot; sea drone operation.",
+            "url": "https://www.aljazeera.com/news/2026/11/23/zelenskyy-says-ukraine-behind-drone-attacks-on-russian-ships-near-libya?traffic_source=rss",
+            "published": "Mon, 23 Nov 2026 07:37:09 +0000",
+            "fetched": "2026-11-23T12:12:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Greene - Caney Creek Lane, Greene, Tennessee",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26568",
+            "published": "2026-11-18T14:11:00Z",
+            "fetched": "2026-11-23T12:12:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire 2027 TXTMR HFR RX, Matagorda, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26569",
+            "published": "2026-11-18T09:44:00Z",
+            "fetched": "2026-11-23T12:12:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire OAK Compartment 29 RX, Bibb, Alabama",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26571",
+            "published": "2026-11-18T09:18:00Z",
+            "fetched": "2026-11-23T12:12:37+03:30"
+        }
+    ]
+}

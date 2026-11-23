@@ -1,32 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-24 00:28:27
+**Last Update:** 2026-11-24 01:03:54
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Congress shreds Nvidia's 'outrageous' return of Huang: 'Failure of character'
+### 1. The horse made the state
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress-trump.html">https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress-trump.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50618490">https://news.ycombinator.com/item?id=50618490</a></p>
-<p>Points: 34</p>
+<p>Article URL: <a href="https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist">https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50619186">https://news.ycombinator.com/item?id=50619186</a></p>
+<p>Points: 12</p>
 <p># Comments: 12</p>
 
-🔗 **Read more:** [https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress-trump.html](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress-trump.html)
+🔗 **Read more:** [https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist](https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist)
 
 ---
 
-### 2. "Per ARM's Request, This Site Will Be Discontinued on 4 December 2026"
+### 2. Per Arm's request, this site will be discontinued on 4 December 2026 :(
 
 **Source:** Hacker News
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://arm.jonpalmisc.com/">https://arm.jonpalmisc.com/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50617499">https://news.ycombinator.com/item?id=50617499</a></p>
-<p>Points: 468</p>
-<p># Comments: 94</p>
+<p>Points: 561</p>
+<p># Comments: 116</p>
 
 🔗 **Read more:** [https://arm.jonpalmisc.com/](https://arm.jonpalmisc.com/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/glushchenko/fsnotes/discussions/2056">https://github.com/glushchenko/fsnotes/discussions/2056</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50616933">https://news.ycombinator.com/item?id=50616933</a></p>
-<p>Points: 289</p>
-<p># Comments: 54</p>
+<p>Points: 349</p>
+<p># Comments: 61</p>
 
 🔗 **Read more:** [https://github.com/glushchenko/fsnotes/discussions/2056](https://github.com/glushchenko/fsnotes/discussions/2056)
 
@@ -97,7 +97,20 @@ Verified videos show huge fireballs, smoke plumes rising and sea drones attackin
 
 ---
 
-### 7. Iran flogs singer Parastoo Ahmadi for performing without headscarf
+### 7. US drug prices leave patients facing impossible choices
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Despite having jobs and health insurance, some of the US&#039;s sickest patients have trouble affording medicines they need.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/23/us-drug-prices-leave-patients-facing-impossible-choices?traffic_source=rss](https://www.aljazeera.com/news/2026/11/23/us-drug-prices-leave-patients-facing-impossible-choices?traffic_source=rss)
+
+---
+
+### 8. Iran flogs singer Parastoo Ahmadi for performing without headscarf
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Ahmadi and four production team members also face two-year bans on travel and ar
 
 ---
 
-### 8. Iran hits US bases and civilian sites in the Gulf after a lull
+### 9. Iran hits US bases and civilian sites in the Gulf after a lull
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Ahmadi and four production team members also face two-year bans on travel and ar
 Tehran has ramped up attacks in recent days as the US naval blockade and sanctions campaign hurt the country.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/11/23/iran-hits-us-bases-and-civilian-sites-in-the-gulf-after-a-lull?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/11/23/iran-hits-us-bases-and-civilian-sites-in-the-gulf-after-a-lull?traffic_source=rss)
-
----
-
-### 9. Turkish police hunting for lioness stalking Istanbul
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Questions being asked about big cat&#039;s origins, with suspicion falling on the country&#039;s growing role in animal smuggling.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/23/turkish-police-hunting-for-lioness-stalking-istanbul?traffic_source=rss](https://www.aljazeera.com/news/2026/11/23/turkish-police-hunting-for-lioness-stalking-istanbul?traffic_source=rss)
 
 ---
 

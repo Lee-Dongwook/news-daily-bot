@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-24T08:44:05+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Drone Maps of Salvage Yards",
+            "description": "<p>Article URL: <a href=\"https://salvageyarddrone.wordpress.com/\">https://salvageyarddrone.wordpress.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50623515\">https://news.ycombinator.com/item?id=50623515</a></p>\n<p>Points: 19</p>\n<p># Comments: 5</p>",
+            "url": "https://salvageyarddrone.wordpress.com/",
+            "published": "Tue, 24 Nov 2026 04:00:28 +0000",
+            "fetched": "2026-11-24T08:44:05+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Juncts, one DM inbox for five apps that Claude and ChatGPT can work in",
+            "description": "<p>Article URL: <a href=\"https://juncts.com/app?demo=1&amp;utm_source=hackernews&amp;utm_medium=launch&amp;utm_campaign=launch-nov26\">https://juncts.com/app?demo=1&amp;utm_source=hackernews&amp;utm_medium=launch&amp;utm_campaign=launch-nov26</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50623175\">https://news.ycombinator.com/item?id=50623175</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+            "url": "https://juncts.com/app?demo=1&utm_source=hackernews&utm_medium=launch&utm_campaign=launch-nov26",
+            "published": "Tue, 24 Nov 2026 03:16:58 +0000",
+            "fetched": "2026-11-24T08:44:05+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Hacking radiators",
+            "description": "<p>Article URL: <a href=\"https://qsantos.fr/2026/11/20/hacking-radiators-for-fun-and-no-profit/\">https://qsantos.fr/2026/11/20/hacking-radiators-for-fun-and-no-profit/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50623020\">https://news.ycombinator.com/item?id=50623020</a></p>\n<p>Points: 9</p>\n<p># Comments: 3</p>",
+            "url": "https://qsantos.fr/2026/11/20/hacking-radiators-for-fun-and-no-profit/",
+            "published": "Tue, 24 Nov 2026 02:56:41 +0000",
+            "fetched": "2026-11-24T08:44:05+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "How Nvidia is reacting to Jensen Huang's return as CEO",
+            "description": "BBC's Lily Jamali reports from Nvidia's headquarters, where she gauges the reaction to Huang's return after Trump says he brokered a deal.",
+            "url": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 24 Nov 2026 01:21:41 GMT",
+            "fetched": "2026-11-24T08:44:05+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Benefits review to suggest quicker payment for some disabled people",
+            "description": "The Timms review will recommend those with severe conditions will not need to be reassessed to receive Pip.",
+            "url": "https://www.bbc.co.uk/news/articles/cvx2xjed2r3ro?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 24 Nov 2026 00:53:31 GMT",
+            "fetched": "2026-11-24T08:44:05+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Chris Mason: Can Burnham turn volume down on EU debate?",
+            "description": "The BBC's Chris Mason analyses what the EU conversation means for Labour and the PM.",
+            "url": "https://www.bbc.co.uk/news/articles/c6pw47jyyz5no?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 24 Nov 2026 00:45:53 GMT",
+            "fetched": "2026-11-24T08:44:05+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Danish court backs ‘ghetto law’ used to evict ‘non-Western’ residents",
+            "description": "Denmark’s Supreme Court has ruled against the ‘non-Western’ tenants evicted from Mjolnerparken housing estate.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/danish-court-backs-ghetto-law-used-to-evict-non-western-residents?traffic_source=rss",
+            "published": "Tue, 24 Nov 2026 04:52:06 +0000",
+            "fetched": "2026-11-24T08:44:05+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Car bomb strikes governor’s office in Meta, Colombia",
+            "description": "A car bomb exploded in the city of Villavicencio in Colombia’s Meta Department.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/car-bomb-strikes-governors-office-in-meta-colombia?traffic_source=rss",
+            "published": "Tue, 24 Nov 2026 04:49:31 +0000",
+            "fetched": "2026-11-24T08:44:05+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "India’s best known bottled water under scrutiny",
+            "description": "India is testing samples from every bottled water company after one batch of Bisleri bottled water was ruled unsafe.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/indias-best-known-bottled-water-under-scrutiny?traffic_source=rss",
+            "published": "Tue, 24 Nov 2026 04:44:35 +0000",
+            "fetched": "2026-11-24T08:44:05+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Little Ridge, Highland, Virginia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26661",
+            "published": "2026-11-21T23:15:00Z",
+            "fetched": "2026-11-24T08:44:05+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire White Oak Flat, Alleghany, Virginia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26662",
+            "published": "2026-11-20T13:16:00Z",
+            "fetched": "2026-11-24T08:44:05+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Iceberg A76C",
+            "description": "Natural event: Sea and Lake Ice",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_5359",
+            "published": "2021-05-28T00:00:00Z",
+            "fetched": "2026-11-24T08:44:05+03:30"
+        }
+    ]
+}

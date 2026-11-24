@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-24T21:29:28+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Enron Employees Give Kenneth Lay a Standing Ovation Upon His Return as CEO",
+            "description": "<p>Article URL: <a href=\"https://daringfireball.net/linked/2026/11/24/enron-ovation-1991\">https://daringfireball.net/linked/2026/11/24/enron-ovation-1991</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50631647\">https://news.ycombinator.com/item?id=50631647</a></p>\n<p>Points: 5</p>\n<p># Comments: 1</p>",
+            "url": "https://daringfireball.net/linked/2026/11/24/enron-ovation-1991",
+            "published": "Tue, 24 Nov 2026 17:43:22 +0000",
+            "fetched": "2026-11-24T21:29:28+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Top MIT Physicist: Anthropic Staff Openly Talk About 'Taking over the World'",
+            "description": "<p>Article URL: <a href=\"https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/\">https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50631210\">https://news.ycombinator.com/item?id=50631210</a></p>\n<p>Points: 35</p>\n<p># Comments: 7</p>",
+            "url": "https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/",
+            "published": "Tue, 24 Nov 2026 17:10:45 +0000",
+            "fetched": "2026-11-24T21:29:28+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Microsoft declares 'Code Red' after historic outage, internal memos show",
+            "description": "<p>Article URL: <a href=\"https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/\">https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50631157\">https://news.ycombinator.com/item?id=50631157</a></p>\n<p>Points: 13</p>\n<p># Comments: 14</p>",
+            "url": "https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/",
+            "published": "Tue, 24 Nov 2026 17:07:41 +0000",
+            "fetched": "2026-11-24T21:29:28+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Disability benefit review calls for closer link with claimant costs",
+            "description": "A government-commissioned report calls for a \"rebalancing\" of the amount paid to different claimants.",
+            "url": "https://www.bbc.co.uk/news/articles/cm4gn6gn9057o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 24 Nov 2026 17:38:37 GMT",
+            "fetched": "2026-11-24T21:29:28+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Two arrested on suspicion of burglary at Prince and Princess of Wales's Norfolk home",
+            "description": "The break-in took place at the family's country retreat in Norfolk, on the Sandringham Estate.",
+            "url": "https://www.bbc.co.uk/news/articles/cr9d7qdg24vno?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 24 Nov 2026 16:19:29 GMT",
+            "fetched": "2026-11-24T21:29:28+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Nvidia shares slide as Trump's role in Jensen Huang's comeback questioned by US politicians",
+            "description": "Nvidia's stock market value surged on the annoucement of Huang's reappointment, but some of the gains reversed in Tuesday trading.",
+            "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 24 Nov 2026 17:04:20 GMT",
+            "fetched": "2026-11-24T21:29:28+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Should freedom of movement be a right or a privilege?",
+            "description": "Is freedom of movement a right or a privilege?",
+            "url": "https://www.aljazeera.com/video/doha-debates/2026/11/24/should-freedom-of-movement-be-a-right-or-a-privilege?traffic_source=rss",
+            "published": "Tue, 24 Nov 2026 17:45:00 +0000",
+            "fetched": "2026-11-24T21:29:28+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Cameroon separatist leader pleads not guilty at war crimes trial in Norway",
+            "description": "Lucas Cho Ayaba is accused of remotely planning attacks that killed and injured dozens of civilians.",
+            "url": "https://www.aljazeera.com/news/2026/11/24/cameroon-separatist-leader-pleads-not-guilty-in-war-crimes-trial?traffic_source=rss",
+            "published": "Tue, 24 Nov 2026 17:39:18 +0000",
+            "fetched": "2026-11-24T21:29:28+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Five tonnes of explosives set to blow up in Iowa",
+            "description": "The US Army is preparing to detonate nearly five tonnes of unstable explosives in Iowa on Wednesday.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/five-tonnes-of-explosives-set-to-blow-up-in-iowa?traffic_source=rss",
+            "published": "Tue, 24 Nov 2026 17:33:41 +0000",
+            "fetched": "2026-11-24T21:29:28+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Little Ridge, Highland, Virginia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26661",
+            "published": "2026-11-21T23:15:00Z",
+            "fetched": "2026-11-24T21:29:28+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire White Oak Flat, Alleghany, Virginia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26662",
+            "published": "2026-11-20T13:16:00Z",
+            "fetched": "2026-11-24T21:29:28+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Greene - Caney Creek Lane, Greene, Tennessee",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26568",
+            "published": "2026-11-18T14:11:00Z",
+            "fetched": "2026-11-24T21:29:28+03:30"
+        }
+    ]
+}

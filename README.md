@@ -1,177 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-24 09:40:38
+**Last Update:** 2026-11-24 20:42:02
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** Hacker News, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Drone Maps of Salvage Yards
+### 1. Weave (YC W25) is hiring ML, AI, product, & design engineers
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://salvageyarddrone.wordpress.com/">https://salvageyarddrone.wordpress.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50623515">https://news.ycombinator.com/item?id=50623515</a></p>
-<p>Points: 30</p>
-<p># Comments: 11</p>
-
-🔗 **Read more:** [https://salvageyarddrone.wordpress.com/](https://salvageyarddrone.wordpress.com/)
-
----
-
-### 2. Show HN: Juncts, one DM inbox for five apps that Claude and ChatGPT can work in
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://juncts.com/app?demo=1&amp;utm_source=hackernews&amp;utm_medium=launch&amp;utm_campaign=launch-nov26">https://juncts.com/app?demo=1&amp;utm_source=hackernews&amp;utm_medium=launch&amp;utm_campaign=launch-nov26</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50623175">https://news.ycombinator.com/item?id=50623175</a></p>
-<p>Points: 8</p>
+<p>Article URL: <a href="https://jobs.ashbyhq.com/weave-os">https://jobs.ashbyhq.com/weave-os</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50631041">https://news.ycombinator.com/item?id=50631041</a></p>
+<p>Points: 0</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://juncts.com/app?demo=1&utm_source=hackernews&utm_medium=launch&utm_campaign=launch-nov26](https://juncts.com/app?demo=1&utm_source=hackernews&utm_medium=launch&utm_campaign=launch-nov26)
+🔗 **Read more:** [https://jobs.ashbyhq.com/weave-os](https://jobs.ashbyhq.com/weave-os)
 
 ---
 
-### 3. Making a dumb TV just smart enough
+### 2. Cyberattack campaign compromising Check Point servers across 22 organizations
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://qsantos.fr/2026/11/19/making-a-dumb-tv-just-smart-enough/">https://qsantos.fr/2026/11/19/making-a-dumb-tv-just-smart-enough/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50622934">https://news.ycombinator.com/item?id=50622934</a></p>
-<p>Points: 32</p>
-<p># Comments: 13</p>
+<p>Article URL: <a href="https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign">https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50630594">https://news.ycombinator.com/item?id=50630594</a></p>
+<p>Points: 41</p>
+<p># Comments: 14</p>
 
-🔗 **Read more:** [https://qsantos.fr/2026/11/19/making-a-dumb-tv-just-smart-enough/](https://qsantos.fr/2026/11/19/making-a-dumb-tv-just-smart-enough/)
+🔗 **Read more:** [https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign](https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign)
 
 ---
 
-### 4. How Nvidia is reacting to Jensen Huang's return as CEO
+### 3. Jetty Pro
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="http://hypercritical.co/2026/11/23/jetty-pro">http://hypercritical.co/2026/11/23/jetty-pro</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50630462">https://news.ycombinator.com/item?id=50630462</a></p>
+<p>Points: 36</p>
+<p># Comments: 5</p>
+
+🔗 **Read more:** [http://hypercritical.co/2026/11/23/jetty-pro](http://hypercritical.co/2026/11/23/jetty-pro)
+
+---
+
+### 4. Two arrested on suspicion of burglary at Prince and Princess of Wales's Norfolk home
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-BBC's Lily Jamali reports from Nvidia's headquarters, where she gauges the reaction to Huang's return after Trump says he brokered a deal.
+The break-in took place at the family's country retreat in Norfolk, on the Sandringham Estate.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr9d7qdg24vno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr9d7qdg24vno?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Chris Mason: Can Burnham turn volume down on EU debate?
+### 5. 'I'm proud of it': Killer confesses after murdering Ian Huntley
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The BBC's Chris Mason analyses what the EU conversation means for Labour and the PM.
+Triple murderer Anthony Russell said he planned to kill Ian Huntley and that he had "nothing to lose".
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6pw47jyyz5no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6pw47jyyz5no?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c60evp1g7r7no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c60evp1g7r7no?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Benefits review to suggest quicker payment for some disabled people
+### 6. Senegal reinstated as winners of the 2025 Africa Cup of Nations after appeal upheld
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The Timms review will recommend those with severe conditions will not need to be reassessed to receive Pip.
+Ten months after the 2025 Africa Cup of Nations final, Senegal are reinstated as champions following a ruling by the Court of Arbitration for Sport.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvx2xjed2r3ro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvx2xjed2r3ro?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/crn80y2l1404o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/crn80y2l1404o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Pennsylvania reports ninth measles death in ongoing state outbreak
+### 7. How Senegal got their AFCON trophy back
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-CDC and state figures on measles deaths differ as Pennsylvania faces an escalating health crisis in 46 counties.
+Al Jazeera’s Samantha Johnson examines how Senegal’s AFCON title controversy reached sport’s highest court.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/24/pennsylvania-reports-ninth-measles-death-in-ongoing-state-outbreak?traffic_source=rss](https://www.aljazeera.com/news/2026/11/24/pennsylvania-reports-ninth-measles-death-in-ongoing-state-outbreak?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/24/aje-onl-nf_how-senegal-got-their-afcon-trophy-back-241126?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/24/aje-onl-nf_how-senegal-got-their-afcon-trophy-back-241126?traffic_source=rss)
 
 ---
 
-### 8. Danish court backs ‘ghetto law’ used to evict ‘non-Western’ residents
+### 8. ‘Unfinished Beginnings’: Art installation for children affected by war
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Denmark’s Supreme Court has ruled against the ‘non-Western’ tenants evicted from Mjolnerparken housing estate.
+Artist Bachir Mohamad’s ‘Unfinished Beginnings’ uses 20,000 baby bottles to highlight children affected by war.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/24/danish-court-backs-ghetto-law-used-to-evict-non-western-residents?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/24/danish-court-backs-ghetto-law-used-to-evict-non-western-residents?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/24/unfinished-beginnings-art-installation-for-children-affected-by-war?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/24/unfinished-beginnings-art-installation-for-children-affected-by-war?traffic_source=rss)
 
 ---
 
-### 9. Car bomb strikes governor’s office in Meta, Colombia
+### 9. African rivals fret over Morocco’s growing football dominance
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A car bomb exploded in the city of Villavicencio in Colombia’s Meta Department.
+As Morocco enjoys success on and off the pitch, is it benefitting from preferential treatment, or setting an example?
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/24/car-bomb-strikes-governors-office-in-meta-colombia?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/24/car-bomb-strikes-governors-office-in-meta-colombia?traffic_source=rss)
-
----
-
-### 10. Wildfire Little Ridge, Highland, Virginia
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26661](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26661)
-
----
-
-### 11. Wildfire White Oak Flat, Alleghany, Virginia
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26662](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26662)
-
----
-
-### 12. Wildfire Greene - Caney Creek Lane, Greene, Tennessee
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26568](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26568)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/24/african-rivals-fret-over-moroccos-growing-football-dominance?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/24/african-rivals-fret-over-moroccos-growing-football-dominance?traffic_source=rss)
 
 ---
 

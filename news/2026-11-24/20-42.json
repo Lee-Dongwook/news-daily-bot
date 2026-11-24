@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-11-24T20:42:02+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
+            "description": "<p>Article URL: <a href=\"https://jobs.ashbyhq.com/weave-os\">https://jobs.ashbyhq.com/weave-os</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50631041\">https://news.ycombinator.com/item?id=50631041</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+            "url": "https://jobs.ashbyhq.com/weave-os",
+            "published": "Tue, 24 Nov 2026 17:00:55 +0000",
+            "fetched": "2026-11-24T20:42:02+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Cyberattack campaign compromising Check Point servers across 22 organizations",
+            "description": "<p>Article URL: <a href=\"https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign\">https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50630594\">https://news.ycombinator.com/item?id=50630594</a></p>\n<p>Points: 41</p>\n<p># Comments: 14</p>",
+            "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
+            "published": "Tue, 24 Nov 2026 16:32:17 +0000",
+            "fetched": "2026-11-24T20:42:02+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Jetty Pro",
+            "description": "<p>Article URL: <a href=\"http://hypercritical.co/2026/11/23/jetty-pro\">http://hypercritical.co/2026/11/23/jetty-pro</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50630462\">https://news.ycombinator.com/item?id=50630462</a></p>\n<p>Points: 36</p>\n<p># Comments: 5</p>",
+            "url": "http://hypercritical.co/2026/11/23/jetty-pro",
+            "published": "Tue, 24 Nov 2026 16:23:02 +0000",
+            "fetched": "2026-11-24T20:42:02+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Two arrested on suspicion of burglary at Prince and Princess of Wales's Norfolk home",
+            "description": "The break-in took place at the family's country retreat in Norfolk, on the Sandringham Estate.",
+            "url": "https://www.bbc.co.uk/news/articles/cr9d7qdg24vno?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 24 Nov 2026 16:19:29 GMT",
+            "fetched": "2026-11-24T20:42:02+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'I'm proud of it': Killer confesses after murdering Ian Huntley",
+            "description": "Triple murderer Anthony Russell said he planned to kill Ian Huntley and that he had \"nothing to lose\".",
+            "url": "https://www.bbc.co.uk/news/videos/c60evp1g7r7no?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 24 Nov 2026 16:24:34 GMT",
+            "fetched": "2026-11-24T20:42:02+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Senegal reinstated as winners of the 2025 Africa Cup of Nations after appeal upheld",
+            "description": "Ten months after the 2025 Africa Cup of Nations final, Senegal are reinstated as champions following a ruling by the Court of Arbitration for Sport.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/crn80y2l1404o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 24 Nov 2026 16:11:33 GMT",
+            "fetched": "2026-11-24T20:42:02+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "How Senegal got their AFCON trophy back",
+            "description": "Al Jazeera’s Samantha Johnson examines how Senegal’s AFCON title controversy reached sport’s highest court.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/aje-onl-nf_how-senegal-got-their-afcon-trophy-back-241126?traffic_source=rss",
+            "published": "Tue, 24 Nov 2026 16:41:22 +0000",
+            "fetched": "2026-11-24T20:42:02+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘Unfinished Beginnings’: Art installation for children affected by war",
+            "description": "Artist Bachir Mohamad’s ‘Unfinished Beginnings’ uses 20,000 baby bottles to highlight children affected by war.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/unfinished-beginnings-art-installation-for-children-affected-by-war?traffic_source=rss",
+            "published": "Tue, 24 Nov 2026 16:33:03 +0000",
+            "fetched": "2026-11-24T20:42:02+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "African rivals fret over Morocco’s growing football dominance",
+            "description": "As Morocco enjoys success on and off the pitch, is it benefitting from preferential treatment, or setting an example?",
+            "url": "https://www.aljazeera.com/sports/2026/11/24/african-rivals-fret-over-moroccos-growing-football-dominance?traffic_source=rss",
+            "published": "Tue, 24 Nov 2026 16:31:48 +0000",
+            "fetched": "2026-11-24T20:42:02+03:30"
+        }
+    ]
+}

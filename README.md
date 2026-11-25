@@ -1,94 +1,142 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-25 06:08:19
+**Last Update:** 2026-11-25 15:48:46
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Nuclear test veterans will get full truth, says Burnham, as he confirms independent panel
+### 1. The Riemann Hypothesis Proof as a Mediaeval Fantasy RPG Map
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://marioschlosser.org/riemann/">https://marioschlosser.org/riemann/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50640746">https://news.ycombinator.com/item?id=50640746</a></p>
+<p>Points: 18</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://marioschlosser.org/riemann/](https://marioschlosser.org/riemann/)
+
+---
+
+### 2. Show HN: Old Nvidia and ATI tech demos, running again in the browser
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://gpu-demo-gallery.pages.dev/">https://gpu-demo-gallery.pages.dev/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50638503">https://news.ycombinator.com/item?id=50638503</a></p>
+<p>Points: 161</p>
+<p># Comments: 39</p>
+
+🔗 **Read more:** [https://gpu-demo-gallery.pages.dev/](https://gpu-demo-gallery.pages.dev/)
+
+---
+
+### 3. Taking over US Treasury subdomains for $3 each
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each">https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50638478">https://news.ycombinator.com/item?id=50638478</a></p>
+<p>Points: 108</p>
+<p># Comments: 21</p>
+
+🔗 **Read more:** [https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each](https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each)
+
+---
+
+### 4. Energy bills to rise by 26% from January after gas prices surge
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The prime minister says a Hillsborough-style independent panel will examine the health legacy of Britain's Cold War-era atomic programme.
+A household using a typical amount of energy would see its annual bill rise from £1,723 to £2,166 if this level was sustained for a year.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6808k8dxvgko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6808k8dxvgko?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 2. Nuclear test veterans speak to BBC about search for justice
+### 5. Two men charged with trespass at Prince and Princess of Wales's Norfolk home
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Andy Burnham says veterans will get 'the full truth' as he confirmed plans for an investigation into the health legacy of Britain's Cold War-era atomic programme.
+The charges come after police were called to reports of suspicious activity on the Sandringham estate.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c6jrel8e50w9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c6jrel8e50w9o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx5y1987dyp6o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx5y1987dyp6o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 3. Anthony Zurcher: Trump's Nvidia intervention ties his political fortunes to the AI boom
+### 6. Third of young Brits have never had sex, but many are sexting and watching porn
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The US president's intercession to reinstate CEO Jensen Huang has inextricably linked their fates.
+More young people in Britain have never had sex, but many are sexting and watching porn.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw0737zzn50mo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw0737zzn50mo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. WHO chief urges end to US fuel blockade on Cuba
+### 7. Sinner uncertain for Australian Open after undergoing knee surgery
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-UN allocates $2m for immunisation and medical equipment as Cuban healthcare struggles with critical shortages.
+The five-time Grand Slam champion has not played a match since winning Wimbledon in July.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/25/who-chief-urges-end-to-us-fuel-blockade-on-cuba?traffic_source=rss](https://www.aljazeera.com/news/2026/11/25/who-chief-urges-end-to-us-fuel-blockade-on-cuba?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/25/sinner-uncertain-for-australian-open-after-undergoing-knee-surgery?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/25/sinner-uncertain-for-australian-open-after-undergoing-knee-surgery?traffic_source=rss)
 
 ---
 
-### 5. Senegal fans celebrate AFCON legal victory over Morocco
+### 8. After Brexit, is Britain heading back to the EU?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Senegal have been reinstated as 2025 AFCON champions after the Court of Arbitration for Sport upheld their appeal.
+A decade after the Brexit vote, a new deal brings Britain and the EU closer, with economic gains for both sides.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/25/senegal-fans-celebrate-afcon-legal-victory-over-morocco?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/25/senegal-fans-celebrate-afcon-legal-victory-over-morocco?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/counting-the-cost/2026/11/25/after-brexit-is-britain-heading-back-to-the-eu?traffic_source=rss](https://www.aljazeera.com/video/counting-the-cost/2026/11/25/after-brexit-is-britain-heading-back-to-the-eu?traffic_source=rss)
 
 ---
 
-### 6. Israel’s Eisenkot secures first coalition partner in bid to form government
+### 9. Zidane was much better than me: Bellingham after Real Madrid wonder goal
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The Yashar party says it agreed to sign a coalition pact with Israel&#039;s Our Home party, led by Avigdor Lieberman.
+Jude Bellingham admits he had &#039;no idea&#039; what he&#039;d done after scoring a goal that drew comparisons with Zinedine Zidane.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/25/israels-eisenkot-secures-first-coalition-partner-in-bid-to-form-government?traffic_source=rss](https://www.aljazeera.com/news/2026/11/25/israels-eisenkot-secures-first-coalition-partner-in-bid-to-form-government?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/25/zidane-was-much-better-than-me-bellingham-after-real-madrid-wonder-goal?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/25/zidane-was-much-better-than-me-bellingham-after-real-madrid-wonder-goal?traffic_source=rss)
 
 ---
 
-### 7. Wildfire Little Ridge, Highland, Virginia
+### 10. Wildfire Little Ridge, Highland, Virginia
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Wildfires
 
 ---
 
-### 8. Wildfire White Oak Flat, Alleghany, Virginia
+### 11. Wildfire White Oak Flat, Alleghany, Virginia
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Wildfires
 
 ---
 
-### 9. Wildfire Greene - Caney Creek Lane, Greene, Tennessee
+### 12. Wildfire Greene - Caney Creek Lane, Greene, Tennessee
 
 **Source:** NASA
 

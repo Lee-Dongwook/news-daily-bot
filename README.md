@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-25 15:48:46
+**Last Update:** 2026-11-25 16:44:35
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. The Riemann Hypothesis Proof as a Mediaeval Fantasy RPG Map
+### 1. Hazel (YC W24) Is Hiring a Product Designer
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://marioschlosser.org/riemann/">https://marioschlosser.org/riemann/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50640746">https://news.ycombinator.com/item?id=50640746</a></p>
-<p>Points: 18</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://www.ycombinator.com/companies/hazel-2/jobs/8EhsvYE-product-designer-contract">https://www.ycombinator.com/companies/hazel-2/jobs/8EhsvYE-product-designer-contract</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50641323">https://news.ycombinator.com/item?id=50641323</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://marioschlosser.org/riemann/](https://marioschlosser.org/riemann/)
+🔗 **Read more:** [https://www.ycombinator.com/companies/hazel-2/jobs/8EhsvYE-product-designer-contract](https://www.ycombinator.com/companies/hazel-2/jobs/8EhsvYE-product-designer-contract)
 
 ---
 
-### 2. Show HN: Old Nvidia and ATI tech demos, running again in the browser
+### 2. Windows Loudness Equalization, reverse-engineered and ported to PipeWire
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://gpu-demo-gallery.pages.dev/">https://gpu-demo-gallery.pages.dev/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50638503">https://news.ycombinator.com/item?id=50638503</a></p>
-<p>Points: 161</p>
-<p># Comments: 39</p>
+<p>Article URL: <a href="https://github.com/xoxorwr/pw-loudness-eq">https://github.com/xoxorwr/pw-loudness-eq</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50641171">https://news.ycombinator.com/item?id=50641171</a></p>
+<p>Points: 76</p>
+<p># Comments: 28</p>
 
-🔗 **Read more:** [https://gpu-demo-gallery.pages.dev/](https://gpu-demo-gallery.pages.dev/)
+🔗 **Read more:** [https://github.com/xoxorwr/pw-loudness-eq](https://github.com/xoxorwr/pw-loudness-eq)
 
 ---
 
-### 3. Taking over US Treasury subdomains for $3 each
+### 3. Smart People Who Give a Shit Use Tools
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each">https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50638478">https://news.ycombinator.com/item?id=50638478</a></p>
-<p>Points: 108</p>
-<p># Comments: 21</p>
+<p>Article URL: <a href="https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools">https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50639698">https://news.ycombinator.com/item?id=50639698</a></p>
+<p>Points: 29</p>
+<p># Comments: 15</p>
 
-🔗 **Read more:** [https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each](https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each)
+🔗 **Read more:** [https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools](https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools)
 
 ---
 
@@ -97,42 +97,42 @@ More young people in Britain have never had sex, but many are sexting and watchi
 
 ---
 
-### 7. Sinner uncertain for Australian Open after undergoing knee surgery
+### 7. ‘Second home’: Why Israel is celebrating Jensen Huang’s return to Nvidia
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The five-time Grand Slam champion has not played a match since winning Wimbledon in July.
+Israel&#039;s tech sector and economy have strong ties to chip giant Nvidia, which invests billions of dollars.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/25/sinner-uncertain-for-australian-open-after-undergoing-knee-surgery?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/25/sinner-uncertain-for-australian-open-after-undergoing-knee-surgery?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/11/25/second-home-why-israel-is-celebrating-jensen-huangs-return-to-nvidia?traffic_source=rss](https://www.aljazeera.com/features/2026/11/25/second-home-why-israel-is-celebrating-jensen-huangs-return-to-nvidia?traffic_source=rss)
 
 ---
 
-### 8. After Brexit, is Britain heading back to the EU?
+### 8. Solomon Islands signs security deal with Australia
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A decade after the Brexit vote, a new deal brings Britain and the EU closer, with economic gains for both sides.
+Solomon Islands will have to consult Canberra before making new security or infrastructure deals under new pact.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/counting-the-cost/2026/11/25/after-brexit-is-britain-heading-back-to-the-eu?traffic_source=rss](https://www.aljazeera.com/video/counting-the-cost/2026/11/25/after-brexit-is-britain-heading-back-to-the-eu?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/25/solomon-islands-signs-security-deal-with-australia?traffic_source=rss](https://www.aljazeera.com/news/2026/11/25/solomon-islands-signs-security-deal-with-australia?traffic_source=rss)
 
 ---
 
-### 9. Zidane was much better than me: Bellingham after Real Madrid wonder goal
+### 9. Trump to meet Abdul El-Sayed: Will he agree to a renamed Medicare-for-all?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Jude Bellingham admits he had &#039;no idea&#039; what he&#039;d done after scoring a goal that drew comparisons with Zinedine Zidane.
+Weeks after a bitter Senate race in Michigan, US president calls Democratic victor ‘a smart guy’.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/25/zidane-was-much-better-than-me-bellingham-after-real-madrid-wonder-goal?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/25/zidane-was-much-better-than-me-bellingham-after-real-madrid-wonder-goal?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/25/trump-to-meet-abdul-el-sayed-will-he-agree-to-a-renamed-medicare-for-all?traffic_source=rss](https://www.aljazeera.com/news/2026/11/25/trump-to-meet-abdul-el-sayed-will-he-agree-to-a-renamed-medicare-for-all?traffic_source=rss)
 
 ---
 

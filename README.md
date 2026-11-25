@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-26 01:41:57
+**Last Update:** 2026-11-26 02:07:50
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/lsernau/grh-lean">https://github.com/lsernau/grh-lean</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50648050">https://news.ycombinator.com/item?id=50648050</a></p>
-<p>Points: 12</p>
-<p># Comments: 4</p>
+<p>Points: 40</p>
+<p># Comments: 13</p>
 
 🔗 **Read more:** [https://github.com/lsernau/grh-lean](https://github.com/lsernau/grh-lean)
 
@@ -35,26 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://defang.io/blog/post/security-incident-november-2026/">https://defang.io/blog/post/security-incident-november-2026/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50648035">https://news.ycombinator.com/item?id=50648035</a></p>
-<p>Points: 17</p>
-<p># Comments: 1</p>
+<p>Points: 22</p>
+<p># Comments: 5</p>
 
 🔗 **Read more:** [https://defang.io/blog/post/security-incident-november-2026/](https://defang.io/blog/post/security-incident-november-2026/)
 
 ---
 
-### 3. Prof. Sam Lawler: FUCK FUCK FUCK FUCK FUCK FUCK FUCK
+### 3. The New York Times tells photographers not to use the latest Photoshop
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://mastodon.social/@sundogplanets/117678381079935502">https://mastodon.social/@sundogplanets/117678381079935502</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50648008">https://news.ycombinator.com/item?id=50648008</a></p>
-<p>Points: 17</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://www.dpreview.com/news/new-york-times-adobe-photoshop-2027-restriction-ai/">https://www.dpreview.com/news/new-york-times-adobe-photoshop-2027-restriction-ai/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50647673">https://news.ycombinator.com/item?id=50647673</a></p>
+<p>Points: 25</p>
+<p># Comments: 10</p>
 
-🔗 **Read more:** [https://mastodon.social/@sundogplanets/117678381079935502](https://mastodon.social/@sundogplanets/117678381079935502)
+🔗 **Read more:** [https://www.dpreview.com/news/new-york-times-adobe-photoshop-2027-restriction-ai/](https://www.dpreview.com/news/new-york-times-adobe-photoshop-2027-restriction-ai/)
 
 ---
 

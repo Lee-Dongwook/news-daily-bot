@@ -1,64 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-25 05:30:39
+**Last Update:** 2026-11-25 06:08:19
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Matrix Multiplication is O(n^2.25) [pdf]
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf">https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50637220">https://news.ycombinator.com/item?id=50637220</a></p>
-<p>Points: 37</p>
-<p># Comments: 4</p>
-
-🔗 **Read more:** [https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf](https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf)
-
----
-
-### 2. PenGPT: A Generative Transformer for Handwriting and Sketches
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://greydanus.github.io/2026/11/12/pengpt/">https://greydanus.github.io/2026/11/12/pengpt/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50637056">https://news.ycombinator.com/item?id=50637056</a></p>
-<p>Points: 17</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://greydanus.github.io/2026/11/12/pengpt/](https://greydanus.github.io/2026/11/12/pengpt/)
-
----
-
-### 3. Here in the World: Letters of Albert Camus, 1944–1959
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://literaryreview.co.uk/here-in-the-world">https://literaryreview.co.uk/here-in-the-world</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50636925">https://news.ycombinator.com/item?id=50636925</a></p>
-<p>Points: 16</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://literaryreview.co.uk/here-in-the-world](https://literaryreview.co.uk/here-in-the-world)
-
----
-
-### 4. Nuclear test veterans will get full truth, says Burnham, as he confirms independent panel
+### 1. Nuclear test veterans will get full truth, says Burnham, as he confirms independent panel
 
 **Source:** BBC
 
@@ -71,7 +23,7 @@ The prime minister says a Hillsborough-style independent panel will examine the 
 
 ---
 
-### 5. Nuclear test veterans speak to BBC about search for justice
+### 2. Nuclear test veterans speak to BBC about search for justice
 
 **Source:** BBC
 
@@ -84,7 +36,7 @@ Andy Burnham says veterans will get 'the full truth' as he confirmed plans for a
 
 ---
 
-### 6. Anthony Zurcher: Trump's Nvidia intervention ties his political fortunes to the AI boom
+### 3. Anthony Zurcher: Trump's Nvidia intervention ties his political fortunes to the AI boom
 
 **Source:** BBC
 
@@ -97,7 +49,33 @@ The US president's intercession to reinstate CEO Jensen Huang has inextricably l
 
 ---
 
-### 7. Israel’s Eisenkot secures first coalition partner in bid to form government
+### 4. WHO chief urges end to US fuel blockade on Cuba
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+UN allocates $2m for immunisation and medical equipment as Cuban healthcare struggles with critical shortages.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/25/who-chief-urges-end-to-us-fuel-blockade-on-cuba?traffic_source=rss](https://www.aljazeera.com/news/2026/11/25/who-chief-urges-end-to-us-fuel-blockade-on-cuba?traffic_source=rss)
+
+---
+
+### 5. Senegal fans celebrate AFCON legal victory over Morocco
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Senegal have been reinstated as 2025 AFCON champions after the Court of Arbitration for Sport upheld their appeal.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/25/senegal-fans-celebrate-afcon-legal-victory-over-morocco?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/25/senegal-fans-celebrate-afcon-legal-victory-over-morocco?traffic_source=rss)
+
+---
+
+### 6. Israel’s Eisenkot secures first coalition partner in bid to form government
 
 **Source:** Al Jazeera
 
@@ -110,33 +88,7 @@ The Yashar party says it agreed to sign a coalition pact with Israel&#039;s Our 
 
 ---
 
-### 8. Iran whips singer Parastoo Ahmadi 74 times over YouTube concert
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Iranian authorities have lashed singer Parastoo Ahmadi over a 2024 performance streamed live on YouTube.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/25/iran-whips-singer-parastoo-ahmadi-74-times-over-youtube-concert?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/25/iran-whips-singer-parastoo-ahmadi-74-times-over-youtube-concert?traffic_source=rss)
-
----
-
-### 9. Poll finds US voters want government to end Iran war regardless of terms
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-New survey finds that 55 percent of voters, including 80 percent of Democrats, want war brought to an end immediately.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/25/poll-finds-us-voters-want-government-to-end-iran-war-regardless-of-terms?traffic_source=rss](https://www.aljazeera.com/news/2026/11/25/poll-finds-us-voters-want-government-to-end-iran-war-regardless-of-terms?traffic_source=rss)
-
----
-
-### 10. Wildfire Little Ridge, Highland, Virginia
+### 7. Wildfire Little Ridge, Highland, Virginia
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Wildfires
 
 ---
 
-### 11. Wildfire White Oak Flat, Alleghany, Virginia
+### 8. Wildfire White Oak Flat, Alleghany, Virginia
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Wildfire Greene - Caney Creek Lane, Greene, Tennessee
+### 9. Wildfire Greene - Caney Creek Lane, Greene, Tennessee
 
 **Source:** NASA
 

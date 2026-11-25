@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-25 16:44:35
+**Last Update:** 2026-11-26 01:41:57
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Hazel (YC W24) Is Hiring a Product Designer
+### 1. Much shorter version of GRH Lean verification from Anthropic
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.ycombinator.com/companies/hazel-2/jobs/8EhsvYE-product-designer-contract">https://www.ycombinator.com/companies/hazel-2/jobs/8EhsvYE-product-designer-contract</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50641323">https://news.ycombinator.com/item?id=50641323</a></p>
-<p>Points: 0</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://github.com/lsernau/grh-lean">https://github.com/lsernau/grh-lean</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50648050">https://news.ycombinator.com/item?id=50648050</a></p>
+<p>Points: 12</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://www.ycombinator.com/companies/hazel-2/jobs/8EhsvYE-product-designer-contract](https://www.ycombinator.com/companies/hazel-2/jobs/8EhsvYE-product-designer-contract)
+🔗 **Read more:** [https://github.com/lsernau/grh-lean](https://github.com/lsernau/grh-lean)
 
 ---
 
-### 2. Windows Loudness Equalization, reverse-engineered and ported to PipeWire
+### 2. Defang Security Incident
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/xoxorwr/pw-loudness-eq">https://github.com/xoxorwr/pw-loudness-eq</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50641171">https://news.ycombinator.com/item?id=50641171</a></p>
-<p>Points: 76</p>
-<p># Comments: 28</p>
+<p>Article URL: <a href="https://defang.io/blog/post/security-incident-november-2026/">https://defang.io/blog/post/security-incident-november-2026/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50648035">https://news.ycombinator.com/item?id=50648035</a></p>
+<p>Points: 17</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://github.com/xoxorwr/pw-loudness-eq](https://github.com/xoxorwr/pw-loudness-eq)
+🔗 **Read more:** [https://defang.io/blog/post/security-incident-november-2026/](https://defang.io/blog/post/security-incident-november-2026/)
 
 ---
 
-### 3. Smart People Who Give a Shit Use Tools
+### 3. Prof. Sam Lawler: FUCK FUCK FUCK FUCK FUCK FUCK FUCK
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools">https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50639698">https://news.ycombinator.com/item?id=50639698</a></p>
-<p>Points: 29</p>
-<p># Comments: 15</p>
+<p>Article URL: <a href="https://mastodon.social/@sundogplanets/117678381079935502">https://mastodon.social/@sundogplanets/117678381079935502</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50648008">https://news.ycombinator.com/item?id=50648008</a></p>
+<p>Points: 17</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools](https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools)
+🔗 **Read more:** [https://mastodon.social/@sundogplanets/117678381079935502](https://mastodon.social/@sundogplanets/117678381079935502)
 
 ---
 
-### 4. Energy bills to rise by 26% from January after gas prices surge
+### 4. Poundland collapses putting 11,000 jobs at risk
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-A household using a typical amount of energy would see its annual bill rise from £1,723 to £2,166 if this level was sustained for a year.
+The discount chain has fallen into administration after its owners failed to find a buyer.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Two men charged with trespass at Prince and Princess of Wales's Norfolk home
+### 5. Why has Poundland collapsed and what happens next?
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The charges come after police were called to reports of suspicious activity on the Sandringham estate.
+The retail chain has collapsed just one year after being bought for £1 by an American firm.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx5y1987dyp6o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx5y1987dyp6o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/ckregn0gq2ydo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/ckregn0gq2ydo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Third of young Brits have never had sex, but many are sexting and watching porn
+### 6. US announces new tariff proposals on EU, China, and other trade partners
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-More young people in Britain have never had sex, but many are sexting and watching porn.
+The new levies would hit many of America's biggest trading partners, including China and the EU.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw0737zzn50mo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw0737zzn50mo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. ‘Second home’: Why Israel is celebrating Jensen Huang’s return to Nvidia
+### 7. Winter rains threaten 1,000 Gaza shelter sites, councils warn
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israel&#039;s tech sector and economy have strong ties to chip giant Nvidia, which invests billions of dollars.
+About 200,000 tents need replacing, Gaza’s municipalities say, as the EU urges Israel to reopen all crossings.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/11/25/second-home-why-israel-is-celebrating-jensen-huangs-return-to-nvidia?traffic_source=rss](https://www.aljazeera.com/features/2026/11/25/second-home-why-israel-is-celebrating-jensen-huangs-return-to-nvidia?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/25/winter-rains-threaten-1000-gaza-shelter-sites-councils-warn?traffic_source=rss](https://www.aljazeera.com/news/2026/11/25/winter-rains-threaten-1000-gaza-shelter-sites-councils-warn?traffic_source=rss)
 
 ---
 
-### 8. Solomon Islands signs security deal with Australia
+### 8. US Education Department probes Virginia schools after sexual abuse scandal
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Solomon Islands will have to consult Canberra before making new security or infrastructure deals under new pact.
+Virginia schools face scrutiny after revelations of abuse and widespread failures in mandatory staff background checks.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/25/solomon-islands-signs-security-deal-with-australia?traffic_source=rss](https://www.aljazeera.com/news/2026/11/25/solomon-islands-signs-security-deal-with-australia?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/25/us-education-department-probes-virginia-schools-after-sexual-abuse-scandal?traffic_source=rss](https://www.aljazeera.com/news/2026/11/25/us-education-department-probes-virginia-schools-after-sexual-abuse-scandal?traffic_source=rss)
 
 ---
 
-### 9. Trump to meet Abdul El-Sayed: Will he agree to a renamed Medicare-for-all?
+### 9. Baby Aliyah steals the show during Australian Senate debate
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Weeks after a bitter Senate race in Michigan, US president calls Democratic victor ‘a smart guy’.
+Australian Senator Fatima Payman addressed the Senate with her six-month-old daughter, Aliyah, in her arms
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/25/trump-to-meet-abdul-el-sayed-will-he-agree-to-a-renamed-medicare-for-all?traffic_source=rss](https://www.aljazeera.com/news/2026/11/25/trump-to-meet-abdul-el-sayed-will-he-agree-to-a-renamed-medicare-for-all?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/25/baby-aliyah-steals-the-show-during-australian-senate-debate?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/25/baby-aliyah-steals-the-show-during-australian-senate-debate?traffic_source=rss)
 
 ---
 

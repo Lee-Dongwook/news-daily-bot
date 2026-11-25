@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-24 21:29:28
+**Last Update:** 2026-11-25 05:30:39
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Enron Employees Give Kenneth Lay a Standing Ovation Upon His Return as CEO
+### 1. Matrix Multiplication is O(n^2.25) [pdf]
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://daringfireball.net/linked/2026/11/24/enron-ovation-1991">https://daringfireball.net/linked/2026/11/24/enron-ovation-1991</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50631647">https://news.ycombinator.com/item?id=50631647</a></p>
-<p>Points: 5</p>
+<p>Article URL: <a href="https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf">https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50637220">https://news.ycombinator.com/item?id=50637220</a></p>
+<p>Points: 37</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf](https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf)
+
+---
+
+### 2. PenGPT: A Generative Transformer for Handwriting and Sketches
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://greydanus.github.io/2026/11/12/pengpt/">https://greydanus.github.io/2026/11/12/pengpt/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50637056">https://news.ycombinator.com/item?id=50637056</a></p>
+<p>Points: 17</p>
 <p># Comments: 1</p>
 
-🔗 **Read more:** [https://daringfireball.net/linked/2026/11/24/enron-ovation-1991](https://daringfireball.net/linked/2026/11/24/enron-ovation-1991)
+🔗 **Read more:** [https://greydanus.github.io/2026/11/12/pengpt/](https://greydanus.github.io/2026/11/12/pengpt/)
 
 ---
 
-### 2. Top MIT Physicist: Anthropic Staff Openly Talk About 'Taking over the World'
+### 3. Here in the World: Letters of Albert Camus, 1944–1959
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/">https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50631210">https://news.ycombinator.com/item?id=50631210</a></p>
-<p>Points: 35</p>
-<p># Comments: 7</p>
+<p>Article URL: <a href="https://literaryreview.co.uk/here-in-the-world">https://literaryreview.co.uk/here-in-the-world</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50636925">https://news.ycombinator.com/item?id=50636925</a></p>
+<p>Points: 16</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/](https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/)
-
----
-
-### 3. Microsoft declares 'Code Red' after historic outage, internal memos show
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/">https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50631157">https://news.ycombinator.com/item?id=50631157</a></p>
-<p>Points: 13</p>
-<p># Comments: 14</p>
-
-🔗 **Read more:** [https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/](https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/)
+🔗 **Read more:** [https://literaryreview.co.uk/here-in-the-world](https://literaryreview.co.uk/here-in-the-world)
 
 ---
 
-### 4. Disability benefit review calls for closer link with claimant costs
+### 4. Nuclear test veterans will get full truth, says Burnham, as he confirms independent panel
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-A government-commissioned report calls for a "rebalancing" of the amount paid to different claimants.
+The prime minister says a Hillsborough-style independent panel will examine the health legacy of Britain's Cold War-era atomic programme.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm4gn6gn9057o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm4gn6gn9057o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6808k8dxvgko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6808k8dxvgko?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Two arrested on suspicion of burglary at Prince and Princess of Wales's Norfolk home
+### 5. Nuclear test veterans speak to BBC about search for justice
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The break-in took place at the family's country retreat in Norfolk, on the Sandringham Estate.
+Andy Burnham says veterans will get 'the full truth' as he confirmed plans for an investigation into the health legacy of Britain's Cold War-era atomic programme.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr9d7qdg24vno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr9d7qdg24vno?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c6jrel8e50w9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c6jrel8e50w9o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Nvidia shares slide as Trump's role in Jensen Huang's comeback questioned by US politicians
+### 6. Anthony Zurcher: Trump's Nvidia intervention ties his political fortunes to the AI boom
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Nvidia's stock market value surged on the annoucement of Huang's reappointment, but some of the gains reversed in Tuesday trading.
+The US president's intercession to reinstate CEO Jensen Huang has inextricably linked their fates.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Should freedom of movement be a right or a privilege?
+### 7. Israel’s Eisenkot secures first coalition partner in bid to form government
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Is freedom of movement a right or a privilege?
+The Yashar party says it agreed to sign a coalition pact with Israel&#039;s Our Home party, led by Avigdor Lieberman.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/doha-debates/2026/11/24/should-freedom-of-movement-be-a-right-or-a-privilege?traffic_source=rss](https://www.aljazeera.com/video/doha-debates/2026/11/24/should-freedom-of-movement-be-a-right-or-a-privilege?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/25/israels-eisenkot-secures-first-coalition-partner-in-bid-to-form-government?traffic_source=rss](https://www.aljazeera.com/news/2026/11/25/israels-eisenkot-secures-first-coalition-partner-in-bid-to-form-government?traffic_source=rss)
 
 ---
 
-### 8. Cameroon separatist leader pleads not guilty at war crimes trial in Norway
+### 8. Iran whips singer Parastoo Ahmadi 74 times over YouTube concert
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Lucas Cho Ayaba is accused of remotely planning attacks that killed and injured dozens of civilians.
+Iranian authorities have lashed singer Parastoo Ahmadi over a 2024 performance streamed live on YouTube.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/24/cameroon-separatist-leader-pleads-not-guilty-in-war-crimes-trial?traffic_source=rss](https://www.aljazeera.com/news/2026/11/24/cameroon-separatist-leader-pleads-not-guilty-in-war-crimes-trial?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/25/iran-whips-singer-parastoo-ahmadi-74-times-over-youtube-concert?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/25/iran-whips-singer-parastoo-ahmadi-74-times-over-youtube-concert?traffic_source=rss)
 
 ---
 
-### 9. Five tonnes of explosives set to blow up in Iowa
+### 9. Poll finds US voters want government to end Iran war regardless of terms
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The US Army is preparing to detonate nearly five tonnes of unstable explosives in Iowa on Wednesday.
+New survey finds that 55 percent of voters, including 80 percent of Democrats, want war brought to an end immediately.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/24/five-tonnes-of-explosives-set-to-blow-up-in-iowa?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/24/five-tonnes-of-explosives-set-to-blow-up-in-iowa?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/25/poll-finds-us-voters-want-government-to-end-iran-war-regardless-of-terms?traffic_source=rss](https://www.aljazeera.com/news/2026/11/25/poll-finds-us-voters-want-government-to-end-iran-war-regardless-of-terms?traffic_source=rss)
 
 ---
 

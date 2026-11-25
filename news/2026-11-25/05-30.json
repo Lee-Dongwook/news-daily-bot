@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-25T05:30:39+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Matrix Multiplication is O(n^2.25) [pdf]",
+            "description": "<p>Article URL: <a href=\"https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf\">https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50637220\">https://news.ycombinator.com/item?id=50637220</a></p>\n<p>Points: 37</p>\n<p># Comments: 4</p>",
+            "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+            "published": "Wed, 25 Nov 2026 01:19:26 +0000",
+            "fetched": "2026-11-25T05:30:39+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+            "description": "<p>Article URL: <a href=\"https://greydanus.github.io/2026/11/12/pengpt/\">https://greydanus.github.io/2026/11/12/pengpt/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50637056\">https://news.ycombinator.com/item?id=50637056</a></p>\n<p>Points: 17</p>\n<p># Comments: 1</p>",
+            "url": "https://greydanus.github.io/2026/11/12/pengpt/",
+            "published": "Wed, 25 Nov 2026 00:54:49 +0000",
+            "fetched": "2026-11-25T05:30:39+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Here in the World: Letters of Albert Camus, 1944–1959",
+            "description": "<p>Article URL: <a href=\"https://literaryreview.co.uk/here-in-the-world\">https://literaryreview.co.uk/here-in-the-world</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50636925\">https://news.ycombinator.com/item?id=50636925</a></p>\n<p>Points: 16</p>\n<p># Comments: 0</p>",
+            "url": "https://literaryreview.co.uk/here-in-the-world",
+            "published": "Wed, 25 Nov 2026 00:36:43 +0000",
+            "fetched": "2026-11-25T05:30:39+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Nuclear test veterans will get full truth, says Burnham, as he confirms independent panel",
+            "description": "The prime minister says a Hillsborough-style independent panel will examine the health legacy of Britain's Cold War-era atomic programme.",
+            "url": "https://www.bbc.co.uk/news/articles/c6808k8dxvgko?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 24 Nov 2026 22:49:41 GMT",
+            "fetched": "2026-11-25T05:30:39+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Nuclear test veterans speak to BBC about search for justice",
+            "description": "Andy Burnham says veterans will get 'the full truth' as he confirmed plans for an investigation into the health legacy of Britain's Cold War-era atomic programme.",
+            "url": "https://www.bbc.co.uk/news/videos/c6jrel8e50w9o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 24 Nov 2026 22:45:03 GMT",
+            "fetched": "2026-11-25T05:30:39+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Anthony Zurcher: Trump's Nvidia intervention ties his political fortunes to the AI boom",
+            "description": "The US president's intercession to reinstate CEO Jensen Huang has inextricably linked their fates.",
+            "url": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 25 Nov 2026 01:03:05 GMT",
+            "fetched": "2026-11-25T05:30:39+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israel’s Eisenkot secures first coalition partner in bid to form government",
+            "description": "The Yashar party says it agreed to sign a coalition pact with Israel&#039;s Our Home party, led by Avigdor Lieberman.",
+            "url": "https://www.aljazeera.com/news/2026/11/25/israels-eisenkot-secures-first-coalition-partner-in-bid-to-form-government?traffic_source=rss",
+            "published": "Wed, 25 Nov 2026 01:30:44 +0000",
+            "fetched": "2026-11-25T05:30:39+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran whips singer Parastoo Ahmadi 74 times over YouTube concert",
+            "description": "Iranian authorities have lashed singer Parastoo Ahmadi over a 2024 performance streamed live on YouTube.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/iran-whips-singer-parastoo-ahmadi-74-times-over-youtube-concert?traffic_source=rss",
+            "published": "Wed, 25 Nov 2026 01:21:02 +0000",
+            "fetched": "2026-11-25T05:30:39+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Poll finds US voters want government to end Iran war regardless of terms",
+            "description": "New survey finds that 55 percent of voters, including 80 percent of Democrats, want war brought to an end immediately.",
+            "url": "https://www.aljazeera.com/news/2026/11/25/poll-finds-us-voters-want-government-to-end-iran-war-regardless-of-terms?traffic_source=rss",
+            "published": "Wed, 25 Nov 2026 01:14:22 +0000",
+            "fetched": "2026-11-25T05:30:39+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Little Ridge, Highland, Virginia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26661",
+            "published": "2026-11-21T23:15:00Z",
+            "fetched": "2026-11-25T05:30:39+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire White Oak Flat, Alleghany, Virginia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26662",
+            "published": "2026-11-20T13:16:00Z",
+            "fetched": "2026-11-25T05:30:39+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Greene - Caney Creek Lane, Greene, Tennessee",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26568",
+            "published": "2026-11-18T14:11:00Z",
+            "fetched": "2026-11-25T05:30:39+03:30"
+        }
+    ]
+}

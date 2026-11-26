@@ -1,94 +1,142 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-26 19:00:05
+**Last Update:** 2026-11-27 03:03:12
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. How the train attack unfolded - carriage by carriage
+### 1. AI made self-hosting fun again
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://janlukas.blog/posts/ai-self-hosting">https://janlukas.blog/posts/ai-self-hosting</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50660180">https://news.ycombinator.com/item?id=50660180</a></p>
+<p>Points: 117</p>
+<p># Comments: 68</p>
+
+🔗 **Read more:** [https://janlukas.blog/posts/ai-self-hosting](https://janlukas.blog/posts/ai-self-hosting)
+
+---
+
+### 2. Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/">https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50659841">https://news.ycombinator.com/item?id=50659841</a></p>
+<p>Points: 171</p>
+<p># Comments: 28</p>
+
+🔗 **Read more:** [https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/](https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/)
+
+---
+
+### 3. Company Culture = Slack Emoji ÷ √Headcount
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://lia.mg/posts/measuring-company-culture-with-slack-emoji/">https://lia.mg/posts/measuring-company-culture-with-slack-emoji/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50659640">https://news.ycombinator.com/item?id=50659640</a></p>
+<p>Points: 56</p>
+<p># Comments: 5</p>
+
+🔗 **Read more:** [https://lia.mg/posts/measuring-company-culture-with-slack-emoji/](https://lia.mg/posts/measuring-company-culture-with-slack-emoji/)
+
+---
+
+### 4. Huntingdon train attacker found guilty of all 14 counts of attempted murder
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-In five terrifying minutes, Anthony Williams stabbed passengers on a train between Peterborough and London. This is how it happened.
+Anthony Williams, 33, is convicted of 10 attacks on a train and four in Peterborough and London.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck987119nl10o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck987119nl10o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck053j37yr9lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck053j37yr9lo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 2. UK net migration at lowest level since 1997 as asylum claims also fall
+### 5. Knifeman told doctor his psychosis drugs weren't working days before Huntingdon attack
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Net migration figures of 77,000 in the year to the end of June mark the lowest this century outside of the Covid pandemic.
+Now his trial has concluded over the LNER train attack, we can report Anthony Williams' long history of criminality.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq36gj12n0l3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq36gj12n0l3o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck62p4pzg4qyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck62p4pzg4qyo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 3. German boat dealer suspected of supplying Channel smuggling gangs, BBC finds
+### 6. Zelensky questions 'strange' Trump-Putin friendship in BBC interview
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Nearly a third of crossings in early 2026 allegedly involved boats or engines from the German man's firm.
+The Ukrainian president tells the BBC that Russia's Vladimir Putin should not be treated as a friend.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqlymky8kpzjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqlymky8kpzjo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cm9309nwk7x9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cm9309nwk7x9o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. Andalusia offers a glimpse of Spain’s future as the far right gains ground
+### 7. Israeli settlers damage Palestinian family’s homes in West Bank attack
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ahead of Sunday&#039;s election, Andalusia signals Vox’s rise as immigration and right-wing alliances reshape politics.
+The Tubasi family was forced out months ago and has been denied a return by settlers despite an Israeli court order.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/26/andalusia-offers-a-glimpse-of-spains-future-as-the-far-right-gains-ground?traffic_source=rss](https://www.aljazeera.com/news/2026/11/26/andalusia-offers-a-glimpse-of-spains-future-as-the-far-right-gains-ground?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/26/israeli-settlers-damage-palestinian-familys-homes-in-west-bank-attack?traffic_source=rss](https://www.aljazeera.com/news/2026/11/26/israeli-settlers-damage-palestinian-familys-homes-in-west-bank-attack?traffic_source=rss)
 
 ---
 
-### 5. Why is Italy angry with Ukraine for striking Russian ships off Libya?
+### 8. In Canada, Quebec’s religious symbols ban faces a Supreme Court test
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Analysts say Rome fears instability in Libya could hurt its energy interests and efforts to curb irregular migration.
+Canada’s top court weighs Bill 21, the Quebec law that shapes where Muslim women can work and where they feel welcome.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/26/why-is-italy-angry-with-ukraine-for-striking-russian-ships-off-libya?traffic_source=rss](https://www.aljazeera.com/news/2026/11/26/why-is-italy-angry-with-ukraine-for-striking-russian-ships-off-libya?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/11/26/in-canada-quebecs-religious-symbols-ban-faces-a-supreme-court-test?traffic_source=rss](https://www.aljazeera.com/features/2026/11/26/in-canada-quebecs-religious-symbols-ban-faces-a-supreme-court-test?traffic_source=rss)
 
 ---
 
-### 6. UN ruling disputes Israeli allegations used to dismiss UNRWA Gaza staff
+### 9. Report: CIA tortured more people with waterboarding than US agency admitted
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Tribunal raises questions about the credibility of UNRWA&#039;s decision to dismiss its staff without substantiated evidence.
+A New York Times report lends credence to long-held belief that torture method was more widely used than acknowledged.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/26/un-ruling-disputes-israeli-allegations-used-to-dismiss-unrwa-gaza-staff?traffic_source=rss](https://www.aljazeera.com/news/2026/11/26/un-ruling-disputes-israeli-allegations-used-to-dismiss-unrwa-gaza-staff?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/26/report-cia-tortured-more-people-with-waterboarding-than-us-agency-admitted?traffic_source=rss](https://www.aljazeera.com/news/2026/11/26/report-cia-tortured-more-people-with-waterboarding-than-us-agency-admitted?traffic_source=rss)
 
 ---
 
-### 7. Wildfire Little Ridge, Highland, Virginia
+### 10. Wildfire Little Ridge, Highland, Virginia
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Wildfires
 
 ---
 
-### 8. Wildfire White Oak Flat, Alleghany, Virginia
+### 11. Wildfire White Oak Flat, Alleghany, Virginia
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Wildfires
 
 ---
 
-### 9. Wildfire Greene - Caney Creek Lane, Greene, Tennessee
+### 12. Wildfire Greene - Caney Creek Lane, Greene, Tennessee
 
 **Source:** NASA
 

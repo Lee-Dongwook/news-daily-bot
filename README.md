@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-26 08:14:46
+**Last Update:** 2026-11-26 08:43:34
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
@@ -19,7 +19,7 @@
 **Description:**
 <p>Article URL: <a href="https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top">https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50651158">https://news.ycombinator.com/item?id=50651158</a></p>
-<p>Points: 5</p>
+<p>Points: 10</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top](https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top)
@@ -35,27 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://twitter.com/thsottiaux/status/2125784147889393806">https://twitter.com/thsottiaux/status/2125784147889393806</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50651117">https://news.ycombinator.com/item?id=50651117</a></p>
-<p>Points: 15</p>
-<p># Comments: 1</p>
+<p>Points: 53</p>
+<p># Comments: 27</p>
 
 🔗 **Read more:** [https://twitter.com/thsottiaux/status/2125784147889393806](https://twitter.com/thsottiaux/status/2125784147889393806)
 
 ---
 
-### 3. Show HN: Olumino, a Markdown notes and spaced repetition app
+### 3. Minipg: PostgreSQL as a Single Executable
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>I was inspired by Mochi, but wanted to make something that worked a little differently.<p>I also added Japanese flashcard support, including kana readings, for anyone learning the language.<p>I’m a CS student building this in my free time, so I’d love to hear what people think!</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50651099">https://news.ycombinator.com/item?id=50651099</a></p>
-<p>Points: 4</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://progrium.github.io/minipg/">https://progrium.github.io/minipg/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50650892">https://news.ycombinator.com/item?id=50650892</a></p>
+<p>Points: 21</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://olumino.app](https://olumino.app)
+🔗 **Read more:** [https://progrium.github.io/minipg/](https://progrium.github.io/minipg/)
 
 ---
 
@@ -72,33 +71,59 @@ The BBC understands the treaties contain a 10-year termination clause to reimbur
 
 ---
 
-### 5. US approves SpaceX plan to send a million data satellites to space
+### 5. German boat dealer suspected of supplying Channel smuggling gangs, BBC finds
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.
+Nearly a third of crossings in early 2026 allegedly involved boats or engines from the German man's firm.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqlymky8kpzjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqlymky8kpzjo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Stalking law simplified to become one offence
+### 6. Watch: BBC confronts German man suspected of supplying migrant gangs with small boats
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The new stalking offence will be introduced after a review found existing legislation was confusing.
+Nearly a third of crossings in early 2026 allegedly involved boats or engines from Marvin Reuter's firm.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c8lydnlkq7xno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c8lydnlkq7xno?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cvglrz5yr79go?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cvglrz5yr79go?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Racecourse office blown away in Brazil
+### 7. Six killed, including children, in plane crash off Mississippi coast
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+US authorities are investigating the reason behind the crash that killed members of the Stokes and Knox families.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/26/six-killed-including-children-in-plane-crash-off-mississippi-coast?traffic_source=rss](https://www.aljazeera.com/news/2026/11/26/six-killed-including-children-in-plane-crash-off-mississippi-coast?traffic_source=rss)
+
+---
+
+### 8. Brazil blasts ‘unacceptable’ new US tariff proposals
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+President Lula’s office says Brazil will not yield to threats and aims for a negotiated resolution.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/26/brazil-blasts-unacceptable-new-us-tariff-proposals?traffic_source=rss](https://www.aljazeera.com/news/2026/11/26/brazil-blasts-unacceptable-new-us-tariff-proposals?traffic_source=rss)
+
+---
+
+### 9. Racecourse office blown away in Brazil
 
 **Source:** Al Jazeera
 
@@ -108,32 +133,6 @@ The new stalking offence will be introduced after a review found existing legisl
 A powerful storm shattered windows and sent debris flying inside a racetrack office in Brazil.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/26/racecourse-office-blown-away-in-brazil?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/26/racecourse-office-blown-away-in-brazil?traffic_source=rss)
-
----
-
-### 8. Colombian president taunts arrested supermarket hostage-takers
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Colombia’s president has confronted the men who held 76 people hostage at a Cartagena supermarket.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/26/colombian-president-taunts-arrested-supermarket-hostage-takers?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/26/colombian-president-taunts-arrested-supermarket-hostage-takers?traffic_source=rss)
-
----
-
-### 9. Anthropic CEO Amodei denies wanting humanity to ‘surrender’ free will to AI
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Dario Amodei&#039;s remarks come amid predictions that AI may soon match or surpass human intelligence.
-
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/11/26/anthropic-ceo-amodei-denies-wanting-humanity-to-surrender-free-will-to-ai?traffic_source=rss](https://www.aljazeera.com/economy/2026/11/26/anthropic-ceo-amodei-denies-wanting-humanity-to-surrender-free-will-to-ai?traffic_source=rss)
 
 ---
 

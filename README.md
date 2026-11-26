@@ -1,63 +1,29 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-26 18:18:43
+**Last Update:** 2026-11-26 19:00:05
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** NASA, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Head of Software Engineering – NOX Metals
+### 1. How the train attack unfolded - carriage by carriage
 
-**Source:** Hacker News
+**Source:** BBC
 
-**Category:** technology
+**Category:** world
 
 **Description:**
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50654353">https://news.ycombinator.com/item?id=50654353</a></p>
-<p>Points: 0</p>
-<p># Comments: 0</p>
+In five terrifying minutes, Anthony Williams stabbed passengers on a train between Peterborough and London. This is how it happened.
 
-🔗 **Read more:** [https://news.ycombinator.com/item?id=50654353](https://news.ycombinator.com/item?id=50654353)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck987119nl10o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck987119nl10o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 2. Euro-Office comes to your desktop with the Nextcloud Office Desktop app
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/">https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50654289">https://news.ycombinator.com/item?id=50654289</a></p>
-<p>Points: 162</p>
-<p># Comments: 61</p>
-
-🔗 **Read more:** [https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/](https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/)
-
----
-
-### 3. Intel One Mono font
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/intel/intel-one-mono">https://github.com/intel/intel-one-mono</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50653667">https://news.ycombinator.com/item?id=50653667</a></p>
-<p>Points: 227</p>
-<p># Comments: 137</p>
-
-🔗 **Read more:** [https://github.com/intel/intel-one-mono](https://github.com/intel/intel-one-mono)
-
----
-
-### 4. UK net migration at lowest level since 1997 as asylum claims also fall
+### 2. UK net migration at lowest level since 1997 as asylum claims also fall
 
 **Source:** BBC
 
@@ -70,7 +36,7 @@ Net migration figures of 77,000 in the year to the end of June mark the lowest t
 
 ---
 
-### 5. German boat dealer suspected of supplying Channel smuggling gangs, BBC finds
+### 3. German boat dealer suspected of supplying Channel smuggling gangs, BBC finds
 
 **Source:** BBC
 
@@ -83,59 +49,46 @@ Nearly a third of crossings in early 2026 allegedly involved boats or engines fr
 
 ---
 
-### 6. Watch: BBC confronts German man suspected of supplying migrant gangs with small boats
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Nearly a third of crossings in early 2026 allegedly involved boats or engines from Marvin Reuter's firm.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cvglrz5yr79go?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cvglrz5yr79go?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Can Trump continue with Iran war despite funding restrictions?
+### 4. Andalusia offers a glimpse of Spain’s future as the far right gains ground
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A Congress budget bill could serve as a pressure tactic on Trump to end the war but could also trigger a shutdown.
+Ahead of Sunday&#039;s election, Andalusia signals Vox’s rise as immigration and right-wing alliances reshape politics.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/26/can-trump-continue-with-iran-war-despite-funding-restrictions?traffic_source=rss](https://www.aljazeera.com/news/2026/11/26/can-trump-continue-with-iran-war-despite-funding-restrictions?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/26/andalusia-offers-a-glimpse-of-spains-future-as-the-far-right-gains-ground?traffic_source=rss](https://www.aljazeera.com/news/2026/11/26/andalusia-offers-a-glimpse-of-spains-future-as-the-far-right-gains-ground?traffic_source=rss)
 
 ---
 
-### 8. How an oil feud is deepening rift between Baghdad and Iraq’s Kurdish region
+### 5. Why is Italy angry with Ukraine for striking Russian ships off Libya?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Prime Minister al-Zaidi&#039;s move to take control of border crossings and oilfields has drawn a sharp response from Erbil.
+Analysts say Rome fears instability in Libya could hurt its energy interests and efforts to curb irregular migration.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/26/how-an-oil-feud-is-deepening-rift-between-baghdad-and-iraqs-kurdish-region?traffic_source=rss](https://www.aljazeera.com/news/2026/11/26/how-an-oil-feud-is-deepening-rift-between-baghdad-and-iraqs-kurdish-region?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/26/why-is-italy-angry-with-ukraine-for-striking-russian-ships-off-libya?traffic_source=rss](https://www.aljazeera.com/news/2026/11/26/why-is-italy-angry-with-ukraine-for-striking-russian-ships-off-libya?traffic_source=rss)
 
 ---
 
-### 9. Inside Liberland, the crypto ‘country’ few have heard of
+### 6. UN ruling disputes Israeli allegations used to dismiss UNRWA Gaza staff
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Al Jazeera&#039;s Antoine Allen reports on a group of people trying to build a tax-free nation.
+Tribunal raises questions about the credibility of UNRWA&#039;s decision to dismiss its staff without substantiated evidence.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/26/inside-liberland-the-crypto-country-few-have-heard-of?traffic_source=rss](https://www.aljazeera.com/news/2026/11/26/inside-liberland-the-crypto-country-few-have-heard-of?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/26/un-ruling-disputes-israeli-allegations-used-to-dismiss-unrwa-gaza-staff?traffic_source=rss](https://www.aljazeera.com/news/2026/11/26/un-ruling-disputes-israeli-allegations-used-to-dismiss-unrwa-gaza-staff?traffic_source=rss)
 
 ---
 
-### 10. Wildfire Little Ridge, Highland, Virginia
+### 7. Wildfire Little Ridge, Highland, Virginia
 
 **Source:** NASA
 
@@ -148,7 +101,7 @@ Natural event: Wildfires
 
 ---
 
-### 11. Wildfire White Oak Flat, Alleghany, Virginia
+### 8. Wildfire White Oak Flat, Alleghany, Virginia
 
 **Source:** NASA
 
@@ -161,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Wildfire Greene - Caney Creek Lane, Greene, Tennessee
+### 9. Wildfire Greene - Caney Creek Lane, Greene, Tennessee
 
 **Source:** NASA
 

@@ -1,138 +1,139 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-26 02:07:50
+**Last Update:** 2026-11-26 08:14:46
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Much shorter version of GRH Lean verification from Anthropic
+### 1. Qualcomm's Oryon 3 Reaches the Top
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/lsernau/grh-lean">https://github.com/lsernau/grh-lean</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50648050">https://news.ycombinator.com/item?id=50648050</a></p>
-<p>Points: 40</p>
-<p># Comments: 13</p>
+<p>Article URL: <a href="https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top">https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50651158">https://news.ycombinator.com/item?id=50651158</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://github.com/lsernau/grh-lean](https://github.com/lsernau/grh-lean)
+🔗 **Read more:** [https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top](https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top)
 
 ---
 
-### 2. Defang Security Incident
+### 2. OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://defang.io/blog/post/security-incident-november-2026/">https://defang.io/blog/post/security-incident-november-2026/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50648035">https://news.ycombinator.com/item?id=50648035</a></p>
-<p>Points: 22</p>
-<p># Comments: 5</p>
+<p>Article URL: <a href="https://twitter.com/thsottiaux/status/2125784147889393806">https://twitter.com/thsottiaux/status/2125784147889393806</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50651117">https://news.ycombinator.com/item?id=50651117</a></p>
+<p>Points: 15</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://defang.io/blog/post/security-incident-november-2026/](https://defang.io/blog/post/security-incident-november-2026/)
+🔗 **Read more:** [https://twitter.com/thsottiaux/status/2125784147889393806](https://twitter.com/thsottiaux/status/2125784147889393806)
 
 ---
 
-### 3. The New York Times tells photographers not to use the latest Photoshop
+### 3. Show HN: Olumino, a Markdown notes and spaced repetition app
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.dpreview.com/news/new-york-times-adobe-photoshop-2027-restriction-ai/">https://www.dpreview.com/news/new-york-times-adobe-photoshop-2027-restriction-ai/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50647673">https://news.ycombinator.com/item?id=50647673</a></p>
-<p>Points: 25</p>
-<p># Comments: 10</p>
+<p>I was inspired by Mochi, but wanted to make something that worked a little differently.<p>I also added Japanese flashcard support, including kana readings, for anyone learning the language.<p>I’m a CS student building this in my free time, so I’d love to hear what people think!</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50651099">https://news.ycombinator.com/item?id=50651099</a></p>
+<p>Points: 4</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://www.dpreview.com/news/new-york-times-adobe-photoshop-2027-restriction-ai/](https://www.dpreview.com/news/new-york-times-adobe-photoshop-2027-restriction-ai/)
+🔗 **Read more:** [https://olumino.app](https://olumino.app)
 
 ---
 
-### 4. Poundland collapses putting 11,000 jobs at risk
+### 4. UK government set to publish new treaties agreed with EU
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The discount chain has fallen into administration after its owners failed to find a buyer.
+The BBC understands the treaties contain a 10-year termination clause to reimburse costs of any need to rebuild border checks infrastructure.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Why has Poundland collapsed and what happens next?
+### 5. US approves SpaceX plan to send a million data satellites to space
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The retail chain has collapsed just one year after being bought for £1 by an American firm.
+The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/ckregn0gq2ydo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/ckregn0gq2ydo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. US announces new tariff proposals on EU, China, and other trade partners
+### 6. Stalking law simplified to become one offence
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The new levies would hit many of America's biggest trading partners, including China and the EU.
+The new stalking offence will be introduced after a review found existing legislation was confusing.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c8lydnlkq7xno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c8lydnlkq7xno?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Winter rains threaten 1,000 Gaza shelter sites, councils warn
+### 7. Racecourse office blown away in Brazil
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-About 200,000 tents need replacing, Gaza’s municipalities say, as the EU urges Israel to reopen all crossings.
+A powerful storm shattered windows and sent debris flying inside a racetrack office in Brazil.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/25/winter-rains-threaten-1000-gaza-shelter-sites-councils-warn?traffic_source=rss](https://www.aljazeera.com/news/2026/11/25/winter-rains-threaten-1000-gaza-shelter-sites-councils-warn?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/26/racecourse-office-blown-away-in-brazil?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/26/racecourse-office-blown-away-in-brazil?traffic_source=rss)
 
 ---
 
-### 8. US Education Department probes Virginia schools after sexual abuse scandal
+### 8. Colombian president taunts arrested supermarket hostage-takers
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Virginia schools face scrutiny after revelations of abuse and widespread failures in mandatory staff background checks.
+Colombia’s president has confronted the men who held 76 people hostage at a Cartagena supermarket.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/25/us-education-department-probes-virginia-schools-after-sexual-abuse-scandal?traffic_source=rss](https://www.aljazeera.com/news/2026/11/25/us-education-department-probes-virginia-schools-after-sexual-abuse-scandal?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/26/colombian-president-taunts-arrested-supermarket-hostage-takers?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/26/colombian-president-taunts-arrested-supermarket-hostage-takers?traffic_source=rss)
 
 ---
 
-### 9. Baby Aliyah steals the show during Australian Senate debate
+### 9. Anthropic CEO Amodei denies wanting humanity to ‘surrender’ free will to AI
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Australian Senator Fatima Payman addressed the Senate with her six-month-old daughter, Aliyah, in her arms
+Dario Amodei&#039;s remarks come amid predictions that AI may soon match or surpass human intelligence.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/25/baby-aliyah-steals-the-show-during-australian-senate-debate?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/25/baby-aliyah-steals-the-show-during-australian-senate-debate?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/11/26/anthropic-ceo-amodei-denies-wanting-humanity-to-surrender-free-will-to-ai?traffic_source=rss](https://www.aljazeera.com/economy/2026/11/26/anthropic-ceo-amodei-denies-wanting-humanity-to-surrender-free-will-to-ai?traffic_source=rss)
 
 ---
 

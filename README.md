@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-27 03:03:12
+**Last Update:** 2026-11-27 03:27:28
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. AI made self-hosting fun again
+### 1. Novita, StreamLake, etc. are ByteDance Ark wrappers
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://kendell.dev/blog/arkwrapper/">https://kendell.dev/blog/arkwrapper/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50660273">https://news.ycombinator.com/item?id=50660273</a></p>
+<p>Points: 12</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://kendell.dev/blog/arkwrapper/](https://kendell.dev/blog/arkwrapper/)
+
+---
+
+### 2. AI made self-hosting fun again
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://janlukas.blog/posts/ai-self-hosting">https://janlukas.blog/posts/ai-self-hosting</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50660180">https://news.ycombinator.com/item?id=50660180</a></p>
-<p>Points: 117</p>
-<p># Comments: 68</p>
+<p>Points: 163</p>
+<p># Comments: 94</p>
 
 🔗 **Read more:** [https://janlukas.blog/posts/ai-self-hosting](https://janlukas.blog/posts/ai-self-hosting)
 
 ---
 
-### 2. Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad
+### 3. Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/">https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50659841">https://news.ycombinator.com/item?id=50659841</a></p>
-<p>Points: 171</p>
-<p># Comments: 28</p>
+<p>Points: 192</p>
+<p># Comments: 33</p>
 
 🔗 **Read more:** [https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/](https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/)
-
----
-
-### 3. Company Culture = Slack Emoji ÷ √Headcount
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://lia.mg/posts/measuring-company-culture-with-slack-emoji/">https://lia.mg/posts/measuring-company-culture-with-slack-emoji/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50659640">https://news.ycombinator.com/item?id=50659640</a></p>
-<p>Points: 56</p>
-<p># Comments: 5</p>
-
-🔗 **Read more:** [https://lia.mg/posts/measuring-company-culture-with-slack-emoji/](https://lia.mg/posts/measuring-company-culture-with-slack-emoji/)
 
 ---
 

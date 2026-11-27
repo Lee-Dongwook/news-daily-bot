@@ -1,90 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-27 03:27:28
+**Last Update:** 2026-11-27 10:57:28
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Novita, StreamLake, etc. are ByteDance Ark wrappers
+### 1. Ladybird browser's first downloadable alpha is surprisingly capable
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://kendell.dev/blog/arkwrapper/">https://kendell.dev/blog/arkwrapper/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50660273">https://news.ycombinator.com/item?id=50660273</a></p>
-<p>Points: 12</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/">https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50663666">https://news.ycombinator.com/item?id=50663666</a></p>
+<p>Points: 7</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://kendell.dev/blog/arkwrapper/](https://kendell.dev/blog/arkwrapper/)
+🔗 **Read more:** [https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/](https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/)
 
 ---
 
-### 2. AI made self-hosting fun again
+### 2. The group chat where your AI talks behind your back
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://janlukas.blog/posts/ai-self-hosting">https://janlukas.blog/posts/ai-self-hosting</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50660180">https://news.ycombinator.com/item?id=50660180</a></p>
-<p>Points: 163</p>
-<p># Comments: 94</p>
+<p>Article URL: <a href="https://construct22.com/">https://construct22.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50663595">https://news.ycombinator.com/item?id=50663595</a></p>
+<p>Points: 25</p>
+<p># Comments: 6</p>
 
-🔗 **Read more:** [https://janlukas.blog/posts/ai-self-hosting](https://janlukas.blog/posts/ai-self-hosting)
+🔗 **Read more:** [https://construct22.com/](https://construct22.com/)
 
 ---
 
-### 3. Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad
+### 3. The need for a formally verifiable mainstream programming language
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/">https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50659841">https://news.ycombinator.com/item?id=50659841</a></p>
-<p>Points: 192</p>
-<p># Comments: 33</p>
+<p>Article URL: <a href="https://blainehansen.me/post/mainstream-verifiable-language/">https://blainehansen.me/post/mainstream-verifiable-language/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50663089">https://news.ycombinator.com/item?id=50663089</a></p>
+<p>Points: 82</p>
+<p># Comments: 51</p>
 
-🔗 **Read more:** [https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/](https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/)
+🔗 **Read more:** [https://blainehansen.me/post/mainstream-verifiable-language/](https://blainehansen.me/post/mainstream-verifiable-language/)
 
 ---
 
-### 4. Huntingdon train attacker found guilty of all 14 counts of attempted murder
+### 4. US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Anthony Williams, 33, is convicted of 10 attacks on a train and four in Peterborough and London.
+Ukraine's president voices frustration with US and says it is "strange" Trump has described Vladimir Putin as a friend.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck053j37yr9lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck053j37yr9lo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Knifeman told doctor his psychosis drugs weren't working days before Huntingdon attack
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Now his trial has concluded over the LNER train attack, we can report Anthony Williams' long history of criminality.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck62p4pzg4qyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck62p4pzg4qyo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Zelensky questions 'strange' Trump-Putin friendship in BBC interview
+### 5. Watch: Zelensky on Trump and Putin
 
 **Source:** BBC
 
@@ -97,42 +84,55 @@ The Ukrainian president tells the BBC that Russia's Vladimir Putin should not be
 
 ---
 
-### 7. Israeli settlers damage Palestinian family’s homes in West Bank attack
+### 6. 'I wouldn't be here today without you': Student's praise for man who stopped train attacker
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-The Tubasi family was forced out months ago and has been denied a return by settlers despite an Israeli court order.
+Astrid credits Stephen Crean with saving her life during the Huntingdon train attack last year.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/26/israeli-settlers-damage-palestinian-familys-homes-in-west-bank-attack?traffic_source=rss](https://www.aljazeera.com/news/2026/11/26/israeli-settlers-damage-palestinian-familys-homes-in-west-bank-attack?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck792lq4xrero?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck792lq4xrero?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. In Canada, Quebec’s religious symbols ban faces a Supreme Court test
+### 7. Can the Mecca pact turn its collective defence promise into real support?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Canada’s top court weighs Bill 21, the Quebec law that shapes where Muslim women can work and where they feel welcome.
+Pakistan, Saudi Arabia and Turkiye meet in Islamabad as Houthi attacks on the kingdom continue and Iran talks stay open.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/11/26/in-canada-quebecs-religious-symbols-ban-faces-a-supreme-court-test?traffic_source=rss](https://www.aljazeera.com/features/2026/11/26/in-canada-quebecs-religious-symbols-ban-faces-a-supreme-court-test?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news-analysis/2026/11/27/can-the-mecca-pact-turn-its-collective-defence-promise-into-real-support?traffic_source=rss](https://www.aljazeera.com/news-analysis/2026/11/27/can-the-mecca-pact-turn-its-collective-defence-promise-into-real-support?traffic_source=rss)
 
 ---
 
-### 9. Report: CIA tortured more people with waterboarding than US agency admitted
+### 8. Hakeem Jeffries has disarmed a progressive revolt, but can he deliver?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A New York Times report lends credence to long-held belief that torture method was more widely used than acknowledged.
+The presumptive House speaker&#039;s political pragmatism will be tested by divisions over healthcare, Israel and Iran.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/26/report-cia-tortured-more-people-with-waterboarding-than-us-agency-admitted?traffic_source=rss](https://www.aljazeera.com/news/2026/11/26/report-cia-tortured-more-people-with-waterboarding-than-us-agency-admitted?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/11/27/hakeem-jeffries-has-disarmed-a-progressive-revolt-but-can-he-deliver?traffic_source=rss](https://www.aljazeera.com/opinions/2026/11/27/hakeem-jeffries-has-disarmed-a-progressive-revolt-but-can-he-deliver?traffic_source=rss)
+
+---
+
+### 9. Western sanctions on Israeli settlers serve to shield the Israeli state
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The settler takeover in Jericho exposes the inadequacy of sanctions targeting only settlers and their organisations.
+
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/11/27/western-sanctions-on-israeli-settlers-serve-to-shield-the-israeli-state?traffic_source=rss](https://www.aljazeera.com/opinions/2026/11/27/western-sanctions-on-israeli-settlers-serve-to-shield-the-israeli-state?traffic_source=rss)
 
 ---
 

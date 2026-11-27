@@ -1,77 +1,29 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-27 10:57:28
+**Last Update:** 2026-11-27 12:21:15
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Ladybird browser's first downloadable alpha is surprisingly capable
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/">https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50663666">https://news.ycombinator.com/item?id=50663666</a></p>
-<p>Points: 7</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/](https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/)
-
----
-
-### 2. The group chat where your AI talks behind your back
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://construct22.com/">https://construct22.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50663595">https://news.ycombinator.com/item?id=50663595</a></p>
-<p>Points: 25</p>
-<p># Comments: 6</p>
-
-🔗 **Read more:** [https://construct22.com/](https://construct22.com/)
-
----
-
-### 3. The need for a formally verifiable mainstream programming language
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://blainehansen.me/post/mainstream-verifiable-language/">https://blainehansen.me/post/mainstream-verifiable-language/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50663089">https://news.ycombinator.com/item?id=50663089</a></p>
-<p>Points: 82</p>
-<p># Comments: 51</p>
-
-🔗 **Read more:** [https://blainehansen.me/post/mainstream-verifiable-language/](https://blainehansen.me/post/mainstream-verifiable-language/)
-
----
-
-### 4. US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC
+### 1. Zelensky criticises 'strange' Trump-Putin friendship in BBC interview
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Ukraine's president voices frustration with US and says it is "strange" Trump has described Vladimir Putin as a friend.
+Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Watch: Zelensky on Trump and Putin
+### 2. Watch: Zelensky on Trump and Putin
 
 **Source:** BBC
 
@@ -84,7 +36,7 @@ The Ukrainian president tells the BBC that Russia's Vladimir Putin should not be
 
 ---
 
-### 6. 'I wouldn't be here today without you': Student's praise for man who stopped train attacker
+### 3. 'I wouldn't be here today without you': Student's praise for man who stopped train attacker
 
 **Source:** BBC
 
@@ -97,46 +49,46 @@ Astrid credits Stephen Crean with saving her life during the Huntingdon train at
 
 ---
 
-### 7. Can the Mecca pact turn its collective defence promise into real support?
+### 4. Police bodycam shows rescue of man from burning car in US
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Pakistan, Saudi Arabia and Turkiye meet in Islamabad as Houthi attacks on the kingdom continue and Iran talks stay open.
+Dramatic police bodycam video shows the moment an officer and a passing motorist rescued a man inside a burning car
 
-🔗 **Read more:** [https://www.aljazeera.com/news-analysis/2026/11/27/can-the-mecca-pact-turn-its-collective-defence-promise-into-real-support?traffic_source=rss](https://www.aljazeera.com/news-analysis/2026/11/27/can-the-mecca-pact-turn-its-collective-defence-promise-into-real-support?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/27/police-bodycam-shows-rescue-of-man-from-burning-car-in-us?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/27/police-bodycam-shows-rescue-of-man-from-burning-car-in-us?traffic_source=rss)
 
 ---
 
-### 8. Hakeem Jeffries has disarmed a progressive revolt, but can he deliver?
+### 5. Deadly floods leave parts of Ecuador under water
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The presumptive House speaker&#039;s political pragmatism will be tested by divisions over healthcare, Israel and Iran.
+Deadly floods have submerged homes, businesses and roads across Ecuador.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/11/27/hakeem-jeffries-has-disarmed-a-progressive-revolt-but-can-he-deliver?traffic_source=rss](https://www.aljazeera.com/opinions/2026/11/27/hakeem-jeffries-has-disarmed-a-progressive-revolt-but-can-he-deliver?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/27/deadly-floods-leave-parts-of-ecuador-under-water?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/27/deadly-floods-leave-parts-of-ecuador-under-water?traffic_source=rss)
 
 ---
 
-### 9. Western sanctions on Israeli settlers serve to shield the Israeli state
+### 6. New Zealand election results set up tricky talks for conservative incumbent
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The settler takeover in Jericho exposes the inadequacy of sanctions targeting only settlers and their organisations.
+Conservative PM Luxon and populist coalition partners face negotiations with centrist kingmaker.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/11/27/western-sanctions-on-israeli-settlers-serve-to-shield-the-israeli-state?traffic_source=rss](https://www.aljazeera.com/opinions/2026/11/27/western-sanctions-on-israeli-settlers-serve-to-shield-the-israeli-state?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/27/new-zealand-election-results-set-up-tricky-talks-for-conservative-incumbent?traffic_source=rss](https://www.aljazeera.com/news/2026/11/27/new-zealand-election-results-set-up-tricky-talks-for-conservative-incumbent?traffic_source=rss)
 
 ---
 
-### 10. Wildfire Little Ridge, Highland, Virginia
+### 7. Wildfire Little Ridge, Highland, Virginia
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Wildfires
 
 ---
 
-### 11. Wildfire White Oak Flat, Alleghany, Virginia
+### 8. Wildfire White Oak Flat, Alleghany, Virginia
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Wildfire Greene - Caney Creek Lane, Greene, Tennessee
+### 9. Wildfire Greene - Caney Creek Lane, Greene, Tennessee
 
 **Source:** NASA
 

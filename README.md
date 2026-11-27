@@ -1,16 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-27 21:26:04
+**Last Update:** 2026-11-27 22:35:00
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Watch: What has happened to DWP online services?
+### 1. The NFL Player Who Left Football for Math
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.nytimes.com/2026/11/26/science/john-urschel-ai-nfl-math.html">https://www.nytimes.com/2026/11/26/science/john-urschel-ai-nfl-math.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50669963">https://news.ycombinator.com/item?id=50669963</a></p>
+<p>Points: 9</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://www.nytimes.com/2026/11/26/science/john-urschel-ai-nfl-math.html](https://www.nytimes.com/2026/11/26/science/john-urschel-ai-nfl-math.html)
+
+---
+
+### 2. Convex skills send the user's app idea to a remote server without telling them
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/convex/convex-backend-skill/issues/64">https://github.com/convex/convex-backend-skill/issues/64</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50669765">https://news.ycombinator.com/item?id=50669765</a></p>
+<p>Points: 24</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://github.com/convex/convex-backend-skill/issues/64](https://github.com/convex/convex-backend-skill/issues/64)
+
+---
+
+### 3. I'm Scared of AI
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://thesoapbox.email/archive/3">https://thesoapbox.email/archive/3</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50669561">https://news.ycombinator.com/item?id=50669561</a></p>
+<p>Points: 141</p>
+<p># Comments: 144</p>
+
+🔗 **Read more:** [https://thesoapbox.email/archive/3](https://thesoapbox.email/archive/3)
+
+---
+
+### 4. Millions lose access to benefits and pensions services after 'cyber incident'
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The Department for Work and Pensions says some of its services have been take offline as a precaution.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c8wy5p6pv2e2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c8wy5p6pv2e2o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Watch: What has happened to DWP online services?
 
 **Source:** BBC
 
@@ -23,7 +84,7 @@ The work and pensions secretary has said an investigation is looking into a "ser
 
 ---
 
-### 2. Zelensky criticises 'strange' Trump-Putin friendship in BBC interview
+### 6. Zelensky criticises 'strange' Trump-Putin friendship in BBC interview
 
 **Source:** BBC
 
@@ -36,59 +97,46 @@ Ukraine's president voices frustration with US and says it is not pushing Russia
 
 ---
 
-### 3. John Simpson: Ukraine is bowed but still unbroken as freezing weather sets in
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Ukraine settles in for another devastating winter as the questions persists: how will it all end?
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 4. Spain’s Pedro Sanchez bets on left-wing voting surge to defy election polls
+### 7. Mexico files complaint with US over DEA tip line on alleged drug dealers
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Prime Minister Pedro Sanchez makes last bid to beat right-wing parties before Spanish vote on Sunday.
+Tensions rise over DEA tip line, with Mexico emphasising respect for its sovereignty amidst growing bilateral discord.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/27/spains-pedro-sanchez-bets-on-left-wing-voting-surge-to-defy-election-polls?traffic_source=rss](https://www.aljazeera.com/news/2026/11/27/spains-pedro-sanchez-bets-on-left-wing-voting-surge-to-defy-election-polls?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/27/mexico-files-complaint-with-us-over-tip-line-on-alleged-drug-traffickers?traffic_source=rss](https://www.aljazeera.com/news/2026/11/27/mexico-files-complaint-with-us-over-tip-line-on-alleged-drug-traffickers?traffic_source=rss)
 
 ---
 
-### 5. ‘Bear trap’: Ukraine hails new operation as Russian casualties mount
+### 8. Spanish rescuers treat migrants as hundreds arrive in Canary Islands
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Russian assaults met with stout defence along the front as Western powers discuss ceasefire proposals.
+Spain&#039;s Military Emergencies Unit has been sent to treat migrants brought ashore on the island of El Hierro
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/27/ukraine-rejects-unfavourable-compromises-as-it-frees-more-territory?traffic_source=rss](https://www.aljazeera.com/news/2026/11/27/ukraine-rejects-unfavourable-compromises-as-it-frees-more-territory?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/27/spanish-rescuers-treat-migrants-as-hundreds-arrive-in-canary-islands?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/27/spanish-rescuers-treat-migrants-as-hundreds-arrive-in-canary-islands?traffic_source=rss)
 
 ---
 
-### 6. Elon Musk gets the greenlight from the US to launch one million satellites
+### 9. Kyiv offers Black Sea ceasefire to protect grain exports
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Elon Musk wants to move AI data centres into space, where near-constant sunlight could help power them.
+The proposal comes as President Zelenskyy criticises Trump’s ‘friendship’ with Putin.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/27/elon-musk-gets-the-greenlight-from-the-us-to-launch-one-million-satellites?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/27/elon-musk-gets-the-greenlight-from-the-us-to-launch-one-million-satellites?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/27/kyiv-offers-black-sea-ceasefire-as-putin-expands-russias-navy?traffic_source=rss](https://www.aljazeera.com/news/2026/11/27/kyiv-offers-black-sea-ceasefire-as-putin-expands-russias-navy?traffic_source=rss)
 
 ---
 
-### 7. Wildfire Little Ridge, Highland, Virginia
+### 10. Wildfire Little Ridge, Highland, Virginia
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Wildfires
 
 ---
 
-### 8. Wildfire White Oak Flat, Alleghany, Virginia
+### 11. Wildfire White Oak Flat, Alleghany, Virginia
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Wildfires
 
 ---
 
-### 9. Wildfire Greene - Caney Creek Lane, Greene, Tennessee
+### 12. Wildfire Greene - Caney Creek Lane, Greene, Tennessee
 
 **Source:** NASA
 

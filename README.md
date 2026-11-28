@@ -1,90 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-28 05:33:15
+**Last Update:** 2026-11-28 13:26:27
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Woman evicted after landlord's AI assistant told her she could delay rent
+### 1. FastLanes: Next-gen File Format [pdf]
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai">https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50673521">https://news.ycombinator.com/item?id=50673521</a></p>
-<p>Points: 10</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://research.vu.nl/files/447013431/afroozehphdthesis%20-%2069280d90f0bfd.pdf">https://research.vu.nl/files/447013431/afroozehphdthesis%20-%2069280d90f0bfd.pdf</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50675195">https://news.ycombinator.com/item?id=50675195</a></p>
+<p>Points: 9</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai](https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai)
+🔗 **Read more:** [https://research.vu.nl/files/447013431/afroozehphdthesis%20-%2069280d90f0bfd.pdf](https://research.vu.nl/files/447013431/afroozehphdthesis%20-%2069280d90f0bfd.pdf)
 
 ---
 
-### 2. Alaska seized his plane over some beers. He is asking the Supreme Court for help
+### 2. Knuth: Moratorium on Error Reports
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.reuters.com/legal/government/alaska-seized-his-seaplane-over-some-beers-he-is-asking-us-supreme-court-help-2026-11-27/">https://www.reuters.com/legal/government/alaska-seized-his-seaplane-over-some-beers-he-is-asking-us-supreme-court-help-2026-11-27/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50673444">https://news.ycombinator.com/item?id=50673444</a></p>
-<p>Points: 15</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www-cs-faculty.stanford.edu/~knuth/moratorium.html">https://www-cs-faculty.stanford.edu/~knuth/moratorium.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50674452">https://news.ycombinator.com/item?id=50674452</a></p>
+<p>Points: 75</p>
+<p># Comments: 35</p>
 
-🔗 **Read more:** [https://www.reuters.com/legal/government/alaska-seized-his-seaplane-over-some-beers-he-is-asking-us-supreme-court-help-2026-11-27/](https://www.reuters.com/legal/government/alaska-seized-his-seaplane-over-some-beers-he-is-asking-us-supreme-court-help-2026-11-27/)
+🔗 **Read more:** [https://www-cs-faculty.stanford.edu/~knuth/moratorium.html](https://www-cs-faculty.stanford.edu/~knuth/moratorium.html)
 
 ---
 
-### 3. Passkey blues
+### 3. Unkernel: Real Linux kernel, compiled to WebAssembly
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://ssg.dev/passkey-blues/">https://ssg.dev/passkey-blues/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50672835">https://news.ycombinator.com/item?id=50672835</a></p>
-<p>Points: 26</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://unkernel.dev">https://unkernel.dev</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50674218">https://news.ycombinator.com/item?id=50674218</a></p>
+<p>Points: 278</p>
+<p># Comments: 68</p>
 
-🔗 **Read more:** [https://ssg.dev/passkey-blues/](https://ssg.dev/passkey-blues/)
+🔗 **Read more:** [https://unkernel.dev](https://unkernel.dev)
 
 ---
 
-### 4. Millions lose access to benefits and pensions services after 'cyber incident'
+### 4. Pensions and benefits services still down after 'cyber incident'
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The Department for Work and Pensions says some of its services were taken offline as a precaution.
+The UK's former chief technology officer says the Department for Work and Pensions may have been hit by hackers, but the government has not confirmed that.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c8wy5p6pv2e2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c8wy5p6pv2e2o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Watch: What has happened to DWP online services?
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The work and pensions secretary has said an investigation is looking into a "serious cyber incident" affecting his government department.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cqm251rv0vyyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cqm251rv0vyyo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Catherine's emotional cancer documentary strips away the stiff upper lip
+### 5. Catherine's emotional cancer documentary strips away the stiff upper lip
 
 **Source:** BBC
 
@@ -97,42 +84,55 @@ The Princess of Wales has made a documentary, Heal, describing her cancer experi
 
 ---
 
-### 7. Thousands of Puerto Ricans join ‘Day of National Outrage’ protest
+### 6. Two staff killed in Israeli strike on Gaza medical clinic, MSF says
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-Anger and frustration erupt over record-high electricity rates, surging cost of living and deteriorating basic services.
+The Israeli military says it targeted "Hamas terrorists" in the strike which has been condemned by the World Health Organization.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/28/thousands-of-puerto-ricans-join-day-of-national-outrage-protest?traffic_source=rss](https://www.aljazeera.com/news/2026/11/28/thousands-of-puerto-ricans-join-day-of-national-outrage-protest?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. Francesca Albanese seeks apology from Costa Rica after entry ban
+### 7. Gaza’s chess players survive a genocide and rebuild a community
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-UN Special Rapporteur Francesca Albanese accuses Costa Rican authorities of defamation after being denied entry.
+Gaza&#039;s chess players are returning to the sport after three years of genocide.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/28/francesca-albanese-seeks-apology-from-costa-rica-after-entry-ban?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/28/francesca-albanese-seeks-apology-from-costa-rica-after-entry-ban?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/11/28/gazas-chess-players-survive-a-genocide-and-rebuild-a-community?traffic_source=rss](https://www.aljazeera.com/features/2026/11/28/gazas-chess-players-survive-a-genocide-and-rebuild-a-community?traffic_source=rss)
 
 ---
 
-### 9. Iran war live: Italy says drone in deadly Kuwait attack was made in Iran
+### 8. Yemen government forces hit Houthi positions as UN warns of hunger crisis
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Italian Foreign Minister Antonio Tajani says the drone behind the deadly Kuwait strike was made in Iran.
+About 1.8 million people face emergency levels of hunger in government-held areas, according to the UN.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/11/28/iran-war-live-italy-says-drone-in-deadly-kuwait-attack-was-made-in-iran?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/11/28/iran-war-live-italy-says-drone-in-deadly-kuwait-attack-was-made-in-iran?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/28/yemen-governmen-forces-hit-houthi-positions-as-un-warns-of-hunger-crisis?traffic_source=rss](https://www.aljazeera.com/news/2026/11/28/yemen-governmen-forces-hit-houthi-positions-as-un-warns-of-hunger-crisis?traffic_source=rss)
+
+---
+
+### 9. Spain faces political shift as far right gains ground
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Spain faces political shift as far right gains ground
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/28/spain-faces-political-shift-as-far-right-gains-ground?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/28/spain-faces-political-shift-as-far-right-gains-ground?traffic_source=rss)
 
 ---
 

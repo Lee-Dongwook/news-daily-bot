@@ -1,16 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-28 04:46:13
+**Last Update:** 2026-11-28 05:33:15
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Millions lose access to benefits and pensions services after 'cyber incident'
+### 1. Woman evicted after landlord's AI assistant told her she could delay rent
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai">https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50673521">https://news.ycombinator.com/item?id=50673521</a></p>
+<p>Points: 10</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai](https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai)
+
+---
+
+### 2. Alaska seized his plane over some beers. He is asking the Supreme Court for help
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.reuters.com/legal/government/alaska-seized-his-seaplane-over-some-beers-he-is-asking-us-supreme-court-help-2026-11-27/">https://www.reuters.com/legal/government/alaska-seized-his-seaplane-over-some-beers-he-is-asking-us-supreme-court-help-2026-11-27/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50673444">https://news.ycombinator.com/item?id=50673444</a></p>
+<p>Points: 15</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.reuters.com/legal/government/alaska-seized-his-seaplane-over-some-beers-he-is-asking-us-supreme-court-help-2026-11-27/](https://www.reuters.com/legal/government/alaska-seized-his-seaplane-over-some-beers-he-is-asking-us-supreme-court-help-2026-11-27/)
+
+---
+
+### 3. Passkey blues
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://ssg.dev/passkey-blues/">https://ssg.dev/passkey-blues/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50672835">https://news.ycombinator.com/item?id=50672835</a></p>
+<p>Points: 26</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://ssg.dev/passkey-blues/](https://ssg.dev/passkey-blues/)
+
+---
+
+### 4. Millions lose access to benefits and pensions services after 'cyber incident'
 
 **Source:** BBC
 
@@ -23,7 +71,7 @@ The Department for Work and Pensions says some of its services were taken offlin
 
 ---
 
-### 2. Watch: What has happened to DWP online services?
+### 5. Watch: What has happened to DWP online services?
 
 **Source:** BBC
 
@@ -36,7 +84,7 @@ The work and pensions secretary has said an investigation is looking into a "ser
 
 ---
 
-### 3. Catherine's emotional cancer documentary strips away the stiff upper lip
+### 6. Catherine's emotional cancer documentary strips away the stiff upper lip
 
 **Source:** BBC
 
@@ -49,7 +97,7 @@ The Princess of Wales has made a documentary, Heal, describing her cancer experi
 
 ---
 
-### 4. Thousands of Puerto Ricans join ‘Day of National Outrage’ protest
+### 7. Thousands of Puerto Ricans join ‘Day of National Outrage’ protest
 
 **Source:** Al Jazeera
 
@@ -62,7 +110,7 @@ Anger and frustration erupt over record-high electricity rates, surging cost of 
 
 ---
 
-### 5. Francesca Albanese seeks apology from Costa Rica after entry ban
+### 8. Francesca Albanese seeks apology from Costa Rica after entry ban
 
 **Source:** Al Jazeera
 
@@ -75,7 +123,7 @@ UN Special Rapporteur Francesca Albanese accuses Costa Rican authorities of defa
 
 ---
 
-### 6. Iran war live: Italy says drone in deadly Kuwait attack was made in Iran
+### 9. Iran war live: Italy says drone in deadly Kuwait attack was made in Iran
 
 **Source:** Al Jazeera
 
@@ -88,7 +136,7 @@ Italian Foreign Minister Antonio Tajani says the drone behind the deadly Kuwait 
 
 ---
 
-### 7. Wildfire Little Ridge, Highland, Virginia
+### 10. Wildfire Little Ridge, Highland, Virginia
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Wildfires
 
 ---
 
-### 8. Wildfire White Oak Flat, Alleghany, Virginia
+### 11. Wildfire White Oak Flat, Alleghany, Virginia
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Wildfires
 
 ---
 
-### 9. Wildfire Greene - Caney Creek Lane, Greene, Tennessee
+### 12. Wildfire Greene - Caney Creek Lane, Greene, Tennessee
 
 **Source:** NASA
 

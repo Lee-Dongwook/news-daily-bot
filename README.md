@@ -1,77 +1,29 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-27 22:35:00
+**Last Update:** 2026-11-28 04:46:13
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. The NFL Player Who Left Football for Math
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.nytimes.com/2026/11/26/science/john-urschel-ai-nfl-math.html">https://www.nytimes.com/2026/11/26/science/john-urschel-ai-nfl-math.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50669963">https://news.ycombinator.com/item?id=50669963</a></p>
-<p>Points: 9</p>
-<p># Comments: 3</p>
-
-🔗 **Read more:** [https://www.nytimes.com/2026/11/26/science/john-urschel-ai-nfl-math.html](https://www.nytimes.com/2026/11/26/science/john-urschel-ai-nfl-math.html)
-
----
-
-### 2. Convex skills send the user's app idea to a remote server without telling them
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/convex/convex-backend-skill/issues/64">https://github.com/convex/convex-backend-skill/issues/64</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50669765">https://news.ycombinator.com/item?id=50669765</a></p>
-<p>Points: 24</p>
-<p># Comments: 3</p>
-
-🔗 **Read more:** [https://github.com/convex/convex-backend-skill/issues/64](https://github.com/convex/convex-backend-skill/issues/64)
-
----
-
-### 3. I'm Scared of AI
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://thesoapbox.email/archive/3">https://thesoapbox.email/archive/3</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50669561">https://news.ycombinator.com/item?id=50669561</a></p>
-<p>Points: 141</p>
-<p># Comments: 144</p>
-
-🔗 **Read more:** [https://thesoapbox.email/archive/3](https://thesoapbox.email/archive/3)
-
----
-
-### 4. Millions lose access to benefits and pensions services after 'cyber incident'
+### 1. Millions lose access to benefits and pensions services after 'cyber incident'
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The Department for Work and Pensions says some of its services have been take offline as a precaution.
+The Department for Work and Pensions says some of its services were taken offline as a precaution.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c8wy5p6pv2e2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c8wy5p6pv2e2o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Watch: What has happened to DWP online services?
+### 2. Watch: What has happened to DWP online services?
 
 **Source:** BBC
 
@@ -84,59 +36,59 @@ The work and pensions secretary has said an investigation is looking into a "ser
 
 ---
 
-### 6. Zelensky criticises 'strange' Trump-Putin friendship in BBC interview
+### 3. Catherine's emotional cancer documentary strips away the stiff upper lip
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.
+The Princess of Wales has made a documentary, Heal, describing her cancer experience in her own words.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6zxvy9j0wpjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6zxvy9j0wpjo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Mexico files complaint with US over DEA tip line on alleged drug dealers
+### 4. Thousands of Puerto Ricans join ‘Day of National Outrage’ protest
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Tensions rise over DEA tip line, with Mexico emphasising respect for its sovereignty amidst growing bilateral discord.
+Anger and frustration erupt over record-high electricity rates, surging cost of living and deteriorating basic services.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/27/mexico-files-complaint-with-us-over-tip-line-on-alleged-drug-traffickers?traffic_source=rss](https://www.aljazeera.com/news/2026/11/27/mexico-files-complaint-with-us-over-tip-line-on-alleged-drug-traffickers?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/28/thousands-of-puerto-ricans-join-day-of-national-outrage-protest?traffic_source=rss](https://www.aljazeera.com/news/2026/11/28/thousands-of-puerto-ricans-join-day-of-national-outrage-protest?traffic_source=rss)
 
 ---
 
-### 8. Spanish rescuers treat migrants as hundreds arrive in Canary Islands
+### 5. Francesca Albanese seeks apology from Costa Rica after entry ban
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Spain&#039;s Military Emergencies Unit has been sent to treat migrants brought ashore on the island of El Hierro
+UN Special Rapporteur Francesca Albanese accuses Costa Rican authorities of defamation after being denied entry.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/27/spanish-rescuers-treat-migrants-as-hundreds-arrive-in-canary-islands?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/27/spanish-rescuers-treat-migrants-as-hundreds-arrive-in-canary-islands?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/28/francesca-albanese-seeks-apology-from-costa-rica-after-entry-ban?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/28/francesca-albanese-seeks-apology-from-costa-rica-after-entry-ban?traffic_source=rss)
 
 ---
 
-### 9. Kyiv offers Black Sea ceasefire to protect grain exports
+### 6. Iran war live: Italy says drone in deadly Kuwait attack was made in Iran
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The proposal comes as President Zelenskyy criticises Trump’s ‘friendship’ with Putin.
+Italian Foreign Minister Antonio Tajani says the drone behind the deadly Kuwait strike was made in Iran.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/27/kyiv-offers-black-sea-ceasefire-as-putin-expands-russias-navy?traffic_source=rss](https://www.aljazeera.com/news/2026/11/27/kyiv-offers-black-sea-ceasefire-as-putin-expands-russias-navy?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/11/28/iran-war-live-italy-says-drone-in-deadly-kuwait-attack-was-made-in-iran?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/11/28/iran-war-live-italy-says-drone-in-deadly-kuwait-attack-was-made-in-iran?traffic_source=rss)
 
 ---
 
-### 10. Wildfire Little Ridge, Highland, Virginia
+### 7. Wildfire Little Ridge, Highland, Virginia
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Wildfires
 
 ---
 
-### 11. Wildfire White Oak Flat, Alleghany, Virginia
+### 8. Wildfire White Oak Flat, Alleghany, Virginia
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Wildfire Greene - Caney Creek Lane, Greene, Tennessee
+### 9. Wildfire Greene - Caney Creek Lane, Greene, Tennessee
 
 **Source:** NASA
 
